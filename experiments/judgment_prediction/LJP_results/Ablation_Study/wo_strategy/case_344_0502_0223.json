@@ -1,0 +1,1563 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，男，汉族，XXX文化程度，户籍XXXXX。因涉嫌犯销售假药罪，于2018年9月28日被吉林省梨树县人民检察院提起公诉。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "吉林省梨树县人民检察院  \n起 诉 书  \n\n梨检刑检刑诉〔2018〕250号  \n\n被告人黄某，男，汉族，XXX文化程度，户籍XXXXX。因涉嫌犯销售假药罪，于2018年9月28日被吉林省梨树县人民检察院提起公诉。  \n\n本案由吉林省梨树县人民检察院侦查终结，以被告人黄某涉嫌销售假药罪，于2018年9月28日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年6月至2017年春，被告人黄某从一个无资质手续、无进货记录的自称叫张某的人手中以每盒5元钱的价格购进药品百痛消冬虫草蝮蛇胶囊10盒、虫草活骨肽胶囊120盒、医圣痛康虫草蝮蛇胶囊10盒、医圣痛康乌蛇木瓜胶囊30盒，共计170盒。被告人黄某明知购进的是假药仍以每盒15元至25元不等价格销售160余盒，获利2000.00余元。  \n\n认定上述事实的证据如下：  \n1.书证：顺合大药房销售的药品照片，证明被告人黄某销售的假药种类及外观；  \n2.书证：顺合大药房照片，证明涉案药房的经营场所情况；  \n3.书证：顺合大药房营业执照（有效期至2023年12月31日），证明该药房的合法经营资质且在有效期内；  \n4.书证：药品经营许可证（有效期至2024年6月30日），证明该药房具备药品销售资格且在有效期内；  \n5.书证：公安部内部传真电报协查工作的通知（编号：公药协〔2022〕15号），证明相关部门对假药案件的协查要求及程序合法性；  \n6.鉴定意见：晋中市食品药品监督管理局鉴定意见（晋食药鉴〔2022〕38号），证明涉案药品为假药，鉴定机构具备法定资质，依据《药品管理法》第98条作出；  \n7.鉴定意见：晋中市食品药品监督管理局认定意见（晋食药认〔2022〕39号），明确涉案药品按假药论处，依据《药品管理法》第98条和《刑法》第141条；  \n8.书证：涉案物品鉴定明细（附查扣清单及执法人员签名），列明被查扣的假药种类及数量，来源合法；  \n9.书证：依法认定应按假药论处的55种产品信息表（国药监〔2021〕45号文附件），证明涉案药品属于国家规定的假药范畴；  \n10.书证：检测报告（晋药检〔2022〕156号），证明涉案药品的成分不符合国家标准（GB/T 29602-2013），检测机构具有CMA资质；  \n11.书证：关于梨树县市场监督管理局办案检品情况说明（梨市监〔2022〕27号），说明案件查办过程中检品的来源及合法处理流程；  \n12.书证：关于协查\"曾用名医圣痛康（虫草蝮蛇胶囊）有关情况的复函（吉药监函〔2022〕89号），证明相关部门对涉案药品的协查结果及程序合法；  \n13.书证：医圣痛康说明书，证明涉案药品的包装及宣称功效；  \n14.书证：违法犯罪经历查询单（梨公刑查〔2022〕35号，查询日期2022年5月10日），证明被告人黄某的前科情况且信息时效有效；  \n15.证人证言：证人高某甲、高某乙、兰某、孟某、郭某、赵某的证言；  \n16.书证：提取笔录（附执法人员工作证复印件及查扣视频记录），证明执法人员在现场查扣假药的过程及数量符合法定程序。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人黄某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人黄某违反国家药品管理法规，明知是假药仍购进并销售，其行为触犯了《中华人民共和国刑法》第一百四十一条之规定，犯罪事实清楚，证据确实、充分，应当以销售假药罪追究其刑事责任。被告人黄某到案后如实供述犯罪事实，根据《中华人民共和国刑法》第六十七条第三款之规定，依法可以从轻处罚。建议判处被告人黄某有期徒刑XX，缓刑XX，并处罚金人民币XX元。非法所得人民币2000.00元，依法予以没收，上缴国库。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n吉林省梨树县人民法院  \n\n检  察  员  姜某  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人黄某，你从张某处购进药品时，是否查验过对方的药品经营许可证等资质证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有查验过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些药品是否经过正规药品检验机构的检验？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过检验。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些药品是否有正规的药品批准文号？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有批准文号。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些药品是否标注了生产厂家和批号？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了生产厂家和批号。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些药品标注的生产厂家是否真实存在？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些药品是否向消费者说明过是未经检验的药品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有说明过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你从张某处购进药品时，对方是否明确告知过你这是未经检验的药品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "对方没有明确告知。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些药品时是否知道它们可能对人体健康造成危害？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能对人体健康有危害。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些药品时是否收到过消费者的不良反应投诉？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收到过投诉。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否有正规的进货发票？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有正规进货发票。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在正规药店货架上公开陈列销售？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在正规药店货架上公开陈列销售。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了\"国药准字\"等药品批准文号？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了\"国药准字\"字样。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了生产日期和有效期？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了生产日期和有效期。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了成分和适应症？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了成分和适应症。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了生产厂家的联系方式？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了生产厂家的联系方式。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了药品的禁忌症和不良反应？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了药品的禁忌症和不良反应。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了药品的用法用量？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了药品的用法用量。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了药品的贮藏条件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了药品的贮藏条件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品是否在包装上标注了药品的批准文号？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注了药品的批准文号。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的批准文号是否与正规药品的批准文号格式一致？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注的批准文号格式与正规药品一致。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的生产厂家地址是否真实存在？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的生产厂家名称是否与正规药品生产厂家名称相似？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注的生产厂家名称与正规药品生产厂家名称相似。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的生产厂家是否在国家药品监督管理局的合法药品生产企业名单中？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的药品名称是否与正规药品名称相似？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注的药品名称与正规药品名称相似。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的药品功效是否与正规药品功效描述相似？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "标注的药品功效与正规药品功效描述相似。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品包装上标注的药品成分是否与正规药品成分一致？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就药品包装标注情况进行了充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你销售的这些药品包装上标注的药品批准文号是否经过核实？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有核实过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你销售的这些药品是否在包装上标注了\"本产品不能替代药品\"等警示语？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有标注警示语。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年6月至2017年春，我从一个自称叫张某的人手中以每盒5元的价格购进药品，包括百痛消冬虫草蝮蛇胶囊10盒、虫草活骨肽胶囊120盒、医圣痛康虫草蝮蛇胶囊10盒、医圣痛康乌蛇木瓜胶囊30盒，共计170盒。张某无资质手续和进货记录。我以每盒15元至25元不等的价格销售了160余盒，获利2000余元。  \n\n（2）犯案动机  \n我明知购进的药品是假药，但仍进行销售，目的是为了获取利润。  \n\n（3）案发之后的处理  \n案发后，我主动到公安机关投案，并如实供述了自己的行为。目前尚未进行赔偿，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：顺合大药房销售的药品照片，证明被告人黄某销售的假药种类及外观",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：顺合大药房照片，证明涉案药房的经营场所情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：顺合大药房营业执照（有效期至2023年12月31日），证明该药房的合法经营资质且在有效期内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：药品经营许可证（有效期至2024年6月30日），证明该药房具备药品销售资格且在有效期内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：公安部内部传真电报协查工作的通知（编号：公药协〔2022〕15号），证明相关部门对假药案件的协查要求及程序合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.鉴定意见：晋中市食品药品监督管理局鉴定意见（晋食药鉴〔2022〕38号），证明涉案药品为假药，鉴定机构具备法定资质，依据《药品管理法》第98条作出",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.鉴定意见：晋中市食品药品监督管理局认定意见（晋食药认〔2022〕39号），明确涉案药品按假药论处，依据《药品管理法》第98条和《刑法》第141条",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：涉案物品鉴定明细（附查扣清单及执法人员签名），列明被查扣的假药种类及数量，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：依法认定应按假药论处的55种产品信息表（国药监〔2021〕45号文附件），证明涉案药品属于国家规定的假药范畴",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：检测报告（晋药检〔2022〕156号），证明涉案药品的成分不符合国家标准（GB/T 29602-2013），检测机构具有CMA资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：关于梨树县市场监督管理局办案检品情况说明（梨市监〔2022〕27号），说明案件查办过程中检品的来源及合法处理流程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：关于协查\"曾用名医圣痛康（虫草蝮蛇胶囊）有关情况的复函（吉药监函〔2022〕89号），证明相关部门对涉案药品的协查结果及程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：医圣痛康说明书，证明涉案药品的包装及宣称功效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：违法犯罪经历查询单（梨公刑查〔2022〕35号，查询日期2022年5月10日），证明被告人黄某的前科情况且信息时效有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人高某甲说：\"我在顺合大药房买过药，黄某卖给我的药吃了没效果，后来才知道是假药。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人高某乙说：\"我见过黄某进货，对方没有提供任何资质证明。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人兰某说：\"黄某曾向我推销过这些药，价格比正规药店便宜很多。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人孟某说：\"我是顺合大药房的顾客，买过虫草活骨肽胶囊，吃完后身体不适。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人郭某说：\"黄某承认过这些药是从不明渠道进的货。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人赵某说：\"我曾提醒黄某这些药可能有问题，但他还是继续销售。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：提取笔录（附执法人员工作证复印件及查扣视频记录），证明执法人员在现场查扣假药的过程及数量符合法定程序",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第一百四十一条规定，销售假药罪是指明知是假药而进行销售的行为。本案中，被告人黄某作为具有药品经营资质的药房负责人，在购进药品时未查验供货方资质，明知药品未经检验、无批准文号仍进行销售，其行为已构成销售假药罪。\n\n首先，被告人的主观故意明显。其在侦查阶段供述中明确承认\"明知是假药仍销售获利\"，且多名证人证言证实被告人知晓药品存在问题仍继续销售。其次，涉案药品经专业机构鉴定确认为假药，成分不符合国家标准，危害性客观存在。第三，被告人作为专业药品经营者，未尽到基本的查验义务，具有明显过错。\n\n关于量刑情节，被告人虽主动投案并如实供述，但未对消费者进行赔偿，也未取得谅解。根据《刑法》第六十七条第三款规定，可以从轻处罚。建议法庭综合考虑被告人的认罪态度、犯罪情节及社会危害性，依法作出判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，被告人具有自首情节。根据《刑法》第六十七条第一款规定，犯罪以后自动投案，如实供述自己的罪行的，是自首。本案中被告人主动到公安机关投案，并如实供述全部犯罪事实，依法应当从轻或减轻处罚。\n\n第二，被告人认罪态度良好。从侦查阶段到庭审全程，被告人对犯罪事实供认不讳，积极配合调查，表现出真诚悔罪的态度。根据《刑法》第六十七条第三款规定，可以从轻处罚。\n\n第三，涉案药品虽被认定为假药，但包装标注完整，包含批准文号、成分、适应症等全部信息，与正规药品高度相似，客观上增加了被告人的辨别难度。\n\n第四，销售金额较小，获利仅2000余元，社会危害性相对较轻。且未收到消费者不良反应投诉，未造成严重危害后果。\n\n第五，被告人系初犯，无前科劣迹，具有药品经营资质，平时表现良好。\n\n综上，恳请法庭充分考虑被告人的自首情节、认罪态度及案件具体情况，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的自首情节，公诉人需要指出：根据《刑法》第六十七条第一款规定，自首确实可以从轻或减轻处罚。但本案中被告人虽主动投案，但未能积极挽回损失，未对消费者进行赔偿，其悔罪表现有限。\n\n关于药品包装问题，虽然标注了完整信息，但被告人作为专业药品经营者，应当知道正规药品进货渠道和查验要求。根据《药品管理法》第五十三条规定，药品经营企业必须建立进货检查验收制度。被告人未履行这一法定义务，主观过错明显。\n\n关于社会危害性，假药犯罪侵害的是不特定多数人的生命健康权，具有潜在重大危害。虽然目前未收到严重不良反应投诉，但根据《刑法》第一百四十一条规定，销售假药罪是行为犯，不以实际危害后果为构成要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的自首情节问题，辩护人需要补充说明：根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条，自动投案并如实供述的，应当认定为自首。被告人的自首情节是客观存在的，不应因其未能赔偿而否定其自首的法律效力。\n\n关于药品查验义务，辩护人承认被告人存在过失，但需要指出的是，涉案药品包装标注完整，与正规药品高度相似，且供货方未明确告知药品存在问题，这些因素在一定程度上减轻了被告人的主观恶性。\n\n关于社会危害性，辩护人认同假药犯罪的严重性，但本案中销售数量较少，获利金额不大，且未造成实际危害后果，这些情节应当在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的自首情节，公诉人需要强调：根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第八条，自首后是否积极退赃、赔偿损失是量刑时应当考虑的情节。被告人虽具有自首情节，但至今未对消费者进行任何赔偿，其悔罪表现确实有限。\n\n关于药品包装问题，辩护人忽略了关键事实：被告人明确承认知道药品可能危害健康但仍继续销售，这已超出一般过失范畴，构成直接故意。根据《药品管理法》第九十八条第二款，以非药品冒充药品即按假药论处，包装相似性不能改变假药性质。\n\n关于社会危害性，必须指出假药犯罪侵害的是公共卫生安全这一特殊法益。根据《刑法》第一百四十一条及相关司法解释，销售假药罪是危险犯，即使未造成实际损害，其行为本身已具有严重社会危害性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的自首情节问题，辩护人需要指出：根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于自首情节，应当综合考虑投案的主动性、供述的及时性和稳定性等因素。被告人不仅主动投案，而且在侦查、审查起诉和审判阶段均保持稳定供述，这种持续性的认罪态度应当得到充分认可。\n\n关于药品包装问题，辩护人提请法庭注意：根据《药品管理法》第四十九条规定，药品包装必须标明批准文号等法定内容。涉案药品包装完全符合这一形式要求，且被告人在庭审中证实供货方未明确告知药品存在问题。这种情形下，被告人的主观恶性应当区别于明知是假药而故意销售的情形。\n\n关于社会危害性，辩护人认同假药犯罪的严重性，但必须强调本案的特殊性：销售时间较短（2016年6月至2017年春）、数量有限（160余盒）、获利较少（2000余元），且无证据表明造成实际人身损害。根据《刑法》第六十一条规定，量刑应当与犯罪事实、性质、情节和社会危害程度相适应。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人的主观故意和量刑情节已充分发表意见，现请双方围绕被告人是否曾对销售的药品进行过质量检验或向相关部门报备的问题展开辩论，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《药品管理法》第五十三条规定，药品经营企业必须建立并执行进货检查验收制度，验明药品合格证明和其他标识。本案中，被告人明确承认未对药品进行任何检验，也未向相关部门报备。作为专业药品经营者，被告人完全有能力且应当履行这一法定义务，其不作为直接导致了假药流入市场。\n\n关于辩护人提出的包装相似性问题，需要指出：根据《药品管理法》第九十八条，以非药品冒充药品即按假药论处。包装相似性不能免除经营者的查验义务，更不能改变假药的本质属性。被告人作为持证经营者，应当知道正规药品的进货渠道和查验程序，其未履行最基本的质量检验义务，主观过错明显。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于药品检验问题，辩护人需要指出：根据《药品管理法》第五十三条，药品经营者的查验义务主要针对供货方资质和药品合格证明。本案中被告人虽未履行完整查验义务，但涉案药品包装标注了完整的批准文号、成分等信息，形式上符合规定。这种情形下，被告人的过失程度应当区别于完全未履行任何查验义务的情形。\n\n关于报备问题，需要说明的是，现行法律并未明确规定药品经营者必须对每批次药品主动向监管部门报备。被告人的行为虽存在过错，但不应被扩大解释为完全未履行法定义务。\n\n辩护人认同被告人未尽到完全的查验义务，但提请法庭注意：被告人的主观过错程度应当结合药品包装的完整性和相似性进行综合评判。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对销售假药的行为感到非常后悔。我辜负了社会对我的信任，也危害了消费者的健康安全。我自愿认罪认罚，愿意接受法律的制裁。我保证今后一定遵纪守法，绝不再犯。恳请法庭能考虑我主动投案、如实供述的情节，给予我从轻处罚的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "吉林省梨树县人民法院\n刑事判决书\n（2018）吉刑初字第250号\n\n公诉机关吉林省梨树县人民检察院。\n被告人黄某，男，汉族，XXXX年XX月XX日出生，XXX文化程度，户籍所在地XXXXX，系顺合大药房经营者。因涉嫌犯销售假药罪于2018年9月28日被提起公诉，现取保候审。\n辩护人XXX，XXX律师事务所律师。\n\n吉林省梨树县人民检察院于2018年9月28日以被告人黄某犯销售假药罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。吉林省梨树县人民检察院检察员姜某出庭支持公诉，被告人黄某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n吉林省梨树县人民检察院指控：2016年6月至2017年春，被告人黄某从无资质人员张某处购进假药170盒，明知是假药仍销售160余盒，获利2000余元。其行为触犯《中华人民共和国刑法》第一百四十一条之规定，构成销售假药罪。被告人黄某对指控的犯罪事实和证据没有异议，并自愿认罪。\n\n经审理查明，2016年6月至2017年春，被告人黄某作为具有药品经营资质的药房经营者，从未经许可的张某处购进百痛消冬虫草蝮蛇胶囊等药品170盒，在明知药品来源不明、未查验相关资质的情况下，以每盒15元至25元不等的价格销售160余盒，获利2000余元。经鉴定，涉案药品为假药。上述事实有被告人供述、证人证言、药品鉴定意见、检测报告、查扣记录等证据证实，证据确实、充分，足以认定。\n\n本院认为，被告人黄某违反国家药品管理法规，明知是假药仍进行销售，其行为已构成销售假药罪。被告人黄某作为专业药品经营者，未履行药品查验义务，主观过错明显。鉴于其具有自首情节，认罪态度较好，且系初犯，依法可以从轻处罚。公诉机关指控的犯罪事实清楚，证据确实、充分，罪名成立，量刑建议适当。辩护人关于从轻处罚的辩护意见予以采纳。\n\n依照《中华人民共和国刑法》第一百四十一条、第六十七条第一款、第七十二条、第七十三条、第六十四条之规定，判决如下：\n\n一、被告人黄某犯销售假药罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币四千元；\n二、被告人黄某违法所得人民币二千元予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向吉林省四平市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2018年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n- 被告人在侦查阶段的供述（承认明知是假药仍销售获利2000余元）\n- 药房及药品照片\n- 药房经营资质证明\n- 药品鉴定意见（证明涉案药品为假药）\n- 检测报告（证明药品成分不符合国家标准）\n- 6名证人证言（证明被告销售假药且知晓药品存在问题）\n- 执法查扣记录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n- 被告人在侦查阶段的供述（承认明知是假药仍销售获利2000余元）\n- 药房及药品照片\n- 药房经营资质证明\n- 药品鉴定意见（证明涉案药品为假药）\n- 检测报告（证明药品成分不符合国家标准）\n- 6名证人证言（证明被告销售假药且知晓药品存在问题）\n- 执法查扣记录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n- 被告人在侦查阶段的供述（承认明知是假药仍销售获利2000余元）\n- 药房及药品照片\n- 药房经营资质证明\n- 药品鉴定意见（证明涉案药品为假药）\n- 检测报告（证明药品成分不符合国家标准）\n- 6名证人证言（证明被告销售假药且知晓药品存在问题）\n- 执法查扣记录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n- 被告人在侦查阶段的供述（承认明知是假药仍销售获利2000余元）\n- 药房及药品照片\n- 药房经营资质证明\n- 药品鉴定意见（证明涉案药品为假药）\n- 检测报告（证明药品成分不符合国家标准）\n- 6名证人证言（证明被告销售假药且知晓药品存在问题）\n- 执法查扣记录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人作为专业药品经营者，明知是假药仍销售，构成销售假药罪\n- 主观故意明显（承认明知假药仍销售）\n- 涉案药品经鉴定确认为假药，危害性客观存在\n- 未履行药品查验义务，具有明显过错\n- 虽自首但未赔偿消费者，悔罪表现有限\n\n2. 辩护人辩护要点：\n- 被告人具有自首情节（主动投案并如实供述）\n- 认罪态度良好，全程配合调查\n- 药品包装标注完整，与正规药品高度相似，增加辨别难度\n- 销售金额小（2000余元），未造成实际危害\n- 初犯，无前科，平时表现良好\n\n3. 双方争议焦点：\n- 自首情节的认定及量刑影响\n- 药品包装相似性对主观故意的认定影响\n- 社会危害性的评估（是否造成实际损害）\n- 药品检验义务的履行程度\n\n4. 补充辩论要点：\n- 公诉人强调被告人未履行药品质量检验义务\n- 辩护人指出药品包装形式符合规定，过失程度较轻\n- 双方就法律规定的经营者义务范围展开辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认购进药品时未查验对方资质证明\n- 被告人承认所售药品未经检验、无批准文号\n- 被告人承认药品标注的生产厂家真实性不清楚\n- 被告人承认未向消费者说明是未经检验的药品\n\n2. 辩护人讯问被告人：\n- 被告人表示供货方未明确告知药品未经检验\n- 被告人承认知道药品可能危害健康但未收到投诉\n- 被告人确认药品包装标注了完整的药品信息（包括批准文号、成分、适应症等）\n- 被告人承认未核实包装标注的批准文号真实性\n- 被告人确认包装未标注\"不能替代药品\"警示语\n\n3. 审判长补充讯问：\n- 被告人确认未核实药品批准文号真实性\n- 被告人确认包装未标注警示语\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n- 被告人在侦查阶段的供述（承认明知是假药仍销售获利2000余元）\n- 药房及药品照片\n- 药房经营资质证明\n- 药品鉴定意见（证明涉案药品为假药）\n- 检测报告（证明药品成分不符合国家标准）\n- 6名证人证言（证明被告销售假药且知晓药品存在问题）\n- 执法查扣记录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人作为专业药品经营者，明知是假药仍销售，构成销售假药罪\n- 主观故意明显（承认明知假药仍销售）\n- 涉案药品经鉴定确认为假药，危害性客观存在\n- 未履行药品查验义务，具有明显过错\n- 虽自首但未赔偿消费者，悔罪表现有限\n\n2. 辩护人辩护要点：\n- 被告人具有自首情节（主动投案并如实供述）\n- 认罪态度良好，全程配合调查\n- 药品包装标注完整，与正规药品高度相似，增加辨别难度\n- 销售金额小（2000余元），未造成实际危害\n- 初犯，无前科，平时表现良好\n\n3. 双方争议焦点：\n- 自首情节的认定及量刑影响\n- 药品包装相似性对主观故意的认定影响\n- 社会危害性的评估（是否造成实际损害）\n- 药品检验义务的履行程度\n\n4. 补充辩论要点：\n- 公诉人强调被告人未履行药品质量检验义务\n- 辩护人指出药品包装形式符合规定，过失程度较轻\n- 双方就法律规定的经营者义务范围展开辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 12.0,
+    "fine": 4000.0,
+    "reprieve": 18.0
+  }
+]

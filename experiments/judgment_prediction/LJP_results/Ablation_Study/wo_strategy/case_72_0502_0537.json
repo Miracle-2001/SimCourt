@@ -1,0 +1,1149 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人李某甲，性别男，户籍XXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖北省当阳市人民检察院  \n起 诉 书  \n\n鄂当阳检刑诉〔2016〕91号  \n\n被告人李某甲，男，户籍XXX。因涉嫌容留他人吸毒罪，于2016年3月11日被刑事拘留。  \n\n本案由当阳市公安局侦查终结，以被告人李某甲涉嫌容留他人吸毒罪，于2016年4月28日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年2月25日，被告人李某甲与林某到当阳市城区长坂坡宾馆8360Ｃ号房间，三人一起吸食毒品麻果。次日晚，李某甲通过“去哪儿”网站续订该房间。2016年2月27日15时许，刘某甲、高某、赵某、林某、刘某乙陆续来到8360Ｃ号房间，与李某甲一起吸食毒品麻果，当日16时许被公安民警现场查获。经检测，李某甲等6人尿液甲基安非他明检测结果均为阳性。李某甲等人因吸毒被处以行政拘留。  \n\n认定上述事实的证据如下：  \n1. 书证：公安机关现场抓获李某甲等人的到案经过；现场照片及拍摄情况说明；李某甲网上预订宾馆房间的短信确认信息图片；尿液采集笔录及检测报告书；行政处罚决定书。  \n2. 证人证言：证人林某、刘某乙、赵某、刘某甲、高某、李某乙、陈某的证言，证实李某甲容留他人吸毒的事实。  \n3. 被告人供述：李某甲对容留他人吸毒的犯罪事实供认不讳。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人李某甲对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人李某甲在其所开宾馆房间内容留多人吸食毒品，其行为已触犯《中华人民共和国刑法》第三百五十四条之规定，犯罪事实清楚，证据确实、充分，应当以容留他人吸毒罪追究其刑事责任。李某甲到案后如实供述犯罪事实，具有坦白情节，可从轻处罚。建议判处被告人李某甲有期徒刑XX，缓刑XX，并处罚金XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n当阳市人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的事实没有异议，但想说明房间最初是由李某丙登记，我只是进行了续订。其他人是自行来到房间的，我没有主动组织或邀请他们吸毒。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在2016年2月27日当天，8360Ｃ号房间内确实有多人一起吸食毒品的事实吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "承认，当天确实有多人在房间内吸食毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在续订房间时知道该房间将被用于吸食毒品吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在房间内吸食毒品的人员中，有部分人员是你认识的朋友吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "认识。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在房间内为吸毒人员提供了吸毒场所和便利条件吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我承认提供了场所。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在房间内为吸毒人员提供了吸毒工具吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供吸毒工具。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在房间内看到其他人吸食毒品时，没有采取任何制止措施吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有制止。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在续订房间时，房间内已经存在吸毒行为吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "承认。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在续订房间时，房间内已经存在吸毒行为，那么你续订房间的主要目的是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "续订房间是为了继续使用该房间。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认在续订房间时，明知房间内已经存在吸毒行为，仍然继续提供该场所供他人使用吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "承认。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，被告人已对关键事实作出明确供述。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与李某丙是什么关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "朋友关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你续订房间时是否知道会有新的人员加入吸毒？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你续订房间时是否知道李某丙会带其他人来房间？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你续订房间时是否知道房间内已经存在吸毒行为？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "承认。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年2月25日，我与林某前往当阳市城区长坂坡宾馆8360Ｃ号房间，该房间由李某丙登记。我们三人在房间内一起吸食了毒品麻果。当晚李某丙退房离开。2月26日晚，我通过“去哪儿”网站续订了8360Ｃ号房间并支付房费。2月27日15时许，刘某甲、高某、赵某、林某、刘某乙陆续来到该房间，我们共同吸食毒品麻果。当日16时许，公安民警现场查获我们六人。经尿液检测，六人的甲基安非他明检测结果均为阳性。我们因吸毒被处以行政拘留。  \n\n（2）犯案动机  \n我没有主动组织或邀请他人吸毒，房间最初由李某丙登记，后续是我续订。其他人自行来到房间参与吸毒，我未明确拒绝。  \n\n（3）案发之后的处理  \n我被公安机关现场抓获，没有主动自首。案发后未进行赔偿，未与相关人员达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：公安机关现场抓获李某甲等人的到案经过，证实李某甲等人于2016年2月27日16时许在长坂坡宾馆8360Ｃ号房间被查获",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：现场照片及拍摄情况说明，显示8360Ｃ号房间内吸毒工具及现场情况，照片由办案民警使用执法记录仪拍摄，存储于公安机关专用存储设备",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：李某甲网上预订长坂坡宾馆房间的短信确认信息图片及提取说明，证实李某甲于2016年2月26日晚续订8360Ｃ号房间，信息由宾馆工作人员提供并加盖宾馆公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：李某甲的尿液采集笔录及见证人签字，记录李某甲尿液采集过程，采集由两名民警在场监督",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：现场检测报告书及检测机构资质证明，显示对李某甲等人尿液的检测结果，检测由具有资质的毒品检测中心采用色谱分析法进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：检测结果（阳性）及检测方法说明，证实李某甲等6人的尿液甲基安非他明检测均为阳性，检测由同一检测机构采用相同方法进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：当公（玉）行罚决字（2016）第85号行政处罚决定书，证实李某甲等人因吸毒被处以行政拘留",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人林某的询问笔录及权利义务告知书，证实其2016年2月25日、27日在8360Ｃ号房间与李某甲吸食麻果，询问过程有律师在场",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人刘某乙的询问笔录及权利义务告知书，证实其2016年2月27日在8360Ｃ号房间与李某甲吸食麻果，询问过程全程录音录像",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人赵某的询问笔录及权利义务告知书，证实其2016年2月27日在8360Ｃ号房间与李某甲吸食麻果，询问由两名民警进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人刘某甲的询问笔录及权利义务告知书，证实其2016年2月27日在8360Ｃ号房间与李某甲吸食麻果，询问过程有监护人陪同",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人高某的询问笔录及权利义务告知书，证实其2016年2月27日在8360Ｃ号房间与李某甲吸食麻果，询问前已告知伪证责任",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人李某乙的询问笔录及权利义务告知书，证实其了解李某甲在长坂坡宾馆开房的情况，询问过程有见证人签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人陈某的询问笔录及权利义务告知书，证实其了解李某甲在长坂坡宾馆开房的情况，询问过程依法进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.被告人供述：被告人李某甲的讯问笔录及律师在场证明，承认其在长坂坡宾馆8360Ｃ号房间内容留他人吸毒的事实，供述过程自愿无胁迫",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面\n被告人李某甲的行为已构成容留他人吸毒罪。根据《刑法》第三百五十四条，容留他人吸食、注射毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。被告人明知房间内存在吸毒行为，仍主动续订房间，为多人吸毒提供场所，其主观故意和客观行为均符合该罪构成要件。\n\n二、关于量刑情节\n1. 被告人具有坦白情节。根据《刑法》第六十七条第三款，可以从轻处罚。\n2. 被告人系初犯，无前科劣迹，可酌情从轻处罚。\n3. 被告人虽未主动组织吸毒，但明知房间用于吸毒仍续订，主观恶性明显。\n\n三、关于辩护人提出的辩解\n1. 房间最初由他人登记不影响被告人续订时的主观明知\n2. 是否主动邀请他人吸毒不影响容留行为的成立\n3. 未提供吸毒工具不影响提供场所行为的违法性\n\n综上，建议法庭采纳公诉机关的量刑建议，依法判处被告人李某甲有期徒刑XX，缓刑XX，并处罚金XX元。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于主观恶性方面\n被告人虽续订房间，但并非房间最初登记人，也未主动组织吸毒活动。根据《刑法》第六十一条规定，量刑应当与犯罪事实、性质、情节和社会危害程度相适应。被告人的主观恶性相对较小。\n\n二、关于坦白情节\n被告人到案后如实供述全部犯罪事实，根据《刑法》第六十七条第三款，具有坦白情节，依法可以从轻处罚。\n\n三、关于初犯情节\n被告人系初犯，无前科劣迹，根据最高人民法院《关于常见犯罪的量刑指导意见》，可以酌情从轻处罚。\n\n四、关于行为性质\n被告人仅提供场所，未提供吸毒工具，也未从中牟利，犯罪情节相对较轻。\n\n综上，恳请法庭充分考虑被告人的坦白情节、初犯情节及主观恶性程度，依法从轻处罚。建议适用缓刑，给被告人改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观恶性问题\n被告人虽非房间最初登记人，但根据其供述，续订时已明知房间用于吸毒，且明知房间内已有吸毒行为仍继续提供场所，主观恶性不容忽视。根据《刑法》第十四条，明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，因而构成犯罪的，是故意犯罪。\n\n二、关于行为性质问题\n提供吸毒场所本身就是容留他人吸毒罪的构成要件，是否提供吸毒工具或牟利不影响犯罪成立。根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第十二条，容留他人吸食、注射毒品，具有下列情形之一的，应当依照刑法第三百五十四条的规定定罪处罚：（一）一次容留多人吸食、注射毒品的。本案中被告人一次容留5人吸毒，已符合该情形。\n\n三、关于量刑建议\n公诉机关已充分考虑被告人的坦白、初犯等从轻情节，提出的量刑建议符合罪责刑相适应原则。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于主观明知程度问题\n被告人虽明知房间用于吸毒，但根据其供述，续订时并不知晓会有新的人员加入。根据《刑法》第六十一条\"对于犯罪分子决定刑罚的时候，应当根据犯罪的事实、犯罪的性质、情节和对于社会的危害程度\"之规定，其主观恶性应区别于主动组织吸毒的情形。\n\n二、关于容留行为性质\n辩护人认同提供场所即构成犯罪，但提请法庭注意，被告人未从中牟利，也未提供吸毒工具，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于未牟利的容留行为可酌情从轻处罚。\n\n三、关于量刑平衡\n被告人系初犯，认罪态度良好，且本案发生于2016年，距今已逾7年，期间被告人无其他违法行为，社会危害性已显著降低。恳请法庭在量刑时充分考虑时间因素及被告人的现实表现。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观明知程度问题\n被告人虽辩称不知会有新人员加入，但根据其供述，续订时明知房间内已有吸毒行为，且认识部分吸毒人员。根据《刑法》第十四条，这种放任行为已构成故意犯罪。容留他人吸毒罪不以明知具体吸毒人员为要件，只要明知场所将用于吸毒即可。\n\n二、关于量刑平衡问题\n本案虽发生于2016年，但根据《刑法》第八十七条关于追诉时效的规定，本案仍在法定追诉期限内。被告人未主动投案，也未对犯罪行为进行补救，社会危害性并未消除。\n\n三、关于从轻情节\n公诉机关已充分考虑被告人的坦白、初犯等情节，但需指出被告人未采取任何制止措施，也未主动终止犯罪行为，其主观恶性和社会危害性不容忽视。建议法庭在量刑时予以综合考量。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于主观明知问题\n被告人虽明知房间用于吸毒，但根据其供述，续订时并不知晓会有新的人员加入。根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第十二条，容留行为的危害程度与容留人数直接相关。本案中新加入人员并非被告人主动邀请，其主观恶性应区别于组织性容留行为。\n\n二、关于社会危害性问题\n被告人自2016年案发至今已逾7年，期间无任何违法犯罪记录，充分表明其社会危害性已显著降低。根据《刑法》第七十二条关于缓刑适用的规定，对于犯罪情节较轻、有悔罪表现的被告人，可以宣告缓刑。\n\n三、关于量刑建议\n辩护人认同被告人行为构成犯罪，但提请法庭注意：1.被告人未从中牟利；2.未提供吸毒工具；3.系初犯且认罪态度良好。建议在法定刑幅度内从轻处罚，并适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到自己的错误，愿意接受法律的惩罚。我确实在明知房间用于吸毒的情况下续订了房间，为他人吸毒提供了场所。我深刻反省自己的行为，保证今后绝不再犯。恳请法庭考虑我是初犯，认罪态度良好，能够从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "湖北省当阳市人民法院\n刑事判决书\n（2016）鄂0582刑初91号\n\n公诉机关湖北省当阳市人民检察院。\n被告人李某甲，男，户籍XXX。因涉嫌容留他人吸毒罪，于2016年3月11日被刑事拘留。\n辩护人XXX（姓名、性别、工作单位和职务）。\n\n湖北省当阳市人民检察院于2016年4月28日以被告人李某甲犯容留他人吸毒罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。湖北省当阳市人民检察院检察员XXX出庭支持公诉，被告人李某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n湖北省当阳市人民检察院指控：2016年2月25日至27日，被告人李某甲在当阳市城区长坂坡宾馆8360Ｃ号房间内容留多人吸食毒品麻果，其行为已触犯《中华人民共和国刑法》第三百五十四条之规定，应当以容留他人吸毒罪追究其刑事责任。被告人李某甲对指控的犯罪事实和证据没有异议，并自愿认罪。辩护人提出被告人主观恶性较小、具有坦白情节和初犯情节，建议从轻处罚并适用缓刑。\n\n经审理查明：2016年2月25日，被告人李某甲与林某等人到当阳市城区长坂坡宾馆8360Ｃ号房间吸食毒品麻果。次日，李某甲续订该房间。2016年2月27日15时许，刘某甲、高某、赵某、林某、刘某乙陆续来到该房间，与李某甲共同吸食毒品麻果，当日16时许被公安民警现场查获。经检测，李某甲等6人尿液甲基安非他明检测结果均为阳性。上述事实有被告人供述、书证、证人证言等证据证实，证据确实、充分，足以认定。\n\n本院认为，被告人李某甲明知他人吸毒仍提供场所，其行为已构成容留他人吸毒罪。公诉机关指控的罪名成立。被告人李某甲到案后如实供述犯罪事实，具有坦白情节，可从轻处罚。辩护人关于被告人主观恶性较小、具有坦白情节和初犯情节的辩护意见予以采纳。依照《中华人民共和国刑法》第三百五十四条、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第五十二条、第五十三条之规定，判决如下：\n\n被告人李某甲犯容留他人吸毒罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币二千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖北省宜昌市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2016年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其续订房间并容留多人吸毒的事实\n   - 书证：到案经过、现场照片、宾馆预订信息、尿液检测报告等\n   - 证人证言：林某等6名证人的询问笔录\n   - 被告人供述笔录\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未提出新的证据\n\n5. 被告人未申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其续订房间并容留多人吸毒的事实\n   - 书证：到案经过、现场照片、宾馆预订信息、尿液检测报告等\n   - 证人证言：林某等6名证人的询问笔录\n   - 被告人供述笔录\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未提出新的证据\n\n5. 被告人未申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其续订房间并容留多人吸毒的事实\n   - 书证：到案经过、现场照片、宾馆预订信息、尿液检测报告等\n   - 证人证言：林某等6名证人的询问笔录\n   - 被告人供述笔录\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未提出新的证据\n\n5. 被告人未申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其续订房间并容留多人吸毒的事实\n   - 书证：到案经过、现场照片、宾馆预订信息、尿液检测报告等\n   - 证人证言：林某等6名证人的询问笔录\n   - 被告人供述笔录\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未提出新的证据\n\n5. 被告人未申请调取新证据或通知新证人\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 指控被告人构成容留他人吸毒罪，符合刑法第354条规定\n- 指出被告人具有坦白情节、系初犯等从轻情节\n- 强调被告人明知房间用于吸毒仍续订，主观恶性明显\n- 建议判处有期徒刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 主张被告人主观恶性较小，非房间最初登记人\n- 强调被告人具有坦白情节和初犯情节\n- 指出被告人仅提供场所未提供工具或牟利\n- 建议适用缓刑\n\n3. 双方主要争议焦点：\n- 关于主观明知程度：公诉人认为被告人明知吸毒仍续订房间构成故意；辩护人主张被告人不知会有新人员加入\n- 关于行为性质：公诉人强调提供场所即构成犯罪；辩护人指出未牟利等情节\n- 关于量刑：公诉人坚持原量刑建议；辩护人主张从轻处罚并适用缓刑\n\n4. 补充辩论要点：\n- 公诉人指出容留人数达5人符合司法解释规定\n- 辩护人强调案发已逾7年且被告人无再犯记录\n- 双方就社会危害性评估存在分歧",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人李某甲涉嫌容留他人吸毒罪\n2. 被告人承认房间内有多人吸食毒品的事实，但辩称房间最初由李某丙登记，自己只是续订，且未主动组织或邀请他人吸毒\n3. 公诉人讯问中，被告人承认：\n   - 续订时明知房间将被用于吸毒\n   - 认识部分吸毒人员\n   - 提供了吸毒场所但未提供吸毒工具\n   - 未制止他人吸毒行为\n   - 续订时明知房间内已有吸毒行为\n4. 辩护人讯问中，被告人表示：\n   - 与李某丙是朋友关系\n   - 续订时不知道会有新的人员加入吸毒\n   - 不知道李某丙会带其他人来房间\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其续订房间并容留多人吸毒的事实\n   - 书证：到案经过、现场照片、宾馆预订信息、尿液检测报告等\n   - 证人证言：林某等6名证人的询问笔录\n   - 被告人供述笔录\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未提出新的证据\n\n5. 被告人未申请调取新证据或通知新证人\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 指控被告人构成容留他人吸毒罪，符合刑法第354条规定\n- 指出被告人具有坦白情节、系初犯等从轻情节\n- 强调被告人明知房间用于吸毒仍续订，主观恶性明显\n- 建议判处有期徒刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 主张被告人主观恶性较小，非房间最初登记人\n- 强调被告人具有坦白情节和初犯情节\n- 指出被告人仅提供场所未提供工具或牟利\n- 建议适用缓刑\n\n3. 双方主要争议焦点：\n- 关于主观明知程度：公诉人认为被告人明知吸毒仍续订房间构成故意；辩护人主张被告人不知会有新人员加入\n- 关于行为性质：公诉人强调提供场所即构成犯罪；辩护人指出未牟利等情节\n- 关于量刑：公诉人坚持原量刑建议；辩护人主张从轻处罚并适用缓刑\n\n4. 补充辩论要点：\n- 公诉人指出容留人数达5人符合司法解释规定\n- 辩护人强调案发已逾7年且被告人无再犯记录\n- 双方就社会危害性评估存在分歧",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 6.0,
+    "fine": 2000.0,
+    "reprieve": 12.0
+  }
+]

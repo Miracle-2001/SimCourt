@@ -1,0 +1,1425 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人裴某，于XXXX年X月X日出生，女，汉族，XXX文化，户籍XXXXX。因涉嫌犯虚开增值税专用发票罪，于2017年6月1日投案。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "江苏省昆山市人民检察院  \n起 诉 书  \n\n昆检诉刑诉〔2018〕330号  \n\n被告人裴某，女，XXXX年X月X日出生，汉族，XXX文化，户籍XXXXX。因涉嫌犯虚开增值税专用发票罪，于2017年6月1日投案，归案后如实供述犯罪事实，并补缴了全部增值税税款。  \n\n被告单位昆山诚展自动化科技有限公司，住所地XXXXX，诉讼代表人马某甲。  \n\n本案由昆山市公安局侦查终结，以被告单位昆山诚展自动化科技有限公司、被告人裴某涉嫌虚开增值税专用发票罪，于20xx年x月x日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2013年至2017年期间，被告单位昆山诚展自动化科技有限公司实际经营人被告人裴某为牟取非法利益，在无真实业务的情况下，通过支付开票费方式，向王某甲（另案处理）购买南昌荣凯实业有限公司、江西省东阳铝业有限公司、南昌华建铝业有限公司开具的增值税专用发票152份，涉及税款人民币2452640.21元，后被告单位昆山诚展自动化科技有限公司向税务机关申报抵扣，骗取国家增值税款人民币2452640.21元。2017年6月1日，被告人裴某至昆山市公安局经侦大队投案，归案后如实供述犯罪事实，并补缴了全部增值税税款。  \n\n认定上述事实的证据如下：  \n1. 证人证言：证人马某甲、陶某、李某、王某乙、马某乙、王某甲、杨某、熊某、胡某的证言；  \n2. 书证：移送案件线索函、昆山诚展自动化科技有限公司购货明细、情况说明、工商信息、进项税额申报抵扣证明、转账凭证、增值税专用发票（发票联及抵扣联）复印件、账册凭证、银行账户交易明细、到案经过、发破案经过、常住人口基本信息、补缴税款凭证、预缴罚金保证金凭证。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告单位昆山诚展自动化科技有限公司、被告人裴某对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告单位昆山诚展自动化科技有限公司、被告人裴某让他人为自己虚开增值税专用发票，骗取国家增值税款计人民币2452640.21元，数额巨大，其行为均已触犯《中华人民共和国刑法》第二百零五条之规定，犯罪事实清楚，证据确实、充分，应当以虚开增值税专用发票罪追究刑事责任。被告单位昆山诚展自动化科技有限公司、被告人裴某自动投案，如实供述自己的罪行，均系自首，根据《中华人民共和国刑法》第六十七条第一款之规定，均可以从轻处罚。被告单位昆山诚展自动化科技有限公司补缴了全部税款，可酌情从轻处罚。建议判处被告单位昆山诚展自动化科技有限公司罚金人民币XX元；判处被告人裴某有期徒刑XX，缓刑XX。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n昆山市人民法院  \n\n检  察  官  XXX  \n检察官助理  XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人裴某，请说明你是通过何种方式联系到王某甲购买增值税专用发票的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是通过朋友介绍认识的王某甲。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与王某甲之间是如何商定开票费的具体金额和支付方式的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "开票费是按发票金额的6%计算，通过银行转账方式支付。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司购买这些虚开的增值税专用发票后，具体是如何进行账务处理的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些发票都记入了公司应付账款科目，并作为进项税进行了抵扣申报。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司从2013年开始虚开发票，为何直到2017年才选择投案自首？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为公司经营出现困难，我一直抱有侥幸心理。后来意识到问题的严重性，就主动投案了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司虚开的152份增值税专用发票具体是如何在税务申报系统中进行抵扣操作的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些发票都是由公司财务人员按照正常申报流程，在税务申报系统中作为进项税进行抵扣的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司虚开的这些增值税专用发票对应的所谓\"交易\"是否实际发生过？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有实际发生过交易。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你主动投案后，是否积极配合税务机关补缴了全部税款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我投案后立即补缴了全部2452640.21元税款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司补缴税款的具体时间和方式是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2017年6月1日投案当天，我就通过公司账户向税务机关全额补缴了税款，转账凭证已经提交给公安机关。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司补缴税款后，是否还主动缴纳了其他相关费用或罚金？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我们还主动预缴了罚金保证金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司补缴税款后，税务机关是否出具了相关证明文件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，税务机关出具了补缴税款凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司补缴税款后，税务机关是否对公司进行了其他行政处罚？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收到税务机关的其他行政处罚通知。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司补缴税款后，是否采取了其他补救措施来弥补给国家税收造成的损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们主动配合税务机关调查，并加强了公司财务管理制度，确保今后依法纳税。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司补缴税款后，是否主动向税务机关提供了其他有助于案件调查的材料或证据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我们主动提供了所有涉案的银行转账记录和发票复印件等材料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你公司从2013年开始虚开发票，为何在2017年才意识到问题的严重性？具体是什么促使你决定投案自首的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2017年公司经营状况恶化，我意识到长期虚开发票的行为迟早会被发现。同时看到税务稽查力度加大，担心事情败露会带来更严重后果，所以决定主动投案自首。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2013年至2017年期间，我是昆山诚展自动化科技有限公司的实际经营人。在无真实业务的情况下，我通过支付开票费的方式，向王某甲购买了南昌荣凯实业有限公司、江西省东阳铝业有限公司、南昌华建铝业有限公司开具的增值税专用发票152份，涉及税款人民币2452640.21元。随后，昆山诚展自动化科技有限公司向税务机关申报抵扣，骗取国家增值税款人民币2452640.21元。  \n\n（2）犯案动机  \n我为了牟取非法利益，降低公司税负成本，选择通过虚开增值税专用发票的方式骗取国家税款。  \n\n（3）案发之后的处理  \n2017年6月1日，我主动至昆山市公安局经侦大队投案，归案后如实供述了犯罪事实，并补缴了全部增值税税款。公安机关认可了我的自首行为。目前尚未提及是否与被害人达成谅解或签署和解协议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：证人马某甲（昆山诚展自动化科技有限公司诉讼代表人）作证称：“裴某作为公司实际经营人，在2013年至2017年期间通过支付开票费方式购买增值税专用发票，用于抵扣税款。”经税务机关核查，该证言与公司银行转账记录及抵扣申报记录相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人陶某作证称：“我了解到公司通过王某甲购买了南昌荣凯实业有限公司等开具的增值税专用发票，这些交易没有真实业务背景。”该证言与王某甲的供述及公司账册中无对应货物往来的记录相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人李某作证称：“公司账册中显示有大量来自南昌荣凯实业有限公司等企业的进项发票，但实际并无货物往来。”经审计机构核查，公司账册确实存在无实际货物对应的发票记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人王某乙作证称：“裴某曾安排财务人员将购买的增值税专用发票用于申报抵扣，金额较大。”该证言与公司进项税额申报抵扣证明及财务账册记录一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人马某乙作证称：“公司通过银行转账支付开票费给王某甲，相关交易记录可以查证。”银行认证的交易明细显示确实存在向王某甲支付的款项",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人王某甲（另案处理）作证称：“我确实为昆山诚展自动化科技有限公司虚开了152份增值税专用发票，涉及税款245万余元。”经司法鉴定，虚开发票的数量及金额与税务机关认定的数据一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人杨某作证称：“南昌荣凯实业有限公司与昆山诚展自动化科技有限公司之间并无实际业务往来，发票是虚开的。”税务机关核查确认两家公司无真实业务往来记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人熊某作证称：“江西省东阳铝业有限公司开具的发票并未对应真实交易，是裴某通过王某甲购买的。”公司账册及银行交易记录显示无真实交易背景",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人胡某作证称：“南昌华建铝业有限公司的发票也是虚开的，公司与昆山诚展自动化科技有限公司没有真实业务。”税务机关业务往来核查确认无真实交易",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：移送案件线索函，证明案件由税务机关移送公安机关侦查",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：昆山诚展自动化科技有限公司购货明细，显示虚开的152份增值税专用发票信息。税务机关已认定该购货明细为虚开发票",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：昆山诚展自动化科技有限公司工商信息，证明公司主体资格及裴某为实际经营人",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：进项税额申报抵扣证明，显示公司已将虚开发票用于抵扣税款2452640.21元。税务机关核实确认该抵扣行为",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：转账凭证，证明公司向王某甲支付开票费的银行交易记录。银行已认证该交易记录真实性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：增值税专用发票（发票联）复印件，显示虚开的发票具体内容。税务机关已认定该发票为虚开",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：昆山诚展自动化科技有限公司账册凭证，记载虚开发票的财务处理情况。审计机构认定该账册记载属实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：增值税专用发票（抵扣联）复印件，证明发票已用于申报抵扣。税务机关已认定该抵扣联对应虚开发票",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：银行账户交易明细，显示公司与开票方之间的资金往来。银行已认证该交易明细真实性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：到案经过、发破案经过，证实裴某于2017年6月1日主动投案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：常住人口基本信息，证明裴某的身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.12.书证：情况说明，证实裴某主动投案并补缴税款",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "2.书证：补缴税款凭证，证明被告人裴某已补缴全部增值税税款2452640.21元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "3.书证：预缴罚金保证金凭证，证明被告单位昆山诚展自动化科技有限公司主动预缴罚金保证金人民币300000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人现就本案发表如下公诉意见：\n\n一、关于定罪问题。根据《中华人民共和国刑法》第二百零五条规定，被告单位及被告人让他人为自己虚开增值税专用发票，骗取国家税款245万余元，数额巨大，犯罪事实清楚，证据确实充分，应当以虚开增值税专用发票罪追究刑事责任。\n\n二、关于量刑情节。1.本案虚开税款数额巨大，持续时间长达4年，社会危害性较大。2.被告单位及被告人具有自首情节，根据刑法第六十七条第一款规定，可以从轻处罚。3.被告单位已补缴全部税款并预缴罚金保证金，可酌情从轻处罚。\n\n三、关于量刑建议。综合考虑本案犯罪事实、性质、情节及社会危害程度，建议判处被告单位罚金人民币XX元；判处被告人裴某有期徒刑XX，缓刑XX。\n\n公诉意见发表完毕。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人现就本案发表如下辩护意见：\n\n一、关于自首情节。根据《中华人民共和国刑法》第六十七条第一款规定，被告人裴某于2017年6月1日主动投案，并如实供述全部犯罪事实，依法应当认定为自首。被告人在投案当天即补缴全部税款2452640.21元，并预缴30万元罚金保证金，充分体现了认罪悔罪的诚意。\n\n二、关于认罪态度。被告人自侦查阶段至今始终如实供述，对指控事实和罪名均无异议，认罪态度良好。在庭审中积极配合调查，主动提供涉案材料，具有明显的悔罪表现。\n\n三、关于补救措施。被告人已全额补缴税款，为国家挽回了全部经济损失。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，对于积极退赃、退赔的，可以减轻处罚。\n\n四、关于社会危害性。虽然涉案金额较大，但被告人系初犯，无前科劣迹，且案发后主动采取补救措施，社会危害性已得到有效控制。\n\n综上，恳请法庭充分考虑被告人的自首情节、认罪态度和积极补救行为，依法从轻处罚，建议适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于犯罪情节的严重性。虽然被告人具有自首情节，但本案虚开增值税专用发票持续时间长达4年，涉及税款245万余元，数额巨大，严重破坏了国家税收征管秩序。根据《刑法》第二百零五条规定，虚开税款数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑。\n\n二、关于量刑平衡问题。辩护人提出适用缓刑的建议，但考虑到本案涉案金额已超过\"数额巨大\"标准，且持续时间长，单纯依靠自首和补缴税款尚不足以完全体现罪责刑相适应原则。建议在法定刑幅度内从轻处罚，但不宜直接适用缓刑。\n\n三、关于社会危害性的补充。虚开增值税专用发票犯罪不仅造成国家税款损失，更严重扰乱了市场经济秩序。被告人作为企业实际经营人，本应带头遵守税法，却长期实施违法行为，主观恶性不容忽视。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于犯罪情节的严重性。辩护人认可本案涉案金额较大，但需要指出被告人的行为动机系企业经营困难所致，与纯粹以牟利为目的的虚开行为存在区别。根据《最高人民法院关于虚开增值税专用发票定罪量刑标准有关问题的通知》，在认定\"情节严重\"时应当综合考虑主观恶性和客观危害。\n\n二、关于量刑平衡问题。被告人已全额补缴税款并预缴罚金保证金，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，对于积极退赃、退赔的，可以减少基准刑的30%以下。结合自首情节，已充分体现罪责刑相适应原则。\n\n三、关于社会危害性的补充。辩护人注意到被告人系初犯，且案发后主动加强公司财务管理，采取有效措施防止再犯。根据《刑法》第七十二条，对于犯罪情节较轻、有悔罪表现的犯罪分子，可以宣告缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于犯罪动机问题。辩护人提出被告人是因企业经营困难而实施犯罪，但根据《刑法》第二百零五条规定，虚开增值税专用发票罪的构成不以特定动机为要件。无论出于何种动机，被告人在长达四年间持续虚开发票的行为，已充分体现其主观故意。\n\n二、关于量刑标准问题。本案虚开税款245万余元，已远超《最高人民法院关于虚开增值税专用发票定罪量刑标准有关问题的通知》中\"数额巨大\"的标准（50万元以上）。根据该通知第三条，虚开税款数额在250万元以上的，应当认定为\"有其他特别严重情节\"。\n\n三、关于缓刑适用问题。虽然被告人具有自首和补缴税款情节，但考虑到本案犯罪持续时间长、金额特别巨大，单纯依靠从轻处罚情节尚不足以体现刑罚的惩戒功能。根据《刑法》第七十二条，适用缓刑需满足\"犯罪情节较轻\"的条件，而本案显然不符合这一前提。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于犯罪动机问题。虽然《刑法》第二百零五条未将特定动机作为构成要件，但根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对因生产经营困难实施的犯罪，在量刑时应与纯粹牟利型犯罪有所区别。被告人系为维持企业经营而实施犯罪，主观恶性相对较轻。\n\n二、关于量刑标准问题。辩护人注意到本案涉案金额为2452640.21元，尚未达到250万元的\"特别严重情节\"标准。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于数额接近但未达到上一档标准的案件，应当审慎适用更严厉的量刑档次。\n\n三、关于缓刑适用问题。被告人已全额补缴税款并预缴罚金保证金，根据《刑法》第七十二条第二款，对于犯罪情节较轻、有悔罪表现且没有再犯罪危险的，可以宣告缓刑。被告人系初犯，案发后主动整改，符合缓刑适用条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的违法行为深感悔恨，已经深刻认识到虚开增值税专用发票的严重性。我自愿认罪认罚，并已全额补缴了2452640.21元税款。作为企业经营者，我本应遵纪守法，却因一时糊涂触犯法律，给国家税收造成了损失。我真诚悔过，恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "江苏省昆山市人民法院\n刑事判决书\n（20xx）苏0583刑初xx号\n\n公诉机关昆山市人民检察院。\n\n被告人裴某，女，XXXX年X月X日出生，汉族，XXX文化，户籍XXXXX。因涉嫌犯虚开增值税专用发票罪，于2017年6月1日投案，现取保候审。\n\n辩护人XXX，XXX律师事务所律师。\n\n昆山市人民检察院以昆检诉刑诉〔2018〕330号起诉书指控被告单位昆山诚展自动化科技有限公司、被告人裴某犯虚开增值税专用发票罪，于20xx年x月x日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。昆山市人民检察院指派检察员XXX出庭支持公诉，被告单位诉讼代表人马某甲、被告人裴某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n昆山市人民检察院指控：2013年至2017年期间，被告单位昆山诚展自动化科技有限公司实际经营人被告人裴某为牟取非法利益，在无真实业务的情况下，通过支付开票费方式，向王某甲购买增值税专用发票152份，涉及税款人民币2452640.21元，后向税务机关申报抵扣。2017年6月1日，被告人裴某主动投案，并补缴全部税款。公诉机关认为被告单位及被告人的行为已构成虚开增值税专用发票罪，数额巨大，具有自首情节，建议判处被告单位罚金，对被告人判处有期徒刑并适用缓刑。\n\n被告人裴某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人具有自首、补缴全部税款、预缴罚金保证金等从轻处罚情节，建议从轻处罚并适用缓刑。\n\n经审理查明：2013年至2017年间，被告单位昆山诚展自动化科技有限公司实际经营人被告人裴某，在无真实业务的情况下，通过支付开票费方式，向王某甲购买南昌荣凯实业有限公司等企业开具的增值税专用发票152份，涉及税款人民币2452640.21元，并向税务机关申报抵扣。2017年6月1日，被告人裴某主动投案，如实供述犯罪事实，并补缴全部税款，预缴罚金保证金30万元。\n\n上述事实，有被告人的供述，证人马某甲、陶某等人的证言，工商信息、抵扣证明、转账凭证、发票复印件、账册凭证、银行交易明细、到案经过、补缴税款凭证、预缴罚金保证金凭证等证据证实，足以认定。\n\n本院认为，被告单位昆山诚展自动化科技有限公司、被告人裴某让他人为自己虚开增值税专用发票，骗取国家税款，数额巨大，其行为均已构成虚开增值税专用发票罪。被告人裴某自动投案，如实供述罪行，系自首，依法可以从轻处罚。被告单位补缴全部税款，可酌情从轻处罚。综合考虑被告人的犯罪事实、性质、情节及悔罪表现，依照《中华人民共和国刑法》第二百零五条、第六十七条第一款、第七十二条第一款、第七十三条第二款、第三款之规定，判决如下：\n\n一、被告单位昆山诚展自动化科技有限公司犯虚开增值税专用发票罪，判处罚金人民币五十万元；\n\n二、被告人裴某犯虚开增值税专用发票罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二十万元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向苏州市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n\n审判长 XXX\n20xx年x月x日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其2013-2017年间通过支付开票费方式虚开152份增值税专用发票，涉及税款245万余元\n   - 9名证人证言，证实被告单位无真实业务背景虚开发票的事实\n   - 多项书证（工商信息、抵扣证明、转账凭证、发票复印件等），证实虚开发票的具体操作流程和金额\n\n2. 辩护人出示了3项证据：\n   - 情况说明，证实被告人主动投案\n   - 补缴税款凭证，证实已全额补缴245万余元税款\n   - 预缴罚金保证金凭证，证实已预缴30万元罚金保证金\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议\n4. 公诉人对辩护人出示的全部证据均无异议\n5. 被告人明确表示不申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其2013-2017年间通过支付开票费方式虚开152份增值税专用发票，涉及税款245万余元\n   - 9名证人证言，证实被告单位无真实业务背景虚开发票的事实\n   - 多项书证（工商信息、抵扣证明、转账凭证、发票复印件等），证实虚开发票的具体操作流程和金额\n\n2. 辩护人出示了3项证据：\n   - 情况说明，证实被告人主动投案\n   - 补缴税款凭证，证实已全额补缴245万余元税款\n   - 预缴罚金保证金凭证，证实已预缴30万元罚金保证金\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议\n4. 公诉人对辩护人出示的全部证据均无异议\n5. 被告人明确表示不申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其2013-2017年间通过支付开票费方式虚开152份增值税专用发票，涉及税款245万余元\n   - 9名证人证言，证实被告单位无真实业务背景虚开发票的事实\n   - 多项书证（工商信息、抵扣证明、转账凭证、发票复印件等），证实虚开发票的具体操作流程和金额\n\n2. 辩护人出示了3项证据：\n   - 情况说明，证实被告人主动投案\n   - 补缴税款凭证，证实已全额补缴245万余元税款\n   - 预缴罚金保证金凭证，证实已预缴30万元罚金保证金\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议\n4. 公诉人对辩护人出示的全部证据均无异议\n5. 被告人明确表示不申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其2013-2017年间通过支付开票费方式虚开152份增值税专用发票，涉及税款245万余元\n   - 9名证人证言，证实被告单位无真实业务背景虚开发票的事实\n   - 多项书证（工商信息、抵扣证明、转账凭证、发票复印件等），证实虚开发票的具体操作流程和金额\n\n2. 辩护人出示了3项证据：\n   - 情况说明，证实被告人主动投案\n   - 补缴税款凭证，证实已全额补缴245万余元税款\n   - 预缴罚金保证金凭证，证实已预缴30万元罚金保证金\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议\n4. 公诉人对辩护人出示的全部证据均无异议\n5. 被告人明确表示不申请调取新证据或通知新证人\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 认定被告单位及被告人构成虚开增值税专用发票罪，涉案金额245万余元，数额巨大\n- 指出被告具有自首情节，已补缴全部税款并预缴罚金保证金\n- 建议判处被告单位罚金，对被告人判处有期徒刑并适用缓刑\n\n2. 辩护人发表辩护意见：\n- 强调被告人具有自首情节，主动补缴全部税款和预缴罚金\n- 指出被告人认罪态度良好，系初犯且已采取补救措施\n- 建议法庭从轻处罚并适用缓刑\n\n3. 控辩双方主要争议焦点：\n- 关于量刑标准：公诉人认为涉案金额接近\"特别严重情节\"标准，辩护人指出尚未达到250万元标准\n- 关于缓刑适用：公诉人认为不符合\"犯罪情节较轻\"条件，辩护人认为符合缓刑适用条件\n- 关于犯罪动机：辩护人强调系企业经营困难所致，与纯粹牟利型犯罪有别\n\n4. 双方补充辩论要点：\n- 公诉人补充指出犯罪持续时间长、主观恶性不容忽视\n- 辩护人补充说明被告人系初犯，已加强财务管理防止再犯",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人通过朋友介绍认识王某甲购买增值税专用发票\n- 开票费按发票金额6%计算并通过银行转账支付\n- 虚开发票记入公司应付账款并申报抵扣\n- 被告人承认152份发票均无真实交易\n- 被告人解释2017年投案是因经营困难后意识到问题严重性\n\n2. 辩护人讯问被告人：\n- 被告人投案当天即补缴全部税款2452640.21元\n- 主动预缴罚金保证金并提供完税凭证\n- 配合调查并加强公司财务管理\n- 主动提供银行转账记录等涉案材料\n\n3. 审判长讯问被告人：\n- 被告人陈述因经营恶化和税务稽查力度加大而决定投案\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其2013-2017年间通过支付开票费方式虚开152份增值税专用发票，涉及税款245万余元\n   - 9名证人证言，证实被告单位无真实业务背景虚开发票的事实\n   - 多项书证（工商信息、抵扣证明、转账凭证、发票复印件等），证实虚开发票的具体操作流程和金额\n\n2. 辩护人出示了3项证据：\n   - 情况说明，证实被告人主动投案\n   - 补缴税款凭证，证实已全额补缴245万余元税款\n   - 预缴罚金保证金凭证，证实已预缴30万元罚金保证金\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议\n4. 公诉人对辩护人出示的全部证据均无异议\n5. 被告人明确表示不申请调取新证据或通知新证人\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 认定被告单位及被告人构成虚开增值税专用发票罪，涉案金额245万余元，数额巨大\n- 指出被告具有自首情节，已补缴全部税款并预缴罚金保证金\n- 建议判处被告单位罚金，对被告人判处有期徒刑并适用缓刑\n\n2. 辩护人发表辩护意见：\n- 强调被告人具有自首情节，主动补缴全部税款和预缴罚金\n- 指出被告人认罪态度良好，系初犯且已采取补救措施\n- 建议法庭从轻处罚并适用缓刑\n\n3. 控辩双方主要争议焦点：\n- 关于量刑标准：公诉人认为涉案金额接近\"特别严重情节\"标准，辩护人指出尚未达到250万元标准\n- 关于缓刑适用：公诉人认为不符合\"犯罪情节较轻\"条件，辩护人认为符合缓刑适用条件\n- 关于犯罪动机：辩护人强调系企业经营困难所致，与纯粹牟利型犯罪有别\n\n4. 双方补充辩论要点：\n- 公诉人补充指出犯罪持续时间长、主观恶性不容忽视\n- 辩护人补充说明被告人系初犯，已加强财务管理防止再犯",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 200000.0,
+    "reprieve": 48.0
+  }
+]

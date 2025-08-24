@@ -1,0 +1,1846 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人旺某，男，藏族，西藏聂荣县某镇某村党支部副书记、村主任，文化程度XXX，户籍西藏聂荣县。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是村党支部副书记、村主任。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "西藏自治区聂荣县人民检察院  \n起 诉 书  \n\n聂检刑诉字〔2018〕004号  \n\n被告人旺某，男，藏族，西藏聂荣县某镇某村党支部副书记、村主任，文化程度XXX，户籍西藏聂荣县。  \n\n本案由西藏自治区聂荣县监察委员会调查终结，以被告人旺某涉嫌职务侵占罪，于2018年9月12日向本院移送审查起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2015年7月，西藏聂荣县某镇某村为不影响本村“三农”贷款信用度，经村集体讨论并征得10户村民同意，将上一轮贷款中未按时还款的10户村民“惠民一折通”统一由村委会管理，待资金足够后还款并归还本人。被告人旺某作为长期驻县城的村干部，受委托保管上述“一折通”。后旺某将其中8户的“一折通”资金144800元分25次从拉萨、那曲、聂荣等地取走，全部用于个人债务及日常开销。  \n\n2016年5月19日，该村与四川省某公司签订采石合同（价款90000元，分两次支付）。同年9月，公司负责人张某将首笔45000元支付给驻村队长杰某及旺某。杰某经村支书晋某同意暂由旺某保管该款，待转交村出纳论某。旺某将45000元全部用于个人支出，其中40000元存入其农行卡（卡号6228ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ）。  \n\n案发后，被告人旺某退赔106703元。  \n\n认定上述事实的证据如下：  \n1. 书证：旺某个人信息采集表、当选证明、《采石合同》、银行流水、监察委调取的取款明细、扣押及退还清单、收据等；  \n2. 证人证言：杰某、晋某、论某等27名证人关于资金保管及侵占情况的陈述；  \n3. 被告人供述：旺某对侵占事实的供认；  \n4. 勘验笔录：指认涉案银行卡的笔录。  \n\n本院认为，被告人旺某利用职务便利，将村集体财产45000元及村民托管资金144800元非法占为己有，数额较大，其行为触犯《中华人民共和国刑法》第二百七十一条第一款，犯罪事实清楚，证据确实、充分，应当以职务侵占罪追究刑事责任。鉴于其如实供述、自愿认罪并部分退赃，依据《中华人民共和国刑法》第六十七条第三款，可从轻处罚。建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条，提起公诉，请依法判处。  \n\n此致  \n西藏自治区聂荣县人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的基本事实没有异议，但我想说明两点：第一，我确实是因为个人债务压力临时动用了这些资金，但一直有归还的打算；第二，案发后我已经主动退赔了106703元，占涉案金额的56%，我愿意继续退赔剩余部分。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人旺某，你在担任村党支部副书记、村主任期间，是否受村委会委托保管8户村民的\"惠民一折通\"和村集体采石款45000元？请具体说明保管的起始时间和资金来源。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的。2015年7月开始保管8户村民的\"惠民一折通\"，2016年9月底开始保管村集体采石款45000元。这些资金都是村委会委托我保管的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你从8户村民的\"惠民一折通\"中分25次取走144800元，以及将采石款45000元存入个人账户并取现，这些资金的具体去向是什么？是否用于村集体事务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些资金主要用于偿还我个人债务和日常家庭开支，没有用于村集体事务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在取用这些资金时，是否向村委会或相关村民进行过告知或取得授权？为何没有按照约定将采石款转交村出纳论某？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向村委会或村民告知或取得授权。当时因为个人债务压力大，临时动用了这些资金，计划后续填补，所以没有及时转交给村出纳。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你声称因个人债务压力临时动用资金，但为何在长达一年多时间内持续多次取款而未归还？这能否说明你具有非法占有的主观故意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时确实存在侥幸心理，想着等经济状况好转就归还。但后来资金周转困难，导致没能及时还上。我承认这种行为是错误的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你退赔了106703元，但仍有83097元未退赔，你对此有何解释？是否有继续退赔的计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我目前经济困难，暂时无法全部退赔。但我愿意制定还款计划，争取尽快退赔剩余款项。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "作为村干部，你是否清楚挪用集体资金和村民托管资金的法律后果？你对自己行为的性质有何认识？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我清楚挪用资金是违法行为。作为村干部，我辜负了村民的信任，对此深感后悔。我愿意承担相应的法律责任。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，被告人已经对资金去向、主观故意和退赔情况作出了明确供述。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于你保管的8户村民\"惠民一折通\"资金144800元，你当时是否有明确的还款计划？请具体说明你计划如何填补这笔资金缺口。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时计划通过个人收入逐步偿还这些资金，但由于收入不稳定，加上债务压力较大，导致没能按计划及时填补资金缺口。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于采石合同款项45000元，你称是\"暂时保管\"，那么当时是否与村支书晋某或出纳论某约定过具体的移交时间？为何最终未能按时移交？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时村支书晋某只是说让我暂时保管，等出纳论某回来后移交，但没有约定具体时间。后来因为个人资金周转困难，我就擅自使用了这笔钱，导致没能按时移交。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在供述中提到\"因个人债务压力较大\"而动用资金，能否具体说明这些债务的性质和形成原因？这些债务是否与村集体事务有关？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些债务主要是个人家庭开支和之前做生意欠下的借款，与村集体事务没有任何关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，被告人已经对资金使用情况、还款计划和债务性质作出了明确回答。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你提到计划通过个人收入逐步偿还资金，请具体说明在2015年7月至2018年案发期间，你实际为填补资金缺口采取了哪些具体措施？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在这期间，我主要通过两个途径尝试填补资金缺口：一是利用我在县城打工的收入，二是向亲友借款。但由于收入有限且债务较多，实际偿还的金额不多。2017年底开始，我陆续归还了部分资金，到案发前共退赔了106703元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你声称在2017年底开始陆续归还部分资金，请具体说明每次归还的金额、时间及归还对象。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2017年12月归还村民折子资金3万元，2018年3月归还2万元，2018年5月归还采石款56703元。这些款项都是通过银行转账直接退回到村委会指定账户的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你声称在2017年底开始陆续归还部分资金，为何在2015年7月至2017年12月这两年多时间内没有采取任何还款措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "那段时间我确实存在侥幸心理，想着等经济状况好转再一次性归还。同时因为个人债务压力大，收入主要用于维持家庭基本生活开支，所以没能及时采取还款措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年7月，西藏聂荣县某镇某村集体讨论决定，将10户村民的“惠民一折通”交由村委会管理，用于偿还贷款。因我常驻县城，村委会指派我保管这些折子。后因措某和西某急需用钱，村委会同意将2户的折子归还，其余8户仍由我保管。2015年至2016年期间，我从8户的折子中分25次取走144800元，用于偿还个人债务和日常开销。  \n\n2016年5月19日，村委会与四川省某公司签订采石协议，合同金额90000元，约定分两次支付。同年9月底，公司负责人张某将首笔45000元支付给驻村工作队队长杰某和我。杰某经村党支部书记晋某同意，让我暂时保管这笔钱，待出纳论某回来后移交。我将45000元中的40000元存入个人农行卡并取走，剩余5000元现金也用于个人债务和日常开销。  \n\n（2）犯案动机  \n我因个人债务压力较大，临时动用了保管的村民折子资金和村集体采石款，计划后续填补，但未能及时归还。  \n\n（3）案发之后的处理  \n案发后，我退赔了106703元。我没有自首，也未与被害人达成书面和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人在侦查阶段的供述，虽然被告人承认了资金去向，但该供述仅能证明资金使用情况，无法直接证明被告人具有非法占有的主观故意。被告人在供述中明确表示\"计划后续填补\"，这与其主观上具有非法占有目的的主张相矛盾。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在长达两年多时间内持续多次取款且未采取任何还款措施，其所谓\"计划后续填补\"的辩解与客观行为明显不符。根据《刑法》规定，非法占有目的不仅包括永久占有，也包括长期非法控制。被告人的行为模式已充分证明其具有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已经充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：被告人旺某的个人信息采集表，证明案发时被告人旺某达到刑事责任年龄的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：西藏聂荣县某镇出具的当选证明，证明旺某当选了西藏聂荣县某镇某村村副书记和团支部书记的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：《采石合同》，证明2016年5月19日，西藏聂荣县某镇某村与四川省某公司签订采石合同，合同价为90000元，合同约定四川省某公司分两次，一次45000元的方式将采石款支付给村委会的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：四川省某公司出具的采石合同情况说明（附公司公章及负责人张某签字），证明2016年9月四川省某公司的负责人张某将45000元采石款支付给西藏聂荣县某镇某村驻村工作队队长杰某的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：农行卡（卡号6228ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ）及银行出具的资金流水证明，证明被告人旺某将采石场的45000元中40000元入账到此卡的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该银行流水仅能证明资金流向，无法直接证明被告人具有非法占有的主观故意。资金存入个人账户并不等同于非法占有，需要结合其他证据综合判断。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行流水显示被告人将集体资金转入个人账户后立即取现，且持续一年多未归还，这种资金转移模式与\"临时保管\"的辩解明显矛盾，结合被告人供述中承认将资金用于个人债务和日常开销，已形成完整证据链证明其非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对银行流水证据的争议焦点已经充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：西藏聂荣县监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某从加某、仁某、吉某、玉某、啊某等五人的卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：西藏自治区监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在拉萨从玉某、吉某、次某甲、达某、加某、次某乙、仁某、阿某甲等七户的卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：西藏那曲市监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在那曲从玉某、伟某、次某甲、达某、次某丙等六户的卡中拿走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：西藏聂荣县监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在那曲从吉某、加某、仁某、啊某等四户的卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：西藏聂荣县监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在那曲从仁某、吉某、玉某、阿某甲等六户卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：西藏聂荣县监察委出具的扣押通知书、清单（附《扣押决定书》文号XX），证明县监委会将次某甲、达某、伟某、次某乙的卡收集调查",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：西藏聂荣县监察委出具的退还、返还通知书（附《退还决定书》文号XX），证明县监委会将次某甲、达某、伟某、次某乙的卡还给村民",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：收据9份（附收款人签字确认），证明被告人旺某先后退赔人民币106703元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人杰某说：“我从四川省某公司负责人张某手中拿到45000元采石款后，经村党支部书记晋某同意后将钱交给被告人旺某保管。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人晋某说：“经村委会同意由被告人旺某保管8户村民的‘惠民一折通’和采石场的45000元，后被告人旺某以各种理由拖着不返还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明资金保管的事实，无法证明被告人具有非法占有的主观故意。证言中\"以各种理由拖着不返还\"的表述属于主观判断，不能作为认定被告人主观故意的直接证据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人晋某作为村党支部书记，其证言客观反映了被告人长期拖延返还集体资金的事实，结合被告人多次取款且未采取有效还款措施的行为，可以印证其非法占有的主观故意。证人证言与书证、被告人供述相互印证，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证人证言的争议焦点已经充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人论某说：“被告人旺某保管西藏聂荣县某镇某村8户村民的‘惠民一折通’和村委会有45000元的采石款。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人白某说：“经村委会同意由被告人旺某保管8户村民的‘惠民一折通’，后被告人旺某以各种理由拖着不返还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言与证人晋某的证言内容重复，且同样仅能证明资金保管的事实，无法直接证明被告人具有非法占有的主观故意。\"以各种理由拖着不返还\"的表述属于主观判断，不能作为认定被告人主观故意的直接证据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人白某的证言与晋某证言相互印证，客观反映了被告人长期占有集体资金且未履行返还义务的事实。结合被告人多次取款、资金去向及未采取有效还款措施等客观行为，可以认定其具有非法占有的主观故意。证人证言作为间接证据，与其他证据形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证人证言的争议焦点已经充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人玉某说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还，卡上也只剩下十几块钱。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人曲某说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还，卡上也只剩下三十几块钱。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人仁某说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人加某说：“经村委会同意由被告人旺某保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人吉某说：“经村委会同意由被告人旺某保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人阿某甲说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人阿某乙说：“经村委会同意由被告人旺某保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人西某说：“经村委会同意保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人次某乙说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.勘验、检查、辨认、侦查实验等笔录：指认笔录（附见证人签字及程序说明），证明卡号6228ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ的农行卡，是被告人侵占赃物期间使用的卡",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n第一，关于犯罪构成要件。根据《刑法》第二百七十一条，被告人旺某作为村干部，利用职务便利侵占集体资金144800元及采石款45000元，数额较大，其行为完全符合职务侵占罪的构成要件。银行流水、取款明细等客观证据与被告人供述相互印证，形成完整证据链。\n\n第二，关于主观故意。被告人在长达两年多时间内分25次取款，且将资金全部用于个人债务和日常开销，这种持续、多次的侵占行为模式，足以证明其具有非法占有的主观故意。所谓\"计划后续填补\"的辩解与客观行为明显不符。\n\n第三，关于量刑情节。虽然被告人部分退赔106703元，但仍有83097元未退赔，反映其非法占有目的明确。作为村干部，其行为严重损害村民利益和基层组织公信力，社会危害性较大。根据《刑法》第六十七条第三款，其如实供述可从轻处罚，但不足以减轻其罪责。\n\n综上，建议法庭依法认定被告人犯职务侵占罪，并考虑其部分退赃情节，在法定刑幅度内予以惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于主观故意问题。根据《刑法》规定，职务侵占罪要求行为人具有非法占有的主观故意。本案中，被告人在供述中明确表示\"计划后续填补\"，且已实际退赔106703元，占涉案金额的56%，这与其主观上具有非法占有目的的主张相矛盾。银行流水等书证仅能证明资金流向，无法直接证明被告人的主观故意。\n\n第二，关于量刑情节。根据《刑法》第六十七条第三款，被告人如实供述自己的罪行，可以从轻处罚。被告人系初犯，因个人债务压力临时起意，主观恶性较小。案发后已主动退赔106703元，具有悔罪表现。\n\n第三，关于社会危害性。被告人作为村干部，其行为确实不当，但考虑到其已部分退赔，且愿意继续退赔剩余款项，社会危害性相对较小。\n\n综上，恳请法庭充分考虑被告人的认罪态度、退赔情况及主观恶性，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的主观故意问题，需要强调三点：第一，根据《刑法》规定，非法占有目的不仅表现为永久占有，也包括长期非法控制。被告人在长达两年多时间内持续多次取款且未采取任何还款措施，其所谓\"计划后续填补\"的辩解与客观行为明显不符。第二，被告人将集体资金转入个人账户后立即取现用于个人债务，这种资金转移模式与\"临时保管\"的辩解矛盾。第三，虽然被告人部分退赔，但仍有83097元未退赔，反映其非法占有目的明确。\n\n关于量刑情节，需要指出：第一，被告人作为村干部，其行为严重损害村民利益和基层组织公信力，社会危害性较大。第二，虽然部分退赔体现一定悔罪态度，但未全额退赔反映主观恶性仍需惩戒。第三，根据《刑法》第六十七条第三款，其如实供述可从轻处罚，但不足以减轻其罪责。\n\n综上，被告人的行为完全符合职务侵占罪的构成要件，建议法庭依法惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的主观故意问题，辩护人补充以下意见：根据《最高人民法院关于审理经济犯罪案件具体应用法律若干问题的解释》第十一条，认定非法占有目的应当综合考察行为人的客观行为表现。本案中，被告人在2017年底开始主动退赔资金，这一行为与其\"计划后续填补\"的供述相互印证，表明其主观上并非意图永久占有涉案资金。\n\n关于量刑问题，辩护人提请法庭注意：被告人已退赔106703元，占涉案金额的56%，远高于《最高人民法院关于常见犯罪的量刑指导意见》中\"全部退赃、退赔的，可以减少基准刑的30%以下\"的规定比例。根据该指导意见，部分退赔也应相应从轻处罚。\n\n此外，被告人系初犯，认罪态度良好，根据《刑法》第七十二条关于缓刑适用的规定，符合\"犯罪情节较轻\"、\"有悔罪表现\"等条件，建议法庭考虑适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的缓刑适用问题，需要指出：根据《刑法》第七十二条，适用缓刑需满足\"犯罪情节较轻\"的条件。本案中被告人侵占金额达189800元，数额较大，且作为村干部利用职务便利侵占集体资金，社会影响恶劣，不符合\"犯罪情节较轻\"的缓刑适用条件。\n\n关于退赔比例问题，虽然被告人退赔106703元，但仍有83097元未退赔，且是在案发后才进行退赔，属于被动退赔，不能完全反映其悔罪态度。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于被动退赔的，从宽幅度应当从严掌握。\n\n关于主观故意问题，被告人长达两年多时间内持续多次取款且未采取任何还款措施，其行为模式已充分证明其具有非法占有的主观故意。根据《刑法》第二百七十一条规定，这种长期非法控制集体资金的行为已构成职务侵占罪。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的缓刑适用问题，辩护人认为：根据《最高人民法院关于常见犯罪的量刑指导意见》，对于职务侵占罪，数额在10万元至50万元之间的，属于\"数额较大\"而非\"数额巨大\"。被告人侵占金额189800元虽已达到追诉标准，但尚未达到\"数额巨大\"的50万元标准，且已退赔56%，符合\"犯罪情节较轻\"的认定条件。\n\n关于退赔性质问题，需要指出被告人在案发前即已开始主动退赔，并非完全被动。根据《刑法》第六十七条第三款，被告人如实供述并部分退赔，应当依法从轻处罚。\n\n关于主观故意问题，辩护人强调：根据《刑法》规定，认定非法占有目的需要综合考察行为人的客观行为表现。被告人作为初犯，因个人债务压力临时起意，与预谋犯罪有明显区别，主观恶性相对较小。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人主观故意和量刑情节已充分发表意见，现请围绕被告人提出的还款计划可行性问题展开辩论，重点讨论：1.被告人目前经济状况和收入来源；2.剩余83097元的具体还款方案和时间表；3.是否有第三方担保或其他确保还款计划执行的措施。公诉人请发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人提出的还款计划可行性问题，公诉人认为：\n\n第一，根据被告人供述，其目前经济困难，主要依靠县城打工收入和亲友借款维持生活，缺乏稳定收入来源。这种经济状况难以保证剩余83097元的按期偿还。\n\n第二，被告人在法庭上仅表示\"愿意制定还款计划\"，但未提出具体可行的还款方案和时间表，缺乏可执行性。其在2015年至2018年期间长期未采取有效还款措施，还款意愿和能力的可信度存疑。\n\n第三，被告人未提供任何第三方担保或其他确保还款计划执行的措施，无法保证剩余款项能够实际退赔。根据《刑法》第六十四条规定，退赔情况应当作为量刑考虑因素，但缺乏保障的还款承诺不应影响对犯罪事实的认定和量刑。\n\n综上，被告人的还款计划缺乏具体内容和保障措施，建议法庭在量刑时充分考虑其未全额退赔的客观事实。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于还款计划可行性问题，辩护人补充以下意见：\n\n第一，被告人虽目前经济困难，但其作为村干部有固定工资收入，且已在县城找到稳定工作，具备持续还款能力。根据其2017年底至2018年案发前已退赔106703元的实际表现，证明其具备履行还款计划的能力。\n\n第二，被告人愿意提出具体还款方案：计划在两年内分期偿还剩余83097元，每月还款不低于3500元。该方案与其收入水平相匹配，具有现实可行性。\n\n第三，被告人的亲属愿意提供担保，确保还款计划执行。根据《最高人民法院关于常见犯罪的量刑指导意见》，被告人有明确还款计划且提供担保的，可以酌情从轻处罚。\n\n需要强调的是，被告人已退赔56%涉案金额，远高于部分退赔的一般标准。根据《刑法》第六十四条，退赔情况应当作为重要量刑情节予以考虑。恳请法庭给予被告人履行还款计划的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我对自己的行为深感悔恨。作为村干部，我辜负了村民的信任，将集体资金用于个人用途。我承认错误，并已退赔106703元。我承诺会继续偿还剩余款项，每月至少还款3500元，我的亲属愿意为此提供担保。恳请法庭考虑我是初犯，认罪态度良好，给予我从轻处罚的机会。我愿意接受法律的制裁，并以此为戒，今后一定遵纪守法。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "西藏自治区聂荣县人民法院\n刑事判决书\n（2018）聂刑初字第004号\n\n公诉机关西藏自治区聂荣县人民检察院。\n\n被告人旺某，男，藏族，19XX年XX月XX日出生，西藏聂荣县某镇某村党支部副书记、村主任，户籍地西藏聂荣县。因涉嫌职务侵占罪于2018年XX月XX日被采取强制措施，现取保候审。\n\n辩护人XXX，西藏XX律师事务所律师。\n\n西藏自治区聂荣县人民检察院以聂检刑诉字〔2018〕004号起诉书指控被告人旺某犯职务侵占罪，于2018年XX月XX日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。西藏自治区聂荣县人民检察院指派检察员XXX出庭支持公诉，被告人旺某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n西藏自治区聂荣县人民检察院指控：2015年7月至2016年9月期间，被告人旺某利用担任村党支部副书记、村主任的职务便利，将村集体财产45000元及村民托管资金144800元非法占为己有，数额较大，其行为已构成职务侵占罪。被告人旺某对指控的犯罪事实及罪名无异议，自愿认罪认罚。\n\n经审理查明：2015年7月，西藏聂荣县某镇某村集体讨论决定将10户村民的\"惠民一折通\"交由村委会管理，被告人旺某受委托保管其中8户的\"一折通\"。2015年至2016年期间，旺某分25次从8户\"一折通\"中取走144800元用于个人债务及日常开销。2016年9月，旺某又将村集体采石款45000元存入个人账户并取现使用。案发后，旺某退赔106703元。上述事实有被告人供述、书证、证人证言等证据证实，足以认定。\n\n本院认为，被告人旺某作为村干部，利用职务便利将集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。公诉机关指控的罪名成立。被告人旺某如实供述罪行，自愿认罪认罚，并部分退赔，依法可以从轻处罚。辩护人关于被告人认罪态度好、部分退赔的辩护意见予以采纳。综合考虑被告人的犯罪事实、性质、情节及社会危害程度，依照《中华人民共和国刑法》第二百七十一条第一款、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第六十四条之规定，判决如下：\n\n一、被告人旺某犯职务侵占罪，判处有期徒刑一年六个月，缓刑二年；\n二、责令被告人旺某退赔剩余赃款人民币83097元，返还被害单位西藏聂荣县某镇某村。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向那曲市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n20XX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人旺某是否利用职务便利非法占有村集体资金和村民托管资金，构成职务侵占罪。需要查明其作为村干部的职务权限、资金保管的委托关系及资金去向等事实。\n\n2.被告人旺某的犯罪数额认定问题。需要核实144800元村民资金和45000元采石款的具体侵占金额，以及已退赔106703元的具体情况。\n\n3.被告人旺某的主观故意认定。需要查明其侵占资金时的主观动机、是否具有非法占有的目的，以及是否存在\"计划后续填补\"的辩解成立可能。\n\n4.量刑情节的认定。包括被告人如实供述、自愿认罪、部分退赃等从轻情节的认定，以及是否具有自首、取得被害人谅解等情节。\n\n5.是否适用缓刑。需要综合评估犯罪情节、悔罪表现、退赃情况及对社区的影响等因素。\n\n6.涉案资金的最终处置问题。需要明确剩余未退赔资金的追缴及返还方案。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部利用职务便利侵占集体资金和村民托管资金的典型案例及量刑标准",
+              "职务侵占罪中部分退赃对量刑的影响"
+            ],
+            "村干部利用职务便利侵占集体资金和村民托管资金的典型案例及量刑标准": "### 结论\n村干部利用职务便利侵占集体资金和村民托管资金的行为，构成职务侵占罪。量刑标准受自首、退赃、认罪态度、犯罪数额、是否从犯等因素影响，可依法从轻、减轻或从重处罚，适用缓刑需考虑犯罪情节、悔罪表现及对社区的影响。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与坦白**：【（2020）鲁1322刑初179号】、【（2019）鲁1426刑初263号】、【（2020）闽0212刑初515号】中，被告人主动到案并如实供述犯罪事实，依法可认定为自首，可从轻处罚。\n- **退赃与认罪态度**：【（2019）鲁0832刑初37号】、【（2020）鲁1324刑初152号】、【（2022）鲁1522刑初367号】中，被告人退赔赃款，有悔罪表现，依法可从轻处罚。\n- **犯罪数额**：【（2014）海南二中刑终字第45号】、【（2020）鲁1324刑初152号】中，犯罪数额巨大或数额较大，影响量刑。\n- **是否从犯**：【（2020）鲁1322刑初179号】中，被告人鲁成敏在共同犯罪中可认定为从犯，依法应当从轻处罚。\n- **适用缓刑**：【（2019）鲁0832刑初37号】、【（2022）鲁1522刑初367号】、【（2019）浙0727刑初219号】中，被告人犯罪情节、悔罪表现及对社区的影响是适用缓刑的重要考量因素。\n\n综上，村干部利用职务便利侵占集体资金和村民托管资金的行为，构成职务侵占罪，量刑时会综合考虑自首、退赃、认罪态度、犯罪数额、是否从犯等因素，依法从轻、减轻或从重处罚，适用缓刑需考虑犯罪情节、悔罪表现及对社区的影响。\n\n#####\n类似案件为：\n【（2020）鲁1322刑初179号】：法院认为，被告人鲁成敏作为村干部，利用职务上的便利，同他人非法侵占村集体财物，构成职务侵占罪。在共同犯罪中，鲁成敏可以认定为从犯，依法应当从轻处罚；其主动到案，到案后如实供述犯罪事实，系自首，依法可以从轻处罚；其愿意接受处罚，退赔赃款，有悔罪表现，依法可以对其从轻处罚，适用缓刑。被告人鲁成敏犯职务侵占罪，判处拘役四个月，缓刑六个月（缓刑考验期，从判决确定之日起计算）。\n【（2019）鲁1426刑初263号】：法院认为，被告人肖国亮利用职务便利，将村集体资金非法占为已有，数额较大，其行为已构成职务侵占罪。鉴于其有自首情节，依法可从轻处罚；但其具有职务犯罪前科，酌情从重处罚。一、被告人肖国亮犯职务侵占罪，判处有期徒刑一年二个月。\n （刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年10月16日起至2020年12月15日止）。\n 二、被告人肖国亮职务侵占款人民币211682元，予以返还原单位。\n【（2020）闽0212刑初515号】：法院认为，林万紫、林东海利用担任村干部职务的便利，采用虚假报销的方法将村集体资金非法占为己有，林万紫侵占174348元，林东海侵占107898元，均属数额较大，构成职务侵占罪。鉴于二被告人自首、认罪认罚、退还全部侵占资金，决定从轻处罚并适用缓刑。一、被告人林万紫犯职务侵占罪，判处有期徒刑七个月，缓刑一年。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人林东海犯职务侵占罪，判处拘役五个月，缓刑六个月。\n （缓刑考验期限，从判决确定之日起计算。）",
+            "职务侵占罪中部分退赃对量刑的影响": "### 结论\n在职务侵占罪中，部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赃**：部分退赃可以作为酌定从轻处罚的情节。例如，【（2018）浙0604刑初126号】中，被告人顾飞君已部分退赃，法院酌情从轻处罚。【（2019）鲁1102刑初838号】中，被告人隋仕早部分违法所得已被扣押，另向被害单位退还部分赃款，法院酌情从轻处罚。【（2017）浙0602刑初258号】中，被告人吴卫芳部分退赃，法院酌情从轻处罚。\n- **退赃比例与犯罪数额**：退赃比例和犯罪数额是影响量刑的重要因素。【（2019）粤0307刑初3496号】中，被告人古某某退回侵占的旧手机41部，并退赔公司人民币20000元，法院认为其具有认罪认罚、部分退赔的从轻处罚情节。【（2019）粤0106刑初768号】中，被告人徐某退赔被害单位大部分经济损失，法院从轻处罚。然而，【（2017）浙0602刑初258号】中，被告人吴卫芳多次实施职务侵占行为，且有巨额损失尚未挽回，法院认为不应对被告人适用缓刑。\n- **认罪态度**：认罪态度也是影响量刑的重要因素。【（2019）鲁1102刑初838号】中，被告人隋仕早归案后如实供述犯罪事实，自愿认罪，法院从轻处罚。【（2019）粤0307刑初3496号】中，被告人古某某对起诉书指控的犯罪事实无异议，并表示认罪，法院认为其具有认罪认罚的从轻处罚情节。\n\n综上，部分退赃在职务侵占罪中可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2017）浙0602刑初258号】：法院认为，被告人吴卫芳利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于吴卫芳有自首情节，部分退赃，可从轻处罚，但多次实施职务侵占，有巨额损失尚未挽回，主观恶性及社会危害性较大，不适用缓刑。一、被告人吴卫芳犯职务侵占罪，判处有期徒刑五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日）；\n 二、责令被告人吴卫芳继续退赔被害单位的经济损失。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述、银行流水、证人证言等证据形成完整证据链，证明旺某利用职务便利侵占集体资金144800元及采石款45000元，符合职务侵占罪构成要件。2.被告人在侦查阶段如实供述犯罪事实，自愿认罪并部分退赃106703元，可从轻处罚。3.被告人作为村干部，其行为严重损害村民利益和基层组织公信力，但鉴于退赔部分款项且认罪态度较好，建议适用缓刑。\n防御策略：1.针对辩护人可能质疑的取证程序问题，强调所有书证均附有监察委调取通知书及公章，程序合法。2.针对退赃比例争议，指出部分退赃已体现悔罪态度，但未全额退赔反映主观恶性仍需惩戒。3.针对犯罪动机辩解，结合多次取款行为证明其非法占有目的明确，非临时借用。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部利用职务便利侵占集体资金和村民托管资金的量刑标准",
+              "职务侵占罪中部分退赃对量刑的影响"
+            ],
+            "村干部利用职务便利侵占集体资金和村民托管资金的量刑标准": "### 结论\n村干部利用职务便利侵占集体资金和村民托管资金的行为构成职务侵占罪，量刑标准受侵占数额、自首、退赃、悔罪表现、是否初犯、是否从犯等因素影响，数额较大者可处五年以下有期徒刑或拘役，数额巨大者处五年以上有期徒刑，可以并处没收财产。在量刑时，法院会考虑被告人的自首、退赃、悔罪表现等情节，依法从轻或减轻处罚，对于初犯、从犯等情形，量刑时也会予以考虑，可能适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **侵占数额**：数额较大或数额巨大是构成职务侵占罪的关键因素，数额较大的，处五年以下有期徒刑或拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。例如，【（2019）鲁0832刑初37号】、【（2019）鲁1322刑初527号】、【（2014）海南二中刑终字第45号】中，法院均根据侵占数额对被告人进行了量刑。\n- **自首与坦白**：被告人主动投案自首或到案后如实供述犯罪事实，依法可以从轻或减轻处罚。例如，【（2019）鲁1426刑初263号】、【（2018）鲁0124刑初143号】中，被告人自首并退赃，法院依法从轻处罚。\n- **退赃与悔罪表现**：被告人主动退赔赃款，有悔罪表现，依法可以从轻处罚。例如，【（2019）鲁0832刑初37号】、【（2017）浙0382刑初1308号】中，被告人退赔赃款，法院依法从轻处罚。\n- **是否初犯**：对于初犯，法院在量刑时会予以考虑，可能适用缓刑。例如，【（2019）鲁1322刑初527号】、【（2017）鲁1302刑初455号】中，被告人系初犯，法院依法从轻处罚。\n- **是否从犯**：在共同犯罪中，从犯依法应当从轻处罚。例如，【（2020）鲁1322刑初179号】中，被告人鲁成敏被认定为从犯，依法从轻处罚。\n\n综上，村干部利用职务便利侵占集体资金和村民托管资金的行为构成职务侵占罪，量刑时法院会综合考虑侵占数额、自首、退赃、悔罪表现、是否初犯、是否从犯等因素，依法从轻或减轻处罚，对于符合条件的被告人，可能适用缓刑。\n\n#####\n类似案件为：\n【（2019）鲁0832刑初37号】：法院认为，被告人张某1、张某2作为村干部，利用负责本村社区建设职务便利，将村集体资金非法占为己有，数额较大，其行为构成职务侵占罪。鉴于二被告人归案后如实供述犯罪事实，主动退出违法所得，庭审中自愿认罪，具有悔罪表现，依法予以从轻处罚。经社会调查，对二被告人适用缓刑对其居住地无重大不良影响，依法可以适用缓刑。被告人张某1犯职务侵占罪，判处有期徒刑八个月,缓刑一年。\n\n（缓刑考验期从判决确定之日起计算）\n\n被告人张某2犯职务侵占罪，判处有期徒刑七个月，缓刑一年。\n\n（缓刑考验期从判决确定之日起计算）\n【（2019）鲁1322刑初527号】：法院认为，被告人徐希乾利用职务上的便利，非法侵占村集体财物，数额较大，其行为构成职务侵占罪。被告人徐希乾系坦白，已全部退赔赃款，有悔罪表现，依法从轻处罚，适用缓刑。被告人徐希乾犯职务侵占罪，判处有期徒刑十个月，缓刑一年（缓刑考验期，从判决确定之日起计算）。\n【（2014）海南二中刑终字第45号】：法院认为，李可周身为村委会主任，利用管理集体资金的职务便利，将本村委会的集体资金非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于李可周到案后，已退回全部赃款，有悔罪表现，可酌情从轻处罚。撤销昌江黎族自治县人民法院（2013）昌刑初字第107号刑事判决。\n上诉人李可周犯职务侵占罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2012年11月27日起至2017年11月26日止）。\n三、上诉人李可周所退款项13.324万元，其中10.9534万元作为赃款由扣缴机关返还昌江县海尾镇打显村委会，余款2.3706万元应予以退还。",
+            "职务侵占罪中部分退赃对量刑的影响": "### 结论\n在职务侵占罪中，部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赃**：部分退赃可以作为酌定从轻处罚的情节。例如，【（2018）浙0604刑初126号】中，被告人顾飞君已部分退赃，法院酌情从轻处罚。【（2019）鲁1102刑初838号】中，被告人隋仕早部分违法所得已被扣押，另向被害单位退还部分赃款，法院酌情从轻处罚。【（2017）浙0602刑初258号】中，被告人吴卫芳部分退赃，法院酌情从轻处罚。\n- **退赃比例与犯罪数额**：退赃比例和犯罪数额是影响量刑的重要因素。【（2019）粤0307刑初3496号】中，被告人古某某退回侵占的旧手机41部，并退赔公司人民币20000元，法院认为其具有认罪认罚、部分退赔的从轻处罚情节。【（2019）粤0106刑初768号】中，被告人徐某退赔被害单位大部分经济损失，法院从轻处罚。然而，【（2017）浙0602刑初258号】中，被告人吴卫芳多次实施职务侵占行为，且有巨额损失尚未挽回，法院认为不应对被告人适用缓刑。\n- **认罪态度**：认罪态度也是影响量刑的重要因素。【（2019）鲁1102刑初838号】中，被告人隋仕早归案后如实供述犯罪事实，自愿认罪，法院从轻处罚。【（2019）粤0307刑初3496号】中，被告人古某某对起诉书指控的犯罪事实无异议，并表示认罪，法院认为其具有认罪认罚的从轻处罚情节。\n\n综上，部分退赃在职务侵占罪中可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2017）浙0602刑初258号】：法院认为，被告人吴卫芳利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于吴卫芳有自首情节，部分退赃，可从轻处罚，但多次实施职务侵占，有巨额损失尚未挽回，主观恶性及社会危害性较大，不适用缓刑。一、被告人吴卫芳犯职务侵占罪，判处有期徒刑五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日）；\n 二、责令被告人吴卫芳继续退赔被害单位的经济损失。"
+          }
+        },
+        "目标": "请求法院判处被告人旺某犯职务侵占罪，处有期徒刑一年六个月，缓刑二年，并处罚金人民币五万元",
+        "询问": "1. 被告人旺某，你在担任村党支部副书记、村主任期间，是否受村委会委托保管8户村民的\"惠民一折通\"和村集体采石款45000元？请具体说明保管的起始时间和资金来源。\n\n2. 你从8户村民的\"惠民一折通\"中分25次取走144800元，以及将采石款45000元存入个人账户并取现，这些资金的具体去向是什么？是否用于村集体事务？\n\n3. 你在取用这些资金时，是否向村委会或相关村民进行过告知或取得授权？为何没有按照约定将采石款转交村出纳论某？\n\n4. 你声称因个人债务压力临时动用资金，但为何在长达一年多时间内持续多次取款而未归还？这能否说明你具有非法占有的主观故意？\n\n5. 案发后你退赔了106703元，但仍有83097元未退赔，你对此有何解释？是否有继续退赔的计划？\n\n6. 作为村干部，你是否清楚挪用集体资金和村民托管资金的法律后果？你对自己行为的性质有何认识？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的银行流水等书证仅能证明资金流向，无法直接证明被告人具有非法占有的主观故意 2.证人证言中关于资金保管的陈述存在矛盾，部分证人未明确指认被告人侵占行为 3.采石合同款项的保管程序存在瑕疵，不能完全归责于被告人\n防御策略：1.被告人已主动退赔106703元，占涉案金额的56%，具有悔罪表现 2.被告人系初犯，且因个人债务压力临时起意，主观恶性较小 3.被告人在村中担任要职多年，此次犯罪系偶发行为，社会危害性相对有限",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部职务侵占案件中部分退赔对量刑的影响",
+              "职务侵占罪中主观故意认定的相关案例"
+            ],
+            "村干部职务侵占案件中部分退赔对量刑的影响": "### 结论\n在村干部职务侵占案件中，部分退赔对量刑有显著影响，通常作为从轻处罚的情节，但是否适用缓刑还需综合考虑犯罪数额、认罪态度、社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赔**：部分退赔通常被视为从轻处罚的情节，表明被告人有悔罪表现，愿意弥补被害单位的损失。例如，【（2019）鲁1102刑初838号】中，被告人隋仕早部分退赔，法院酌情从轻处罚；【（2019）粤0307刑初453号】中，被告人陈某某家属代为退赔4万元，法院在量刑时予以考虑；【（2019）鲁0991刑初78号】中，被告人张铁军全部退赔，法院从轻处罚并宣告缓刑。\n- **犯罪数额**：犯罪数额是决定是否适用缓刑的重要因素。如【（2019）鲁1102刑初838号】中，尽管被告人部分退赔，但因犯罪数额较大，法院认为不适用缓刑。\n- **认罪态度**：认罪态度好，如实供述犯罪事实，也是从轻处罚的情节。如【（2019）鲁0991刑初78号】中，被告人张铁军有坦白情节，法院从轻处罚。\n- **社会危害性**：社会危害性大小也是量刑时考虑的因素。如【（2019）鲁1102刑初838号】中，法院认为被告人隋仕早的犯罪行为侵犯了村集体财产所有权，社会危害性大，不适用缓刑。\n\n综上，部分退赔在村干部职务侵占案件中通常作为从轻处罚的情节，但是否适用缓刑还需综合考虑犯罪数额、认罪态度、社会危害性等因素。\n\n#####\n类似案件为：\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2019）粤0307刑初453号】：法院认为，被告人陈某某的行为构成职务侵占罪。其具有如实供述自己罪行的从轻处罚情节。鉴于被告人的家属代为退赔被害单位部分损失，法院在量刑时予以考虑。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）鲁0991刑初78号】：法院认为，张铁军的行为构成职务侵占罪，鉴于其有坦白情节，已退赔全部赃款并取得谅解，且自愿认罪认罚，对所居住社区无重大不良影响，决定对其从轻处罚并宣告缓刑。被告人张铁军犯职务侵占罪，判处有期徒刑一年一个月，缓刑一年六个月。\n （缓刑考验期限，从判决确定之日起计算。）",
+            "职务侵占罪中主观故意认定的相关案例": "### 结论\n在职务侵占罪中，主观故意的认定主要涉及行为人是否具有非法占有单位财物的目的，以及是否利用了职务上的便利。法院在认定时会综合考虑行为人的职务、行为方式、资金的去向、是否做平账目、是否有归还能力及实际归还行为等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否利用职务便利**：法院会审查行为人是否利用了其在单位的职务便利，如【（2016）琼02刑终156号】中，苏玉为利用其职务之便，将公司资金转入个人账户，体现了利用职务便利的特征。\n- **行为人是否具有非法占有的主观故意**：法院会通过行为人的行为方式、资金的去向、是否做平账目、是否有归还能力及实际归还行为等来判断行为人是否具有非法占有的主观故意。例如，【（2014）浙杭刑初字第221号】中，朱永平、朱慧莲背负巨额债务无力偿还，后采取虚列开支等方式支取村集体资金，主要用于偿还前债，体现了非法占有的主观故意。\n- **行为人是否采取了掩饰犯罪的手段**：如做假账、伪造证据等，这些行为往往表明行为人有非法占有的目的。例如，【（2014）浙杭刑初字第221号】中，朱永平、朱慧莲采取虚列开支、收入不入账的手段，以掩饰其犯罪行为。\n- **行为人是否具有归还能力及实际归还行为**：如【（2014）长刑终字第371号】中，张X于2012年7、8月份，从他人手中购买过水泥、石子等建筑材料，共计支付了13442元，这部分应从侵占的6万元中予以核减，体现了部分归还行为。\n\n综上，职务侵占罪中主观故意的认定是一个综合判断的过程，需要结合行为人的具体行为、资金流向、职务便利的利用、归还能力及实际归还行为等多方面因素进行考量。\n\n#####\n类似案件为：\n【（2016）琼02刑终156号】：法院认为，苏玉为利用职务之便，侵吞本单位资金，其行为已构成职务侵占罪。苏玉为将公司资金转入个人账户，除支付工程款外，剩余133.48万元用于个人消费，且无法说明合理去向，具有非法占有单位资金的主观故意。一、撤销海南省三亚市城郊人民法院（2015）城刑重字第4号刑事判决。\n二、上诉人苏玉为犯职务侵占罪，判处有期徒刑五年，并处没收个人财产人民币1万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2012年11月20日起至2017年11月19日止。）\n三、责令上诉人苏玉为退赔被害单位三亚河东鹿回头开发建设有限公司人民币133.48万元。\n【（2014）浙杭刑初字第221号】：法院认为，朱永平、朱慧莲的行为分别构成合同诈骗罪和职务侵占罪，且朱永平在共同犯罪中起主要作用，系主犯，朱慧莲起次要作用，系从犯。一、被告人朱永平犯合同诈骗罪，判处无期徒刑，剥夺政治权利终身，并处没收其个人全部财产；犯职务侵占罪，判处有期徒刑十三年，并处没收其个人财产人民币10万元，二罪并罚，决定执行无期徒刑，剥夺政治权利终身，并处没收其个人全部财产。\n二、被告人朱慧莲犯合同诈骗罪，判处有期徒刑十年，并处罚金人民币30万元；犯职务侵占罪，判处有期徒刑七年，二罪并罚，决定执行有期徒刑十五年，并处罚金人民币30万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年3月19日起至2029年3月18日止。罚金限判决生效后一个月内缴纳。）。\n三、桐庐县公安局从被告人朱慧莲处扣押、未随案移送本院的赃款现金人民币13.483万元，按比例发还本案相关被害人及被害单位。\n四、责令被告人朱永平、朱慧莲退赔其余犯罪所得，发还本案相关被害人及被害单位。\n【（2014）浙杭刑初字第221号】：法院认为，朱永平、朱慧莲的行为分别构成合同诈骗罪和职务侵占罪，且朱永平在共同犯罪中起主要作用，系主犯，朱慧莲起次要作用，系从犯。一、被告人朱永平犯合同诈骗罪，判处无期徒刑，剥夺政治权利终身，并处没收其个人全部财产；犯职务侵占罪，判处有期徒刑十三年，并处没收其个人财产人民币10万元，二罪并罚，决定执行无期徒刑，剥夺政治权利终身，并处没收其个人全部财产。\n二、被告人朱慧莲犯合同诈骗罪，判处有期徒刑十年，并处罚金人民币30万元；犯职务侵占罪，判处有期徒刑七年，二罪并罚，决定执行有期徒刑十五年，并处罚金人民币30万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年3月19日起至2029年3月18日止。罚金限判决生效后一个月内缴纳。）。\n三、桐庐县公安局从被告人朱慧莲处扣押、未随案移送本院的赃款现金人民币13.483万元，按比例发还本案相关被害人及被害单位。\n四、责令被告人朱永平、朱慧莲退赔其余犯罪所得，发还本案相关被害人及被害单位。"
+          }
+        },
+        "目标": "请求法院对被告人旺某从轻处罚，判处缓刑并减少罚金",
+        "询问": "1. 被告人旺某，关于你保管的8户村民\"惠民一折通\"资金144800元，你当时是否有明确的还款计划？请具体说明你计划如何填补这笔资金缺口。\n\n2. 关于采石合同款项45000元，你称是\"暂时保管\"，那么当时是否与村支书晋某或出纳论某约定过具体的移交时间？为何最终未能按时移交？\n\n3. 你在供述中提到\"因个人债务压力较大\"而动用资金，能否具体说明这些债务的性质和形成原因？这些债务是否与村集体事务有关？\n\n4. 你已退赔106703元，这些退赔款项的来源是什么？是否表明你有积极弥补损失的意愿和能力？\n\n5. 作为村党支部副书记、村主任，你平时的工作表现如何？这些年来为村民办过哪些实事？村民对你的评价如何？\n\n6. 你是否有过其他类似行为？这次事件是偶发还是存在长期挪用的情况？\n\n7. 对于剩余未退赔的款项，你目前是否有具体的还款计划？预计何时能够全部退赔？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人已主动退赔106703元，占涉案金额的56%，具有明显的悔罪表现 2.被告人系初犯，因个人债务压力临时起意挪用资金，主观恶性较小 3.被告人在村中担任要职多年，此次犯罪系偶发行为，社会危害性相对有限 4.采石合同款项保管程序存在瑕疵，不能完全归责于被告人 5.部分证人证言存在矛盾，无法直接证明被告人具有非法占有的主观故意",
+        "记忆": "",
+        "目标": "请求法院对被告人旺某从轻处罚，判处缓刑并减少罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人旺某是否构成职务侵占罪。查明情况：被告人已承认利用职务便利挪用集体资金和村民托管资金的事实，但对主观故意方面提出\"计划后续填补\"的辩解。公诉人通过多次取款行为、长期未归还等事实证明了其非法占有的主观故意。审判长认为被告人的行为符合职务侵占罪的构成要件。\n\n2.犯罪数额认定问题。查明情况：双方对144800元村民资金和45000元采石款的总金额无异议，被告人已退赔106703元，剩余83097元未退赔。被告人表示愿意继续退赔但经济困难。审判长认为犯罪数额明确，退赔情况已查清。\n\n3.量刑情节认定问题。查明情况：被告人具有如实供述、自愿认罪、部分退赃等从轻情节，但不具有自首情节。辩护人强调被告人的还款意愿和部分退赔行为。审判长认为量刑情节基本查清，但需进一步评估退赔比例和悔罪表现。\n\n4.是否适用缓刑。查明情况：被告人作为村干部，犯罪持续时间长，虽部分退赔但仍有较大数额未退，且对村民利益造成损害。审判长认为需要综合评估其社会危害性和再犯可能性。\n\n5.剩余资金处置问题。查明情况：被告人表示愿意制定还款计划但经济困难。审判长认为需要明确具体的还款方案和时间表。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部挪用集体资金和村民托管资金构成职务侵占罪的认定标准",
+              "职务侵占罪中部分退赃对量刑的影响"
+            ],
+            "村干部挪用集体资金和村民托管资金构成职务侵占罪的认定标准": "### 结论\n村干部挪用集体资金和村民托管资金构成职务侵占罪的认定标准主要考虑行为人是否具有主管、管理、经手本单位财物的职务权限，以及是否利用了主管、管理、经手本单位财物的职务上的便利。此外，涉案财物的权属、行为人职务上的便利对犯罪完成所起的作用大小、以及行为人是否在行使管理村集体事务的职权而非协助政府从事行政管理工作等也是关键因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否具有主管、管理、经手本单位财物的职务权限**：如果行为人利用了其职务上的便利，将集体资金非法占为己有，构成职务侵占罪。例如，【（2020）苏1322刑初550号】、【（2022）鲁1522刑初367号】、【（2018）湘03刑终120号】中，被告人均利用了其作为村委会工作人员的职务便利，将集体资金非法占为己有，构成职务侵占罪。\n- **涉案财物的权属**：如果涉案财物属于村集体所有，且行为人利用职务便利非法占有，构成职务侵占罪。例如，【（2020）苏1322刑初550号】中，被告人葛凯挪用的款项属于村集体资金，构成挪用资金罪。\n- **行为人职务上的便利对犯罪完成所起的作用大小**：如果职务上的便利对整个犯罪的完成起到不可或缺的作用，则构成职务侵占罪。例如，【（2018）湘03刑终120号】中，郭从庚利用职务便利挪用集体资金，但由于数额未达到入罪标准，不构成挪用资金罪。\n- **行为人是否在行使管理村集体事务的职权而非协助政府从事行政管理工作**：如果行为人在行使管理村集体事务的职权时利用职务便利侵占村集体财产，构成职务侵占罪。例如，【（2018）湘03刑终120号】中，郭从庚利用职务便利挪用集体资金，但由于数额未达到入罪标准，不构成挪用资金罪，但其行为仍构成职务侵占罪。\n\n综上，村干部挪用集体资金和村民托管资金构成职务侵占罪的关键在于行为人是否利用了职务上的便利，以及涉案财物的性质和权属。如果行为人利用职务便利非法占有集体资金，且该资金属于村集体所有，构成职务侵占罪。此外，行为人是否在行使管理村集体事务的职权而非协助政府从事行政管理工作也是判断是否构成职务侵占罪的重要因素。\n\n#####\n类似案件为：\n【（2020）苏1322刑初550号】：法院认为，葛凯身为村委会工作人员，利用职务便利将集体资金占为己有，数额较大，构成职务侵占罪；挪用单位资金归个人使用，部分用于营利活动，数额较大，超过三个月未还，构成挪用资金罪。一、被告人葛凯犯职务侵占罪，判处有期徒刑十个月；犯挪用资金罪，判处拘役四个月。数罪并罚，决定执行有期徒刑十个月。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日(留置一日,折抵刑期一日)，即自二○二○年四月二十一日起至二○二一年二月二十日止。）\n 二、责令被告人葛凯退赔被害单位宿迁市湖滨新区晓店镇峰山居委会人民币二十二万元（该款已由被告人葛凯缴至中共沭阳县纪律检查委员会专项资金户）。\n【（2022）鲁1522刑初367号】：法院认为，被告人周广银、李殿修身为村委干部，利用职务便利将村集体资金非法占为已有，数额较大，构成职务侵占罪。被告人周广银、李殿修在审计谈话时主动说明了自己的犯罪事实，立案审查后一直如实供述自己的罪行，依法可认定为自首，且自愿认罪认罚，主动退出违法所得并缴纳罚金保证金，依法可从轻处罚。考量其犯罪情节、悔罪表现，适用非监禁刑对所居住的社区没有重大不良影响，依法可宣告缓刑。一、被告人周广银犯职务侵占罪，判处有期徒刑二年三个月，缓刑三年，并处罚金人民币30000元。\n二、被告人李殿修犯职务侵占罪，判处有期徒刑一年九个月，缓刑二年，并处罚金人民币20000元。\n（以上缓刑考验期均自判决确定之日起计算。）\n三、被告人周广银、李殿修所退违法所得由调查机关依法处理。\n【（2018）湘03刑终120号】：法院认为，郭从庚以非法占有为目的，虚构事实骗取征拆资金，数额较大，构成诈骗罪；利用职务便利将村集体资金非法占为己有，数额较大，构成职务侵占罪；挪用村集体资金数额未达入罪标准，不构成挪用资金罪。郭从庚到案后如实供述，系坦白，依法可以从轻处罚；主动退还赃款，可酌情从轻处罚。原审判决认定郭从庚构成挪用资金罪错误，适用法律不当，导致量刑不当，依法予以纠正。郭从庚犯诈骗罪，判处有期徒刑八个月，并处罚金人民币一万元；犯职务侵占罪，判处有期徒刑六个月；总和刑期一年二个月，并处罚金人民币一万元；合并决定执行有期徒刑一年，并处罚金人民币一万元。",
+            "职务侵占罪中部分退赃对量刑的影响": "### 结论\n在职务侵占罪中，部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赃**：部分退赃可以作为酌定从轻处罚的情节。例如，【（2018）浙0604刑初126号】中，被告人顾飞君已部分退赃，法院酌情从轻处罚。【（2019）鲁1102刑初838号】中，被告人隋仕早部分违法所得已被扣押，另向被害单位退还部分赃款，法院酌情从轻处罚。【（2017）浙0602刑初258号】中，被告人吴卫芳部分退赃，法院酌情从轻处罚。\n- **退赃比例与犯罪数额**：退赃比例和犯罪数额是影响量刑的重要因素。【（2019）粤0307刑初3496号】中，被告人古某某退回侵占的旧手机41部，并退赔公司人民币20000元，法院认为其具有认罪认罚、部分退赔的从轻处罚情节。【（2019）粤0106刑初768号】中，被告人徐某退赔被害单位大部分经济损失，法院从轻处罚。然而，【（2017）浙0602刑初258号】中，被告人吴卫芳多次实施职务侵占行为，且有巨额损失尚未挽回，法院认为不应对被告人适用缓刑。\n- **认罪态度**：认罪态度也是影响量刑的重要因素。【（2019）鲁1102刑初838号】中，被告人隋仕早归案后如实供述犯罪事实，自愿认罪，法院从轻处罚。【（2019）粤0307刑初3496号】中，被告人古某某对起诉书指控的犯罪事实无异议，并表示认罪，法院认为其具有认罪认罚的从轻处罚情节。\n\n综上，部分退赃在职务侵占罪中可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2017）浙0602刑初258号】：法院认为，被告人吴卫芳利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于吴卫芳有自首情节，部分退赃，可从轻处罚，但多次实施职务侵占，有巨额损失尚未挽回，主观恶性及社会危害性较大，不适用缓刑。一、被告人吴卫芳犯职务侵占罪，判处有期徒刑五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日）；\n 二、责令被告人吴卫芳继续退赔被害单位的经济损失。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述、银行流水、证人证言形成完整证据链，证明旺某利用职务便利侵占集体资金144800元及采石款45000元，符合职务侵占罪构成要件。2.强调被告人作为村干部，其行为严重损害村民利益和基层组织公信力，主观恶性较大。3.指出被告人虽部分退赃但仍有83097元未退赔，反映其非法占有目的明确，非临时借用。\n\n防御策略：1.针对辩护人可能质疑的取证程序问题，强调所有书证均附有监察委调取通知书及公章，程序合法。2.针对退赃比例争议，指出部分退赃已体现悔罪态度，但未全额退赔反映主观恶性仍需惩戒。3.针对犯罪动机辩解，结合多次取款行为证明其非法占有目的明确，非临时借用。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部挪用集体资金用于个人债务的职务侵占罪案例及量刑标准",
+              "职务侵占罪中部分退赃对量刑的影响"
+            ],
+            "村干部挪用集体资金用于个人债务的职务侵占罪案例及量刑标准": "### 结论\n村干部挪用集体资金用于个人债务的行为，构成职务侵占罪，量刑标准受挪用资金数额、是否归还、自首、退赃、认罪态度等因素影响。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **挪用资金数额**：挪用资金数额较大是构成职务侵占罪的关键因素。例如，【（2020）苏1322刑初550号】、【（2019）京0113刑初157号】、【（2019）鲁0832刑初37号】等案例中，被告人挪用资金数额较大，构成职务侵占罪。\n- **是否归还挪用资金**：在案发前归还全部挪用的资金，可以作为酌情从轻处罚的情节。如【（2018）鲁0321刑初246号】中，被告人王义全部退赃，获得从轻处罚。\n- **自首与认罪态度**：被告人犯罪后自动投案，如实供述自己的罪行，可以从轻处罚。如【（2020）闽0212刑初515号】中，被告人林万紫、林东海自首，获得从轻处罚。\n- **退赃情况**：被告人退赔全部侵占资金，可以酌情从轻处罚。如【（2020）闽0212刑初515号】中，被告人林万紫、林东海退还全部侵占资金，获得从轻处罚。\n- **认罪认罚**：被告人自愿认罪认罚，可以从宽处理。如【（2020）浙1002刑初122号】中，被告人项亨达认罪认罚，获得从宽处理。\n\n综上，挪用资金数额、是否归还挪用资金、自首与认罪态度、退赃情况等是影响职务侵占罪量刑的关键因素。\n\n#####\n类似案件为：\n【（2020）苏1322刑初550号】：法院认为，葛凯身为村委会工作人员，利用职务便利将集体资金占为己有，数额较大，构成职务侵占罪；挪用单位资金归个人使用，部分用于营利活动，数额较大，超过三个月未还，构成挪用资金罪。一、被告人葛凯犯职务侵占罪，判处有期徒刑十个月；犯挪用资金罪，判处拘役四个月。数罪并罚，决定执行有期徒刑十个月。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日(留置一日,折抵刑期一日)，即自二○二○年四月二十一日起至二○二一年二月二十日止。）\n 二、责令被告人葛凯退赔被害单位宿迁市湖滨新区晓店镇峰山居委会人民币二十二万元（该款已由被告人葛凯缴至中共沭阳县纪律检查委员会专项资金户）。\n【（2019）京0113刑初157号】：法院认为，被告人郑德强利用职务便利，非法占有村集体财产，数额巨大，其行为已构成职务侵占罪；挪用本单位资金归个人使用，数额较大，超过三个月未还，其行为已构成挪用资金罪。郑德强在判决宣告前一人犯数罪，应数罪并罚。一、被告人郑德强犯职务侵占罪，判处有期徒刑九年六个月，剥夺政治权利一年；犯挪用资金罪，判处有期徒刑一年；决定执行有期徒刑十年，剥夺政治权利一年（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2018年5月15日起至2028年5月14日止）；\n二、责令被告人郑德强退赔北京市顺义区赵全营镇东水泉村村民委员会人民币八百五十万四千八百九十二元。\n【（2019）鲁0832刑初37号】：法院认为，被告人张某1、张某2作为村干部，利用负责本村社区建设职务便利，将村集体资金非法占为己有，数额较大，其行为构成职务侵占罪。鉴于二被告人归案后如实供述犯罪事实，主动退出违法所得，庭审中自愿认罪，具有悔罪表现，依法予以从轻处罚。经社会调查，对二被告人适用缓刑对其居住地无重大不良影响，依法可以适用缓刑。被告人张某1犯职务侵占罪，判处有期徒刑八个月,缓刑一年。\n\n（缓刑考验期从判决确定之日起计算）\n\n被告人张某2犯职务侵占罪，判处有期徒刑七个月，缓刑一年。\n\n（缓刑考验期从判决确定之日起计算）",
+            "职务侵占罪中部分退赃对量刑的影响": "### 结论\n在职务侵占罪中，部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赃**：部分退赃可以作为酌定从轻处罚的情节。例如，【（2018）浙0604刑初126号】中，被告人顾飞君已部分退赃，法院酌情从轻处罚。【（2019）鲁1102刑初838号】中，被告人隋仕早部分违法所得已被扣押，另向被害单位退还部分赃款，法院酌情从轻处罚。【（2017）浙0602刑初258号】中，被告人吴卫芳部分退赃，法院酌情从轻处罚。\n- **退赃比例与犯罪数额**：退赃比例和犯罪数额是影响量刑的重要因素。【（2019）粤0307刑初3496号】中，被告人古某某退回侵占的旧手机41部，并退赔公司人民币20000元，法院认为其具有认罪认罚、部分退赔的从轻处罚情节。【（2019）粤0106刑初768号】中，被告人徐某退赔被害单位大部分经济损失，法院从轻处罚。然而，【（2017）浙0602刑初258号】中，被告人吴卫芳多次实施职务侵占行为，且有巨额损失尚未挽回，法院认为不应对被告人适用缓刑。\n- **认罪态度**：认罪态度也是影响量刑的重要因素。【（2019）鲁1102刑初838号】中，被告人隋仕早归案后如实供述犯罪事实，自愿认罪，法院从轻处罚。【（2019）粤0307刑初3496号】中，被告人古某某对起诉书指控的犯罪事实无异议，并表示认罪，法院认为其具有认罪认罚的从轻处罚情节。\n\n综上，部分退赃在职务侵占罪中可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、被告人的认罪态度、退赃比例以及是否造成严重后果等因素。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2017）浙0602刑初258号】：法院认为，被告人吴卫芳利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于吴卫芳有自首情节，部分退赃，可从轻处罚，但多次实施职务侵占，有巨额损失尚未挽回，主观恶性及社会危害性较大，不适用缓刑。一、被告人吴卫芳犯职务侵占罪，判处有期徒刑五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日）；\n 二、责令被告人吴卫芳继续退赔被害单位的经济损失。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的银行流水等书证仅能证明资金流向，无法直接证明被告人具有非法占有的主观故意 2.采石合同款项的保管程序存在瑕疵，不能完全归责于被告人\n防御策略：1.被告人已主动退赔106703元，占涉案金额的56%，具有悔罪表现 2.被告人系初犯，且因个人债务压力临时起意，主观恶性较小 3.被告人在村中担任要职多年，此次犯罪系偶发行为，社会危害性相对有限",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中如何认定非法占有的主观故意？",
+              "职务侵占案件中部分退赔对量刑的影响？"
+            ],
+            "职务侵占罪中如何认定非法占有的主观故意？": "### 结论\n在职务侵占罪中，认定非法占有的主观故意主要通过行为人的行为模式、资金用途、归还能力及意愿、是否采取隐瞒手段等客观行为来推断。如果行为人在明知无归还能力的情况下占有单位资金，且将资金用于非归还目的，如赌博、高风险投资等，且在持续犯罪期间无任何还款、退赃行为，足以认定其具有非法占有的主观故意。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观目的**：【（2020）渝0106刑初638号】、【（2022）鲁0285刑初368号】、【（2016）鄂0103刑初24号】、【（2020）粤0111刑初2914号】、【（2018）粤2072刑初2616号】等案例中，法院均认为，行为人在明知自身无归还能力的情况下，占有本单位资金，且将资金用于赌博、高风险投资等非归还目的，且在持续犯罪期间无任何还款、退赃行为，足以认定其具有非法占有的主观故意。\n- **资金的用途**：【（2020）渝0106刑初638号】、【（2022）鲁0285刑初368号】、【（2018）粤2072刑初2616号】等案例中，行为人将资金用于赌博、高风险投资等，而非用于归还单位，这表明行为人具有非法占有的主观故意。\n- **归还能力及意愿**：【（2020）渝0106刑初638号】、【（2022）鲁0285刑初368号】、【（2018）粤2072刑初2616号】等案例中，行为人在明知无归还能力的情况下占有单位资金，且在持续犯罪期间无任何还款、退赃行为，这表明行为人具有非法占有的主观故意。\n- **是否采取隐瞒手段**：【（2020）渝0106刑初638号】、【（2018）粤2072刑初2616号】等案例中，行为人采取虚报银行流水日报表、改变联系方式等隐瞒手段，这表明行为人具有非法占有的主观故意。\n\n综上，行为人的主观目的、资金的用途、归还能力及意愿、是否采取隐瞒手段等都是认定非法占有主观故意的关键因素。如果行为人在明知无归还能力的情况下占有单位资金，且将资金用于非归还目的，如赌博、高风险投资等，且在持续犯罪期间无任何还款、退赃行为，足以认定其具有非法占有的主观故意。\n\n#####\n类似案件为：\n【（2020）渝0106刑初638号】：法院认为，被告人余小花利用职务之便，将本单位财物占为己有，数额巨大，已构成职务侵占罪。被告人余小花在明知自身无归还能力的情况下，占有本单位资金，数额巨大，陆续将占有资金用于网络赌博，直至公司账户存款被挥霍殆尽，并且采用虚报银行流水日报表的方式隐瞒上述行为，足以认定余小花具有非法占有单位资金的主观故意。被告人余小花主动到公安机关投案，如实供述犯罪事实，系自首，可从轻处罚。被告人余小花犯职务侵占罪，判处有期徒刑七年，并处没收财产70000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年5月8日起至2027年5月7日止。并处的没收个人财产在本判决生效后五日内缴纳。）\n二、责令被告人余小花退赔3850898元，予以发还被害单位重庆中强汽车维修服务有限责任公司1636609元，予以发还被害单位重庆三园汽车服务有限公司2214289元。\n【（2022）鲁0285刑初368号】：法院认为，被告人滕立丛作为公司工作人员，利用职务上的便利，将本单位财产非法占为己有，数额巨大，其行为构成职务侵占罪。滕立丛在明知没有偿还能力的情况下，私自截留公司货款并用于购买高风险的期货、彩票等，应当认定具有非法占有的主观故意。滕立丛归案后如实供述自己的主要犯罪事实，系坦白，依法可从轻处罚；在本案审理期间自愿认罪认罚，依法可从宽处理。一、被告人滕立丛犯职务侵占罪，判处有期徒刑三年三个月,并处罚金人民币十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2022年8月17日起至2025年11月16日止。罚金于判决生效之日起十日内缴纳。）\n二、责令被告人滕立丛退赔被害单位青岛佳美包装股份有限公司人民币一百八十一万五千九百零一元。\n【（2016）鄂0103刑初24号】：法院认为，被告人王某甲身为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。王某甲截取本单位应收的货款后，携带款项潜逃，应认定其主观上具有非法占有的目的，应当以职务侵占罪定罪处罚。被告人王某甲犯职务侵占罪，判处有期徒刑一年三个月。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年10月22日起至2017年1月21日止）。",
+            "职务侵占案件中部分退赔对量刑的影响？": "### 结论\n在职务侵占案件中，部分退赔行为通常会被法院视为从轻处罚的情节，但其对量刑的影响程度取决于退赔的金额、时间、是否主动退赔以及是否配合调查等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定了职务侵占罪的构成要件和基本刑罚。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的从轻处罚情节。\n- **《中华人民共和国刑法》第六十四条**：规定了犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔金额**：退赔的金额越大，越可能获得较大的从轻处罚。例如，【（2019）粤0307刑初453号】中，被告人陈某某的家属代为退赔人民币4万元，法院在量刑时予以考虑，从轻处罚。\n- **退赔时间**：案发前主动退赔通常比案发后退赔获得更大幅度的从轻处罚。例如，【（2019）渝0103刑初617号】中，被告人徐杰虽有退赔行为，但因其在监视居住期间继续犯罪，未被认定为自首，退赔情节的从轻处罚力度可能受到影响。\n- **是否主动退赔**：主动退赔比被动退赔更可能获得从轻处罚。例如，【（2019）粤0307刑初3496号】中，被告人古某某在公司发现其侵占行为后主动退回部分财物，法院在量刑时予以考虑。\n- **配合调查**：退赔行为是否伴随着如实供述和配合调查，也会影响量刑。例如，【（2020）粤0606刑初504号】中，被告人温斌虽有退赔行为，但因其在侦查阶段未如实供述犯罪事实，法院在考虑退赔情节时可能有所保留。\n\n综上，部分退赔在职务侵占案件中通常被视为从轻处罚的情节，但其具体影响程度需综合考虑退赔的金额、时间、是否主动以及是否配合调查等多方面因素。\n\n#####\n类似案件为：\n【（2019）粤0307刑初453号】：法院认为，被告人陈某某的行为构成职务侵占罪。其具有如实供述自己罪行的从轻处罚情节。鉴于被告人的家属代为退赔被害单位部分损失，法院在量刑时予以考虑。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）渝0103刑初617号】：法院认为，徐杰利用职务便利，非法占有公司财物，数额较大，构成职务侵占罪；虚构事实，隐瞒真相，骗取他人财物，数额较大，构成诈骗罪。鉴于徐杰如实供述，曾主动退赔，量刑时予以考量。徐杰犯职务侵占罪，判处有期徒刑七个月；犯诈骗罪，判处有期徒刑一年五个月，并处罚金四千元；数罪并罚，决定执行有期徒刑一年十个月，并处罚金四千元。责令徐杰退赔被害单位和各被害人经济损失。\n【（2019）粤0307刑初3496号】：法院认为，被告人古某某的行为构成职务侵占罪，考虑其认罪认罚、部分退赔的情节，从轻处罚。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人已主动退赔106703元，占涉案金额的56%，具有明显的悔罪表现 2.被告人系初犯，因个人债务压力临时起意挪用资金，主观恶性较小 3.被告人在村中担任要职多年，此次犯罪系偶发行为，社会危害性相对有限 4.采石合同款项保管程序存在瑕疵，不能完全归责于被告人 5.部分证人证言存在矛盾，无法直接证明被告人具有非法占有的主观故意",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否构成职务侵占罪。查明情况：被告人已承认利用职务便利挪用集体资金和村民托管资金的事实，但对主观故意方面提出\"计划后续填补\"的辩解。公诉人通过多次取款行为、长期未归还等事实证明了其非法占有的主观故意。审判长认为被告人的行为符合职务侵占罪的构成要件。\n\n2.犯罪数额认定及退赔情况。查明情况：双方对144800元村民资金和45000元采石款的总金额无异议，被告人已退赔106703元，剩余83097元未退赔。被告人表示愿意继续退赔但经济困难。审判长认为犯罪数额明确，退赔情况已查清。\n\n3.量刑情节认定问题。查明情况：被告人具有如实供述、自愿认罪、部分退赃等从轻情节，但不具有自首情节。辩护人强调被告人的还款意愿和部分退赔行为。审判长认为需要进一步评估退赔比例和悔罪表现对量刑的影响程度。\n\n4.是否适用缓刑。查明情况：被告人作为村干部，犯罪持续时间长，虽部分退赔但仍有较大数额未退，且对村民利益造成损害。审判长认为需要综合评估其社会危害性和再犯可能性，特别是剩余款项的偿还计划和可行性。\n\n5.剩余资金处置方案。查明情况：被告人表示愿意制定还款计划但经济困难。审判长认为需要明确具体的还款方案和时间表，以评估被告人的悔罪诚意和弥补损失的可能性。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部挪用集体资金和村民托管资金构成职务侵占罪的案例",
+              "职务侵占罪中部分退赔对量刑的影响"
+            ],
+            "村干部挪用集体资金和村民托管资金构成职务侵占罪的案例": "### 结论\n村干部挪用集体资金和村民托管资金构成职务侵占罪的关键在于其是否利用了职务上的便利，以及挪用的资金是否属于单位资金。当村干部利用职务便利，将村集体或村民托管的资金非法占为己有，且数额较大时，构成职务侵占罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **职务便利的利用**：法院认为，村干部利用职务上的便利，将村集体或村民托管的资金非法占为己有，构成职务侵占罪。例如，【（2020）苏1322刑初550号】中，被告人葛凯利用职务便利，将本单位资金占为己有，构成职务侵占罪。\n- **资金性质**：法院认为，挪用的资金如果属于单位资金，即在单位保管过程中的资金，构成挪用资金罪。例如，【（2019）浙0502刑初711号】中，被告人任栋梁挪用的村集体资金用于个人赌博，构成职务侵占罪。\n- **数额大小**：法院认为，挪用资金的数额较大是构成职务侵占罪的必要条件。例如，【（2016）鲁1302刑初1219号】中，被告人王某甲利用职务便利，将村集体资金非法占为己有，数额较大，构成职务侵占罪。\n- **自首和退赃**：法院在量刑时会考虑被告人是否自首和是否退赃。例如，【（2020）鲁1522刑初20号】中，被告人靳海燕能够如实供述自己的罪行，自愿认罪认罚，且被侵占的资金已全额退缴，依法可从轻处罚并宣告缓刑。\n\n综上，村干部挪用集体资金和村民托管资金构成职务侵占罪的关键在于是否利用了职务便利，挪用的资金是否属于单位资金，以及挪用的数额是否较大。自首和退赃也是法院量刑时考虑的重要因素。\n\n#####\n类似案件为：\n【（2020）苏1322刑初550号】：法院认为，葛凯身为村委会工作人员，利用职务便利将集体资金占为己有，数额较大，构成职务侵占罪；挪用单位资金归个人使用，部分用于营利活动，数额较大，超过三个月未还，构成挪用资金罪。一、被告人葛凯犯职务侵占罪，判处有期徒刑十个月；犯挪用资金罪，判处拘役四个月。数罪并罚，决定执行有期徒刑十个月。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日(留置一日,折抵刑期一日)，即自二○二○年四月二十一日起至二○二一年二月二十日止。）\n 二、责令被告人葛凯退赔被害单位宿迁市湖滨新区晓店镇峰山居委会人民币二十二万元（该款已由被告人葛凯缴至中共沭阳县纪律检查委员会专项资金户）。\n【（2019）浙0502刑初711号】：法院认为，任栋梁身为村委会工作人员，利用职务便利将村集体资金非法占为己有，数额巨大，构成职务侵占罪。其有坦白和立功情节，依法可以从轻或减轻处罚。一、被告人任栋梁犯职务侵占罪，判处有期徒刑四年六个月，并处没收财产人民币四万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即刑期自2019年10月10日起至2024年4月9日止。罚金限于本判决生效后十五日内向本院缴纳）。\n 二、已扣留在被害单位湖州市吴兴区凤凰街道机南村村民委员会的被告人任栋梁分红人民币六千零八十元，归被害单位所有。被告人任栋梁继续退赔被害单位湖州市吴兴区凤凰街道机南村村民委员会违法所得人民币一百六十万九千七百八十七元四角一分。\n【（2016）鲁1302刑初1219号】：法院认为，被告人王某甲利用职务便利，将村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。王某甲的辩解和辩护意见不予采纳。被告人王某甲犯职务侵占罪，判处有期徒刑二年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。2015年4月29日至6月6日已羁押39天，即自2015年12月3日起至2017年10月24日止）。\n追缴被告人王某甲的犯罪所得325936.92元退赔被害单位临沂市兰山区汪沟镇杏花社区村民委员会。",
+            "职务侵占罪中部分退赔对量刑的影响": "### 结论\n在职务侵占罪中，部分退赔对量刑有显著影响，通常作为从轻处罚的情节被法院采纳，但其影响程度需结合犯罪数额、退赔比例、退赔时间、被告人的认罪态度及犯罪情节等综合考量。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n- **《中华人民共和国刑法》第六十四条**：犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔比例**：法院通常会根据被告人的退赔比例来决定从轻处罚的程度。例如，【（2018）浙0604刑初126号】中，被告人顾飞君部分退赃，法院酌情从轻处罚；【（2019）粤0307刑初3496号】中，被告人古某某退回侵占的旧手机41部，并退赔公司人民币20000元，法院在量刑时予以考虑。\n- **退赔时间**：退赔发生在案发前、案发后、还是在审判期间，也会影响量刑。如【（2019）粤0307刑初453号】中，被告人陈某某的家属在案发后退赔4万元，法院在量刑时予以考虑。\n- **认罪态度**：被告人的认罪态度与退赔行为相结合，可以作为从轻处罚的依据。如【（2019）粤0307刑初3496号】中，被告人古某某认罪认罚，部分退赔，法院依法从轻处罚。\n- **犯罪情节**：犯罪的具体情节，如犯罪数额、手段、社会危害性等，也会影响量刑。如【（2016）津0116刑初80016号】中，被告人齐××多次实施职务侵占行为，且有犯罪前科，法院在量刑时予以从重处罚。\n\n综上，部分退赔在职务侵占罪的量刑中通常被视为从轻处罚的情节，但其具体影响程度需结合案件的其他因素综合判断。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）粤0307刑初3496号】：法院认为，被告人古某某的行为构成职务侵占罪，考虑其认罪认罚、部分退赔的情节，从轻处罚。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初453号】：法院认为，被告人陈某某的行为构成职务侵占罪。其具有如实供述自己罪行的从轻处罚情节。鉴于被告人的家属代为退赔被害单位部分损失，法院在量刑时予以考虑。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述、银行流水、证人证言形成完整证据链，证明旺某利用职务便利侵占集体资金144800元及采石款45000元，符合职务侵占罪构成要件。2.强调被告人作为村干部，其行为严重损害村民利益和基层组织公信力，主观恶性较大。3.指出被告人虽部分退赃但仍有83097元未退赔，反映其非法占有目的明确，非临时借用。4.结合被告人多次取款且长期未归还的行为模式，证明其具有非法占有的主观故意。5.针对辩护人关于主观故意的质疑，强调客观行为与主观故意的一致性。\n\n防御策略：1.针对辩护人可能质疑的取证程序问题，强调所有书证均附有监察委调取通知书及公章，程序合法。2.针对退赃比例争议，指出部分退赃已体现悔罪态度，但未全额退赔反映主观恶性仍需惩戒。3.针对犯罪动机辩解，结合多次取款行为证明其非法占有目的明确，非临时借用。4.维护证人证言的证明力，强调证人证言与其他证据相互印证形成完整证据链。5.强调银行流水等客观证据与被告人供述的一致性，证明证据的真实性。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部利用职务便利侵占集体资金的主观故意如何认定？",
+              "职务侵占罪中部分退赃对量刑的影响？"
+            ],
+            "村干部利用职务便利侵占集体资金的主观故意如何认定？": "### 结论\n村干部利用职务便利侵占集体资金的主观故意认定，关键在于行为人是否利用了其在管理、经手村集体资金时的职务便利，以及行为发生的时间节点是否在协助政府管理公共事务的职责范围内。如果行为人在履行村集体事务管理职责时，采取了虚报、多开票据等手段非法占有集体资金，且在案发后有供述犯罪事实、自愿认罪认罚、退赔赃款等表现，法院通常会认定其具有职务侵占的主观故意。如果行为人否认主观故意，但在审查起诉时才如实供述全部犯罪事实，法院可能认定其主观故意存在，但可从轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：规定了职务侵占罪的构成要件，包括利用职务上的便利，将本单位财物非法占为己有，数额较大的行为。\n- **《中华人民共和国刑法》第三百八十二条**：规定了贪污罪的构成要件，包括国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否利用职务上的便利**：如果行为人利用了其在管理村集体资金时的职务便利，如【（2019）鲁0304刑初254号】中赵某11利用职务之便非法占有村集体资金，法院认定其构成职务侵占罪。相反，如果行为人否认主观故意，但在审查起诉时才如实供述全部犯罪事实，如【（2019）鲁0304刑初254号】中赵某11的情况，法院可能认定其主观故意存在，但可从轻处罚。\n- **行为发生的时间节点**：如果行为发生在协助政府管理公共事务的职责范围内，可能构成贪污罪；如果发生在履行村集体事务管理职责时，可能构成职务侵占罪。如【（2014）海南二中刑终字第45号】中李可周在协助政府征地工作结束后，利用村委会主任的职务便利侵占集体资金，被认定为职务侵占罪。\n- **行为人的供述和认罪态度**：如果行为人在案发后能够如实供述犯罪事实，自愿认罪认罚，如【（2020）鲁1322刑初179号】中鲁成敏主动到案，如实供述犯罪事实，系自首，法院可能从轻处罚。\n- **退赔赃款情况**：如果行为人能够退赔赃款，如【（2020）鲁1322刑初179号】中鲁成敏退赔赃款，法院可能从轻处罚。\n\n综上，村干部利用职务便利侵占集体资金的主观故意认定，主要考虑行为人是否利用了职务上的便利，行为发生的时间节点，以及行为人的供述、认罪态度和退赔赃款情况。这些因素共同影响法院对行为人主观故意的认定和量刑。\n\n#####\n类似案件为：\n【（2019）鲁0304刑初254号】：法院认为，赵某11利用职务之便，非法占有村集体资金，数额较大，其行为已构成职务侵占罪。赵某11到案后拒不供认具有侵占集体资金的主观故意，审查起诉时才如实供述全部犯罪事实，并自愿认罪认罚，依法可对其从轻处罚。赵某11通过虚报方式记入村委账簿中尚有340835元因案发未能实际占有，依法可以比照既遂对其从轻处罚。赵某11不具有认罪和接受法律处罚的意愿，不符合自首和坦白的认定条件，故辩护人所提自首、坦白及主观恶性不大的辩护意见不能成立。一、被告人赵某11犯职务侵占罪，判处有期徒刑二年三个月。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自二O一九年八月八日起至二O二一年十一月七日止。）\n二、责令被告人赵某11于本判决生效后十日内退赔被害单位淄博市博山区源泉镇泉河村民委员会人民币306365元。\n【（2019）鲁0304刑初254号】：法院认为，赵某11利用职务之便，非法占有村集体资金，数额较大，其行为已构成职务侵占罪。赵某11到案后拒不供认具有侵占集体资金的主观故意，审查起诉时才如实供述全部犯罪事实，并自愿认罪认罚，依法可对其从轻处罚。赵某11通过虚报方式记入村委账簿中尚有340835元因案发未能实际占有，依法可以比照既遂对其从轻处罚。赵某11不具有认罪和接受法律处罚的意愿，不符合自首和坦白的认定条件，故辩护人所提自首、坦白及主观恶性不大的辩护意见不能成立。一、被告人赵某11犯职务侵占罪，判处有期徒刑二年三个月。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自二O一九年八月八日起至二O二一年十一月七日止。）\n二、责令被告人赵某11于本判决生效后十日内退赔被害单位淄博市博山区源泉镇泉河村民委员会人民币306365元。\n【（2014）海南二中刑终字第45号】：法院认为，李可周身为村委会主任，利用管理集体资金的职务便利，将本村委会的集体资金非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于李可周到案后，已退回全部赃款，有悔罪表现，可酌情从轻处罚。撤销昌江黎族自治县人民法院（2013）昌刑初字第107号刑事判决。\n上诉人李可周犯职务侵占罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2012年11月27日起至2017年11月26日止）。\n三、上诉人李可周所退款项13.324万元，其中10.9534万元作为赃款由扣缴机关返还昌江县海尾镇打显村委会，余款2.3706万元应予以退还。",
+            "职务侵占罪中部分退赃对量刑的影响？": "### 结论\n在职务侵占罪中，部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、认罪态度、退赃比例、社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赃**：部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、认罪态度、退赃比例、社会危害性等因素。例如，【（2018）浙0604刑初126号】中，被告人顾飞君部分退赃，法院酌情从轻处罚；【（2019）鲁1102刑初838号】中，被告人隋仕早部分退赃，法院酌情从轻处罚，但因其犯罪数额较大，未适用缓刑；【（2017）浙0602刑初258号】中，被告人吴卫芳部分退赃，法院酌情从重处罚，因其有巨额损失尚未挽回，未适用缓刑。\n- **犯罪数额**：犯罪数额是决定是否适用缓刑或从轻处罚的重要因素。例如，【（2019）苏0508刑初17号】中，被告人徐敏多次职务侵占，数额巨大，法院未适用缓刑；【（2019）粤0106刑初768号】中，被告人徐某犯罪数额较大，法院未适用缓刑。\n- **认罪态度**：认罪态度是决定是否适用缓刑或从轻处罚的重要因素。例如，【（2019）粤0307刑初3496号】中，被告人古某某认罪认罚，法院从轻处罚；【（2019）粤0304刑初878号】中，被告人戴某认罪认罚，法院从轻处罚。\n- **社会危害性**：社会危害性是决定是否适用缓刑或从轻处罚的重要因素。例如，【（2017）浙0602刑初258号】中，被告人吴卫芳犯罪行为的主观恶性及社会危害性较大，法院未适用缓刑。\n\n综上，部分退赃可以作为酌定从轻处罚的情节，但是否适用缓刑或从轻处罚的幅度，还需综合考虑犯罪数额、犯罪情节、认罪态度、退赃比例、社会危害性等因素。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2017）浙0602刑初258号】：法院认为，被告人吴卫芳利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于吴卫芳有自首情节，部分退赃，可从轻处罚，但多次实施职务侵占，有巨额损失尚未挽回，主观恶性及社会危害性较大，不适用缓刑。一、被告人吴卫芳犯职务侵占罪，判处有期徒刑五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日）；\n 二、责令被告人吴卫芳继续退赔被害单位的经济损失。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的银行流水等书证仅能证明资金流向，无法直接证明被告人具有非法占有的主观故意 2.证人证言中关于\"以各种理由拖着不返还\"的表述属于主观判断，不能作为认定被告人主观故意的直接证据\n\n防御策略：1.被告人已主动退赔106703元，占涉案金额的56%，具有悔罪表现 2.被告人系初犯，且因个人债务压力临时起意，主观恶性较小",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中如何认定非法占有的主观故意？",
+              "村干部挪用集体资金但部分退赔的案例及量刑标准"
+            ],
+            "职务侵占罪中如何认定非法占有的主观故意？": "### 结论\n在职务侵占罪中，认定非法占有的主观故意主要通过行为人的行为模式、资金用途、归还能力及意愿、是否采取隐瞒手段等客观行为来推断。如果行为人在明知无归还能力的情况下占有单位资金，且将资金用于非归还目的，如赌博、高风险投资等，且在持续犯罪期间无任何还款、退赃行为，足以认定其具有非法占有的主观故意。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观目的**：【（2020）渝0106刑初638号】、【（2022）鲁0285刑初368号】、【（2016）鄂0103刑初24号】、【（2020）粤0111刑初2914号】、【（2018）粤2072刑初2616号】等案例中，法院均认为，行为人在明知自身无归还能力的情况下，占有本单位资金，且将资金用于赌博、高风险投资等非归还目的，且在持续犯罪期间无任何还款、退赃行为，足以认定其具有非法占有的主观故意。\n- **资金的用途**：【（2020）渝0106刑初638号】、【（2022）鲁0285刑初368号】、【（2018）粤2072刑初2616号】等案例中，行为人将资金用于赌博、高风险投资等，而非用于归还单位，这表明行为人具有非法占有的主观故意。\n- **归还能力及意愿**：【（2020）渝0106刑初638号】、【（2022）鲁0285刑初368号】、【（2018）粤2072刑初2616号】等案例中，行为人在明知无归还能力的情况下占有单位资金，且在持续犯罪期间无任何还款、退赃行为，这表明行为人具有非法占有的主观故意。\n- **是否采取隐瞒手段**：【（2020）渝0106刑初638号】、【（2018）粤2072刑初2616号】等案例中，行为人采取虚报银行流水日报表、改变联系方式等隐瞒手段，这表明行为人具有非法占有的主观故意。\n\n综上，行为人的主观目的、资金的用途、归还能力及意愿、是否采取隐瞒手段等都是认定非法占有主观故意的关键因素。如果行为人在明知无归还能力的情况下占有单位资金，且将资金用于非归还目的，如赌博、高风险投资等，且在持续犯罪期间无任何还款、退赃行为，足以认定其具有非法占有的主观故意。\n\n#####\n类似案件为：\n【（2020）渝0106刑初638号】：法院认为，被告人余小花利用职务之便，将本单位财物占为己有，数额巨大，已构成职务侵占罪。被告人余小花在明知自身无归还能力的情况下，占有本单位资金，数额巨大，陆续将占有资金用于网络赌博，直至公司账户存款被挥霍殆尽，并且采用虚报银行流水日报表的方式隐瞒上述行为，足以认定余小花具有非法占有单位资金的主观故意。被告人余小花主动到公安机关投案，如实供述犯罪事实，系自首，可从轻处罚。被告人余小花犯职务侵占罪，判处有期徒刑七年，并处没收财产70000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年5月8日起至2027年5月7日止。并处的没收个人财产在本判决生效后五日内缴纳。）\n二、责令被告人余小花退赔3850898元，予以发还被害单位重庆中强汽车维修服务有限责任公司1636609元，予以发还被害单位重庆三园汽车服务有限公司2214289元。\n【（2022）鲁0285刑初368号】：法院认为，被告人滕立丛作为公司工作人员，利用职务上的便利，将本单位财产非法占为己有，数额巨大，其行为构成职务侵占罪。滕立丛在明知没有偿还能力的情况下，私自截留公司货款并用于购买高风险的期货、彩票等，应当认定具有非法占有的主观故意。滕立丛归案后如实供述自己的主要犯罪事实，系坦白，依法可从轻处罚；在本案审理期间自愿认罪认罚，依法可从宽处理。一、被告人滕立丛犯职务侵占罪，判处有期徒刑三年三个月,并处罚金人民币十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2022年8月17日起至2025年11月16日止。罚金于判决生效之日起十日内缴纳。）\n二、责令被告人滕立丛退赔被害单位青岛佳美包装股份有限公司人民币一百八十一万五千九百零一元。\n【（2016）鄂0103刑初24号】：法院认为，被告人王某甲身为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。王某甲截取本单位应收的货款后，携带款项潜逃，应认定其主观上具有非法占有的目的，应当以职务侵占罪定罪处罚。被告人王某甲犯职务侵占罪，判处有期徒刑一年三个月。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年10月22日起至2017年1月21日止）。",
+            "村干部挪用集体资金但部分退赔的案例及量刑标准": "### 结论\n村干部挪用集体资金，即使部分退赔，仍构成挪用资金罪，量刑时会考虑退赔情况、认罪态度、自首或坦白情节、是否造成实际损失等因素，酌情从轻或减轻处罚，部分案例中适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十二条第一款**：公司、企业或者其他单位的工作人员，利用职务上的便利，挪用本单位资金归个人使用或者借贷给他人，数额较大、超过三个月未还的，或者虽未超过三个月，但数额较大、进行营利活动的，或者进行非法活动的，处三年以下有期徒刑或者拘役；挪用本单位资金数额巨大的，或者数额较大不退还的，处三年以上十年以下有期徒刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔情况**：退赔是量刑时的重要考量因素，如【（2019）浙1082刑初649号】中，被告人洪海珠已部分退赔，酌情予以从轻处罚；【（2020）粤0781刑初558号】中，被告人郑卓勤非法占有、处置被害人的财产，应当责令退赔，且其如实供述、认罪认罚，从轻处罚。\n- **认罪态度**：自愿认罪、认罪悔罪态度好，如【（2020）粤0781刑初558号】、【（2019）鲁1422刑初216号】中，被告人认罪态度好，酌情从轻处罚。\n- **自首或坦白情节**：【（2019）浙1082刑初649号】中，被告人洪海珠被相关工作人员通知到案，未如实供述，不具有自首或坦白情节；【（2019）鲁1422刑初216号】中，被告人张某3、张某4在监委找其谈话的情况下，如实供述了自己的犯罪事实，应认定为坦白，依法从轻处罚。\n- **是否造成实际损失**：【（2018）琼9023刑初86号】中，被挪用的款项已全部被冻结，应视为退回，认罪、悔罪态度好，可以适用缓刑。\n\n综上，村干部挪用集体资金的案件中，退赔情况、认罪态度、自首或坦白情节、是否造成实际损失等是影响量刑的关键因素，法院在判决时会综合考量这些因素，决定是否从轻处罚及是否适用缓刑。\n\n#####\n类似案件为：\n【（2019）浙1082刑初649号】：法院认为，被告人洪海珠身为农村基层组织的工作人员，利用职务便利挪用农村集体资金进行非法活动，数额较大不退还，其行为已构成挪用资金罪。鉴于洪海珠当庭自愿认罪且已部分退赔，酌情从轻处罚。一、被告人洪海珠犯挪用资金罪，判处有期徒刑三年二个月。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年9月26日起至2022年10月29日止）。\n 二、责令被告人洪海珠继续退赔给被害单位临海市古城街道古楼村人民币一百二十五万三千五百六十三元九角九分（限判决生效后十日内缴纳）。\n【（2020）粤0781刑初558号】：法院认为，被告人郑卓勤无视国家法律，利用职务上的便利，挪用村小组集体资金，数额较大，用于个人使用，超过三个月未还，部分用于非法活动，其行为已构成挪用资金罪。鉴于郑卓勤犯罪后如实供述，自愿认罪认罚，可以从轻处罚。但郑卓勤非法占有的财产，应当责令退赔。一、被告人郑卓勤犯挪用资金罪，判处有期徒刑一年七个月。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2020年11月22日起至2022年6月21日止）。\n二、责令被告人郑卓勤退赔1079743.03元给台山市××××××委会。\n【（2020）粤0781刑初558号】：法院认为，被告人郑卓勤无视国家法律，利用职务上的便利，挪用村小组集体资金，数额较大，用于个人使用，超过三个月未还，部分用于非法活动，其行为已构成挪用资金罪。鉴于郑卓勤犯罪后如实供述，自愿认罪认罚，可以从轻处罚。但郑卓勤非法占有的财产，应当责令退赔。一、被告人郑卓勤犯挪用资金罪，判处有期徒刑一年七个月。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2020年11月22日起至2022年6月21日止）。\n二、责令被告人郑卓勤退赔1079743.03元给台山市××××××委会。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人已主动退赔106703元，占涉案金额的56%，具有明显的悔罪表现 2.被告人系初犯，因个人债务压力临时起意挪用资金，主观恶性较小 3.被告人在村中担任要职多年，此次犯罪系偶发行为，社会危害性相对有限 4.采石合同款项保管程序存在瑕疵，不能完全归责于被告人 5.部分证人证言存在矛盾，无法直接证明被告人具有非法占有的主观故意",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否构成职务侵占罪。查明情况：控辩双方对基本事实无异议，争议焦点在于主观故意。公诉人通过多次取款、长期未归还等行为证明其非法占有故意；辩护人主张\"计划后续填补\"的供述和部分退赔表明无永久占有意图。审判长认为被告人的行为模式已符合职务侵占罪构成要件。\n\n2.犯罪数额认定及退赔情况。查明情况：双方对189800元总金额无异议，被告人已退赔106703元，剩余83097元未退赔。辩护人强调退赔比例达56%应从轻；公诉人指出仍有较大金额未退赔。审判长认为犯罪数额明确，退赔情况已查清。\n\n3.量刑情节认定问题。查明情况：被告人具有如实供述、认罪等从轻情节，但不构成自首。辩护人主张初犯、悔罪态度好应从轻；公诉人强调社会危害性大。审判长认为需综合评估退赔比例和悔罪表现的影响。\n\n4.是否适用缓刑。查明情况：辩护人提出犯罪数额属\"较大\"非\"巨大\"、已部分退赔符合缓刑条件；公诉人认为村干部身份、社会影响恶劣不适用。审判长认为需结合还款计划可行性评估再犯风险。\n\n5.剩余资金处置方案。查明情况：被告人提出两年分期还款计划但无担保；公诉人质疑其履行能力。审判长认为需进一步核实还款计划的具体保障措施。\n\n6.被告人主观恶性评估。查明情况：辩护人强调因债务压力临时起意；公诉人指出长期多次取款反映主观恶性。审判长认为需结合行为持续时间、还款主动性综合判断。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条",
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第七十二条"
+            ],
+            "中华人民共和国刑法第二百七十一条": "公司、企业或者其他单位的工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处三年以下有期徒刑或者拘役，并处罚金；数额巨大的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大的，处十年以上有期徒刑或者无期徒刑，并处罚金。国有公司、企业或者其他国有单位中从事公务的人员和国有公司、企业或者其他国有单位委派到非国有公司、企业以及其他单位从事公务的人员有前款行为的，依照本法第三百八十二条、第三百八十三条的规定定罪处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第七十二条": "对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。宣告缓刑，可以根据犯罪情况，同时禁止犯罪分子在缓刑考验期限内从事特定活动，进入特定区域、场所，接触特定的人。被宣告缓刑的犯罪分子，如果被判处附加刑，附加刑仍须执行。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部挪用集体资金的主观故意如何认定？",
+              "职务侵占罪中部分退赔对量刑的影响？"
+            ],
+            "村干部挪用集体资金的主观故意如何认定？": "### 结论\n村干部挪用集体资金的主观故意认定需综合考虑其行为的时间节点、职权属性、涉案财产性质、占有目的等因素，以判断其行为是否构成挪用资金罪或职务侵占罪。在土地征收、旧村改造等过程中，村干部利用职务便利挪用集体资金，若其行为发生在协助政府管理土地征用补偿费用工作完成之后，应认定为职务侵占罪；若行为发生在协助政府管理土地征用补偿费用工作期间，可能构成贪污罪，需具体分析。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役。\n- **《中华人民共和国刑法》第二百七十二条第一款**：规定公司、企业或者其他单位的工作人员，利用职务上的便利，挪用本单位资金归个人使用或者借贷给他人，数额较大、超过三个月未还的，或者虽未超过三个月，但数额较大、进行营利活动的，或者进行非法活动的，处三年以下有期徒刑或者拘役。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为的时间节点**：在土地征收、旧村改造等过程中，村干部挪用集体资金的行为时间节点是关键。例如，【（2018）鲁1721刑初438号】中，法院认为被告人王泉军挪用的是村集体资金，而非协助政府管理的特定款项，因此构成挪用资金罪。\n- **职权属性和涉案财产性质**：村干部的职权属性和挪用的财产性质也影响定性。例如，【（2016）苏0722刑初690号】中，被告人徐明平利用职务便利非法占有集体土地补偿资金，构成职务侵占罪。\n- **占有目的**：村干部挪用集体资金的占有目的，即是否具有非法占有目的，是区分挪用资金罪与职务侵占罪的关键。例如，【（2018）鄂1182刑初131号】中，法院认为被告人朱志伟主观上对挪用的资金具有非法占有的故意，构成职务侵占罪。\n\n综上，村干部挪用集体资金的主观故意认定需综合考虑行为的时间节点、职权属性、涉案财产性质、占有目的等因素，以判断其行为性质，从而确定适用的罪名。在具体案例中，法院会根据上述因素进行细致分析，以确保罪名的准确适用。\n\n#####\n类似案件为：\n【（2018）鲁1721刑初438号】：法院认为，被告人王泉军利用职务上的便利，伙同他人多次将本单位的财物占为己有，数额较大，其行为已构成职务侵占罪；利用职务上的便利，挪用本单位的资金归个人使用，数额较大、超过三个月未还，其行为已构成挪用资金罪。鉴于王泉军有坦白情节，已退赔全部违法所得，对其所犯二罪依法均予从轻处罚。被告人王泉军犯职务侵占罪，判处有期徒刑一年六个月；犯挪用资金罪，判处有期徒刑六个月。决定执行有期徒刑一年十个月。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年11月4日起至2019年9月3日止。）\n【（2016）苏0722刑初690号】：法院认为，被告人徐明平利用职务便利，非法占有集体土地补偿资金，数额较大，其行为构成职务侵占罪。被告人徐明平到案后如实供述犯罪事实，依法予以从轻处罚。关于被告人及其辩护人提出的辩解及辩护意见，法院认为，所套取的资金未经过村集体研究作为任何经费开支，亦未在村集体账目上列明收、支，且无证据证明村干部与徐明平共同分配资金，证据指向资金系被徐明平个人支配、使用；被告人徐明平为村集体垫付的资金，在离职交账时已逐笔挂账意图报销，表明侵占资金与垫付资金无关联性，被告人并无用侵占资金自行冲抵垫付款的意思表示，具有非法占有的主观故意。关于自首的辩护意见，因被告人系在纪委掌握其侵占土地补偿款线索后采取调查措施，其到案后如实交代的犯罪事实系办案机关已掌握，故不能认定为自首。一、被告人徐明平犯职务侵占罪，判处有期徒刑二年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年7月14日起至2018年7月13日止。）\n二、对被告人徐明平违法所得人民币335196元予以追缴，上缴国库。\n【（2018）鄂1182刑初131号】：法院认为，被告人朱志伟利用职务便利，将本单位财物非法占有已有，数额巨大，其行为构成职务侵占罪。公诉机关指控朱志伟犯挪用资金罪的罪名不成立，因其主观上对上述资金具有非法占有的故意，符合职务侵占罪的特征。鉴于朱志伟犯罪后自动投案，如实供述自己的罪行，是自首，依法从轻处罚。一、被告人朱志伟犯职务侵占罪，判处有期徒刑八年三个月；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年12月17日起至2026年3月16日止。）\n二、责令被告人朱志伟退赔违法所得人民币5953820.17元。",
+            "职务侵占罪中部分退赔对量刑的影响？": "### 结论\n在职务侵占罪中，部分退赔行为通常会被法院视为被告人认罪悔罪态度的体现，从而在量刑时作为酌情从轻处罚的情节予以考虑。但是，部分退赔并不必然导致大幅度的量刑减轻，法院会综合考虑犯罪的性质、情节、社会危害性以及被告人的主观恶性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赔**：部分退赔行为通常会被法院视为被告人认罪悔罪态度的体现，从而在量刑时作为酌情从轻处罚的情节予以考虑。例如，【（2018）浙0604刑初126号】中，被告人顾飞君已部分退赃，法院酌情从轻处罚。【（2019）粤0307刑初453号】中，被告人陈某某的家属向被害单位退赔货款人民币40000元，法院在量刑时予以考虑。【（2019）渝0103刑初617号】中，被告人徐杰主动退赔部分违法所得，量刑酌予考量。\n- **认罪态度**：认罪态度好，配合调查，如实供述犯罪事实，也是法院在量刑时考虑的重要因素。例如，【（2019）粤0307刑初3496号】中，被告人古某某认罪认罚，部分退赔，法院予以从轻处罚。\n- **犯罪情节与社会危害性**：犯罪的性质、情节、社会危害性以及被告人的主观恶性等因素，也是法院在量刑时考虑的重要因素。例如，【（2020）粤0606刑初504号】中，尽管被告人温斌实施了并非暴力型犯罪，但由于其在事情败露后使用恐吓手段威胁他人，刻意制造侦查障碍、浪费司法资源，且至今未能向公司退还其已侵占的款项，法院认为其不符合适用缓刑的条件。\n\n综上，部分退赔行为在职务侵占罪的量刑中通常会被视为认罪悔罪态度的体现，从而在量刑时作为酌情从轻处罚的情节予以考虑。但是，法院在量刑时还会综合考虑犯罪的性质、情节、社会危害性以及被告人的主观恶性等因素，部分退赔并不必然导致大幅度的量刑减轻。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2019）粤0307刑初453号】：法院认为，被告人陈某某的行为构成职务侵占罪。其具有如实供述自己罪行的从轻处罚情节。鉴于被告人的家属代为退赔被害单位部分损失，法院在量刑时予以考虑。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）渝0103刑初617号】：法院认为，徐杰利用职务便利，非法占有公司财物，数额较大，构成职务侵占罪；虚构事实，隐瞒真相，骗取他人财物，数额较大，构成诈骗罪。鉴于徐杰如实供述，曾主动退赔，量刑时予以考量。徐杰犯职务侵占罪，判处有期徒刑七个月；犯诈骗罪，判处有期徒刑一年五个月，并处罚金四千元；数罪并罚，决定执行有期徒刑一年十个月，并处罚金四千元。责令徐杰退赔被害单位和各被害人经济损失。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否构成职务侵占罪。查明情况：控辩双方对基本事实无异议，争议焦点在于主观故意。公诉人通过多次取款、长期未归还等行为证明其非法占有故意；辩护人主张\"计划后续填补\"的供述和部分退赔表明无永久占有意图。审判长认为被告人的行为模式已符合职务侵占罪构成要件。\n\n2.犯罪数额认定及退赔情况。查明情况：双方对189800元总金额无异议，被告人已退赔106703元，剩余83097元未退赔。辩护人强调退赔比例达56%应从轻；公诉人指出仍有较大金额未退赔。审判长认为犯罪数额明确，退赔情况已查清。\n\n3.量刑情节认定问题。查明情况：被告人具有如实供述、认罪等从轻情节，但不构成自首。辩护人主张初犯、悔罪态度好应从轻；公诉人强调社会危害性大。审判长认为需综合评估退赔比例和悔罪表现的影响。\n\n4.是否适用缓刑。查明情况：辩护人提出犯罪数额属\"较大\"非\"巨大\"、已部分退赔符合缓刑条件；公诉人认为村干部身份、社会影响恶劣不适用。审判长认为需结合还款计划可行性评估再犯风险。\n\n5.剩余资金处置方案。查明情况：被告人提出两年分期还款计划但无担保；公诉人质疑其履行能力。审判长认为需进一步核实还款计划的具体保障措施。\n\n6.被告人主观恶性评估。查明情况：辩护人强调因债务压力临时起意；公诉人指出长期多次取款反映主观恶性。审判长认为需结合行为持续时间、还款主动性综合判断。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "村干部职务侵占18万元案例判决情况",
+              "职务侵占罪退赔部分款项对量刑的影响",
+              "职务侵占罪缓刑适用条件及案例"
+            ],
+            "村干部职务侵占18万元案例判决情况": "### 结论\n村干部利用职务便利侵占集体资金18万元的行为构成职务侵占罪，量刑时会考虑自首、认罪认罚、退赃、犯罪数额、社会危害性等因素，可能适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与认罪认罚**：如果被告人自动投案，如实供述自己的罪行，系自首，且自愿认罪认罚，依法可以从轻或者减轻处罚。例如，【（2019）闽0802刑初998号】、【（2020）粤0114刑初92号】、【（2020）粤0114刑初100号】、【（2020）粤0114刑初99号】中，被告人因自首和认罪认罚而获得从轻处罚。\n- **退赃**：被告人案发后退缴全部个人违法所得，可以从轻处罚。如【（2019）闽0802刑初998号】、【（2020）粤0114刑初92号】、【（2020）粤0114刑初100号】、【（2020）粤0114刑初99号】中，被告人因退赃而获得从轻处罚。\n- **犯罪数额**：犯罪数额巨大时，依法应适用“五年以上有期徒刑，可以并处没收财产”的量刑幅度予以处罚。如【（2020）粤0114刑初92号】、【（2020）粤0114刑初100号】、【（2020）粤0114刑初99号】中，被告人因犯罪数额巨大而面临更重的刑罚。\n- **社会危害性**：综合考虑犯罪的性质、情节、手段、悔罪表现及在职务侵占共同犯罪中的作用、地位等，决定是否对被告人宣告缓刑。如【（2019）闽0802刑初998号】、【（2020）粤0114刑初92号】、【（2020）粤0114刑初100号】、【（2020）粤0114刑初99号】中，法院综合考虑上述因素后，对被告人宣告缓刑。\n\n综上，村干部职务侵占18万元的案例中，法院在量刑时会综合考虑自首、认罪认罚、退赃、犯罪数额、社会危害性等因素，其中自首、认罪认罚、退赃是获得从轻处罚的重要因素，而犯罪数额巨大和社会危害性则可能导致更重的刑罚。在满足一定条件下，法院可能会对被告人宣告缓刑。\n\n#####\n类似案件为：\n【（2019）闽0802刑初998号】：法院认为，被告人张淼利用职务便利，将村集体财产非法占为己有，金额达185879.7元，其行为构成职务侵占罪。鉴于张淼自首、认罪认罚、积极退赃，依法予以从轻处罚。一、被告人张淼犯职务侵占罪，判处有期徒刑一年八个月，缓刑二年。\n （缓刑考验期限从判决确定之日起计算）。\n 二、暂扣于龙岩市公安局新罗分局的资金165879.7元，属赃款，予以归还龙岩市新罗区红坊镇紫安民委员会。\n【（2020）粤0114刑初92号】：法院认为，被告人蓝社良身为村委会工作人员，伙同他人利用职务之便，侵占村集体财物，数额巨大，其行为已构成职务侵占罪。鉴于蓝社良有自首、认罪认罚、全额退赃的情节，决定对其减轻处罚并宣告缓刑。一、被告人蓝社良犯职务侵占罪，判处有期徒刑一年八个月，缓刑二年（缓刑考验期限，从判决确定之日起计算）。\n二、扣押在案的违法所得予以发还给被害单位广州市花都区狮岭镇振兴村民委员会（由广州市花都区员会执行）。\n【（2020）粤0114刑初100号】：法院认为，被告人胡玉霞身为村委会工作人员，伙同他人利用职务之便，侵占村集体财物，数额巨大，其行为已构成职务侵占罪。鉴于胡玉霞具有自首、认罪认罚、退缴全部个人违法所得的从轻、减轻处罚情节，决定对其减轻处罚并宣告缓刑。一、被告人胡玉霞犯职务侵占罪，判处有期徒刑一年八个月，缓刑二年（缓刑考验期限，从判决确定之日起计算）。\n二、扣押在案的违法所得予以发还给被害单位广州市花都区狮岭镇振兴村民委员会（由广州市花都区员会执行）。",
+            "职务侵占罪退赔部分款项对量刑的影响": "### 结论\n职务侵占罪中，被告人退赔部分款项可以作为酌情从轻处罚的情节，尤其是在被告人能够主动退赔、全额退赔或在案发前退赔的情况下，法院更可能考虑从轻处罚。但是，退赔行为并不影响犯罪性质和犯罪数额的认定，仅在量刑时予以考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔行为**：退赔行为可以作为酌情从轻处罚的情节。例如，【（2019）鲁1102刑初838号】中，被告人隋仕早部分违法所得已被扣押，另向被害单位退还部分赃款，法院酌情从轻处罚。【（2020）粤0117刑初59号】中，被告人邝某清犯罪后其家属返还给被害人公司法定代表人人民币250000元，得到被害人公司及其法定代表人鲁某1的谅解，法院可以酌情从轻处罚。\n- **退赔的时间**：案发前的退赔行为可能更有利于被告人。例如，【（2015）榆中刑二终字第00003号】中，上诉人任某案发前已退还了被害人赵一及赵二29500元现金，另在案发前由任某妹妹任一以个人名义代其兄任某向赵二出具了25500元的欠条，法院认为任某在案发前共返还被害人55000元，这在量刑中应予体现。\n- **退赔的金额**：全额退赔可能获得更大幅度的从轻处罚。例如，【（2019）鲁0991刑初78号】中，被告人张铁军案发后已将涉案赃款全部退赔被害单位，取得了被害单位的谅解，法院对其从轻处罚，并宣告缓刑。\n- **退赔与自首的结合**：退赔行为与自首情节结合，可能获得更大幅度的从轻处罚。例如，【（2019）鲁0991刑初78号】中，被告人张铁军有坦白情节，案发后已将涉案赃款全部退赔被害单位，法院对其从轻处罚，并宣告缓刑。\n\n综上，退赔行为在职务侵占罪的量刑中具有重要影响，尤其是主动、全额、案发前的退赔行为，以及与自首情节结合时，更可能获得法院的从轻处罚。\n\n#####\n类似案件为：\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2020）粤0117刑初59号】：法院认为，被告人邝某清无视国家法律，利用职务便利将公司财物非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人能如实供述主要犯罪事实，依法可以从轻处罚，且其家属已返还部分款项，得到谅解，可酌情从轻处罚。但根据案情及被告人的犯罪性质、情节、社会危害程度，不适用缓刑。一、被告人邝某清犯职务侵占罪，判处有期徒刑一年九个月（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月24日起至2021年3月23日止）。\n二、继续追缴被告人邝某清犯职务侵占罪的违法所得款项人民币336655元，追缴后返还给被害单位广州市京凰环保科技有限公司。\n【（2015）榆中刑二终字第00003号】：法院认为，任某以非法占有为目的，虚构事实，隐瞒真相，诈骗他人财物，数额巨大，构成诈骗罪；利用职务便利，非法占有公司财物，构成职务侵占罪。鉴于任某部分退还诈骗款项，全部退赔职务侵占所得，可酌情从轻处罚。任某犯诈骗罪，判处有期徒刑九年，并处罚金5000元；犯职务侵占罪，判处有期徒刑三年，决定执行有期徒刑十年，并处罚金5000元。",
+            "职务侵占罪缓刑适用条件及案例": "### 结论\n职务侵占罪的缓刑适用条件需综合考虑犯罪数额、犯罪情节、退赃情况、悔罪表现、再犯风险等因素。一般而言，犯罪数额较小、主动退赃、有悔罪表现、社会危害性较小的，可能适用缓刑；反之，犯罪数额巨大、未退赃、社会危害性大、有再犯风险的，不宜适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额较小的，可能适用缓刑。例如，【（2013）灵刑初字第71号】中，被告人焦某某犯罪数额较大，但鉴于其自首、赃物已追回，法院决定适用缓刑。\n- **退赃情况**：主动退赃的，可能适用缓刑。例如，【（2019）鲁0982刑初541号】中，被告人陈绪光侵占款项已全部退缴，法院决定适用缓刑。\n- **悔罪表现**：有悔罪表现的，可能适用缓刑。例如，【（2013）灵刑初字第71号】中，被告人焦某某有悔罪表现，法院决定适用缓刑。\n- **社会危害性**：社会危害性较小的，可能适用缓刑。例如，【（2019）鲁0982刑初541号】中，被告人陈绪光侵占款项已全部退缴，社会危害性较小，法院决定适用缓刑。\n- **再犯风险**：有再犯风险的，不宜适用缓刑。例如，【（2014）渝一中法刑终字第00395号】中，被告人郑代某前后犯罪都是利用其职务之便，故意犯罪，且将其骗取的部分资金用于赌博等违法活动，表明其主观恶性较深，不符合适用缓刑的条件，法院决定不适用缓刑。\n\n综上，职务侵占罪的缓刑适用需综合考虑犯罪数额、退赃情况、悔罪表现、社会危害性及再犯风险等因素，以决定是否适用缓刑。\n\n#####\n类似案件为：\n【（2019）鲁0982刑初541号】：法院认为，被告人陈绪光利用职务之便，将村集体土地租金非法占为己有，数额较大，其行为构成职务侵占罪。陈绪光有坦白情节，归案后认罪态度较好，所侵占款项已全部退缴，悔罪表现明显，适宜适用缓刑。一、被告人陈绪光犯职务侵占罪，判处有期徒刑十个月，缓刑一年。\n （缓刑考验期限自判决确定之日起计算。）\n 二、新泰市员会已扣押的被告人陈绪光的赃款72000元由新泰市员会上缴国库。\n【（2019）鲁0982刑初541号】：法院认为，被告人陈绪光利用职务之便，将村集体土地租金非法占为己有，数额较大，其行为构成职务侵占罪。陈绪光有坦白情节，归案后认罪态度较好，所侵占款项已全部退缴，悔罪表现明显，适宜适用缓刑。一、被告人陈绪光犯职务侵占罪，判处有期徒刑十个月，缓刑一年。\n （缓刑考验期限自判决确定之日起计算。）\n 二、新泰市员会已扣押的被告人陈绪光的赃款72000元由新泰市员会上缴国库。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 0.0,
+    "reprieve": 24.0
+  }
+]

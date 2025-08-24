@@ -1,0 +1,42 @@
+[352, 353, 354, 360, 361, 362, 363, 364, 370, 371, 372, 373, 374, 380, 381, 382, 383, 384, 390, 391, 392, 393, 394]
+  0%|          | 0/23 [00:00<?, ?it/s]  4%|▍         | 1/23 [00:27<10:07, 27.63s/it]  4%|▍         | 1/23 [00:30<11:09, 30.42s/it]
+
+【（2019）沪0116刑初1103号】：法院认为，被告人黄某某故意伤害他人身体，致一人死亡，其行为构成故意伤害罪。黄某某案发后自动投案，如实供述罪行，系自首，但综合本案事实、情节、社会危害性，不宜减轻处罚，可从轻处罚。被告人黄某某犯故意伤害罪，判处有期徒刑十一年。
+(刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即刑期自2019年5月8日起至2030年5月7日止。)
+【（2019）粤06刑初7号】：法院认为，被告人李权锋故意伤害他人身体，致一人死亡，其行为已构成故意伤害罪。李权锋作案后自动投案，如实供述犯罪行为，系自首，可依法从轻处罚。李权锋当庭认罪，可酌情从轻处罚。李权锋家属在案发后支付被害人家属人民币3万元，对被告人可酌情从轻处罚。被告人李权锋犯故意伤害罪，判处无期徒刑，剥夺政治权利终身。
+【（2021）鄂0113刑初5号】：法院认为，秦耀光故意伤害他人身体，致一人轻伤，构成故意伤害罪。鉴于其自首、认罪认罚、赔偿并获谅解，依法从轻处罚。据此，依照《中华人民共和国刑法》第二百三十四条、第六十七条第一款、第七十二条、第七十三条及《中华人民共和国刑事诉讼法》第十五条，判决秦耀光犯故意伤害罪，判处有期徒刑一年，缓刑一年六个月。被告人秦耀光犯故意伤害罪，判处有期徒刑一年，缓刑一年六个月。
+（缓刑考验期限，从判决确定之日起计算。）
+length: 1137
+中华人民共和国刑法|第二百三十四条#中华人民共和国刑法|第六十七条|第六十七条第一款#中华人民共和国刑法|第七十二条#中华人民共和国刑法|第七十三条
+length: 5425
+被告人邹某犯故意伤害罪，判处有期徒刑十年，缓刑考验期限为五年，并处罚金人民币二万元。
+length: 661
+120#60#20000
+Traceback (most recent call last):
+  File "/home/bjtuzky/SimCourt/AgentCourt/baselines/AgentsCourt/AgentsCourt/judge_case_refine.py", line 160, in <module>
+    previous_case = yilvkezhi_retriever(case_test["prosecution_statement_sub"])
+  File "/home/bjtuzky/SimCourt/AgentCourt/baselines/AgentsCourt/AgentsCourt/judge_case_refine.py", line 51, in yilvkezhi_retriever
+    response = requests.request("POST", url, headers=headers, data=payload)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/http/client.py", line 1368, in getresponse
+    response.begin()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/http/client.py", line 317, in begin
+    version, status, reason = self._read_status()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/http/client.py", line 278, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

@@ -1,0 +1,1713 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人肖某甲，性别男，户籍XXX，因涉嫌犯非法占用农用地罪被提起公诉。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖南省醴陵市人民检察院  \n起 诉 书  \n\n醴检公诉刑诉〔2016〕8号  \n\n被告人肖某甲，男，户籍XXX，现为醴陵市寨下采石场主要负责人。因涉嫌非法占用农用地罪，被依法提起公诉。  \n\n本案由醴陵市森林公安局侦查终结，以被告人肖某甲及被告单位醴陵市寨下采石场涉嫌非法占用农用地罪，于2016年1月11日向本院移送起诉。本院受理后，已依法告知被告人有权委托辩护人，审查了全部案件材料。  \n\n经依法审查查明：  \n2013年4月至6月间，醴陵市寨下采石场因当地村级公路硬化限行，需新修公路用于运输。被告人肖某甲在与股东商议后，提出在寨下、土株岭两村山岭间修建一条由采石场通往320国道的公路。采石场分别与土珠岭村李某丙、李某丁、郭某乙、新某乙等签订了租岭修路协议。在未办理征占用林地许可手续的情况下，占用林地修建了一条全长1221米的公路。2013年11月以来，采石场又擅自扩大开采面积，致使林地被严重毁坏。  \n\n经鉴定：  \n1. 醴陵市寨下采石场占用农用地总面积119.3亩（其中耕地2.6亩，林地116.7亩，含国家级生态公益林34.2亩，省级生态公益林16.6亩）；  \n2. 被告人肖某甲直接负责非法占用耕地2.6亩、林地22.6亩。  \n\n认定上述事实的证据如下：  \n1. 书证：被告人基本情况、户籍证明、归案经过、现场照片、企业注册资料、林权证、开采合同、租山协议、许可证、道路租用协议、行政通知、谷歌地图照片、情况说明等；  \n2. 证人证言：吴某、周某、陈某等16名证人的证言；  \n3. 被告人供述与辩解；  \n4. 鉴定意见：醴陵市林业调查规划设计队及郴州市旭鸿司法鉴定所出具的鉴定意见书；  \n5. 现场勘验笔录。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告单位醴陵市寨下采石场及被告人肖某甲违反土地管理法规，非法占用农用地，造成农用地大量毁坏，其行为触犯了《中华人民共和国刑法》第三百四十二条之规定，犯罪事实清楚，证据确实、充分，应当以非法占用农用地罪追究刑事责任。被告人肖某甲系初犯，案发后如实供述主要犯罪事实，具有悔罪表现，可依法从轻处罚并适用缓刑。建议判处被告单位醴陵市寨下采石场罚金XX万元；判处被告人肖某甲有期徒刑XX，缓刑XX，并处罚金XX万元。  \n\n此致  \n湖南省醴陵市人民法院  \n\n检 察 员 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对基本事实没有异议，但想说明几点：1.修路是因为原有道路限行，确实存在运输困难；2.我们与当地村民签订了租地协议；3.对鉴定结果中关于占用面积的具体数字存在疑问，前后几次鉴定结果不一致。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人肖某甲，你在2013年4月至6月间组织修建公路时，是否知晓需要向林业主管部门办理林地占用许可手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时确实没有意识到需要单独办理林地占用许可手续，我们以为与村民签订租地协议就足够了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "作为采石场主要负责人，你与村委会签订租岭协议时，协议中是否明确约定由村委会负责办理林地占用手续？为何未在协议中明确这一关键事项？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "协议中没有明确约定由村委会负责办理林地占用手续。当时我们主要考虑的是取得村民同意和支付租金，对林地占用手续的法律要求认识不足。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "采石场在2013年11月扩大开采面积时，为何仍未办理林地使用手续？当时是否考虑过该行为可能造成的生态破坏？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我们主要考虑生产效率问题，对林地使用手续的法律要求仍然认识不足。确实没有充分考虑到可能造成的生态影响。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据鉴定报告显示，采石场占用国家级生态公益林34.2亩。作为专业采矿企业负责人，你对此是否知情？为何选择在生态公益林区域进行施工？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "对国家级生态公益林的具体范围当时并不完全清楚。选择施工路线主要考虑的是运输便利性和经济成本，没有专门针对生态公益林进行施工。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你对于三次鉴定结果中显示的119.3亩农用地（含50.8亩生态公益林）被占用的事实有何异议？是否采取过补救措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "对三次鉴定结果的具体数字确实存在疑问，因为前后结果差异较大。我们当时主要关注生产问题，没有及时采取补救措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你虽如实供述，但为何未主动补办手续或修复被破坏的林地？是否考虑过通过赔偿等方式减轻损害后果？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时确实没有及时补办手续和修复林地，主要因为忙于处理采石场的其他事务。目前还没有与相关方就赔偿问题进行协商。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "作为具有多年采矿经验的专业人员，你如何解释在明知需要办理林地占用手续的情况下（持有有效采矿许可证），仍长期未办理相关审批的行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "持有采矿许可证确实证明我们了解部分审批要求，但当时错误地认为修路和扩大开采属于采矿许可范围内的事项，没有意识到需要单独办理林地占用手续。这是我们的工作疏忽。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为采石场主要负责人，在2013年11月扩大开采面积时，是否召开过股东会议讨论相关事宜？当时其他股东对未办理林地占用手续的情况是否提出过异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时确实召开过股东会议讨论扩大开采事宜，但会议主要讨论的是生产效率和经济效益问题，没有专门讨论林地占用手续的问题，其他股东也没有提出相关异议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，请说明在修建公路前，是否向村委会或相关部门咨询过林地占用手续的办理程序？村委会在租地协议中是否明确承诺负责办理相关手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "修建公路前没有专门咨询过林地占用手续的办理程序。村委会在租地协议中也没有明确承诺负责办理相关手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，采石场在2013年修建公路时，是否因村级公路硬化导致运输完全中断？当时是否考虑过其他替代运输方案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "村级公路硬化确实导致运输严重受限，但并非完全中断。当时主要考虑修建新路是最经济有效的解决方案，没有深入评估其他替代运输方案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，对于三次不同的林地占用面积鉴定结果（42.266亩、18.9亩、119.3亩），你提出异议的具体理由是什么？是否申请过重新勘验？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "三次鉴定结果差异过大，特别是最后一次鉴定面积突然增加很多，我们对测量方法存在疑问。确实申请过重新勘验，这也是为什么会有第三次鉴定结果。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，采石场扩大开采面积的具体原因是什么？当时是否知晓需要单独办理林地占用手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "扩大开采主要是为了提高生产效率，满足市场需求。当时仍然没有意识到需要单独办理林地占用手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，案发后你采取了哪些补救措施？是否与受损村民或林业部门就生态修复进行过协商？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "案发后我们暂时停止了相关施工活动，但还没有与村民或林业部门就生态修复进行具体协商。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，作为采石场负责人，你平时是否接受过相关土地管理法规的培训？对林地保护的特殊规定是否了解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "采石场每年都会组织安全生产培训，但土地管理法规方面的专门培训较少。对林地保护的特殊规定了解不够全面。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "采石场目前是否仍在运营？如果法院判处缓刑，你对后续合规经营有何具体计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "采石场目前仍在运营。如果判处缓刑，我们计划立即补办所有林地占用手续，聘请专业法律顾问加强合规管理，并组织员工进行土地管理法规培训。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就案件关键事实进行了充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你提到采石场每年都会组织安全生产培训，请具体说明这些培训是否包含土地管理法规相关内容？培训记录是否保存完整？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "安全生产培训主要针对采矿作业安全规范，土地管理法规内容涉及较少。培训记录有保存，但内容不包含林地占用手续的具体要求。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你提到\"对林地保护的特殊规定了解不够全面\"，那么你作为采石场主要负责人，是否知晓生态公益林的特殊保护规定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时确实对生态公益林的特殊保护规定了解不够具体，只知道这类林地需要特别保护，但不清楚具体的审批要求和保护范围。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你提到\"当时没有意识到需要单独办理林地占用许可手续\"，那么采石场在2013年之前是否办理过其他项目的林地占用手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2013年之前采石场没有办理过其他项目的林地占用手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你作为采石场主要负责人，在2013年11月扩大开采面积时，是否收到过林业部门关于林地占用问题的任何行政通知或警告？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2013年11月扩大开采时没有收到过林业部门的行政通知或警告。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你提到\"对三次鉴定结果的具体数字确实存在疑问\"，那么你认为实际占用林地面积应该是多少？有何依据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "根据我们与村民签订的租地协议范围估算，实际占用林地面积应该在30-40亩左右。主要依据是第一次鉴定结果42.266亩比较接近实际情况，最后一次119.3亩的鉴定结果与我们实际使用范围明显不符。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2013年4月至6月间，我作为醴陵市寨下采石场的主要负责人，因村级公路硬化限行影响运输，与股东商议后决定在寨下村、土株岭村的山岭间修建一条通往320国道的公路。采石场与土珠岭村多个村民小组签订了租岭修路协议。协议签订后，我安排工作人员胡某甲、肖某乙使用采石场设备进行施工，最终建成一条全长1221米的公路。施工期间未向醴陵市林业主管部门办理林地占用许可手续。  \n2013年11月起，采石场在未办理林地使用手续的情况下扩大开采面积，导致部分林地被毁。2014年6月12日，醴陵市森林公安局委托鉴定显示采石场占用林地42.266亩；同年11月6日，鉴定确认新修公路占用林地18.9亩（含省级公益林）。我对鉴定结果提出异议，2015年7月8日重新鉴定显示总占用农用地119.3亩（含耕地2.6亩、林地116.7亩，其中国家级和省级公益林50.8亩）。  \n\n（2）犯案动机  \n修路是为解决运输受限问题，确保采石场正常运营。扩大开采是为提高生产效率，未意识到需单独办理林地占用手续。  \n\n（3）案发之后的处理  \n案发后我如实供述了占用农用地的情况，但未自首。目前未提及赔偿或与被害人达成和解，也未取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "对林地占用面积鉴定结果的关联性提出异议。三次鉴定结果差异过大，特别是最后一次119.3亩的鉴定结果与被告人和村民签订的租地协议范围明显不符，该证据不能客观反映实际占用林地情况。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "第三次鉴定系由具有资质的第三方机构重新委托进行，程序合法有效。鉴定人员具备专业资质，采用卫星遥感影像与实地勘测相结合的科学方法，测量结果客观准确。被告方虽对面积提出异议，但未能提供任何有效反证推翻鉴定结论。且三次鉴定差异系因测量方法改进及违法事实持续所致，符合案件客观情况。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就鉴定结果的合法性和科学性充分发表意见，法庭将在评议时结合全案证据综合判断。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：被告人基本情况、户籍证明、归案经过、办案说明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：醴陵市寨下采石场非法占用林地、修路占用林地现场照片，照片拍摄时间为2014年6月，由醴陵市森林公安局民警拍摄，并经醴陵市林业调查规划设计队专业认定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：企业注册登记资料、林权证资料，资料来源于醴陵市工商行政管理局和林业局官方档案，经核对与原始登记一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：关于开采甲方寨下石矿的合同、望仙桥村蔡某石头开采租山协议，签署方为寨下采石场与望仙桥村村委会，经醴陵市公证处公证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：醴陵市寨下采石场安全生产许可证、采矿许可证、组织机构代码证、个人独资企业营业执照，许可证由湖南省安全生产监督管理局和国土资源厅颁发，营业执照由醴陵市工商行政管理局颁发，均在有效期内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：道路租用协议，签署方为寨下采石场与土珠岭村村委会，经醴陵市公证处公证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：停止非法采矿、采石的通知、停止非法占用、毁坏林地的通知，通知由醴陵市国土资源局和林业局联合发出，具有行政强制效力",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：谷歌地图照片，照片获取时间为2014年5月，经醴陵市林业调查规划设计队比对认定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：关于土株岭村新修一条简易公路的情况说明，由土株岭村村委会出具，经醴陵市林业局备案确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人吴某说：“2013年4月至6月间，寨下采石场因村级公路硬化限行，需要新修一条公路用于运输，肖某甲提出了在寨下、土株岭两个村的山岭间修建一条由采石场通往320国道公路的想法。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人周某说：“寨下采石场分别与土珠岭村李祠组、李西组、郭家组、新屋组等签订了租岭修路协议。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人陈某说：“肖某甲安排采石场工作人员胡某甲、肖某乙负责使用采石场的机械设备进行了现场施工。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人胡某乙说：“寨下采石场在没有到醴陵市林业主管部门办理征占用林地许可手续的情况下，占用林地修建完成了一条全长1221米由采石场通往320国道的公路。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人郭某丙说：“2013年11月以来，寨下采石场在未办理占用林地使用手续的情况下，擅自扩大面积开采，致使该处林地被严重毁坏。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人郭某丁说：“2014年6月12日，醴陵市森林公安局委托醴陵市林业调查规划设计队对寨下采石场进行被占用林地鉴定。”鉴定委托程序符合《林业行政处罚程序规定》，鉴定机构具有湖南省林业厅颁发的乙级资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人李某戊说：“2014年11月6日，醴陵市森林公安局委托醴陵市调查规划设计队对采石场新修公路进行被占用林地鉴定。”鉴定委托程序符合《林业行政处罚程序规定》，鉴定机构具有湖南省林业厅颁发的乙级资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人王某说：“接到鉴定意见通知后，肖某甲对以上鉴定意见有异议。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人罗某甲说：“2015年7月8日，醴陵市森林公安局再次委托湖南省郴州市旭某重新对寨下采石场所占用的林地进行鉴定。”重新鉴定依据《刑事诉讼法》第192条规定，该鉴定机构经湖南省司法厅核准登记",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人杨某说：“寨下采石场修路时除与所在组签订了道路租用协议外，还与所在村签订了道路租用协议。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人胡某丙说：“协议中明确村委会负责提供山岭、田土用地，保证寨下采石场能正常租用并负责与有关部门的协调工作。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人罗某乙说：“由寨下采石场出资，所在村负责路面粗坯成形。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人李某己说：“所有后期修护、保养工程全部由寨下采石场完成并承担一切费用。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人胡某丁说：“该路主要用于采石场运输石料。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人肖某丙说：“租路协议并未明确由村委会负责办理林地占用手续。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人刘某说：“寨下采石场是在2009年才接手采石，此前他人已在此开采多年。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.鉴定意见：醴陵市林业调查规划设计队出具的醴陵市寨下采石场占用林地鉴定意见书，意见是：目前醴陵市寨下采石场正在使用的林地分四区，其中：采矿区4.79亩（3190平方米）；机械传输区23.517亩（15662平方米）；堆料区10.428亩（6945平方米）；道路区10.428亩（2352平方米），合计42.266亩（28149平方米）。鉴定机构具有湖南省林业厅颁发的乙级资质，鉴定程序符合《林业鉴定技术规程》",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.鉴定意见：醴陵市调查规划设计队出具的醴陵市寨下采石场修建运输便道占用林地鉴定意见书，意见是：全长1221米，共占用林地18.9亩（12614平方米），森林类别是省级公益林，林种为防护林。鉴定机构具有湖南省林业厅颁发的乙级资质，鉴定程序符合《林业鉴定技术规程》",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.鉴定意见：湖南省郴州市旭鸿司法鉴定所出具的司法鉴定意见书，意见是：醴陵市寨下采石场占用农用地面积共计119.3亩（其中耕地面积为2.6亩，林地面积为116.7亩，其中含国家级生态公益林34.2亩，省级生态公益林为16.6亩），占用林地的地类均为灌木林地，原有植被已被严重毁损。该机构经湖南省司法厅核准登记，鉴定程序符合《司法鉴定程序通则》",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "对第三次鉴定结果119.3亩的关联性提出异议。该鉴定结果与被告人和村民签订的租地协议范围存在重大差异，且公诉人未能提供充分证据证明被告人对生态公益林的特殊保护规定具有明确认知。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "第三次鉴定由具有司法鉴定资质的第三方机构独立完成，鉴定程序合法合规。鉴定人员采用卫星遥感等科学方法进行测量，结果客观准确。被告人作为专业采矿企业负责人，持有有效采矿许可证，应当明知林地使用需经审批的法律规定。生态公益林作为国家重点保护林地，其特殊保护规定已在相关法律法规中明确公示，被告人不能以不知情为由推卸责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就鉴定结果的合法性和科学性充分发表意见，法庭将在评议时结合全案证据综合判断。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.勘验笔录：现场勘验笔录，记录了醴陵市寨下采石场非法占用林地的现场情况，由醴陵市森林公安局两名侦查员制作，见证人为土株岭村村委会主任",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据在案证据，现就本案发表以下公诉意见：\n\n一、关于犯罪事实认定\n1. 通过被告人供述、16名证人证言及三份鉴定意见相互印证，形成完整证据链，证实被告单位及被告人违反土地管理法规，非法占用农用地119.3亩，其中包含国家级生态公益林34.2亩，造成农用地原有植被严重毁损。\n\n2. 第三次鉴定由具有资质的第三方司法鉴定机构依法作出，程序合法有效。被告人虽对鉴定面积提出异议，但未能提供有效反证。\n\n二、关于主观方面\n被告人作为专业采矿企业负责人，持有有效采矿许可证，应当明知林地使用需办理审批手续，却长期未予办理，主观上具有明显的违法性认识。\n\n三、关于法律适用\n根据《刑法》第342条规定，违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏的，构成非法占用农用地罪。本案涉案面积远超司法解释规定的\"数量较大\"标准（基本农田5亩或其他耕地10亩），且造成农用地原有植被严重毁坏，完全符合该罪构成要件。\n\n综上，请法庭依法对被告单位及被告人作出有罪判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长：\n\n针对公诉意见，辩护人提出以下辩护意见：\n\n一、关于鉴定面积问题\n1. 第三次鉴定采用的航测法与实地测量法存在技术差异，与租地协议载明的实际使用范围不符。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十五条，鉴定意见应当与案件待证事实有关联，而本案鉴定方法的不一致导致结果差异过大，不能客观反映实际占用情况。\n\n二、关于主观明知问题\n公诉机关未能提供证据证明被告人明确知晓涉案林地属于国家级生态公益林。被告单位持有合法采矿许可证，其违法行为系因运输受限等客观原因导致，主观上并非故意违反土地管理法规。\n\n三、关于量刑情节\n1. 被告人在案发后立即停止施工，主动承诺补办手续，具有明显的悔罪表现；\n2. 违法行为持续时间较短，且主要系程序性瑕疵，未造成不可逆的生态损害；\n3. 被告单位系合法经营企业，此次违法系初犯，社会危害性较小。\n\n综上，恳请法庭充分考虑上述从轻情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于鉴定方法问题\n第三次鉴定由具有司法鉴定资质的机构依法作出，采用航测法符合《林业资源调查技术规程》要求，且与实地测量结果相互印证。辩护人提出的技术差异不影响鉴定结论的客观性，被告人亦未提供有效证据证明实际占用面积与鉴定结果存在实质性差异。\n\n二、关于主观明知问题\n被告人作为专业采矿企业负责人，应当知晓《森林法》关于林地使用的审批要求。国家级生态公益林设有明显界桩标识，且根据证人证言，当地林业部门曾多次进行过宣传告知，足以认定被告人具有违法性认识。采矿许可证的合法性不能免除其办理林地使用手续的法定义务。\n\n三、关于量刑情节\n1. 涉案林地毁坏面积达119.3亩，其中包含34.2亩国家级生态公益林，已造成严重的生态损害；\n2. 违法行为持续时间长达两年，并非辩护人所称的\"程序性瑕疵\"；\n3. 虽系初犯，但破坏生态公益林属于从重处罚情节。被告人所谓的\"主动承诺补办手续\"发生在案发之后，不能改变其违法行为的严重性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于鉴定方法问题\n第三次鉴定虽采用航测法，但与前两次实地测量结果差异显著，且未对测量方法差异导致的误差范围作出说明。根据《司法鉴定程序通则》第二十三条，鉴定人应当对鉴定过程进行详细记录，但本案鉴定报告未充分说明航测数据与实地情况的对应关系。\n\n二、关于主观明知问题\n公诉人主张的\"应当知晓\"不能替代直接证据。根据《刑事诉讼法》第五十三条，定罪量刑应当重证据。现有证据不能证明被告人明确知晓涉案林地属于生态公益林，且当地林业部门的宣传告知缺乏书面记录佐证。\n\n三、关于量刑情节\n1. 被告人在调查初期即配合说明情况，根据《刑法》第六十七条，可以认定为坦白情节；\n2. 涉案区域已停止施工近一年，部分区域植被开始自然恢复，实际损害程度低于鉴定时状态；\n3. 被告单位已与部分林地权利人达成补偿协议，正在积极弥补损失。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于鉴定方法问题\n第三次鉴定报告已详细载明航测数据与实地核查的对应关系，符合《司法鉴定程序通则》要求。辩护人提出的\"差异显著\"系主观判断，未提供专业依据。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十七条，对鉴定意见有异议应当提出合理依据，而非简单质疑。\n\n二、关于主观明知问题\n《森林法实施条例》第十六条明确规定使用林地必须办理审批手续。被告人作为采矿企业负责人，长期从事生产经营活动，对林地使用管理规定应当知晓。国家级生态公益林设有明显界桩，且根据证人证言，当地林业部门曾多次进行法规宣传，足以认定其主观明知。\n\n三、关于量刑情节\n1. 被告人虽在调查中说明情况，但根据《刑法》第六十七条规定，坦白需如实供述主要犯罪事实，而被告人对关键事实始终回避；\n2. 植被自然恢复不能改变已造成的严重毁坏事实，且34.2亩国家级生态公益林的生态功能损害具有不可逆性；\n3. 补偿协议系案发后达成，不能否定犯罪行为的严重性。根据《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第一条，非法占用并毁坏防护林地达到5亩以上即应追究刑事责任，本案远超该标准。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于鉴定客观性问题\n第三次鉴定虽经有资质机构作出，但根据《司法鉴定程序通则》第二十四条，鉴定机构应当说明不同鉴定方法可能产生的误差范围。本案中航测数据与实地测量存在20%以上差异，却未对此作出合理解释，影响鉴定结论的准确性。\n\n二、关于主观明知问题\n公诉人援引的《森林法实施条例》第十六条系一般性规定，不能直接证明被告人对涉案林地属于生态公益林这一特殊保护范围的明知。根据\"存疑有利于被告人\"原则，在缺乏直接证据情况下不应推定其主观恶性。\n\n三、关于量刑情节补充\n1.被告人在首次询问时即主动交代主要事实，符合《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条关于\"如实供述主要犯罪事实\"的认定标准；\n2.涉案区域已实施为期8个月的生态修复措施，部分区域植被覆盖率恢复至60%以上，损害后果正在有效弥补。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我对自己的行为深感悔恨。作为采石场负责人，我因法律意识淡薄，未及时办理林地占用手续，造成了林地破坏。我认罪认罚，愿意承担相应责任。恳请法庭考虑我系初犯、认罪态度良好，以及采石场为当地经济发展做出的贡献，给予从宽处理。我承诺将积极补办手续，恢复受损林地，今后一定严格遵守法律法规。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "湖南省醴陵市人民法院\n刑事判决书\n（2016）湘0281刑初字第XX号\n\n公诉机关湖南省醴陵市人民检察院。\n被告人肖某甲，男，19XX年X月X日出生，汉族，湖南省醴陵市人，初中文化，醴陵市寨下采石场主要负责人，住湖南省醴陵市XX镇XX村XX组。因涉嫌非法占用农用地罪于2015年X月X日被取保候审。\n辩护人XXX，湖南XX律师事务所律师。\n\n湖南省醴陵市人民检察院以醴检公诉刑诉〔2016〕8号起诉书指控被告人肖某甲及被告单位醴陵市寨下采石场犯非法占用农用地罪，于2016年X月X日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。醴陵市人民检察院检察员XXX出庭支持公诉，被告人肖某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n湖南省醴陵市人民检察院指控：2013年4月至6月间，被告人肖某甲作为醴陵市寨下采石场主要负责人，在未办理林地占用许可手续的情况下，组织修建公路并扩大开采面积，非法占用农用地119.3亩（其中耕地2.6亩，林地116.7亩，含国家级生态公益林34.2亩，省级生态公益林16.6亩），造成农用地原有植被严重毁损。其行为已触犯《中华人民共和国刑法》第三百四十二条之规定，构成非法占用农用地罪。被告人肖某甲对指控的基本事实无异议，但辩称对占用面积的具体数字存在疑问，且主观上对林地占用手续要求认识不足。辩护人提出鉴定面积存在争议、被告人主观恶性较小等辩护意见。\n\n经审理查明：2013年4月至6月，被告人肖某甲作为醴陵市寨下采石场主要负责人，为解决运输受限问题，在未办理林地占用许可手续的情况下，组织修建公路并扩大开采面积。经湖南省郴州市旭鸿司法鉴定所鉴定，共非法占用农用地119.3亩（其中耕地2.6亩，林地116.7亩，含国家级生态公益林34.2亩，省级生态公益林16.6亩），造成农用地原有植被严重毁损。上述事实有被告人供述、证人证言、书证、鉴定意见、勘验笔录等证据证实，证据间相互印证，形成完整证据链。关于占用面积问题，第三次鉴定由具有资质的司法鉴定机构依法作出，程序合法，应予采信。\n\n本院认为，被告人肖某甲作为被告单位醴陵市寨下采石场直接负责的主管人员，违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控的罪名成立。鉴于被告人肖某甲系初犯，认罪态度较好，有悔罪表现，依法可以从轻处罚。辩护人关于从轻处罚的辩护意见予以采纳。为维护国家土地管理制度，保护生态环境，依照《中华人民共和国刑法》第三百四十二条、第三百四十六条、第七十二条、第七十三条之规定，判决如下：\n\n一、被告人肖某甲犯非法占用农用地罪，判处有期徒刑一年六个月，缓刑二年，并处罚金人民币五万元；\n二、被告单位醴陵市寨下采石场犯非法占用农用地罪，判处罚金人民币十万元；\n三、责令被告单位醴陵市寨下采石场及被告人肖某甲于本判决生效之日起六个月内按照林业主管部门要求对涉案林地进行生态修复。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖南省株洲市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n人民陪审员 XXX\n人民陪审员 XXX\n二〇一六年X月X日\n\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人非法占用农用地罪的构成要件是否成立。查明情况：公诉人通过鉴定报告、证人证言等证据证明被告人非法占用农用地数量较大且造成毁坏；被告人承认基本事实但对具体面积有异议。审判长认为犯罪构成要件基本成立，但需进一步核实占用面积。\n\n2.林地占用面积的鉴定意见采信问题。查明情况：三次鉴定结果差异较大（42.266亩、18.9亩、119.3亩），辩护人对第三次鉴定结果提出异议，认为与租地协议范围不符；公诉人坚持第三次鉴定程序合法有效。审判长认为需重点审查鉴定程序合法性及测量方法科学性。\n\n3.被告人主观过错认定。查明情况：被告人承认未办理手续但辩称非故意；公诉人指出其作为专业采矿企业负责人应知晓规定。审判长认为其过失明显，但需结合行业惯例判断注意义务标准。\n\n4.生态公益林特殊保护的量刑影响。查明情况：鉴定显示占用国家级和省级生态公益林50.8亩，被告人称不清楚具体范围。审判长认为此情节可能影响量刑幅度，需进一步评估被告人对公益林特殊规定的认知程度。\n\n5.量刑情节认定。查明情况：被告人认罪态度较好且系初犯，但未主动采取补救措施；尚未与村民或林业部门达成和解。审判长认为可从轻处罚但需评估生态修复情况及赔偿意愿。\n\n6.单位犯罪中被告人的责任认定。查明情况：被告人作为采石场主要负责人，承认参与决策但辩称对林地手续要求认识不足。审判长认为其作为直接负责的主管人员责任明确，但需结合单位犯罪特征综合认定。\n\n7.民事赔偿和生态修复方案。查明情况：被告人仅停止施工，尚未开展具体修复工作。审判长认为需明确修复责任及时间表，作为量刑重要考量因素。\n\n8.鉴定方法差异对鉴定结果的影响。查明情况：辩护人指出航测法与实地测量法存在20%以上差异但未说明误差范围；公诉人认为鉴定程序合法。审判长认为需审查鉴定机构是否对方法差异作出合理解释。\n\n9.被告人是否构成坦白情节。查明情况：辩护人主张被告人在首次询问即交代主要事实；公诉人认为其对关键事实始终回避。审判长认为需结合供述内容与案件事实的吻合度判断。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问部分：\n- 被告人承认在修建公路和扩大开采时未办理林地占用许可手续，表示当时法律意识不足\n- 被告人对林地占用面积鉴定结果提出异议，认为前后鉴定结果差异过大\n- 被告人承认未及时采取补救措施或修复被破坏林地\n- 被告人解释扩大开采是出于生产需要，但承认未专门讨论林地占用手续问题\n\n2. 辩护人讯问部分：\n- 被告人说明未向相关部门咨询林地占用手续办理程序\n- 被告人承认村级公路硬化未完全中断运输，但修建新路是最经济方案\n- 被告人对三次鉴定结果差异提出质疑，并申请过重新勘验\n- 被告人表示案发后仅停止施工，尚未开展具体生态修复工作\n- 被告人承认土地管理法规培训不足，对生态公益林特殊规定了解不全面\n\n3. 审判长补充讯问：\n- 被告人确认安全生产培训不包含土地管理法规内容\n- 被告人承认对生态公益林特殊保护规定了解不足\n- 被告人表示采石场此前未办理过林地占用手续\n- 被告人在扩大开采时未收到林业部门警告\n- 被告人估算实际占用林地面积应为30-40亩，认为第一次鉴定结果较准确\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议，辩护人对林地占用面积鉴定结果的关联性提出异议，认为三次鉴定结果差异过大，与租地协议范围不符。公诉人回应称第三次鉴定程序合法有效，采用科学方法测量。\n\n2. 公诉人出示书证1-10（包括被告人基本情况、现场照片、企业注册资料、各类许可证、道路租用协议、行政通知等），被告人和辩护人均无异议。\n\n3. 公诉人出示证人证言1-26（涉及修路决策过程、协议签订、施工安排、林地占用情况、鉴定过程等），被告人和辩护人均无异议。\n\n4. 公诉人出示鉴定意见1-3：\n   - 第一次鉴定显示占用林地42.266亩\n   - 第二次鉴定显示修路占用林地18.9亩\n   - 第三次鉴定显示总占用农用地119.3亩（含国家级和省级公益林50.8亩）\n   辩护人对第三次鉴定结果提出异议，认为与租地协议范围存在重大差异。公诉人回应称鉴定程序合法，被告人作为专业人士应知法律规定。\n\n5. 公诉人出示现场勘验笔录，被告人和辩护人均无异议。\n\n6. 辩护人表示无需举证，被告人不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 关于犯罪事实认定：\n- 公诉人指出通过被告人供述、16名证人证言及三份鉴定意见形成完整证据链，证实非法占用农用地119.3亩（含34.2亩国家级生态公益林）\n- 辩护人对第三次鉴定面积提出异议，认为航测法与实地测量法存在20%以上差异且未说明误差范围\n\n2. 关于主观明知问题：\n- 公诉人认为被告人作为专业采矿企业负责人应当明知林地使用审批要求，且生态公益林设有明显界桩\n- 辩护人主张缺乏直接证据证明被告人明确知晓涉案林地属于生态公益林\n\n3. 关于量刑情节：\n- 公诉人强调：\n  * 违法行为持续两年\n  * 造成严重生态损害（特别是34.2亩国家级生态公益林）\n  * 案发后才承诺补办手续\n- 辩护人提出：\n  * 被告人主动交代主要事实\n  * 已实施8个月生态修复（部分区域植被恢复至60%）\n  * 与部分权利人达成补偿协议\n  * 系初犯且社会危害性较小",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪类似案件判决情况",
+              "非法占用农用地罪中生态公益林破坏的刑期考量",
+              "非法占用农用地罪中单位犯罪与个人责任的区分",
+              "非法占用农用地罪中鉴定面积争议的处理"
+            ],
+            "非法占用农用地罪类似案件判决情况": "### 结论\n非法占用农用地罪的判决主要受以下因素影响：非法占用农用地的数量、改变土地用途的程度、造成的农用地毁坏情况、是否自首、认罪态度、是否采取补救措施、是否造成生态环境破坏以及是否履行耕地修复义务。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪，违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的数量和改变土地用途的程度**：法院在判决时会考虑非法占用农用地的数量是否达到“数量较大”的标准，以及改变土地用途是否造成农用地大量毁坏。例如，【（2019）京01刑终520号】中，被告人非法占用100余亩农用地，改变用途，造成大量毁坏，构成非法占用农用地罪。\n- **是否自首和认罪态度**：自首和认罪态度良好可以作为从轻处罚的情节。如【（2018）粤12刑终160号】中，四被告人主动投案，如实供述犯罪事实，系自首，且认罪、悔罪，依法予以从轻处罚。\n- **是否采取补救措施**：被告人是否承诺并采取措施恢复土地原状或支付修复费用，如【（2017）豫0122刑初1112号】中，朱群秀承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，法院因此酌情从轻处罚。\n- **是否造成生态环境破坏**：非法占用农用地导致生态环境破坏的，被告人需承担修复责任。如【最高人民法院发布人民法院依法保护农用地典型案例：二、程某科非法占用农用地案】中，程某科需承担恢复耕地、林地复垦条件及制定生态修复方案等费用。\n- **是否履行耕地修复义务**：如【（2021）吉2401行初49号】中，龙井市自然资源局被要求依法履行耕地保护的监管职责，对被破坏的耕地采取有效监督管理措施，恢复耕种条件。\n\n综上，非法占用农用地罪的判决会综合考虑非法占用土地的数量、用途改变、造成的破坏程度、被告人的认罪态度、是否自首、是否采取补救措施以及对生态环境的影响，以决定是否构成犯罪及量刑的轻重。\n\n#####\n类似案件为：\n【（2019）京01刑终520号】：法院生效判决认为：被告人李某、朱某、訚某、靳某违反土地管理法规,非法占用农用地,改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均已构成非法占用农用地罪。北京市国土资源局昌平分局系对国家土地资源管理和运营的法定部门，其依法对涉案土地的性质、面积及土地破坏程度作出认定，该书证合法有据，具有证明效力，李某辩护人关于非法占用农用地破坏程度的意见不符合证据要求的意见，不予采纳。全案证据相互印证，已经形成完整的证明体系，证实涉案土地在李某等人倾卸渣土之前是长草的荒地，涉案土地系农村集体土地，权利人为村集体经济组织，李某等人对于该地块不具有任何权利，在李某指使安排下，朱某负责全面管理，訚某、靳某各有分工，在2014年至2015年期间，允许自己车队在该处倾倒渣土的同时，为非法获利，亦允许其它车队大规模倾卸渣土，致涉案地块状况迅速发生变化，造成100余亩农用地种植条件被严重破坏的基本事实，故李某的辩护人关于认定事实证据不足，不具有非法性和主观故意等意见；朱某辩护人关于其主观恶性小、犯罪情节轻、未认识到土地性质等意见，均不予采纳。故法院依法作出如上裁判。\n【（2018）粤12刑终160号】：法院生效裁判认为：被告人梁某友、梁某斌、梁某明作为鼎湖区某村委会1、2、3队村民小组的组长，违反土地管理法规，代表村集体将村数量较大的耕地非法发包，致被告人梁某东违反土地管理法规，在没有办理合法用地相关手续及缺乏统一监管的情况下，在承包的耕地上挖掘鱼塘，搭建猪舍，非法占用耕地54.53亩，改变被占用土地用途，数量较大，造成农用地大量毁坏。被告人梁某东、梁某明、梁某友、梁某斌的行为均已构成非法占用农用地罪。鉴于四被告人主动投案，如实供述本案犯罪事实，系自首，且均认罪、悔罪，可依法予以从轻处罚。故法院依法作出如上裁判。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。",
+            "非法占用农用地罪中生态公益林破坏的刑期考量": "### 结论\n非法占用农用地罪中，破坏生态公益林的刑期考量主要受以下因素影响：自首、认罪认罚、复植补绿、生态恢复保证金的缴纳、被占用林地的性质、犯罪对象的特殊性、犯罪数量、以及对生态环境的破坏程度。法院在量刑时会综合考虑这些因素，对于有自首、认罪认罚、积极修复生态环境等情节的，会依法从轻或减轻处罚；对于破坏数量较大、犯罪对象为生态公益林等情节严重的，会酌情从重处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首**：自首是减轻处罚的重要情节。例如，【（2019）闽0824刑初127号】、【（2020）闽0825刑初48号】、【（2019）浙1126刑初130号】、【（2019）粤1521刑初116号】、【（2020）闽0803刑初21号】、【（2019）闽0181刑初14号】、【（2020）闽0821刑初248号】、【（2020）粤1821刑初89号】、【（2019）闽0825刑初118号】中，被告人均有自首情节，法院依法从轻处罚。\n- **认罪认罚**：认罪认罚是减轻处罚的另一重要因素。例如，【（2020）闽0825刑初48号】、【（2019）粤1521刑初116号】、【（2020）闽0803刑初21号】、【（2019）闽0181刑初14号】、【（2020）闽0821刑初248号】、【（2020）粤1821刑初89号】中，被告人均认罪认罚，法院依法从宽处理。\n- **复植补绿与生态恢复保证金**：积极修复生态环境，如复植补绿、缴纳生态恢复保证金，是减轻处罚的重要考量。例如，【（2019）闽0824刑初127号】、【（2020）闽0821刑初248号】、【（2020）粤1821刑初89号】中，被告人积极修复生态环境，法院酌情从轻处罚。\n- **被占用林地的性质**：被占用林地为生态公益林时，会酌情从重处罚。例如，【（2020）闽0825刑初48号】、【（2020）闽0803刑初21号】、【（2020）粤1821刑初89号】中，犯罪对象为生态公益林，法院酌情从重处罚。\n- **犯罪数量**：非法占用林地数量较大时，会酌情从重处罚。例如，【（2020）闽0803刑初21号】、【（2020）粤1821刑初89号】中，犯罪数量较大，法院酌情从重处罚。\n\n综上，非法占用农用地罪中破坏生态公益林的刑期考量，法院会综合考虑被告人的自首、认罪认罚、复植补绿、生态恢复保证金的缴纳、被占用林地的性质、犯罪数量等因素，依法作出判决。\n\n#####\n类似案件为：\n【（2019）闽0824刑初127号】：法院认为，何才斌违反土地管理法规，非法占用林地搭棚种植花卉，造成生态公益林被破坏6.61亩，数量较大，构成非法占用农用地罪。鉴于何才斌有自首、签订复植补绿协议并缴交生态恢复保证金、有前科、被占用林地系生态公益林、认罪认罚等情节，建议判处被告人拘役二个月，缓刑五个月，并处罚金12000元。被告人何才斌犯非法占用农用地罪，判处拘役二个月，缓刑五个月，并处罚金人民币12000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n【（2020）闽0825刑初48号】：法院认为，被告人陈世洋违反土地管理法规，非法占用并破坏生态公益林用于非林业生产建设，数量较大，造成林地大量毁坏，其行为构成非法占用农用地罪。鉴于陈世洋有自首情节，认罪认罚，但犯罪对象为生态公益林，案发后继续破坏林地，建议从轻或减轻处罚的同时，酌情从重处罚。被告人陈世洋犯非法占用农用地罪，判处有期徒刑一年四个月，缓刑一年六个月，并处罚金人民币四万元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n【（2019）浙1126刑初130号】：法院认为，被告人吴存民违反土地管理法规，非法占用并毁坏生态公益林地和商品林地用于开设道路，其行为已构成非法占用农用地罪。案发后被告人主动投案，且现已满75周岁，可依法从轻处罚。根据被告人的犯罪情节和悔罪表现，符合宣告缓刑的条件，对其可适用缓刑。被告人吴存民犯非法占用农用地罪，判处拘役五个月，缓刑九个月，并处罚金人民币2000元（缓刑考验期限，从判决确定之日起计算；罚金限判决生效后十日内缴纳）。",
+            "非法占用农用地罪中单位犯罪与个人责任的区分": "### 结论\n非法占用农用地罪中，单位犯罪与个人责任的区分主要依据是否以单位名义实施犯罪、是否体现单位意志、是否由单位组织实施、是否为单位谋取利益等原则。单位犯罪需体现单位整体意志，违法所得通常归单位所有，而个人犯罪则体现个人意志，利益归属个人。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：规定单位犯罪的主体范围。\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的构成要件。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否以单位名义实施犯罪**：体现单位犯罪的外在形式。例如，【（2023）黔26刑终148号】中，某实业公司虽取得采矿许可证，但未依法办理土地征用、林地占用手续，采取劳务分包方式化整为零，被认定为单位犯罪。\n- **是否体现单位意志**：单位内部成员未经单位决策机构批准、同意或认可而实施的违法行为，应认定为个人违法。如【（2016）湘0408刑初215号】中，雁城公司、通达公司等单位犯罪中，直接负责的主管人员的行为体现了单位意志。\n- **是否由单位组织实施**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，不以单位犯罪论处。【（2018）京0119刑初90号】中，刘某以个人名义非法占用耕地，未体现单位意志，认定为个人犯罪。\n- **是否为单位谋取利益**：只有在为本单位谋利益的情况下，且违法所得通常归单位所有，才以单位违法论。【（2019）粤5122刑初111号】中，饶平县吉腾爆破工程有限公司非法占用农用地，为单位谋取利益，构成单位犯罪。\n\n综上，非法占用农用地罪中单位犯罪与个人责任的区分，关键在于行为是否体现单位意志、是否由单位组织实施、是否为单位谋取利益，以及是否以单位名义实施犯罪。单位犯罪需体现单位整体意志，违法所得通常归单位所有，而个人犯罪则体现个人意志，利益归属个人。在具体案件中，需综合考虑上述因素，以准确区分单位犯罪与个人犯罪。\n\n#####\n类似案件为：\n【（2023）黔26刑终148号】：法院生效判决认为：被告单位某实业公司非法占用农用地进行采矿，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏，构成非法占用农用地罪。某实业公司在取得采矿许可证后，为规避违规占用农用地采矿，将占用的农用地面积化整为零，应对全部非法占用的农用地面积承担责任。被告人林某洪、林某雄是某实业公司直接负责的主管人员，被告人林某是某实业公司的直接责任人员，应承担单位犯罪的相应责任，按非法占用农用地罪处罚。某实业公司非法占用农用地的行为，对被占用的土地造成了生态破坏，应对其非法占用农用地所破坏的土地资源环境进行修复。故法院依法作出如上裁判。\n【（2016）湘0408刑初215号】：法院认为，被告人单位犯罪，以直接负责的主管人员和其他直接责任人员按个人犯罪处罚。曾祥敦、林亚子、唐新中、邱振华在集资诈骗中为主犯，按参与的集资诈骗数额处罚；曾祥敦、林亚子、唐新中、洪建程在非法吸收公众存款中为主犯，按参与的非法吸收公众存款数额处罚；肖宇为从犯，依法减轻处罚。曾祥敦、林亚子、唐新中、邱振华犯集资诈骗罪，分别判处有期徒刑十三年六个月至十四年一个月，剥夺政治权利一年，罚金四十万元；曾祥敦、林亚子、唐新中犯非法吸收公众存款罪，判处有期徒刑七年至八年，罚金四十万元；邱振华犯集资诈骗罪，判处有期徒刑十四年一个月，罚金四十万元；洪建程犯非法吸收公众存款罪，判处有期徒刑七年，罚金四十万元；肖宇犯非法吸收公众存款罪，判处有期徒刑一年六个月，罚金十万元；责令被告人退赔违法所得返还各集资参与人。\n法院判决被告人分别犯集资诈骗罪、非法吸收公众存款罪，并处罚金，责令退赔违法所得。\n【（2018）京0119刑初90号】：法院生效裁判认为：被告人刘某违反土地管理法规，非法占用耕地进行非农建设改造，改变被占土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪，应予刑罚处罚。刘某曾因犯敲诈勒索罪被判处刑罚，酌予从重处罚。刘某当庭自愿认罪，态度较好，酌予从轻处罚。故法院依法作出如上裁判。",
+            "非法占用农用地罪中鉴定面积争议的处理": "### 结论\n在非法占用农用地罪中，鉴定面积争议的处理需综合考虑鉴定程序的合法性、鉴定依据的可靠性、证据的充分性以及是否重新鉴定的必要性。法院在认定非法占用农用地面积时，会审查鉴定报告的制作程序、方法、数据来源以及是否符合相关法律规定，同时会考虑其他证据的补充证明作用，以确定最终的非法占用面积。\n\n### 核心法条\n- **《中华人民共和国刑事诉讼法》第二百条第三项**：规定在证据不足、指控的犯罪不能成立的情况下，应当作出无罪判决。\n- **《中华人民共和国土地管理法》第五十七条、第七十四条**：规定了临时使用土地的审批程序以及对破坏耕地行为的处罚。\n- **《中华人民共和国森林法》第37条**：规定占用林地建设工程的，应依法办理审批手续。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **鉴定程序和方法的合法性**：法院会审查鉴定报告的制作程序是否合法，鉴定方法是否科学，数据来源是否可靠。例如，【（2020）鲁1625刑初272号】中，法院认为鉴定人未独立完成鉴定事务，且计算方法存疑，最终导致鉴定结论的可靠性受到质疑。\n- **证据的充分性和补充证明作用**：法院会考虑除鉴定报告外的其他证据，如合同、现场勘验笔录、证人证言等，以补充证明非法占用农用地的面积。例如，【（2023）黑11民终820号】中，法院依据现场勘验笔录认定双方林地承包面积，而未采纳当事人提出的重新鉴定申请。\n- **重新鉴定的必要性**：在鉴定结论存疑或当事人提出异议时，法院会考虑是否有必要重新鉴定。例如，【（2020）鲁1625刑初272号】中，法院两次建议重新鉴定，但公诉机关未采纳，最终法院认为在控方未能进一步提供确凿证据的情况下，应当作出无罪判决。\n- **非法占用农用地的性质和破坏程度**：法院会审查非法占用的农用地是否为基本农田、林地等，以及破坏程度是否达到犯罪标准。例如，【（2020）桂行终246号】中，法院详细审查了争议地的权属历史和经营管护情况，以确定非法占用的性质和范围。\n\n综上，非法占用农用地罪中鉴定面积争议的处理，法院会综合考虑鉴定程序的合法性、证据的充分性、是否重新鉴定的必要性以及非法占用农用地的性质和破坏程度，以确保判决的公正性和准确性。\n\n#####\n类似案件为：\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。\n【（2023）黑11民终820号】：本院认为，秦永生与房俊峰签订的林地承包合同虽未明确约定承包面积，双方也未作补充约定。经现场勘验，秦永生代理人确认案涉林地面积为8.8342公顷，此面积认定符合法律规定，秦永生提交的其他面积凭证不作为合同约定面积依据。秦永生关于鉴定报告的异议，因鉴定时已考虑房俊峰书写状态，且无证据证明鉴定不当，故不予支持其重新鉴定申请。秦永生主张给付现金5000元及代缴罚款11891元，因无充分证据，且罚款时间与合同签订时间不符，不予支持。秦永生提出涉及诈骗及非法占用农用地的疑虑，经司法鉴定未发现刑事犯罪线索，不影响本案合同履行争议。综上，秦永生上诉请求缺乏依据，一审判决事实认定清楚，适用法律正确，应予维持。驳回上诉，维持原判。\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 150000.0,
+    "reprieve": 24.0
+  }
+]

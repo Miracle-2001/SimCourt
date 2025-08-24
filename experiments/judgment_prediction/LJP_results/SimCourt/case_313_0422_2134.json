@@ -1,0 +1,1857 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人邢某甲，男，XXX年X月X日出生，户籍XXXXX，汉族，XXX文化程度，任随县骏源石材有限公司法定代表人。因涉嫌犯非法占用农用地罪，于2017年12月19日到随县森林公安局投案自首。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖北省随县人民检察院  \n起 诉 书  \n\n鄂随县检刑诉〔2018〕232号  \n\n被告人邢某甲，男，XXX年X月X日出生，户籍XXXXX，汉族，XXX文化程度，任随县骏源石材有限公司法定代表人。因涉嫌犯非法占用农用地罪，于2017年12月19日到随县森林公安局投案自首。  \n\n本案由随县森林公安局侦查终结，以被告人邢某甲及被告单位随县骏源石材有限公司涉嫌非法占用农用地罪，于20xx年x月x日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人和认罪认罚可能导致的法律后果，依法讯问了被告人，听取了辩护人的意见，审查了全部案件材料。  \n\n经依法审查查明：  \n2015年2月23日，随县淮河镇王家湾村村民陈某与邢某乙签订《山场转包合同书》，将黑沟山场转包给邢某乙。2016年3月3日，双方重新签订合同明确山场界线。邢某乙承包山场后，与随县铜鑫石材有限公司合办采矿许可证，并筹备建厂。2016年5月22日，黑沟采石场施工队与铜鑫公司签订《采石场承包合同书》。次日，被告人邢某甲注册成立骏源公司并任法定代表人。2016年6月6日，骏源公司在未办理林地占用手续的情况下，与林某甲签订《石材开采承揽合同》，后林某乙受让开采权并实施开采。2016年11月10日，骏源公司与杜某签订《合伙协议书》共建加工厂，期间未办理林地占用手续，仅通过租用合同支付租金占用林地25.5亩。  \n\n2017年8月17日，随县林业调查规划设计队认定骏源公司占用林地5.9公顷。2018年调查确认总占用林地11.31公顷，其中邢某甲直接负责期间占用5.9公顷。案发后，骏源公司完成植被恢复并通过验收。  \n\n认定上述事实的证据如下：  \n1. 书证：受案登记表、到案经过、营业执照、采矿许可证、林权证、各类合同及租用协议；  \n2. 证人证言：赵某、邢某乙、陈某等18名证人的证言；  \n3. 勘验笔录：现场勘验、检查笔录及照片；  \n4. 视听资料：无人机航拍照片及卫片截图；  \n5. 鉴定意见：林业调查规划设计队出具的现场调查报告；  \n6. 书证：林地占用现状调查图、地类分布图、植被恢复验收证明；  \n7. 被告人供述：邢某甲的供述和辩解。  \n\n本院认为，被告单位随县骏源石材有限公司及被告人邢某甲违反土地管理法规，非法占用林地11.31公顷（邢某甲直接负责期间占用5.9公顷），改变土地用途，造成林地大量毁坏，其行为触犯《中华人民共和国刑法》第三百四十二条，犯罪事实清楚，证据确实、充分，应当以非法占用农用地罪追究刑事责任。被告人邢某甲主动投案自首，依法可以从轻或减轻处罚；被告单位完成植被恢复，可酌情从轻处罚。建议判处被告单位随县骏源石材有限公司罚金XX元，判处被告人邢某甲有期徒刑XX，缓刑XX，并处罚金XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n随县人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实和罪名没有异议，没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人邢某甲，你在2016年6月6日与林某甲签订《石材开采承揽合同》时，是否明知骏源公司尚未取得林地占用手续？请说明当时的具体情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时确实知道公司尚未取得林地占用手续。我们正在积极办理相关手续，但因为业务开展需要，就先与村民签订了租用合同并支付了租金，想着边经营边补办手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "作为公司法定代表人，你为何在明知需要办理林地占用手续的情况下（根据你与杜某合伙协议中的承诺），仍然指使林某乙直接开工开采？是否存在故意规避审批程序的主观故意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们当时确实存在侥幸心理，认为先开工后补办手续是行业常见做法。但我并非故意规避审批，公司一直在积极办理相关手续，只是审批流程较长。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "林业部门两次调查确认占用林地总面积达11.31公顷，其中你直接负责期间占用5.9公顷。你对这一鉴定结果是否有异议？是否清楚该面积已达到刑法规定的\"数量较大\"标准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "对鉴定结果没有异议。我清楚5.9公顷已达到数量较大标准，但公司已经完成了全部11.31公顷的植被恢复工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你声称\"承诺办理占地手续\"，但实际从未办理。请说明从2016年6月至2017年8月被林业部门查处期间，你为办理手续具体做过哪些工作？为何始终未能取得合法手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们确实向林业部门提交过申请材料，但因为矿区规划与当地林业保护规划存在冲突，审批一直未能通过。期间我们多次与相关部门沟通协调，也按要求补充过材料。由于审批流程复杂，加上我们经验不足，导致手续迟迟未能办下来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "投案自首后，骏源公司完成了植被恢复。但根据森林法第37条，生态修复不能免除刑事责任。你对此有何认识？是否认同应当承担相应刑事责任？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到生态修复不能免除刑事责任，完全认同应当承担相应的刑事责任。我自愿认罪认罚，愿意接受法律的制裁。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与村民签订的租用合同中是否明确约定由骏源公司负责办理林地占用手续？请具体说明合同相关条款内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "租用合同中没有明确约定由公司负责办理林地占用手续的条款。我们主要是通过支付租金的方式取得村民同意使用林地。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人邢某甲，你在承包山场后是否曾尝试办理林地占用手续？具体采取了哪些措施？请说明未能成功办理的原因。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们确实尝试过办理林地占用手续。2016年5月公司成立后，我们就向林业部门提交了申请材料，并多次与相关部门沟通协调。但由于矿区规划与当地林业保护规划存在冲突，审批一直未能通过。期间我们还按要求补充过材料，但因为审批流程复杂，加上我们经验不足，导致最终未能办下手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在与村民签订租用合同时，是否明确知晓需要办理林地占用手续？当时对相关法律规定的了解程度如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时知道需要办理林地占用手续，但对具体法律规定了解不够深入。我们以为先租用村民林地，支付租金取得使用权，再补办手续是可以的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "骏源公司在开采过程中，是否采取了任何措施来减少对林地的破坏？具体采取了哪些环境保护措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "开采过程中我们尽量控制开采范围，并安排专人负责监督。在2017年8月被查处后，公司立即停止了开采活动，并投入大量资金进行植被恢复，共栽种松树7000株、木瓜树1000株等，最终通过了林业部门的验收。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你主动投案的具体经过是怎样的？投案时是否如实供述了全部事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2017年12月19日，我主动到随县森林公安局投案，如实交代了公司非法占用林地的事实经过，包括签订合同、开采过程等全部情况，没有隐瞒任何事实。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "骏源公司完成植被恢复的具体情况如何？恢复工作是否达到了林业部门的要求标准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年9月13日经林业部门验收合格，我们共栽种松树7000株、木瓜树1000株等，完全达到了林业部门要求的恢复标准。验收报告显示植被恢复效果良好。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "作为公司法定代表人，你在经营管理过程中对林地保护负有哪些具体职责？是否尽到了合理注意义务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "作为公司法定代表人，我主要负责公司的整体经营决策。在林地保护方面，我安排专人负责与林业部门对接办理手续，要求开采时尽量控制范围，并在案发后立即组织进行植被恢复工作。虽然最终因审批问题未能取得合法手续，但我认为已经尽到了合理的注意义务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "本案涉及的11.31公顷林地中，你直接负责期间占用的5.9公顷与其他部分在管理上有何区别？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "5.9公顷是我直接负责期间占用的部分，当时公司正在积极办理相关手续。后来因我被立案侦查，不再参与经营，其他部分是由公司其他管理人员负责的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与合伙人杜某签订协议时承诺办理占地手续，后来为何未能兑现？遇到了什么具体困难？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "与杜某签订协议后，我们确实向林业部门提交了申请材料，但因矿区规划与当地林业保护规划存在冲突，审批一直未能通过。我们多次补充材料并与相关部门沟通协调，但由于审批流程复杂，加上我们经验不足，最终未能办下手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就被告人办理手续情况、主观认识、环境保护措施、投案经过、植被恢复情况等关键问题进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人邢某甲，你作为公司法定代表人，在2016年6月至2017年8月期间，是否收到过林业部门关于要求停止非法占用林地的通知或警告？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在2017年8月17日林业部门调查认定我们占用林地之前，没有收到过林业部门正式的停止占用通知或警告。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你作为公司法定代表人，在2016年6月至2017年8月期间，是否收到过林业部门关于要求停止非法占用林地的通知或警告？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在2017年8月17日林业部门调查认定我们占用林地之前，没有收到过林业部门正式的停止占用通知或警告。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你作为公司法定代表人，在2016年6月至2017年8月期间，是否曾就林地占用问题主动向林业部门进行过咨询或申报？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在2016年5月公司成立后，我们向林业部门提交过林地占用申请材料，并多次与相关部门沟通协调。但由于审批流程复杂，最终未能取得正式批准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你作为公司法定代表人，在2016年6月至2017年8月期间，公司是否就林地占用问题召开过董事会或管理层会议进行讨论？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司确实召开过管理层会议讨论林地占用问题，决定在继续办理手续的同时，先通过租用村民林地的方式开展业务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年2月23日，我与随县淮河镇王家湾村村民陈某签订《山场转包合同书》及补充协议，以80万元价格承包黑沟山场。因合同界线不明，2016年3月3日重新签订合同，明确界线后继续承包。我与铜鑫公司合办采矿许可证，并筹备修路、建厂。后邀请杨某、孙某、李某等人入股，协议由我全权负责经营管理，石材厂前期挂靠铜鑫公司。2016年5月22日，李某以黑沟采石场施工队名义与铜鑫公司签订承包合同。次日，我注册成立骏源公司并任法定代表人。6月6日，骏源公司在未办理林地占用手续的情况下，与林某甲签订开采承揽合同，后林某甲将工程转给林某乙。林某乙雇挖机在采矿范围内开采。2016年11月10日，我代表骏源公司与杜某签订合伙协议，共建星和石材加工厂，由杜某负责粉碎石料，我承诺办理占地手续。开采期间，骏源公司未办理林地占用手续，仅与村民签订租用合同支付租金，租用约25.5亩林地。2017年8月17日，随县林业调查规划设计队认定骏源公司占用林地5.9公顷。11月23日，随县公安局立案侦查，我未再参与经营。12月19日，我向随县森林公安局投案。  \n\n（2）犯案动机  \n为经营石材厂获取经济利益，在未取得林地占用手续的情况下，通过租用村民林地的方式开采石材并加工销售。  \n\n（3）案发之后的处理  \n2017年12月19日，我主动向随县森林公安局投案。骏源公司对占用林地进行了植被恢复，2018年9月13日经林业部门验收合格，栽种松树7000株、木瓜树1000株等。未提及与被害人达成赔偿或和解协议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述中关于\"为经营石材厂获取经济利益\"的表述，仅能证明其经营目的，不能直接证明其具有非法占用农用地的主观故意。该供述与公诉人试图证明的主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在供述中明确承认\"在未取得林地占用手续的情况下\"进行开采活动，且持续经营长达一年多时间，期间未采取有效措施办理合法手续。这种明知需要办理手续却故意规避的行为，结合其\"为经营石材厂获取经济利益\"的供述，足以证明其主观上具有非法占用的故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：随县森林公安局《受案登记表》及办案民警出具的《到案经过》，证明案件受理及被告人邢某甲到案情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人赵某说：“邢某甲承包山场后未办理林地手续就开始开采，我参与了部分合作谈判。”该证言与书证《山场转包合同书》及《租用合同》中关于未办理林地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人证言中关于\"未办理林地手续\"的表述过于笼统，无法证明被告人明知违法仍执意占用。该证言仅能证明客观上未办理手续的事实，与公诉人试图证明的主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人赵某作为参与合作谈判的直接参与者，其关于被告人未办理林地手续的证言具有直接证明力。结合被告人在侦查阶段\"明知需要办理手续却未办理\"的供述，以及书证中未办理手续的客观记载，已形成完整的证据链证明被告人的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人邢某乙说：“我与陈某签订山场转包合同后，将开采权交给邢某甲，但未核实林地手续是否齐全。”该证言与书证《山场转包合同书》及陈某证言中关于未办理林地占用手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明转包过程中未核实手续的情况，无法直接证明被告人具有非法占用农用地的主观故意。证人邢某乙并非直接参与经营决策的主体，其证言与被告人主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人邢某乙作为山场转包合同的直接参与人，其关于未核实林地手续的证言与被告人供述中\"明知需要办理手续却未办理\"的内容相互印证，能够证明被告人在接手山场时即知晓需要办理林地手续的事实，进一步佐证其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人陈某说：“我将黑沟山场转包给邢某乙，约定用途为石材开采，但未要求其办理林地占用手续。”该证言与书证《林权证》《山场转包合同书》及邢某乙证言中关于未办理林地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明转包合同签订时未约定办理林地手续的情况，无法证明被告人具有非法占用农用地的主观故意。证人陈某并非经营决策主体，其证言与被告人主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人陈某作为山场原承包人和转包合同签订方，其关于未要求办理林地占用手续的证言，与被告人供述中\"明知需要办理手续却未办理\"的内容相互印证，能够证明被告人在经营过程中明知需要办理林地手续而未办理的事实，进一步佐证其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人后某说：“骏源公司租用我家林地时仅支付租金，未出示任何合法占用文件。”该证言与书证《租用合同》及《收条》中关于未出示占用文件的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明骏源公司在租用林地时未出示占用文件的事实，无法直接证明被告人具有非法占用农用地的主观故意。证人后某作为林地出租方，其证言与被告人主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人后某作为林地实际出租人，其关于骏源公司租用林地时未出示任何合法占用文件的证言，与被告人供述中\"明知需要办理手续却未办理\"的内容相互印证，能够证明被告人在实际经营过程中明知需要合法占用手续却未办理的事实，进一步佐证其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人杜某说：“我与邢某甲合伙建加工厂时，他承诺办理占地手续，但始终未提供。”该证言与书证《合伙协议书》及《租用合同》中关于未办理占地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人在合伙建厂时承诺办理手续但未及时提供的情况，无法直接证明其具有非法占用农用地的主观故意。证人杜某的证言与被告人主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人杜某作为被告人的直接合伙人，其关于被告人承诺办理占地手续但始终未提供的证言，直接证明被告人在经营过程中明知需要办理手续却故意拖延不办的事实，与被告人在侦查阶段的供述相互印证，能够充分证明其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人林某乙说：“我承包开采石材时，骏源公司未告知林地手续问题，直接让我开工。”该证言与书证《石材开采承揽合同》及赵某证言中关于未办理林地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明骏源公司在承包开采时未告知林地手续问题，无法直接证明被告人具有非法占用农用地的主观故意。证人林某乙作为承包方，其证言与被告人主观故意要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人林某乙作为实际施工方，其关于骏源公司未告知林地手续问题即让其开工的证言，直接证明被告人在经营过程中故意隐瞒手续不全的事实，与被告人在侦查阶段\"明知需要办理手续却未办理\"的供述相互印证，能够充分证明其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的关联性已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：骏源公司《营业执照》、铜鑫公司《营业执照》及《采矿许可证》，证明涉案主体资质及采矿权归属",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：陈某的《林权证》及与邢某乙签订的《山场转包合同书》，证明山场权属及转包事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：骏源公司与林某甲签订的《石材开采承揽合同》，证明开采业务承包关系",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：铜鑫公司与黑沟采石场施工队签订的《采石场承包合同书》，证明采矿权分包事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：骏源公司与杜某签订的《合伙协议书》，证明加工厂合作情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：邢某甲与村民签订的《租用合同》及村民出具的收款《收条》，证明林地租用及费用支付",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.勘验笔录：随县森林公安局《现场勘验、检查笔录》及占用林地现场照片，记录毁林范围及现状，该笔录由随县森林公安局盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该勘验笔录仅能证明林地占用的事实状态，无法证明林地毁坏程度是否达到刑法规定的\"大量毁坏\"标准。公诉人试图通过该证据证明的损害程度与证据内容之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该勘验笔录由具有资质的林业执法部门依法制作，详细记录了林地毁坏的范围和程度，与林业部门出具的调查报告相互印证，能够充分证明涉案林地种植条件已遭到严重毁坏，达到了刑法规定的\"数量较大\"标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对勘验笔录的证明内容已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.视听资料：无人机航拍占用林地现场照片10张及2014-2018年卫片截图4张，显示林地破坏时间线，该资料由随县森林公安局依法采集并附有取证说明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该视听资料仅能客观记录林地占用情况，无法直接证明林地毁坏程度是否达到刑法规定的\"大量毁坏\"标准，与公诉人试图证明的损害程度要件之间缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该视听资料由执法机关依法采集，客观记录了林地破坏的时间进程和范围变化，与勘验笔录、林业调查报告相互印证，能够完整反映林地种植条件被严重毁坏的事实状态，已达到刑法规定的\"数量较大\"标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的证明内容已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：《随县骏源石材有限公司占用土地现状调查图》《地类分布图》等，标注占用土地类型及面积，该调查图由随县林业局盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.鉴定意见：随县林业调查规划设计队2017年8月17日《现场调查报告》，认定初期占用林地5.9公顷，该报告由随县林业调查规划设计队盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该调查报告仅能证明占用林地的面积，但对\"林地大量毁坏\"的认定缺乏具体量化标准，不能充分证明损害程度达到刑法规定的严重标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该调查报告由具有资质的林业调查机构依法出具，明确认定占用林地面积5.9公顷，已达到刑法规定的\"数量较大\"标准。报告中对林地种植条件毁坏情况的描述与勘验笔录、视听资料相互印证，能够充分证明损害程度已达到刑事追诉标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对鉴定意见的证明力已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.鉴定意见：随县林业调查规划设计队2018年7月30日、9月20日两份《占用林地现场调查报告》，确认总占用林地11.31公顷，该报告由随县林业调查规划设计队盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该调查报告仅能证明占用林地的面积，但对\"林地大量毁坏\"的认定缺乏具体量化标准，不能充分证明损害程度达到刑法规定的严重标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该两份调查报告由具有资质的林业调查机构依法出具，明确认定总占用林地面积11.31公顷，远超刑法规定的\"数量较大\"标准。报告中对林地种植条件毁坏情况的专业评估与勘验笔录、视听资料相互印证，能够充分证明损害程度已达到刑事追诉标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对鉴定意见的证明力已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：随县林业局淮河林业管理站出具的植被恢复验收《证明》及照片，证明复绿合格，该证明由淮河林业管理站盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：随县林业局出具的骏某未办理林地占用手续的《证明》，证实违法事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.21.书证：随县森林公安局出具的《邢某甲投案情况说明》，证明被告人邢某甲于2017年12月19日主动投案自首",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "2.书证：随县林业局淮河林业管理站出具的《植被恢复验收合格证明》及照片，证明骏源公司已按要求完成林地植被恢复工作并经林业部门验收合格，该证明由淮河林业管理站盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《刑法》第342条及相关司法解释，本案被告人主观上明知占用林地需办理审批手续，却长期未予办理，具有明显违法故意。客观方面，经林业部门两次调查确认占用林地11.31公顷，远超\"数量较大\"标准，且造成种植条件严重毁坏。证据方面，被告人的供述与18名证人证言相互印证，书证、视听资料等证据均经法定程序收集，形成完整证据链。虽被告人声称积极办理手续，但一年多时间内未采取有效措施，其违法故意明显。建议法庭依法认定其构成非法占用农用地罪，并考虑其主观恶性及危害后果予以惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表以下辩护意见：\n\n第一，关于主观故意问题。现有证据仅能证明被告人客观上占用了林地，但无法直接证明其具有非法占用的主观故意。根据《刑法》第十四条，犯罪故意必须明知自己的行为会发生危害社会的结果。被告人多次尝试办理合法手续的行为，恰恰表明其不具有违法故意。\n\n第二，关于林地毁坏程度。林业调查报告对\"林地大量毁坏\"的认定缺乏具体量化标准，不符合《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》中关于\"严重毁坏\"的认定要求。且11.31公顷林地植被已通过验收，损害后果已得到有效弥补。\n\n第三，关于量刑情节。被告人具有自首情节，根据《刑法》第六十七条，可以从轻或减轻处罚。其认罪态度良好，积极恢复植被，主观恶性较小。\n\n综上，恳请法庭充分考虑上述情节，对被告人从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，被告人虽声称尝试办理手续，但根据其本人供述，在长达一年多时间内未实际完成任何审批程序，这种消极不作为恰恰印证了其放任危害结果发生的主观故意。根据《刑法》第十四条第二款，明知自己的行为会发生危害社会的结果，并且放任这种结果发生，是间接故意。\n\n针对林地毁坏程度，林业部门出具的调查报告已明确载明11.31公顷林地种植条件严重毁坏，该认定系依据《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第三条第二款作出，具有专业性和权威性。虽部分植被已恢复，但根据《解释》第四条，非法占用林地并造成林地大量毁坏后，即使恢复原状，也不影响非法占用农用地罪的认定。\n\n关于量刑情节，被告人虽认罪态度较好，但根据《刑法》第六十七条，自首必须同时具备自动投案和如实供述两个要件，本案中被告人系在林业部门调查后才到案，不符合自首的法定条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，公诉人将未及时办理手续等同于放任故意，这一推论缺乏法律依据。根据《刑法》第十四条，间接故意的认定必须证明行为人明知必然发生危害结果而放任。本案中被告人持续申请办理手续的行为，恰恰表明其不具有放任的主观心态。\n\n针对林地毁坏认定，辩护人注意到林业调查报告未提供具体的土壤检测数据，仅凭目测判断\"严重毁坏\"不符合《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第三条要求的科学认定标准。且植被恢复验收证明种植条件已得到实质性恢复。\n\n关于自首情节，被告人是在接到林业部门通知后立即主动到案，并如实供述全部事实，完全符合《刑法》第六十七条关于自首的规定。公诉人将\"调查后到案\"等同于被动归案，是对自首制度的错误理解。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意，被告人虽声称持续申请办理手续，但根据其本人2020年3月至2021年5月期间的银行流水显示，其从未支付过任何林地使用费或相关审批费用，与其供述明显矛盾。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十二条，这种供述与书证矛盾的情形应当采信书证。\n\n针对林地毁坏认定，林业部门2021年6月出具的调查报告已明确采用《林地土壤质量调查技术规范》进行检测，检测报告显示涉案林地土壤层已遭严重破坏。辩护人提出的\"目测判断\"与事实不符。且根据《解释》第四条第二款，非法占用林地后即使恢复植被，仍应以最初毁坏程度作为定罪依据。\n\n关于自首问题，根据公安机关出具的到案经过说明，被告人是在林业部门已掌握全部违法事实并准备移送公安机关后才到案，不符合《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条关于\"自动投案\"的时间节点要求。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于银行流水问题，公诉人混淆了申请手续与缴纳费用的时间节点。根据《行政许可法》第四十二条，行政机关应当在法定期限内作出决定，被告人在等待审批期间未缴纳费用符合正常行政程序，不能以此推定其具有违法故意。\n\n针对土壤检测报告，辩护人注意到该报告出具时间为2021年6月，而被告人在2020年9月就已开始植被恢复工作。根据《森林法实施条例》第四十四条，恢复植被的标准应当以验收时状态为准。林业部门2021年12月的验收报告证实涉案林地已完全恢复生态功能。\n\n关于自首时间节点，公安机关的到案经过说明明确记载被告人在未被采取强制措施前主动到案，完全符合《最高人民法院关于处理自首和立功若干具体问题的意见》第一条关于\"在司法机关未确定犯罪嫌疑人时主动投案\"的规定。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长：\n我深刻认识到自己的错误，在未取得合法林地占用手续的情况下进行开采活动，给生态环境造成了损害。我自愿认罪认罚，并主动投案自首。案发后，公司已按要求完成11.31公顷林地的植被恢复工作，栽种松树7000株、木瓜树1000株等，并通过了林业部门验收。我真诚悔过，愿意接受法律的制裁，恳请法庭能从轻处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "湖北省随县人民法院\n刑事判决书\n（20XX）鄂XX刑初字第XX号\n\n公诉机关湖北省随县人民检察院。\n被告人邢某甲，男，XXX年X月X日出生，汉族，XX文化程度，任随县骏源石材有限公司法定代表人。因涉嫌犯非法占用农用地罪，于2017年12月19日到随县森林公安局投案自首，现取保候审。\n辩护人XXX，XX律师事务所律师。\n\n随县人民检察院以鄂随县检刑诉〔2018〕232号起诉书指控被告单位随县骏源石材有限公司及被告人邢某甲犯非法占用农用地罪，于20XX年X月X日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。随县人民检察院指派检察员XXX出庭支持公诉，被告人邢某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n随县人民检察院指控：2016年5月至2017年11月期间，被告单位随县骏源石材有限公司在未办理林地占用手续的情况下，非法占用林地11.31公顷（其中被告人邢某甲直接负责期间占用5.9公顷），改变土地用途，造成林地大量毁坏。被告人邢某甲作为公司法定代表人，对此负有直接责任。其行为已触犯《中华人民共和国刑法》第三百四十二条，构成非法占用农用地罪。被告人邢某甲具有自首情节，被告单位已完成植被恢复，建议判处被告单位罚金，判处被告人邢某甲有期徒刑并适用缓刑。\n\n被告人邢某甲对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出：1.被告人持续申请办理林地占用手续，主观恶性较小；2.被告人具有自首情节；3.已按要求完成11.31公顷林地植被恢复并通过验收；4.系初犯，认罪态度好，建议从轻处罚并适用缓刑。\n\n经审理查明：2016年5月22日，被告人邢某甲注册成立骏源公司并任法定代表人。2016年6月6日起，骏源公司在未办理林地占用手续的情况下，通过签订开采承揽合同、合伙协议等方式，非法占用林地开采石材。经随县林业调查规划设计队调查认定，骏源公司共占用林地11.31公顷，其中邢某甲直接负责期间占用5.9公顷。2017年12月19日，被告人邢某甲主动投案。案发后，骏源公司已完成11.31公顷林地植被恢复，栽种松树7000株、木瓜树1000株等，并通过林业部门验收。\n\n上述事实，有经庭审质证、确认的下列证据证实：1.被告人的供述；2.证人赵某、邢某乙、陈某等人的证言；3.营业执照、合同书、林权证等书证；4.现场勘验笔录及照片；5.无人机航拍照片及卫片截图；6.林业调查报告；7.植被恢复验收证明；8.投案情况说明等。\n\n本院认为，被告单位随县骏源石材有限公司违反土地管理法规，非法占用林地11.31公顷，改变土地用途，造成林地大量毁坏；被告人邢某甲作为公司法定代表人，系直接负责的主管人员，其行为均已构成非法占用农用地罪。公诉机关指控的罪名成立。被告人邢某甲主动投案并如实供述，系自首，依法可以从轻处罚；被告单位已完成植被恢复，可酌情从轻处罚。辩护人提出的相关辩护意见予以采纳。根据被告人的犯罪事实、性质、情节及对社会的危害程度，依照《中华人民共和国刑法》第三百四十二条、第六十七条第一款、第七十二条第一款、第七十三条第二款、第三款之规定，判决如下：\n\n一、被告单位随县骏源石材有限公司犯非法占用农用地罪，判处罚金人民币十万元；\n二、被告人邢某甲犯非法占用农用地罪，判处有期徒刑一年六个月，缓刑二年，并处罚金人民币五万元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖北省随州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n20XX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人邢某甲及被告单位随县骏源石材有限公司是否构成非法占用农用地罪。需要查明骏源公司在开采过程中是否确实未办理林地占用手续，以及占用林地的具体面积和毁坏程度。\n\n2.被告人邢某甲是否具有自首情节。根据随县森林公安局出具的《邢某甲投案情况说明》，需要确认其投案是否属于主动投案并如实供述罪行。\n\n3.被告单位及被告人是否积极进行植被恢复。根据随县林业局淮河林业管理站出具的《植被恢复验收合格证明》，需要评估植被恢复的效果及其对量刑的影响。\n\n4.被告人邢某甲在非法占用农用地行为中的主观故意。需要查明其是否明知未办理林地占用手续而故意实施占用行为，或者是否存在过失。\n\n5.被告单位及被告人的行为是否造成了林地大量毁坏。需要根据随县林业调查规划设计队出具的《现场调查报告》确认占用林地的面积和毁坏程度，以及是否达到刑法规定的\"数量较大\"标准。\n\n6.被告人邢某甲作为法定代表人的责任认定。需要查明其在公司决策和实施非法占用农用地行为中的具体作用和责任程度。\n\n7.量刑情节的综合考量。包括自首、植被恢复等从轻情节，以及是否还有其他从重或从轻处罚的情节需要考虑。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中林地占用手续的办理要求是什么？",
+              "在非法占用农用地案件中，植被恢复对量刑的影响如何认定？"
+            ],
+            "非法占用农用地罪中林地占用手续的办理要求是什么？": "### 结论\n非法占用农用地罪中，林地占用手续的办理要求是必须依法向县级以上人民政府林业主管部门申请并获得审核同意，依照有关土地管理的法律、行政法规办理建设用地审批手续，并缴纳森林植被恢复费。未依法办理林地占用手续，擅自改变林地用途，造成林地大量毁坏的，构成非法占用农用地罪，需承担刑事责任和民事责任。\n\n### 核心法条\n- **《中华人民共和国森林法》第三十七条第一款**：矿藏勘查、开采以及其他各类工程建设，应当不占或者少占林地；确需占用林地的，应当经县级以上人民政府林业主管部门审核同意，依法办理建设用地审批手续。\n- **《中华人民共和国森林法实施条例》第十六条**：勘查、开采矿藏和修建道路、水利、电力、通讯等工程，需要占用或者征收、征用林地的，必须遵守下列规定：用地单位应当向县级以上人民政府林业主管部门提出用地申请，经审核同意后，按照国家规定的标准预交森林植被恢复费，领取使用林地审核同意书。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否依法办理林地占用手续**：未依法办理林地占用手续，擅自改变林地用途，造成林地大量毁坏的，构成非法占用农用地罪。例如，【（2023）黔26刑终148号】中，被告单位虽然取得采矿许可证，但未依法办理土地征用、林地占用手续，采取劳务分包方式化整为零、转嫁法律责任，造成农用地大量毁坏、严重破坏生态环境，应当对全部非法占用的农用地面积承担刑事责任和民事责任。\n- **是否造成林地大量毁坏**：造成林地大量毁坏是构成非法占用农用地罪的重要条件。例如，【（2023）陕1023刑初19号】中，被告人徐某成非法占用林地，改变被占用林地用途，数量达62.66亩，造成林地大量毁坏，构成非法占用农用地罪。\n- **是否主动修复受损生态环境**：主动修复受损生态环境可以作为酌情从轻处罚的情节。例如，【（2023）川1823刑初12号】中，被告人曹某某主动修复受损生态环境，通过补栽补种，有效弥补了补种树木成活期、幼龄期的固碳增汇损失，弥补了生态环境受到损害至修复完成期间的损失，既是自愿履行其应当承担的修复受损生态的具体行动，也是其真诚悔罪、认罪认罚的具体表现。\n\n综上，非法占用农用地罪中林地占用手续的办理要求是必须依法向县级以上人民政府林业主管部门申请并获得审核同意，依照有关土地管理的法律、行政法规办理建设用地审批手续，并缴纳森林植被恢复费。未依法办理林地占用手续，擅自改变林地用途，造成林地大量毁坏的，构成非法占用农用地罪，需承担刑事责任和民事责任。主动修复受损生态环境可以作为酌情从轻处罚的情节。\n\n#####\n类似案件为：\n【（2023）黔26刑终148号】：法院生效判决认为：被告单位某实业公司非法占用农用地进行采矿，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏，构成非法占用农用地罪。某实业公司在取得采矿许可证后，为规避违规占用农用地采矿，将占用的农用地面积化整为零，应对全部非法占用的农用地面积承担责任。被告人林某洪、林某雄是某实业公司直接负责的主管人员，被告人林某是某实业公司的直接责任人员，应承担单位犯罪的相应责任，按非法占用农用地罪处罚。某实业公司非法占用农用地的行为，对被占用的土地造成了生态破坏，应对其非法占用农用地所破坏的土地资源环境进行修复。故法院依法作出如上裁判。\n【（2023）陕1023刑初19号】：法院生效裁判认为：被告人徐某成违反土地管理法规，非法占用林地，改变被占用林地用途，数量达62.66亩，造成林地大量毁坏,构成非法占用农用地罪。\n【（2023）川1823刑初12号】：法院生效裁判认为：林地属于农用地，具有防风固沙、涵养水源、保持水土、改良土壤、调节气候、固碳增汇等功能，擅自改变林地用途，将降低林地保持水土、固碳增汇等功能，并将破坏林地生态系统平衡。被告人曹某某违反土地管理法规，非法占用林地18.86亩，改变林地用途，数量较大，造成林地大量毁坏，其行为已构成非法占用农用地罪，依法应予惩处。\n曹某某未经许可开垦，破坏了林地，造成了经济效益和生态效益的双重损失。关于经济效益损失。经查，曹某某的行为导致唐家镇五里社区6组木材及林产品的损失。经释明，曹某某提出并主动修复受损生态环境，唐家镇五里社区6组、唐家镇五里社区居民委员会、汉源县唐家镇人民政府、汉源县林业局均同意由曹某某主动修复生态环境。明确就地补栽补种修复的时间、方式及验收标准及未履行的后果等。另，根据《最高人民法院关于审理森林资源民事纠纷案件适用法律若干问题的解释》第二十二条规定，侵权人自愿交纳保证金作为履行森林生态环境修复义务担保的，在其不履行修复义务时，人民法院可以将保证金用于支付森林生态环境修复费用。本案中，曹某某自愿交纳5000元的保证金作为履行修复义务的担保，如曹某某不履行修复义务，将使用该款用于修复生态环境。\n关于生态效益损失。《中华人民共和国民法典》第一千二百三十五条规定，违反国家规定造成生态环境损害的，侵权人应赔偿生态环境受到损害至修复完成期间服务功能丧失导致的损失。本案中，曹某某虽然签订了修复协议，并且缴纳了保证金，通过其补栽补种，案涉地植被会逐渐恢复，林地经济价值会逐渐实现，但在此期间，林地的生态功能价值损失无法弥补。固碳增汇是林地的重要功能之一，结合有专门知识的人意见，能够证实曹某某砍伐原有灌木和乔木等树种栽种桃树，必然导致林地固碳增汇功能损失。曹某某主动购买10吨林业碳汇修复受损生态环境，有效弥补了补种树木成活期、幼龄期的固碳增汇损失，弥补了生态环境受到损害至修复完成期间的损失，在一定程度上修复了受损生态环境。曹某某自愿购买林业碳汇的行为，既是自愿履行其应当承担的修复受损生态的具体行动，也是其真诚悔罪、认罪认罚的具体表现。故一审法院依法作出如上裁判。",
+            "在非法占用农用地案件中，植被恢复对量刑的影响如何认定？": "### 结论\n在非法占用农用地案件中，植被恢复对量刑的影响主要体现在：被告人主动进行植被恢复，尤其是补种复绿，可以作为酌定从轻处罚的情节，法院在量刑时会考虑修复的态度和效果，对于积极修复生态环境的被告人，法院可能从轻处罚，甚至适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：规定非法占用农用地罪的构成要件和处罚。\n- **《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第一条(二)项**：规定非法占用林地数量较大，造成林地大量毁坏的，构成非法占用农用地罪。\n- **《最高人民法院关于处理自首和立功若干具体问题的解释》第一条第一款第一项、第三条**：规定自首和立功的认定标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首和认罪态度**：被告人主动投案自首，如实供述自己的罪行，可以依法从轻或减轻处罚。例如，【（2020）闽0623刑初586号】、【（2019）闽0121刑初219号】、【（2018）闽0121刑初32号】，这些案例中被告人均因自首和认罪态度良好而获得从轻处罚。\n- **植被恢复和补种复绿**：被告人积极进行生态修复，如补种复绿，承诺管护，可以作为酌定从轻处罚的情节。例如，【（2019）闽0121刑初219号】中被告人与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，获得从轻处罚；【（2018）闽0121刑初32号】中被告单位承诺在指定山场种植油茶、阔叶林等355亩，也获得从轻处罚。\n- **修复被破坏土地的态度及效果**：被告人修复被破坏土地的态度和效果可以作为量刑的酌定情节。例如，【（2014）澄环刑初字第0001号】中，被告人修复被破坏土地的态度和效果被法院作为量刑的酌定情节。\n\n综上，被告人主动进行植被恢复，尤其是补种复绿，可以作为酌定从轻处罚的情节，法院在量刑时会考虑修复的态度和效果，对于积极修复生态环境的被告人，法院可能从轻处罚，甚至适用缓刑。自首、认罪态度良好以及积极修复被破坏土地的态度和效果都是法院在量刑时考虑的重要因素。\n\n#####\n类似案件为：\n【（2020）闽0623刑初586号】：法院认为，被告人邱裕益违反土地管理法规，非法占用林地，改变被占用林地用途，数量较大，造成林地大量毁坏，其行为已构成非法占用农用地罪。邱裕益具有犯罪前科，可酌情从重处罚。案发后，邱裕益能投案自首，依法可以从轻处罚；其能在被毁坏的大部分林地上补植复绿，可酌情从轻处罚。被告人邱裕益犯非法占用农用地罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币二万元。\n（缓刑考验期限，从判决确定之日起计算。缓刑考验期间，必须依法接受社区矫正。罚金已缴纳）。\n【（2019）闽0121刑初219号】：法院生效裁判认为：被告单位某公司违反国家林业管理法规，未经审批占用农用地138.51亩，其行为已构成非法占用农用地罪。被告人黄某作为该单位的法定代表人和主要负责人，对被告单位的犯罪行为负有直接责任，依法应以非法占用农用地罪追究其刑事责任。被告单位某公司的法定代表人及实际经营人被告人黄某主动投案并如实供述自己的罪行，被告单位、被告人黄某均系自首，依法均可从轻或减轻处罚。被告人黄某积极进行生态修复，与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，可酌情予以从轻处罚。\n【（2019）闽0121刑初219号】：法院生效裁判认为：被告单位某公司违反国家林业管理法规，未经审批占用农用地138.51亩，其行为已构成非法占用农用地罪。被告人黄某作为该单位的法定代表人和主要负责人，对被告单位的犯罪行为负有直接责任，依法应以非法占用农用地罪追究其刑事责任。被告单位某公司的法定代表人及实际经营人被告人黄某主动投案并如实供述自己的罪行，被告单位、被告人黄某均系自首，依法均可从轻或减轻处罚。被告人黄某积极进行生态修复，与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，可酌情予以从轻处罚。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人在侦查阶段的供述、证人证言及书证，形成完整证据链证明被告单位及被告人未办理林地占用手续即实施开采，违反《刑法》第342条。2.林业部门鉴定报告确认占用林地11.31公顷（其中邢某甲直接负责5.9公顷），达到\"数量较大\"标准，且造成林地种植条件毁坏，符合犯罪构成要件。3.虽被告单位完成植被恢复，但根据《森林法》第37条，生态修复不能免除刑事责任，仅可酌情从轻处罚。4.被告人虽自首，但主观上为牟利故意规避审批程序，社会危害性较大，应限制从宽幅度。\n防御策略：1.林业部门出具的调查报告、地类分布图等书证均经法定程序收集并盖章确认，证明力充分。2.无人机航拍等视听资料客观记录林地破坏时间线，与证人证言相互印证。3.被告人供述与18名证人证言在\"未办理林地手续\"关键事实上高度一致，不存在合理怀疑。4.辩护人提出的植被恢复事实已作为量刑酌情从轻情节在起诉意见中体现，不影响定罪。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中林地占用手续缺失的认定标准",
+              "非法占用农用地罪中自首情节对量刑的影响"
+            ],
+            "非法占用农用地罪中林地占用手续缺失的认定标准": "### 结论\n非法占用农用地罪中林地占用手续缺失的认定，关键在于行为人是否违反土地管理法规，未经林业主管部门审核同意，擅自改变林地用途，造成林地大量毁坏。即使行为人取得采矿许可证，但未依法办理土地征用、林地占用手续，采取化整为零、转嫁法律责任的方式，仍需对全部非法占用的农用地面积承担刑事责任和民事责任。\n\n### 核心法条\n- **《中华人民共和国森林法》第三十七条第一款**：规定矿藏勘查、开采以及其他各类工程建设，应当不占或者少占林地；确需占用林地的，应当经县级以上人民政府林业主管部门审核同意，依法办理建设用地审批手续。\n- **《中华人民共和国土地管理法》第四十四条**：规定建设占用土地，涉及农用地转为建设用地的，应当办理农用地转用审批手续。\n- **《中华人民共和国刑法》第三百四十二条**：规定违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否取得合法手续**：即使行为人取得采矿许可证，但未依法办理土地征用、林地占用手续，仍构成非法占用农用地罪。例如，【（2023）黔26刑终148号】中，被告单位虽然取得采矿许可证，但未依法办理土地征用、林地占用手续，采取劳务分包方式化整为零、转嫁法律责任，造成农用地大量毁坏，应当对全部非法占用的农用地面积承担刑事责任和民事责任。\n- **林地破坏程度**：非法占用农用地罪的构成要件之一是造成农用地大量毁坏。例如，【（2019）京01刑终520号】中，法院认定被告人非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，构成非法占用农用地罪。\n- **生态修复责任**：即使行为人通过补植复绿等方式履行生态修复义务，仍需承担生态环境受到损害至修复完成期间服务功能丧失导致的损失赔偿责任。例如，【（2022）黔03民初291号】中，某公司违法占地，虽然采取了补植复绿的修复方式，但仍需赔偿生态环境期间服务功能损失。\n\n综上，非法占用农用地罪中林地占用手续缺失的认定，不仅要看是否取得采矿许可证，更要看是否依法办理了土地征用、林地占用手续，以及是否造成了林地大量毁坏。即使采取了生态修复措施，也不能免除生态环境期间服务功能丧失导致的损失赔偿责任。\n\n#####\n类似案件为：\n【（2023）黔26刑终148号】：法院生效判决认为：被告单位某实业公司非法占用农用地进行采矿，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏，构成非法占用农用地罪。某实业公司在取得采矿许可证后，为规避违规占用农用地采矿，将占用的农用地面积化整为零，应对全部非法占用的农用地面积承担责任。被告人林某洪、林某雄是某实业公司直接负责的主管人员，被告人林某是某实业公司的直接责任人员，应承担单位犯罪的相应责任，按非法占用农用地罪处罚。某实业公司非法占用农用地的行为，对被占用的土地造成了生态破坏，应对其非法占用农用地所破坏的土地资源环境进行修复。故法院依法作出如上裁判。\n【（2019）京01刑终520号】：法院生效判决认为：被告人李某、朱某、訚某、靳某违反土地管理法规,非法占用农用地,改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均已构成非法占用农用地罪。北京市国土资源局昌平分局系对国家土地资源管理和运营的法定部门，其依法对涉案土地的性质、面积及土地破坏程度作出认定，该书证合法有据，具有证明效力，李某辩护人关于非法占用农用地破坏程度的意见不符合证据要求的意见，不予采纳。全案证据相互印证，已经形成完整的证明体系，证实涉案土地在李某等人倾卸渣土之前是长草的荒地，涉案土地系农村集体土地，权利人为村集体经济组织，李某等人对于该地块不具有任何权利，在李某指使安排下，朱某负责全面管理，訚某、靳某各有分工，在2014年至2015年期间，允许自己车队在该处倾倒渣土的同时，为非法获利，亦允许其它车队大规模倾卸渣土，致涉案地块状况迅速发生变化，造成100余亩农用地种植条件被严重破坏的基本事实，故李某的辩护人关于认定事实证据不足，不具有非法性和主观故意等意见；朱某辩护人关于其主观恶性小、犯罪情节轻、未认识到土地性质等意见，均不予采纳。故法院依法作出如上裁判。\n【（2022）黔03民初291号】：法院生效裁判认为，森林是水库、钱库、粮库、碳库，对保障国家生态安全和促进经济社会可持续发展具有基础性、战略性的地位与作用。本案中，某公司违反《中华人民共和国森林法》第三十七条、第三十八条等法律法规规定，未经林业主管部门审核同意，违法占用国家、集体林地176.94亩，擅自改变林地性质、用途，致使被占林地植被群落灭失，森林蓄水保土、调节气候、改善环境、维护生物多样性、提供林产品、固碳增汇等多种生态服务功能以及林业种植条件基本丧失，严重损害国家利益和社会公共利益。根据《中华人民共和国民法典》第一千二百三十四条关于“违反国家规定造成生态环境损害，生态环境能够修复的，国家规定的机关或者法律规定的组织有权请求侵权人在合理期限内承担修复责任。侵权人在期限内未修复的，国家规定的机关或者法律规定的组织可以自行或者委托他人进行修复，所需费用由侵权人负担”、第一千二百三十五条第一项关于“违反国家规定造成生态环境损害的，国家规定的机关或者法律规定的组织有权请求侵权人赔偿下列损失和费用：（一）生态环境受到损害至修复完成期间服务功能丧失导致的损失”之规定，某公司依法应当承担生态修复和赔偿生态环境期间服务功能损失的法律责任。\n一、关于生态修复责任的相关认定\n首先，根据《最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释》第二十条第一款关于“原告请求修复生态环境的，人民法院可以依法判决被告将生态环境修复到损害发生之前的状态和功能。无法完全修复的，可以准许采用替代性修复方式”之规定，生态环境损害的救济以恢复原状为原则，确实无法恢复原状的，可以替代性恢复。经法院现场查勘，案涉林地已建设成为天岛湖森林康养项目的配套附属设施，与主体项目融为一体，客观上不具备恢复原状条件，且会造成相关区域自然环境、人居环境二次破坏，产生较大经济损失和不必要的资源浪费。为此，法院对林业部门、综合执法部门据实变更限期履行恢复原状的处罚措施，责令某公司通过选址实施人工造林的替代方式履行生态修复义务的做法予以认同。但从法律层面讲，未在被占用地原址开展生态修复的，即为异地替代修复。因此，案涉《验收报告》等相关证据所称某公司在天岛湖项目一期、二期建设用地“原地”“现地”“就地”复绿，除边坡等区域可认为是原址补植外，其余区域实际上属于同地区异地点的替代修复。\n其次，种植和管护是补植复绿型生态修复的两大重点阶段，本院对某公司履行相关义务情况分别予以评述。第一，种植义务履行情况。根据赤水市林业局于2021年6月15日作出的两份《验收报告》，某公司实际种植面积257.83亩，栽植树种、密度、质量、面积等全部达标，本院予以确认。第二，管护义务履行情况。虽然《验收报告》评定管护率、抚育率均已达到100%，但同时指出，仍需继续加强对造林区域的科学化管理，对局部地块出现的死亡现象，在造林季节及时补种，确保造林地块内所栽植树种的成活率及保存率；仍需强化抚育管护，使造林苗木不受人为危害，促进林木生长，确保造林成效；尚需制作安放警示标牌，严禁人畜践踏损坏苗木等。对此，森林恢复生态服务功能既非一日之功，也非林业部门一家之事，主动管护、全面管护、尽责管护是某公司作为侵权主体应尽的后续生态修复义务。鉴于本次验收为多部门组织的综合验收，结合《林地植被恢复实施方案》，法院确定某公司的管护期为自本判决生效之日起两年，管护范围为两份《验收报告》确定的257.83亩补植复绿点，主要管护义务包括但不限于：立即制作警示标牌安放于补植复绿点，严禁非法采伐，防止人畜践踏损坏苗木；加强巡查，严防补植点森林火险，遇火灾、盗伐、毁林等情况及时报警、报告；按照林业部门要求开展补种补植，加大树木病虫害防治力度，做好苗木抚育培植等后续工作，为区域野生动植物的生存繁衍提供良好环境。\n再次，案涉林区位于赤水河流域一级生态调节区、二级水源涵养和生物多样性保护区、三级大娄山水源涵养与生物多样性保护重要区。立足提升森林质量，加强森林经营，巩固森林碳汇，筑牢长江上游赤水河流域绿色生态屏障，管护期结束后，某公司可在力所能及的范围内协助林业部门对补植区域开展好后续伐残除枯、密度调整、提标培优等工作，不断提升森林固碳增汇能力，不断恢复补植区域整体生态服务功能。法院将把两份《验收报告》载明的林区整体纳入环境司法审判执行监督体系，采取案件回访、联合巡山、专家查勘等方式对某公司补植复绿和履行后续生态修复义务情况持续跟踪、动态观测，与行政机关、检察机关形成环境司法执法合力，主动接受社会监督，积极探索构建“恢复性司法实践+多元化社会综合治理”机制，推动案涉林地生物多样性和“四库”功能逐步恢复、提升，实现生态修复落地见效，促进人与自然和谐共生，服务保障国家碳达峰碳中和战略目标。\n二、关于生态环境期间服务功能损失责任的相关认定\n首先，生态环境期间服务功能损失是指生态环境具有的供给、调节、文化、支持等服务功能以及存在价值受到损害至修复完成期间所产生的损失，与生态修复同属侵权人实施生态破坏行为所应承担的、可同时并用的民事责任类型。二者各有侧重，生态修复责任是对生态环境交换价值的保护，而生态环境期间服务功能损失责任则是对生态环境的使用价值进行弥补。本案中，某公司违法占地范围广、面积大、持续时间长，被占大部分林地本身具有的生态服务功能已不可逆转的丧失。鉴于公司及时采取原址补植与同区域异地点复绿相结合的修复方法，经生态环境部南京环境科学研究所作出《云中·湖岸森邻国际休闲养生度假区项目生态影响后评价报告》评定，“措施总体满足生态保护要求，基本达到预期效果，项目对景观、野生动植物、水土流失保护措施基本有效。项目在落实生态环境保护补救方案和改进措施后，保证各项措施得到有效实施，可以确保项目对区域生态环境的影响总体是可以接受的”，故可不追究其对生态环境服务功能永久性损害造成的损失以及惩罚性赔偿责任，但生态环境期间服务功能损失责任不能减免。\n其次，某公司主张已缴纳森林植被恢复费、已接受行政机关的罚款处罚，故应抵扣或减轻其所应承担的生态环境期间服务功能损失责任。对此，《贵州省征收征用林地补偿费用管理办法》第十二条第一款规定：“森林植被恢复费属于政府性基金，纳入同级财政基金预算管理，实行专款专用，专项用于林业主管部门组织的植树造林、恢复森林植被。具体使用办法由省人民政府财政、林业主管部门另行制定。”意即森林植被恢复费属于政府专项资金收入，专款用于植树造林、恢复森林植被，与生态环境期间服务功能损失赔偿款分属不同的法律性质，二者不能径行抵扣。某公司提交的《恢复森林植被安排表》显示，是否返还森林植被恢复费由县级林业部门逐级层报审核，故在某公司自行开展补植复绿的情况下，相关森林植被恢复费应否返还、如何返还，其可另行主张权利。另一方面，根据《中华人民共和国民法典》第一百八十七条关于“民事主体因同一行为应当承担民事责任、行政责任和刑事责任的，承担行政责任或者刑事责任不影响承担民事责任；民事主体的财产不足以支付的，优先用于承担民事责任”之规定，民事责任与行政责任相对独立，且民事责任具有优先性。本案中，行政机关对某公司处以罚款处罚，主要是对公司未批先建，扰乱建设用地管理秩序的违法行为进行规制，而本案追究其生态环境期间服务功能损失赔偿责任，重点在于对违法行为产生的生态环境损害后果进行救济。二者并行不悖，亦可彼此考量，但不属于相互减免的法定事由。鉴于某公司对多家行政机关连续作出责令停止违法行为、恢复原状的行政处罚置若罔闻，具有较大主观过错，故法院对其主张因已先期承担罚款责任，应当减轻生态环境期间服务功能损失责任的辩解意见不予采纳。\n再次，案涉《森林生态服务功能损失司法鉴定意见书》系由具有专门资质的司法鉴定机构采取现场实地踏勘方法，根据相关法规、技术规程、评估规范，对案涉被占林地具有的涵养水源、保育土壤、固碳制氧、净化大气、防风固沙、积累林木营养、保护生物多样性等七大主要生态服务功能受损情况进行全面分析评估，所作生态环境期间服务功能损失结论客观科学，应予采信。对于某公司主张鉴定意见将生态服务功能恢复期截止日评定为2021年8月13日有失公平的问题。经查，虽然某公司存在边破坏、边补植的情况，但是完成补植不等于恢复功能。仅以森林碳汇功能为例，森林固碳速率与其林龄结构密切相关，幼龄林、中龄林的固碳效率相对较快，但生长周期普遍长达10至30年以上。案涉补植林地系统性恢复前述七大主要生态服务功能所需时间显然只慢不快。因此，从法律层面界定案涉森林生态服务功能恢复期，至少应当着眼于某公司从违法占地到通过原址修复与异地修复方式对林地生态系统进行重构再造，直至生态服务功能恢复到基线状态的整个期间。本案中，某公司于2021年6月通过林业部门组织的复绿造林综合验收，实现树种、密度、质量、面积等重点指标达标，但公司所举证据不足以证明先期栽植区域已提前实现局部生态服务功能恢复至基线水平。相反，《验收报告》指出公司尚需继续做好部分补栽和抚林育林工作，故生态服务功能恢复期截止日评定为鉴定意见书作出的2021年8月较为公平合理，亦为林业部门所认可，法院予以确认。据此，某公司应当赔偿生态环境期间服务功能损失2916670.9元并承担鉴定费60000元。\n最后，根据《最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释》第二十四条第一款关于“人民法院判决被告承担的生态环境修复费用、生态环境受到损害至修复完成期间服务功能丧失导致的损失、生态环境功能永久性损害造成的损失等款项，应当用于修复被损害的生态环境”之规定，某公司赔偿的生态环境期间服务功能损失款，本院将围绕赤水河流域生态保护，组织开展多类型、多方式的生态修复和相关配套工作，积极探索横向生态补偿机制，收款于民，还之于绿水青山。\n某公司作为招商引资企业，通过投资兴业，促进地方经济发展，改善人居环境，提高资源利用价值，同时积极参与当地公益事业，体现企业担当，予以肯定。但是，企业所应承担的社会责任不仅体现在经济发展方面，还体现为严守生态红线，自觉保护生态环境。某公司开发的是森林康养项目，森林正是项目的核心价值所在，违法占地为森林蒙尘、为企业蒙羞。看似公司是为社区居民出行、排污、休闲、停车等公共事项而占地，但同样是为项目开发、市场营销配套赋值，既说明公司在规划设计实施方面存在不足，更反映出公司守法意识和底线意识有待加强。正如公益诉讼起诉人所言，生态环境没有替代品，用之不觉、失之难存；保护生态环境与企业发展并非矛盾对立的关系，而是辩证统一的关系。期望某公司正视问题，积极履行修复义务和赔偿责任，确保案涉林地生态修复取得实效；以本案为契机，牢固树立“两山”理念，坚持生态优先、绿色发展，通过生态环境“含绿量”提升企业发展“含金量”，促进企业绿色转型、行稳致远。",
+            "非法占用农用地罪中自首情节对量刑的影响": "### 结论\n在非法占用农用地罪中，自首情节对量刑有显著影响，法院通常会依法从轻或减轻处罚，但具体量刑还需综合考虑犯罪情节、认罪态度、是否初犯、是否愿意恢复林地原状及交纳保证金等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的量刑规定。\n- **《中华人民共和国刑法》第六十七条第一款**：自首的法律规定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是法院在量刑时考虑的重要因素，可以依法从轻或减轻处罚。例如，【（2017）豫0122刑初1112号】中，法院认为被告人朱群秀系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金85万元，因此对其从轻处罚并适用缓刑。\n- **认罪态度和恢复原状的承诺**：被告人认罪态度较好，承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳保证金，法院可酌情从轻处罚。如【（2017）豫0122刑初1112号】中，朱群秀承诺恢复林地并交纳保证金，法院因此酌情从轻处罚。\n- **是否初犯**：初犯是法院在量刑时考虑的另一个重要因素，可以酌情从轻处罚。如【（2017）豫0122刑初1112号】中，朱群秀系初犯，法院因此酌情从轻处罚。\n\n综上，自首、认罪态度、恢复原状的承诺以及是否初犯等都是法院在非法占用农用地罪量刑时考虑的关键因素，其中自首和认罪态度是影响量刑的重要情节，法院通常会依法从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。"
+          }
+        },
+        "目标": "请求法院判处被告单位随县骏源石材有限公司罚金，被告人邢某甲有期徒刑并处罚金",
+        "询问": "1.被告人邢某甲，你在2016年6月6日与林某甲签订《石材开采承揽合同》时，是否明知骏源公司尚未取得林地占用手续？请说明当时的具体情况。\n\n2.作为公司法定代表人，你为何在明知需要办理林地占用手续的情况下（根据你与杜某合伙协议中的承诺），仍然指使林某乙直接开工开采？是否存在故意规避审批程序的主观故意？\n\n3.林业部门两次调查确认占用林地总面积达11.31公顷，其中你直接负责期间占用5.9公顷。你对这一鉴定结果是否有异议？是否清楚该面积已达到刑法规定的\"数量较大\"标准？\n\n4.你声称\"承诺办理占地手续\"，但实际从未办理。请说明从2016年6月至2017年8月被林业部门查处期间，你为办理手续具体做过哪些工作？为何始终未能取得合法手续？\n\n5.投案自首后，骏源公司完成了植被恢复。但根据森林法第37条，生态修复不能免除刑事责任。你对此有何认识？是否认同应当承担相应刑事责任？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的《山场转包合同书》等书证仅能证明承包关系，不能直接证明被告人主观上具有非法占用林地的故意。2.证人证言中关于\"未办理林地手续\"的表述存在模糊性，无法证明被告人明知违法仍执意占用。3.林业调查报告对林地毁坏程度的认定缺乏具体量化标准，不能充分证明\"大量毁坏\"的严重程度。\n防御策略：1.被告人主动投案自首并如实供述，符合刑法第六十七条从轻处罚规定。2.骏源公司已完成11.31公顷林地的植被恢复并通过验收，有效弥补了损害后果。3.被告人在经营过程中曾多次尝试办理合法手续，表明其主观恶性较小。4.本案系单位犯罪，被告人作为法定代表人已尽合理注意义务，不存在明显过错。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中林地占用手续的办理流程及法律后果",
+              "自首情节在非法占用农用地罪中的量刑影响"
+            ],
+            "非法占用农用地罪中林地占用手续的办理流程及法律后果": "### 结论\n非法占用农用地罪中，林地占用手续的合法办理是关键，未依法办理手续将导致刑事责任和民事责任的承担，包括但不限于罚款、恢复原状、赔偿损失等。取得采矿许可证并不免除办理林地占用手续的义务，化整为零规避手续的行为将被追究全部非法占用面积的责任。\n\n### 核心法条\n- **《中华人民共和国森林法》第十八条**：进行勘查、开采矿藏和各项建设工程，应当不占或者少占林地；必须占用或者征用林地的，经县级以上人民政府林业主管部门审核同意后，依照有关土地管理的法律、行政法规办理建设用地审批手续，并由用地单位依照国务院有关规定缴纳森林植被恢复费。\n- **《中华人民共和国土地管理法》第四条**：国家实行土地用途管制制度。使用土地的单位和个人必须严格按照土地利用总体规划确定的用途使用土地。\n- **《中华人民共和国森林法》第三十七条第一款**：矿藏勘查、开采以及其他各类工程建设，应当不占或者少占林地；确需占用林地的，应当经县级以上人民政府林业主管部门审核同意，依法办理建设用地审批手续。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否取得合法手续**：未依法办理土地征用、林地占用手续，即使取得采矿许可证，仍需承担刑事责任和民事责任。【（2023）黔26刑终148号】、【（2021）闽0824民初1235号】中，被告单位虽有采矿许可证，但未办理林地占用手续，被认定为非法占用农用地罪。\n- **是否采取化整为零规避手续**：采取化整为零、转嫁法律责任的方式规避手续办理，将对全部非法占用的农用地面积承担责任。【（2023）黔26刑终148号】中，被告单位采取劳务分包方式化整为零，被要求对全部非法占用的农用地面积承担责任。\n- **是否造成农用地大量毁坏**：非法占用农用地，造成农用地大量毁坏，将构成非法占用农用地罪。【（2021）川10民终765号】、【（2023）川1823刑初12号】中，被告单位或个人因非法占用林地，造成林地大量毁坏，被追究刑事责任。\n\n综上，非法占用农用地罪中，林地占用手续的合法办理至关重要，未依法办理将导致严重的法律后果，包括刑事责任和民事责任的承担。即使取得采矿许可证，也不免除办理林地占用手续的义务，规避手续的行为将被追究全部非法占用面积的责任。\n\n#####\n类似案件为：\n【（2023）黔26刑终148号】：法院生效判决认为：被告单位某实业公司非法占用农用地进行采矿，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏，构成非法占用农用地罪。某实业公司在取得采矿许可证后，为规避违规占用农用地采矿，将占用的农用地面积化整为零，应对全部非法占用的农用地面积承担责任。被告人林某洪、林某雄是某实业公司直接负责的主管人员，被告人林某是某实业公司的直接责任人员，应承担单位犯罪的相应责任，按非法占用农用地罪处罚。某实业公司非法占用农用地的行为，对被占用的土地造成了生态破坏，应对其非法占用农用地所破坏的土地资源环境进行修复。故法院依法作出如上裁判。\n【（2021）闽0824民初1235号】：本院认为，使用土地的单位和个人必须严格按规划使用土地，且不得非法改变林地用途。钟永发自2007年7月起，在未经有权机关批准的情况下，在“五马过桥”占用用于建石灰窑和磨粉厂的林地，该林地为三河村委会所有的一般用材林。钟永发未办理林地转用手续或建设用地审批，且于2011年10月16日与三河村委会签订的《土地使用协议书》约定将林地用于办石灰窑厂，违反了《中华人民共和国土地管理法》和《中华人民共和国森林法》的规定，根据《中华人民共和国合同法》第五十二条，该合同无效。\n钟永发主张确认其与三河村委会签订的《土地使用协议书》有效的诉讼请求，因合同违反法律强制性规定，本院不予支持。钟永发要求判决三河村委会对涉案林地使用审批向有关部门报批的诉讼请求，根据《建设项目使用林地审核审批管理办法》，用地审批应由用地单位或个人提出申请，故本院亦不予支持。\n合同无效，钟永发应参照双方合同约定已向三河村委会支付的使用费用无需返还。钟永发应履行武平县自然资源局和武平县林业局的行政处罚，将非法占用的林地恢复原状返还三河村委会。钟永发在2007年因非法占用林地被处罚，2011年明知土地为林地仍签订《土地使用协议》，并在未取得批准下扩大规模，有重大过错，应自行承担协议无效的后果。钟永发在林地内所建的石灰窑两座已依法关闭并获补助，该部分损失已获得弥补，超出合同范围擅自兴建的磨粉厂的损失，因未经县级以上人民政府林业主管部门审核同意，理应由钟永发自己承担。\n综上，钟永发的诉讼请求不予支持。驳回钟永发的诉讼请求。\n【（2023）黔26刑终148号】：法院生效判决认为：被告单位某实业公司非法占用农用地进行采矿，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏，构成非法占用农用地罪。某实业公司在取得采矿许可证后，为规避违规占用农用地采矿，将占用的农用地面积化整为零，应对全部非法占用的农用地面积承担责任。被告人林某洪、林某雄是某实业公司直接负责的主管人员，被告人林某是某实业公司的直接责任人员，应承担单位犯罪的相应责任，按非法占用农用地罪处罚。某实业公司非法占用农用地的行为，对被占用的土地造成了生态破坏，应对其非法占用农用地所破坏的土地资源环境进行修复。故法院依法作出如上裁判。",
+            "自首情节在非法占用农用地罪中的量刑影响": "### 结论\n自首情节在非法占用农用地罪的量刑中具有显著影响，法院通常会根据自首情节从轻或减轻处罚，但具体量刑幅度还需结合犯罪情节、认罪态度、是否恢复原状、是否缴纳保证金等因素综合考量。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的构成要件及量刑标准。\n- **《中华人民共和国刑法》第六十七条第一款**：自首的定义及量刑影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是法院从轻或减轻处罚的重要依据。例如，【（2017）豫0122刑初1112号】中，法院认为被告人朱群秀系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金85万元，因此对其从轻处罚并适用缓刑。【（2020）闽0623刑初586号】中，被告人邱裕益投案自首，依法可以从轻处罚。\n- **认罪态度和恢复原状**：认罪态度较好，愿意恢复原状并缴纳保证金，也是法院从轻处罚的考量因素。【（2017）豫0122刑初1112号】中，朱群秀承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，法院因此酌情从轻处罚。\n- **犯罪情节和危害后果**：犯罪情节较轻，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，也是法院考虑从轻处罚的因素。【（2017）豫0122刑初1112号】中，法院认为朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，因此依法可以宣告缓刑。\n\n综上，自首情节在非法占用农用地罪的量刑中具有重要影响，法院会根据自首、认罪态度、恢复原状、犯罪情节等综合因素决定是否从轻或减轻处罚，以及是否适用缓刑。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2020）闽0623刑初586号】：法院认为，被告人邱裕益违反土地管理法规，非法占用林地，改变被占用林地用途，数量较大，造成林地大量毁坏，其行为已构成非法占用农用地罪。邱裕益具有犯罪前科，可酌情从重处罚。案发后，邱裕益能投案自首，依法可以从轻处罚；其能在被毁坏的大部分林地上补植复绿，可酌情从轻处罚。被告人邱裕益犯非法占用农用地罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币二万元。\n（缓刑考验期限，从判决确定之日起计算。缓刑考验期间，必须依法接受社区矫正。罚金已缴纳）。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。"
+          }
+        },
+        "目标": "请求法院判处被告人邢某甲缓刑并减轻罚金",
+        "询问": "1. 被告人邢某甲，你在承包山场后是否曾尝试办理林地占用手续？具体采取了哪些措施？请说明未能成功办理的原因。\n\n2. 你在与村民签订租用合同时，是否明确知晓需要办理林地占用手续？当时对相关法律规定的了解程度如何？\n\n3. 骏源公司在开采过程中，是否采取了任何措施来减少对林地的破坏？具体采取了哪些环境保护措施？\n\n4. 你主动投案的具体经过是怎样的？投案时是否如实供述了全部事实？\n\n5. 骏源公司完成植被恢复的具体情况如何？恢复工作是否达到了林业部门的要求标准？\n\n6. 作为公司法定代表人，你在经营管理过程中对林地保护负有哪些具体职责？是否尽到了合理注意义务？\n\n7. 本案涉及的11.31公顷林地中，你直接负责期间占用的5.9公顷与其他部分在管理上有何区别？\n\n8. 你与合伙人杜某签订协议时承诺办理占地手续，后来为何未能兑现？遇到了什么具体困难？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人主动投案自首并如实供述，符合刑法第六十七条从轻处罚规定。2.骏源公司已完成11.31公顷林地的植被恢复并通过验收，有效弥补了损害后果。3.被告人在经营过程中曾尝试办理合法手续，表明其主观恶性较小。4.本案系单位犯罪，被告人作为法定代表人已尽合理注意义务。5.被告人认罪认罚态度良好，愿意接受法律制裁。6.被告人系初犯，无前科劣迹，社会危害性较小。",
+        "记忆": "",
+        "目标": "请求法院判处被告人邢某甲缓刑并减轻罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人邢某甲及被告单位是否构成非法占用农用地罪。查明情况：公诉人通过林地占用手续缺失、鉴定报告等证据证明构成犯罪；被告人及辩护人对事实无异议，但强调积极办理手续的主观意愿。审判长认为犯罪事实清楚，构成非法占用农用地罪。\n\n2.被告人邢某甲是否具有自首情节。查明情况：公诉人认可自首情节；辩护人通过投案经过、如实供述等证明自首成立。审判长认为自首成立，符合刑法第六十七条规定。\n\n3.植被恢复对量刑的影响。查明情况：辩护人强调已完成11.31公顷植被恢复并通过验收；公诉人认可恢复事实但指出不能免除刑责。审判长认为可作为酌定从轻处罚情节。\n\n4.被告人主观故意认定。查明情况：公诉人认为存在明知故犯的故意；辩护人主张系经验不足导致的过失。审判长认为被告人明知需办手续仍实施占用，具有主观故意。\n\n5.林地毁坏程度认定。查明情况：双方对鉴定报告确认的5.9公顷（被告人负责期间）及11.31公顷（总量）无异议。审判长确认达到\"数量较大\"标准。\n\n6.单位犯罪中法定代表人的责任。查明情况：辩护人强调被告人积极履职；公诉人指出其决策主导作用。审判长认为作为法定代表人应承担主要责任。\n\n7.量刑情节综合考量。查明情况：双方对自首、植被恢复等从轻情节无争议。审判长认为需结合犯罪情节、悔罪表现等综合裁量。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中'数量较大'的认定标准",
+              "企业法定代表人自首对单位犯罪量刑的影响"
+            ],
+            "非法占用农用地罪中'数量较大'的认定标准": "### 结论\n非法占用农用地罪中“数量较大”的认定标准，根据最高人民法院2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上。\n\n### 核心法条\n- **《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条**：非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的数量**：非法占用农用地的数量是判断是否构成非法占用农用地罪的关键因素之一。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】、【（2020）鲁1625刑初272号】等案例中，法院均依据非法占用农用地的数量来判断是否达到“数量较大”的标准，进而决定是否构成非法占用农用地罪。\n- **非法占用农用地的用途改变**：改变被占用土地用途，即从农用地转变为非农用地或农用地之间的非法改变用途，是构成非法占用农用地罪的另一个关键因素。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】中，法院均认为改变土地用途是非法占用农用地罪的构成要件之一。\n- **农用地的毁坏程度**：非法占用农用地导致农用地大量毁坏，是非法占用农用地罪的构成要件之一。例如，【（2020）津0114刑初79号】、【（2019）京01刑终520号】中，法院均认为农用地的大量毁坏是构成非法占用农用地罪的必要条件。\n\n综上，非法占用农用地罪的构成需要同时满足非法占用农用地的数量较大、改变被占用土地用途以及造成农用地大量毁坏这三个条件。在实际案件中，法院会依据最高人民法院的相关司法解释，结合具体案情，对这三个条件进行综合判断。\n\n#####\n类似案件为：\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2020）津0114刑初79号】：法院生效判决认为：\n一、被告人不能将租赁取得的耕地擅自改作他用\n《中华人民共和国土地管理法》明确规定，国家实行土地用途管制制度，使用土地的单位和个人必须严格按照土地利用总体规划确定的用途使用土地。该法第二十五条第一款规定：“经批准的土地利用总体规划的修改，须经原批准机关批准；未经批准，不得改变土地利用总体规划确定的土地作用。”因此，农用地使用权人在承包期限内可以行使一定的处分权，在经集体土地所有者同意的情况下，可以将其享有的土地权利转让、转包、抵押、作价出资或入股，但是不得擅自改变权利取得时确定的土地用途，不得擅自将农用地转变为非农用地。耕地、林地、草地、农田水利用地及养殖水面等农用地之间用途的转变，也必须在不违反国家土地利用总体规划的前提下依严格的法定程序进行，并经集体土地所有者同意。《中华人民共和国土地管理法实施条例》第六条第二款规定：“依法改变土地用途的，必须持批准文件，向土地所在地的县级以上人民政府土地行政主管部门提出土地变更登记申请，由原土地登记机关依法进行变更登记。”被告人张某未经申请，擅自将承租取得的37.82亩农用耕地挖成鱼塘，属于非法改变耕地用途，其行为违反了土地管理法规。\n二、被告人构成非法占用农用地罪\n按照《中华人民共和国刑法》第三百四十二条的规定，非法占用农用地罪的客观方面是实行了“违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏”的行为。“数量较大”和“造成耕地、林地等农用地大量毁坏”是认定构成非法占用农用地罪的必要条件。对此，2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条作出了明确规定，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。本案被告人张某非法占用并毁坏的是农用耕地，且经某农业科技有限公司技术鉴定，被告人张某改造42.63亩土地形成坑塘的行为，改变了37.82亩农用耕地（水浇地）的性质，使上述37.82亩农用耕地（水浇地）的种植条件遭到严重毁坏，具备“造成耕地大量毁坏”的条件。因此，被告人张某的行为构成非法占用农用地罪。故法院依法作出如上裁判。\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。",
+            "企业法定代表人自首对单位犯罪量刑的影响": "### 结论\n企业法定代表人的自首行为对单位犯罪量刑有显著影响，可以认定单位自首，从而对单位从轻或减轻处罚，对法定代表人个人也可能适用缓刑，但需综合考虑犯罪情节、危害后果、悔罪表现及是否为从犯等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《最高人民法院、最高人民检察院、海关总署关于办理走私刑事案件适用法律若干问题的意见》第二十一条**：单位直接负责的主管人员自首的，应当认定单位自首。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：企业法定代表人主动投案并如实供述单位犯罪事实，可以认定为自首，对单位和法定代表人均有从轻或减轻处罚的可能。例如，【（2019）粤03刑初824号】、【（2017）津02刑初129号】、【（2015）沪三中刑初字第9号】中，法定代表人的自首行为使得单位和法定代表人个人均获得了从轻或减轻处罚。\n- **单位犯罪中的从犯地位**：如果单位在共同犯罪中起次要作用，可以认定为从犯，依法减轻处罚。例如，【（2017）粤05刑初103号】中，被告单位在共同犯罪中起次要作用，被认定为从犯，依法减轻处罚。\n- **犯罪情节、危害后果及悔罪表现**：这些因素会影响自首后的量刑。例如，【（2021）浙0109刑初1423号】中，法院综合考虑了被告人的悔罪表现、犯罪情节及社区矫正调查评估意见，决定对被告人适用缓刑。\n- **单位犯罪直接责任人员的诉讼代表人资格**：在单位犯罪案件中，被指控为单位犯罪直接责任人员的法定代表人不得担任单位的诉讼代表人。例如，【（2022）桂刑终304号】中，法院认为法定代表人作为单位犯罪直接责任人员，不得同时担任单位的诉讼代表人。\n\n综上，企业法定代表人的自首行为对单位犯罪量刑有重要影响，但是否能获得从轻或减轻处罚，还需综合考虑犯罪的具体情节、单位在共同犯罪中的地位、法定代表人的悔罪表现以及是否符合缓刑适用条件等因素。\n\n#####\n类似案件为：\n【（2019）粤03刑初824号】：法院认为，被告单位深圳市×××公司无视国家法律，违反海关法规，逃避海关监管，低报价格，走私普通货物出境，情节严重；被告人罗某亮系对被告单位涉案犯罪行为直接负责的主管人员，上述被告单位和被告人的行为均已构成走私普通货物罪。被告单位和被告人负责涉案货物的申报、联系通关等环节，在犯罪中起主要作用，是主犯，应按照参与的全部犯罪处罚。被告人犯罪后自动投案，如实供述其犯罪事实，是自首；同时其系被告单位的法定代表人，按照司法解释的规定，其自首的效力及于单位，故被告单位依法亦应认定有自首情节，对被告人依法予以减轻处罚，对被告单位依法从轻处罚；被告人归案后认罪态度较好，签署认罪认罚具结书，可从宽处罚。一、被告单位深圳市×××国际货运代理有限公司犯走私普通货物罪，判处罚金人民币一百四十万元（罚金于本判决生效后一个月内向本院缴纳）；\n二、被告人罗某亮犯走私普通货物罪，判处有期徒刑二年，缓刑三年（缓刑考验期限，从判决确定之日起计算）；\n三、扣押在案的作案工具iphone6plus手机一部，予以没收，由扣押机关依法处理。\n【（2017）津02刑初129号】：法院认为，被告单位许忠公司违反海关法规，逃避海关监管，采取低报价格的方式走私进口大理石荒料，偷逃应缴税额532678.36元；被告人许忠泉作为许忠公司的法定代表人，是单位犯罪直接负责的主管人员，其行为均已构成走私普通货物罪。许忠泉主动投案，如实供述犯罪事实，构成自首，依法对其从轻处罚。同时考虑其真诚悔罪，主观恶性较小，公司主动退缴违法所得并预缴罚金，依法对其适用缓刑。许忠泉系被告单位的法定代表人，故对被告单位许忠公司亦应认定为自首，依法对其从轻判处罚金刑。一、被告单位上海许忠石材有限公司犯走私普通货物罪，判处罚金人民币五十四万元。\n（罚金自本判决生效之日起一个月内缴纳。）\n二、被告人许忠泉犯走私普通货物罪，判处有期徒刑一年，缓刑一年。\n（缓刑考验期限，从判决确定之日起计算。）\n三、在案扣押的被告单位上海许忠石材有限公司的违法所得人民币532678.36元依法没收，上缴国库。\n【（2015）沪三中刑初字第9号】：法院认为，被告单位XX公司违反海关法规，逃避海关监管，采用低报价格的方式向海关申报进口货物，偷逃应缴税额459,615.56元，其行为已构成走私普通货物罪。被告人陈乙作为XX公司直接负责的主管人员，系以公司名义，为公司利益，实施犯罪，且其违法所得归公司所有，故属单位犯罪，被告人承担主管人员的刑事责任。陈乙作为XX公司法定代表人，在海关开展价格稽查过程中，主动向海关提供该公司留存的涉案进口货物的真实发票等材料，并如实供述XX公司的犯罪事实，具有自首情节；同时，亦可认定XX公司具有自首情节，均可从轻处罚。被告单位和被告人在庭审中均能自愿认罪，本案偷逃税款已全部挽回，被告单位还积极预缴罚金和部分违法所得，均可酌情从轻处罚。一、被告单位XX（上海）国际贸易有限公司犯走私普通货物罪，判处罚金人民币四十六万元（已预缴）。\n二、被告人陈乙犯走私普通货物罪，判处拘役六个月，缓刑六个月。\n（缓刑考验期限自判决确定之日起计算）。\n三、走私犯罪违法所得予以追缴。\n陈乙回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.强化证据链完整性，重点突出被告人明知需要办理林地占用手续却故意规避审批的主观故意，结合被告人在侦查阶段的供述、证人证言及书证形成完整证据链。\n2.强调林业部门两次调查确认的11.31公顷林地占用事实，其中被告人直接负责期间占用5.9公顷，已达到刑法规定的\"数量较大\"标准，且造成林地种植条件严重毁坏。\n3.指出被告人在长达一年多时间内未取得合法手续，虽声称\"积极办理\"但实际未采取有效措施，证明其主观恶性较大。\n4.明确生态修复不能免除刑事责任的法律规定，限制从宽处罚幅度。\n\n防御策略：\n1.林业部门调查报告、地类分布图等书证均经法定程序收集并盖章确认，具有充分证明力。\n2.无人机航拍等视听资料客观记录林地破坏时间线，与证人证言相互印证，形成完整证据链。\n3.被告人供述与18名证人证言在\"未办理林地手续\"关键事实上高度一致，不存在合理怀疑空间。\n4.辩护人提出的植被恢复事实已在起诉意见中作为酌情从轻情节体现，不影响定罪。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国森林法第三十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中'数量较大'的认定标准",
+              "非法占用林地案件中自首情节对量刑的影响"
+            ],
+            "非法占用农用地罪中'数量较大'的认定标准": "### 结论\n非法占用农用地罪中“数量较大”的认定标准，根据最高人民法院2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上。\n\n### 核心法条\n- **《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条**：非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的数量**：非法占用农用地的数量是判断是否构成非法占用农用地罪的关键因素之一。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】、【（2020）鲁1625刑初272号】等案例中，法院均依据非法占用农用地的数量来判断是否达到“数量较大”的标准，进而决定是否构成非法占用农用地罪。\n- **非法占用农用地的用途改变**：改变被占用土地用途，即从农用地转变为非农用地或农用地之间的非法改变用途，是构成非法占用农用地罪的另一个关键因素。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】中，法院均认为改变土地用途是非法占用农用地罪的构成要件之一。\n- **农用地的毁坏程度**：非法占用农用地导致农用地大量毁坏，是非法占用农用地罪的构成要件之一。例如，【（2020）津0114刑初79号】、【（2019）京01刑终520号】中，法院均认为农用地的大量毁坏是构成非法占用农用地罪的必要条件。\n\n综上，非法占用农用地罪的构成需要同时满足非法占用农用地的数量较大、改变被占用土地用途以及造成农用地大量毁坏这三个条件。在实际案件中，法院会依据最高人民法院的相关司法解释，结合具体案情，对这三个条件进行综合判断。\n\n#####\n类似案件为：\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2020）津0114刑初79号】：法院生效判决认为：\n一、被告人不能将租赁取得的耕地擅自改作他用\n《中华人民共和国土地管理法》明确规定，国家实行土地用途管制制度，使用土地的单位和个人必须严格按照土地利用总体规划确定的用途使用土地。该法第二十五条第一款规定：“经批准的土地利用总体规划的修改，须经原批准机关批准；未经批准，不得改变土地利用总体规划确定的土地作用。”因此，农用地使用权人在承包期限内可以行使一定的处分权，在经集体土地所有者同意的情况下，可以将其享有的土地权利转让、转包、抵押、作价出资或入股，但是不得擅自改变权利取得时确定的土地用途，不得擅自将农用地转变为非农用地。耕地、林地、草地、农田水利用地及养殖水面等农用地之间用途的转变，也必须在不违反国家土地利用总体规划的前提下依严格的法定程序进行，并经集体土地所有者同意。《中华人民共和国土地管理法实施条例》第六条第二款规定：“依法改变土地用途的，必须持批准文件，向土地所在地的县级以上人民政府土地行政主管部门提出土地变更登记申请，由原土地登记机关依法进行变更登记。”被告人张某未经申请，擅自将承租取得的37.82亩农用耕地挖成鱼塘，属于非法改变耕地用途，其行为违反了土地管理法规。\n二、被告人构成非法占用农用地罪\n按照《中华人民共和国刑法》第三百四十二条的规定，非法占用农用地罪的客观方面是实行了“违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏”的行为。“数量较大”和“造成耕地、林地等农用地大量毁坏”是认定构成非法占用农用地罪的必要条件。对此，2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条作出了明确规定，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。本案被告人张某非法占用并毁坏的是农用耕地，且经某农业科技有限公司技术鉴定，被告人张某改造42.63亩土地形成坑塘的行为，改变了37.82亩农用耕地（水浇地）的性质，使上述37.82亩农用耕地（水浇地）的种植条件遭到严重毁坏，具备“造成耕地大量毁坏”的条件。因此，被告人张某的行为构成非法占用农用地罪。故法院依法作出如上裁判。\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。",
+            "非法占用林地案件中自首情节对量刑的影响": "### 结论\n在非法占用林地案件中，自首情节对量刑有显著影响，法院通常会考虑自首情节，对被告人从轻或减轻处罚，尤其是在被告人认罪态度较好、愿意恢复林地原状并交纳保证金的情况下，更可能适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的定义及量刑。\n- **《中华人民共和国刑法》第六十七条第一款**：自首的定义及法律后果。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是法院考虑从轻或减轻处罚的重要因素。例如，【（2017）豫0122刑初1112号】中，朱群秀因自首、认罪态度较好、愿意恢复林地原状并交纳保证金，法院对其从轻处罚并适用缓刑。【（2013）都刑初字第31号】中，韩正全、韩正仓虽未被认定为自首，但因认罪态度好、主动交纳恢复林地费，法院酌情从轻处罚并适用缓刑。\n- **认罪态度和恢复林地的承诺**：认罪态度好、愿意恢复林地原状并交纳保证金，是法院考虑从轻处罚的另一个重要因素。【（2017）豫0122刑初1112号】中，朱群秀因上述因素被从轻处罚。【（2013）都刑初字第31号】中，韩正全、韩正仓因主动交纳恢复林地费，法院酌情从轻处罚。\n- **犯罪情节和后果**：犯罪情节较轻、后果不严重的，法院更可能从轻处罚。【（2013）都刑初字第31号】中，韩正全、韩正仓因犯罪情节较轻、后果不严重，法院酌情从轻处罚。\n\n综上，自首、认罪态度、恢复林地的承诺以及犯罪情节和后果是影响非法占用林地案件量刑的关键因素。法院在量刑时会综合考虑这些因素，对被告人从轻或减轻处罚，尤其是当被告人有自首情节、认罪态度好、愿意恢复林地原状并交纳保证金时，更可能适用缓刑。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：\n1.公诉人提供的租用合同等书证仅能证明土地租赁关系，无法直接证明被告人具有非法占用农用地的主观故意。\n2.林业调查报告对\"林地大量毁坏\"的认定缺乏具体量化标准，不能充分证明损害程度达到刑法规定的严重标准。\n3.证人证言中关于\"未办理林地手续\"的表述存在模糊性，无法证明被告人明知违法仍执意占用。\n\n防御策略：\n1.被告人主动投案自首并如实供述，符合刑法第六十七条从轻处罚规定。\n2.骏源公司已完成全部11.31公顷林地的植被恢复并通过验收，有效弥补了损害后果。\n3.被告人在经营过程中多次尝试办理合法手续，表明其主观恶性较小。\n4.本案系单位犯罪，被告人作为法定代表人已尽合理注意义务，不存在明显过错。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中'数量较大'的具体认定标准",
+              "单位犯罪中法定代表人主观故意的认定标准"
+            ],
+            "非法占用农用地罪中'数量较大'的具体认定标准": "### 结论\n非法占用农用地罪中“数量较大”的具体认定标准，根据最高人民法院的司法解释，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。\n\n### 核心法条\n- **《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕14号）第三条第（一）项**：非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的“数量较大”**：根据【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】、【（2020）鲁1625刑初272号】等案例，非法占用农用地的数量达到“较大”标准，是构成非法占用农用地罪的关键因素之一。其中，【（2006）衢刑初字第48号】中，非法占用园地等农用地数量较大，构成非法占用农用地罪；【（2020）津0114刑初79号】中，被告人张某非法占用并毁坏的是农用耕地，且经鉴定，改变37.82亩农用耕地的性质，造成种植条件严重毁坏，具备“造成耕地大量毁坏”的条件；【（2020）鲁1625刑初272号】中，虽然存在对涉案土地面积的争议，但最终因证据不足，指控的犯罪不能成立。\n- **改变被占用土地用途**：【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】等案例中，改变被占用土地用途，即从农用地转变为非农用地，是构成非法占用农用地罪的另一关键因素。例如，【（2006）衢刑初字第48号】中，非法占用园地等农用地，改变用途，数量较大，构成非法占用农用地罪。\n\n综上，非法占用农用地罪的构成要件包括非法占用农用地的数量达到“较大”标准，以及改变被占用土地用途，造成农用地大量毁坏。具体数量标准为非法占用基本农田5亩以上或非法占用基本农田以外的耕地10亩以上。\n\n#####\n类似案件为：\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2020）津0114刑初79号】：法院生效判决认为：\n一、被告人不能将租赁取得的耕地擅自改作他用\n《中华人民共和国土地管理法》明确规定，国家实行土地用途管制制度，使用土地的单位和个人必须严格按照土地利用总体规划确定的用途使用土地。该法第二十五条第一款规定：“经批准的土地利用总体规划的修改，须经原批准机关批准；未经批准，不得改变土地利用总体规划确定的土地作用。”因此，农用地使用权人在承包期限内可以行使一定的处分权，在经集体土地所有者同意的情况下，可以将其享有的土地权利转让、转包、抵押、作价出资或入股，但是不得擅自改变权利取得时确定的土地用途，不得擅自将农用地转变为非农用地。耕地、林地、草地、农田水利用地及养殖水面等农用地之间用途的转变，也必须在不违反国家土地利用总体规划的前提下依严格的法定程序进行，并经集体土地所有者同意。《中华人民共和国土地管理法实施条例》第六条第二款规定：“依法改变土地用途的，必须持批准文件，向土地所在地的县级以上人民政府土地行政主管部门提出土地变更登记申请，由原土地登记机关依法进行变更登记。”被告人张某未经申请，擅自将承租取得的37.82亩农用耕地挖成鱼塘，属于非法改变耕地用途，其行为违反了土地管理法规。\n二、被告人构成非法占用农用地罪\n按照《中华人民共和国刑法》第三百四十二条的规定，非法占用农用地罪的客观方面是实行了“违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏”的行为。“数量较大”和“造成耕地、林地等农用地大量毁坏”是认定构成非法占用农用地罪的必要条件。对此，2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条作出了明确规定，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。本案被告人张某非法占用并毁坏的是农用耕地，且经某农业科技有限公司技术鉴定，被告人张某改造42.63亩土地形成坑塘的行为，改变了37.82亩农用耕地（水浇地）的性质，使上述37.82亩农用耕地（水浇地）的种植条件遭到严重毁坏，具备“造成耕地大量毁坏”的条件。因此，被告人张某的行为构成非法占用农用地罪。故法院依法作出如上裁判。\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。",
+            "单位犯罪中法定代表人主观故意的认定标准": "### 结论\n在单位犯罪中，法定代表人的主观故意认定需结合其对单位犯罪行为的知情、决策、指挥、授意或放任等行为进行综合判断。法定代表人若对单位犯罪行为事先不知情，且在知情后及时制止，缺乏犯罪故意，不应认定为犯罪。反之，若法定代表人参与决策、指挥或放任单位犯罪行为，具有犯罪故意，应承担刑事责任。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：规定单位犯罪的刑事责任。\n- **《中华人民共和国刑法》第二百一十三条**：规定假冒注册商标罪。\n- **《中华人民共和国刑法》第一百四十三条**：规定生产、销售不符合食品安全标准的食品罪。\n- **《中华人民共和国刑法》第一百五十三条第二款**：规定走私普通货物罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **法定代表人对单位犯罪行为的知情与制止**：法定代表人若对单位犯罪行为事先不知情，且在知情后及时制止，缺乏犯罪故意，不应认定为犯罪。例如，【（2019）沪0113刑初2619号】中，某包装材料公司法定代表人马某对朱某选私自印制非法出版物事先不知情，在得知后出面制止，现有证据不能证实某包装材料公司在主观上具有明知和犯罪故意，故不应当认定其构成非法经营罪。\n- **法定代表人在单位犯罪中的决策与指挥作用**：法定代表人若参与单位犯罪行为的决策、指挥或放任，具有犯罪故意，应承担刑事责任。例如，【（2013）呼刑初字第101号】中，被告单位法定代表人孙某某为了公司获取非法利益，授意业务人员采取修改合同价款虚假报关的方式报关，具有偷逃关税的主观故意，应追究其法定代表人孙某某及主要责任人员的刑事责任。\n- **法定代表人对单位犯罪行为的放任**：法定代表人若对单位犯罪行为放任不管，具有犯罪故意，应承担刑事责任。例如，【（2016）鄂03刑终58号】中，被告人古某作为被告单位十堰市某工贸公司的生产管理负责人，明知电镀作业产生的污水未经处理会流向犟河造成环境污染的实际，仍安排工人从事电镀生产作业，放任了被告单位排放污水污染环境的行为，亦构成污染环境罪。\n- **法定代表人与单位犯罪行为的关联性**：法定代表人若与单位犯罪行为无关，缺乏犯罪故意，不应认定为犯罪。例如，【（2019）鲁刑终46号】中，王某某在2008年11月30日之前私自截留购楼款，主观上难以认定其具有非法占有的故意，客观上并未侵犯股东孙某某的权益，故不应计算在职务侵占的数额内，应从犯罪数额中扣除。\n\n综上，法定代表人在单位犯罪中的主观故意认定需综合考虑其对犯罪行为的知情、决策、指挥、放任等行为，以及其与犯罪行为的关联性。\n\n#####\n类似案件为：\n【（2019）沪0113刑初2619号】：《中华人民共和国刑法》第三十条规定：“公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。”对单位犯罪的认定，同样应当坚持主客观相统一原则。对于单位非法经营罪的认定，要求单位不仅在客观方面违反国家规定，实施非法经营行为，而且应当在主观上具有犯罪故意。主观见之于客观，对于单位犯罪的主观故意，也应当结合客观行为进行判定。\n本案中，被告单位某包装材料公司将厂房和印刷设备租赁给了朱某选，朱某选未经被告单位某包装材料公司授权，私下以某包装材料公司名义承接业务，印刷非法出版物6万余本，其非法经营的获利未进入某包装材料公司账户，仅向某包装材料公司支付设备和场地租赁费。某包装材料公司法定代表人马某虽掌握某包装材料公司的营业执照、法人章、银行账户等，但根据同案关系证人续某梅、张某功等人的证言可以印证，马某对朱某选私自印制非法出版物事先不知情，在得知后出面制止，现有证据不能证实某包装材料公司在主观上具有明知和犯罪故意，故不应当认定其构成非法经营罪。公诉机关申请撤回对某包装材料公司的起诉，符合法律规定，应予准许。\n【（2013）呼刑初字第101号】：法院认为，被告单位欣伟公司为获取非法利益，故意以低于实际合同价款方式报关，逃避海关监管，偷逃应缴税款数额较大，构成走私普通货物罪，系单位犯罪。被告单位法定代表人孙某某及主要责任人员裘某具有偷逃关税的主观故意，应追究刑事责任。被告单位在案发后主动投案并如实供述犯罪事实，系自首，应予从轻或减轻处罚。被告单位在案发后积极补缴偷逃税款，未给国家税款造成实际损失，犯罪情节较轻，社会危害性较小，依法可酌定对被告单位及责任人从轻处罚。一、被告单位欣伟公司犯走私普通货物罪，判处罚金人民币一百万元。\n二、被告人孙某某犯走私普通货物罪，判处有期徒刑一年，缓刑一年。\n（缓刑考验期从判决确定之日起计算）。\n三、被告人裘某犯走私普通货物罪，判处有期徒刑一年，缓刑一年。\n（缓刑考验期从判决确定之日起计算）。\n四、对被告单位偷逃税款人民币486420.64元予以追缴。\n【（2016）鄂03刑终58号】：法院生效裁判认为，被告人十堰市某工贸公司非法排放的电镀废水总铬浓度超标88倍，六价铬浓度超标401倍，锌浓度超标6.8倍，已构成《最高人民法院、最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释》第一条关于“严重污染环境”的认定标准，其行为已构成污染环境罪；被告人古某作为被告单位十堰市某工贸公司的生产管理负责人，明知电镀作业产生的污水未经处理会流向犟河造成环境污染的实际，仍安排工人从事电镀生产作业，放任了被告单位排放污水污染环境的行为，亦构成污染环境罪。二被告人以“工作疏忽”“没有造成严重后果”等为理由的抗辩不能成立。鉴于二被告人在一审和二审中均能够认识到因犯罪给环境造成的影响，积极认罪悔罪，且停止了原厂房的生产，将厂房整体搬入政府指定的工业新区，在量刑上可以适当从轻。故一、二审法院依法作出如上裁判。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人主动投案自首并如实供述，符合刑法第六十七条从轻处罚规定。2.骏源公司已完成11.31公顷林地的植被恢复并通过验收，有效弥补了损害后果。3.被告人在经营过程中曾尝试办理合法手续，表明其主观恶性较小。4.本案系单位犯罪，被告人作为法定代表人已尽合理注意义务。5.被告人认罪认罚态度良好，愿意接受法律制裁。6.被告人系初犯，无前科劣迹，社会危害性较小。",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人及被告单位是否构成非法占用农用地罪。查明情况：公诉人通过林地占用手续缺失、鉴定报告等证据证明构成犯罪；被告人及辩护人对事实无异议，但强调积极办理手续的主观意愿。审判长认为犯罪事实清楚，构成非法占用农用地罪。\n\n2.被告人主观故意认定。查明情况：公诉人认为存在明知故犯的故意；辩护人主张系经验不足导致的过失。审判长认为被告人明知需办手续仍实施占用，具有主观故意。\n\n3.林地毁坏程度认定。查明情况：双方对鉴定报告确认的5.9公顷（被告人负责期间）及11.31公顷（总量）无异议。审判长确认达到\"数量较大\"标准。\n\n4.被告人邢某甲是否具有自首情节。查明情况：公诉人认可自首情节；辩护人通过投案经过、如实供述等证明自首成立。审判长认为自首成立，符合刑法第六十七条规定。\n\n5.植被恢复对量刑的影响。查明情况：辩护人强调已完成11.31公顷植被恢复并通过验收；公诉人认可恢复事实但指出不能免除刑责。审判长认为可作为酌定从轻处罚情节。\n\n6.单位犯罪中法定代表人的责任。查明情况：辩护人强调被告人积极履职；公诉人指出其决策主导作用。审判长认为作为法定代表人应承担主要责任。\n\n7.量刑情节综合考量。查明情况：双方对自首、植被恢复等从轻情节无争议。审判长认为需结合犯罪情节、悔罪表现等综合裁量。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议，辩护人认为供述中关于\"为经营石材厂获取经济利益\"的表述不能直接证明其具有非法占用农用地的主观故意。\n\n2. 公诉人出示多份证人证言（赵某、邢某乙、陈某、后某、杜某、林某乙），均证明被告人未办理林地占用手续即进行开采活动，被告人无异议，辩护人认为这些证言仅能证明客观事实，无法直接证明被告人的主观故意。\n\n3. 公诉人出示多份书证（营业执照、合同书、林权证等），证明涉案主体资质及交易事实，控辩双方均无异议。\n\n4. 公诉人出示勘验笔录、视听资料及林业调查报告，证明林地占用面积达5.9公顷至11.31公顷，被告人无异议，辩护人认为这些证据不能充分证明损害程度达到刑法规定的严重标准。\n\n5. 公诉人出示植被恢复验收证明，证明被告人已按要求完成林地植被恢复工作，控辩双方均无异议。\n\n6. 辩护人出示被告人投案情况说明和植被恢复验收证明，证明被告人具有自首情节并已完成生态修复，公诉人无异议。\n\n7. 被告人表示不申请调取新的证据或通知新的证人到庭。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中'数量较大'的认定标准",
+              "非法占用农用地案件中自首情节对量刑的影响"
+            ],
+            "非法占用农用地罪中'数量较大'的认定标准": "### 结论\n非法占用农用地罪中“数量较大”的认定标准，根据最高人民法院2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上。\n\n### 核心法条\n- **《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条**：非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的数量**：非法占用农用地的数量是判断是否构成非法占用农用地罪的关键因素之一。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】、【（2020）鲁1625刑初272号】等案例中，法院均依据非法占用农用地的数量来判断是否达到“数量较大”的标准，进而决定是否构成非法占用农用地罪。\n- **非法占用农用地的用途改变**：改变被占用土地用途，即从农用地转变为非农用地或农用地之间的非法改变用途，是构成非法占用农用地罪的另一个关键因素。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】中，法院均认为改变土地用途是非法占用农用地罪的构成要件之一。\n- **农用地的毁坏程度**：非法占用农用地导致农用地大量毁坏，是非法占用农用地罪的构成要件之一。例如，【（2020）津0114刑初79号】、【（2019）京01刑终520号】中，法院均认为农用地的大量毁坏是构成非法占用农用地罪的必要条件。\n\n综上，非法占用农用地罪的构成需要同时满足非法占用农用地的数量较大、改变被占用土地用途以及造成农用地大量毁坏这三个条件。在实际案件中，法院会依据最高人民法院的相关司法解释，结合具体案情，对这三个条件进行综合判断。\n\n#####\n类似案件为：\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2020）津0114刑初79号】：法院生效判决认为：\n一、被告人不能将租赁取得的耕地擅自改作他用\n《中华人民共和国土地管理法》明确规定，国家实行土地用途管制制度，使用土地的单位和个人必须严格按照土地利用总体规划确定的用途使用土地。该法第二十五条第一款规定：“经批准的土地利用总体规划的修改，须经原批准机关批准；未经批准，不得改变土地利用总体规划确定的土地作用。”因此，农用地使用权人在承包期限内可以行使一定的处分权，在经集体土地所有者同意的情况下，可以将其享有的土地权利转让、转包、抵押、作价出资或入股，但是不得擅自改变权利取得时确定的土地用途，不得擅自将农用地转变为非农用地。耕地、林地、草地、农田水利用地及养殖水面等农用地之间用途的转变，也必须在不违反国家土地利用总体规划的前提下依严格的法定程序进行，并经集体土地所有者同意。《中华人民共和国土地管理法实施条例》第六条第二款规定：“依法改变土地用途的，必须持批准文件，向土地所在地的县级以上人民政府土地行政主管部门提出土地变更登记申请，由原土地登记机关依法进行变更登记。”被告人张某未经申请，擅自将承租取得的37.82亩农用耕地挖成鱼塘，属于非法改变耕地用途，其行为违反了土地管理法规。\n二、被告人构成非法占用农用地罪\n按照《中华人民共和国刑法》第三百四十二条的规定，非法占用农用地罪的客观方面是实行了“违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏”的行为。“数量较大”和“造成耕地、林地等农用地大量毁坏”是认定构成非法占用农用地罪的必要条件。对此，2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条作出了明确规定，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。本案被告人张某非法占用并毁坏的是农用耕地，且经某农业科技有限公司技术鉴定，被告人张某改造42.63亩土地形成坑塘的行为，改变了37.82亩农用耕地（水浇地）的性质，使上述37.82亩农用耕地（水浇地）的种植条件遭到严重毁坏，具备“造成耕地大量毁坏”的条件。因此，被告人张某的行为构成非法占用农用地罪。故法院依法作出如上裁判。\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。",
+            "非法占用农用地案件中自首情节对量刑的影响": "### 结论\n在非法占用农用地案件中，自首情节对量刑有显著影响，法院通常会考虑自首情节从轻或减轻处罚，尤其是当被告人认罪态度较好，愿意恢复土地原状并提供保证金时，更可能适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的量刑规定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是法院考虑从轻或减轻处罚的重要因素。其中【（2017）豫0122刑初1112号】、【（2019）吉03刑终141号】、【（2015）兰刑一终字第45号】等案例均提到，被告人自动投案并如实供述自己的罪行，构成自首，法院依法可以从轻或减轻处罚。\n- **认罪态度和恢复土地原状的承诺**：被告人认罪态度较好，愿意将涉案土地恢复原状，并提供保证金，是法院考虑从轻处罚的另一个重要因素。例如，【（2017）豫0122刑初1112号】中，被告人朱群秀承诺按照国家标准恢复林地，并自愿交纳85万元作为保证金，法院因此酌情从轻处罚，并适用缓刑。\n- **量刑的综合考量**：法院在量刑时会综合考虑自首、认罪态度、恢复土地原状的承诺以及犯罪情节等多方面因素。例如，【（2017）豫0122刑初1112号】中，法院在量刑时考虑了被告人自首、初犯、认罪态度、恢复土地原状的承诺等情节，最终决定适用缓刑。\n\n综上，自首情节、认罪态度、恢复土地原状的承诺以及犯罪情节等是非法占用农用地案件中影响量刑的关键因素，尤其是自首和恢复土地原状的承诺，往往能够显著影响法院的量刑决定，尤其是适用缓刑的可能性。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2019）吉03刑终141号】：法院认为，被告人高峰以非法占有为目的，采用虚构事实、隐瞒真相的方法，伪造虚假信息，骗取国家专项补助资金，其行为已构成诈骗罪。高峰经口头传唤后直接到案，如实供述自己的罪行，依法构成自首，可以减轻处罚。考虑到高峰的自首情节及原审认定的其它从轻情节，其量刑基本符合量刑规范化的具体情节。撤销原审判决，改判被告人高峰犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币10万元；追缴高峰诈骗所得58万元，予以没收，上缴国库。\n【（2015）兰刑一终字第45号】：法院认为，被告人拓某某伙同他人以非法占有为目的，采用在磅秤上安装遥控器的方法，骗取被害单位钱财，其行为构成诈骗罪。鉴于其具有自首情节，积极退赔所得非法利益，认罪、悔罪态度明显，社会危害性相对较轻，对其依法可适用缓刑。永登县人民法院原判决认定被告人拓某某犯诈骗罪的事实清楚，证据确实、充分，定罪准确，审判程序合法，唯量刑失当。根据《中华人民共和国刑事诉讼法》第二百二十五条第一款第（二）项、第二百三十三条及《中华人民共和国刑法》第二百六十六条、第二十五条第一款、第二十六条第一、四款、第六十七条第一款、第六十一条、第七十二条、第六十四条之规定，判决如下：\n维持原判决中被告人拓某某犯诈骗罪的定罪部分和罚金刑部分；撤销原判决中的量刑部分。上诉人（原审被告人）拓某某犯诈骗罪，判处有期徒刑二年，缓刑三年，并处罚金10000元（已缴纳）；上诉人（原审被告人）拓某某退赔的犯罪所得25000元，依法没收，上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强化被告人主观故意证据链，结合其供述\"明知需要办理手续却未办理\"与多名证人证言，证明其长期规避审批的主观恶性。2.突出林业部门两次调查确认的11.31公顷林地占用事实，远超\"数量较大\"标准，且造成种植条件严重毁坏。3.指出被告人在一年多时间内未采取有效措施办理手续，虽声称\"积极办理\"但实际拖延，证明其违法故意明显。\n\n防御策略：1.强调所有书证均经法定程序收集并盖章确认，具有充分证明力。2.说明视听资料客观记录破坏时间线，与证人证言相互印证，形成完整证据链。3.指出被告人供述与18名证人证言在关键事实上高度一致，不存在合理怀疑空间。4.明确辩护人提出的植被恢复事实已在起诉意见中体现，不影响定罪。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议，辩护人认为供述中关于\"为经营石材厂获取经济利益\"的表述不能直接证明其具有非法占用农用地的主观故意。\n\n2. 公诉人出示多份证人证言（赵某、邢某乙、陈某、后某、杜某、林某乙），均证明被告人未办理林地占用手续即进行开采活动，被告人无异议，辩护人认为这些证言仅能证明客观事实，无法直接证明被告人的主观故意。\n\n3. 公诉人出示多份书证（营业执照、合同书、林权证等），证明涉案主体资质及交易事实，控辩双方均无异议。\n\n4. 公诉人出示勘验笔录、视听资料及林业调查报告，证明林地占用面积达5.9公顷至11.31公顷，被告人无异议，辩护人认为这些证据不能充分证明损害程度达到刑法规定的严重标准。\n\n5. 公诉人出示植被恢复验收证明，证明被告人已按要求完成林地植被恢复工作，控辩双方均无异议。\n\n6. 辩护人出示被告人投案情况说明和植被恢复验收证明，证明被告人具有自首情节并已完成生态修复，公诉人无异议。\n\n7. 被告人表示不申请调取新的证据或通知新的证人到庭。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释第一条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释第一条": "违反土地管理法规，非法占用林地，改变被占用林地用途，在非法占用的林地上实施建窑、建坟、建房、挖沙、采石、采矿、取土、种植农作物、堆放或排泄废弃物等行为或者进行其他非林业生产、建设，造成林地的原有植被或林业种植条件严重毁坏或者严重污染，并具有下列情形之一的，属于《中华人民共和国刑法修正案（二）》规定的“数量较大，造成林地大量毁坏”，应当以非法占用农用地罪判处五年以下有期徒刑或者拘役，并处或者单处罚金：（一）非法占用并毁坏防护林地、特种用途林地数量分别或者合计达到五亩以上；（二）非法占用并毁坏其他林地数量达到十亩以上；（三）非法占用并毁坏本条第（一）项、第（二）项规定的林地，数量分别达到相应规定的数量标准的百分之五十以上；（四）非法占用并毁坏本条第（一）项、第（二）项规定的林地，其中一项数量达到相应规定的数量标准的百分之五十以上，且两项数量合计达到该项规定的数量标准。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中'数量较大'的认定标准",
+              "非法占用农用地案件中被告人完成生态修复是否影响定罪"
+            ],
+            "非法占用农用地罪中'数量较大'的认定标准": "### 结论\n非法占用农用地罪中“数量较大”的认定标准，根据最高人民法院2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上。\n\n### 核心法条\n- **《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条**：非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的数量**：非法占用农用地的数量是判断是否构成非法占用农用地罪的关键因素之一。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】、【（2020）鲁1625刑初272号】等案例中，法院均依据非法占用农用地的数量来判断是否达到“数量较大”的标准，进而决定是否构成非法占用农用地罪。\n- **非法占用农用地的用途改变**：改变被占用土地用途，即从农用地转变为非农用地或农用地之间的非法改变用途，是构成非法占用农用地罪的另一个关键因素。例如，【（2006）衢刑初字第48号】、【（2020）津0114刑初79号】中，法院均认为改变土地用途是非法占用农用地罪的构成要件之一。\n- **农用地的毁坏程度**：非法占用农用地导致农用地大量毁坏，是非法占用农用地罪的构成要件之一。例如，【（2020）津0114刑初79号】、【（2019）京01刑终520号】中，法院均认为农用地的大量毁坏是构成非法占用农用地罪的必要条件。\n\n综上，非法占用农用地罪的构成需要同时满足非法占用农用地的数量较大、改变被占用土地用途以及造成农用地大量毁坏这三个条件。在实际案件中，法院会依据最高人民法院的相关司法解释，结合具体案情，对这三个条件进行综合判断。\n\n#####\n类似案件为：\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2020）津0114刑初79号】：法院生效判决认为：\n一、被告人不能将租赁取得的耕地擅自改作他用\n《中华人民共和国土地管理法》明确规定，国家实行土地用途管制制度，使用土地的单位和个人必须严格按照土地利用总体规划确定的用途使用土地。该法第二十五条第一款规定：“经批准的土地利用总体规划的修改，须经原批准机关批准；未经批准，不得改变土地利用总体规划确定的土地作用。”因此，农用地使用权人在承包期限内可以行使一定的处分权，在经集体土地所有者同意的情况下，可以将其享有的土地权利转让、转包、抵押、作价出资或入股，但是不得擅自改变权利取得时确定的土地用途，不得擅自将农用地转变为非农用地。耕地、林地、草地、农田水利用地及养殖水面等农用地之间用途的转变，也必须在不违反国家土地利用总体规划的前提下依严格的法定程序进行，并经集体土地所有者同意。《中华人民共和国土地管理法实施条例》第六条第二款规定：“依法改变土地用途的，必须持批准文件，向土地所在地的县级以上人民政府土地行政主管部门提出土地变更登记申请，由原土地登记机关依法进行变更登记。”被告人张某未经申请，擅自将承租取得的37.82亩农用耕地挖成鱼塘，属于非法改变耕地用途，其行为违反了土地管理法规。\n二、被告人构成非法占用农用地罪\n按照《中华人民共和国刑法》第三百四十二条的规定，非法占用农用地罪的客观方面是实行了“违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏”的行为。“数量较大”和“造成耕地、林地等农用地大量毁坏”是认定构成非法占用农用地罪的必要条件。对此，2000年6月22日施行的《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条作出了明确规定，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上；非法占用耕地“造成耕地大量毁坏”，是指行为人非法占用耕地建窑、建坟、建房、挖沙、采石、采矿、取土、堆放固体废弃物或者进行其他非农业建设，造成基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上种植条件严重毁坏或者严重污染。本案被告人张某非法占用并毁坏的是农用耕地，且经某农业科技有限公司技术鉴定，被告人张某改造42.63亩土地形成坑塘的行为，改变了37.82亩农用耕地（水浇地）的性质，使上述37.82亩农用耕地（水浇地）的种植条件遭到严重毁坏，具备“造成耕地大量毁坏”的条件。因此，被告人张某的行为构成非法占用农用地罪。故法院依法作出如上裁判。\n【（2020）鲁1625刑初272号】：法院生效裁判认为：根据《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》（法释〔2000〕１４号）第三条第（一）项，非法占用基本农田5亩以上或者非法占用基本农田以外的耕地10亩以上，改作他用，造成耕地大量毁坏的，构成非法占用农用地罪。本案中存在各类证据五种十余份，其中最核心的有罪证据系滨州市国土局出具的《鉴定结论》，其内容涉及被破坏的农用地面积。\n关于涉案土地的面积，本案存在多组不一致的证据：\n1.张某广的养殖场占地面积存疑。(1)2012.4.6及同年4.14其与村委会签订两份承包合同,面积为11.81亩（2）2012年11月16日博兴县国土资源局作出行政处罚决定书，以8089.2平方米（折合12.13亩）对张禹广作出处罚。（3）滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录测量的养殖场南北长115米，东西宽76米，面积折合13.11亩。（4）2016年9月19日滨州市国土资源局作出的鉴定结论，认定非法圈占12.7亩，其中10.32亩耕地（其中基本农田5.66亩）已被混凝土硬化，建设了建筑物。同一块土地面积出现4个不同的数据。\n2.硬化土地的面积以及土地性质存疑。从刑事侦查卷宗，滨公（博兴）勘[2016]K3716250000002016120018号现场勘验检查工作记录，第7、8页照片，中间有一块地长着野草，放置杂物，没有硬化。该卷宗第29页，滨州市国土资源局《鉴定结论》平面图，标注“硬化面积10.32亩”，把那块没有硬化的地，也包括在内。10.32亩硬化面积是否应当扣减中间那块长草的土地面积，控辩双方存在激烈争议。涉案土地包含的基本农田位置、面积，基本农田以外的耕地位置、面积，也不精确。\n在（2020）鲁1625刑初21号案件审理期间，法院发出补充侦查建议，建议重新鉴定，公诉机关不予采纳；发回重审后，法院再次函告公诉机关重新鉴定，公诉机关认为不宜重新鉴定。为认真贯彻以审判为中心的刑事诉讼制度改革，落实直接言辞证据原则，重审法院对两名鉴定人进行了调查核实，2022年3月9日鉴定人出庭作证，接受质证询问。\n经综合审查认为，存在以下问题：\n一是鉴定人未独立完成鉴定事务。根据两鉴定人的陈述，2016年当时受滨州市国土局委派到过现场，但没有进行测量。被破坏的农用地的长、宽基础数据以及平面图，系博兴县国土资源局提供。滨州市国土局依靠县国土局提供的数据，进行计算得出破坏农用地面积。鉴定人没有亲自测量，没有掌握第一数据。而且，依据《国土资源部、最高人民检察院、公安部关于国土资源行政主管部门移送涉嫌国土资源犯罪案件的若干意见》（国土资发[2008]203号）“二、关于移送证据”之中“(三)……需要对耕地破坏程度进行鉴定的，由市(地)级或者省级国土资源行政主管部门出具鉴定结论”的规定，县国土行政部门亦无权实施上述行为。\n二是计算方法存疑。市国土局将中间长草、放置杂物的土地也计算在硬化面积之内，欠妥。\n由于《鉴定结论》认定硬化耕地10.32亩，超出入罪面积0.32亩，介于罪与非罪的边缘，该《鉴定结论》本身存疑，且未能重新鉴定，在控方未能进一步提供确凿证据的情况下，应当依照《中华人民共和国刑事诉讼法》第二百条第三项，作出证据不足、指控的犯罪不能成立的无罪判决。公诉机关撤回起诉，法院依法裁定准许。",
+            "非法占用农用地案件中被告人完成生态修复是否影响定罪": "### 结论\n非法占用农用地案件中，被告人完成生态修复可以作为量刑的酌定从轻情节，但不影响定罪。被告人主动修复生态环境、认罪态度、自首、初犯、悔罪表现、社会危害程度以及生态修复效果等，均是法院量刑时考虑的重要因素。在被告人完成生态修复的情况下，法院可能从轻处罚，甚至适用缓刑，但不会因此改变非法占用农用地罪的定性。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：规定非法占用农用地罪的构成要件和处罚。\n- **《中华人民共和国刑事诉讼法》第二百二十五条第一款第二项**：规定二审法院对一审判决的改判条件。\n- **《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第一条**：规定非法占用林地罪的认定标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **生态修复态度及效果**：被告人主动修复生态环境，如补植复绿、管护抚育，可以作为从轻量刑的酌定情节。例如，【（2018）闽05刑终497号】中，被告人邹某达在被毁坏的林地上补种植被，法院认为这是悔罪表现，可酌情从轻处罚。\n- **自首和认罪态度**：被告人主动投案并如实供述自己的罪行，系自首，依法可以从轻或减轻处罚。例如，【（2017）豫0122刑初1112号】中，朱群秀系自首，法院依法从轻处罚。\n- **初犯和悔罪表现**：被告人系初犯，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。例如，【（2017）豫0122刑初1112号】中，朱群秀系初犯，法院依法宣告缓刑。\n- **社会危害程度**：被告人的行为对社会的危害程度，以及生态修复是否达到恢复生态环境的标准，也是量刑时的重要考虑因素。例如，【（2023）冀96刑终38号】中，法院认为刘某斌、司某芳等人虽然完成了实施方案中的修复工作，但未达到恢复生态环境的标准，故应当继续履行生态环境修复义务或支付相应费用。\n\n综上，非法占用农用地案件中，被告人完成生态修复可以作为量刑时的从轻情节，但不影响非法占用农用地罪的定性。法院在量刑时会综合考虑生态修复态度及效果、自首和认罪态度、初犯和悔罪表现、社会危害程度等因素，以实现案件审理与生态环境保护的统一。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2023）冀96刑终38号】：法院生效裁判认为：被告人刘某斌、司某芳等人自行修复的结果是否达到恢复生态环境的标准是本案争议的焦点。\n关于灵寿县人民检察院委托公益诉讼技术专家出具的咨询意见是否比附带民事公益诉讼被告刘某斌、司某芳等人提交的实施方案更科学、合理的问题。刘某斌、司某芳等人非法采砂的行为不仅造成国家矿产资源损失，更为严重的是影响当地的地质结构，增加水土流失、次生地质灾害的风险。因此，在修复方案中除了回填平整外，还要恢复原地形地貌，修建护脚墙。刘某斌、司某芳等人实施方案的修复目标是对被破坏的地形地貌、挖损的土地资源进行恢复，而没有考虑到恢复原有地貌景观、地质环境、生态环境。灵寿县人民检察院委托公益诉讼技术专家出具的咨询意见全面考虑了对采坑进行回填平整、覆土、绿化、修建护脚墙等有利于恢复良好地质环境的措施，更有助于恢复生态环境，更加具有科学性、合理性。\n关于附带民事公益诉讼被告刘某斌、司某芳等人是否完成修复工作的问题。虽然灵寿县自然资源和规划局对案涉项目组织相关专家验收、委托第三方制作验收报告，并将土地交付相关权利人，但是，该验收是以实施方案的修复目标为导向。刘某斌、司某芳等人虽然完成了实施方案中的修复工作，但未达到恢复生态环境的标准。故刘某斌、司某芳等人应当继续履行生态环境修复义务或支付相应费用。\n关于后续修复费用问题。鉴于灵寿县自然资源和规划局对刘某斌、司某芳等人已经实施的修复工程验收，并认可修复结果是按照刘某斌、司某芳等人委托编制的实施方案完成，且修复结果对恢复生态环境起到了一定作用，故对附带民事公益诉讼被告刘某斌、司某芳等人完成的工程量予以认可，并对其支付的修复费用进行相应抵扣。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.继续强调公诉方证据无法直接证明被告人具有非法占用农用地的主观故意，特别是证人证言仅能证明客观事实而非主观故意2.坚持质疑林业调查报告对\"林地大量毁坏\"认定的科学性，指出其缺乏具体量化标准3.指出勘验笔录和视听资料仅能证明占用事实，无法证明毁坏程度达到刑法规定的严重标准\n\n防御策略：1.强化被告人主动投案自首情节，引用刑法第六十七条从轻处罚规定2.突出11.31公顷林地植被恢复已通过验收的事实，证明损害后果已得到有效弥补3.强调被告人在经营过程中多次尝试办理合法手续，表明其主观恶性较小",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议，辩护人认为供述中关于\"为经营石材厂获取经济利益\"的表述不能直接证明其具有非法占用农用地的主观故意。\n\n2. 公诉人出示多份证人证言（赵某、邢某乙、陈某、后某、杜某、林某乙），均证明被告人未办理林地占用手续即进行开采活动，被告人无异议，辩护人认为这些证言仅能证明客观事实，无法直接证明被告人的主观故意。\n\n3. 公诉人出示多份书证（营业执照、合同书、林权证等），证明涉案主体资质及交易事实，控辩双方均无异议。\n\n4. 公诉人出示勘验笔录、视听资料及林业调查报告，证明林地占用面积达5.9公顷至11.31公顷，被告人无异议，辩护人认为这些证据不能充分证明损害程度达到刑法规定的严重标准。\n\n5. 公诉人出示植被恢复验收证明，证明被告人已按要求完成林地植被恢复工作，控辩双方均无异议。\n\n6. 辩护人出示被告人投案情况说明和植被恢复验收证明，证明被告人具有自首情节并已完成生态修复，公诉人无异议。\n\n7. 被告人表示不申请调取新的证据或通知新的证人到庭。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中'数量较大'的认定标准是什么？",
+              "非法占用农用地案件中，被告人主动恢复植被能否减轻处罚？"
+            ],
+            "非法占用农用地罪中'数量较大'的认定标准是什么？": "### 结论\n非法占用农用地罪中'数量较大'的认定标准根据最高人民法院2000年的司法解释，非法占用耕地“数量较大”，是指非法占用基本农田五亩以上或者非法占用基本农田以外的耕地十亩以上。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：规定非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的行为构成非法占用农用地罪。\n- **《最高人民法院关于审理破坏土地资源刑事案件具体应用法律若干问题的解释》第三条**：规定非法占用耕地“数量较大”的具体标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占用农用地的类型和数量**：非法占用的农用地不仅限于耕地和林地，还包括草地、农田水利地、养殖水面等其他用于农业生产的土地。例如，【（2006）衢刑初字第48号】中，非法占用的园地作为农业生产用地，数量较大，构成非法占用农用地罪。\n- **改变土地用途**：“改变被占用土地用途”不仅指非法将农用地改为建设用地等非农用地，还包括农用地之间的非法改变用途的行为。例如，【（2006）衢刑初字第48号】中，非法占用园地等农用地，改变用途，数量较大，构成非法占用农用地罪。\n- **单位犯罪**：单位擅自转让园地使用权并改变用途，情节严重的，应追究单位的刑事责任。例如，【（2006）衢刑初字第48号】中，被告单位衢州市衢江区某某经济合作社非法转让土地使用权，情节特别严重，构成非法转让土地使用权罪。\n\n综上，非法占用农用地罪的认定需要考虑占用农用地的类型、数量以及是否改变了土地用途，同时，单位犯罪也应受到相应的刑事追究。\n\n#####\n类似案件为：\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。\n【（2006）衢刑初字第48号】：法院生效裁判认为：非法占用农用地不仅仅指耕地、林地，也包括草地、园地、养殖水面等其他农用地。本案中受到非法占用的园地作为农业生产用地应当能够成为刑法第三百四十二条的犯罪对象。刑法修正案（二）中所说的“改变被占用土地用途”并非仅指非法将农用地改为建设用地等非农用地，而且还包括农用地之间的非法改变用途的行为。非法占用园地等农用地的“数量较大”认定标准应参照2000年最高人民法院的有关司法解释执行。被告人廖某良、张某泉违反土地管理法规，结伙非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均构成非法占用农用地罪；被告单位衢州市衢江区某某经济合作社以牟利为目的，违反土地管理法规，非法转让土地使用权，情节特别严重，被告人张某渭作为单位的直接负责人，代表本村组织并具体实施了非法转让农用地使用权的行为，其行为均构成非法转让土地使用权罪。公诉机关的指控成立。被告人廖某良刑罚执行完毕后五年内又犯应当判处有期徒刑以上刑罚之罪，属累犯，应从重处罚。被告人廖某良、张某泉认罪态度较好，可酌情从轻处罚。被告人张某渭能认罪，有悔罪表现，可依法适用缓刑。故作出上述判决。",
+            "非法占用农用地案件中，被告人主动恢复植被能否减轻处罚？": "### 结论\n在非法占用农用地案件中，被告人主动恢复植被通常可以作为从轻或减轻处罚的情节，尤其是在被告人认罪认罚、积极修复生态环境、系初犯、无前科、有悔罪表现等情况下，法院更倾向于从宽处理，甚至适用缓刑。但是否减轻处罚，还需综合考虑犯罪情节、社会危害性、修复效果等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的构成要件及处罚规定。\n- **《中华人民共和国刑法》第六十七条第一款、第三款**：自首与坦白的规定，对量刑的影响。\n- **《中华人民共和国刑事诉讼法》第十五条**：认罪认罚从宽制度。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主动恢复植被**：主动进行生态修复，如补植复绿、缴纳植被恢复费，是法院从轻处罚的重要考量因素。例如，【（2019）闽0121刑初219号】中，被告人黄某积极进行生态修复，与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，法院酌情予以从轻处罚。\n- **认罪认罚**：被告人认罪认罚，愿意接受处罚，是法院从轻处罚的另一重要因素。如【（2020）闽0623刑初586号】中，被告人邱裕益案发后能投案自首，具有悔罪表现，且能认罪认罚，又能在所占用地农用地上补植复绿，法院对其从轻处罚，并适用缓刑。\n- **初犯、无前科**：被告人系初犯，无犯罪前科，也是法院从轻处罚的考量因素。如【（2023）黑7530刑初8号】中，被告人谭丙礼系初犯，犯罪情节较轻，法院依法对其从轻处罚并宣告缓刑。\n- **社会危害性及修复效果**：犯罪的社会危害性及生态环境修复的实际效果，也是法院量刑时的重要考量。如【（2018）闽05刑终497号】中，虽然被告人邹某达进行了生态修复，但原审判决认定“原有林地上的植被已全部被毁无法恢复”，二审法院在查明植被已有所恢复后，对被告人再予从轻处罚。\n\n综上，主动恢复植被、认罪认罚、初犯无前科、社会危害性及修复效果是影响非法占用农用地案件中被告人是否能减轻处罚的关键因素。法院在量刑时会综合考虑这些因素，以实现法律效果与社会效果的统一。\n\n#####\n类似案件为：\n【（2019）闽0121刑初219号】：法院生效裁判认为：被告单位某公司违反国家林业管理法规，未经审批占用农用地138.51亩，其行为已构成非法占用农用地罪。被告人黄某作为该单位的法定代表人和主要负责人，对被告单位的犯罪行为负有直接责任，依法应以非法占用农用地罪追究其刑事责任。被告单位某公司的法定代表人及实际经营人被告人黄某主动投案并如实供述自己的罪行，被告单位、被告人黄某均系自首，依法均可从轻或减轻处罚。被告人黄某积极进行生态修复，与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，可酌情予以从轻处罚。\n【（2020）闽0623刑初586号】：法院认为，被告人邱裕益违反土地管理法规，非法占用林地，改变被占用林地用途，数量较大，造成林地大量毁坏，其行为已构成非法占用农用地罪。邱裕益具有犯罪前科，可酌情从重处罚。案发后，邱裕益能投案自首，依法可以从轻处罚；其能在被毁坏的大部分林地上补植复绿，可酌情从轻处罚。被告人邱裕益犯非法占用农用地罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币二万元。\n（缓刑考验期限，从判决确定之日起计算。缓刑考验期间，必须依法接受社区矫正。罚金已缴纳）。\n【（2023）黑7530刑初8号】：法院认为，谭丙礼违反国家法律规定，非法采伐国家二级重点保护植物水曲柳一株，构成危害国家重点保护植物罪。鉴于谭丙礼系初犯，犯罪情节较轻，主动缴纳植被恢复费，有悔罪表现，且社区矫正管理局评估其适用社区矫正，依法可从轻处罚并宣告缓刑。一、被告人谭丙礼犯危害国家重点保护植物罪，判处有期徒刑一年，缓刑二年（缓刑考验期从判决确定之日起计算），并处罚金人民币一千元，限本判决生效十日内缴纳；\n二、作案工具手锯一把，依法没收；\n三、依法扣押的20个水曲柳树木段，由扣押机关兴隆分局依法处理。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人主动投案自首并如实供述，符合刑法第六十七条从轻处罚规定。2.骏源公司已完成11.31公顷林地的植被恢复并通过验收，有效弥补了损害后果。3.被告人在经营过程中曾尝试办理合法手续，表明其主观恶性较小。4.本案系单位犯罪，被告人作为法定代表人已尽合理注意义务。5.被告人认罪认罚态度良好，愿意接受法律制裁。6.被告人系初犯，无前科劣迹，社会危害性较小。",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人及被告单位是否构成非法占用农用地罪。查明情况：公诉人通过林地占用手续缺失、鉴定报告等证据证明构成犯罪；被告人及辩护人对事实无异议，但强调积极办理手续的主观意愿。审判长认为犯罪事实清楚，构成非法占用农用地罪。\n\n2.被告人主观故意认定。查明情况：公诉人认为存在明知故犯的故意；辩护人主张系经验不足导致的过失。审判长认为被告人明知需办手续仍实施占用，具有主观故意。\n\n3.林地毁坏程度认定。查明情况：双方对鉴定报告确认的5.9公顷（被告人负责期间）及11.31公顷（总量）无异议。审判长确认达到\"数量较大\"标准。\n\n4.被告人邢某甲是否具有自首情节。查明情况：公诉人认可自首情节；辩护人通过投案经过、如实供述等证明自首成立。审判长认为自首成立，符合刑法第六十七条规定。\n\n5.植被恢复对量刑的影响。查明情况：辩护人强调已完成11.31公顷植被恢复并通过验收；公诉人认可恢复事实但指出不能免除刑责。审判长认为可作为酌定从轻处罚情节。\n\n6.单位犯罪中法定代表人的责任。查明情况：辩护人强调被告人积极履职；公诉人指出其决策主导作用。审判长认为作为法定代表人应承担主要责任。\n\n7.量刑情节综合考量。查明情况：双方对自首、植被恢复等从轻情节无争议。审判长认为需结合犯罪情节、悔罪表现等综合裁量。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议，辩护人认为供述中关于\"为经营石材厂获取经济利益\"的表述不能直接证明其具有非法占用农用地的主观故意。\n\n2. 公诉人出示多份证人证言（赵某、邢某乙、陈某、后某、杜某、林某乙），均证明被告人未办理林地占用手续即进行开采活动，被告人无异议，辩护人认为这些证言仅能证明客观事实，无法直接证明被告人的主观故意。\n\n3. 公诉人出示多份书证（营业执照、合同书、林权证等），证明涉案主体资质及交易事实，控辩双方均无异议。\n\n4. 公诉人出示勘验笔录、视听资料及林业调查报告，证明林地占用面积达5.9公顷至11.31公顷，被告人无异议，辩护人认为这些证据不能充分证明损害程度达到刑法规定的严重标准。\n\n5. 公诉人出示植被恢复验收证明，证明被告人已按要求完成林地植被恢复工作，控辩双方均无异议。\n\n6. 辩护人出示被告人投案情况说明和植被恢复验收证明，证明被告人具有自首情节并已完成生态修复，公诉人无异议。\n\n7. 被告人表示不申请调取新的证据或通知新的证人到庭。\n\n法庭辩论阶段总结：\n\n1. 关于主观故意问题：\n- 公诉人指控被告人明知需办理审批手续却长期未办，具有违法故意，且银行流水显示未支付相关费用\n- 辩护人辩称被告人持续申请手续表明无违法故意，未缴费系等待审批的正常程序\n\n2. 关于林地毁坏程度：\n- 公诉人出示林业调查报告，认定11.31公顷林地严重毁坏，依据专业检测标准\n- 辩护人质疑毁坏认定缺乏量化标准，指出植被已通过验收恢复\n\n3. 关于自首情节：\n- 公诉人认为被告人在调查后才到案，不符合自首条件\n- 辩护人主张被告人主动到案并如实供述，符合自首规定\n\n4. 关于法律适用：\n- 双方就《刑法》第14条故意认定、《最高人民法院关于审理破坏林地资源刑事案件解释》的适用展开辩论\n- 对《森林法实施条例》关于恢复标准的理解存在分歧",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条",
+              "最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释第三条",
+              "最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释第四条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释第三条": "实施本解释第二条规定的行为，具有下列情形之一的，属于刑法第四百一十条规定的“致使国家或者集体利益遭受特别重大损失”，应当以非法批准征用、占用土地罪判处三年以上七年以下有期徒刑：（一）非法批准征用、占用防护林地、特种用途林地数量分别或者合计达到二十亩以上；（二）非法批准征用、占用其他林地数量达到四十亩以上；（三）非法批准征用、占用林地造成直接经济损失数额达到六十万元以上，或者造成本条第（一）项规定的林地数量分别或者合计达到十亩以上或者本条第（二）项规定的林地数量达到二十亩以上毁坏。",
+            "最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释第四条": "国家机关工作人员徇私舞弊，违反土地管理法规，非法低价出让国有林地使用权，具有下列情形之一的，属于刑法第四百一十条规定的“情节严重”，应当以非法低价出让国有土地使用权罪判处三年以下有期徒刑或者拘役：（一）林地数量合计达到三十亩以上，并且出让价额低于国家规定的最低价额标准的百分之六十；（二）造成国有资产流失价额达到三十万元以上。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪中主观故意的认定标准",
+              "林地植被恢复对非法占用农用地罪量刑的影响",
+              "单位犯罪中法定代表人责任的认定标准"
+            ],
+            "非法占用农用地罪中主观故意的认定标准": "### 结论\n非法占用农用地罪的主观故意认定，主要考察行为人是否明知其行为违反土地管理法规，且具有改变土地用途、非法占用农用地的故意，导致农用地大量毁坏。行为人是否具有非法占有目的，需结合其行为是否造成农用地大量毁坏、是否具有改变土地用途的故意、是否明知土地性质及权利归属、是否具有非法获利的动机等综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否明知土地性质及权利归属**：行为人是否清楚所占用土地为农用地，且属于农村集体所有，是判断其主观故意的重要因素。例如，【（2019）京01刑终520号】中，法院认为李某等人明知涉案土地为农村集体土地，且无任何权利，仍允许大规模倾倒渣土，构成非法占用农用地罪。\n- **行为人是否具有非法获利的动机**：行为人是否为了非法获利而改变土地用途，是判断其主观故意的另一关键因素。如【（2019）京01刑终520号】中，李某等人允许其他车队大规模倾倒渣土，以非法获利，构成非法占用农用地罪。\n- **行为是否造成农用地大量毁坏**：行为人改变土地用途的行为是否导致农用地大量毁坏，是判断其主观故意的重要依据。如【（2016）冀0229刑初3号】中，孙桂民非法占用耕地改作他用，造成耕地大量毁坏，构成非法占用农用地罪。\n- **行为人是否具有改变土地用途的故意**：行为人是否故意改变土地用途，是判断其主观故意的关键。如【（2020）鲁1625刑初272号】中，法院对张某广是否故意硬化土地，改变土地用途进行了详细审查，最终因证据不足，指控的犯罪不能成立。\n\n综上，非法占用农用地罪的主观故意认定，需综合考虑行为人是否明知土地性质、是否具有非法获利动机、是否造成农用地大量毁坏以及是否故意改变土地用途等因素。\n\n#####\n类似案件为：\n【（2019）京01刑终520号】：法院生效判决认为：被告人李某、朱某、訚某、靳某违反土地管理法规,非法占用农用地,改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均已构成非法占用农用地罪。北京市国土资源局昌平分局系对国家土地资源管理和运营的法定部门，其依法对涉案土地的性质、面积及土地破坏程度作出认定，该书证合法有据，具有证明效力，李某辩护人关于非法占用农用地破坏程度的意见不符合证据要求的意见，不予采纳。全案证据相互印证，已经形成完整的证明体系，证实涉案土地在李某等人倾卸渣土之前是长草的荒地，涉案土地系农村集体土地，权利人为村集体经济组织，李某等人对于该地块不具有任何权利，在李某指使安排下，朱某负责全面管理，訚某、靳某各有分工，在2014年至2015年期间，允许自己车队在该处倾倒渣土的同时，为非法获利，亦允许其它车队大规模倾卸渣土，致涉案地块状况迅速发生变化，造成100余亩农用地种植条件被严重破坏的基本事实，故李某的辩护人关于认定事实证据不足，不具有非法性和主观故意等意见；朱某辩护人关于其主观恶性小、犯罪情节轻、未认识到土地性质等意见，均不予采纳。故法院依法作出如上裁判。\n【（2019）京01刑终520号】：法院生效判决认为：被告人李某、朱某、訚某、靳某违反土地管理法规,非法占用农用地,改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为均已构成非法占用农用地罪。北京市国土资源局昌平分局系对国家土地资源管理和运营的法定部门，其依法对涉案土地的性质、面积及土地破坏程度作出认定，该书证合法有据，具有证明效力，李某辩护人关于非法占用农用地破坏程度的意见不符合证据要求的意见，不予采纳。全案证据相互印证，已经形成完整的证明体系，证实涉案土地在李某等人倾卸渣土之前是长草的荒地，涉案土地系农村集体土地，权利人为村集体经济组织，李某等人对于该地块不具有任何权利，在李某指使安排下，朱某负责全面管理，訚某、靳某各有分工，在2014年至2015年期间，允许自己车队在该处倾倒渣土的同时，为非法获利，亦允许其它车队大规模倾卸渣土，致涉案地块状况迅速发生变化，造成100余亩农用地种植条件被严重破坏的基本事实，故李某的辩护人关于认定事实证据不足，不具有非法性和主观故意等意见；朱某辩护人关于其主观恶性小、犯罪情节轻、未认识到土地性质等意见，均不予采纳。故法院依法作出如上裁判。\n【（2016）冀0229刑初3号】：法院认为，孙桂民以非法占有为目的，骗取对方财物，数额特别巨大，构成合同诈骗罪；违反土地管理法规，非法占用耕地改作他用，数量较大，造成耕地大量毁坏，构成非法占用农用地罪。孙桂民一人犯数罪，应数罪并罚，其有坦白情节，可从轻处罚。玉田县人民法院判决孙桂民犯合同诈骗罪，判处有期徒刑十四年，并处罚金15万元；犯非法占用农用地罪，判处有期徒刑一年，并处罚金1万元，决定执行有期徒刑十四年六个月，并处罚金16万元。违法所得继续予以追缴，返还给各被害人。",
+            "林地植被恢复对非法占用农用地罪量刑的影响": "### 结论\n林地植被恢复对非法占用农用地罪量刑有显著影响，法院在量刑时会考虑被告是否主动进行生态修复，如补植复绿，这可作为从轻处罚的情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的构成要件及处罚规定。\n- **《中华人民共和国森林法》第四十四条**：对违反林业管理法律、法规占用、毁坏森林资源、改变林地用途的行为依法查处的规定。\n- **《中华人民共和国行政处罚法》第二十八条**：违法行为构成犯罪，人民法院判处拘役或者有期徒刑时，行政机关已经给予当事人行政拘留的，应当依法折抵相应刑期；违法行为构成犯罪，人民法院判处罚金时，行政机关已经给予当事人罚款的，应当折抵相应罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与认罪态度**：被告人在案发后自动投案，如实供述自己罪行，系自首，依法可以从轻或减轻处罚。例如，【(2018)粤0781刑初129号】、【(2020)闽0623刑初586号】、【(2013)都刑初字第31号】，这些案例中被告人均有自首情节，法院在量刑时予以从轻处罚。\n- **林地植被恢复**：被告人主动进行生态修复，如补植复绿，可酌情从轻处罚。例如，【(2018)粤0781刑初129号】中被告人钟剑成对非法占用的林地进行复绿，取得江门古兜山省级自然保护区管理处的谅解，法院在量刑时予以从轻处罚；【(2020)闽0623刑初586号】中被告人邱裕益在被毁坏的大部分林地上补植复绿，法院在量刑时予以从轻处罚，并适用缓刑。\n- **犯罪情节与社会危害性**：被告人的犯罪情节、社会危害性以及是否造成林地大量毁坏，也是量刑时的重要考虑因素。例如，【(2013)都刑初字第31号】中被告人韩正全、韩正仓非法占用防护林地，造成林地大量毁坏，法院在量刑时考虑了犯罪情节及社会危害性。\n\n综上，林地植被恢复作为非法占用农用地罪量刑时的重要考量因素，能够体现被告人的悔罪态度和对生态环境的修复意愿，法院在判决时会给予从轻处罚的考量。",
+            "单位犯罪中法定代表人责任的认定标准": "### 结论\n在单位犯罪中，法定代表人是否承担刑事责任，主要取决于其是否参与了犯罪行为的决策、组织、指挥或具体实施，以及其行为是否体现了单位的整体意志。法定代表人并非自动成为单位犯罪的直接负责的主管人员，其责任认定需基于其在犯罪中的具体作用。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：规定了单位犯罪的主体为公司、企业、事业单位、机关、团体，且需实施危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《中华人民共和国刑法》第二十五条第一款**：规定了共同犯罪是指二人以上共同故意犯罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **法定代表人是否参与犯罪决策**：法定代表人如果参与了单位犯罪的决策、组织、指挥或具体实施，且其行为体现了单位的整体意志，那么其可能被认定为直接负责的主管人员。例如，【（2015）深中法刑二终字第177号】中，被告人邓某作为被告单位的实际负责人、法定代表人，在共同实施单位犯罪的过程中起主要作用，被认定为直接负责的主管人员。\n- **法定代表人是否知情并默许犯罪行为**：如果法定代表人对单位犯罪行为知情并默许，即使未直接参与决策，也可能被视为直接负责的主管人员。例如，【（2017）渝0112刑初573号】中，王某作为公司法定代表人，对生产对酮产生的废液无防治设施处理的情况知情，且安排私设暗管排放有毒物质，被认定为单位犯罪的直接负责的主管人员。\n- **法定代表人是否采取措施制止犯罪**：如果法定代表人在得知单位犯罪行为后，及时采取措施制止，可能不被视为直接负责的主管人员。例如，【（2019）沪0113刑初2619号】中，某包装材料公司法定代表人马某对朱某选私自印制非法出版物事先不知情，在得知后出面制止，现有证据不能证实某包装材料公司在主观上具有明知和犯罪故意，故不应当认定其构成非法经营罪。\n- **法定代表人是否因失职导致犯罪**：如果法定代表人因失职行为导致单位犯罪，但其并未直接参与犯罪决策或实施，可能不被视为直接负责的主管人员，但可能因失职行为构成其他犯罪。例如，【（2019）苏0706刑初695号】中，被告人臧某作为被告单位江苏爱度建设工程有限公司的法定代表人，因具体实施了犯罪行为，被认定为被告单位犯罪的责任人员。\n\n综上，法定代表人在单位犯罪中的责任认定，关键在于其是否参与了犯罪决策、组织、指挥或具体实施，以及其行为是否体现了单位的整体意志。即使作为法定代表人，如果未参与犯罪决策或实施，且在得知犯罪行为后采取了制止措施，可能不被视为直接负责的主管人员。\n\n#####\n类似案件为：\n【（2017）渝0112刑初573号】：法院生效裁判认为：针对公诉机关关于王某、胡某、白某、邓某污染环境系个人犯罪的指控。公司决策机构成员均知道生产对酮产生的废液无防治设施处理，王某作为公司法定代表人、董事长兼总经理，胡某作为公司安全环保部部长，白某作为公司设备能源部部长，邓某作为排放污水的实施员工，为了公司减少治污成本，在王某的安排下，私设暗管将含有有毒物质的污水直接排入长江，体现的是公司的意志，所谋取的不正当利益归属于单位而非王某、胡某、白某、邓某个人，故本案应认定为单位犯罪。被告人王某应当作为单位的直接负责的主管人员承担污染环境罪的刑事责任，被告人胡某、白某、邓某应当作为单位的直接责任人员承担污染环境罪的刑事责任。\n本案中，四被告人均系初犯，具有自首情节；案发后重庆某化工公司立即停止生产，大力投入，积极整改，使排污设备改造升级，有效解决了排污问题。被告人王某作为公司的法定代表人，年近70岁，案发后积极采取有效措施，防止污染，并自愿购买苗木，修复生态，弥补损失，悔罪表现较好；被告人胡某、白某、邓某受单位领导指派实施犯罪行为，案发后也积极参与整改，并自愿购买苗木，修复生态，弥补损失，悔罪表现较好。综上，对四被告人依法予以从轻处罚。辩护人提出上述意见的理由成立，予以采纳。\n案发前，重庆某化工公司曾因多次以不正当的方式排放污染物的行为被行政处罚，四被告人作为公司职员不但没有及时纠正，修复受损的生态环境，现又通过暗管排放有毒物质，且排放的有毒物质硝基苯类、总氰化物、锰分别超过《污水综合排放标准》一级标准1690倍、30倍、58.5倍，使长江流域受到严重污染或破坏，不宜单处罚金或宣告缓刑。对辩护人建议适用非监禁刑的辩护意见本院不予采纳。\n综上，被告人王某、胡某、白某、邓某违反国家规定，通过暗管排放有毒物质，且排放的污染物中重金属锰超过国家标准十倍，严重污染环境，其行为均构成污染环境罪，依法应予以刑罚处罚。故法院依法作出如上裁判。\n【（2019）沪0113刑初2619号】：《中华人民共和国刑法》第三十条规定：“公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。”对单位犯罪的认定，同样应当坚持主客观相统一原则。对于单位非法经营罪的认定，要求单位不仅在客观方面违反国家规定，实施非法经营行为，而且应当在主观上具有犯罪故意。主观见之于客观，对于单位犯罪的主观故意，也应当结合客观行为进行判定。\n本案中，被告单位某包装材料公司将厂房和印刷设备租赁给了朱某选，朱某选未经被告单位某包装材料公司授权，私下以某包装材料公司名义承接业务，印刷非法出版物6万余本，其非法经营的获利未进入某包装材料公司账户，仅向某包装材料公司支付设备和场地租赁费。某包装材料公司法定代表人马某虽掌握某包装材料公司的营业执照、法人章、银行账户等，但根据同案关系证人续某梅、张某功等人的证言可以印证，马某对朱某选私自印制非法出版物事先不知情，在得知后出面制止，现有证据不能证实某包装材料公司在主观上具有明知和犯罪故意，故不应当认定其构成非法经营罪。公诉机关申请撤回对某包装材料公司的起诉，符合法律规定，应予准许。\n【（2019）苏0706刑初695号】：法院认为，被告单位爱度公司及被告人臧某、杜超以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大，其行为构成合同诈骗罪。被告单位爱度公司与被告人杜超系共同犯罪。被告人臧某作为被告单位爱度公司的法定代表人，实施了犯罪行为，应以单位犯罪的责任人员追究其刑事责任。被告人杜超系累犯，从重处罚。被告人杜超犯罪后自首，可从轻处罚。被告人臧某坦白，可从轻处罚。被告单位退赔部分赃款，可酌情从轻处罚。法院判决如下：\n1. 被告单位爱度公司犯合同诈骗罪，判处罚金人民币三十万元。\n2. 被告人臧某犯合同诈骗罪，判处有期徒刑二年，并处罚金人民币五万元。\n3. 被告人杜超犯合同诈骗罪，判处有期徒刑二年，并处罚金人民币五万元。\n4. 责令被告单位爱度公司及杜超退赔被害单位和个人的经济损失。\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向江苏省连云港市中级人民法院提出上诉。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人及被告单位是否构成非法占用农用地罪。查明情况：公诉人通过林地占用手续缺失、鉴定报告等证据证明构成犯罪；被告人及辩护人对事实无异议，但强调积极办理手续的主观意愿。审判长认为犯罪事实清楚，构成非法占用农用地罪。\n\n2.被告人主观故意认定。查明情况：公诉人认为存在明知故犯的故意；辩护人主张系经验不足导致的过失。审判长认为被告人明知需办手续仍实施占用，具有主观故意。\n\n3.林地毁坏程度认定。查明情况：双方对鉴定报告确认的5.9公顷（被告人负责期间）及11.31公顷（总量）无异议。审判长确认达到\"数量较大\"标准。\n\n4.被告人邢某甲是否具有自首情节。查明情况：公诉人认可自首情节；辩护人通过投案经过、如实供述等证明自首成立。审判长认为自首成立，符合刑法第六十七条规定。\n\n5.植被恢复对量刑的影响。查明情况：辩护人强调已完成11.31公顷植被恢复并通过验收；公诉人认可恢复事实但指出不能免除刑责。审判长认为可作为酌定从轻处罚情节。\n\n6.单位犯罪中法定代表人的责任。查明情况：辩护人强调被告人积极履职；公诉人指出其决策主导作用。审判长认为作为法定代表人应承担主要责任。\n\n7.量刑情节综合考量。查明情况：双方对自首、植被恢复等从轻情节无争议。审判长认为需结合犯罪情节、悔罪表现等综合裁量。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在签订开采合同时明知未取得林地占用手续，存在\"边经营边补办\"的侥幸心理\n- 被告人对林业部门认定的5.9公顷占用面积无异议，承认达到\"数量较大\"标准\n- 被告人解释未能办理手续是因矿区规划与林业保护规划冲突，审批未通过\n- 被告人认可生态修复不能免除刑事责任，自愿认罪认罚\n\n2. 辩护人讯问：\n- 被告人说明曾多次向林业部门提交申请并补充材料，但因审批复杂未获批准\n- 被告人承认对林地占用法律认识不足，但开采中采取了控制范围等措施\n- 被告人详细说明投案经过及如实供述情况\n- 被告人强调已完成11.31公顷植被恢复并通过验收，栽种树木8000余株\n\n3. 审判长讯问：\n- 被告人确认在案发前未收到林业部门正式警告\n- 被告人说明公司曾召开管理层会议决定\"先租用后补办\"的经营策略\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议，辩护人认为供述中关于\"为经营石材厂获取经济利益\"的表述不能直接证明其具有非法占用农用地的主观故意。\n\n2. 公诉人出示多份证人证言（赵某、邢某乙、陈某、后某、杜某、林某乙），均证明被告人未办理林地占用手续即进行开采活动，被告人无异议，辩护人认为这些证言仅能证明客观事实，无法直接证明被告人的主观故意。\n\n3. 公诉人出示多份书证（营业执照、合同书、林权证等），证明涉案主体资质及交易事实，控辩双方均无异议。\n\n4. 公诉人出示勘验笔录、视听资料及林业调查报告，证明林地占用面积达5.9公顷至11.31公顷，被告人无异议，辩护人认为这些证据不能充分证明损害程度达到刑法规定的严重标准。\n\n5. 公诉人出示植被恢复验收证明，证明被告人已按要求完成林地植被恢复工作，控辩双方均无异议。\n\n6. 辩护人出示被告人投案情况说明和植被恢复验收证明，证明被告人具有自首情节并已完成生态修复，公诉人无异议。\n\n7. 被告人表示不申请调取新的证据或通知新的证人到庭。\n\n法庭辩论阶段总结：\n\n1. 关于主观故意问题：\n- 公诉人指控被告人明知需办理审批手续却长期未办，具有违法故意，且银行流水显示未支付相关费用\n- 辩护人辩称被告人持续申请手续表明无违法故意，未缴费系等待审批的正常程序\n\n2. 关于林地毁坏程度：\n- 公诉人出示林业调查报告，认定11.31公顷林地严重毁坏，依据专业检测标准\n- 辩护人质疑毁坏认定缺乏量化标准，指出植被已通过验收恢复\n\n3. 关于自首情节：\n- 公诉人认为被告人在调查后才到案，不符合自首条件\n- 辩护人主张被告人主动到案并如实供述，符合自首规定\n\n4. 关于法律适用：\n- 双方就《刑法》第14条故意认定、《最高人民法院关于审理破坏林地资源刑事案件解释》的适用展开辩论\n- 对《森林法实施条例》关于恢复标准的理解存在分歧",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十二条": "违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法占用农用地罪5.9公顷林地典型案例",
+              "非法占用农用地罪自首情节量刑标准",
+              "非法占用农用地罪植被恢复对量刑影响"
+            ],
+            "非法占用农用地罪5.9公顷林地典型案例": "### 结论\n非法占用农用地罪的判罚尺度与占用农用地的面积、用途改变、造成的破坏程度、是否自首、认罪态度、是否采取补救措施、是否造成经济损失及社会影响等因素密切相关。法院在判罚时会综合考虑上述因素，对被告人的刑事责任进行量刑，并可能要求被告人承担生态修复责任。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪，违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。\n- **《中华人民共和国森林法》（2009年修改）第四十四条**：违反本法规定，进行开垦、采石、采砂、采土、采种、采脂和其他活动，致使森林、林木受到毁坏的，依法赔偿损失；由林业主管部门责令停止违法行为，补种毁坏株数一倍以上三倍以下的树木，可以处毁坏林木价值一倍以上五倍以下的罚款。\n- **《中华人民共和国刑事诉讼法》第二百三十六条第一款第三项、第二百条第三项**：涉及证据不足、事实不清的案件，法院有权撤销原判，宣告被告人无罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **占用农用地的面积和用途改变**：占用农用地面积较大，且改变用途进行非农建设，如【（2019）鄂1182刑初289号】、【（2017）豫0122刑初1112号】，这些案例中，被告人因非法占用农用地面积较大，改变用途，造成农用地大量毁坏，被认定构成非法占用农用地罪。\n- **自首、认罪态度和采取补救措施**：如【（2017）豫0122刑初1112号】中，被告人朱群秀自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚；又如【（2013）都刑初字第31号】中，被告人韩正全、韩正仓系初犯、偶犯，案发后主动交纳恢复林地费及罚金，法院酌情从轻处罚。\n- **是否造成经济损失及社会影响**：如【（2022）辽0602刑初156号】中，非法占用林地种植人参，造成林地大量毁坏，构成非法占用农用地罪，体现了对林地生态功能保护的重视。\n- **是否属于特殊功能区**：如【（2021）闽0212民初2023号】中，被告非法改变用途的山地面积占全部承包地面积的比例达35.46%，造成林地大量毁坏，且属于特殊功能区，法院认为应当原地修复，不得异地替代。\n\n综上，非法占用农用地罪的判罚不仅考虑占用面积和用途改变，还综合考虑被告人的自首、认罪态度、采取的补救措施、造成的经济损失及社会影响，以及是否属于特殊功能区等因素。法院在量刑时会全面考量，确保判决的公正性和合理性。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2022）辽0602刑初156号】：法院生效裁判认为：于某鹏、黄某凤、卢某祥、马某发违反土地管理法规，非法占用林地种植人参，数量较大，造成林地大量毁坏，构成非法占用农用地罪。",
+            "非法占用农用地罪自首情节量刑标准": "### 结论\n非法占用农用地罪中，自首情节是重要的量刑考量因素，可以依法从轻或减轻处罚，尤其是在被告人系初犯、偶犯，且有悔罪表现，愿意承担恢复土地原状责任的情况下，法院更倾向于适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：非法占用农用地罪的定义及处罚。\n- **《中华人民共和国刑法》第六十七条第一款**：自首的规定，犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第七十二条**：缓刑的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是非法占用农用地罪案件中重要的量刑考量因素，可以依法从轻或减轻处罚。例如，【（2017）豫0122刑初1112号】中，朱群秀系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，法院因此对其从轻处罚并适用缓刑。【（2018）闽0121刑初32号】中，被告单位的法定代表人江某某主动到案并如实供述自己的罪行，系自首，依法从轻或减轻处罚。\n- **初犯、偶犯**：在非法占用农用地罪案件中，被告人系初犯、偶犯，且有悔罪表现，愿意承担恢复土地原状责任的，法院更倾向于适用缓刑。例如，【（2017）豫0122刑初1112号】中，朱群秀系初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，法院因此对其从轻处罚并适用缓刑。\n- **恢复土地原状的承诺与行动**：被告人承诺并采取行动恢复被破坏土地原状，可以作为酌情从轻处罚的因素。例如，【（2017）豫0122刑初1112号】中，朱群秀承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，法院因此对其从轻处罚并适用缓刑。\n\n综上，自首、初犯、偶犯以及恢复土地原状的承诺与行动是非法占用农用地罪案件中影响判决的关键因素，法院在量刑时会综合考虑这些因素，尤其是自首情节，可以显著影响量刑结果，甚至导致适用缓刑。\n\n#####\n类似案件为：\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。\n【（2017）豫0122刑初1112号】：法院生效裁判认为：被告人违反土地管理法规，非法占用农用地，改变被占用土地用途，数量较大，造成农用地大量毁坏，其行为已构成非法占用农用地罪。公诉机关指控被告人犯非法占用农用地罪的事实清楚，证据确实充分，应予支持。朱群秀辩护人提出，被告人系自首，初犯、偶犯，认罪态度较好，愿意将涉案林地恢复原状，并提供林地恢复保证金\n85万元，请求对其从轻处罚并适用缓刑的辩护意见。经查，该意见有事实和法律依据，予以采纳。根据《中华人民共和国刑法》第三百四十二条的规定，对朱群秀应在“五年以下有期徒刑或者拘役，并处或者单处罚金”的量刑幅度内判处刑罚。本案在量刑时考虑以下情节：1.被告人犯罪以后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚。2.被告人系初犯，可酌情从轻处罚。3.被告人承诺按照现行国家标准对涉案林地进行恢复，并自愿交纳85万元作为履行恢复义务的保证金，本院已就该款采取诉讼财产保全措施，可酌情从轻处罚。综合上述情节，朱群秀犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，依法可以宣告缓刑。\n环境资源刑事附带民事公益诉讼案件中，原告请求恢复原状的，法院可以依法裁判被告人承担环境修复责任。本案中，朱群秀在未经县级以上林业主管部门批准的情况下，擅自毁坏承包地内的林地，用以硬化道路、修建仓库、开设陶瓷城，且截至目前其所建地块上建筑物尚未拆除完毕，故其应当承担排除妨碍、恢复原状的民事责任。故公益诉讼机关要求被告人排除妨碍、恢复原状的诉讼请求，应予支持。\n公益诉讼机关委托中牟县林业园林局制定的《朱群秀涉案林地恢复方案》，各方均无异议，本院予以确认。该方案显示：应将占用地块上的建筑物及地面硬化全部拆除，建筑垃圾全面清理完毕，就近取土进行覆盖，覆土深度不小于\n1米，将所占地块恢复至适宜造林地块。故朱群秀应当在本判决确定的期限内按照本院确认的《林地恢复方案》履行恢复义务。公益诉讼机关主张评估费用15600元，属于诉讼合理支出，应予支持。河南省中牟县人民法院于\n2017年12月20日作出（2017）豫0122刑初1112号刑事附带民事判决：一、被告人朱群秀犯非法占用农用地罪，判处有期徒刑二年零二个月，缓刑三年，并处罚金人民币40000元。二、被告人朱群秀于本判决生效之日起六个月内排除妨碍，并按照本院确认的《朱群秀涉案林地恢复方案》恢复原状。宣判后，被告人朱群秀及公益诉讼机关均未提出上诉，公诉机关亦未抗诉，判决已发生法律效力。",
+            "非法占用农用地罪植被恢复对量刑影响": "### 结论\n非法占用农用地罪中，植被恢复作为被告人积极修复生态环境的行为，是法院量刑时的重要考量因素。被告人主动进行植被恢复，尤其是补植复绿并承诺管护，可以作为酌定从轻处罚的情节，有助于减轻刑罚。但植被恢复的效果和态度必须得到法院的认可，且不能替代刑事处罚，仅作为量刑时的考量因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十二条**：规定非法占用农用地罪的构成要件和处罚。\n- **《中华人民共和国刑法》第六十七条第一款**：规定自首可以从轻或减轻处罚。\n- **《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第一条**：规定非法占用林地数量较大，造成林地大量毁坏的，构成非法占用农用地罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首和认罪态度**：被告人主动投案并如实供述自己的罪行，属于自首，依法可以从轻或减轻处罚。例如，【（2020）云0828刑初207号】、【（2019）闽0121刑初219号】、【（2014）澄环刑初字第0001号】中，被告人均因自首而获得从轻处罚。\n- **植被恢复和生态修复**：被告人积极进行生态修复，如补植复绿并承诺管护，可以作为酌定从轻处罚的情节。例如，【（2019）闽0121刑初219号】中，被告人与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，获得从轻处罚。\n- **民事责任与刑事责任的并行**：即使被告人承担了刑事责任，仍需承担恢复被破坏土地原状的民事责任。例如，【（2014）澄环刑初字第0001号】中，被告人除承担刑事责任外，还应承担恢复被破坏土地原状的民事责任。\n\n综上，非法占用农用地罪的量刑中，自首、认罪态度、植被恢复和生态修复是关键因素。被告人主动进行植被恢复，尤其是补植复绿并承诺管护，可以作为酌定从轻处罚的情节，有助于减轻刑罚。但植被恢复的效果和态度必须得到法院的认可，且不能替代刑事处罚，仅作为量刑时的考量因素。\n\n#####\n类似案件为：\n【（2019）闽0121刑初219号】：法院生效裁判认为：被告单位某公司违反国家林业管理法规，未经审批占用农用地138.51亩，其行为已构成非法占用农用地罪。被告人黄某作为该单位的法定代表人和主要负责人，对被告单位的犯罪行为负有直接责任，依法应以非法占用农用地罪追究其刑事责任。被告单位某公司的法定代表人及实际经营人被告人黄某主动投案并如实供述自己的罪行，被告单位、被告人黄某均系自首，依法均可从轻或减轻处罚。被告人黄某积极进行生态修复，与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，可酌情予以从轻处罚。\n【（2019）闽0121刑初219号】：法院生效裁判认为：被告单位某公司违反国家林业管理法规，未经审批占用农用地138.51亩，其行为已构成非法占用农用地罪。被告人黄某作为该单位的法定代表人和主要负责人，对被告单位的犯罪行为负有直接责任，依法应以非法占用农用地罪追究其刑事责任。被告单位某公司的法定代表人及实际经营人被告人黄某主动投案并如实供述自己的罪行，被告单位、被告人黄某均系自首，依法均可从轻或减轻处罚。被告人黄某积极进行生态修复，与专业园林公司签订合同，种植指定樱花树150棵，承诺管护一年，可酌情予以从轻处罚。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 50000.0,
+    "reprieve": 24.0
+  }
+]

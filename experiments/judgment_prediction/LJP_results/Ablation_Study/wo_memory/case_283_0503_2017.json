@@ -1,0 +1,2284 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人刘某甲，性别男，户籍XXX被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "长春市南关区人民检察院  \n起 诉 书  \n\n长南检一部刑诉〔2019〕166号  \n\n被告人刘某甲，男，户籍XXX。因涉嫌职务侵占罪，于2019年5月5日被长春市公安局朝阳区分局刑事拘留，现羁押于长春市看守所。  \n\n本案由长春市公安局朝阳区分局侦查终结，以被告人刘某甲涉嫌职务侵占罪，于2019年8月13日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2018年1月至5月间，被告人刘某甲利用担任哈尔滨顶津食品有限公司长春分公司销售员的职务便利，采取低价出售公司货物并截留货款的手段，侵占公司货款人民币215592元。经鉴定，涉案康师傅冰红茶等15项饮料价值人民币222592元。案发前，被告人返还被害单位人民币7000元。  \n\n认定上述事实的证据如下：  \n1. 书证：抓获经过、情况说明、微信交易记录、银行转账记录、银行交易明细、转账明细、借条、收条、劳动合同书、出货明细表、出货单、临时羁押证明、在逃人员登记表；  \n2. 证人证言：证人米某、郑某、陈某、刘某乙、李某甲、张某甲、张某乙、马某、许某、叶某、唐某、徐某、赵某、齐某、李某乙、王某、孙某、娄某的证言；  \n3. 鉴定意见：长春市价格认证中心出具的鉴定意见；  \n4. 其他证据：辨认笔录及照片、书面材料、营业执照、常住人口数据查询详细信息。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人刘某甲对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人刘某甲利用职务便利，将本单位财物非法据为己有，数额较大，其行为触犯了《中华人民共和国刑法》第二百七十一条第一款之规定，犯罪事实清楚，证据确实、充分，应当以职务侵占罪追究其刑事责任。被告人刘某甲到案后如实供述犯罪事实，系坦白，根据《中华人民共和国刑法》第六十七条第三款之规定，依法可以从轻处罚。建议判处被告人刘某甲有期徒刑XX，缓刑XX，并责令退赔被害单位人民币XX元，判处罚金人民币XX元。  \n\n此致  \n长春市南关区人民法院  \n\n检 察 官 纪某  \n检察官助理 XXX  \n2019年8月13日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪。我确实利用职务便利侵占了公司货款，对此我深感后悔。案发前我已经返还了7000元，愿意继续赔偿公司损失。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人刘某甲，你在2018年1月至5月担任哈尔滨顶津食品有限公司长春分公司销售员期间，是否利用职务便利将公司货物低价出售并截留货款？具体金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我确实利用职务便利低价出售公司货物并截留货款。经鉴定实际货款是215592元，市场价值222592元。案发前我已经返还了7000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款主要用于什么用途？是否如你供述所述用于缓解个人经济压力？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，截留的货款主要用于偿还个人债务和生活开支。当时确实因为经济压力大才做出这样的错误决定。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你实施上述行为时，是否清楚这是违反公司规定和触犯刑法的行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我当时知道这样做是违反公司规定和违法的行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发前你仅返还被害单位7000元，剩余208592元未退赔的原因是什么？是否有能力继续退赔？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时经济状况确实很困难，所以只返还了7000元。现在我愿意尽最大努力继续退赔，但需要一定时间来筹措资金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在被公安机关抓获后，是否如实供述了全部犯罪事实？有无隐瞒或虚假陈述？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我被抓获后如实供述了全部犯罪事实，没有隐瞒或虚假陈述。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为公司销售人员，是否清楚公司规定的正常销售流程和货款结算制度？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "清楚公司规定的正常销售流程和货款结算制度。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你低价销售公司货物的行为是否经过公司授权或批准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过公司授权或批准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害单位是否就退赔事宜进行过协商？是否取得被害单位的谅解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有与被害单位进行过退赔协商，目前尚未取得被害单位的谅解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你低价销售公司货物的具体操作方式是什么？是否与他人合谋？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我通过修改销售单据的方式低价出售货物，并将差额部分据为己有。整个过程都是我一个人操作的，没有与他人合谋。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就犯罪事实、主观故意、退赔情况等关键问题进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与公司签订的劳动合同中约定的销售价格与实际销售价格是否存在差异？具体差异比例是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司规定的销售价格与实际销售价格存在差异，具体差异比例大约在3%左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你截留的货款具体用于哪些用途？是否全部用于个人消费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于偿还个人债务和家庭日常开支，没有全部用于个人消费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你返还给公司的7000元是在什么情况下支付的？是否系主动退还？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是在公安机关开始调查后，我主动退还的7000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "公司对于销售价格是否有明确的制度规定？你低价销售的行为是否得到过上级默许？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司有明确的销售价格制度规定。我低价销售的行为没有得到过上级默许。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就价格差异、货款用途、退赔情况等关键问题进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你作为销售员，具体负责哪些销售区域和客户群体？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我负责长春市部分区域的超市和便利店客户。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你低价销售货物的具体操作方式是什么？是否每次都采用相同的手法？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我主要通过修改销售单据的方式低价出售货物，每次都会根据客户情况调整价格，但基本都采用类似的手法。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你低价销售货物的行为持续了多长时间？具体从何时开始到何时结束？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "从2018年1月开始到2018年5月结束，持续了5个月时间。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你低价销售货物的价格与公司规定价格的差额是如何确定的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "差额是根据客户情况自行确定的，一般比公司规定价格低3%左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你低价销售货物的行为是否被公司其他人员发现过？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有被公司其他人员发现过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。2018年1月至5月间，我在担任哈尔滨顶津食品有限公司长春分公司销售员期间，利用职务便利，将公司的康师傅冰红茶等饮料低价出售给客户，并截留了部分货款。经鉴定，涉及的15项饮料实际货款为215592元，市场价值为222592元。案发前，我返还了被害单位7000元。  \n\n（2）犯案动机。由于个人经济压力较大，我产生了通过低价销售公司货物并截留部分货款来缓解自身财务困难的想法。  \n\n（3）案发之后的处理。我没有主动自首，公安机关在侦查过程中将我抓获。案发后我返还了部分货款7000元，但尚未完全赔偿被害单位损失。目前未与被害单位达成和解，也未取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人的供述仅能证明其低价销售行为，但无法直接证明其主观上具有非法占有目的。且供述中提到的市场价值222592元与鉴定意见存在差异，该部分内容应属鉴定意见范畴，不应作为被告人供述的证明内容。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人供述中关于市场价值的表述与鉴定意见一致，且该部分内容系被告人根据鉴定结果作出的确认性陈述，具有证明力。被告人供述详细描述了其利用职务便利低价销售并截留货款的主观故意和客观行为，与在案其他证据相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已经充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：抓获经过，证实被告人刘某甲被抓获的经过，由长春市公安局朝阳区分局依法出具，载明抓获时间、地点及程序符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：情况说明，由哈尔滨顶津食品有限公司长春分公司出具并加盖公章，内容与案件事实相符，经公安机关核实确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "情况说明仅能证明被害单位对案件事实的陈述，但无法独立证明被告人的具体侵占行为，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "情况说明系被害单位对案件事实的客观陈述，与被告人供述、银行转账记录等证据相互印证，能够证明被告人利用职务便利侵占公司货款的事实，具有证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已经充分表达。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：微信交易记录，由公安机关依法调取并出具提取说明，包含完整交易时间、金额及对方账户信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "微信交易记录仅能证明资金往来情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "微信交易记录与银行转账记录、出货单等证据相互印证，能够形成完整证据链，证明被告人低价销售货物并截留货款的事实。该证据与被告人供述中关于资金流向的陈述完全一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对微信交易记录的证据效力已充分表达各自观点，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：银行转账记录，由中国人民银行长春中心支行协助调取，包含账户全称、交易日期及完整流水号",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "银行转账记录仅能证明资金流向，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：银行交易明细，由中国工商银行长春分行提供并加盖业务章，记录涵盖涉案时段全部存取款及转账记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "银行交易明细仅能证明资金流动情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：转账明细，经公安机关与银行系统数据比对确认，包含交易双方账户信息及资金流向说明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "转账明细仅能证明资金流动情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：借条，经笔迹鉴定确认系刘某甲本人签署，附有见证人李某甲的签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "借条仅能证明被告人与他人存在借贷关系，与本案职务侵占行为无直接关联，无法证明被告人的具体侵占行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "借条证明被告人存在经济困难，与其供述中关于侵占动机的陈述相互印证，能够佐证其犯罪动机和主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对借条证据的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：收条，记载款项交付时间、金额及用途，经司法鉴定确认形成时间与案件事实相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "收条仅能证明款项交付情况，与本案职务侵占行为无直接关联，无法证明被告人的具体侵占行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "收条证明被告人返还被害单位7000元的事实，与其供述中关于部分退赔的陈述相互印证，能够证明其部分退赔行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对收条证据的争议焦点已充分表达。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：劳动合同书，经哈尔滨顶津食品有限公司人力资源部确认备案，包含双方签字及劳动部门鉴证章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：出货明细表，由公司仓储系统自动生成，经审计部门核对与实物出库记录一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "出货明细表仅能证明货物出库情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "出货明细表与银行转账记录、微信交易记录相互印证，能够证明被告人低价销售货物并截留货款的事实，形成完整证据链。该证据与被告人供述中关于货物销售情况的陈述完全一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对出货明细表的证据效力已充分表达各自观点，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：出货单，每单均有经办人张某乙、复核人马某双重签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "出货单仅能证明货物出库情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "出货单与被告人供述、银行转账记录等证据相互印证，能够证明被告人低价销售货物并截留货款的事实，形成完整证据链。该证据与被告人供述中关于货物销售情况的陈述完全一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对出货单证据的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：临时羁押证明，由长春市看守所依法出具，载明入所体检记录及办案机关交接手续",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：在逃人员登记表，由公安部全国在逃人员信息系统生成，包含案件编号及上网追逃审批记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人米某的证言经公安机关制作询问笔录，并与其银行账户收款记录相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人米某的证言仅能证明其与被告人的交易情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人米某的证言与银行转账记录、出货单等客观证据相互印证，能够证明被告人低价销售货物并截留货款的事实，形成完整证据链。该证言与被告人供述中关于交易情况的陈述一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证人证言的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人郑某的证言与公司监控录像记录的货物交接过程相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人郑某的证言仅能证明货物交接过程，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人陈某的证言经法庭当庭质证，其作为财务人员提交了对应的账款差异报表",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人陈某的证言仅能证明公司账目存在差异，无法直接证明该差异系由被告人侵占行为造成，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人陈某的证言与银行转账记录、出货单等客观证据相互印证，能够证明被告人低价销售货物并截留货款的事实，形成完整证据链。该证言与被告人供述中关于账目差异的陈述一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证人陈某证言的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人刘某乙的证言与审计报告载明的货款短缺金额一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人刘某乙的证言仅能证明公司账目存在短缺，无法直接证明该短缺系由被告人侵占行为造成，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人李某甲的证言经公证处公证，陈述内容与微信聊天记录相互佐证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人李某甲的证言仅能证明其与被告人的交流情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人李某甲的证言与微信聊天记录、银行转账记录等客观证据相互印证，能够证明被告人低价销售货物并截留货款的事实，形成完整证据链。该证言与被告人供述中关于交易情况的陈述一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证人李某甲证言的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人张某甲的证言有其签名的书面陈述材料，并附员工身份证明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人张某甲的证言仅能证明其个人观察情况，无法直接证明被告人主观上具有非法占有目的，与案件关键事实的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人张某甲的证言与出货单、银行转账记录等客观证据相互印证，能够证明被告人低价销售货物并截留货款的事实，形成完整证据链。该证言与被告人供述中关于销售行为的陈述一致，具有充分证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证人张某甲证言的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人张某乙的证言与货物运输GPS轨迹记录相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人马某的证言经侦查实验验证，其所述货物装卸过程符合实际操作规范",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人许某的证言与被告人供述的关键时间点吻合",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人叶某作为公司监察部主任，其证言附有公司规章制度文本作为依据",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人唐某的证言与扣押物品清单记载的货物批号对应",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人徐某的证言经测谎仪测试显示未作虚假陈述",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人赵某的证言有同期录音录像资料佐证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人齐某的证言与公司追回货款的银行入账凭证相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人李某乙的证言经其他三名证人独立陈述印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.证人证言：证人王某的证言与其工作日志记载的货物调度记录一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.证人证言：证人孙某的证言经会计师事务所测算，所述损失金额与财务数据误差率小于3%",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.证人证言：证人娄某的证言与被告人手机提取的销售沟通录音相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.鉴定意见：由长春市价格认证中心出具，鉴定人员具备司法鉴定资质，附完整取样照片及市场比价依据",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "价格鉴定意见的市场比价依据不充分，未考虑实际销售折扣因素，与被告人供述中提到的3%左右价格差异不符，不能准确反映涉案货物的实际市场价值。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "价格鉴定由具备资质的专业机构依法作出，取样过程规范，市场比价依据充分。鉴定意见与被告人供述中关于实际销售价格的差异，恰恰证明被告人以低于市场价3%的价格销售并截留差额的犯罪事实，与案件其他证据相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对价格鉴定意见的争议焦点已充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n第一，本案证据确实充分。被告人刘某甲利用职务便利低价销售并截留货款215592元的犯罪事实，有微信交易记录、银行转账记录等书证与18名证人证言相互印证，形成完整证据链。根据《刑法》第二百七十一条，已构成职务侵占罪。\n\n第二，涉案金额巨大。经长春市价格认证中心鉴定，涉案货物市场价值222592元，远超职务侵占罪\"数额较大\"6万元的入罪标准。根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条，应认定为\"数额较大\"。\n\n第三，被告人主观恶性明显。其明知行为违法仍持续5个月实施犯罪，虽返还7000元但未完全退赔，社会危害性较大。根据《刑法》第六十七条第三款，虽可认定坦白从轻，但不足以减轻其罪责。\n\n第四，所有证据取证程序合法。书证均经公安机关依法调取，价格鉴定由具备资质的机构出具，证人证言经法定程序收集，部分有录音录像佐证，证明力强。\n\n综上，建议法庭依法认定被告人刘某甲犯职务侵占罪，并考虑其未完全退赔、未取得谅解等情节，依法判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于价格鉴定意见。长春市价格认证中心出具的鉴定意见中3%的价格差异属于正常销售折扣范围，不能直接证明被告人具有非法占有目的。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十五条，鉴定意见应当结合全案证据审查判断。\n\n第二，关于主观故意。微信交易记录和银行转账记录仅能证明资金流向，无法直接证明被告人主观上具有非法占有目的。部分证人证言仅能证明货物交接和账目差异，无法直接证明被告人的具体侵占行为。\n\n第三，关于量刑情节。被告人已主动返还部分货款7000元，具有悔罪表现。根据《刑法》第六十七条第三款，可以从轻处罚。被告人系初犯，主观恶性较小。根据《最高人民法院关于常见犯罪的量刑指导意见》，应当从宽处理。\n\n第四，关于犯罪金额。建议将犯罪金额扣除已返还部分，实际侵占数额为208592元。被告人自愿认罪认罚，根据《刑事诉讼法》第十五条，可以依法从宽处理。\n\n综上，恳请法庭考虑被告人认罪态度良好、主动退赔等情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于价格鉴定意见，3%的价格差异并非正常销售折扣。根据被告人供述，其擅自降低售价并截留差额的行为未经公司授权，具有明显的非法占有目的。鉴定意见与被告人供述、银行转账记录等证据相互印证，足以认定犯罪事实。\n\n关于主观故意，被告人作为销售人员，明知公司规定仍持续5个月实施低价销售并截留货款的行为，其主观故意明显。微信交易记录、银行转账记录与18名证人证言形成完整证据链，足以证明其犯罪故意。\n\n关于量刑情节，被告人虽返还7000元，但仅占涉案金额的3.2%，未完全退赔且未取得谅解，社会危害性仍然较大。根据《刑法》第二百七十一条规定，应当依法惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于价格差异问题，3%的销售折扣在快消品行业属于合理商业行为范畴，不能简单等同于非法侵占。根据《价格法》相关规定，经营者有权在合理范围内自主定价。被告人作为一线销售人员，根据市场情况调整价格属于正常商业判断。\n\n关于主观故意认定，现有证据仅能证明存在账目差异，无法直接证明被告人具有非法占有目的。根据《刑事诉讼法》第五十三条，认定被告人有罪必须达到证据确实、充分的证明标准。\n\n关于退赔情况，被告人在案发前已主动返还7000元，表明其有悔罪意愿。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于积极退赔的被告人应当从宽处理。建议法庭考虑被告人经济状况，给予分期退赔的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于价格差异问题，被告人擅自降低售价3%的行为明显违反公司规定，且将差额据为己有，已超出正常商业判断范畴。根据《刑法》第二百七十一条，利用职务便利非法占有单位财物即构成职务侵占罪，无需证明其主观上具有非法占有的目的。\n\n关于证据充分性问题，本案已形成完整证据链。18名证人证言、银行转账记录、微信交易记录与被告人稳定供述相互印证，足以证明犯罪事实。根据《刑事诉讼法》第五十五条，证据之间相互印证即达到确实、充分的证明标准。\n\n关于退赔情节，被告人仅返还3.2%的涉案金额，远不足以弥补被害单位损失。根据《最高人民法院关于常见犯罪的量刑指导意见》，未全额退赔且未取得谅解的，不应从宽处理。建议法庭综合考虑其犯罪金额达21万余元、持续时间长达5个月等情节，依法惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于价格差异问题，3%的销售折扣在快消品行业属于正常商业行为范畴，且被告人作为一线销售人员，根据市场情况调整价格属于合理商业判断。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，正常商业行为与违法犯罪行为应当严格区分。\n\n关于证据链问题，现有证据仅能证明存在账目差异和资金流向，无法形成完整的非法占有故意证明链条。根据《刑事诉讼法》第五十五条，对被告人主观故意的认定应当达到排除合理怀疑的标准。\n\n关于退赔情节，被告人已主动返还部分货款，表明其有悔罪意愿。根据《最高人民法院关于适用认罪认罚从宽制度的指导意见》第七条，对于认罪认罚且部分退赔的被告人，应当依法从宽处理。建议法庭考虑给予被告人继续退赔的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的行为深感后悔，认罪认罚。我确实利用职务便利侵占了公司货款，给公司造成了损失。案发前我已主动返还7000元，愿意继续赔偿公司全部损失。我是初犯，因经济压力一时糊涂犯下错误，恳请法庭从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "长春市南关区人民法院\n刑事判决书\n（2019）吉0102刑初166号\n\n公诉机关长春市南关区人民检察院。\n被告人刘某甲，男，户籍XXX，因涉嫌职务侵占罪于2019年5月5日被刑事拘留，现羁押于长春市看守所。\n辩护人XXX（姓名、性别、工作单位和职务）。\n\n长春市南关区人民检察院于2019年8月13日以被告人刘某甲犯职务侵占罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。长春市南关区人民检察院检察员纪某出庭支持公诉，被告人刘某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n长春市南关区人民检察院指控：2018年1月至5月间，被告人刘某甲利用担任哈尔滨顶津食品有限公司长春分公司销售员的职务便利，采取低价出售公司货物并截留货款的手段，侵占公司货款人民币215592元。经鉴定，涉案康师傅冰红茶等15项饮料价值人民币222592元。案发前，被告人返还被害单位人民币7000元。公诉机关认为，被告人刘某甲的行为已构成职务侵占罪，建议判处有期徒刑并适用缓刑，责令退赔。\n\n被告人刘某甲对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人认罪态度良好、主动退赔等从宽情节，请求从轻处罚。\n\n经审理查明：2018年1月至5月，被告人刘某甲利用担任哈尔滨顶津食品有限公司长春分公司销售员的职务便利，通过修改销售单据的方式低价出售公司货物并截留货款，共计侵占公司货款215592元。案发前已返还7000元。上述事实有被告人供述、微信交易记录、银行转账记录、出货单等书证，18名证人证言，价格鉴定意见等证据证实，证据间相互印证，足以认定。\n\n本院认为，被告人刘某甲利用职务便利，将本单位财物非法据为己有，数额较大，其行为已构成职务侵占罪。公诉机关指控的犯罪事实清楚，证据确实、充分，罪名成立。被告人到案后如实供述犯罪事实，系坦白，依法可以从轻处罚。鉴于被告人认罪悔罪，已部分退赔，可酌情从轻处罚。辩护人关于从轻处罚的意见予以采纳。依照《中华人民共和国刑法》第二百七十一条第一款、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款之规定，判决如下：\n\n一、被告人刘某甲犯职务侵占罪，判处有期徒刑一年六个月，缓刑二年；\n二、责令被告人刘某甲退赔被害单位哈尔滨顶津食品有限公司长春分公司人民币208592元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向长春市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2019年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人刘某甲是否利用职务便利实施侵占行为。需要查明其作为销售员的具体职责范围，是否具有管理和经手涉案货物的职权，以及实施侵占行为与职务便利之间的直接因果关系。\n\n2.涉案金额的认定问题。需要核实被告人实际侵占的货款金额215592元是否准确，以及案发前返还的7000元是否应从犯罪金额中扣除。\n\n3.被告人主观故意认定。需要查明被告人实施侵占行为时的主观动机和目的，是否存在非法占有的直接故意。\n\n4.量刑情节认定。需要核实被告人到案后是否如实供述犯罪事实构成坦白，以及是否具有其他从轻或从重处罚情节。\n\n5.退赔及罚金问题。需要查明被告人退赔被害单位的具体情况，以及检察机关建议的罚金数额是否适当。\n\n6.是否适用缓刑。需要评估被告人犯罪情节、悔罪表现及再犯可能性，判断是否符合适用缓刑的条件。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中'利用职务便利'的认定标准",
+              "职务侵占罪中'数额较大'的具体认定标准"
+            ],
+            "职务侵占罪中'利用职务便利'的认定标准": "### 结论\n职务侵占罪中“利用职务便利”的认定，关键在于行为人是否利用了其在单位中主管、管理或经手单位财物的职责，以及这种利用是否直接基于其工作职责。即使行为人不具有对外销售或处置货物的权限，也不影响利用职务便利的认定。利用职务便利实施的窃取行为，即使同时符合盗窃罪的构成要件，也应优先认定为职务侵占罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：规定了职务侵占罪的构成要件，包括利用职务上的便利，将本单位财物非法占为己有的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否具有主管、管理或经手单位财物的职责**：如果行为人具有主管、管理或经手单位财物的职责，即使其不具有对外销售或处置货物的权限，也构成利用职务便利。例如，【（2020）京02刑终502号】中，张某作为仓储部主管，对仓库及仓储货品具有管理和经手的职责，即使无销售权，仍构成职务侵占罪。\n- **行为人是否利用了主管、管理或经手单位财物的职务便利**：行为人利用其主管、管理或经手单位财物的职务便利，即使与职务上的便利并无直接关系的行为，如熟悉作案环境，也应考虑职务便利对犯罪完成所起的作用。例如，【（2022）苏02刑终12号】中，黄某作为补货员，虽接触货物时间短暂，但因工作需要一度经手单位财物，构成职务侵占罪。\n- **行为人身份与职务侵占罪主体要件的符合性**：行为人是否为公司、企业或其他单位的工作人员，包括正式职工、合同工和临时工等，只要符合职务侵占罪的主体要件，即利用职务上的便利非法占有单位财物，均构成职务侵占罪。例如，【（2007）郑铁刑初字第10号】中，贺某松作为临时装卸工，利用职务上的便利非法占有单位财物，构成职务侵占罪。\n\n综上，职务侵占罪中“利用职务便利”的认定，不仅要看行为人是否具有主管、管理或经手单位财物的职责，还要看其是否利用了这些职责，即使行为人不具有对外销售或处置货物的权限，也不影响利用职务便利的认定。在行为人利用职务便利实施窃取行为时，即使同时符合盗窃罪的构成要件，也应优先认定为职务侵占罪。\n\n#####\n类似案件为：\n【（2020）京02刑终502号】：法院生效判决认为：在案某公司出具的张某劳动合同、岗位职责证明及多名证人证言能够相互印证，证明张某担任某公司仓储部主管，具有以下职责：一、制定仓储计划，保证仓库有效、安全运行。了解仓库库房情况，包括货物入库时间、仓库的库容、设备、人员变动情况；必要时对仓库进行系统的清查工作，清理归位，腾出仓库，提高货物周转效率；建立货物入库台账，每日严格进行货物入库记录及统计，随时了解仓库及人员情况；建立货物出库台账，每日进行货物出库记录及统计，随时了解仓库及人员情况；二、部门日常管理工作。安排库房各岗位人员的日常工作，保证货物进出库有序、准确、准时；监督、指挥库管人员，帮助其顺利完成货物出库前准备、理货、出库、分拣，安排装卸的工作流程，并合理调派装卸工，达到组织、协调工作；按照制度要求及时填报收、发、存月报表，定期抽查货物与登记是否物、账相符；三、负责与其他部门的交接工作。与运输部门衔接好物品出库、入库工作；与信息部门做好数据输入、输出管理工作，根据相关票据做好出、入库管理工作；与营运部门、财务部门定期进行对账、盘点工作。其工作责任系保证仓储货物的安全及仓库的有效利用，对因仓储管理不善造成的损失负责。综上，张某作为公司仓储部主管对于公司相关仓库及仓储货品具有管理和经手的职责，其是否具有对外销售及处置货物的权力，与其具有管理和经手货物的职权并不矛盾，且窃取型职务侵占行为即使不具有对外销售或处置货物的权力亦不影响利用职务便利要件的认定，故张某利用职务上的便利，窃取公司财物的行为，符合职务侵占罪的构成要件，依法应认定为职务侵占罪。二审法院据此作出生效判决。\n【（2007）郑铁刑初字第10号】：法院生效裁判认为：本案中，被告人贺某松作为中铁快运股份有限公司郑州站营业部招聘的委外装卸工，虽未与铁路公司依法签订劳动合同，却长期在火车站任装卸工，两者之间存在“事实劳动关系”，依法应认定为单位工作人员。贺某松系火车站行包房装卸工，其在车站行包房的职责是根据行李员方向清单进行清点与接车，对列车所卸入库的货物装卸办理交接手续等，其对中转的货物具有一定的管理权和经手权。贺某松的盗窃行为，就是利用其当班管理、经手这些财物的职务之便，在自己负责的中转货物的库区对其管理、经手的货物实施掏芯手段将财物非法占为己有，完全可以认定为利用了职务上的便利而窃取单位财产，从而构成职务侵占罪。",
+            "职务侵占罪中'数额较大'的具体认定标准": "### 结论\n职务侵占罪中“数额较大”的具体认定标准根据最高人民法院、最高人民检察院发布的《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款的规定，职务侵占罪中的“数额较大”的起点为6万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照本解释关于受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪金额的认定**：职务侵占罪的犯罪金额应当以行为人实际侵占单位财物的金额作为犯罪金额，依法不扣除为完成犯罪支付的成本。例如，【（2020）苏0412刑再2号】中，原审被告人赵丽、吕锋共同实施犯罪的犯罪金额为157000元，根据职务侵占罪数额较大的起点为6万元，其犯罪金额属于“数额较大”。\n- **犯罪主体的身份**：职务侵占罪的犯罪主体必须是公司、企业或者其他单位的人员。例如，【（2020）沪0105刑初259号】中，被告人石磊身为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。\n- **犯罪行为的性质**：行为人是否利用了职务上的便利，将本单位财物非法占为己有。例如，【（2022）苏02刑终12号】中，原审被告人黄某作为被害单位的补货员，根据公司规定在补货过程中暂时占有涉案财物，承担损毁灭失的风险，应当认定黄某在此过程中对该财物具有经手之便，其行为符合职务侵占罪的犯罪构成。\n\n综上，职务侵占罪的认定需要考虑犯罪金额是否达到“数额较大”的标准，犯罪主体是否为公司、企业或者其他单位的人员，以及犯罪行为是否利用了职务上的便利。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）沪0105刑初259号】：法院认为，被告人石磊身为公司工作人员，利用职务便利将单位财物非法占为己有，数额较大，构成职务侵占罪。石磊系自首，且自愿认罪认罚，依法从轻处罚。职务侵占数额应按被告人非法占有的数额认定，而非额外造成的单位损失计入。辩护人与此相关的辩护意见被采纳。一、被告人石磊犯职务侵占罪，判处有期徒刑三年四个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月30日起至2022年11月29日止。)\n二、扣押的作案工具华为手机一部予以没收；责令被告人石磊退赔违法所得发还被害单位一XXXXXXXXXX司。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.被告人在侦查阶段的供述明确承认利用职务便利低价销售并截留货款215592元，与书证微信交易记录、银行转账记录等形成完整证据链 2.鉴定意见证实涉案货物市场价值222592元，远超职务侵占罪\"数额较大\"6万元的入罪标准 3.被告人虽返还7000元但未完全退赔，社会危害性较大 4.18名证人证言与书证相互印证，证明犯罪事实清楚\n防御策略：1.所有书证均经公安机关依法调取并附提取说明，程序合法 2.价格鉴定由具备资质的机构出具，取样照片和市场比价依据完整 3.证人证言均经法定程序收集，部分有录音录像佐证，证明力强",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中数额较大的认定标准",
+              "职务侵占罪中坦白情节的从轻处罚幅度"
+            ],
+            "职务侵占罪中数额较大的认定标准": "### 结论\n职务侵占罪中数额较大的认定标准根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款的规定，职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。根据该解释的规定，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪金额**：犯罪金额是职务侵占罪定罪量刑的关键因素。例如，【（2020）苏0412刑再2号】中，原审被告人赵丽、吕锋共同实施犯罪的犯罪金额为157000元，原审判决认定原审被告人赵丽、吕锋共同实施犯罪数额巨大显属不当，应当依法予以纠正。原审被告人赵丽、吕锋共同实施犯罪数额较大，应处五年以下有期徒刑或者拘役。\n- **犯罪未遂**：如果犯罪行为因意志以外的原因未得逞，属于犯罪未遂，可以作为量刑时的考虑因素。例如，【（2020）苏0412刑再2号】中，二原审被告人着手实施犯罪后，因其意志以外的原因而未得逞，属犯罪未遂。\n- **自首和认罪态度**：自首和认罪态度是量刑时的重要考虑因素。例如，【（2020）沪0105刑初259号】中，被告人石磊犯罪以后主动投案，并如实供述自己的罪行，系自首，且自愿认罪认罚，依法从轻处罚。\n- **退赔和谅解**：退赔和取得被害人的谅解可以作为量刑时的从轻处罚因素。例如，【（2020）粤0306刑初3883号】中，被告人汪伟在案发后退还侵占的款项共计人民币30000元，且在庭后双方已达成谅解，公诉机关提出的可调整为有期徒刑六个月的量刑建议，本院予以采纳。\n\n综上，职务侵占罪的定罪量刑需要综合考虑犯罪金额、犯罪未遂、自首和认罪态度、退赔和谅解等因素。犯罪金额是决定罪名和量刑档次的关键，而其他因素则在量刑时起到从轻或减轻处罚的作用。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）沪0105刑初259号】：法院认为，被告人石磊身为公司工作人员，利用职务便利将单位财物非法占为己有，数额较大，构成职务侵占罪。石磊系自首，且自愿认罪认罚，依法从轻处罚。职务侵占数额应按被告人非法占有的数额认定，而非额外造成的单位损失计入。辩护人与此相关的辩护意见被采纳。一、被告人石磊犯职务侵占罪，判处有期徒刑三年四个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月30日起至2022年11月29日止。)\n二、扣押的作案工具华为手机一部予以没收；责令被告人石磊退赔违法所得发还被害单位一XXXXXXXXXX司。",
+            "职务侵占罪中坦白情节的从轻处罚幅度": "### 结论\n在职务侵占罪中，坦白情节的从轻处罚幅度受到罪行轻重、坦白的时间、坦白的程度以及坦白的价值等多方面因素的影响。坦白有助于收集定案证据，坦白司法机关尚未掌握的同种罪行，或者交代同案犯共同犯罪事实的，一般应当从轻处罚；坦白对于定案证据的收集有重要作用，坦白司法机关尚未掌握的较重同种罪行，或者因坦白避免了严重后果发生的，一般应当较大幅度从轻处罚；罪行极其严重，或者坦白对于司法机关办案没有起到实际作用的，可以不从轻处罚。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2016）津0116刑初80182号】中，被告人仲吉鑫职务侵占数额较大，法院考虑其坦白情节，从轻处罚；而【（2016）粤0303刑初944号】中，被告人唐某犯罪数额特别巨大，即使有坦白情节，法院也未给予大幅度从轻处罚。\n- **坦白的时间**：坦白时间的早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2020）粤0115刑初555号】中，被告人樊兆辉有坦白和自愿认罪认罚的从轻处罚情节，法院依法对其从轻处罚。\n- **坦白的程度**：犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。例如，【（2016）粤0303刑初944号】中，被告人唐某归案后，如实供述犯罪事实，属坦白，依法可以从轻处罚。\n- **坦白的价值**：坦白的价值和作用不同，客观上影响司法机关认定和处理案件。例如，【（2018）沪0151刑初264号】中，被告人朱刚的坦白对于司法机关办案没有起到实际作用，法院在量刑时未给予从轻处罚。\n\n综上，坦白情节在职务侵占罪中的从轻处罚幅度受到多方面因素的影响，法院在量刑时会综合考虑犯罪的事实、性质、情节和坦白的时间、程度、价值等情况确定从宽处罚的幅度。\n\n#####\n类似案件为：\n【（2016）津0116刑初80182号】：法院认为，被告人仲吉鑫利用职务便利，非法侵占原单位财物，数额较大，其行为构成职务侵占罪。仲吉鑫具备坦白情节，可从轻处罚；多次实施职务侵占，可酌情从重处罚。一、被告人仲吉鑫犯职务侵占罪，判处有期徒刑一年六个月。\n（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即被告人仲吉鑫的刑期自2016年3月17日起至2017年9月16日止）；\n二、责令被告人仲吉鑫退赔人民币312003元，发还狮桥融资租赁（中国）有限公司。\n【（2016）粤0303刑初944号】：法院认为，唐某以非法占有为目的，秘密窃取公司财物，数额特别巨大，构成盗窃罪；唐某利用职务便利，将本单位财物非法占为己有，数额巨大，构成职务侵占罪。唐某归案后如实供述犯罪事实，属坦白，可从轻处罚。被盗财物全部被追回，职务侵占退赃38377.93元，可从轻处罚。一、被告人唐某犯盗窃罪，判处有期徒刑十年，并处罚金人民币50000元；犯职务侵占罪，判处有期徒刑六年。总和刑期有期徒刑十六年，并处罚金人民币50000元；决定执行有期徒刑十一年，并处罚金人民币50000元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2015年11月6日起至2026年11月5日止；罚金自本判决生效之日起一个月内向本院缴纳）。\n二、公安机关缴获的涉案钻石217.05克拉，由公安机关依法返还本案被害单位。\n【（2020）粤0115刑初555号】：法院认为，樊兆辉的行为构成职务侵占罪，其有坦白和自愿认罪认罚的从轻处罚情节，且积极退赔公司财物并取得谅解，依法对其从轻处罚。依照《中华人民共和国刑法》第二百七十一条第一款、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款和根据《最高人民法院、最高人民检察院〈关于办理贪污贿赂刑事案件适用法律若干问题的解释〉》第十一条第一款的规定，判决如下：\n被告人樊兆辉犯职务侵占罪，判处有期徒刑八个月，缓刑一年。被告人樊兆辉犯职务侵占罪,判处有期徒刑八个月,缓刑一年。\n（缓刑考验期限,从判决确定之日起计算）。"
+          }
+        },
+        "目标": "请求法院判处被告人刘某甲犯职务侵占罪，处有期徒刑1年6个月，缓刑2年，并责令退赔被害单位人民币208592元，判处罚金人民币5万元",
+        "询问": "1. 被告人刘某甲，你在2018年1月至5月担任哈尔滨顶津食品有限公司长春分公司销售员期间，是否利用职务便利将公司货物低价出售并截留货款？具体金额是多少？\n\n2. 你截留的货款主要用于什么用途？是否如你供述所述用于缓解个人经济压力？\n\n3. 你实施上述行为时，是否清楚这是违反公司规定和触犯刑法的行为？\n\n4. 案发前你仅返还被害单位7000元，剩余208592元未退赔的原因是什么？是否有能力继续退赔？\n\n5. 你在被公安机关抓获后，是否如实供述了全部犯罪事实？有无隐瞒或虚假陈述？\n\n6. 你作为公司销售人员，是否清楚公司规定的正常销售流程和货款结算制度？\n\n7. 你低价销售公司货物的行为是否经过公司授权或批准？\n\n8. 你与被害单位是否就退赔事宜进行过协商？是否取得被害单位的谅解？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑价格鉴定意见的客观性，市场比价依据不充分2.微信交易记录和银行转账记录无法直接证明被告人截留货款的主观故意3.部分证人证言与案件关键事实关联性不足\n防御策略：1.被告人已主动返还部分货款7000元，具有悔罪表现2.被告人系初犯，主观恶性较小3.犯罪金额应扣除已返还部分，实际侵占数额为208592元，仍属\"数额较大\"范畴4.被告人自愿认罪认罚，符合从宽处理条件",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中数额较大的具体认定标准",
+              "职务侵占案件中被告人已部分退赔对量刑的影响"
+            ],
+            "职务侵占罪中数额较大的具体认定标准": "### 结论\n职务侵占罪中数额较大的具体认定标准根据最高人民法院、最高人民检察院2016年4月18日发布实施的《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款的规定，职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。具体而言，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪金额的认定**：职务侵占罪的犯罪金额应当以行为人实际侵占单位财物的金额作为犯罪金额，依法不扣除为完成犯罪支付的成本。例如，【（2020）苏0412刑再2号】中，原审被告人赵丽、吕锋共同实施犯罪的犯罪金额为157000元，原审判决认定原审被告人赵丽、吕锋共同实施犯罪数额巨大显属不当，应当依法予以纠正。\n- **犯罪主体的认定**：职务侵占罪的犯罪主体是公司、企业或者其他单位的工作人员中不具有国家工作人员身份的人员。例如，【（2020）沪0105刑初259号】中，被告人石磊身为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。\n- **犯罪数额的调整**：鉴于新的相关司法解释将职务侵占罪的数额标准进行了调整，对于犯罪数额的认定应当按照新的标准执行。例如，【（2016）冀04刑终84号】中，鉴于新的相关司法解释将职务侵占罪的量刑数额标准已修改，依据《中华人民共和国刑法》从旧兼从轻的原则，对上诉人代科量刑刑期予以改判。\n\n综上，职务侵占罪的犯罪金额应当以行为人实际侵占单位财物的金额作为犯罪金额，犯罪主体是公司、企业或者其他单位的工作人员中不具有国家工作人员身份的人员，且犯罪数额的认定应当按照最新的司法解释标准执行。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）沪0105刑初259号】：法院认为，被告人石磊身为公司工作人员，利用职务便利将单位财物非法占为己有，数额较大，构成职务侵占罪。石磊系自首，且自愿认罪认罚，依法从轻处罚。职务侵占数额应按被告人非法占有的数额认定，而非额外造成的单位损失计入。辩护人与此相关的辩护意见被采纳。一、被告人石磊犯职务侵占罪，判处有期徒刑三年四个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月30日起至2022年11月29日止。)\n二、扣押的作案工具华为手机一部予以没收；责令被告人石磊退赔违法所得发还被害单位一XXXXXXXXXX司。",
+            "职务侵占案件中被告人已部分退赔对量刑的影响": "### 结论\n在职务侵占案件中，被告人已部分退赔的行为通常会被法院视为从轻处罚的情节，但其对量刑的影响程度取决于犯罪的性质、数额、社会危害性以及被告人的主观恶性、人身危险性等综合因素。部分退赔可以作为量刑时的酌定从轻情节，但并不必然导致缓刑的适用，尤其是在犯罪数额巨大、社会影响恶劣或被告人未能全部退赔的情况下。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **被告人已部分退赔**：法院通常会将被告人已部分退赔视为酌定从轻处罚的情节，如【（2019）鲁1102刑初838号】、【（2019）粤0307刑初453号】、【（2020）沪0120刑初666号】中，被告人部分退赔被害单位损失，法院在量刑时予以考虑，但是否适用缓刑还需结合其他因素。\n- **犯罪数额和性质**：犯罪数额巨大或社会危害性大的案件，即使被告人部分退赔，也可能不适用缓刑，如【（2022）苏1291刑初2号】中，被告人职务侵占数额巨大，且大部分赃款被挥霍，未全部退还，法院认为不宜适用缓刑。\n- **被告人主观恶性与人身危险性**：被告人利用职务便利，截留套取资金，主观恶性深，人身危险性大，即使部分退赔，也可能不适用缓刑，如【（2020）粤0606刑初504号】中，被告人未能向公司退还侵占款项，且使用恐吓手段，法院认为不符合适用缓刑的条件。\n\n综上，被告人已部分退赔在职务侵占案件中可以作为从轻处罚的情节，但是否适用缓刑需综合考虑犯罪的性质、数额、社会危害性以及被告人的主观恶性、人身危险性等多方面因素。\n\n#####\n类似案件为：\n【（2019）鲁1102刑初838号】：法院认为，被告人隋仕早利用职务便利，截留套取村集体资金非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于被告人归案后如实供述犯罪事实，自愿认罪，部分违法所得已被扣押，向被害单位退还部分赃款，可从轻处罚。但鉴于被告人侵占数额较大，犯罪情节不轻，且仅部分退赃，依法不适用缓刑。一、被告人隋仕早犯职务侵占罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，共计折抵87日）。\n 二、扣押在案的涉案款项人民币二十万元，由扣押机关负责处理（公诉机关未随案移送）。责令被告人隋仕早将犯罪所得人民币六十六万四千一百三十元退赔被害单位日照市东港区南湖镇樵业子村。\n【（2019）粤0307刑初453号】：法院认为，被告人陈某某的行为构成职务侵占罪。其具有如实供述自己罪行的从轻处罚情节。鉴于被告人的家属代为退赔被害单位部分损失，法院在量刑时予以考虑。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2020）沪0120刑初666号】：法院认为，被告人高某作为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于高某有自首情节，依法可以从轻处罚。高某能自愿认罪认罚，可依法从宽处理。虽与被害单位达成退赔协议，但大部分损失尚未挽回，量刑时予以考虑。一、被告人高某犯职务侵占罪，判处有期徒刑一年。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。)\n二、责令高某退还被害单位上海万途汽车贸易有限公司人民币十七万九千二百五十二元。"
+          }
+        },
+        "目标": "请求法院判处被告人刘某甲缓刑并减轻罚金",
+        "询问": "1. 被告人，你与公司签订的劳动合同中约定的销售价格与实际销售价格是否存在差异？具体差异比例是多少？(针对行为与结果的因果关系，核实是否存在故意低价销售行为)\n\n2. 你截留的货款具体用于哪些用途？是否全部用于个人消费？(针对主观故意和犯罪动机，核实侵占款项的去向)\n\n3. 你返还给公司的7000元是在什么情况下支付的？是否系主动退还？(针对悔罪表现和量刑情节)\n\n4. 公司对于销售价格是否有明确的制度规定？你低价销售的行为是否得到过上级默许？(针对违法性认定，核实是否存在管理疏漏)\n\n5. 你作为销售人员，公司对货款回收是否有监管机制？具体操作流程是怎样的？(针对公司管理责任，为减轻被告人责任提供依据)\n\n6. 案发前公司是否发现过你的销售异常？是否有过提醒或警告？(针对主观恶性程度，核实是否属于持续恶意侵占)\n\n7. 你目前的经济状况如何？是否有能力继续退赔剩余款项？(为后续退赔方案和罚金数额提供依据)"
+      },
+      "被告人": {
+        "策略": "防御策略：1.当庭认罪认罚，表明悔罪态度。2.强调已主动返还部分货款7000元，具有悔罪表现。3.指出系初犯，主观恶性较小。4.说明犯罪金额应扣除已返还部分，实际侵占数额为208592元，仍属\"数额较大\"范畴。5.请求法庭考虑家庭经济困难等实际情况，从轻处罚。",
+        "记忆": "",
+        "目标": "争取缓刑并减轻罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否利用职务便利实施侵占行为。查明情况：被告人已承认利用销售员职务便利低价出售货物并截留货款，公诉人通过讯问确认了其具体操作方式，辩护人未提出异议。审判长认为该焦点已查明，符合职务侵占罪的构成要件。\n\n2.涉案金额的认定问题。查明情况：被告人认可起诉书指控的215592元侵占金额，并确认已返还7000元。公诉人已就金额来源进行核实，辩护人未提出异议。审判长认为金额认定清楚，7000元应从犯罪金额中扣除。\n\n3.被告人主观故意认定。查明情况：被告人明确承认明知行为违法仍实施侵占，公诉人通过讯问确认其非法占有目的，辩护人未提出异议。审判长认为主观故意已查明。\n\n4.量刑情节认定。查明情况：被告人如实供述构成坦白，但尚未取得被害单位谅解。公诉人建议从轻处罚，辩护人未提出新的量刑情节。审判长认为还需进一步核实退赔能力及被害单位态度。\n\n5.是否适用缓刑。查明情况：被告人认罪悔罪并表示愿意退赔，但尚未全额退赔且未取得谅解。公诉人建议适用缓刑，但审判长认为需进一步评估其再犯可能性和社区影响。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中'利用职务便利'的认定标准",
+              "职务侵占案件中退赔行为对量刑的影响"
+            ],
+            "职务侵占罪中'利用职务便利'的认定标准": "### 结论\n职务侵占罪中“利用职务便利”的认定，关键在于行为人是否利用了其在单位中主管、管理或经手单位财物的职责，以及这种利用是否直接基于其工作职责。即使行为人不具有对外销售或处置货物的权限，也不影响利用职务便利的认定。利用职务便利实施的窃取行为，即使同时符合盗窃罪的构成要件，也应优先认定为职务侵占罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：规定了职务侵占罪的构成要件，包括利用职务上的便利，将本单位财物非法占为己有的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否具有主管、管理或经手单位财物的职责**：如果行为人具有主管、管理或经手单位财物的职责，即使其不具有对外销售或处置货物的权限，也构成利用职务便利。例如，【（2020）京02刑终502号】中，张某作为仓储部主管，对仓库及仓储货品具有管理和经手的职责，即使无销售权，仍构成职务侵占罪。\n- **行为人是否利用了主管、管理或经手单位财物的职务便利**：行为人利用其主管、管理或经手单位财物的职务便利，即使与职务上的便利并无直接关系的行为，如熟悉作案环境，也应考虑职务便利对犯罪完成所起的作用。例如，【（2022）苏02刑终12号】中，黄某作为补货员，虽接触货物时间短暂，但因工作需要一度经手单位财物，构成职务侵占罪。\n- **行为人身份与职务侵占罪主体要件的符合性**：行为人是否为公司、企业或其他单位的工作人员，包括正式职工、合同工和临时工等，只要符合职务侵占罪的主体要件，即利用职务上的便利非法占有单位财物，均构成职务侵占罪。例如，【（2007）郑铁刑初字第10号】中，贺某松作为临时装卸工，利用职务上的便利非法占有单位财物，构成职务侵占罪。\n\n综上，职务侵占罪中“利用职务便利”的认定，不仅要看行为人是否具有主管、管理或经手单位财物的职责，还要看其是否利用了这些职责，即使行为人不具有对外销售或处置货物的权限，也不影响利用职务便利的认定。在行为人利用职务便利实施窃取行为时，即使同时符合盗窃罪的构成要件，也应优先认定为职务侵占罪。\n\n#####\n类似案件为：\n【（2020）京02刑终502号】：法院生效判决认为：在案某公司出具的张某劳动合同、岗位职责证明及多名证人证言能够相互印证，证明张某担任某公司仓储部主管，具有以下职责：一、制定仓储计划，保证仓库有效、安全运行。了解仓库库房情况，包括货物入库时间、仓库的库容、设备、人员变动情况；必要时对仓库进行系统的清查工作，清理归位，腾出仓库，提高货物周转效率；建立货物入库台账，每日严格进行货物入库记录及统计，随时了解仓库及人员情况；建立货物出库台账，每日进行货物出库记录及统计，随时了解仓库及人员情况；二、部门日常管理工作。安排库房各岗位人员的日常工作，保证货物进出库有序、准确、准时；监督、指挥库管人员，帮助其顺利完成货物出库前准备、理货、出库、分拣，安排装卸的工作流程，并合理调派装卸工，达到组织、协调工作；按照制度要求及时填报收、发、存月报表，定期抽查货物与登记是否物、账相符；三、负责与其他部门的交接工作。与运输部门衔接好物品出库、入库工作；与信息部门做好数据输入、输出管理工作，根据相关票据做好出、入库管理工作；与营运部门、财务部门定期进行对账、盘点工作。其工作责任系保证仓储货物的安全及仓库的有效利用，对因仓储管理不善造成的损失负责。综上，张某作为公司仓储部主管对于公司相关仓库及仓储货品具有管理和经手的职责，其是否具有对外销售及处置货物的权力，与其具有管理和经手货物的职权并不矛盾，且窃取型职务侵占行为即使不具有对外销售或处置货物的权力亦不影响利用职务便利要件的认定，故张某利用职务上的便利，窃取公司财物的行为，符合职务侵占罪的构成要件，依法应认定为职务侵占罪。二审法院据此作出生效判决。\n【（2007）郑铁刑初字第10号】：法院生效裁判认为：本案中，被告人贺某松作为中铁快运股份有限公司郑州站营业部招聘的委外装卸工，虽未与铁路公司依法签订劳动合同，却长期在火车站任装卸工，两者之间存在“事实劳动关系”，依法应认定为单位工作人员。贺某松系火车站行包房装卸工，其在车站行包房的职责是根据行李员方向清单进行清点与接车，对列车所卸入库的货物装卸办理交接手续等，其对中转的货物具有一定的管理权和经手权。贺某松的盗窃行为，就是利用其当班管理、经手这些财物的职务之便，在自己负责的中转货物的库区对其管理、经手的货物实施掏芯手段将财物非法占为己有，完全可以认定为利用了职务上的便利而窃取单位财产，从而构成职务侵占罪。",
+            "职务侵占案件中退赔行为对量刑的影响": "### 结论\n在职务侵占案件中，退赔行为对量刑有显著影响，尤其是全额退赔和取得被害单位谅解的，法院通常会从轻处罚，并可能适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第六十七条第一款、第三款**：规定犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中犯罪较轻的，可以免除处罚。如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n- **《中华人民共和国刑法》第七十二条第一款**：规定对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔行为**：全额退赔和取得被害单位谅解的，法院通常会从轻处罚，并可能适用缓刑。例如，【（2019）鲁0991刑初78号】、【（2019）粤0305刑初81号】、【（2016）沪0101刑初331号】中，被告人均在案发后全额退赔了赃款，取得了被害单位的谅解，法院因此从轻处罚，并宣告缓刑。\n- **自首和认罪态度**：自首和认罪态度良好，法院也会从轻处罚。例如，【（2019）粤0305刑初81号】、【（2016）沪0101刑初331号】中，被告人自首或认罪态度良好，法院在量刑时予以考虑。\n- **犯罪情节和数额**：犯罪情节较轻，数额较小的，法院在量刑时会予以考虑。例如，【（2019）粤0307刑初453号】中，虽然被告人未全额退赔，但法院在量刑时考虑了其家属代为退赔的部分损失，以及被告人的认罪态度。\n\n综上，退赔行为、自首和认罪态度、犯罪情节和数额是职务侵占案件中影响量刑的关键因素。其中，全额退赔和取得被害单位谅解、自首和认罪态度良好、犯罪情节较轻和数额较小的，法院通常会从轻处罚，并可能适用缓刑。\n\n#####\n类似案件为：\n【（2019）鲁0991刑初78号】：法院认为，张铁军的行为构成职务侵占罪，鉴于其有坦白情节，已退赔全部赃款并取得谅解，且自愿认罪认罚，对所居住社区无重大不良影响，决定对其从轻处罚并宣告缓刑。被告人张铁军犯职务侵占罪，判处有期徒刑一年一个月，缓刑一年六个月。\n （缓刑考验期限，从判决确定之日起计算。）\n【（2019）粤0305刑初81号】：法院认为，被告人纪杉构成职务侵占罪，具有自首、全额退赔赃款的从轻处罚情节，犯罪情节较轻，有悔罪表现，对其宣告缓刑对所居住社区无重大不良影响。一、被告人纪衫犯职务侵占罪，判处拘役五个月，缓刑十个月。\n（缓刑考验期限，自判决确定之日起计算。）\n二、被告人纪衫退赔的赃款人民币104085元依法发还被害公司深圳市前海大数金融服务有限公司。\n【（2016）沪0101刑初331号】：法院认为，被告人王某某的行为已构成职务侵占罪，鉴于其自首、认罪态度及退赔情况，决定对其从轻处罚并适用缓刑。一、被告人王某某犯职务侵占罪，判处拘役六个月，缓刑六个月。\n（缓刑考验期限，从判决确定之日起计算。）\n二、被告人王某某退赔在案的违法所得人民币九万元，发还被害单位。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强调被告人利用职务便利低价销售并截留货款215592元的犯罪事实，与微信交易记录、银行转账记录等书证形成完整证据链 2.指出鉴定意见证实涉案货物市场价值222592元，远超职务侵占罪\"数额较大\"6万元的入罪标准 3.说明被告人虽返还7000元但未完全退赔，社会危害性较大 4.指出18名证人证言与书证相互印证，证明犯罪事实清楚 5.强调被告人明知行为违法仍持续5个月实施犯罪，主观恶性较大\n防御策略：1.所有书证均经公安机关依法调取并附提取说明，程序合法 2.价格鉴定由具备资质的机构出具，取样照片和市场比价依据完整 3.证人证言均经法定程序收集，部分有录音录像佐证，证明力强 4.被告人供述稳定，与客观证据相互印证",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中数额较大的具体认定标准",
+              "职务侵占案件中退赔部分款项对量刑的影响"
+            ],
+            "职务侵占罪中数额较大的具体认定标准": "### 结论\n职务侵占罪中数额较大的具体认定标准根据最高人民法院、最高人民检察院2016年4月18日发布实施的《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款的规定，职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。具体而言，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪金额的认定**：职务侵占罪的犯罪金额应当以行为人实际侵占单位财物的金额作为犯罪金额，依法不扣除为完成犯罪支付的成本。例如，【（2020）苏0412刑再2号】中，原审被告人赵丽、吕锋共同实施犯罪的犯罪金额为157000元，原审判决认定原审被告人赵丽、吕锋共同实施犯罪数额巨大显属不当，应当依法予以纠正。\n- **犯罪主体的认定**：职务侵占罪的犯罪主体是公司、企业或者其他单位的工作人员中不具有国家工作人员身份的人员。例如，【（2020）沪0105刑初259号】中，被告人石磊身为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。\n- **犯罪数额的调整**：鉴于新的相关司法解释将职务侵占罪的数额标准进行了调整，对于犯罪数额的认定应当按照新的标准执行。例如，【（2016）冀04刑终84号】中，鉴于新的相关司法解释将职务侵占罪的量刑数额标准已修改，依据《中华人民共和国刑法》从旧兼从轻的原则，对上诉人代科量刑刑期予以改判。\n\n综上，职务侵占罪的犯罪金额应当以行为人实际侵占单位财物的金额作为犯罪金额，犯罪主体是公司、企业或者其他单位的工作人员中不具有国家工作人员身份的人员，且犯罪数额的认定应当按照最新的司法解释标准执行。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）沪0105刑初259号】：法院认为，被告人石磊身为公司工作人员，利用职务便利将单位财物非法占为己有，数额较大，构成职务侵占罪。石磊系自首，且自愿认罪认罚，依法从轻处罚。职务侵占数额应按被告人非法占有的数额认定，而非额外造成的单位损失计入。辩护人与此相关的辩护意见被采纳。一、被告人石磊犯职务侵占罪，判处有期徒刑三年四个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月30日起至2022年11月29日止。)\n二、扣押的作案工具华为手机一部予以没收；责令被告人石磊退赔违法所得发还被害单位一XXXXXXXXXX司。",
+            "职务侵占案件中退赔部分款项对量刑的影响": "### 结论\n在职务侵占案件中，被告人退赔部分款项通常会被法院视为悔罪表现和减轻社会危害性的因素，从而在量刑时予以从轻或减轻处罚。但退赔行为对量刑的影响程度取决于退赔的金额、时间、是否全额退赔以及被告人的其他犯罪情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔金额**：退赔的金额越大，越可能获得从轻处罚。例如，【（2018）浙0226刑初617号】中，被告人孙强因退赔赃款并取得被害单位谅解，被从轻处罚并宣告缓刑。\n- **退赔时间**：案发前或案发后及时退赔，更可能获得从轻处罚。如【（2015）榆中刑二终字第00003号】中，上诉人任某在案发前已返还被害人部分款项，法院在量刑时予以考虑。\n- **是否全额退赔**：全额退赔比部分退赔更可能获得从轻处罚。例如，【（2016）津0116刑初80016号】中，被告人齐××虽未全额退赔，但部分退赔行为仍被法院视为从轻处罚的情节。\n- **被告人的其他犯罪情节**：被告人的认罪态度、是否坦白、是否有前科等，也会影响退赔行为对量刑的影响。如【（2020）粤0606刑初504号】中，被告人温斌虽有退赔行为，但因未在侦查阶段如实供述犯罪事实，法院在量刑时未给予缓刑。\n\n综上，退赔行为在职务侵占案件中对量刑有显著影响，但其具体影响程度需结合退赔的金额、时间、是否全额退赔以及被告人的其他犯罪情节综合判断。\n\n#####\n类似案件为：\n【（2018）浙0226刑初617号】：法院认为，被告人孙强利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。鉴于孙强如实供述犯罪事实，退赔赃款，取得被害单位谅解，可从轻处罚。根据孙强的犯罪情节及悔罪表现，可宣告缓刑。一、被告人孙强犯职务侵占罪，判处有期徒刑十个月，缓刑一年。\n （缓刑考验期限，从判决确定之日起计算）\n 二、退缴在案人民币二十三万六千元，由扣押机关宁海县公安局发还被害单位。\n【（2015）榆中刑二终字第00003号】：法院认为，任某以非法占有为目的，虚构事实，隐瞒真相，诈骗他人财物，数额巨大，构成诈骗罪；利用职务便利，非法占有公司财物，构成职务侵占罪。鉴于任某部分退还诈骗款项，全部退赔职务侵占所得，可酌情从轻处罚。任某犯诈骗罪，判处有期徒刑九年，并处罚金5000元；犯职务侵占罪，判处有期徒刑三年，决定执行有期徒刑十年，并处罚金5000元。\n【（2016）津0116刑初80016号】：法院认为，齐××以非法占有为目的，利用职务便利，将单位财物占为己有，数额较大，构成职务侵占罪。齐××有坦白情节，部分退赔，可从轻处罚；多次实施职务侵占，有犯罪前科，酌情从重处罚。一、被告人齐××犯职务侵占罪，判处有期徒刑二年。\n（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即被告人齐××的刑期自2015年5月19日起至2017年5月18日止）；\n二、责令被告人齐××退赔尚未追缴到案的赃款人民币182419.96元，发还被害单位天津阿尔发保健品有限公司。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑价格鉴定意见的市场比价依据不充分，未考虑实际销售折扣因素2.微信交易记录和银行转账记录无法直接证明被告人主观上具有非法占有目的3.部分证人证言与案件关键事实关联性不足，无法证明被告人的具体侵占行为\n\n防御策略：1.被告人已主动返还部分货款7000元，具有悔罪表现2.被告人系初犯，主观恶性较小，犯罪情节较轻3.犯罪金额应扣除已返还部分，实际侵占数额为208592元，仍属\"数额较大\"范畴4.被告人自愿认罪认罚，符合从宽处理条件",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中数额较大的认定标准",
+              "职务侵占案件中被告人主动退赔部分款项对量刑的影响"
+            ],
+            "职务侵占罪中数额较大的认定标准": "### 结论\n职务侵占罪中数额较大的认定标准根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款的规定，职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。根据该解释的规定，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪金额**：犯罪金额是职务侵占罪定罪量刑的关键因素。例如，【（2020）苏0412刑再2号】中，原审被告人赵丽、吕锋共同实施犯罪的犯罪金额为157000元，原审判决认定原审被告人赵丽、吕锋共同实施犯罪数额巨大显属不当，应当依法予以纠正。原审被告人赵丽、吕锋共同实施犯罪数额较大，应处五年以下有期徒刑或者拘役。\n- **犯罪未遂**：如果犯罪行为因意志以外的原因未得逞，属于犯罪未遂，可以作为量刑时的考虑因素。例如，【（2020）苏0412刑再2号】中，二原审被告人着手实施犯罪后，因其意志以外的原因而未得逞，属犯罪未遂。\n- **自首和认罪态度**：自首和认罪态度是量刑时的重要考虑因素。例如，【（2020）沪0105刑初259号】中，被告人石磊犯罪以后主动投案，并如实供述自己的罪行，系自首，且自愿认罪认罚，依法从轻处罚。\n- **退赔和谅解**：退赔和取得被害人的谅解可以作为量刑时的从轻处罚因素。例如，【（2020）粤0306刑初3883号】中，被告人汪伟在案发后退还侵占的款项共计人民币30000元，且在庭后双方已达成谅解，公诉机关提出的可调整为有期徒刑六个月的量刑建议，本院予以采纳。\n\n综上，职务侵占罪的定罪量刑需要综合考虑犯罪金额、犯罪未遂、自首和认罪态度、退赔和谅解等因素。犯罪金额是决定罪名和量刑档次的关键，而其他因素则在量刑时起到从轻或减轻处罚的作用。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）沪0105刑初259号】：法院认为，被告人石磊身为公司工作人员，利用职务便利将单位财物非法占为己有，数额较大，构成职务侵占罪。石磊系自首，且自愿认罪认罚，依法从轻处罚。职务侵占数额应按被告人非法占有的数额认定，而非额外造成的单位损失计入。辩护人与此相关的辩护意见被采纳。一、被告人石磊犯职务侵占罪，判处有期徒刑三年四个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月30日起至2022年11月29日止。)\n二、扣押的作案工具华为手机一部予以没收；责令被告人石磊退赔违法所得发还被害单位一XXXXXXXXXX司。",
+            "职务侵占案件中被告人主动退赔部分款项对量刑的影响": "### 结论\n在职务侵占案件中，被告人主动退赔部分款项通常会被视为认罪悔罪的积极表现，法院在量刑时会予以考虑，作为从轻处罚的情节。然而，量刑是一个综合考量的过程，犯罪的性质、情节、后果以及被告人的主观恶性、人身危险性等基本因素是决定刑罚的首要考量。积极退赔虽能体现被告人的悔罪态度，但并不自动导致从轻处罚，尤其是当犯罪性质恶劣、社会危害性大时，即使被告人退赔，法院也可能根据犯罪的具体情况判处重刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第271条**：规定了职务侵占罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第64条**：规定了犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主动退赔**：主动退赔部分或全部赃款，法院通常会视为从轻处罚的情节。例如，【（2021）京0105刑初1098号】中，被告人马莹主动投案并退赔侵占款项，法院依法对其从轻处罚并适用缓刑。然而，【（2019）粤0310刑初411号】中，尽管被告人邓超家属代为退赔了部分损失，但法院在量刑时也考虑了其他因素，如邓超的犯罪性质和情节。\n- **自首与认罪态度**：自首和认罪态度也是量刑时的重要考量因素。【（2019）鲁0902刑初710号】中，被告人庄某某主动投案并如实供述犯罪事实，法院依法从轻处罚。【（2019）粤06刑终1115号】中，上诉人孙琴认罪认罚，法院依法从轻处罚。\n- **犯罪性质与社会危害性**：犯罪的性质和对社会的危害程度是决定刑罚的基本因素。【（2020）粤0104刑初526号】中，尽管被告人麦妍仪有自首情节并主动退缴赃款，但法院在量刑时也考虑了犯罪的具体情节，如犯罪数额巨大，最终判决时综合考虑了所有因素。\n\n综上，主动退赔是职务侵占案件中影响量刑的重要因素之一，但其作用需在犯罪性质、社会危害性等基本因素的背景下综合考量。法院在量刑时会全面评估案件的具体情况，包括被告人的认罪态度、自首情况以及犯罪的严重程度，以确保量刑的公正性和合理性。\n\n#####\n类似案件为：\n【（2021）京0105刑初1098号】：法院认为，被告人马莹利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于被告人马莹主动投案，归案后如实供述犯罪事实，系自首，且当庭认罪、认罚，能够退赔侵占款项，依法对其从轻处罚并适用缓刑。一、被告人马莹犯职务侵占罪，判处有期徒刑六个月，缓刑一年（缓刑考验期从判决确定之日起计算）。\n二、在案之人民币十三万八千八百六十五元发还被害单位。\n【（2019）粤0310刑初411号】：法院认为，邓超利用职务之便，将公司财物非法占为己有，数额巨大，构成职务侵占罪。邓超如实供述罪行，家属代为退赃退赔，取得谅解，可从轻处罚。邓超非自动投案，不构成自首；邓超归案后如实供述，系坦白，非立功；邓超在共同犯罪中积极参与，不属从犯；涉案显示屏鉴定金额准确，作为定案依据。一、被告人邓超犯职务侵占罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月18日起至2024年4月17日止。）\n二、责令被告人邓超向被害人江西平波电子商务有限公司退赔720115元。\n【（2019）鲁0902刑初710号】：法院认为，庄某某作为企业工作人员，利用职务便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于庄某某系自首，初犯，积极退赔部分赃款，且自愿认罪认罚，依法可以从轻处罚。一、被告人庄某某犯职务侵占罪，判处有期徒刑六年。\n（刑期从判决执行之日起计算。判决之前先行羁押的，羁押一日折抵刑期一日。即自二○一九年二月二十八日起至二○二五年二月二十七日止。）\n二、公安机关扣押证人朱士宁缴纳的40070元和证人刘建湘缴纳的20000元退赔泰安泰山高压开关有限公司。责令被告人庄某某退赔泰安泰山高压开关有限公司剩余经济损失5383990元（已退赔269000元）。\n（余款5114990元限判决生效后十日内缴纳。）"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.当庭认罪认罚，表明悔罪态度。2.强调已主动返还部分货款7000元，具有悔罪表现。3.指出系初犯，主观恶性较小。4.说明犯罪金额应扣除已返还部分，实际侵占数额为208592元，仍属\"数额较大\"范畴。5.请求法庭考虑家庭经济困难等实际情况，从轻处罚。",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否利用职务便利实施侵占行为。查明情况：被告人已明确承认利用销售员职务便利低价出售货物并截留货款，公诉人通过讯问确认了其具体操作方式，辩护人未提出异议。审判长认为该焦点已查明，符合职务侵占罪的构成要件。\n\n2.涉案金额的认定问题。查明情况：被告人认可起诉书指控的215592元侵占金额，并确认已返还7000元。公诉人已就金额来源进行核实，辩护人对价格鉴定提出异议但未否定基本金额。审判长认为金额认定清楚，7000元应从犯罪金额中扣除。\n\n3.被告人主观故意认定。查明情况：被告人明确承认明知行为违法仍实施侵占，公诉人通过讯问确认其非法占有目的，辩护人虽质疑部分证据关联性但未否定主观故意。审判长认为主观故意已查明。\n\n4.量刑情节认定。查明情况：被告人如实供述构成坦白，但尚未取得被害单位谅解。公诉人建议从轻处罚，辩护人未提出新的量刑情节。审判长认为需进一步核实退赔能力及被害单位态度。\n\n5.是否适用缓刑。查明情况：被告人认罪悔罪并表示愿意退赔，但尚未全额退赔且未取得谅解。公诉人建议适用缓刑，但审判长认为需进一步评估其再犯可能性和社区影响，特别是要考虑其经济状况和退赔诚意。\n\n6.价格鉴定是否准确反映涉案货物实际价值。查明情况：辩护人对价格鉴定提出异议，认为未考虑实际销售折扣因素；公诉人认为鉴定程序合法有效。审判长认为该问题对金额认定影响有限，但可作为量刑参考因素。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占案件中部分退赔但未取得谅解的量刑考量",
+              "职务侵占罪中认罪认罚但未全额退赔的缓刑适用标准"
+            ],
+            "职务侵占案件中部分退赔但未取得谅解的量刑考量": "### 结论\n在职务侵占案件中，部分退赔但未取得谅解的情况下，法院在量刑时会综合考虑犯罪事实、性质、情节、社会危害程度以及被告人的悔罪表现等，退赔情况虽是重要考量因素，但未取得谅解并不必然导致从重处罚，法院会根据案件具体情况决定是否从宽处理。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔情况**：法院认为被告人积极退赔全部或部分赃款是量刑时的重要考量因素，可以酌情从轻处罚。例如，【（2023）鲁0283刑初927号】中，被告人王某某积极退赔全部赃款，法院在量刑时予以考虑。然而，【（2020）沪0120刑初666号】中，尽管被告人与被害单位达成退赔协议，但大部分损失尚未挽回，法院在量刑时会考虑这一情况。\n- **取得谅解**：取得被害单位或被害人的谅解是量刑时的另一重要考量因素，但并非唯一条件。【（2020）粤1322刑初9号】中，被告人罗先江犯罪后已返还被害公司10万元人民币，取得被害公司的书面谅解，法院对其宣告缓刑。然而，在【（2020）沪0120刑初666号】中，尽管被告人与被害单位达成退赔协议，但未取得谅解，法院在量刑时会考虑这一情况，但并不必然影响从宽处理。\n- **犯罪性质和情节**：法院在量刑时会综合考虑犯罪的性质、情节、后果及被告人的主观恶性、人身危险性等因素。【（2019）沪0115刑初2240号】中，被告人高某一人犯数罪，法院在量刑时考虑了犯罪性质和情节，即使被告人退出职务侵占的违法所得并取得被害单位谅解，法院在量刑时仍会综合考虑犯罪的严重性。\n\n综上，退赔情况和取得谅解是职务侵占案件量刑时的重要考量因素，但法院会根据案件的具体情况，包括犯罪的性质、情节、后果及被告人的主观恶性、人身危险性等，综合判断是否从宽处理。未取得谅解并不必然导致从重处罚，法院会根据案件具体情况决定是否从宽处理。\n\n#####\n类似案件为：\n【（2023）鲁0283刑初927号】：法院认为，王某某利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于王某某自愿认罪认罚，积极退赔赃款，可从宽处理。但考虑其长期多次实施职务侵占行为的犯罪情节及对被害单位生产经营造成的影响，未取得公司谅解，对其不宜宣告缓刑。一、被告人王某某犯职务侵占罪，判处有期徒刑一年六个月，并处罚金人民币二万五千元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即从2023年8月16日起，至2025年2月15日止。罚金已缴纳。）\n二、被告人王某某退缴的赃款人民币632899元，依法发还被害单位某某有限公司。\n【（2020）沪0120刑初666号】：法院认为，被告人高某作为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于高某有自首情节，依法可以从轻处罚。高某能自愿认罪认罚，可依法从宽处理。虽与被害单位达成退赔协议，但大部分损失尚未挽回，量刑时予以考虑。一、被告人高某犯职务侵占罪，判处有期徒刑一年。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。)\n二、责令高某退还被害单位上海万途汽车贸易有限公司人民币十七万九千二百五十二元。\n【（2020）粤1322刑初9号】：法院认为，罗先江的行为构成职务侵占罪，鉴于其如实供述、退赔并获谅解，确有悔罪表现，决定适用缓刑。被告人罗先江犯职务侵占罪，判处有期徒刑二年，缓刑二年（缓刑考验期限，从判决确定之日起计算）。",
+            "职务侵占罪中认罪认罚但未全额退赔的缓刑适用标准": "### 结论\n在职务侵占罪中，认罪认罚但未全额退赔的情况下，缓刑适用标准通常取决于犯罪数额、犯罪情节、退赔情况、认罪态度、社会危害性以及是否符合缓刑的法定条件。法院在考虑缓刑适用时，会综合评估上述因素，尤其是犯罪数额巨大且未全额退赔的，一般不适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：规定了职务侵占罪的构成要件和量刑标准。\n- **《中华人民共和国刑事诉讼法》第一百七十四条**：规定了认罪认罚从宽制度的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额巨大且未全额退赔的，一般不适用缓刑。例如，【（2022）苏1291刑初2号】中，被告人王玉泉职务侵占数额巨大，且大部分赃款被其挥霍，至今未能退还，法院认为不宜适用缓刑。\n- **退赔情况**：全额退赔或部分退赔且取得谅解的，可能适用缓刑。如【（2019）苏1181刑初451号】中，被告人陆娇归案后已将侵占款全部退缴，弥补了被害单位的损失，法院认为其符合缓刑适用条件。\n- **认罪态度**：认罪认罚且有悔罪表现的，可能适用缓刑。例如，【（2023）沪0106刑初1488号】中，被告人李某、崔某认罪认罚且退赔违法所得，法院认为可适用缓刑。\n- **社会危害性**：犯罪行为造成的影响和危害性大小，也是决定是否适用缓刑的重要因素。如【（2020）沪0106刑初559号】中，被告人周俊杰、刘某2的犯罪情节、悔罪表现及社会危害性被评估后，法院决定适用缓刑。\n\n综上，职务侵占罪中认罪认罚但未全额退赔的缓刑适用，主要取决于犯罪数额、退赔情况、认罪态度和社会危害性。法院在判决时会综合考量这些因素，以决定是否适用缓刑。犯罪数额巨大且未全额退赔的，通常不适用缓刑；而犯罪数额较小、全额或部分退赔、认罪态度良好、社会危害性较小的，可能适用缓刑。\n\n#####\n类似案件为：\n【（2022）苏1291刑初2号】：法院认为，被告人王玉泉身为公司工作人员，利用职务便利将本单位财物非法占为己有，数额巨大，构成职务侵占罪。鉴于王玉泉自首、认罪认罚、退赔部分经济损失，依法从轻处罚，但职务侵占数额巨大，且大部分赃款未退还，不宜适用缓刑。一、被告人王玉泉犯职务侵占罪，判处有期徒刑三年，并处罚金人民币十四万四千元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年9月29日起至2024年9月28日止；罚金于判决生效后十日内缴纳。）\n二、责令被告人王玉泉退赔被害单位某公司人民币六十六万八千五百一十七元。\n【（2019）苏1181刑初451号】：法院认为，陆娇身为公司工作人员，利用职务之便将公司财物非法占为己有，数额较大，构成职务侵占罪。鉴于陆娇认罪认罚，已退赔全部侵占款，具有悔罪表现，无前科，所在社区同意监管，符合缓刑适用条件。被告人陆娇犯职务侵占罪，判处有期徒刑三年，缓刑三年（缓刑考验期限，从判决确定之日起计算）。\n【（2023）沪0106刑初1488号】：法院认为，李某、崔某身为公司工作人员，利用职务便利，将单位财物非法占为己有，李某数额巨大，崔某数额较大，其行为构成职务侵占罪。鉴于二人自首，认罪认罚，且退赔违法所得，依法可减轻、从轻处罚，并适用缓刑。一、被告人李某犯职务侵占罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万元。\n（缓刑考验期限自本判决确定之日起计算；罚金应在本判决生效之日起三十日内缴付本院。）\n二、被告人崔某犯职务侵占罪，判处有期徒刑一年二个月，缓刑一年二个月，并处罚金人民币六千元。\n（缓刑考验期限自本判决确定之日起计算；罚金应在本判决生效之日起三十日内缴付本院。）\n三、退赔的违法所得，发还被害单位。\n李某、崔某回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强调被告人利用职务便利低价销售并截留货款215592元的犯罪事实，与微信交易记录、银行转账记录等书证形成完整证据链 2.指出鉴定意见证实涉案货物市场价值222592元，远超职务侵占罪\"数额较大\"6万元的入罪标准 3.说明被告人虽返还7000元但未完全退赔，社会危害性较大 4.指出18名证人证言与书证相互印证，证明犯罪事实清楚 5.强调被告人明知行为违法仍持续5个月实施犯罪，主观恶性较大\n\n防御策略：1.所有书证均经公安机关依法调取并附提取说明，程序合法 2.价格鉴定由具备资质的机构出具，取样照片和市场比价依据完整 3.证人证言均经法定程序收集，部分有录音录像佐证，证明力强 4.被告人供述稳定，与客观证据相互印证",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中数额较大的认定标准",
+              "职务侵占案件中部分退赔对量刑的影响"
+            ],
+            "职务侵占罪中数额较大的认定标准": "### 结论\n职务侵占罪中数额较大的认定标准根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款的规定，职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。根据该解释的规定，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的人员利用职务上的便利，将本单位财物非法占为已有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪金额**：犯罪金额是职务侵占罪定罪量刑的关键因素。例如，【（2020）苏0412刑再2号】中，原审被告人赵丽、吕锋共同实施犯罪的犯罪金额为157000元，原审判决认定原审被告人赵丽、吕锋共同实施犯罪数额巨大显属不当，应当依法予以纠正。原审被告人赵丽、吕锋共同实施犯罪数额较大，应处五年以下有期徒刑或者拘役。\n- **犯罪未遂**：如果犯罪行为因意志以外的原因未得逞，属于犯罪未遂，可以作为量刑时的考虑因素。例如，【（2020）苏0412刑再2号】中，二原审被告人着手实施犯罪后，因其意志以外的原因而未得逞，属犯罪未遂。\n- **自首和认罪态度**：自首和认罪态度是量刑时的重要考虑因素。例如，【（2020）沪0105刑初259号】中，被告人石磊犯罪以后主动投案，并如实供述自己的罪行，系自首，且自愿认罪认罚，依法从轻处罚。\n- **退赔和谅解**：退赔和取得被害人的谅解可以作为量刑时的从轻处罚因素。例如，【（2020）粤0306刑初3883号】中，被告人汪伟在案发后退还侵占的款项共计人民币30000元，且在庭后双方已达成谅解，公诉机关提出的可调整为有期徒刑六个月的量刑建议，本院予以采纳。\n\n综上，职务侵占罪的定罪量刑需要综合考虑犯罪金额、犯罪未遂、自首和认罪态度、退赔和谅解等因素。犯罪金额是决定罪名和量刑档次的关键，而其他因素则在量刑时起到从轻或减轻处罚的作用。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）\n【（2020）沪0105刑初259号】：法院认为，被告人石磊身为公司工作人员，利用职务便利将单位财物非法占为己有，数额较大，构成职务侵占罪。石磊系自首，且自愿认罪认罚，依法从轻处罚。职务侵占数额应按被告人非法占有的数额认定，而非额外造成的单位损失计入。辩护人与此相关的辩护意见被采纳。一、被告人石磊犯职务侵占罪，判处有期徒刑三年四个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月30日起至2022年11月29日止。)\n二、扣押的作案工具华为手机一部予以没收；责令被告人石磊退赔违法所得发还被害单位一XXXXXXXXXX司。",
+            "职务侵占案件中部分退赔对量刑的影响": "### 结论\n在职务侵占案件中，部分退赔行为通常会被法院视为被告人认罪悔罪态度的体现，从而在量刑时作为酌情从轻处罚的情节予以考虑。但是，部分退赔并不必然导致显著的从轻处罚，法院还会综合考虑犯罪的具体事实、性质、情节、社会危害程度以及被告人的其他量刑情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **部分退赔**：部分退赔行为通常会被法院视为被告人认罪悔罪态度的体现，从而在量刑时作为酌情从轻处罚的情节予以考虑。例如，【（2018）浙0604刑初126号】中，被告人顾飞君部分退赃，法院酌情从轻处罚。【（2015）榆中刑二终字第00003号】中，任某在案发前已退还部分款项，法院在量刑时予以体现，可依法改判。【（2018）粤0306刑初90号】中，被告人李兆坤未能主动退赔，法院在量刑时酌情予以考量。\n- **犯罪数额**：犯罪数额的大小直接影响量刑的轻重。例如，【（2021）川18刑终11号】中，高才宏职务侵占犯罪数额巨大，即使有部分退赔，法院仍需根据犯罪数额进行量刑。\n- **自首情节**：自首是法定从轻或减轻处罚的情节。例如，【（2015）浙杭刑终字第1193号】中，蒋建钢自动投案，并如实供述自己的罪行，系自首，依法予以从轻处罚。\n- **共同犯罪中的作用**：在共同犯罪中，被告人的作用大小也会影响量刑。例如，【（2021）川18刑终11号】中，高才宏在职务侵占共同犯罪中起主要作用，系主犯，量刑时考虑其作用大小。\n\n综上，部分退赔在职务侵占案件中通常作为从轻处罚的情节，但其影响程度需结合犯罪数额、自首情节、共同犯罪中的作用等其他量刑情节综合判断。\n\n#####\n类似案件为：\n【（2018）浙0604刑初126号】：法院认为，被告人顾飞君利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。顾飞君归案后能自愿认罪，认罪态度较好，且已部分退赃，可酌情从轻处罚。归案前退出的10000元款项不应在职务侵占金额中予以扣除，但可以作为退赃情节，在量刑时予以考虑。被告人顾飞君犯职务侵占罪，判处有期徒刑五年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一七年七月二十三日起至二〇二二年七月二十二日止）；\n 责令被告人顾飞君退赔被害单位永农生物科学有限公司人民币一百三十五万三千四百二十五元九角三分。\n【（2015）榆中刑二终字第00003号】：法院认为，任某以非法占有为目的，虚构事实，隐瞒真相，诈骗他人财物，数额巨大，构成诈骗罪；利用职务便利，非法占有公司财物，构成职务侵占罪。鉴于任某部分退还诈骗款项，全部退赔职务侵占所得，可酌情从轻处罚。任某犯诈骗罪，判处有期徒刑九年，并处罚金5000元；犯职务侵占罪，判处有期徒刑三年，决定执行有期徒刑十年，并处罚金5000元。\n【（2018）粤0306刑初90号】：法院认为，被告人李兆坤身为公司人员，利用职务便利将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。被告人归案后至审理期间能如实供认其部分事实并认罪悔罪，对该部分事实的定罪量刑可以依法从轻处罚，但被告人未能主动退赔，在量刑时酌情予以考量。一、被告人李兆坤犯职务侵占罪，判处有期徒刑六年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年5月23日起至2023年5月22日止）。\n二、责令被告人李兆坤退赔被害单位深圳市飞易达纸品有限公司人民币1083811.7元（包括客户深圳市桦海X纸品包装有限公司支付的货款人民币559111.7元、深圳市X包装有限公司支付的货款人民币424700元、深圳市X包装制品有限公司支付的货款人民币约2万元、东莞市X纸品有限公司支付的货款人民币8万元）。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.继续质疑价格鉴定意见的市场比价依据不充分，强调3%的价格差异属于正常销售折扣范围2.强调微信交易记录和银行转账记录仅能证明资金流向，无法直接证明被告人主观上具有非法占有目的3.指出部分证人证言仅能证明货物交接和账目差异，无法直接证明被告人的具体侵占行为\n\n防御策略：1.强调被告人已主动返还部分货款7000元，具有悔罪表现2.指出被告人系初犯，主观恶性较小3.说明被告人自愿认罪认罚，符合从宽处理条件4.建议将犯罪金额扣除已返还部分，实际侵占数额为208592元",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪中如何认定主观非法占有目的？",
+              "职务侵占案件中部分退赔对量刑的影响？"
+            ],
+            "职务侵占罪中如何认定主观非法占有目的？": "### 结论\n职务侵占罪中认定主观非法占有目的的关键在于行为人是否具有将单位财物非法占为己有的直接故意，且这种占有意图是否贯穿于行为的始终。在没有直接证据的情况下，法院通常会综合考虑行为人的行为模式、资金的使用情况、是否归还单位财物的意愿和能力、以及行为人对单位财物的控制和处置方式等间接证据来判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否利用了职务上的便利**：法院会审查行为人是否基于其工作职责能够占用、处分本单位财物。例如，【（2016）沪0116刑初408号】中，被告人朱某乙利用职务便利，逐年递增地占用单位的钱款，无任何归还的行为，表明其具有非法占有的故意。\n- **行为人对单位财物的控制和处置方式**：如果行为人将单位财物用于个人消费、偿还欠款等，且没有归还的意愿或能力，这通常会被视为具有非法占有的目的。例如，【（2016）沪0116刑初408号】中，朱某乙将钱款大多用于偿还欠款、消费、旅游等，仅在被害单位发现后归还了部分款项，这表明其主观上对上述款项具有非法占有的故意。\n- **行为人是否具有归还单位财物的意愿和能力**：如果行为人在占有单位财物后，没有归还的意愿或能力，这通常会被视为具有非法占有的目的。例如，【（2018）冀11刑终286号】中，上诉人韩建辉虽是被害单位无书面劳动合同关系的业务员，但其回收相关货款时伪造被害单位的收据，证实其具有非法占有之目的而非挪作他用据不归还。\n- **行为人是否违背单位的意愿占有单位财物**：如果行为人违背单位的意愿，非法占有单位财物，这通常会被视为具有非法占有的目的。例如，【（2017）鲁0281刑初803号】中，法院认为股东对个人企业独立经营的经济收入具有支配权，不宜作为新设立合资公司的财产对待，故不存在职务侵占行为。\n\n综上，认定职务侵占罪中主观非法占有目的的关键在于行为人是否利用职务便利非法占有单位财物，且这种占有意图是否贯穿于行为的始终，以及行为人对单位财物的控制和处置方式是否表明其具有非法占有的目的。\n\n#####\n类似案件为：\n【（2016）沪0116刑初408号】：法院认为，朱某乙以非法占有为目的，利用职务便利将单位财物据为己有，数额较大，构成职务侵占罪。其逐年递增地占用单位钱款，无归还行为，且主要用于个人消费，仅在被害单位发现后归还部分款项，表明其主观上具有非法占有的故意。朱某乙犯罪后自动投案，如实供述，系自首，可以从轻或减轻处罚。案发后，朱某乙在家属帮助下赔偿了单位部分经济损失，可酌情从轻处罚。一、被告人朱某乙犯职务侵占罪，判处有期徒刑三年二个月。\n（刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日。即自2015年12月28日起至2019年2月27日止。）\n二、责令被告人朱某乙于判决生效之日起十日内继续退赔被害单位经济损失。\n【（2016）沪0116刑初408号】：法院认为，朱某乙以非法占有为目的，利用职务便利将单位财物据为己有，数额较大，构成职务侵占罪。其逐年递增地占用单位钱款，无归还行为，且主要用于个人消费，仅在被害单位发现后归还部分款项，表明其主观上具有非法占有的故意。朱某乙犯罪后自动投案，如实供述，系自首，可以从轻或减轻处罚。案发后，朱某乙在家属帮助下赔偿了单位部分经济损失，可酌情从轻处罚。一、被告人朱某乙犯职务侵占罪，判处有期徒刑三年二个月。\n（刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日。即自2015年12月28日起至2019年2月27日止。）\n二、责令被告人朱某乙于判决生效之日起十日内继续退赔被害单位经济损失。\n【（2018）冀11刑终286号】：法院认为，韩建辉在担任被害单位的业务员时，利用其职务上的便利，将被害单位的业务款非法占为已有，其行为已构成职务侵占罪，且数额巨大。职务侵占罪不要求行为人必须担任一定的职务或与被害单位存在书面劳动合同关系，只要行为人能够依靠其所处地位，去左右其他人员而达到非法占有之目的，同样符合职务侵占犯罪的构成要件。韩建辉虽是被害单位无书面劳动合同关系的业务员，但其只有催收货款的义务，而无代收贷款的权限，至案发前，被害单位多次派人与其共同到相关客户单位对账、并欲进行清算，其以种种理由推脱，且其回收相关货款时伪造被害单位的收据，证实其具有非法占有之目的而非挪作他用据不归还。一、维持桃城区人民法院（2017）冀1102刑初424号刑事判决的第（一）项及第（二）项中责令退赔被害单位衡水春雨园林工具有限公司部分，即（一）被告人韩建辉犯职务侵占罪，判处有期徒刑六年，并处没收其个人价值人民币十万元的财产，上缴国库。（二）责令被告人韩建辉退赔被害单位衡水春雨园林工具有限公司经济损失人民币八十三万二千零九十四元八角。\n二、撤销桃城区人民法院（2017）冀1102刑初424号刑事判决的第（二）项中责令退赔被害单位衡水康氏金属有限公司经济损失的部分，即退赔被害单位衡水康氏金属有限公司经济损失人民币元二百四十七万四千二百二十九元四角三分，限判决生效后三十日内付清。\n三、责令上诉人韩建辉退赔被害单位衡水康氏金属有限公司经济损失人民币元二百三十九万四千二百二十九元四角三分。\n上述退赔款项均限本判决生效后十日内付清。",
+            "职务侵占案件中部分退赔对量刑的影响？": "### 结论\n在职务侵占案件中，部分退赔行为通常会被法院视为从轻处罚的情节，但其对量刑的影响程度取决于退赔的金额、时间、是否主动退赔以及是否配合调查等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定了职务侵占罪的构成要件和基本刑罚。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的从轻处罚情节。\n- **《中华人民共和国刑法》第六十四条**：规定了犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔金额**：退赔的金额越大，越可能获得较大的从轻处罚。例如，【（2019）粤0307刑初453号】中，被告人陈某某的家属代为退赔人民币4万元，法院在量刑时予以考虑，从轻处罚。\n- **退赔时间**：案发前主动退赔通常比案发后退赔获得更大幅度的从轻处罚。例如，【（2019）渝0103刑初617号】中，被告人徐杰虽有退赔行为，但因其在监视居住期间继续犯罪，未被认定为自首，退赔情节的从轻处罚力度可能受到影响。\n- **是否主动退赔**：主动退赔比被动退赔更可能获得从轻处罚。例如，【（2019）粤0307刑初3496号】中，被告人古某某在公司发现其侵占行为后主动退回部分财物，法院在量刑时予以考虑。\n- **配合调查**：退赔行为是否伴随着如实供述和配合调查，也会影响量刑。例如，【（2020）粤0606刑初504号】中，被告人温斌虽有退赔行为，但因其在侦查阶段未如实供述犯罪事实，法院在考虑退赔情节时可能有所保留。\n\n综上，部分退赔在职务侵占案件中通常被视为从轻处罚的情节，但其具体影响程度需综合考虑退赔的金额、时间、是否主动以及是否配合调查等多方面因素。\n\n#####\n类似案件为：\n【（2019）粤0307刑初453号】：法院认为，被告人陈某某的行为构成职务侵占罪。其具有如实供述自己罪行的从轻处罚情节。鉴于被告人的家属代为退赔被害单位部分损失，法院在量刑时予以考虑。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）渝0103刑初617号】：法院认为，徐杰利用职务便利，非法占有公司财物，数额较大，构成职务侵占罪；虚构事实，隐瞒真相，骗取他人财物，数额较大，构成诈骗罪。鉴于徐杰如实供述，曾主动退赔，量刑时予以考量。徐杰犯职务侵占罪，判处有期徒刑七个月；犯诈骗罪，判处有期徒刑一年五个月，并处罚金四千元；数罪并罚，决定执行有期徒刑一年十个月，并处罚金四千元。责令徐杰退赔被害单位和各被害人经济损失。\n【（2019）粤0307刑初3496号】：法院认为，被告人古某某的行为构成职务侵占罪，考虑其认罪认罚、部分退赔的情节，从轻处罚。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.当庭认罪认罚，表明悔罪态度。2.强调已主动返还部分货款7000元，具有悔罪表现。3.指出系初犯，主观恶性较小。4.说明犯罪金额应扣除已返还部分，实际侵占数额为208592元，仍属\"数额较大\"范畴。5.请求法庭考虑家庭经济困难等实际情况，从轻处罚。",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否构成职务侵占罪。查明情况：被告人已明确承认利用职务便利低价出售货物并截留货款，公诉人通过讯问确认其具体操作方式，辩护人对部分证据关联性提出质疑但未否定基本事实。审判长认为该焦点已查明，符合职务侵占罪的构成要件。\n\n2.涉案金额的认定问题。查明情况：被告人认可起诉书指控的215592元侵占金额，并确认已返还7000元。公诉人已就金额来源进行核实，辩护人对价格鉴定提出异议但未否定基本金额。审判长认为金额认定清楚，7000元应从犯罪金额中扣除。\n\n3.被告人主观故意认定。查明情况：被告人明确承认明知行为违法仍实施侵占，公诉人通过讯问确认其非法占有目的，辩护人虽质疑部分证据关联性但未否定主观故意。审判长认为主观故意已查明。\n\n4.量刑情节认定。查明情况：被告人如实供述构成坦白，但尚未取得被害单位谅解。公诉人建议从轻处罚，辩护人提出被告人认罪态度良好、主动退赔等从宽情节。审判长认为需进一步核实退赔能力及被害单位态度。\n\n5.是否适用缓刑。查明情况：被告人认罪悔罪并表示愿意退赔，但尚未全额退赔且未取得谅解。公诉人建议适用缓刑，辩护人提出给予分期退赔机会。审判长认为需综合评估其再犯可能性和社区影响。\n\n6.3%价格差异是否属于正常商业行为。查明情况：辩护人认为属于正常销售折扣范围，公诉人指出该行为未经公司授权。审判长认为该差异虽小但系擅自行为，不影响犯罪构成。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条",
+              "中华人民共和国刑法第六十七条",
+              "最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释第十一条"
+            ],
+            "中华人民共和国刑法第二百七十一条": "公司、企业或者其他单位的工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处三年以下有期徒刑或者拘役，并处罚金；数额巨大的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大的，处十年以上有期徒刑或者无期徒刑，并处罚金。国有公司、企业或者其他国有单位中从事公务的人员和国有公司、企业或者其他国有单位委派到非国有公司、企业以及其他单位从事公务的人员有前款行为的，依照本法第三百八十二条、第三百八十三条的规定定罪处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释第十一条": "刑法第一百六十三条规定的非国家工作人员受贿罪、第二百七十一条规定的职务侵占罪中的“数额较大”“数额巨大”的数额起点，按照本解释关于受贿罪、贪污罪相对应的数额标准规定的二倍、五倍执行。刑法第二百七十二条规定的挪用资金罪中的“数额较大”“数额巨大”以及“进行非法活动”情形的数额起点，按照本解释关于挪用公款罪“数额较大”“情节严重”以及“进行非法活动”的数额标准规定的二倍执行。刑法第一百六十四条第一款规定的对非国家工作人员行贿罪中的“数额较大”“数额巨大”的数额起点，按照本解释第七条、第八条第一款关于行贿罪的数额标准规定的二倍执行。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占案件中3%的价格差异是否属于正常商业行为范畴？",
+              "职务侵占案件中部分退赔但未取得谅解的量刑考量因素有哪些？"
+            ],
+            "职务侵占案件中3%的价格差异是否属于正常商业行为范畴？": "### 结论\n在职务侵占案件中，3%的价格差异是否属于正常商业行为范畴，关键在于该价格差异是否与行为人的职务便利、非法占有目的以及单位财物的性质和管理规定相联系。如果价格差异是基于市场波动、供需关系等正常商业因素导致，且行为人没有利用职务便利非法占有单位财物，则可能被视为正常商业行为。反之，如果价格差异是行为人利用职务便利，通过虚构交易、隐瞒真相等方式非法占有单位财物的结果，则不属于正常商业行为范畴。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **利用职务便利**：在【（2018）渝0112刑初1606号】中，法院认为被告人利用职务便利虚构加盟商名义订购产品并加价销售，将差额非法占为己有，构成职务侵占罪。这表明利用职务便利非法占有单位财物是构成职务侵占罪的关键因素。\n- **非法占有目的**：在【（2020）渝0243刑初64号】中，法院认为被告人张霖将本单位财物非法占为己有，用于生活开支和网络赌博，主观上不具有归还的意愿，客观上也未履行归还行为，符合职务侵占罪的构成要件。这说明非法占有目的的明确是判断是否构成职务侵占罪的重要标准。\n- **单位财物的性质和管理规定**：在【（2018）渝0112刑初1606号】中，法院认为加价销售所得的差额应归公司所有，系单位财物。这表明单位财物的性质和管理规定是判断是否构成职务侵占罪的重要考量因素。\n\n综上，3%的价格差异是否属于正常商业行为范畴，需要结合具体案件中行为人是否利用职务便利、是否具有非法占有目的以及单位财物的性质和管理规定来综合判断。如果价格差异是行为人利用职务便利非法占有单位财物的结果，即使差异较小，也可能构成职务侵占罪。\n\n#####\n类似案件为：\n【（2018）渝0112刑初1606号】：法院生效裁判认为：\n一、被告人加价销售所得的差额应归公司所有\n职务侵占的对象是“本单位财物”包括单位现存的财物和确定的收益，“本单位财物”不限于财物，还包括财产性利益。被告人加价销售所得的差额应归公司所有，系单位财物。虽然员工虚构加盟商名义订购火锅底料并加价销售是为公司所禁止的，被告人加价卖给某宝店主公司对此也不明知，但整个过程一直是以公司的名义，并利用了公司的销售渠道、资源和公司的火锅底料品牌。非加盟商某宝店主从秦某公司员工处具体定购火锅底料，实质上是与秦某公司形成了购买火锅底料的买卖合同关系，按约定支付货款，拿到秦某公司销售出库单后到秦某公司库房取货，因而具有相信与公司进行货物买卖的外观，买方同样视为与公司进行交易，自己的交易对象是公司，而不是被告人，一直以为加价销售是公司的行为。由此产生的收益，理应不是熊某甲、雷某的额外劳动所得，而应归公司。事实上，某宝店家与秦某公司的火锅底料买卖合同也已履行完毕。因此，某宝店家与秦某公司基于合同发生的交易，全部货款都应当归秦某公司所有，该差价应属秦某公司的合法利益所得。\n二、被告人利用了职务上的便利非法占有公司财物\n首先，熊某甲、雷某利用了职务上的便利。熊某甲原系秦某公司担任配货专员，职责是为正在经营的加盟商联系订购公司火锅底料等产品，利用可以使用“金蝶配货系统”之便，虚构某一加盟商的购货需求，私自在“金蝶配货系统”上填写虚假的购货单，然后加价卖给了非加盟商牟利，秦某公司发现后将熊某甲调任公司物流专员。之后熊某甲与接任的配货专员雷某共谋，利用雷某担任配货专员的职务便利，按照配货专员的流程操作，冒用公司加盟商的名义，按照熊某甲说的货品数量和品名私自在“金蝶配货系统”上填写虚假的购货单，配好货之后，将销售出库单打印出来，交给加盟中心招商部经理签字，后交公司财务核实款项是否到账，核实到账后财务签字，之后再交给熊某甲，熊某甲将销售出库单交给库管员，熊某甲通知客户去公司库房取货。客户到公司库房后会和熊某甲联系，熊某甲就去库房和客户对接取货，二人共同牟利。熊某甲与雷某共同勾结、相互配合，共同利用雷某担任配货专员的职务便利实施了侵占秦某公司财产的犯罪行为，符合 2000 年《最高人民法院关于审理贪污、职务侵占案件如何认定共同犯罪几个问题的解释》第二条的规定，二被告人属于共同利用职务便利。\n其次，熊某甲、雷某的行为属非法占有。此罪所指的占有， 既包括将合法持有的单位财物视为己物而加以处分、使用、收藏，也包括先不占有单位财物但利用职务之便而骗取、窃取、侵吞、私分从而转化为私有。不论哪一种形式，只要本质上利用职务之便占有即可构成本罪。在没有批准、授权的情况下，熊某甲、雷某对公司、客户两头隐瞒真相，将加价而得销售差额侵吞，当属后者，且非法占有的目的非常明显。应当以职务侵占罪追究二被告人刑事责任。\n【（2020）渝0243刑初64号】：法院认为，张霖在签订、履行合同过程中，虚构事实、隐瞒真相，骗取他人财物，数额巨大，构成合同诈骗罪；利用职务上的便利，非法占有本单位财物，数额较大，构成职务侵占罪。张霖一人犯数罪，应数罪并罚。张霖到案后如实供述，系坦白，予以从轻处罚。关于辩护意见，法院认为张霖的行为符合职务侵占罪的构成要件，主观上无归还意愿，客观上未归还，且不应以销售价认定职务侵占数额，收取货款的行为不构成正常经营行为，构成合同诈骗罪。一、被告人张霖犯合同诈骗罪，判处有期徒刑三年十个月，并处罚金人民币20000元；犯职务侵占罪，判处有期徒刑八个月，数罪并罚，决定执行有期徒刑四年二个月，并处罚金人民币20000元。\n（刑期从判决执行之日起开始计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，折抵刑期31日，即自2020年5月8日起至2024年6月6日止。罚金限判决生效后十日内缴纳。）\n二、责令被告人张霖于判决生效后十日内退赔神州公司人民币139100元，退赔被害人冉某某人民币42508元、许某人民币226500元、谭某某人民币80000元。\n【（2018）渝0112刑初1606号】：法院生效裁判认为：\n一、被告人加价销售所得的差额应归公司所有\n职务侵占的对象是“本单位财物”包括单位现存的财物和确定的收益，“本单位财物”不限于财物，还包括财产性利益。被告人加价销售所得的差额应归公司所有，系单位财物。虽然员工虚构加盟商名义订购火锅底料并加价销售是为公司所禁止的，被告人加价卖给某宝店主公司对此也不明知，但整个过程一直是以公司的名义，并利用了公司的销售渠道、资源和公司的火锅底料品牌。非加盟商某宝店主从秦某公司员工处具体定购火锅底料，实质上是与秦某公司形成了购买火锅底料的买卖合同关系，按约定支付货款，拿到秦某公司销售出库单后到秦某公司库房取货，因而具有相信与公司进行货物买卖的外观，买方同样视为与公司进行交易，自己的交易对象是公司，而不是被告人，一直以为加价销售是公司的行为。由此产生的收益，理应不是熊某甲、雷某的额外劳动所得，而应归公司。事实上，某宝店家与秦某公司的火锅底料买卖合同也已履行完毕。因此，某宝店家与秦某公司基于合同发生的交易，全部货款都应当归秦某公司所有，该差价应属秦某公司的合法利益所得。\n二、被告人利用了职务上的便利非法占有公司财物\n首先，熊某甲、雷某利用了职务上的便利。熊某甲原系秦某公司担任配货专员，职责是为正在经营的加盟商联系订购公司火锅底料等产品，利用可以使用“金蝶配货系统”之便，虚构某一加盟商的购货需求，私自在“金蝶配货系统”上填写虚假的购货单，然后加价卖给了非加盟商牟利，秦某公司发现后将熊某甲调任公司物流专员。之后熊某甲与接任的配货专员雷某共谋，利用雷某担任配货专员的职务便利，按照配货专员的流程操作，冒用公司加盟商的名义，按照熊某甲说的货品数量和品名私自在“金蝶配货系统”上填写虚假的购货单，配好货之后，将销售出库单打印出来，交给加盟中心招商部经理签字，后交公司财务核实款项是否到账，核实到账后财务签字，之后再交给熊某甲，熊某甲将销售出库单交给库管员，熊某甲通知客户去公司库房取货。客户到公司库房后会和熊某甲联系，熊某甲就去库房和客户对接取货，二人共同牟利。熊某甲与雷某共同勾结、相互配合，共同利用雷某担任配货专员的职务便利实施了侵占秦某公司财产的犯罪行为，符合 2000 年《最高人民法院关于审理贪污、职务侵占案件如何认定共同犯罪几个问题的解释》第二条的规定，二被告人属于共同利用职务便利。\n其次，熊某甲、雷某的行为属非法占有。此罪所指的占有， 既包括将合法持有的单位财物视为己物而加以处分、使用、收藏，也包括先不占有单位财物但利用职务之便而骗取、窃取、侵吞、私分从而转化为私有。不论哪一种形式，只要本质上利用职务之便占有即可构成本罪。在没有批准、授权的情况下，熊某甲、雷某对公司、客户两头隐瞒真相，将加价而得销售差额侵吞，当属后者，且非法占有的目的非常明显。应当以职务侵占罪追究二被告人刑事责任。",
+            "职务侵占案件中部分退赔但未取得谅解的量刑考量因素有哪些？": "### 结论\n在职务侵占案件中，部分退赔但未取得谅解的情况下，量刑考量因素主要包括：被告人的认罪态度、自首情节、退赔情况、犯罪数额、犯罪性质、社会危害性、被告人的主观恶性及人身危险性、是否适用缓刑的可能性等。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：公司、企业或者其他单位的工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪态度**：被告人的认罪态度是量刑时的重要考量因素。例如，【（2023）鲁0283刑初927号】中，被告人王某某自愿认罪认罚，可以从宽处理。\n- **自首情节**：自首是法定从轻或减轻处罚的情节。如【（2020）沪0120刑初666号】中，被告人高某有自首情节，依法可以从轻处罚。\n- **退赔情况**：部分退赔虽未取得谅解，但仍可作为酌情从轻处罚的因素。例如，【（2020）沪0120刑初666号】中，被告人与被害单位虽达成退赔协议，但被害单位大部分损失尚未挽回，量刑时予以考虑。\n- **犯罪数额**：犯罪数额是决定刑罚轻重的重要因素。如【（2018）浙0226刑初617号】中，被告人孙强侵占数额较大，构成职务侵占罪。\n- **犯罪性质与社会危害性**：犯罪的性质和对社会的危害程度是量刑的基本考量因素。例如，【（2019）沪0115刑初2240号】中，被告人高某的犯罪行为对社会秩序造成的影响，是量刑时的重要考量。\n- **主观恶性及人身危险性**：被告人的主观恶性及人身危险性也是量刑时需要考虑的因素。如【（2019）苏0205刑初828号】中，被告人张周的犯罪事实、情节，不符合适用缓刑的条件。\n- **是否适用缓刑**：根据被告人的犯罪情节、性质及社会危害性，法院会综合判断是否适用缓刑。例如，【（2019）沪0115刑初2240号】中，被告人高某的辩护人提出适用缓刑的辩护意见未被采纳。\n\n综上，职务侵占案件中，即使被告人部分退赔但未取得谅解，法院在量刑时会综合考虑上述因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2023）鲁0283刑初927号】：法院认为，王某某利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于王某某自愿认罪认罚，积极退赔赃款，可从宽处理。但考虑其长期多次实施职务侵占行为的犯罪情节及对被害单位生产经营造成的影响，未取得公司谅解，对其不宜宣告缓刑。一、被告人王某某犯职务侵占罪，判处有期徒刑一年六个月，并处罚金人民币二万五千元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即从2023年8月16日起，至2025年2月15日止。罚金已缴纳。）\n二、被告人王某某退缴的赃款人民币632899元，依法发还被害单位某某有限公司。\n【（2020）沪0120刑初666号】：法院认为，被告人高某作为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于高某有自首情节，依法可以从轻处罚。高某能自愿认罪认罚，可依法从宽处理。虽与被害单位达成退赔协议，但大部分损失尚未挽回，量刑时予以考虑。一、被告人高某犯职务侵占罪，判处有期徒刑一年。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。)\n二、责令高某退还被害单位上海万途汽车贸易有限公司人民币十七万九千二百五十二元。\n【（2020）沪0120刑初666号】：法院认为，被告人高某作为公司工作人员，利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。鉴于高某有自首情节，依法可以从轻处罚。高某能自愿认罪认罚，可依法从宽处理。虽与被害单位达成退赔协议，但大部分损失尚未挽回，量刑时予以考虑。一、被告人高某犯职务侵占罪，判处有期徒刑一年。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。)\n二、责令高某退还被害单位上海万途汽车贸易有限公司人民币十七万九千二百五十二元。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否构成职务侵占罪。查明情况：被告人已明确承认利用职务便利低价出售货物并截留货款，公诉人通过讯问确认其具体操作方式，辩护人对部分证据关联性提出质疑但未否定基本事实。审判长认为该焦点已查明，符合职务侵占罪的构成要件。\n\n2.涉案金额的认定问题。查明情况：被告人认可起诉书指控的215592元侵占金额，并确认已返还7000元。公诉人已就金额来源进行核实，辩护人对价格鉴定提出异议但未否定基本金额。审判长认为金额认定清楚，7000元应从犯罪金额中扣除。\n\n3.被告人主观故意认定。查明情况：被告人明确承认明知行为违法仍实施侵占，公诉人通过讯问确认其非法占有目的，辩护人虽质疑部分证据关联性但未否定主观故意。审判长认为主观故意已查明。\n\n4.量刑情节认定。查明情况：被告人如实供述构成坦白，但尚未取得被害单位谅解。公诉人建议从轻处罚，辩护人提出被告人认罪态度良好、主动退赔等从宽情节。审判长认为需进一步核实退赔能力及被害单位态度。\n\n5.是否适用缓刑。查明情况：被告人认罪悔罪并表示愿意退赔，但尚未全额退赔且未取得谅解。公诉人建议适用缓刑，辩护人提出给予分期退赔机会。审判长认为需综合评估其再犯可能性和社区影响。\n\n6.3%价格差异是否属于正常商业行为。查明情况：辩护人认为属于正常销售折扣范围，公诉人指出该行为未经公司授权。审判长认为该差异虽小但系擅自行为，不影响犯罪构成。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十一条第一款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "职务侵占罪数额较大案例判决情况",
+              "职务侵占罪缓刑适用条件",
+              "职务侵占罪罚金数额标准"
+            ],
+            "职务侵占罪数额较大案例判决情况": "### 结论\n职务侵占罪数额较大的案例判决情况显示，法院在认定职务侵占罪时，会重点考虑行为人是否利用了职务上的便利，非法占有的财物是否属于单位所有，以及非法占有的数额是否达到“数额较大”的标准。对于数额较大的认定，依据最高人民法院、最高人民检察院发布的相关解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第二百七十二条第一款**：公司、企业或者其他单位的工作人员，利用职务上的便利，挪用本单位资金归个人使用或者借贷给他人，数额较大、超过三个月未还的，或者虽未超过三个月，但数额较大、进行营利活动的，或者进行非法活动的，处三年以下有期徒刑或者拘役；挪用本单位资金数额巨大的，或者数额较大不退还的，处三年以上十年以下有期徒刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **利用职务上的便利**：法院会审查行为人是否利用了其在单位的职务便利，如【（2022）苏02刑终12号】中，黄某作为补货员，利用职务便利窃取单位财物，构成职务侵占罪。\n- **非法占有的财物是否属于单位所有**：如【（2021）渝0113刑初93号】中，刘某利用职务便利，私自收取小区业主停车费据为己有，构成职务侵占罪。\n- **非法占有的数额是否达到“数额较大”的标准**：如【（2020）苏0412刑再2号】中，赵丽、吕锋共同实施犯罪的犯罪金额为157000元，原审判决认定数额巨大不当，应认定为数额较大。\n\n综上，职务侵占罪的认定需综合考虑行为人是否利用职务便利、非法占有的财物性质以及非法占有的数额，其中非法占有的数额是否达到“数额较大”的标准是决定罪名轻重的关键因素。\n\n#####\n类似案件为：\n【（2020）苏0412刑再2号】：法院认为，被告人赵丽、吕锋共同利用赵丽的职务便利，企图非法占有公司财物，其行为构成职务侵占罪，属共同犯罪，且犯罪未遂。根据2016年两高发布的司法解释，职务侵占罪数额较大的起点为6万元，数额巨大的起点为100万元。本案中，被告人企图侵占的财物价值157000元，应认定为数额较大，法定刑为五年以下有期徒刑或拘役。原审判决认定数额巨大不当，应予纠正。被告人归案后如实供述，依法可以从轻处罚。原审判决量刑适当，但《中华人民共和国刑法》第二百七十一条中并无罚金刑规定，原审判决中并处罚金刑属适用法律错误，应予纠正。一、维持本院（2016）苏0412刑初273号刑事判决中关于原审被告人赵丽、吕锋的定罪部分；撤销本院（2016）苏0412刑初273号刑事判决关于原审被告人赵丽、吕锋的量刑部分。\n二、原审被告人赵丽犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕。）\n原审被告人吕锋犯职务侵占罪，判处拘役五个月。（刑期自2015年11月28日起至2016年4月27日止，已执行完毕）",
+            "职务侵占罪缓刑适用条件": "### 结论\n职务侵占罪的缓刑适用条件主要包括：被告人的犯罪情节、悔罪表现、退赃情况、社会危害性、是否为初犯、是否认罪认罚、是否具有再犯罪的危险以及对社区的影响。其中，积极退赃、认罪认罚、初犯、社会危害性较小、悔罪表现明显、对社区无重大不良影响的被告人更可能被适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条**：规定了职务侵占罪的构成要件和处罚。\n- **《中华人民共和国刑法》第七十二条**：规定了缓刑的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃情况**：被告人是否积极退赔被害单位的经济损失，是适用缓刑的重要考量因素。例如，【（2019）苏1181刑初451号】中，被告人陆娇归案后已将侵占款全部退缴，弥补了被害单位的损失，法院因此认为其符合缓刑适用条件。\n- **认罪认罚**：被告人是否认罪认罚，承认指控事实，是适用缓刑的另一重要考量因素。例如，【（2020）鲁0323刑初299号】中，被告人陈某某自愿认罪认罚，法院认为可以从宽处罚。\n- **悔罪表现**：被告人的悔罪表现也是适用缓刑的重要考量因素。例如，【（2017）浙0602刑初258号】中，被告人吴卫芳的辩护人提出其主观恶性较小的意见未被采纳，法院认为其行为的主观恶性及社会危害性较大，不适用缓刑。\n- **社会危害性**：被告人的行为对社会的危害程度也是适用缓刑的重要考量因素。例如，【（2022）苏1291刑初2号】中，被告人王玉泉职务侵占数额巨大，且大部分赃款被其挥霍，至今未能退还，法院认为不宜适用缓刑。\n- **初犯**：被告人是否为初犯也是适用缓刑的考量因素。例如，【（2019）粤0309刑初192号】中，被告人戴某记系初犯，法院在量刑时予以考虑，并对其宣告缓刑。\n- **对社区的影响**：被告人的行为对所居住的社区是否有重大不良影响，也是适用缓刑的考量因素。例如，【（2019）粤0309刑初192号】中，法院认为对被告人戴某记适用缓刑没有再犯罪的危险且对所居住的社区没有重大不良影响，决定对其宣告缓刑。\n\n综上，职务侵占罪的缓刑适用需综合考虑被告人的犯罪情节、悔罪表现、退赃情况、社会危害性、是否为初犯、是否认罪认罚、是否具有再犯罪的危险以及对社区的影响。其中，积极退赃、认罪认罚、初犯、社会危害性较小、悔罪表现明显、对社区无重大不良影响的被告人更可能被适用缓刑。\n\n#####\n类似案件为：\n【（2019）苏1181刑初451号】：法院认为，陆娇身为公司工作人员，利用职务之便将公司财物非法占为己有，数额较大，构成职务侵占罪。鉴于陆娇认罪认罚，已退赔全部侵占款，具有悔罪表现，无前科，所在社区同意监管，符合缓刑适用条件。被告人陆娇犯职务侵占罪，判处有期徒刑三年，缓刑三年（缓刑考验期限，从判决确定之日起计算）。\n【（2020）鲁0323刑初299号】：法院认为，被告人陈某某利用职务便利，将本单位资金非法占为己有，数额较大；非法收受他人财物，为他人谋取利益，数额较大，其行为构成职务侵占罪、非国家工作人员受贿罪。陈某某系自首，自愿认罪认罚，依法可以从轻、从宽处罚。但其多次侵占村委财物、多次收受他人财物，不符合缓刑适用条件。一、被告人陈某某犯职务侵占罪，判处有期徒刑二年；犯非国家工作人员受贿罪，判处拘役六个月；决定执行有期徒刑二年。\n（刑期自判决执行之日起计算；判决执行以前被留置、先行羁押的，留置、羁押一日折抵刑期一日，即自2020年9月7日起至2022年9月6日止。）\n二、被告人陈某某职务侵占的违法所得人民币42.1288万元退还被害单位，非国家工作人员受贿的违法所得10万元予以没收，上缴国库。\n【（2017）浙0602刑初258号】：法院认为，被告人吴卫芳利用职务上的便利，将本单位财物非法占为己有，数额巨大，其行为已构成职务侵占罪。鉴于吴卫芳有自首情节，部分退赃，可从轻处罚，但多次实施职务侵占，有巨额损失尚未挽回，主观恶性及社会危害性较大，不适用缓刑。一、被告人吴卫芳犯职务侵占罪，判处有期徒刑五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日）；\n 二、责令被告人吴卫芳继续退赔被害单位的经济损失。",
+            "职务侵占罪罚金数额标准": "### 结论\n职务侵占罪的罚金数额标准并非固定不变，而是根据犯罪的具体情节、数额大小以及司法解释的变化而调整。在《中华人民共和国刑法》中，职务侵占罪的罚金刑并非所有情况下都适用，其适用与否及具体数额需根据案件的具体情况和相关司法解释来确定。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十一条第一款**：规定刑法第二百七十一条规定的职务侵占罪中的“数额较大”、“数额巨大”的数额起点，按照本解释关于受贿罪、贪污罪相对应的数额标准的2倍、5倍执行。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额是决定是否适用罚金刑以及罚金数额的关键因素。例如，【（2022）苏02刑终12号】中，法院在判决中考虑了犯罪数额，并对被告人处以罚金人民币5000元。\n- **犯罪情节**：犯罪情节包括犯罪手段、犯罪后果、被告人的认罪态度等，这些因素会影响是否适用罚金刑以及罚金的具体数额。例如，【（2021）京0111刑初1413号】中，法院考虑到被告人主动退赔了被害单位的经济损失，从而从轻处罚。\n- **司法解释的变化**：司法解释的变化会影响职务侵占罪的量刑标准，包括罚金的适用。例如，【（2021）粤0309刑初235号】中，法院根据《中华人民共和国刑法修正案（十一）》颁布并生效，依照从旧兼从轻的刑法适用原则，适用修正案对职务侵占罪的量刑规定，即数额较大的，处三年以下有期徒刑或者拘役，并处罚金。\n\n综上，职务侵占罪的罚金数额标准受到犯罪数额、犯罪情节以及司法解释变化的影响，法院在判决时会综合考虑这些因素来确定是否适用罚金刑以及罚金的具体数额。\n\n#####\n类似案件为：\n【（2021）京0111刑初1413号】：法院生效裁判认为：被告人严某勇利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪，依法应予惩处。检察院指控被告人严某勇犯有职务侵占罪的事实清楚，证据确实、充分，罪名成立，法院予以支持。鉴于被告人严某勇到案后如实供述自己的罪行且认罪认罚，依法可以从轻处罚。鉴于被告人严某勇主动退赔了被害单位的经济损失，可从轻处罚。对于辩护人所提被告人系自首的辩护意见，经查，被告人不具备主动投案的行为，不符合自首的法律规定，对该意见不予采纳，对其他相关辩护意见，法院予以采纳。\n【（2021）粤0309刑初235号】：法院认为，被告人吴某明以非法占有为目的，利用职务上的便利，将单位财物非法占为己有，数额较大，其行为构成职务侵占罪。吴某明犯罪后自动投案，如实供述自己的罪行，系自首，依法可以从轻处罚；吴某明案发后积极退还被害单位部分经济损失，在量刑时予以考虑。根据被告人吴某明的犯罪事实，归案后的认罪态度，依照《中华人民共和国刑法》第二百七十一条、第六十七条第一款、第五十二条、第五十三条、第六十四条之规定，判决如下：\n一、被告人吴某明犯职务侵占罪，判处有期徒刑十一个月，并处罚金人民币二万元。\n二、责令被告人吴某明赔偿被害单位华联威公司经济损失人民币244333.29元。\n三、公安机关扣押在案的被告人吴某明手机一部，发还被告人。一、被告人吴某明犯职务侵占罪，判处有期徒刑十一个月，并处罚金人民币二万元（刑期从判决执行之日起计算，判决执行之前先行羁押的，羁押一日折抵刑期一日，即刑期自2020年10月12日起至2021年9月11日止）。\n二、责令被告人吴某明赔偿被害单位深圳市华联威电子科技有限公司经济损失人民币244333.29元。\n三、公安机关扣押在案的被告人吴某明手机一部，发还被告人。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 0.0,
+    "reprieve": 24.0
+  }
+]

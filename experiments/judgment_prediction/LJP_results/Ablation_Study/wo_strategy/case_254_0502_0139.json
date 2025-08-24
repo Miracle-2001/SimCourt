@@ -1,0 +1,1539 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人阮某甲，性别男，民族XXX，文化程度XXX，户籍XXX。因涉嫌犯有容留卖淫罪，于2018年3月14日被刑事拘留。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "广西壮族自治区博白县人民检察院  \n起 诉 书  \n\n博检公诉刑诉〔2018〕392号  \n\n被告人阮某甲，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌容留卖淫罪，于2018年3月14日被刑事拘留。  \n\n本案由博白县公安局侦查终结，以被告人阮某甲涉嫌容留卖淫罪，于2018年7月24日向本院移送起诉。本院受理后，依法告知被告人有权委托辩护人，审查了全部案件材料。  \n\n经依法审查查明：  \n2017年8月至2018年3月间，被告人阮某甲伙同李某（另案处理）利用博白县英桥镇工商所后面的瓦房作为窝点，容留妇女进行卖淫，并从中收取好处费。2018年3月14日，公安民警依法对该处进行查处，当场查获正在卖淫嫖娼的卖淫女王某甲、黄某甲、刘某甲及嫖客吴某甲、黄某乙、钟某甲等人。  \n\n认定上述事实的证据如下：  \n1. 证人证言：证人吴某乙、王某乙、黄某丙、雷某、钟某乙、刘某乙、胡某、姚某、唐某、杨某及同案人李某的证言；  \n2. 书证：行政处罚决定书、现场勘验笔录、现场图、现场照片、现场笔录、抓获经过、受案登记表、立案决定书、户籍证明；  \n3. 勘验笔录：现场勘验笔录记载了卖淫窝点的具体位置和现场情况；  \n4. 书证：现场照片显示瓦房内有多张简易床铺和使用过的避孕套等物品；  \n5. 书证：现场图详细标注了卖淫窝点的内部结构和出入口位置；  \n6. 书证：现场笔录记录了查处时现场发现的卖淫嫖娼人员情况；  \n7. 书证：抓获经过说明公安机关查处该卖淫窝点的过程；  \n8. 书证：受案登记表证明本案的立案情况；  \n9. 书证：立案决定书显示公安机关对本案的立案侦查决定。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人阮某甲对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人阮某甲以营利为目的，伙同他人提供场所容留妇女从事卖淫活动，其行为已触犯《中华人民共和国刑法》第三百五十九条第一款之规定，犯罪事实清楚，证据确实、充分，应当以容留卖淫罪追究其刑事责任。被告人阮某甲在共同犯罪中起主要作用，是主犯，依法应当按照其所参与的全部犯罪处罚。被告人阮某甲归案后如实供述自己的罪行，属坦白，依法可以从轻处罚。根据被告人阮某甲的犯罪事实、性质、情节及对社会的危害程度，建议判处被告人阮某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n广西壮族自治区博白县人民法院  \n\n检 察 员 邹某甲  \n检察官助理 XXX  \n2018年7月24日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你与李某是如何分工合作经营该卖淫窝点的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我和李某一起提供场所，他负责联系卖淫女和嫖客，我负责看管场地和收取费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们收取的好处费具体是如何分配的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "好处费是五五分成。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们从2017年8月开始经营该窝点，期间共容留了多少名卖淫女从事卖淫活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "具体人数记不清了，大概有5-6名。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们收取的每次卖淫活动的费用是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "每次收取30-50元不等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否采取过措施防止公安机关查处？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有采取特别措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否向卖淫女提供食宿或其他便利条件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我们为卖淫女提供简易床铺和基本食宿。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否向嫖客提供过安全套等物品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "提供过安全套。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否向当地有关部门支付过保护费或其他形式的贿赂？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有支付过保护费或贿赂。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女的人身自由进行过限制？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有限制过卖淫女的人身自由。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女收取过押金或其他形式的费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收取过押金或其他费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过暴力威胁或其他形式的强迫行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过暴力威胁或强迫行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过体检或采取其他健康防护措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过体检或采取健康防护措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫活动进行过宣传或招揽顾客？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过宣传或招揽顾客。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过培训或指导？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过培训或指导。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过身份登记或留存过身份信息？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过身份登记或留存身份信息。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过年龄核查？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过年龄核查。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过安全方面的培训或提醒？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过安全方面的培训或提醒。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过健康检查或要求她们提供健康证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过健康检查或要求提供健康证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们在经营期间是否对卖淫女进行过毒品提供或允许在场所内吸毒？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供或允许吸毒。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，相关问题已经充分询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与李某在经营该场所期间，是否曾明确知道这些女性从事的是卖淫活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某在经营该场所期间，是否曾主动招募或引诱女性从事卖淫活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动招募或引诱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某在经营该场所期间，是否曾对卖淫活动的时间、价格或方式进行过规定或限制？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有规定或限制过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某在经营该场所期间，是否曾对卖淫女收取过超出场地使用费的其他费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收取过其他费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某在经营该场所期间，是否曾对卖淫女的人身自由进行过限制或控制？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有限制或控制过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某在经营该场所期间，是否曾对卖淫女进行过人身威胁或暴力行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过人身威胁或暴力行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某在经营该场所期间，是否曾对卖淫女进行过组织或管理？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过组织或管理。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，相关问题已经充分询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你们在经营期间是否对卖淫女和嫖客的身份信息进行过登记？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过登记。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你们在经营期间是否曾向公安机关举报过其他卖淫窝点？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有举报过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你们在经营期间是否曾对卖淫女和嫖客进行过身份核查？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过身份核查。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你们在经营期间是否曾对卖淫女和嫖客之间的交易进行过抽成？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有抽成。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你们在经营期间是否曾对卖淫女和嫖客之间的交易金额进行过规定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有规定过交易金额。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2017年8月至2018年3月间，我与李某在广西壮族自治区博白县英桥镇工商所后面的瓦房内容留妇女从事卖淫活动，并从中收取好处费。2018年3月14日，公安民警查处该窝点，当场抓获卖淫女王某甲、黄某甲、刘某甲及嫖客吴某甲、黄某乙、钟某甲等人。  \n\n（2）犯案动机  \n我与李某共同提供场所容留卖淫，目的是通过收取好处费获利。  \n\n（3）案发之后的处理  \n我没有主动自首，被公安机关抓获归案。归案后如实供述了自己的罪行，当庭自愿认罪。目前没有进行赔偿，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：证人吴某乙作证称：“2018年3月14日，我在博白县英桥镇工商所后面的瓦房进行嫖娼活动，被公安机关当场查获。”附公安机关询问笔录，笔录编号20180314-WM，询问人张某、李某，记录人王某乙，询问时间2018年3月14日15:30",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人王某乙作证称：“我是被阮某甲容留在瓦房内从事卖淫活动的，2018年3月14日正在接客时被警察抓获。”附公安机关询问笔录，笔录编号20180314-WN，询问人赵某、钱某，记录人孙某，询问时间2018年3月14日16:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人黄某丙作证称：“我看到阮某甲和李某经常带不同女性进出工商所后面的瓦房，那些女性看起来像是在从事卖淫活动。”附公安机关询问笔录，笔录编号20180315-HM1，询问人周某、吴某乙，记录人郑某，询问时间2018年3月15日10:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人雷某作证称：“我曾听村里人说阮某甲在工商所后面开了一个卖淫窝点，还向嫖客收取费用。”附公安机关询问笔录，笔录编号20180315-LM1，询问人冯某、陈某，记录人褚某，询问时间2018年3月15日11:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人钟某乙作证称：“2018年3月14日，我在瓦房嫖娼时被警察抓获，阮某甲平时会向我们收取费用。”附公安机关询问笔录，笔录编号20180314-ZM1，询问人卫某、蒋某，记录人沈某，询问时间2018年3月14日17:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人刘某乙作证称：“我是被阮某甲安排在该瓦房卖淫的，每次交易后都要向他交钱。”附公安机关询问笔录，笔录编号20180314-LN，询问人韩某、杨某，记录人朱某，询问时间2018年3月14日18:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人胡某作证称：“我经常看到陌生男子进出那个瓦房，怀疑里面在进行非法交易。”附公安机关询问笔录，笔录编号20180315-HN，询问人秦某、尤某，记录人许某，询问时间2018年3月15日09:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人姚某作证称：“阮某甲曾向我炫耀说他有个地方可以'做生意'，指的就是容留卖淫。”附公安机关询问笔录，笔录编号20180315-YM，询问人何某、吕某，记录人施某，询问时间2018年3月15日14:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人唐某作证称：“我亲眼看到阮某甲收取嫖客的钱，然后分给卖淫女。”附公安机关询问笔录，笔录编号20180315-TN，询问人张某、孔某，记录人曹某，询问时间2018年3月15日15:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人杨某作证称：“那个瓦房经常有男女进出，行为可疑，我怀疑是卖淫场所。”附公安机关询问笔录，笔录编号20180315-YN，询问人严某、华某，记录人金某，询问时间2018年3月15日16:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.同案人证言：同案人李某供述：“我和阮某乙有合伙利用这个瓦房容留妇女卖淫，共同收取好处费。”附公安机关讯问笔录，笔录编号20180314-LM，讯问人魏某、陶某，记录人姜某，讯问时间2018年3月14日19:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：行政处罚决定书，证明涉案人员因卖淫嫖娼被公安机关行政处罚",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.勘验笔录：现场勘验笔录记载了卖淫窝点的具体位置和现场情况，勘验人谢某、邹某乙，记录人喻某，勘验时间2018年3月14日20:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：现场照片显示瓦房内有多张简易床铺和使用过的避孕套等物品，照片拍摄时间2018年3月14日20:30，拍摄地点博白县英桥镇工商所后面瓦房，拍摄人员窦某",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：现场图详细标注了卖淫窝点的内部结构和出入口位置，绘制人章某、苏某，绘制时间2018年3月14日21:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：现场笔录记录了2018年3月14日查处时现场发现的卖淫嫖娼人员情况，记录人潘某、葛某，记录时间2018年3月14日22:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：抓获经过说明公安机关查处该卖淫窝点的过程，经办人范某、彭某，记录时间2018年3月14日23:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：受案登记表证明本案的立案情况，登记时间2018年3月14日，经办人鲁某，附相关部门盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：立案决定书显示公安机关对本案的立案侦查决定，决定时间2018年3月15日，经办人韦某，附相关部门盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：户籍证明证实被告人阮某甲的身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第三百五十九条第一款规定，被告人阮某甲以营利为目的，伙同他人提供场所容留妇女从事卖淫活动，其行为已构成容留卖淫罪。本案证据确实充分，被告人对犯罪事实供认不讳。\n\n关于量刑情节，需要指出三点：第一，被告人在共同犯罪中起主要作用，是主犯，根据刑法第二十六条第四款规定，应当按照其所参与的全部犯罪处罚。第二，被告人归案后如实供述自己的罪行，具有坦白情节，根据刑法第六十七条第三款规定，可以从轻处罚。第三，被告人未对卖淫女采取健康防护措施，未进行身份登记和年龄核查，增加了社会危害性。\n\n综合考虑被告人的犯罪事实、性质、情节及对社会的危害程度，公诉机关提出的量刑建议是适当的。建议法庭依法判处被告人阮某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人对公诉机关指控的罪名没有异议，但就量刑方面提出以下辩护意见：\n\n第一，关于被告人在共同犯罪中的作用。根据《刑法》第二十七条，在共同犯罪中起次要或者辅助作用的，是从犯。本案中，被告人仅负责看管场地和收取费用，而联系卖淫女和嫖客等主要工作均由同案人李某负责，被告人在共同犯罪中实际处于从属地位。\n\n第二，关于被告人的主观恶性。被告人未主动招募卖淫女，未对卖淫活动进行组织管理，未采取暴力、胁迫等手段限制卖淫女人身自由，也未对卖淫女进行人身控制，其主观恶性相对较轻。\n\n第三，关于被告人的认罪态度。根据《刑法》第六十七条第三款，被告人归案后如实供述自己的罪行，当庭自愿认罪，认罪态度良好，依法可以从轻处罚。\n\n第四，关于社会危害性。虽然被告人未采取健康防护措施，但提供了安全套等基本防护用品，且涉案时间较短，规模较小，社会危害性相对有限。\n\n综上，建议法庭充分考虑被告人的从犯地位、主观恶性较小、认罪态度良好等情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从犯问题，公诉人认为：根据《刑法》第二十六条，组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。本案中被告人与李某共同经营卖淫窝点，分工明确且利益均分，被告人实际控制场地并直接收取费用，在犯罪活动中起到不可或缺的作用，应认定为主犯。\n\n关于主观恶性问题，需要指出：被告人明知是卖淫活动仍长期提供场所并从中牟利，且未采取任何措施防止未成年人参与或疾病传播，其主观上对违法行为持放任态度，社会危害性不容忽视。\n\n关于认罪态度，公诉人已充分认可被告人的坦白情节并在量刑建议中予以体现。但需要强调的是，被告人系被抓获归案，并非主动投案，不符合自首的法定条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主从犯认定问题，辩护人认为应当根据《刑法》第二十七条全面考量。被告人在共同犯罪中仅负责场地看管和费用收取，未参与卖淫活动的组织策划，也未对卖淫女进行管理控制，其作用明显次于同案人李某。根据最高人民法院《关于审理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第四条，应当认定为从犯。\n\n关于社会危害性问题，需要补充说明：被告人虽未主动采取健康防护措施，但提供了安全套等基本防护用品，且涉案时间仅7个月，容留人数5-6人，规模较小。根据《解释》第二条，尚未达到\"情节严重\"的标准。\n\n关于认罪态度，被告人虽非自首，但根据《刑事诉讼法》第十五条，认罪认罚可以从宽处理。被告人当庭自愿认罪，态度诚恳，依法应当从宽处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于从犯认定问题，公诉人需要强调：根据《刑法》第二十六条，被告人与李某共同经营卖淫窝点长达7个月，不仅提供场地还直接参与利润分成，对犯罪活动具有实质性的控制力。最高人民法院《关于审理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第四条明确规定，提供场所并参与利润分成的，应当认定为主犯。\n\n关于社会危害性，虽然提供了安全套，但被告人未对卖淫女进行身份登记和年龄核查，存在容留未成年人卖淫的风险。根据《解释》第二条，容留多人卖淫已构成犯罪，且持续时间较长，社会危害性不容低估。\n\n关于认罪认罚从宽，公诉人已在量刑建议中充分体现。但需要指出，被告人系被抓获归案，未主动投案，也未进行任何经济赔偿或取得谅解，从宽幅度应当依法从严把握。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主从犯认定，辩护人提请法庭注意：根据《刑法》第二十七条，从犯是指在共同犯罪中起次要或者辅助作用的。本案中被告人仅提供场地和收取费用，未参与卖淫活动的组织策划，也未对卖淫女进行管理控制，其作用明显次于同案人李某。最高人民法院《关于审理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第四条明确规定，仅提供场所的，应当认定为从犯。\n\n关于社会危害性，需要补充说明：被告人虽未主动采取健康防护措施，但提供了安全套等基本防护用品，且涉案时间仅7个月，容留人数5-6人，规模较小。根据《解释》第二条，尚未达到\"情节严重\"的标准。\n\n关于认罪态度，被告人虽非自首，但根据《刑事诉讼法》第十五条，认罪认罚可以从宽处理。被告人当庭自愿认罪，态度诚恳，依法应当从宽处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，深刻认识到自己的错误行为对社会造成的危害。我自愿接受法律的惩罚，保证今后遵纪守法，绝不再犯。恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "广西壮族自治区博白县人民法院\n刑事判决书\n（2018）博刑初字第392号\n\n公诉机关广西壮族自治区博白县人民检察院。\n被告人阮某甲，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌容留卖淫罪，于2018年3月14日被刑事拘留。\n辩护人XXX（写明姓名、性别、工作单位和职务）。\n\n广西壮族自治区博白县人民检察院于2018年7月24日以被告人阮某甲犯容留卖淫罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。博白县人民检察院检察员邹某甲出庭支持公诉，被告人阮某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n博白县人民检察院指控：2017年8月至2018年3月间，被告人阮某甲伙同李某利用博白县英桥镇工商所后面的瓦房作为窝点，容留妇女进行卖淫，并从中收取好处费。2018年3月14日被公安机关查处。被告人阮某甲对指控的犯罪事实和证据没有异议，并自愿认罪。辩护人对罪名无异议，就量刑提出辩护，认为被告人在共同犯罪中起次要作用，应认定为从犯，且认罪态度良好，应从轻处罚。\n\n经审理查明，2017年8月至2018年3月间，被告人阮某甲伙同李某在博白县英桥镇工商所后面的瓦房内容留妇女从事卖淫活动，并从中收取好处费。期间容留约5-6名卖淫女，每次收取30-50元不等的费用，为卖淫女提供简易床铺和基本食宿，但未采取健康防护措施。2018年3月14日被公安机关查处，当场查获卖淫嫖娼人员。上述事实有被告人的供述、证人证言、现场勘验笔录、照片等证据证实，足以认定。\n\n本院认为，被告人阮某甲以营利为目的，伙同他人提供场所容留妇女从事卖淫活动，其行为已构成容留卖淫罪。公诉机关指控的罪名成立。在共同犯罪中，被告人阮某甲起主要作用，是主犯，依法应当按照其所参与的全部犯罪处罚。被告人阮某甲归案后如实供述自己的罪行，属坦白，依法可以从轻处罚。辩护人关于从犯的辩护意见与查明事实不符，不予采纳；关于认罪态度良好的辩护意见与查明事实相符，予以采纳。依照《中华人民共和国刑法》第三百五十九条第一款、第二十五条第一款、第二十六条第一款、第四款、第六十七条第三款、第七十二条第一款、第三款、第七十三条第二款、第三款、第五十二条、第五十三条之规定，判决如下：\n\n一、被告人阮某甲犯容留卖淫罪，判处有期徒刑一年六个月，缓刑二年，并处罚金人民币五千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向玉林市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2018年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其与李某共同容留卖淫并收取好处费的事实\n   - 10名证人证言，证实被告人容留卖淫的具体情况\n   - 同案人李某的证言，证实合伙经营卖淫窝点的事实\n   - 行政处罚决定书、现场勘验笔录、现场照片等书证，证实卖淫窝点的具体情况\n   - 立案决定书、受案登记表等程序性文书\n\n2. 被告人对公诉人出示的全部证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其与李某共同容留卖淫并收取好处费的事实\n   - 10名证人证言，证实被告人容留卖淫的具体情况\n   - 同案人李某的证言，证实合伙经营卖淫窝点的事实\n   - 行政处罚决定书、现场勘验笔录、现场照片等书证，证实卖淫窝点的具体情况\n   - 立案决定书、受案登记表等程序性文书\n\n2. 被告人对公诉人出示的全部证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其与李某共同容留卖淫并收取好处费的事实\n   - 10名证人证言，证实被告人容留卖淫的具体情况\n   - 同案人李某的证言，证实合伙经营卖淫窝点的事实\n   - 行政处罚决定书、现场勘验笔录、现场照片等书证，证实卖淫窝点的具体情况\n   - 立案决定书、受案登记表等程序性文书\n\n2. 被告人对公诉人出示的全部证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其与李某共同容留卖淫并收取好处费的事实\n   - 10名证人证言，证实被告人容留卖淫的具体情况\n   - 同案人李某的证言，证实合伙经营卖淫窝点的事实\n   - 行政处罚决定书、现场勘验笔录、现场照片等书证，证实卖淫窝点的具体情况\n   - 立案决定书、受案登记表等程序性文书\n\n2. 被告人对公诉人出示的全部证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成容留卖淫罪，证据确实充分\n- 指出被告人在共同犯罪中起主要作用，是主犯\n- 认可被告人坦白情节，建议从轻处罚\n- 指出被告人未采取健康防护措施等加重情节\n- 建议判处有期徒刑XX，缓刑XX，并处罚金\n\n2. 辩护人发表辩护意见：\n- 对罪名无异议，就量刑提出辩护\n- 认为被告人在共同犯罪中起次要作用，应认定为从犯\n- 指出被告人主观恶性较轻，未采取暴力胁迫手段\n- 强调被告人认罪态度良好，应从轻处罚\n- 认为社会危害性相对有限，未达\"情节严重\"标准\n\n3. 控辩双方主要争议焦点：\n- 关于主从犯认定：公诉人坚持主犯认定，辩护人主张从犯\n- 关于社会危害性评估：公诉人认为危害严重，辩护人认为相对有限\n- 关于量刑情节：双方对坦白情节无争议，但对从宽幅度有不同意见\n\n4. 双方引用的主要法律依据：\n- 《刑法》第26条、第27条（主从犯认定）\n- 《刑法》第67条（坦白从宽）\n- 《刑事诉讼法》第15条（认罪认罚从宽）\n- 最高法相关司法解释（容留卖淫案件适用标准）",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于经营卖淫窝点的具体情况：\n- 被告人与李某分工合作，李某负责联系卖淫女和嫖客，被告人负责看管场地和收取费用\n- 好处费五五分成\n- 期间容留约5-6名卖淫女\n- 每次收取30-50元不等的费用\n- 为卖淫女提供简易床铺和基本食宿\n- 提供安全套但未采取其他健康防护措施\n- 未对卖淫女进行身份登记、年龄核查或健康检查\n\n2. 辩护人讯问被告人关于经营行为的性质：\n- 被告人明知女性从事卖淫活动\n- 未主动招募或引诱女性卖淫\n- 未对卖淫活动进行规定或限制\n- 未对卖淫女进行人身限制或暴力行为\n- 未对卖淫女进行组织管理\n\n3. 审判长补充讯问：\n- 未对卖淫女和嫖客进行身份登记\n- 对交易进行抽成但未规定具体金额\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其与李某共同容留卖淫并收取好处费的事实\n   - 10名证人证言，证实被告人容留卖淫的具体情况\n   - 同案人李某的证言，证实合伙经营卖淫窝点的事实\n   - 行政处罚决定书、现场勘验笔录、现场照片等书证，证实卖淫窝点的具体情况\n   - 立案决定书、受案登记表等程序性文书\n\n2. 被告人对公诉人出示的全部证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成容留卖淫罪，证据确实充分\n- 指出被告人在共同犯罪中起主要作用，是主犯\n- 认可被告人坦白情节，建议从轻处罚\n- 指出被告人未采取健康防护措施等加重情节\n- 建议判处有期徒刑XX，缓刑XX，并处罚金\n\n2. 辩护人发表辩护意见：\n- 对罪名无异议，就量刑提出辩护\n- 认为被告人在共同犯罪中起次要作用，应认定为从犯\n- 指出被告人主观恶性较轻，未采取暴力胁迫手段\n- 强调被告人认罪态度良好，应从轻处罚\n- 认为社会危害性相对有限，未达\"情节严重\"标准\n\n3. 控辩双方主要争议焦点：\n- 关于主从犯认定：公诉人坚持主犯认定，辩护人主张从犯\n- 关于社会危害性评估：公诉人认为危害严重，辩护人认为相对有限\n- 关于量刑情节：双方对坦白情节无争议，但对从宽幅度有不同意见\n\n4. 双方引用的主要法律依据：\n- 《刑法》第26条、第27条（主从犯认定）\n- 《刑法》第67条（坦白从宽）\n- 《刑事诉讼法》第15条（认罪认罚从宽）\n- 最高法相关司法解释（容留卖淫案件适用标准）",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 5000.0,
+    "reprieve": 24.0
+  }
+]

@@ -1,0 +1,1281 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人肖某，男，XXX年X月X日出生，户籍福建省光泽县，文化程度XXX，民族XXX。因涉嫌犯滥伐林木罪，于2019年2月1日被提起公诉。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "福建省光泽县人民检察院  \n起 诉 书  \n\n光检生态刑诉〔2019〕4号  \n\n被告人肖某，男，XXX年X月X日出生，户籍福建省光泽县，文化程度XXX，民族XXX。因涉嫌犯滥伐林木罪，于2019年2月1日被提起公诉。  \n\n本案由光泽县林业执法部门侦查终结，以被告人肖某涉嫌滥伐林木罪，于2019年2月1日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n被告人肖某明知因林权纠纷，林木权属尚无法确权的情况下，于2018年8月，未办理林木采伐许可证，雇佣本村村民吴某甲携带油锯等工具到光泽县止马镇杉关村对面山土名“椒坑”山场中，砍伐自己早年种植的杉木一天并将砍伐的杉木放置现场晾晒直至案发。经现场勘查和林业专业技术人员鉴定，上述被滥伐地点位于光泽县止马镇杉关村土名“椒坑”山场，40林班3大班8（1）小班。滥伐杉木275株，材积17.6822立方米，折立木蓄积27.8460立方米。  \n\n认定上述事实的证据如下：  \n1. 证人证言：证人吴某乙、吴某丙、吴某甲、傅某、何某甲、黄某、何某乙的证言笔录及辨认笔录、照片；  \n2. 书证：林权证明、租赁协议、固定资产移交清册、村委会证明；  \n3. 现场勘查笔录、现场照片；  \n4. 林业案件技术鉴定意见及检尺结算单；  \n5. 被告人肖某的供述及辨认笔录、照片；  \n6. 扣押物品决定书；  \n7. 复植补种协议。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人肖某对指控的犯罪事实和证据没有异议，并自愿认罪认罚。  \n\n本院认为，被告人肖某为谋求个人私利，违反国家森林法规，未经林业行政管理部门的批准并核发林木采伐许可证，擅自砍伐权属尚存在争议的林木蓄积达27.8460立方米，数量较大，其行为已构成滥伐林木罪，犯罪事实清楚，证据确实、充分，应当以滥伐林木罪追究其刑事责任。被告人肖某在案发后能主动投案，如实供述自己的犯罪事实，具有法定从轻处罚的情节，同时又具有自愿缴纳罚金的酌定从轻处罚情节。建议判处被告人肖某拘役XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n光泽县人民法院  \n\n检  察  官  XXX  \n检察官助理  XXX  \n\n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人肖某，你明知林权存在纠纷的情况下，为何仍决定砍伐这些杉木？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为这些杉木是我早年种植的，虽然林权有纠纷，但我以为有权处置这些树木，所以没有办理采伐许可证就砍伐了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你雇佣吴某甲砍伐杉木时，是否明确告知过他这些林木存在权属争议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确告知过吴某甲这些林木存在权属争议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐的这些杉木最终去向如何？是否进行了销售或自用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "砍伐的杉木一直放在现场晾晒，没有进行销售或自用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐杉木的具体时间是2018年8月的哪一天？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年8月15日。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐杉木时是否知道需要办理采伐许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道需要办理采伐许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐杉木后是否采取了任何补救措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "砍伐后我与杉关村委会签订了复植补种协议，承诺在2019年5月1日前补种杉木。目前还没有进行其他赔偿或取得谅解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐杉木的具体数量是如何确定的？是否对林业部门鉴定的27.8460立方米立木蓄积有异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道需要办理采伐许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人肖某，你种植这些杉木的具体时间是什么时候？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2005年种植的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植这些杉木时是否与当地村委会或林业部门签订过任何协议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2005年种植时没有与村委会或林业部门签订过协议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植这些杉木时是否获得了当地村委会或林业部门的许可？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时种植时获得了村委会的口头同意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木的具体位置是否在争议山场的范围内？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是在争议山场的范围内。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木后是否进行过日常管理和维护？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我每年都会进行除草、施肥等日常管理维护工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木时是否获得过任何形式的书面许可或证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有获得过书面许可或证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木时是否获得过当地村民的认可或同意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时种植时得到了部分村民的口头认可。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木时是否获得过村委会或林业部门的任何经济补助或政策支持？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有获得过村委会或林业部门的经济补助或政策支持。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木后是否向村委会或林业部门申请过林权证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有申请过林权证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木时是否明确知道该地块存在权属争议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时种植时知道这块地有些争议，但具体权属情况不太清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木后是否向村委会或林业部门缴纳过任何土地使用费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有缴纳过土地使用费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植杉木时是否获得过村委会或林业部门的任何书面确认或证明文件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有获得过书面确认或证明文件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就被告人种植杉木的相关情况进行了充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人肖某，你砍伐杉木后是否主动向林业部门报告过砍伐情况？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动向林业部门报告过砍伐情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人肖某，你砍伐杉木后是否主动向公安机关投案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动向公安机关投案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木时是否知道该行为可能构成犯罪？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能违法，但没想到会构成犯罪。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木时是否知道该地块已被划入40林班3大班8（1）小班？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道该地块被划入林班。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木后是否与当地村民或村委会就此事进行过协商或调解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有与村民或村委会进行过协商或调解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。2018年8月，我在福建省光泽县止马镇杉关村“椒坑”山场，雇佣村民吴某甲使用油锯砍伐了我早年种植的275株杉木。砍伐后，木材被放置在现场晾晒直至案发。经鉴定，被砍伐杉木材积17.6822立方米，折立木蓄积27.8460立方米。  \n\n（2）犯案动机。我认为这些杉木是我早年种植的，虽然林权存在纠纷且未确权，但我认为有权处置这些林木，因此未办理采伐许可证便进行了砍伐。  \n\n（3）案发之后的处理。我主动投案并如实供述了犯罪事实。在案件审理过程中，我与杉关村民委员会达成“复植补种”协议，承诺于2019年5月1日前在指定山场补种杉木。目前尚未赔偿其他损失，也未取得其他方面的谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：证人吴某乙说：“我看见肖某雇佣吴某甲在‘椒坑’山场砍伐杉木，当时没有看到采伐许可证。”经林业部门核实，肖某未取得该山场采伐许可证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人吴某丙说：“我听说肖某在争议山场砍树，后来去看了现场，确实有很多杉木被砍倒。”经调查核实，肖某砍伐行为属实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人吴某甲说：“肖某雇我用油锯在‘椒坑’山场砍了一天杉木，他说是他早年种的，但我没看到采伐证。”经林业部门核实，肖某未出示有效采伐许可证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人傅某说：“村里人都知道那片山场有林权纠纷，肖某砍树前没办手续。”经村委会证实，该山场确实存在权属争议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人何某甲说：“我是村委会成员，肖某砍树的山场权属还没确定，村里没同意他采伐。”经林业主管部门认定，该山场权属存在争议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人黄某说：“我在林业站工作，接到举报后去现场勘查，发现大量杉木被无证砍伐。”经林业执法部门认定，该砍伐行为属无证采伐",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人何某乙说：“我参与了现场检尺，被砍的杉木有275株，材积约17立方米。”该检尺工作由林业部门专业技术人员进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：林权证明一份，证实“椒坑”山场40林班3大班8（1）小班存在权属争议。该证明由县林业局出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：租赁协议一份，显示肖某曾与村委会签订过林地租赁合同，但争议山场不包含在内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：村委会证明一份，说明杉关村未向肖某发放过涉案山场的采伐许可证。该证明经乡政府审核认可",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：固定资产移交清册一份，记录被扣押的17.6822立方米杉木情况。该清册经林业执法部门确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.物证：扣押的杉木275株，材积17.6822立方米。该测量由林业部门专业技术人员完成",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.勘验笔录：现场勘查笔录及照片，记录“椒坑”山场被砍伐杉木的现场情况。该勘查由林业执法部门专业人员进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.鉴定意见：林业案件技术鉴定书，认定被伐杉木折立木蓄积27.8460立方米。该鉴定书由县林业局技术鉴定中心出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：复植补种协议一份，肖某承诺在40林班2大班9小班补种杉木",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪问题。根据《刑法》第三百四十五条第二款规定，被告人肖某在明知林权存在争议且未取得采伐许可证的情况下，擅自砍伐杉木275株，立木蓄积达27.8460立方米，已达到\"数量较大\"标准，其行为已构成滥伐林木罪。被告人对犯罪事实供认不讳，证据确实充分。\n\n二、关于量刑情节。1.被告人虽未主动投案，但在到案后能如实供述犯罪事实，根据《刑法》第六十七条第三款，可以从轻处罚；2.被告人已签订复植补种协议，表明其有悔罪表现；3.但被告人未主动报告砍伐行为，未取得相关方谅解，也未实际履行补种义务，这些因素应在量刑时予以考虑。\n\n三、关于辩护人提出的种植事实。虽然被告人确实进行了种植和维护，但根据《森林法》规定，林木权属争议未解决前不得采伐，且必须办理采伐许可证。被告人的种植行为不能成为其违法采伐的正当理由。\n\n四、关于社会危害性。被告人的行为破坏了森林资源管理秩序，在权属争议地区擅自砍伐，可能激化社会矛盾，应当依法惩处。\n\n综上，建议法庭采纳起诉书提出的量刑建议，判处被告人拘役并适用缓刑，同时判处罚金。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于被告人主观恶性方面。被告人种植并维护涉案杉木长达13年，虽未取得林权证，但确实投入了大量劳动。根据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第五条，对于自己种植的林木，被告人主观上存在认识错误，其违法性认识程度较低。\n\n二、关于犯罪后果方面。被伐杉木一直存放现场未予销售，未造成实际经济损失。根据《刑法》第六十一条规定，量刑时应考虑犯罪情节和社会危害程度，本案实际危害后果较轻。\n\n三、关于认罪悔罪表现。被告人已签订复植补种协议，承诺恢复植被，表明其有悔罪诚意。根据《刑法》第六十七条规定，被告人如实供述犯罪事实，依法可以从轻处罚。\n\n四、关于量刑建议。考虑到被告人系初犯，无前科劣迹，且涉案林木系其自行种植，建议法庭在量刑时充分体现宽严相济的刑事政策，采纳公诉机关提出的缓刑建议。\n\n综上，恳请法庭对被告人从轻处罚，给予改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于辩护人提出的主观恶性问题。虽然被告人确实进行了种植，但根据《森林法》第三十二条规定，采伐林木必须申请采伐许可证，且权属争议的林木不得采伐。被告人在明知需要许可证且存在权属争议的情况下仍实施砍伐，其违法性认识是明确的。\n\n二、关于犯罪后果问题。被伐杉木虽未销售，但已造成27.8460立方米立木蓄积的森林资源损失，根据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第三条，已达到\"数量较大\"的入罪标准，社会危害性不容忽视。\n\n三、关于认罪悔罪表现。需要指出的是，被告人仅签订了复植补种协议但尚未实际履行，也未对权属争议方进行赔偿或取得谅解，其悔罪表现尚不充分。建议法庭在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于主观认识问题。被告人虽知晓需要采伐许可证，但根据其长期种植维护的事实，确实存在对林木处置权的认识偏差。根据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第八条，对于因认识错误导致的滥伐行为，在量刑时应予区别对待。\n\n二、关于社会危害性评估。被伐杉木系被告人自行种植，且一直存放现场未流入市场，未造成生态链破坏。根据《刑法》第六十一条规定，量刑时应充分考虑这一特殊情节。\n\n三、关于悔罪表现。被告人已签订复植补种协议并承诺履行，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于确有悔罪表现的初犯，可以从宽处罚。建议法庭给予被告人改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观认识问题。被告人明确承认知晓需要办理采伐许可证，且在明知林权存在争议的情况下仍实施砍伐，其违法性认识是明确的。根据《森林法》第三十九条，权属争议的林木在争议解决前不得采伐，被告人的行为已明显违反法律规定。\n\n二、关于社会危害性评估。被伐杉木虽系被告人种植，但立木蓄积27.8460立方米已达到《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第三条规定的\"数量较大\"标准，客观上已造成森林资源损失。\n\n三、关于悔罪表现。需要强调的是，被告人仅签订复植补种协议但尚未实际履行，也未对权属争议方进行赔偿或取得谅解，其悔罪表现尚不充分。根据《刑法》第六十一条规定，量刑时应综合考虑这些情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于主观认识问题。被告人虽知晓需要采伐许可证，但根据其13年种植维护的事实，确实存在对林木处置权的合理期待。根据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第五条，对于因认识偏差导致的违法行为，在量刑时应予从宽考量。\n\n二、关于社会危害性评估。被伐杉木系被告人自行种植且未流入市场，未造成生态链破坏。根据《刑法》第六十一条规定，量刑时应充分考虑这一特殊情节。\n\n三、关于悔罪表现。被告人已签订复植补种协议并承诺履行，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于确有悔罪表现的初犯，可以从宽处罚。建议法庭给予缓刑机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，在没有办理采伐许可证的情况下砍伐林木，违反了森林法规。我自愿认罪认罚，已经与村委会签订了复植补种协议，承诺恢复植被。我保证今后一定遵纪守法，恳请法庭从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "福建省光泽县人民法院\n刑事判决书\n（2019）光刑初字第XX号\n\n公诉机关光泽县人民检察院。\n被告人肖某，男，XXX年X月X日出生，汉族，福建省光泽县人，文化程度XXX，住XXX。因涉嫌犯滥伐林木罪于2019年2月1日被提起公诉。\n辩护人XXX（姓名、性别、工作单位和职务）。\n\n光泽县人民检察院以光检生态刑诉〔2019〕4号起诉书指控被告人肖某犯滥伐林木罪，于2019年2月1日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。光泽县人民检察院指派检察员XXX出庭支持公诉，被告人肖某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n光泽县人民检察院指控：被告人肖某明知\"椒坑\"山场存在林权纠纷，在未办理林木采伐许可证的情况下，于2018年8月雇佣他人砍伐其种植的杉木275株，立木蓄积27.8460立方米，其行为已构成滥伐林木罪。被告人肖某对指控的犯罪事实和证据没有异议，并自愿认罪认罚。\n\n经审理查明：2018年8月，被告人肖某在明知福建省光泽县止马镇杉关村\"椒坑\"山场（40林班3大班8（1）小班）存在林权纠纷的情况下，未办理林木采伐许可证，雇佣村民吴某甲砍伐其早年种植的杉木275株。经鉴定，被伐杉木立木蓄积27.8460立方米。案发后，被告人肖某主动投案并如实供述犯罪事实，与村委会签订了复植补种协议。\n\n上述事实有下列证据证实：\n1.被告人肖某的供述及辨认笔录；\n2.证人吴某甲、吴某乙等7人的证言；\n3.林权证明、租赁协议等书证；\n4.现场勘查笔录及照片；\n5.林业技术鉴定书；\n6.扣押物品决定书；\n7.复植补种协议。\n\n本院认为，被告人肖某违反森林法规，未经许可滥伐林木，数量较大，其行为已构成滥伐林木罪。公诉机关指控的罪名成立。被告人肖某具有自首情节，自愿认罪认罚，并与村委会达成复植补种协议，依法可以从轻处罚。辩护人关于被告人主观恶性较小、有悔罪表现的辩护意见予以采纳。依照《中华人民共和国刑法》第三百四十五条第二款、第六十七条第一款、第七十二条第一款、第七十三条第一款、第三款之规定，判决如下：\n\n被告人肖某犯滥伐林木罪，判处拘役四个月，缓刑六个月，并处罚金人民币三千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向南平市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\nXXXX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其无证砍伐275株杉木的事实及动机\n   - 7名证人证言，证实被告人无证砍伐行为及山场权属争议情况\n   - 林权证明、租赁协议等书证，证实涉案山场存在权属争议且未获采伐许可\n   - 现场勘查笔录及照片、扣押杉木等物证\n   - 林业技术鉴定书，认定被伐杉木立木蓄积27.8460立方米\n   - 复植补种协议\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未出示新证据\n\n5. 被告人未申请调取新证据或重新鉴定",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其无证砍伐275株杉木的事实及动机\n   - 7名证人证言，证实被告人无证砍伐行为及山场权属争议情况\n   - 林权证明、租赁协议等书证，证实涉案山场存在权属争议且未获采伐许可\n   - 现场勘查笔录及照片、扣押杉木等物证\n   - 林业技术鉴定书，认定被伐杉木立木蓄积27.8460立方米\n   - 复植补种协议\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未出示新证据\n\n5. 被告人未申请调取新证据或重新鉴定",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其无证砍伐275株杉木的事实及动机\n   - 7名证人证言，证实被告人无证砍伐行为及山场权属争议情况\n   - 林权证明、租赁协议等书证，证实涉案山场存在权属争议且未获采伐许可\n   - 现场勘查笔录及照片、扣押杉木等物证\n   - 林业技术鉴定书，认定被伐杉木立木蓄积27.8460立方米\n   - 复植补种协议\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未出示新证据\n\n5. 被告人未申请调取新证据或重新鉴定",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其无证砍伐275株杉木的事实及动机\n   - 7名证人证言，证实被告人无证砍伐行为及山场权属争议情况\n   - 林权证明、租赁协议等书证，证实涉案山场存在权属争议且未获采伐许可\n   - 现场勘查笔录及照片、扣押杉木等物证\n   - 林业技术鉴定书，认定被伐杉木立木蓄积27.8460立方米\n   - 复植补种协议\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未出示新证据\n\n5. 被告人未申请调取新证据或重新鉴定\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 认定被告人行为构成滥伐林木罪，证据确实充分\n- 指出被告人虽未主动投案但如实供述，可从轻处罚\n- 强调被告人未主动报告砍伐行为，未实际履行补种义务\n- 认为被告人的行为破坏了森林资源管理秩序\n\n2. 辩护人发表辩护意见：\n- 提出被告人主观恶性较小，存在认识错误\n- 指出犯罪后果较轻，未造成实际经济损失\n- 强调被告人已签订复植补种协议，有悔罪表现\n- 建议法庭采纳缓刑建议\n\n3. 双方主要争议焦点：\n- 关于主观认识：公诉人认为被告人违法性认识明确，辩护人主张存在认识偏差\n- 关于社会危害性：公诉人强调已达到入罪标准，辩护人认为实际危害较轻\n- 关于悔罪表现：公诉人指出尚未实际履行补种，辩护人强调已签订协议\n\n4. 辩论要点重复：\n- 双方就主观认识、社会危害性和悔罪表现进行了两轮补充辩论\n- 各自坚持原有立场，未提出新的事实或证据",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人承认在明知林权存在纠纷且需要采伐许可证的情况下，仍于2018年8月15日雇佣他人砍伐自己种植的275株杉木（立木蓄积27.8460立方米）\n- 被告人未告知受雇人林木存在权属争议\n- 砍伐的杉木未进行销售或自用，一直放置现场\n- 被告人承认知道需要办理采伐许可证\n- 被告人与村委会签订了复植补种协议，但尚未进行其他赔偿或取得谅解\n\n2. 辩护人讯问：\n- 被告人2005年在争议山场种植杉木，仅获得村委会口头同意，未签订书面协议\n- 被告人每年进行林木维护，但未获得林权证或缴纳土地使用费\n- 种植时知道地块存在权属争议但具体情况不清楚\n\n3. 审判长讯问：\n- 被告人未主动向林业部门或公安机关报告砍伐情况\n- 被告人知道砍伐行为违法但未意识到构成犯罪\n- 确认被告人知晓该地块已被划入林班\n- 被告人未就砍伐事宜与村民或村委会进行协商调解\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其无证砍伐275株杉木的事实及动机\n   - 7名证人证言，证实被告人无证砍伐行为及山场权属争议情况\n   - 林权证明、租赁协议等书证，证实涉案山场存在权属争议且未获采伐许可\n   - 现场勘查笔录及照片、扣押杉木等物证\n   - 林业技术鉴定书，认定被伐杉木立木蓄积27.8460立方米\n   - 复植补种协议\n\n2. 被告人对所有出示的证据均表示无异议\n\n3. 辩护人对所有出示的证据均表示无异议\n\n4. 辩护人未出示新证据\n\n5. 被告人未申请调取新证据或重新鉴定\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 认定被告人行为构成滥伐林木罪，证据确实充分\n- 指出被告人虽未主动投案但如实供述，可从轻处罚\n- 强调被告人未主动报告砍伐行为，未实际履行补种义务\n- 认为被告人的行为破坏了森林资源管理秩序\n\n2. 辩护人发表辩护意见：\n- 提出被告人主观恶性较小，存在认识错误\n- 指出犯罪后果较轻，未造成实际经济损失\n- 强调被告人已签订复植补种协议，有悔罪表现\n- 建议法庭采纳缓刑建议\n\n3. 双方主要争议焦点：\n- 关于主观认识：公诉人认为被告人违法性认识明确，辩护人主张存在认识偏差\n- 关于社会危害性：公诉人强调已达到入罪标准，辩护人认为实际危害较轻\n- 关于悔罪表现：公诉人指出尚未实际履行补种，辩护人强调已签订协议\n\n4. 辩论要点重复：\n- 双方就主观认识、社会危害性和悔罪表现进行了两轮补充辩论\n- 各自坚持原有立场，未提出新的事实或证据",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 4.0,
+    "fine": 3000.0,
+    "reprieve": 6.0
+  }
+]

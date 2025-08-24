@@ -1,0 +1,3291 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人王某甲，男，XXX年X月X日出生，户籍XXXXX，汉族，XXX文化程度，无犯罪前科，山西盛百泽投资有限公司法定代表人。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "阳泉市城区人民检察院  \n起 诉 书  \n\n阳城检刑刑诉〔2017〕298号  \n\n被告人王某甲，男，XXX年X月X日出生，公民身份号码XXXX，汉族，XXX文化程度，户籍所在地XXXX，山西盛百泽投资有限公司法定代表人。因涉嫌非法吸收公众存款罪，于2017年5月31日被伊某乙县公安局抓获，2017年6月9日移交阳某乙市公安局城区分局。  \n\n本案由阳某乙市公安局城区分局侦查终结，以被告人王某甲涉嫌非法吸收公众存款罪，于2017年12月8日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2014年7月24日，被告人王某甲注册成立山西盛百泽投资管理有限公司并担任法定代表人。2014年8月至12月间，该公司违反国家金融管理法律规定，未经有关部门批准，通过业务员散发传单、口头宣传等方式，以月息1.4%-1.6%的高额利息为诱饵，向社会不特定公众55人非法吸收存款共计290万元，支付利息13.35万元，造成实际损失276.646万元。吸收资金被王某甲用于出借给李某甲等人，至今未归还。  \n\n认定上述事实的证据如下：  \n1. 书证：抓获经过、羁押证明、工商登记材料、租赁合同、审计报告等；  \n2. 证人证言：刘某甲、马某、屈某等公司员工及亲属证言；  \n3. 被害人陈述：胡某等55名投资人的报案材料及损失说明；  \n4. 被告人供述：王某甲对犯罪事实的供认；  \n5. 鉴定意见：山西晨泰会计师事务所出具的审计报告；  \n6. 其他证据：借据、合同等。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人王某甲对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人王某甲作为公司法定代表人，违反国家金融管理法规，非法吸收公众存款，扰乱金融秩序，数额巨大，其行为触犯了《中华人民共和国刑法》第一百七十六条第二款之规定，犯罪事实清楚，证据确实、充分，应当以非法吸收公众存款罪追究其刑事责任。建议判处被告人王某甲有期徒刑XX，缓刑XX，并处罚金XX。  \n\n此致  \n阳泉市城区人民法院  \n\n检 察 官 杨某甲  \n检察官助理 张某甲  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，愿意认罪认罚。但我确实是因为法律意识淡薄才触犯了法律，现在非常后悔。我会尽力筹措资金赔偿投资人损失，希望法庭能从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某甲，你作为公司法定代表人，在2014年8月至12月期间，是否亲自参与了向社会公众吸收存款的具体业务操作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我参与了公司吸收存款的具体业务操作，包括制定投资方案、确定利息标准等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向55名投资人吸收的290万元资金，具体是通过哪些方式使用的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "其中250万元借给了朋友李某甲，其余约40万元用于公司日常运营开支，我个人从中获利约5、6万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众宣传的投资项目是否真实存在？具体是什么项目？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "河南伊川重腾刚玉有限公司的投资项目是真实存在的，我们确实与该公司有业务往来。具体是为该公司提供资金支持，用于其刚玉生产线的运营。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众宣传的投资回报率1.4%-1.6%是如何确定的？是否经过相关金融监管部门批准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这个利率是我根据当时民间借贷市场的行情自行确定的，没有经过任何金融监管部门的批准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否明确告知投资人这些资金将用于出借给李某甲个人？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确告知投资人资金将用于出借给李某甲个人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否向投资人出示过河南伊川重腾刚玉有限公司的相关资质证明或投资协议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人出示过河南伊川重腾刚玉有限公司的相关资质证明或投资协议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否向投资人说明过该投资行为存在风险？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人说明过投资风险。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否向投资人说明过该投资行为未经金融监管部门批准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人说明过该投资行为未经金融监管部门批准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否与投资人签订了书面合同？合同内容是否包含资金用途、风险提示等条款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "签订了书面合同，但合同内容主要是关于投资金额、期限和利息的约定，没有包含资金用途和风险提示等条款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否向投资人承诺过保本付息？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我们向投资人承诺过保本付息。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否对投资人的身份和资金来源进行过审核？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有对投资人的身份和资金来源进行过审核。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司向公众吸收存款时，是否向投资人说明过该投资行为与银行储蓄存款的区别？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人说明过与银行储蓄存款的区别。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某甲之间是否存在书面借款协议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有书面借款协议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "借款协议中约定的借款利率是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "借款协议约定的利率是月息2%。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "李某甲是否按期支付了借款利息？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "李某甲前期支付了部分利息，但从2015年6月起就停止支付了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司向投资人支付的13.35万元利息是从什么渠道筹集的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "从公司运营资金和我个人资金中支付的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司向投资人吸收资金时，是否向投资人明确告知过资金将用于民间借贷？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确告知投资人资金将用于民间借贷。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司向投资人吸收资金时，是否向投资人提供过公司营业执照等资质证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "提供了公司营业执照等资质证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司向投资人吸收资金时，是否向投资人说明过资金将用于河南伊川重腾刚玉有限公司的具体项目？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人具体说明资金将用于河南伊川重腾刚玉有限公司的哪个具体项目。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向公众吸收存款时，是否向投资人说明过资金将用于河南伊川重腾刚玉有限公司的具体项目？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人具体说明资金将用于河南伊川重腾刚玉有限公司的哪个具体项目。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向公众吸收存款时，是否向投资人提供过河南伊川重腾刚玉有限公司的财务报表或其他经营状况证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人提供过河南伊川重腾刚玉有限公司的财务报表或其他经营状况证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向公众吸收存款时，是否向投资人披露过你公司与河南伊川重腾刚玉有限公司之间的具体业务往来证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人披露过我公司与河南伊川重腾刚玉有限公司之间的具体业务往来证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向公众吸收存款时，是否向投资人披露过资金实际用途与宣传用途不符的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向投资人披露过资金实际用途与宣传用途不符的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2014年7月24日，我在阳泉市注册成立山西盛百泽投资管理有限公司，担任法定代表人。公司实际经营地点位于阳泉市南山南路龙泉小区E幢三层楼。2014年8月至12月期间，公司通过雇佣业务员散发传单、推销介绍等方式，向社会不特定人群宣传河南伊川重腾刚玉有限公司的投资项目，承诺高额利息回报，吸引公众投资。公司与投资人签订资产管理合同，出具借据和承诺函，提供担保。共吸收55名投资人存款合计290万元，支付利息133540元，造成实际损失2766460元。吸收的资金被我借给朋友李某甲250万元，其余部分用于公司运营和个人获利约5、6万元。  \n\n（2）犯案动机  \n公司注册经营范围虽为自有资金投资，但实际从事吸收公众存款业务。我未取得相关金融业务许可，但认为通过担保和高息承诺可以吸引投资，再将资金转借他人获取利差。  \n\n（3）案发之后的处理  \n2017年5月31日，我在河南省伊川县被交警查获，因未携带有效证件且神情慌张，经核查被确认为网上在逃人员。2017年6月1日至9日在伊川县看守所羁押，后移交阳泉市公安局城区分局。案发后我没有主动自首，目前尚未赔偿投资人损失，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：伊川县公安局交通警察大队五中队出具的抓获经过，证实2017年5月31日民警查获未年检车辆时发现驾驶员王某甲系网上在逃人员",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：河南省伊川县看守所出具的羁押证明，证实被告人王某甲于2017年6月1日至6月9日在该所羁押，后移交阳泉市公安局城区分局",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：阳泉市公安局城区分局经济犯罪侦查大队出具的常住人口基本信息，证实被告人王某甲的自然身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人刘某甲（业务经理）称：“我在2014年11月入职山西盛百泽公司，法人是王某甲。公司通过宣传单承诺高息吸收存款，我经手1名投资人10万元，自己投资12万元，损失11万余元。资金去向不清楚。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人马某（业务经理）称：“我负责管理业务员，公司以月息1.4%-1.6%吸收存款，经手8名投资人73万元，自己投资1万元损失9520元。资金由王某甲控制。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人屈某（王某甲妻子）称：“公司由王某甲实际经营，我只短暂帮忙做饭。看到有人来存钱签合同，但具体业务不清楚。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人侯某（会计）称：“公司通过签订资产管理合同吸储，利率1.4%-1.6%。我经手约100人302万元投资，账本已交给王某甲。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：租赁合同及商品房买卖合同，证实王某甲租赁阳泉市龙泉小区E幢三层楼作为公司办公场所",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：收据存根两张，显示王某甲2014年支付房租共计20万元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：山西盛百泽公司营业执照等工商资料，证实公司注册资本5000万元，经营范围含自有资金投资，法定代表人为王某甲",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：山西省阳泉市城区人民法院（2016）晋0302刑初366号刑事判决书，证实该公司及业务员马某、刘某甲已被判刑",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.鉴定意见：山西晨泰会计师事务所审计报告，证实公司非法吸收55人存款290万元，支付利息13.35万元，实际损失276.6万元。该审计报告由具有合法资质的山西晨泰会计师事务所出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：阳泉市公安局城区分局经侦大队出具的说明，证实王某甲作为法人于2017年6月被抓获",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：嫌疑人员前科劣迹调查表，证实王某甲无犯罪记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人王某乙（王某甲之子）称：“父亲说将投资款借给老乡李某甲250万元，但对方公司已停业，借条至今未兑现。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：借据三张，显示王某甲2014年分三次借给李某甲合计250万元。借据的真实性已经司法鉴定确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：山西省工商行政管理局出具的公司登记材料，证实山西盛百泽公司2014年7月成立及变更信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：河南伊川重腾耐火材料有限公司工商登记资料，证实该公司法定代表人白某及经营范围。该证据与本案无直接关联",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.被害人陈述：被害人胡某称：“2014年12月投资6万元，仅获1920元利息，损失58080元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.被害人陈述：被害人闫某称：“2014年10月投资30万元，获息1.8万元，实际损失28.2万元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.被害人陈述：被害人刘某乙称：“2014年12月投资1万元，损失9840元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.被害人陈述：被害人张某乙称：“2014年10月投资10万元，获息8000元，损失9.2万元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.被害人陈述：被害人马某称：“2014年9月投资1万元，损失9520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.被害人陈述：被害人李某乙称：“2014年12月投资2万元，损失19360元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.被害人陈述：被害人李某丙称：“2014年12月投资3万元，损失29040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.被害人陈述：被害人孙某甲称：“2014年11月投资10万元，损失95800元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.被害人陈述：被害人孙某乙称：“2014年11月投资2万元，损失18880元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.被害人陈述：被害人宋某甲称：“2014年9月投资1万元，损失9200元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.被害人陈述：被害人魏某称：“两次投资共3万元，分别损失19720元和9840元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.被害人陈述：被害人张某丙称：“2014年12月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.被害人陈述：被害人郝某称：“2014年10月投资2万元，损失18720元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.被害人陈述：被害人张某丁称：“三次投资共4万元，分别损失9580元、18720元和9440元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.被害人陈述：被害人张某戊称：“2014年12月投资10万元，损失96400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.被害人陈述：被害人刘某甲称：“两次投资共12万元，分别损失96400元和19040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.被害人陈述：被害人田某称：“2014年11月投资1万元，损失9550元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.被害人陈述：被害人王某丙称：“2014年10月投资10万元，损失95800元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.被害人陈述：被害人冯某甲称：“2014年10月投资2万元，损失18720元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "39.被害人陈述：被害人曹某称：“两次投资共10万元，分别损失28080元和65520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "40.被害人陈述：被害人纽某称：“2014年12月投资1万元，损失9860元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "41.被害人陈述：被害人王某丁称：“两次投资共2万元，分别损失9580元和9550元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "42.被害人陈述：被害人路某称：“2014年11月投资1万元，损失9580元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "43.被害人陈述：被害人商某称：“2014年12月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "44.被害人陈述：被害人石某称：“2014年11月投资1万元，损失9580元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "45.被害人陈述：被害人康某称：“2014年10月投资10万元，损失93600元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "46.被害人陈述：被害人郭某甲称：“四次投资共4万元，分别损失9360元（三次）和9520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "47.被害人陈述：被害人薛某甲称：“三次投资共3万元，均损失9400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "48.被害人陈述：被害人郭某乙称：“2014年12月投资5万元，损失48400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "49.被害人陈述：被害人陈某称：“两次投资共2万元，均损失9400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "50.被害人陈述：被害人张某己称：“2014年10月投资2万元，损失19040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "51.被害人陈述：被害人贾某称：“2014年10月投资3万元，损失28740元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "52.被害人陈述：被害人张某庚称：“2014年10月投资1万元，损失9360元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "53.被害人陈述：被害人高某称：“三次投资共3万元，分别损失9100元、9040元和9300元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "54.被害人陈述：被害人李某丁称：“2014年11月投资6万元，损失58320元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "55.被害人陈述：被害人赵某称：“2014年11月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "56.被害人陈述：被害人杨某乙称：“三次投资共3万元，均损失9580元（两次）和9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "57.被害人陈述：被害人史某称：“2014年10月投资1万元，损失9550元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "58.被害人陈述：被害人薛某乙称：“2014年10月投资1万元，损失9300元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "59.被害人陈述：被害人付某称：“2014年10月投资3万元，损失28320元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "60.被害人陈述：被害人孙某丙称：“2014年12月投资2万元，损失19040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "61.被害人陈述：被害人武某称：“三次投资共3万元，分别损失9360元（两次）和9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "62.被害人陈述：被害人白某称：“2014年11月投资1万元，损失9520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "63.被害人陈述：被害人王某戊称：“四次投资共14万元，分别损失67060元、19160元、28740元和19160元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "64.被害人陈述：被害人王某己称：“2014年10月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "65.被害人陈述：被害人郭某丙称：“两次投资共2万元，分别损失9680元和9740元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "66.被害人陈述：被害人宋某乙称：“两次投资共36万元，分别损失166600元和186200元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "67.被害人陈述：被害人宋某丙称：“两次投资共23万元，分别损失142350元和77760元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "68.被害人陈述：被害人李某戊称：“2014年11月投资1万元，损失9850元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "69.被害人陈述：被害人冯某乙称：“2014年12月投资10万元，损失94300元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "70.被害人陈述：被害人焦某称：“2014年12月投资5万元，损失47750元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "71.书证：受害群众情况汇总表，列明55名被某投资金额及损失明细。该汇总表已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人现就本案发表如下公诉意见：\n\n一、关于定罪方面\n被告人王某甲的行为已构成非法吸收公众存款罪。根据《刑法》第一百七十六条，被告人未经金融监管部门批准，通过高息承诺向社会不特定公众55人吸收存款290万元，造成实际损失276.6万元，完全符合该罪的构成要件。\n\n二、关于量刑情节\n1. 从重情节：\n（1）犯罪数额巨大，达到290万元；\n（2）涉及55名被害人，社会危害性大；\n（3）未如实告知资金实际用途，隐瞒将大部分资金借给个人的事实；\n（4）未对被害人进行风险提示，承诺保本付息；\n（5）案发后未主动投案，系被动到案；\n（6）至今未赔偿被害人损失，未取得谅解。\n\n2. 从轻情节：\n（1）认罪认罚态度较好；\n（2）无前科劣迹。\n\n三、关于法律适用\n根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，个人非法吸收公众存款数额在100万元以上的，应当认定为\"数额巨大\"。本案涉案金额290万元，应在三年以上十年以下有期徒刑幅度内量刑。\n\n四、量刑建议\n综合全案事实、证据及被告人的认罪态度，建议判处被告人王某甲有期徒刑五年，并处罚金人民币二十万元。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人现就本案发表如下辩护意见：\n\n一、关于被告人认罪态度\n被告人王某甲在侦查阶段及庭审过程中均如实供述犯罪事实，对指控的罪名和事实均无异议，认罪态度良好。根据《刑法》第六十七条第三款，被告人虽不构成自首，但如实供述自己罪行的，可以从轻处罚。\n\n二、关于犯罪主观恶性\n1. 被告人系因法律意识淡薄而触犯法律，其主观恶性较小；\n2. 被告人与李某甲之间存在书面借款协议，证明其并非完全虚构投资项目；\n3. 被告人已向投资人支付13.35万元利息，部分履行了合同义务。\n\n三、关于量刑建议\n1. 本案实际损失金额为276.6万元，虽属\"数额巨大\"，但接近该档下限；\n2. 被告人系初犯、偶犯，无前科劣迹；\n3. 被告人表示愿意赔偿投资人损失，具有悔罪表现。\n\n四、辩护意见\n综合全案事实及被告人的认罪态度，建议法庭在三年有期徒刑幅度内量刑，并适用缓刑。同时考虑到被告人家庭经济状况，建议适当降低罚金数额。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "针对辩护人提出的辩护意见，公诉人补充发表以下意见：\n\n一、关于认罪态度问题\n被告人虽认罪认罚，但系被动到案，且至今未实际履行赔偿义务，仅口头表示愿意赔偿。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于被动到案后认罪的，从宽幅度应当从严掌握。\n\n二、关于主观恶性问题\n1. 被告人在经营过程中刻意隐瞒资金实际用途，未向投资人披露将大部分资金借给个人的事实，具有明显欺骗性；\n2. 虽与李某甲存在借款协议，但该协议利率为月息2%，明显高于向投资人承诺的1.4%-1.6%，存在明显利差牟利意图；\n3. 支付部分利息系维持骗局的手段，不能减轻其主观恶性。\n\n三、关于量刑建议\n1. 本案涉案金额290万元，远超\"数额巨大\"的100万元标准，且造成55名投资人276.6万元实际损失，社会危害性严重；\n2. 根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条第二款，造成恶劣社会影响或其他严重后果的，应当依法从严惩处；\n3. 被告人未退赃退赔，未取得被害人谅解，不符合适用缓刑的条件。\n\n综上，公诉人坚持原量刑建议，请法庭依法裁判。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的补充意见，辩护人作如下回应：\n\n一、关于赔偿问题\n被告人虽因客观经济能力限制尚未实际赔偿，但已明确表示愿意通过分期等方式逐步偿还投资人损失。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，被告人积极赔偿但无赔偿能力的，可以酌情从宽处理。\n\n二、关于主观恶性\n1. 被告人与李某甲的借款协议证明资金流向真实存在，并非完全虚构；\n2. 被告人在经营过程中提供了公司营业执照等资质证明，未完全隐瞒公司情况；\n3. 根据《刑法》第六十一条，量刑应当与犯罪分子所犯罪行和承担的刑事责任相适应，被告人主观恶性明显小于恶意诈骗类犯罪。\n\n三、关于量刑建议\n1. 本案涉案时间集中在2014年8月至12月，距今已近十年，社会危害性已得到相当程度的消弭；\n2. 被告人系初犯，根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十九条，对初犯、偶犯应当酌情从宽处罚；\n3. 建议法庭综合考虑被告人认罪态度和悔罪表现，在法定刑幅度内从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的分期赔偿意愿，需要指出：1.根据《最高人民法院关于适用刑法第六十四条的解释》第三条，被告人仅有赔偿意愿但无实际赔偿行为的，不能作为从宽处罚情节；2.本案案发至今已近十年，被告人始终未采取任何实际赔偿措施，其所谓\"分期赔偿\"缺乏具体方案和保障；3.55名被害人实际损失达276.6万元，仅凭被告人口头承诺难以弥补损失。关于主观恶性，虽非诈骗犯罪，但被告人长期隐瞒资金真实用途、未进行风险提示，其行为已超出一般民间借贷范畴，具有明显的非法集资特征。根据《全国法院审理金融犯罪案件工作座谈会纪要》，对此类扰乱金融秩序的行为应当依法从严惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的赔偿问题，辩护人补充说明：被告人已通过家属筹措部分资金，并制定了具体的分期还款计划，将在判决后立即启动。根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，被告人积极筹措赔偿款的行为应当予以考量。关于主观恶性，被告人系因经营不善导致资金链断裂，并非蓄意欺诈，其行为与恶意集资有本质区别。建议法庭综合考虑被告人家庭实际情况及悔罪表现，在法定刑幅度内从宽处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对量刑情节已充分发表意见，现就被告人提出的分期还款计划的具体内容、资金来源及可行性进行辩论，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人提出的分期还款计划，公诉人认为缺乏实质性和可行性：1.案发至今已近十年，被告人始终未提出具体赔偿方案，所谓\"筹措部分资金\"无任何书面凭证佐证；2.55名被害人损失达276.6万元，被告人未提供财产状况证明，还款计划无具体资金来源和履行保障；3.根据《最高人民法院关于适用刑法第六十四条的解释》第四条，仅有口头还款意愿不能作为从宽处罚依据。本案中被告人既未实际退赔，也未与被害人达成和解协议，依法不应减轻其刑事责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于分期还款计划，辩护人补充说明：1.被告人已委托家属变卖部分房产，预计可筹集50万元作为首期赔偿款；2.剩余款项将通过其子女工作收入分期偿还，具体方案已形成书面材料；3.根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，被告人有实际还款能力且制定具体计划的，应当予以考量。虽然案发时间较长，但被告人一直处于被追逃状态，现归案后立即表达了赔偿意愿，其悔罪态度是真实的。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对分期还款计划已发表意见，现就被告人提出的变卖房产筹集50万元首期赔偿款的具体情况，包括房产现状、产权归属、预计变现时间等展开辩论，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人提出的变卖房产筹集赔偿款方案，公诉人认为缺乏实质证据支持：1.根据侦查机关调取的财产状况，未发现被告人有可供执行的房产登记记录；2.所谓\"家属房产\"产权归属不明，且未提供任何产权证明文件；3.根据《最高人民法院关于刑事裁判涉财产部分执行的若干规定》第二条，案外人财产不能作为被告人退赔的依据。本案中被告人提出的还款方案既无具体财产证明，也无明确时间节点，不具备实际履行可能。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人提出的变卖房产筹集赔偿款方案，辩护人补充说明如下：1.被告人所指房产系其配偶名下财产，产权清晰，相关房产证明已提交法庭；2.该房产目前市场价值约80万元，已与中介机构签订委托销售协议，预计三个月内可完成交易；3.根据《最高人民法院关于刑事裁判涉财产部分执行的若干规定》第三条，被告人配偶自愿以个人财产代为退赔的，应当予以准许。被告人已提供具体还款方案和财产担保，其悔罪态度和赔偿诚意应当得到法庭认可。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的行为深感悔恨，愿意认罪认罚。我确实因为法律意识淡薄犯下了错误，给55名投资人造成了严重损失。虽然目前我还没有能力全额赔偿，但已经委托家属变卖房产筹措50万元作为首期赔偿款，剩余部分将通过子女工作收入分期偿还。恳请法庭考虑我是初犯，认罪态度良好，给予从轻处罚的机会。我会尽全力弥补投资人的损失，今后一定遵纪守法。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "阳泉市城区人民法院  \n刑事判决书  \n（2017）晋0302刑初298号  \n\n公诉机关阳泉市城区人民检察院。  \n被告人王某甲，男，XXX年X月X日出生，汉族，XXX文化程度，山西盛百泽投资有限公司法定代表人，户籍所在地XXXX。因涉嫌非法吸收公众存款罪于2017年5月31日被抓获，同年6月9日被移交阳泉市公安局城区分局，现羁押于阳泉市看守所。  \n辩护人XXX，XXX律师事务所律师。  \n\n阳泉市城区人民检察院以阳城检刑刑诉〔2017〕298号起诉书指控被告人王某甲犯非法吸收公众存款罪，于2017年12月8日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。阳泉市城区人民检察院指派检察员杨某甲出庭支持公诉，被告人王某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。  \n\n阳泉市城区人民检察院指控：2014年7月至12月间，被告人王某甲作为山西盛百泽投资管理有限公司法定代表人，违反国家金融管理法律规定，未经批准通过业务员散发传单、口头宣传等方式，以高额利息为诱饵，向社会不特定公众55人非法吸收存款290万元，支付利息13.35万元，造成实际损失276.646万元。所吸收资金被用于出借他人及公司运营。公诉机关认为被告人王某甲的行为构成非法吸收公众存款罪，建议判处有期徒刑五年，并处罚金二十万元。  \n\n被告人王某甲对指控的犯罪事实、罪名及量刑建议无异议，自愿认罪认罚并签字具结。辩护人提出被告人认罪态度好、系初犯、愿意赔偿等从轻情节，建议适用缓刑。  \n\n经审理查明：2014年7月24日，被告人王某甲注册成立山西盛百泽投资管理有限公司。2014年8月至12月期间，该公司在未经金融监管部门批准的情况下，通过业务员向社会不特定人群55人吸收存款290万元，承诺月息1.4%-1.6%，实际支付利息13.35万元，造成投资人实际损失276.646万元。所吸收资金中250万元被王某甲借给李某甲个人，40万元用于公司运营，王某甲个人获利5-6万元。上述事实有被告人供述、证人证言、被害人陈述、审计报告、借据等71项证据证实，证据间相互印证，足以认定。  \n\n本院认为，被告人王某甲违反国家金融管理法规，非法吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。公诉机关指控的罪名成立。鉴于被告人认罪认罚，可依法从宽处理，但考虑其被动到案、未实际赔偿被害人损失、涉及被害人众多等情节，辩护人关于适用缓刑的意见不予采纳。依照《中华人民共和国刑法》第一百七十六条第一款、第六十四条之规定，判决如下：  \n\n一、被告人王某甲犯非法吸收公众存款罪，判处有期徒刑五年，并处罚金人民币二十万元；  \n二、责令被告人王某甲退赔各被害人经济损失共计人民币二百七十六万六千四百六十元。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向阳泉市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长 XXX  \nXXX年X月X日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途\n\n举证质证阶段总结：\n\n1. 公诉人出示了71项证据，包括：\n- 被告人在侦查阶段的供述（承认非法吸收公众存款事实、资金去向及未取得金融许可）\n- 抓获经过、羁押证明等程序性书证\n- 公司员工及亲属证言（证实公司运作模式及资金流向）\n- 55名被害人的投资损失陈述\n- 审计报告（证实非法吸收存款290万元，实际损失276.6万元）\n- 借款凭证（证实250万元借给李某甲）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提供新证据。\n\n5. 被告人未申请调取新证据或通知新证人。\n\n（注：因所有证据均无异议，故未详细列出每项证据内容，仅分类概括关键证据类型）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途\n\n举证质证阶段总结：\n\n1. 公诉人出示了71项证据，包括：\n- 被告人在侦查阶段的供述（承认非法吸收公众存款事实、资金去向及未取得金融许可）\n- 抓获经过、羁押证明等程序性书证\n- 公司员工及亲属证言（证实公司运作模式及资金流向）\n- 55名被害人的投资损失陈述\n- 审计报告（证实非法吸收存款290万元，实际损失276.6万元）\n- 借款凭证（证实250万元借给李某甲）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提供新证据。\n\n5. 被告人未申请调取新证据或通知新证人。\n\n（注：因所有证据均无异议，故未详细列出每项证据内容，仅分类概括关键证据类型）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途\n\n举证质证阶段总结：\n\n1. 公诉人出示了71项证据，包括：\n- 被告人在侦查阶段的供述（承认非法吸收公众存款事实、资金去向及未取得金融许可）\n- 抓获经过、羁押证明等程序性书证\n- 公司员工及亲属证言（证实公司运作模式及资金流向）\n- 55名被害人的投资损失陈述\n- 审计报告（证实非法吸收存款290万元，实际损失276.6万元）\n- 借款凭证（证实250万元借给李某甲）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提供新证据。\n\n5. 被告人未申请调取新证据或通知新证人。\n\n（注：因所有证据均无异议，故未详细列出每项证据内容，仅分类概括关键证据类型）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途\n\n举证质证阶段总结：\n\n1. 公诉人出示了71项证据，包括：\n- 被告人在侦查阶段的供述（承认非法吸收公众存款事实、资金去向及未取得金融许可）\n- 抓获经过、羁押证明等程序性书证\n- 公司员工及亲属证言（证实公司运作模式及资金流向）\n- 55名被害人的投资损失陈述\n- 审计报告（证实非法吸收存款290万元，实际损失276.6万元）\n- 借款凭证（证实250万元借给李某甲）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提供新证据。\n\n5. 被告人未申请调取新证据或通知新证人。\n\n（注：因所有证据均无异议，故未详细列出每项证据内容，仅分类概括关键证据类型）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成非法吸收公众存款罪，涉案金额290万元，造成55名被害人实际损失276.6万元\n- 提出从重情节：犯罪数额巨大、涉及被害人众多、隐瞒资金实际用途、承诺保本付息、被动到案、未赔偿损失\n- 从轻情节：认罪认罚态度较好、无前科劣迹\n- 量刑建议：有期徒刑五年，罚金二十万元\n\n2. 辩护人发表辩护意见：\n- 被告人认罪态度良好，如实供述\n- 主观恶性较小，存在真实借款协议，已支付部分利息\n- 量刑建议：三年以下有期徒刑并适用缓刑，降低罚金数额\n\n3. 双方就量刑情节展开辩论：\n- 公诉人强调被告人被动到案、未实际赔偿、主观欺骗性明显\n- 辩护人提出被告人愿意分期赔偿、系初犯偶犯、社会危害性已消弭\n\n4. 双方就分期还款计划辩论：\n- 公诉人认为计划缺乏实质性和可行性，无书面凭证\n- 辩护人补充说明已筹措50万元首期款，子女收入分期偿还\n\n5. 双方就变卖房产方案辩论：\n- 公诉人指出无房产登记记录，产权不明\n- 辩护人说明房产为配偶名下，已提交证明，市场价值80万元\n\n（注：辩论过程中双方就被告人主观恶性、赔偿能力、量刑标准等实质性问题进行了多轮交锋，均围绕可能影响定罪量刑的关键情节展开）",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人王某甲对起诉书指控的非法吸收公众存款罪的事实和罪名均无异议，表示认罪认罚，承认因法律意识淡薄触犯法律，愿意赔偿投资人损失。\n2. 公诉人讯问揭示关键事实：\n   - 被告人亲自参与吸收存款业务操作，制定投资方案和利息标准（月息1.4%-1.6%）\n   - 吸收的290万元资金中250万元借给李某甲个人，40万元用于公司运营，个人获利5-6万元\n   - 未向投资人披露资金实际用途（未告知将借给李某甲）\n   - 未向投资人出示投资项目（河南伊川重腾刚玉有限公司）的资质证明或协议\n   - 未进行风险提示，承诺保本付息，未说明与银行存款的区别\n   - 未对投资人身份和资金来源进行审核\n3. 辩护人讯问补充事实：\n   - 与李某甲存在书面借款协议（约定月息2%）\n   - 前期支付部分利息后，李某甲自2015年6月起停止付息\n   - 向投资人支付13.35万元利息来自公司和个人资金\n   - 虽提供公司营业执照，但未说明资金具体用途\n\n举证质证阶段总结：\n\n1. 公诉人出示了71项证据，包括：\n- 被告人在侦查阶段的供述（承认非法吸收公众存款事实、资金去向及未取得金融许可）\n- 抓获经过、羁押证明等程序性书证\n- 公司员工及亲属证言（证实公司运作模式及资金流向）\n- 55名被害人的投资损失陈述\n- 审计报告（证实非法吸收存款290万元，实际损失276.6万元）\n- 借款凭证（证实250万元借给李某甲）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提供新证据。\n\n5. 被告人未申请调取新证据或通知新证人。\n\n（注：因所有证据均无异议，故未详细列出每项证据内容，仅分类概括关键证据类型）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成非法吸收公众存款罪，涉案金额290万元，造成55名被害人实际损失276.6万元\n- 提出从重情节：犯罪数额巨大、涉及被害人众多、隐瞒资金实际用途、承诺保本付息、被动到案、未赔偿损失\n- 从轻情节：认罪认罚态度较好、无前科劣迹\n- 量刑建议：有期徒刑五年，罚金二十万元\n\n2. 辩护人发表辩护意见：\n- 被告人认罪态度良好，如实供述\n- 主观恶性较小，存在真实借款协议，已支付部分利息\n- 量刑建议：三年以下有期徒刑并适用缓刑，降低罚金数额\n\n3. 双方就量刑情节展开辩论：\n- 公诉人强调被告人被动到案、未实际赔偿、主观欺骗性明显\n- 辩护人提出被告人愿意分期赔偿、系初犯偶犯、社会危害性已消弭\n\n4. 双方就分期还款计划辩论：\n- 公诉人认为计划缺乏实质性和可行性，无书面凭证\n- 辩护人补充说明已筹措50万元首期款，子女收入分期偿还\n\n5. 双方就变卖房产方案辩论：\n- 公诉人指出无房产登记记录，产权不明\n- 辩护人说明房产为配偶名下，已提交证明，市场价值80万元\n\n（注：辩论过程中双方就被告人主观恶性、赔偿能力、量刑标准等实质性问题进行了多轮交锋，均围绕可能影响定罪量刑的关键情节展开）",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 60.0,
+    "fine": 200000.0,
+    "reprieve": 0.0
+  }
+]

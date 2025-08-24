@@ -1,0 +1,1813 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人漆某，性别男，民族XXX，文化程度XXX，户籍XXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "会宁县人民检察院  \n起 诉 书  \n\n会检公诉刑诉〔2018〕195号  \n\n被告人漆某，男，民族XXX，文化程度XXX，户籍XXX。因涉嫌非法制造、储存爆炸物罪，于案发后主动投案自首。  \n\n本案由会宁县公安局侦查终结，以被告人漆某涉嫌非法制造、储存爆炸物罪，于2018年9月13日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年11月，被告人漆某与＊＊＊＊公司签订合同并向该公司购买生产烟花爆竹设备，该公司承诺为漆某办理生产经营许可证、提供烟花爆竹生产技术。漆某从长沙烟花爆竹市场购买原料若干、导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克，储存于距离居民区较远的会宁县郭城驿镇＊＊＊砖厂内。后该公司技术人员为漆某调试生产设备，提供技术指导，帮助实验制作烟花绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克。经国家民用爆破器材质量监督检验中心（西安）检验，导火索、导火线、引燃药、表皮药、升空药、绿光、红光、白光、金菊、黄光、杨柳为烟火药。漆某在长沙催办烟花爆竹生产经营许可证时，被他人举报。次日，其返回会宁，主动到侦查机关投案自首。  \n\n认定上述事实的证据如下：  \n1.书证：会检公诉刑诉（2018）195号起诉书；  \n2.书证：＊＊＊＊公司的营业执照；  \n3.书证：证人吕某的银行账户明细；  \n4.书证：扣押物品清单；  \n5.书证：合同书及补充条款；  \n6.书证：新型鞭炮配方、鞭炮烟花配方及工艺流程；  \n7.书证：到案经过、办案说明；  \n8.证人证言：证人吕某、盛某、李某、姜某甲、汶某、姜某乙的证言；  \n9.鉴定意见：国家民用爆破器材质量监督检验中心（西安）检验报告；  \n10.勘验检查笔录：现场勘验检查笔录及照片、现场检查笔录及照片；  \n11.物证：扣押的原材料、导火索、导火线、引燃药等物品；  \n12.物证：扣押的烟花样品；  \n13.书证：被告人漆某的户籍证明；  \n14.书证：社区调查评估意见；  \n15.书证：公安局出具的漆某投案情况说明。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人漆某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人漆某违反国家有关爆炸物管理法规，擅自制造、储存爆炸物，危害公共安全，其行为触犯了《中华人民共和国刑法》第一百二十五条第一款之规定，犯罪事实清楚，证据确实、充分，应当以非法制造、储存爆炸物罪追究其刑事责任。被告人漆某具有自首情节，依法可以从轻或者减轻处罚。鉴于其生产的烟花爆竹属于娱乐产品，且只在试验阶段，存放地点距离居民区较远，没有造成严重社会危害后果，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n会宁县人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我有需要陈述。我确实与公司签订了合法生产合同，购买设备和原料是为了办理许可证后进行合法生产。在等待许可证期间，我只是进行了小规模的试验性生产，且将原料存放在远离居民区的砖厂内。案发后我主动投案，如实供述了全部事实。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人漆某，你在未取得烟花爆竹生产经营许可证的情况下，为何要购买生产设备和原料？是否清楚这是违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是为了合法生产烟花爆竹才购买设备和原料的，已经与公司签订了合同，正在等待办理生产经营许可证。当时我认为在等待许可证期间进行小规模试验性生产是可以的，现在认识到这是违法行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你储存的导火索、引燃药等物品经鉴定属于烟火药，总量已超过司法解释规定的定罪标准。你对此是否知情？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时不知道这些物品的总量已经超过规定标准。我是按照公司技术人员的指导购买的原料，目的是为了试验生产。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你制作的烟花样品中，黄光、杨柳等成品数量较大，这是否表明你已进入实际生产阶段而非单纯试验？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些样品都是在技术人员指导下进行的试验性生产，目的是测试设备性能和生产工艺，并非正式批量生产。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与＊＊＊＊公司签订合同时，对方是否明确告知你需要先取得许可证才能开始生产？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "合同中有提到需要办理许可证，但公司技术人员说可以先进行设备调试和试验性生产。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你制作的烟花样品是否曾向他人展示或销售？有无实际流入市场？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向他人展示或销售，所有样品都存放在砖厂内，没有流入市场。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你声称是为了合法生产烟花爆竹，但在许可证尚未办理完成的情况下就开始实验制作，这是否与你的说法矛盾？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我认为试验性生产与正式生产不同，是在为取得许可证做准备。现在认识到应该在取得许可证后再进行任何生产活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你选择在远离居民区的砖厂储存这些物品，是否意识到这些物品可能对公共安全造成危害？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我选择砖厂是因为场地宽敞，便于存放设备和原料。当时主要考虑的是生产便利性，没有深入考虑安全隐患问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你主动投案后，是否如实向公安机关供述了全部犯罪事实？有无隐瞒或遗漏？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我主动投案后，已经如实向公安机关供述了全部犯罪事实，没有隐瞒或遗漏任何情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买的导火索、引燃药等原料具体数量是多少？这些数量是否符合试验性生产的合理需要？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克。这些数量是按照公司技术人员的建议购买的，用于设备调试和样品制作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人漆某，你与＊＊＊＊公司签订合同购买生产设备时，该公司是否明确承诺会为你办理烟花爆竹生产经营许可证？请具体说明合同中对许可证办理的约定内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "合同明确约定由公司负责办理生产经营许可证，并约定在许可证办理完成前不得进行正式生产。合同补充条款中写明公司会提供技术指导和设备调试服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在长沙购买原料时，是否向供应商出示了相关合同或证明文件？供应商是否知晓你购买这些原料的用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "购买原料时我向供应商出示了与公司签订的合同，供应商知道我是用于烟花爆竹生产。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你储存原料和进行试验生产的砖厂具体位置在哪里？距离最近的居民区有多远？平时是否有人在该区域活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "砖厂位于会宁县郭城驿镇，距离最近的居民区约2公里。该砖厂已经停产，平时只有看守人员偶尔巡视，基本无人活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你制作的烟花样品是否进行过实际燃放测试？测试地点在哪里？测试时采取了哪些安全防护措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过实际燃放测试。所有样品都存放在砖厂内，仅用于观察外观和结构。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在被举报后为何选择主动投案？投案时是否携带了相关合同和购买凭证？向公安机关说明了哪些情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被举报后我意识到自己的行为可能违法，所以主动投案说明情况。投案时我携带了与公司签订的合同、原料购买凭证等材料，向公安机关如实说明了购买设备、原料的经过，以及进行试验性生产的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与＊＊＊＊公司的技术人员进行试验生产时，是否讨论过生产许可证的办理进度？公司方面是否告知过在许可证办理期间进行试验生产的法律风险？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司技术人员提到许可证正在办理中，但没有明确告知在许可证办理期间进行试验生产的法律风险。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你储存的原料中，导火索、导火线等物品的具体用途是什么？这些物品是否都是用于试验生产烟花爆竹？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "导火索和导火线都是按照公司技术人员的指导购买的，用于试验生产烟花爆竹样品时的连接和引燃。所有购买的原料都只用于试验生产，没有其他用途。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买的导火索、引燃药等原料的具体规格和包装形式是什么？这些原料是否与正规烟花爆竹生产企业使用的原料相同？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "导火索和导火线都是标准工业包装，规格与正规烟花爆竹企业使用的相同。引燃药、表皮药等原料也是按照公司提供的配方购买的，包装上都有产品标识和规格说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买的原料中，导火索、导火线等物品的储存方式是什么？是否采取了防潮、防火等安全措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "导火索和导火线存放在砖厂的干燥仓库内，远离火源。仓库内有防潮垫和灭火器，但没有其他专业防护措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与＊＊＊＊公司签订合同后，该公司是否向你提供了办理生产经营许可证的具体时间表或进度说明？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有提供具体的办理许可证时间表或进度说明，只是口头告知正在办理中。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你购买的导火索、引燃药等原料是否具有民用爆炸物品购买许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有办理民用爆炸物品购买许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你购买的导火索、导火线等物品是否具有民用爆炸物品运输许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有办理民用爆炸物品运输许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你购买的导火索、引火线等物品是否具有产品合格证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "购买的导火索和导火线都有产品合格证明，包装上印有生产厂家和产品规格等信息。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你进行试验性生产的具体时间段是什么时候？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年11月至2017年1月期间进行的试验性生产。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年11月，我与＊＊＊＊公司签订合同，购买生产烟花爆竹设备。该公司承诺为我办理生产经营许可证并提供生产技术。我从长沙烟花爆竹市场购买原料、导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克，储存于会宁县郭城驿镇＊某内。该公司技术人员调试设备并指导我实验制作烟花绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克。后经检验，上述物品被认定为烟火药。我在长沙催办许可证时被举报，次日返回会宁并主动向侦查机关投案。  \n\n（2）犯案动机  \n我购买设备和原料的目的是为了合法生产烟花爆竹，并已与公司签订合同，等待办理生产经营许可证。  \n\n（3）案发之后的处理  \n我在被举报后主动到侦查机关投案，如实供述了犯罪事实。目前没有提及赔偿或达成谅解的情况。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：会检公诉刑诉（2018）195号起诉书，指控被告人漆某犯非法制造、储存爆炸物罪",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：＊＊＊＊公司的营业执照（颁发机构：XX市工商行政管理局，有效期：2016年1月1日至2021年12月31日），证明该公司具有相关生产经营资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：证人吕某的银行账户明细（经XX银行依法提取并加盖公章），显示与被告人漆某的资金往来情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：扣押物品清单（由办案民警张某、李某制作，见证人王某签字确认），列明扣押的原材料、导火索、导火线、引燃药等物品",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人对扣押物品清单中\"导火索4500米\"的关联性提出异议。根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》，导火索不属于司法解释明确列举的爆炸物种类，且公诉人未能证明该数量已达到危害公共安全的程度。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条规定，导火索属于爆炸物品。经国家民用爆破器材质量监督检验中心检验，本案扣押的导火索确属烟火药，且与其他原料合计总量已明显超过司法解释规定的定罪标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就导火索是否属于爆炸物充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：合同书及补充条款（经双方签字盖章并经公证处公证），证明被告人漆某与＊＊＊＊公司签订的生产烟花爆竹设备购买合同",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：新型鞭炮配方、鞭炮烟花配方及工艺流程（来源：＊＊＊＊公司技术部门提供并加盖公章），显示被告人漆某获取的相关技术资料",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：到案经过、办案说明（由办案民警张某记录，经法制部门审核），记录被告人漆某的投案自首过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人吕某说：“我与漆某有业务往来，他曾向我咨询过烟花爆竹生产的相关事宜。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人盛某说：“漆某曾向我购买过生产烟花爆竹的原料。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人李某说：“我看到漆某在砖厂内储存了一些疑似烟花爆竹原料的物品。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人姜某甲说：“漆某曾向我展示过他制作的烟花样品。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人姜某甲的证言仅能证明被告人曾展示过烟花样品，不能证明被告人有非法制造、储存爆炸物的主观故意，与指控的犯罪构成要件缺乏直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人姜某甲的证言与扣押的烟花样品相互印证，证实被告人已实际制造出成品烟花，证明其行为已超出单纯准备阶段，进入实际制造阶段。该证言与本案具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人汶某说：“漆某告诉我他正在办理烟花爆竹生产经营许可证。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人姜某乙说：“漆某曾向我询问过烟花爆竹市场的销售情况。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人姜某乙的证言仅能证明被告人曾咨询过市场销售情况，不能证明被告人有非法制造、储存爆炸物的主观故意，与指控的犯罪构成要件缺乏直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人姜某乙的证言与被告人购买原料、制作成品烟花的行为相互印证，证实被告人已为后续销售做准备，证明其行为具有持续性，并非单纯的试验性生产。该证言与本案具有关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.鉴定意见：国家民用爆破器材质量监督检验中心（西安）检验报告（鉴定机构资质证书编号：XXXXX，鉴定程序符合《公安机关鉴定规则》），确认导火索、导火线、引燃药、表皮药、升空药、绿光、红光、白光、金菊、黄光、杨柳为烟火药",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人对检验报告提出以下异议：1.该检验报告未明确说明检验方法是否符合国家标准，可能影响鉴定结论的准确性；2.报告仅对物品成分进行鉴定，但未对物品的实际危险性进行评估，不能直接证明这些物品已达到危害公共安全的程度；3.报告未区分不同种类烟火药的危险性差异，将导火索等辅助材料与主装药等同对待，缺乏科学性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "国家民用爆破器材质量监督检验中心是具有法定资质的专业鉴定机构，其检验程序和方法均符合国家标准。检验报告明确认定涉案物品属于烟火药，且数量已超过司法解释规定的定罪标准。根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》，烟火药即属于爆炸物，无需再单独评估实际危险性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就鉴定报告的有效性和证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.勘验检查笔录：现场勘验检查笔录及照片（由办案民警张某、李某制作，见证人王某签字确认），记录被告人漆某储存爆炸物的现场情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.勘验检查笔录：现场检查笔录及照片（由办案民警张某、李某制作，见证人王某签字确认），显示被告人漆某制作烟花的实验场所",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.物证：扣押的原材料、导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克等物品（保管链条完整，由办案民警张某、李某负责保管并制作保管清单）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人对扣押物品清单中\"导火索4500米\"的关联性提出异议。根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》，导火索不属于司法解释明确列举的爆炸物种类，且公诉人未能证明该数量已达到危害公共安全的程度。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条规定，导火索属于爆炸物品。经国家民用爆破器材质量监督检验中心检验，本案扣押的导火索确属烟火药，且与其他原料合计总量已明显超过司法解释规定的定罪标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就导火索性质问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.物证：扣押的烟花样品，包括绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克（保管链条完整，由办案民警张某、李某负责保管并制作保管清单）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人对扣押的烟花样品提出异议：1.这些样品数量较少，属于试验性产品，不能证明被告人已进入实际生产阶段；2.样品均未进行实际燃放测试，无法证明其实际危险性；3.根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》，这些样品的总量未达到司法解释规定的定罪标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据国家民用爆破器材质量监督检验中心检验报告，扣押的烟花样品确属烟火药，且与其他原料合计总量已明显超过司法解释规定的定罪标准。被告人实际制造出成品烟花的行为已超出单纯试验阶段，构成非法制造爆炸物罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就烟花样品的性质及数量问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：被告人漆某的户籍证明，证实其身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：社区调查评估意见（由X某通过走访调查、社会调查等方式形成），证明对其适用缓刑的可行性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：公安局出具的漆某投案情况说明（由办案民警张某记录，经法制部门审核），内容为‘犯罪嫌疑人漆某于案发后主动到公安机关投案自首’",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n第一，关于定罪问题。根据国家民用爆破器材质量监督检验中心出具的检验报告，被告人漆某制造、储存的导火索、引燃药等物品确属烟火药，总量已明显超过《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条规定的定罪标准。被告人在未取得任何许可证的情况下擅自制造、储存爆炸物，其行为已构成《刑法》第一百二十五条规定的非法制造、储存爆炸物罪。\n\n第二，关于主观方面。被告人辩称是\"试验性生产\"，但根据扣押的成品烟花数量，黄光3千克、杨柳5千克等已远超试验所需合理范围。且被告人在侦查阶段供述与证人证言相互印证，证实其已进入实际生产阶段。\n\n第三，关于社会危害性。虽然存放地点远离居民区，但储存数量大、种类多，具有现实危险性。被告人在未办理任何购买、运输许可手续的情况下，将大量爆炸物原料从长沙运输至会宁，严重违反爆炸物品管理规定。\n\n第四，关于量刑情节。被告人具有自首情节，依法可以从轻处罚。考虑到其生产的属于娱乐用烟花，且未造成实际危害后果，公诉机关建议判处有期徒刑并适用缓刑的量刑建议是适当的。\n\n综上，被告人漆某的行为已构成非法制造、储存爆炸物罪，请法庭依法判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于检验报告。公诉人提供的检验报告未明确说明检验方法是否符合国家标准，特别是对导火索等辅助材料的鉴定标准存疑。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十五条，鉴定意见应当说明鉴定过程和方法，该报告存在程序瑕疵。\n\n第二，关于主观故意。被告人系为合法生产经营目的进行试验性生产，与正规公司签订合同并等待办理许可证，主观恶性小。证人证言仅能证明被告人购买原料和进行试验，不能证明其具有非法目的。\n\n第三，关于物品数量。扣押物品中导火索4500米等物品未达到司法解释明确规定的入罪标准。根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》，导火索不属于明确列举的爆炸物种类。\n\n第四，关于社会危害。涉案物品存放地点远离居民区2公里，未造成实际危害后果。被告人主动投案自首，认罪态度良好，符合《刑法》第六十七条关于自首从轻处罚的规定。\n\n综上，被告人行为情节显著轻微，建议法庭充分考虑其自首情节和主观恶性小的特点，依法从轻或减轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "第一，关于检验报告的有效性。国家民用爆破器材质量监督检验中心是具有法定资质的专业机构，其检验程序和方法均符合国家标准。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十七条，经法定程序作出的鉴定意见应当作为定案依据。辩护人提出的质疑缺乏事实依据。\n\n第二，关于导火索的性质问题。《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条明确规定导火索属于爆炸物品。经检验，本案导火索确属烟火药，且与其他原料合计总量已明显超过司法解释规定的定罪标准。\n\n第三，关于生产阶段认定。被告人已实际制造出黄光3千克、杨柳5千克等成品烟花，远超试验所需合理范围。根据《刑法》第一百二十五条，非法制造爆炸物罪是行为犯，不以实际销售或使用为构成要件。\n\n第四，关于主观恶性。被告人在未取得任何许可证的情况下，擅自购买、运输、储存大量爆炸物原料，其行为已违反《民用爆炸物品安全管理条例》相关规定，主观过错明显。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于检验报告，公诉人未能提供检验方法符合国家标准的证明文件，根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十五条，鉴定意见应当附有鉴定机构和鉴定人的资质证明，并说明鉴定过程和方法。本案检验报告存在程序瑕疵，不能作为定罪量刑的唯一依据。\n\n关于导火索性质，虽然司法解释第九条将其列为爆炸物品，但根据《民用爆炸物品品名表》的具体规定，导火索的危险性与主装药存在本质区别。被告人储存的导火索数量虽大，但实际危险性远低于公诉人指控的程度。\n\n关于生产阶段认定，被告人是在技术人员指导下进行的试验性生产，所有样品均未流入市场。根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条第二款，确因生产、生活需要而非法制造爆炸物，情节轻微的，可不认定为犯罪。\n\n关于主观恶性，被告人与正规公司签订合同，购买原料具有合法来源，且主动投案自首，如实供述全部事实，符合《刑法》第六十七条关于自首从轻处罚的规定。其行为与为实施其他犯罪而非法制造爆炸物有本质区别。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于检验报告资质问题，国家民用爆破器材质量监督检验中心是经公安部批准设立的专门机构，其出具的检验报告具有法定效力。根据《公安机关鉴定规则》第二十三条规定，该中心完全具备爆炸物品检验资质。\n\n关于导火索危险性认定，根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条，导火索明确属于爆炸物品，其危险性不容忽视。被告人储存的导火索4500米已远超正常生产所需，具有重大安全隐患。\n\n关于生产目的问题，被告人在未取得任何许可证的情况下，擅自制造、储存大量爆炸物，其行为已违反《刑法》第一百二十五条，构成犯罪。司法解释第九条第二款的例外情形不适用于本案，因为被告人的行为已超出\"生产、生活需要\"的合理范围。\n\n关于主观方面，被告人明知需要办理许可证却先行生产，其主观过错明显。虽然具有自首情节，但根据《刑法》第六十七条规定，只能从轻处罚，不能免除其刑事责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于检验报告，公诉人虽强调检验机构资质，但未能回应辩护人关于检验方法的具体质疑。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十五条，鉴定意见必须说明鉴定过程和方法，否则不能作为定案依据。\n\n关于导火索数量问题，辩护人注意到公诉人将导火索与其他原料简单累加计算。但根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条，应当区分不同种类爆炸物的危险性分别认定，不能简单相加。\n\n关于生产目的，被告人系在正规公司技术人员指导下进行试验性生产，所有样品均未流入市场。根据司法解释第九条第二款精神，这种为合法生产经营目的进行的试验行为，社会危害性显著低于其他非法制造行为。\n\n关于主观方面，被告人主动投案并如实供述，其认罪态度良好。根据《刑法》第六十七条，应当依法从轻或减轻处罚。公诉人提出的\"不能免除刑事责任\"与辩护人主张并不矛盾，但应当充分考虑从宽情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长、各位法官：\n\n我深刻认识到自己在未取得许可证的情况下进行试验性生产的行为是错误的，已经触犯了法律。我购买设备和原料的初衷是为了合法生产经营，但由于法律意识淡薄，在等待许可证期间进行了不当行为。案发后我主动投案，如实供述了全部事实，积极配合调查。所有试验产品都存放在远离居民区的砖厂内，没有流入市场，也没有造成实际危害。我真诚认罪悔罪，恳请法庭考虑我是初犯，且有自首情节，能够从轻处罚。今后我一定严格遵守法律法规，绝不再犯类似错误。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "会宁县人民法院\n刑事判决书\n（2018）会刑初字第195号\n\n公诉机关会宁县人民检察院。\n被告人漆某，男，XX年XX月XX日出生，民族XXX，文化程度XXX，户籍XXX，因涉嫌非法制造、储存爆炸物罪于案发后主动投案自首，现取保候审。\n辩护人XXX，XX律师事务所律师。\n\n会宁县人民检察院于2018年9月13日以被告人漆某犯非法制造、储存爆炸物罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。会宁县人民检察院检察员XXX出庭支持公诉，被告人漆某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n公诉机关指控，2016年11月，被告人漆某在未取得许可证的情况下，擅自购买生产设备及导火索4500米、导火线116米、引燃药0.371千克等原料，储存于会宁县郭城驿镇某砖厂内，并实验制作多种烟花样品，经鉴定上述物品均属烟火药，其行为已构成非法制造、储存爆炸物罪。被告人漆某对指控事实无异议，但辩称系为合法生产做准备，具有自首情节。辩护人提出涉案物品危险性较低、系试验性生产等辩护意见。\n\n经审理查明，2016年11月，被告人漆某与XX公司签订合同购买烟花爆竹生产设备，在未取得许可证的情况下，从长沙购买导火索4500米、导火线116米、引燃药0.371千克等原料，储存于距居民区2公里的砖厂内，并在技术人员指导下实验制作多种烟花样品。经国家民用爆破器材质量监督检验中心检验，上述物品均属烟火药。2017年1月，被告人被举报后主动投案。上述事实有被告人供述、证人证言、检验报告、扣押清单等证据证实，足以认定。\n\n本院认为，被告人漆某违反国家规定，非法制造、储存爆炸物，其行为已构成非法制造、储存爆炸物罪。公诉机关指控罪名成立。鉴于被告人系为合法生产经营做准备，具有自首情节，且未造成实际危害后果，依法可从轻处罚。辩护人相关辩护意见予以采纳。依照《中华人民共和国刑法》第一百二十五条第一款、第六十七条第一款、第七十二条之规定，判决如下：\n\n一、被告人漆某犯非法制造、储存爆炸物罪，判处有期徒刑三年，缓刑四年；\n二、扣押在案的导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克及烟花样品予以没收。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向XX人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2018年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人漆某制造、储存的烟火药是否达到刑法第一百二十五条规定的\"爆炸物\"标准\n2.被告人漆某主观上是否具有非法制造、储存爆炸物的犯罪故意\n3.被告人漆某与＊＊＊＊公司签订合同购买设备、原料的行为是否属于合法生产经营活动\n4.被告人漆某储存爆炸物的地点距离居民区较远是否影响危害公共安全的认定\n5.被告人漆某主动投案的行为是否构成自首\n6.被告人漆某制造的烟花属于试验阶段且未造成实际危害是否影响量刑\n7.被告人漆某的行为是否符合《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条规定的从轻处罚情形",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法制造、储存爆炸物罪中'烟火药'的认定标准",
+              "自首情节在非法制造、储存爆炸物罪中的量刑影响"
+            ],
+            "非法制造、储存爆炸物罪中'烟火药'的认定标准": "### 结论\n非法制造、储存爆炸物罪中'烟火药'的认定标准，主要依据其是否具有爆炸物的特性，即是否能够引起爆炸，具有较高危险性和较大杀伤力。《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》明确规定烟火药属于爆炸物，并以数量作为定罪量刑的标准。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条第一款第（六）项、第二条第（一）项**：规定非法制造、买卖、运输、邮寄、储存爆炸物的，具有下列情形之一的，依照刑法第一百二十五条第一款的规定，以非法制造、买卖、运输、邮寄、储存爆炸物罪定罪处罚：（六）非法制造、买卖、运输、邮寄、储存烟火药、黑火药一千克以上或者烟火剂三千克以上的；具有下列情形之一的，属于刑法第一百二十五条第一款规定的“情节严重”：（一）非法制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的最低数量标准五倍以上的。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **烟火药的特性**：烟火药是否具有爆炸物的特性，即是否能够引起爆炸，具有较高危险性和较大杀伤力。其中【（2016）湘0527刑初字第43号】、【（2019）鲁0283刑初349号】、【（2020）粤0113刑初153号】，这些案例均确认了烟火药的爆炸物特性。\n- **犯罪目的和后果**：犯罪行为是否是为了生产、生活需要，是否造成严重社会危害。例如，【（2019）鲁0283刑初349号】、【（2020）粤0113刑初153号】、【（2021）粤0781刑初286号】提到，如果犯罪行为是为了生产、生活需要，且未造成严重社会危害，可以不认定为“情节严重”。\n- **犯罪数量**：非法制造、储存的爆炸物数量是否达到“情节严重”的标准。例如，【（2016）湘0527刑初字第43号】、【（2019）川14刑终223号】、【（2020）浙03刑终289号】，这些案例均考虑了犯罪数量对定罪量刑的影响。\n\n综上，非法制造、储存爆炸物罪中'烟火药'的认定，主要依据其是否具有爆炸物的特性，以及犯罪行为的目的、后果和数量。烟火药的爆炸物特性是认定的基础，而犯罪行为的目的、后果和数量则影响着是否认定为“情节严重”。\n\n#####\n类似案件为：\n【（2019）鲁0283刑初349号】：法院认为，被告人张国芳、张元强非法制造、储存爆炸物，张国芳为主犯，张元强为从犯。二被告人制造烟火药目的为元宵节燃放烟花，主观上为燃放和销售盈利，客观上未造成实际危害，不属于“情节严重”。张国芳、张元强的行为构成非法制造、储存爆炸物罪，但不符合自首条件。一、被告人张国芳犯非法制造、储存爆炸物罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2024年2月17日止。）\n被告人张元强犯非法制造、储存爆炸物罪，判处有期徒刑二年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2021年2月17日止。）\n二、公安机关扣押的成品烟花混合原料117.05千克、引燃芯1.7千克、半成品烟花筒59个，由扣押机关平度市公安局依法销毁；公安机关扣押的硫磺17千克、硝粉88.65千克、煤粉29.7千克、铝粉28.6千克、铁粉143.85千克、筛子一个、剪刀一把、木锨一张、铁锤两个、塑料锨一张、电子称一个、铁墩子三个、小铁锨一把，依法没收，由扣押机关平度市公安局依法处置。\n【（2020）粤0113刑初153号】：法院认为，被告人李佩昆非法制造气枪铅弹600发以上，非法储存气枪铅弹1300发，非法储存以火药为发射枪弹的非军用枪支1支，非法储存黑火药8.7千克、炸药0.2千克、雷管17根，其行为已构成非法制造、储存枪支、弹药、爆炸物罪。李佩昆归案后如实供述自己的罪行，虽在第一次庭审中翻供，但在第二次庭审时又能如实供述，且当庭自愿认罪悔罪，可以从轻处罚。李佩昆非法储存的爆炸物虽达到“情节严重”的标准，但考虑涉案爆炸物是其爷爷李某1早年因筑路、修渠等正常生产、生活所遗留，现有证据亦不能证明李佩昆将涉案爆炸物用于他用或造成严重的社会危害，并根据罪责刑相适应的原则，不认定为刑法第一百二十五条第一款规定的“情节严重”。一、被告人李佩昆犯非法制造、储存枪支、弹药、爆炸物罪，判处有期徒刑五年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月18日起执行至2024年3月17日止）。\n二、在案扣押的作案工具手机1台，予以没收，上缴国库；扣押的枪支、弹药、爆炸物及模具、枪支配件、空包弹等物品一批（详见扣押清单），予以没收销毁（该判项由广州市公安局番禺区分局执行）。\n【（2019）鲁0283刑初349号】：法院认为，被告人张国芳、张元强非法制造、储存爆炸物，张国芳为主犯，张元强为从犯。二被告人制造烟火药目的为元宵节燃放烟花，主观上为燃放和销售盈利，客观上未造成实际危害，不属于“情节严重”。张国芳、张元强的行为构成非法制造、储存爆炸物罪，但不符合自首条件。一、被告人张国芳犯非法制造、储存爆炸物罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2024年2月17日止。）\n被告人张元强犯非法制造、储存爆炸物罪，判处有期徒刑二年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2021年2月17日止。）\n二、公安机关扣押的成品烟花混合原料117.05千克、引燃芯1.7千克、半成品烟花筒59个，由扣押机关平度市公安局依法销毁；公安机关扣押的硫磺17千克、硝粉88.65千克、煤粉29.7千克、铝粉28.6千克、铁粉143.85千克、筛子一个、剪刀一把、木锨一张、铁锤两个、塑料锨一张、电子称一个、铁墩子三个、小铁锨一把，依法没收，由扣押机关平度市公安局依法处置。",
+            "自首情节在非法制造、储存爆炸物罪中的量刑影响": "### 结论\n自首情节在非法制造、储存爆炸物罪的量刑中具有显著影响，可以作为从轻或减轻处罚的法定情节，但其影响程度取决于犯罪的具体情节，包括犯罪的性质、数量、是否造成严重社会危害、是否用于合法生产经营、被告人的悔罪表现以及是否符合“情节严重”的标准。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第一百二十五条第一款**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **最高人民法院《关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：因生产、生活需要而非法制造、买卖、运输、储存枪支、弹药、爆炸物，没有造成严重社会危害，并确有悔改表现的，可依法宣告缓刑或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的法定情节。例如，【（2019）闽0525刑初241号】、【（2020）闽0521刑初489号】、【（2019）浙0683刑初187号】中，被告人均因自首而获得从轻或减轻处罚。\n- **犯罪性质和数量**：犯罪的性质和数量对是否认定为“情节严重”有直接影响，进而影响量刑。例如，【（2019）闽0525刑初241号】中，尽管被告人具有自首情节，但由于非法运输、储存的爆炸物数量远高于“情节严重”的标准，法院未对其减轻处罚并适用缓刑。\n- **是否用于合法生产经营**：如果非法制造、储存的爆炸物用于合法生产经营，且未造成严重社会危害，可以不认定为“情节严重”。例如，【（2020）闽0521刑初489号】、【（2019）闽0425刑初198号】中，被告人因非法制造、储存的爆炸物用于合法生产经营，法院对其从轻处罚并适用缓刑。\n- **悔罪表现**：被告人的悔罪表现也是量刑时考虑的因素。例如，【（2019）浙0683刑初187号】中，被告人因自首和非法储存的爆炸物已被查获，法院认为其悔罪表现良好，予以减轻处罚。\n\n综上，自首情节在非法制造、储存爆炸物罪的量刑中具有重要作用，但其具体影响需结合犯罪的性质、数量、是否用于合法生产经营以及被告人的悔罪表现等综合因素来判断。\n\n#####\n类似案件为：\n【（2019）闽0525刑初241号】：法院认为，被告人尤金盛违反国家爆炸物品管理法规，非法运输炸药120千克及储存炸药105千克、电雷管690枚，用于煤矿生产，构成非法运输、储存爆炸物罪。尤金盛有自首情节，涉案爆炸物用于合法生产经营，未造成严重危害后果，可从轻处罚。非法运输、储存的爆炸物数量大，不宜减轻处罚并适用缓刑。尤金盛系初犯并具有自首情节，自愿认罪悔罪，酌情从轻处罚。一、被告人尤金盛犯非法运输、储存爆炸物罪，判处有期徒刑四年六个月。\n （刑期从本判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月30日起至2023年10月12日止。）\n 二、公安机关向被告人尤金盛所扣押的作案工具即闽Ｃ×××××号捷达牌小型轿车，予以没收，上缴国库。\n【（2020）闽0521刑初489号】：法院认为，被告人林荣强违反爆炸物品管理规定，非法制造爆炸物，其行为构成非法制造爆炸物罪。鉴于林荣强有自首情节，非法制造爆炸物系因合法生产经营活动，没有造成严重社会危害，确有悔改表现，且主动退出违法所得，自愿认罪认罚，可以从轻处罚。因此，法院判决林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年；退出的违法所得2万元予以没收，上缴国库；扣押在案的爆炸物予以没收，由公安机关依法处理。一、被告人林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年三个月。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人林荣强退出的违法所得人民币20000元，予以没收，上缴国库。\n 三、扣押在案的“R6气体致裂管”4根、塑料管2根（均未随案移送），予以没收，由扣押机关惠安县公安局依法处理。\n【（2019）浙0683刑初187号】：法院认为，被告人郑童炎非法存放雷管三十枚以上，构成非法储存爆炸物罪，应处三年以上十年以下有期徒刑。鉴于其自首，且非法储存的爆炸物已被查获，依法可予减轻处罚。一、被告人郑童炎犯非法储存爆炸物罪，判处有期徒刑一年八个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一九年三月十一日起至二〇二〇年十一月十日止）。\n 二、扣押于嵊州市公安局的涉案雷管及导火索，均予以没收，并由扣押机关上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过国家民用爆破器材质量监督检验中心检验报告证实涉案物品确属烟火药，数量达到司法解释规定的定罪标准。2.被告人在未取得许可证情况下擅自制造、储存爆炸物，违反《刑法》第125条，危害公共安全。3.虽然存放地点远离居民区且处于试验阶段，但已实际制造出成品烟花，具有现实危险性。4.被告人的自首情节属实，可从轻处罚。5.参考同类案例(2019)鲁0283刑初349号，建议适用缓刑。\n防御策略：1.检验报告由具有资质的专业机构出具，程序合法有效。2.扣押物品清单经办案民警和见证人签字确认，保管链条完整。3.被告人在侦查阶段供述与证人证言、书证相互印证，形成完整证据链。4.合同书不能免除被告人未取得许可证的法律责任。5.社区调查评估意见证实适用缓刑不致危害社会。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条第一款",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法制造、储存爆炸物罪中'烟火药'的认定标准",
+              "自首情节在非法制造、储存爆炸物罪中的量刑影响"
+            ],
+            "非法制造、储存爆炸物罪中'烟火药'的认定标准": "### 结论\n非法制造、储存爆炸物罪中'烟火药'的认定标准，主要依据其是否具有爆炸物的特性，即是否能够引起爆炸，具有较高危险性和较大杀伤力。《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》明确规定烟火药属于爆炸物，并以数量作为定罪量刑的标准。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条第一款第（六）项、第二条第（一）项**：规定非法制造、买卖、运输、邮寄、储存爆炸物的，具有下列情形之一的，依照刑法第一百二十五条第一款的规定，以非法制造、买卖、运输、邮寄、储存爆炸物罪定罪处罚：（六）非法制造、买卖、运输、邮寄、储存烟火药、黑火药一千克以上或者烟火剂三千克以上的；具有下列情形之一的，属于刑法第一百二十五条第一款规定的“情节严重”：（一）非法制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的最低数量标准五倍以上的。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **烟火药的特性**：烟火药是否具有爆炸物的特性，即是否能够引起爆炸，具有较高危险性和较大杀伤力。其中【（2016）湘0527刑初字第43号】、【（2019）鲁0283刑初349号】、【（2020）粤0113刑初153号】，这些案例均确认了烟火药的爆炸物特性。\n- **犯罪目的和后果**：犯罪行为是否是为了生产、生活需要，是否造成严重社会危害。例如，【（2019）鲁0283刑初349号】、【（2020）粤0113刑初153号】、【（2021）粤0781刑初286号】提到，如果犯罪行为是为了生产、生活需要，且未造成严重社会危害，可以不认定为“情节严重”。\n- **犯罪数量**：非法制造、储存的爆炸物数量是否达到“情节严重”的标准。例如，【（2016）湘0527刑初字第43号】、【（2019）川14刑终223号】、【（2020）浙03刑终289号】，这些案例均考虑了犯罪数量对定罪量刑的影响。\n\n综上，非法制造、储存爆炸物罪中'烟火药'的认定，主要依据其是否具有爆炸物的特性，以及犯罪行为的目的、后果和数量。烟火药的爆炸物特性是认定的基础，而犯罪行为的目的、后果和数量则影响着是否认定为“情节严重”。\n\n#####\n类似案件为：\n【（2019）鲁0283刑初349号】：法院认为，被告人张国芳、张元强非法制造、储存爆炸物，张国芳为主犯，张元强为从犯。二被告人制造烟火药目的为元宵节燃放烟花，主观上为燃放和销售盈利，客观上未造成实际危害，不属于“情节严重”。张国芳、张元强的行为构成非法制造、储存爆炸物罪，但不符合自首条件。一、被告人张国芳犯非法制造、储存爆炸物罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2024年2月17日止。）\n被告人张元强犯非法制造、储存爆炸物罪，判处有期徒刑二年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2021年2月17日止。）\n二、公安机关扣押的成品烟花混合原料117.05千克、引燃芯1.7千克、半成品烟花筒59个，由扣押机关平度市公安局依法销毁；公安机关扣押的硫磺17千克、硝粉88.65千克、煤粉29.7千克、铝粉28.6千克、铁粉143.85千克、筛子一个、剪刀一把、木锨一张、铁锤两个、塑料锨一张、电子称一个、铁墩子三个、小铁锨一把，依法没收，由扣押机关平度市公安局依法处置。\n【（2020）粤0113刑初153号】：法院认为，被告人李佩昆非法制造气枪铅弹600发以上，非法储存气枪铅弹1300发，非法储存以火药为发射枪弹的非军用枪支1支，非法储存黑火药8.7千克、炸药0.2千克、雷管17根，其行为已构成非法制造、储存枪支、弹药、爆炸物罪。李佩昆归案后如实供述自己的罪行，虽在第一次庭审中翻供，但在第二次庭审时又能如实供述，且当庭自愿认罪悔罪，可以从轻处罚。李佩昆非法储存的爆炸物虽达到“情节严重”的标准，但考虑涉案爆炸物是其爷爷李某1早年因筑路、修渠等正常生产、生活所遗留，现有证据亦不能证明李佩昆将涉案爆炸物用于他用或造成严重的社会危害，并根据罪责刑相适应的原则，不认定为刑法第一百二十五条第一款规定的“情节严重”。一、被告人李佩昆犯非法制造、储存枪支、弹药、爆炸物罪，判处有期徒刑五年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月18日起执行至2024年3月17日止）。\n二、在案扣押的作案工具手机1台，予以没收，上缴国库；扣押的枪支、弹药、爆炸物及模具、枪支配件、空包弹等物品一批（详见扣押清单），予以没收销毁（该判项由广州市公安局番禺区分局执行）。\n【（2019）鲁0283刑初349号】：法院认为，被告人张国芳、张元强非法制造、储存爆炸物，张国芳为主犯，张元强为从犯。二被告人制造烟火药目的为元宵节燃放烟花，主观上为燃放和销售盈利，客观上未造成实际危害，不属于“情节严重”。张国芳、张元强的行为构成非法制造、储存爆炸物罪，但不符合自首条件。一、被告人张国芳犯非法制造、储存爆炸物罪，判处有期徒刑五年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2024年2月17日止。）\n被告人张元强犯非法制造、储存爆炸物罪，判处有期徒刑二年。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的羁押一日折抵刑期一日。即自2019年2月18日起，至2021年2月17日止。）\n二、公安机关扣押的成品烟花混合原料117.05千克、引燃芯1.7千克、半成品烟花筒59个，由扣押机关平度市公安局依法销毁；公安机关扣押的硫磺17千克、硝粉88.65千克、煤粉29.7千克、铝粉28.6千克、铁粉143.85千克、筛子一个、剪刀一把、木锨一张、铁锤两个、塑料锨一张、电子称一个、铁墩子三个、小铁锨一把，依法没收，由扣押机关平度市公安局依法处置。",
+            "自首情节在非法制造、储存爆炸物罪中的量刑影响": "### 结论\n自首情节在非法制造、储存爆炸物罪的量刑中具有显著影响，可以作为从轻或减轻处罚的法定情节，但其影响程度取决于犯罪的具体情节，包括犯罪的性质、数量、是否造成严重社会危害、是否用于合法生产经营、被告人的悔罪表现以及是否符合“情节严重”的标准。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第一百二十五条第一款**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **最高人民法院《关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：因生产、生活需要而非法制造、买卖、运输、储存枪支、弹药、爆炸物，没有造成严重社会危害，并确有悔改表现的，可依法宣告缓刑或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的法定情节。例如，【（2019）闽0525刑初241号】、【（2020）闽0521刑初489号】、【（2019）浙0683刑初187号】中，被告人均因自首而获得从轻或减轻处罚。\n- **犯罪性质和数量**：犯罪的性质和数量对是否认定为“情节严重”有直接影响，进而影响量刑。例如，【（2019）闽0525刑初241号】中，尽管被告人具有自首情节，但由于非法运输、储存的爆炸物数量远高于“情节严重”的标准，法院未对其减轻处罚并适用缓刑。\n- **是否用于合法生产经营**：如果非法制造、储存的爆炸物用于合法生产经营，且未造成严重社会危害，可以不认定为“情节严重”。例如，【（2020）闽0521刑初489号】、【（2019）闽0425刑初198号】中，被告人因非法制造、储存的爆炸物用于合法生产经营，法院对其从轻处罚并适用缓刑。\n- **悔罪表现**：被告人的悔罪表现也是量刑时考虑的因素。例如，【（2019）浙0683刑初187号】中，被告人因自首和非法储存的爆炸物已被查获，法院认为其悔罪表现良好，予以减轻处罚。\n\n综上，自首情节在非法制造、储存爆炸物罪的量刑中具有重要作用，但其具体影响需结合犯罪的性质、数量、是否用于合法生产经营以及被告人的悔罪表现等综合因素来判断。\n\n#####\n类似案件为：\n【（2019）闽0525刑初241号】：法院认为，被告人尤金盛违反国家爆炸物品管理法规，非法运输炸药120千克及储存炸药105千克、电雷管690枚，用于煤矿生产，构成非法运输、储存爆炸物罪。尤金盛有自首情节，涉案爆炸物用于合法生产经营，未造成严重危害后果，可从轻处罚。非法运输、储存的爆炸物数量大，不宜减轻处罚并适用缓刑。尤金盛系初犯并具有自首情节，自愿认罪悔罪，酌情从轻处罚。一、被告人尤金盛犯非法运输、储存爆炸物罪，判处有期徒刑四年六个月。\n （刑期从本判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月30日起至2023年10月12日止。）\n 二、公安机关向被告人尤金盛所扣押的作案工具即闽Ｃ×××××号捷达牌小型轿车，予以没收，上缴国库。\n【（2020）闽0521刑初489号】：法院认为，被告人林荣强违反爆炸物品管理规定，非法制造爆炸物，其行为构成非法制造爆炸物罪。鉴于林荣强有自首情节，非法制造爆炸物系因合法生产经营活动，没有造成严重社会危害，确有悔改表现，且主动退出违法所得，自愿认罪认罚，可以从轻处罚。因此，法院判决林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年；退出的违法所得2万元予以没收，上缴国库；扣押在案的爆炸物予以没收，由公安机关依法处理。一、被告人林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年三个月。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人林荣强退出的违法所得人民币20000元，予以没收，上缴国库。\n 三、扣押在案的“R6气体致裂管”4根、塑料管2根（均未随案移送），予以没收，由扣押机关惠安县公安局依法处理。\n【（2019）浙0683刑初187号】：法院认为，被告人郑童炎非法存放雷管三十枚以上，构成非法储存爆炸物罪，应处三年以上十年以下有期徒刑。鉴于其自首，且非法储存的爆炸物已被查获，依法可予减轻处罚。一、被告人郑童炎犯非法储存爆炸物罪，判处有期徒刑一年八个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一九年三月十一日起至二〇二〇年十一月十日止）。\n 二、扣押于嵊州市公安局的涉案雷管及导火索，均予以没收，并由扣押机关上缴国库。"
+          }
+        },
+        "目标": "请求法院判处被告人漆某犯非法制造、储存爆炸物罪，判处有期徒刑三年，缓刑四年，并处罚金人民币五万元",
+        "询问": "1.被告人漆某，你在未取得烟花爆竹生产经营许可证的情况下，为何要购买生产设备和原料？是否清楚这是违法行为？\n\n2.你储存的导火索、引燃药等物品经鉴定属于烟火药，总量已超过司法解释规定的定罪标准。你对此是否知情？\n\n3.你声称是为了合法生产烟花爆竹，但在许可证尚未办理完成的情况下就开始实验制作，这是否与你的说法矛盾？\n\n4.你选择在远离居民区的砖厂储存这些物品，是否意识到这些物品可能对公共安全造成危害？\n\n5.你制作的烟花样品中，黄光、杨柳等成品数量较大，这是否表明你已进入实际生产阶段而非单纯试验？\n\n6.你主动投案后，是否如实向公安机关供述了全部犯罪事实？有无隐瞒或遗漏？\n\n7.你与＊＊＊＊公司签订合同时，对方是否明确告知你需要先取得许可证才能开始生产？\n\n8.你制作的烟花样品是否曾向他人展示或销售？有无实际流入市场？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的检验报告未明确说明检验方法是否符合国家标准，可能影响鉴定结论的准确性 2.证人证言仅能证明被告人购买原料和进行试验，不能证明其具有非法目的 3.扣押物品清单中部分物品数量未达到司法解释规定的入罪标准\n防御策略：1.被告人系为合法生产经营目的进行试验性生产，主观恶性小 2.被告人主动投案自首，认罪态度良好 3.涉案物品存放地点远离居民区，未造成实际危害后果 4.参照(2019)苏0804刑初21号案例，类似情形可免予刑事处罚",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "烟花爆竹生产许可证办理期间进行试验性生产是否构成非法制造爆炸物罪",
+              "主动投案自首在非法制造爆炸物案件中的量刑影响"
+            ],
+            "烟花爆竹生产许可证办理期间进行试验性生产是否构成非法制造爆炸物罪": "### 结论\n烟花爆竹生产许可证办理期间进行试验性生产是否构成非法制造爆炸物罪，关键在于判断试验性生产是否符合非法制造爆炸物罪的构成要件，尤其是行为的非法性、目的性以及是否达到刑法规定的数量标准。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条第一款第（六）项**：非法制造、买卖、运输、邮寄、储存炸药、发射药、黑火药一千克以上或者烟火药三千克以上、雷管三十枚以上或者导火索、导爆索三十米以上的，以非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物罪定罪处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为的非法性**：是否未经国家有关部门批准进行生产。例如，【（2016）湘0527刑初字第43号】中，被告人钟小波未经批准非法制造烟火药，构成非法制造爆炸物罪。\n- **目的性**：生产烟花爆竹的目的是否为非法目的。例如，【（2019）苏0804刑初21号】中，被告人刘文思、朱建中制造烟火药的目的是生产烟花爆竹，且数量刚超过入罪标准，犯罪情节轻微，可以免予刑事处罚。\n- **数量标准**：是否达到刑法规定的数量标准。例如，【（2019）粤1224刑初186号】中，被告人陈卫全非法制造烟火药爆炸物含药量为8.43千克，达到非法制造爆炸物罪的构成要件。\n- **社会危害性**：是否造成严重社会危害。例如，【（2019）粤1322刑初163号】中，被告三人非法自制炸药达90千克，但鉴于其三人属从事合法的生产经营活动而非法制造爆炸物，且没有造成严重的社会危害后果，可不认定为“情节严重”。\n\n综上，烟花爆竹生产许可证办理期间进行试验性生产是否构成非法制造爆炸物罪，需要综合考虑行为的非法性、目的性、是否达到数量标准以及社会危害性。如果试验性生产未经批准，且达到刑法规定的数量标准，即使目的是为了生产烟花爆竹，也可能构成非法制造爆炸物罪，但法院在量刑时会考虑行为的社会危害性。如果社会危害性较小，法院可能会从轻处罚或不认定为“情节严重”。\n\n#####\n类似案件为：\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。\n【（2019）粤1224刑初186号】：法院认为，被告人陈卫全非法制造烟火药爆炸物，其行为已构成非法制造爆炸物罪，应依法惩处。鉴于陈卫全能如实供述自己罪行，认罪态度较好，未造成危害结果，取得他人谅解，有悔罪表现，可以从轻处罚。被告人陈卫全犯非法制造爆炸物罪，判处有期徒刑三年。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月23日起至2022年7月22日止。）\n【（2019）粤1322刑初163号】：法院认为，被告人赖辉、徐自平、覃建识非法制造爆炸物，其行为均已构成非法制造爆炸物罪。鉴于三被告人属因正常生产、生活需要而非法制造爆炸物，没有造成严重社会危害，且有悔改表现，可不认定为情节严重。一、被告人赖辉犯非法制造爆炸物罪，判处有期徒刑三年六个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年10月21日起至2022年4月20日止)。\n二、被告人徐自平犯非法制造爆炸物罪，判处有期徒刑三年六个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年10月21日起至2022年4月20日止)。\n三、被告人覃建识犯非法制造爆炸物罪，判处有期徒刑三年六个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年10月21日起至2022年4月20日止)。\n四、公安机关依法扣押涉案的火化器22条、制裂管11条、疑似炸药（成品）共90KG、疑似制造炸药材料（半成品）共220KG、起爆器1个、起爆线1条（以公安机关的扣押清单为准），依法予以没收，由扣押机关在本判决发生法律效力后依法处理。",
+            "主动投案自首在非法制造爆炸物案件中的量刑影响": "### 结论\n主动投案自首在非法制造爆炸物案件中对量刑有显著影响，可以作为从轻或减轻处罚的情节，尤其是当被告人能够如实供述自己的罪行，认罪态度良好，且未造成严重社会危害时，法院更倾向于适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第七十二条第一款**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是非法制造爆炸物案件中影响量刑的重要因素。例如，【（2020）闽0521刑初489号】中，被告人林荣强因自首、认罪认罚，法院从轻处罚并适用缓刑。【（2019）鲁1083刑初279号】中，被告人刘某、张某虽未被认定为自首，但因如实供述主要犯罪事实，法院在量刑时予以从轻处罚。\n- **犯罪情节**：犯罪情节较轻，没有造成严重社会危害，是适用缓刑的重要条件。如【（2020）闽0521刑初489号】中，被告人林荣强非法制造爆炸物系因从事合法的生产经营活动，没有造成严重社会危害，法院因此从轻处罚并适用缓刑。\n- **认罪态度**：认罪态度良好，主动退出违法所得，也是法院考虑从轻处罚的因素。如【（2020）闽0521刑初489号】中，被告人林荣强主动退出违法所得，法院酌情从轻处罚。\n\n综上，主动投案自首、犯罪情节较轻、认罪态度良好是非法制造爆炸物案件中影响量刑的关键因素，法院在量刑时会综合考虑这些因素，对被告人从轻或减轻处罚，甚至适用缓刑。\n\n#####\n类似案件为：\n【（2020）闽0521刑初489号】：法院认为，被告人林荣强违反爆炸物品管理规定，非法制造爆炸物，其行为构成非法制造爆炸物罪。鉴于林荣强有自首情节，非法制造爆炸物系因合法生产经营活动，没有造成严重社会危害，确有悔改表现，且主动退出违法所得，自愿认罪认罚，可以从轻处罚。因此，法院判决林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年；退出的违法所得2万元予以没收，上缴国库；扣押在案的爆炸物予以没收，由公安机关依法处理。一、被告人林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年三个月。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人林荣强退出的违法所得人民币20000元，予以没收，上缴国库。\n 三、扣押在案的“R6气体致裂管”4根、塑料管2根（均未随案移送），予以没收，由扣押机关惠安县公安局依法处理。\n【（2019）鲁1083刑初279号】：法院认为，被告人刘某、张某未经许可买卖爆炸物品，构成非法买卖爆炸物罪。刘某、张某到案后如实供述犯罪事实，可从轻处罚。张某系从犯，予以减轻处罚。刘某虽脱逃后主动投案，但不符合自首构成要件，酌情从轻处罚。刘某、张某犯罪情节较轻，有悔罪表现，宣告缓刑对社区无重大不良影响，可适用缓刑。一、被告人刘某犯非法买卖爆炸物罪，判处有期徒刑三年，缓刑四年。\n （缓刑考验期限从判决确定之日起计算。）\n 二、被告人张某犯非法买卖爆炸物罪，判处有期徒刑二年，缓刑二年。\n （缓刑考验期限从判决确定之日起计算。）\n【（2020）闽0521刑初489号】：法院认为，被告人林荣强违反爆炸物品管理规定，非法制造爆炸物，其行为构成非法制造爆炸物罪。鉴于林荣强有自首情节，非法制造爆炸物系因合法生产经营活动，没有造成严重社会危害，确有悔改表现，且主动退出违法所得，自愿认罪认罚，可以从轻处罚。因此，法院判决林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年；退出的违法所得2万元予以没收，上缴国库；扣押在案的爆炸物予以没收，由公安机关依法处理。一、被告人林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年三个月。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人林荣强退出的违法所得人民币20000元，予以没收，上缴国库。\n 三、扣押在案的“R6气体致裂管”4根、塑料管2根（均未随案移送），予以没收，由扣押机关惠安县公安局依法处理。"
+          }
+        },
+        "目标": "请求法院对被告人漆某免予刑事处罚",
+        "询问": "1. 被告人漆某，你与＊＊＊＊公司签订合同购买生产设备时，该公司是否明确承诺会为你办理烟花爆竹生产经营许可证？请具体说明合同中对许可证办理的约定内容。\n\n2. 你在长沙购买原料时，是否向供应商出示了相关合同或证明文件？供应商是否知晓你购买这些原料的用途？\n\n3. 你储存原料和进行试验生产的砖厂具体位置在哪里？距离最近的居民区有多远？平时是否有人在该区域活动？\n\n4. 你制作的烟花样品是否进行过实际燃放测试？测试地点在哪里？测试时采取了哪些安全防护措施？\n\n5. 你在被举报后为何选择主动投案？投案时是否携带了相关合同和购买凭证？向公安机关说明了哪些情况？\n\n6. 你与＊＊＊＊公司的技术人员进行试验生产时，是否讨论过生产许可证的办理进度？公司方面是否告知过在许可证办理期间进行试验生产的法律风险？\n\n7. 你储存的原料中，导火索、导火线等物品的具体用途是什么？这些物品是否都是用于试验生产烟花爆竹？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人系为合法生产经营目的进行试验性生产，主观恶性小 2.被告人主动投案自首，认罪态度良好 3.涉案物品存放地点远离居民区，未造成实际危害后果 4.参照(2019)苏0804刑初21号案例，类似情形可免予刑事处罚",
+        "记忆": "",
+        "目标": "请求法院对被告人漆某免予刑事处罚"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人漆某制造、储存的烟火药是否达到刑法第一百二十五条规定的\"爆炸物\"标准。查明情况：公诉人已出示鉴定报告证明涉案物品属于烟火药，且数量超过司法解释规定标准；辩护人未对鉴定结果提出异议，但强调这些物品仅用于试验性生产。审判长认为该焦点已基本查明，涉案物品确属爆炸物范畴。\n\n2.被告人漆某主观上是否具有非法制造、储存爆炸物的犯罪故意。查明情况：被告人辩称其行为是为合法生产做准备，但承认未取得许可证；公诉人指出其明知需要许可证仍进行生产。审判长认为需结合合同约定进一步查明被告人的主观认知状态。\n\n3.被告人漆某与公司签订合同购买设备、原料的行为性质认定。查明情况：辩护人强调合同约定由公司办理许可证，但公诉人指出合同明确约定取得许可证前不得生产。审判长认为需进一步审查合同具体条款及履行情况。\n\n4.被告人储存爆炸物的地点距离居民区较远是否影响危害公共安全的认定。查明情况：双方确认储存地点距居民区2公里且无人活动，但公诉人认为仍具公共危险性。审判长认为该情节可能影响量刑但不影响定罪。\n\n5.被告人主动投案的行为是否构成自首。查明情况：双方均认可被告人主动投案并如实供述，审判长认为符合自首构成要件。\n\n6.被告人制造的烟花属于试验阶段且未造成实际危害是否影响量刑。查明情况：公诉人认可未造成实际危害并提出缓刑建议，辩护人强调系试验性生产。审判长认为该情节可作为从轻量刑考量。\n\n7.被告人的行为是否符合司法解释第九条规定的从轻处罚情形。查明情况：需进一步查明被告人的生产目的、悔罪表现等情节。审判长认为该焦点需在量刑阶段重点讨论。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条": "实施非法制造、买卖、运输、邮寄、储存、盗窃、抢夺、持有、私藏其他弹药、爆炸物品等行为，参照本解释有关条文规定的定罪量刑标准处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪？",
+              "储存烟火药数量超过司法解释规定标准但未造成实际危害如何量刑？",
+              "与正规公司签订生产合同但未取得许可证即开始生产，主观故意如何认定？"
+            ],
+            "在未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪？": "### 结论\n在未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪，关键在于判断烟花爆竹制品是否应被认定为刑法意义上的爆炸物，以及行为人的主观目的和客观行为是否符合非法制造爆炸物罪的构成要件。如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能不构成非法制造爆炸物罪，而构成非法经营罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《中华人民共和国刑法》第二百二十五条第四项**：规定违反国家规定，有下列非法经营行为之一，扰乱市场秩序，情节严重的，处五年以下有期徒刑或者拘役，并处或者单处违法所得一倍以上五倍以下罚金；情节特别严重的，处五年以上有期徒刑，并处违法所得一倍以上五倍以下罚金或者没收财产：（四）其他严重扰乱市场秩序的非法经营行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **烟花爆竹制品是否应被认定为刑法意义上的爆炸物**：如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能不构成非法制造爆炸物罪。例如，【（2019）苏0114刑初369号】中，法院认为烟花爆竹制品不应直接认定为刑法意义上的爆炸物，如果行为人非法买卖烟花爆竹制品的目的是追求产品的娱乐属性、商品属性，就不应将烟花爆竹制品理解为爆炸物品。\n- **行为人的主观目的和客观行为**：如果行为人非法制造烟花爆竹的目的是为了生产烟花爆竹，且没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可能不构成非法制造爆炸物罪。例如，【（2019）苏0804刑初21号】中，法院认为被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。\n- **非法经营罪与非法制造爆炸物罪的区分**：如果行为人未取得相关行政许可买卖烟花爆竹制品，扰乱市场秩序，情节严重的，应当适用非法经营罪追究刑事责任。例如，【（2019）粤0114刑初369号】中，法院认为烟花爆竹制品不属于“专营专卖物品”或“限制买卖的物品”，行为人未取得相关行政许可买卖烟花爆竹制品，扰乱市场秩序，情节严重的，应当适用非法经营罪追究刑事责任。\n\n综上，未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪，需要综合考虑烟花爆竹制品的性质、行为人的主观目的、客观行为以及是否造成严重社会危害后果等因素。如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能构成非法经营罪，而非非法制造爆炸物罪。\n\n#####\n类似案件为：\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。\n【（2019）粤0114刑初369号】：法院认为，李耀球无视国家法律，未经许可，非法经营烟花爆竹，情节严重，其行为已构成非法经营罪。烟花爆竹具有爆炸性和危险性，国家监管部门将其列为爆炸物品进行严格管理，但司法实践中不宜将烟花爆竹作爆炸物扩大解释。李耀球经营数额12万余元，归案后如实供述罪行，依法从轻处罚。被告人李耀球犯非法经营罪，判处有期徒刑一年八个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年9月18日起至2020年5月17日止），并处罚金三万（罚金自本判决发生法律效力之次日起十日内本院缴纳。期满不缴纳的，强制缴纳）。",
+            "储存烟火药数量超过司法解释规定标准但未造成实际危害如何量刑？": "### 结论\n对于非法储存烟火药数量超过司法解释规定标准但未造成实际危害的案件，法院在量刑时会考虑行为人的犯罪动机、是否为生产、生活需要、是否造成严重社会危害、是否具有悔改表现、是否如实供述、是否自首、是否适用缓刑等因素，综合判断是否认定为“情节严重”，并据此决定量刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第二条**：规定非法制造、买卖、运输、邮寄、储存爆炸物，具有下列情形之一的，属于刑法第一百二十五条第一款规定的“情节严重”：（一）制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的标准五倍以上的；（二）制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的标准十倍以上的；（三）制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的标准二十倍以上的；（四）制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的标准三十倍以上的；（五）制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的标准四十倍以上的；（六）制造、买卖、运输、邮寄、储存爆炸物的数量达到本解释第一条规定的标准五十倍以上的。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：规定因筑路、建房、打井、整修宅基地和土地等正常生产、生活需要，或者因从事合法的生产经营活动而非法制造、买卖、运输、邮寄、储存爆炸物，数量达到本解释第一条规定标准，没有造成严重社会危害，并确有悔改表现的，可依法从轻处罚；情节轻微的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪动机和目的**：如果行为人非法储存烟火药是为了生产、生活需要，没有造成严重社会危害，法院可能会从轻处罚。例如，【（2019）川14刑终223号】中，被告人伍某为修建集体公路而非法储存黑火药，法院认为其行为符合生产、生活需要，未认定为“情节严重”。\n- **是否如实供述和自首**：行为人归案后如实供述自己的罪行，可以依法从轻处罚。例如，【（2019）粤1322刑初20号】中，被告人黎锦波归案后如实供述非法储存黑火药的犯罪事实，法院认定其为坦白，予以从轻处罚。\n- **是否造成严重社会危害**：如果非法储存的烟火药没有造成严重社会危害，法院可能会从轻处罚。例如，【（2019）苏0804刑初21号】中，被告人刘文思、朱建中非法制造烟火药，但目的是生产烟花爆竹，没有造成其他社会危害后果，法院认为犯罪情节轻微，可以免予刑事处罚。\n- **是否适用缓刑**：对于犯罪情节轻微，没有造成严重社会危害，确有悔改表现的行为人，法院可能会适用缓刑。例如，【（2019）闽0424刑初29号】中，被告人罗国茂非法储存黑火药，但主动投案，未造成严重社会后果，法院依法对其宣告缓刑。\n\n综上，非法储存烟火药数量超过司法解释规定标准但未造成实际危害的案件，法院在量刑时会综合考虑行为人的犯罪动机、是否为生产、生活需要、是否造成严重社会危害、是否具有悔改表现、是否如实供述、是否自首等因素，以决定是否认定为“情节严重”，并据此决定量刑。\n\n#####\n类似案件为：\n【（2019）粤1322刑初20号】：法院认为，黎锦波非法储存黑火药30.28kg，构成非法储存爆炸物罪；非法持有以火药为动力发射枪弹的非军用枪支1支，构成非法持有枪支罪。鉴于黎锦波购买火药用于生活需要，存放地点非公共场所，未造成严重社会危害，确有悔改表现，且有坦白和自首情节，可依法从轻处罚。黎锦波一人犯数罪，应数罪并罚。一、被告人黎锦波犯非法储存爆炸物罪，判处有期徒刑三年；犯非法持有枪支罪，判处拘役五个月。总和刑期三年五个月，决定执行有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月5日起至2021年9月4日止)。\n\n二、公安机关扣押被告人黎锦波持有的金色弹壳102个、彩色弹壳10个、钢珠毛重2公斤、黑色固体颗粒毛重34公斤、射钉弹100盒、木枪托1个、鱼枪1把、枪型物品1个、胶质弹杯毛重1.35公斤、黄皮纸片30包1.5公斤、14桶白色乳液取样360ml毛重0.4公斤、枪管4支，均依法予以没收，由扣押机关在本判决发生法律效力后依法处理。\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。\n【（2019）闽0424刑初29号】：法院认为，被告人罗国茂违反国家管理规定，非法储存黑火药1298.3克，其行为已构成非法储存爆炸物罪。罗国茂主动投案，并如实供述自己罪行，是自首，可依法从轻或减轻处罚。鉴于罗国茂系自首，且未造成严重社会后果，依法对其宣告缓刑。被告人罗国茂犯非法储存爆炸物罪，判处有期徒刑二年，缓刑二年六个月。\n (缓刑考验期限，从本判决确定之日起计算。)",
+            "与正规公司签订生产合同但未取得许可证即开始生产，主观故意如何认定？": "在法律上，主观故意的认定通常涉及行为人的意图和认知状态。当一家公司与另一方签订生产合同，但未取得必要的许可证即开始生产时，其主观故意的认定可以从以下几个方面进行分析：\n\n1. **明知无证**：如果公司明知自己未取得必要的生产许可证，但仍决定开始生产，这通常被视为故意行为。这种情况下，公司可能因为追求经济利益而故意规避法律要求。\n\n2. **故意规避**：如果公司采取措施故意规避获取许可证的程序，比如通过伪造文件、贿赂官员等手段，这同样表明其主观故意。\n\n3. **故意忽视**：如果公司有理由知道其需要取得许可证才能合法生产，但出于疏忽或轻信能够逃避法律制裁而未采取行动，这也可能被视为故意行为的一种形式，即“故意忽视”。\n\n4. **法律知识**：如果公司管理层或负责人员具备相关法律知识，知道无证生产是违法的，但仍然决定生产，这将更直接地证明其主观故意。\n\n5. **行为模式**：如果公司有历史记录显示其在其他情况下也存在类似违法行为，这可能表明其存在一贯的故意行为模式。\n\n在司法实践中，认定主观故意通常需要综合考虑上述因素以及具体案件的其他相关证据。如果被认定为故意行为，公司可能面临更严重的法律后果，包括但不限于罚款、刑事责任、吊销营业执照等。\n\n对于此类问题，建议咨询专业律师，以获得针对具体案件的法律意见和建议。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过国家民用爆破器材质量监督检验中心检验报告证实涉案物品确属烟火药，数量达到司法解释规定的定罪标准。2.强调被告人在未取得许可证情况下擅自制造、储存爆炸物，违反《刑法》第125条，危害公共安全。3.指出虽然存放地点远离居民区，但储存数量已远超试验性生产合理范围，具有现实危险性。4.质疑被告人关于\"试验性生产\"的说法，指出其已实际制造出大量成品烟花。5.强调被告人未办理任何爆炸物品购买、运输许可手续，主观过错明显。\n\n防御策略：1.检验报告由具有资质的专业机构出具，程序合法有效。2.扣押物品清单经办案民警和见证人签字确认，保管链条完整。3.被告人在侦查阶段供述与证人证言、书证相互印证，形成完整证据链。4.合同书不能免除被告人未取得许可证的法律责任。5.社区调查评估意见证实适用缓刑不致危害社会。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第一条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第一条": "个人或者单位非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物，具有下列情形之一的，依照刑法第一百二十五条第一款的规定，以非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物罪定罪处罚：（一）非法制造、买卖、运输、邮寄、储存军用枪支1支以上的；（二）非法制造、买卖、运输、邮寄、储存以火药为动力发射枪弹的非军用枪支1支以上或者以压缩气体等为动力的其他非军用枪支2支以上的；（三）非法制造、买卖、运输、邮寄、储存军用子弹10发以上、气枪铅弹500发以上或者其他非军用子弹100发以上的；（四）非法制造、买卖、运输、邮寄、储存手榴弹1枚以上的；（五）非法制造、买卖、运输、邮寄、储存爆炸装置的；（六）非法制造、买卖、运输、邮寄、储存炸药、发射药、黑火药1千克以上或者烟火药3千克以上、雷管30枚以上或者导火索、导爆索30米以上的；（七）具有生产爆炸物品资格的单位不按照规定的品种制造，或者具有销售、使用爆炸物品资格的单位超过限额买卖炸药、发射药、黑火药10千克以上或者烟火药30千克以上、雷管300枚以上或者导火索、导爆索300米以上的；（八）多次非法制造、买卖、运输、邮寄、储存弹药、爆炸物的；（九）虽未达到上述最低数量标准，但具有造成严重后果等其他恶劣情节的。介绍买卖枪支、弹药、爆炸物的，以买卖枪支、弹药、爆炸物罪的共犯论处。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法制造、储存爆炸物罪中'试验性生产'是否影响定罪？",
+              "非法制造、储存爆炸物罪中自首情节的从轻处罚幅度"
+            ],
+            "非法制造、储存爆炸物罪中'试验性生产'是否影响定罪？": "非法制造、储存爆炸物罪，根据《中华人民共和国刑法》第一百二十五条的规定，是指非法制造、买卖、运输、储存爆炸物的行为。对于“试验性生产”是否影响定罪，关键在于这种“试验性生产”是否符合刑法中关于非法制造爆炸物的构成要件。\n\n1. **非法性**：如果“试验性生产”未经合法批准，即没有获得相应的许可或授权，那么这种行为本身就具有非法性，可能构成非法制造爆炸物罪。\n\n2. **爆炸物的定义**：爆炸物是指具有爆炸性质的物质，包括但不限于炸药、雷管、导火索等。如果“试验性生产”的产品属于爆炸物的范畴，那么就可能构成非法制造爆炸物罪。\n\n3. **主观故意**：非法制造爆炸物罪要求行为人具有主观故意，即明知是爆炸物而故意制造。如果“试验性生产”是出于合法目的，如科学研究，且行为人没有非法目的，那么可能不构成犯罪。\n\n4. **数量和危害性**：即使“试验性生产”具有非法性，但如果生产数量极小，且没有实际危害或潜在危害，司法实践中可能会考虑从轻或减轻处罚。\n\n5. **自首和立功**：如果行为人在案发后主动投案自首，或者有立功表现，根据刑法规定，可以从轻或减轻处罚。\n\n综上所述，是否构成非法制造、储存爆炸物罪，需要综合考虑行为的非法性、爆炸物的性质、行为人的主观故意、生产数量和危害性等因素。如果“试验性生产”确实违反了相关法律规定，且具备上述构成要件，那么就可能构成非法制造爆炸物罪。但在具体案件中，法院会根据具体案情和证据，依法作出判决。",
+            "非法制造、储存爆炸物罪中自首情节的从轻处罚幅度": "### 结论\n非法制造、储存爆炸物罪中自首情节的从轻处罚幅度受到犯罪性质、犯罪情节、犯罪后果、主观恶性、社会危害性等因素的影响。自首可以作为从轻或减轻处罚的情节，但是否从宽处罚需综合考虑案件的具体情况，包括犯罪的严重程度、行为人的悔罪表现、是否造成严重社会危害等。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：因生产、生活所需而非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物，没有造成严重社会危害，经教育确有悔改表现的，可依法免除或者从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的情节。例如，【（2019）浙0683刑初187号】中，被告人郑童炎因自首而被减轻处罚；【（2019）鲁0923刑初240号】中，被告人孙祥峰因自首而被减轻处罚。\n- **犯罪性质和情节**：犯罪的性质和情节对自首情节的从轻处罚幅度有重要影响。例如，【（2019）鄂05刑终138号】中，尽管被告人来某军有自首情节，但由于犯罪情节严重，法院未采纳缓刑建议；【（2019）闽0525刑初241号】中，被告人尤金盛虽有自首情节，但因其非法运输、储存的爆炸物数量巨大，不宜减轻处罚并适用缓刑。\n- **犯罪后果**：犯罪是否造成严重社会危害是决定自首情节从轻处罚幅度的重要因素。例如，【（2019）闽0425刑初198号】中，五被告人为合法生产经营活动非法储存爆炸物，未造成严重社会危害，可不认定为情节严重，从而减轻处罚。\n- **主观恶性**：行为人的主观恶性也是考虑自首情节从轻处罚幅度的因素之一。例如，【（2019）闽0521刑初241号】中，被告人尤金盛虽有自首情节，但因其主观恶性较大，不宜减轻处罚并适用缓刑。\n\n综上，自首情节在非法制造、储存爆炸物罪中的从轻处罚幅度受到多种因素的影响，包括犯罪的性质、情节、后果以及行为人的主观恶性等。法院在判决时会综合考虑这些因素，以确定是否从宽处罚以及从宽的幅度。\n\n#####\n类似案件为：\n【（2019）浙0683刑初187号】：法院认为，被告人郑童炎非法存放雷管三十枚以上，构成非法储存爆炸物罪，应处三年以上十年以下有期徒刑。鉴于其自首，且非法储存的爆炸物已被查获，依法可予减轻处罚。一、被告人郑童炎犯非法储存爆炸物罪，判处有期徒刑一年八个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一九年三月十一日起至二〇二〇年十一月十日止）。\n 二、扣押于嵊州市公安局的涉案雷管及导火索，均予以没收，并由扣押机关上缴国库。\n【（2019）鲁0923刑初240号】：法院认为，孙祥峰违反法律规定，私自储存爆炸物，情节严重；违反枪支管理规定，非法持有枪支，其行为已分别构成非法储存爆炸物罪、非法持有枪支罪。孙祥峰主动交代司法机关还未掌握的非法储存爆炸物的罪行，构成自首，依法应当减轻处罚。其到案后如实供述了非法持有枪支的犯罪事实，构成坦白，依法可从轻处罚。一、被告人孙祥峰犯非法储存爆炸物罪，判处有期徒刑七年；犯非法持有枪支罪，判处拘役六个月。决定执行有期徒刑七年。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月24日起至2026年4月23日止。）\n\n二、缴获的炸药12.385千克、导火索71.65米、枪支1支、法令弹2发等违禁品，依法予以没收，由东平县公安局销毁。\n【（2019）闽0525刑初241号】：法院认为，被告人尤金盛违反国家爆炸物品管理法规，非法运输炸药120千克及储存炸药105千克、电雷管690枚，用于煤矿生产，构成非法运输、储存爆炸物罪。尤金盛有自首情节，涉案爆炸物用于合法生产经营，未造成严重危害后果，可从轻处罚。非法运输、储存的爆炸物数量大，不宜减轻处罚并适用缓刑。尤金盛系初犯并具有自首情节，自愿认罪悔罪，酌情从轻处罚。一、被告人尤金盛犯非法运输、储存爆炸物罪，判处有期徒刑四年六个月。\n （刑期从本判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月30日起至2023年10月12日止。）\n 二、公安机关向被告人尤金盛所扣押的作案工具即闽Ｃ×××××号捷达牌小型轿车，予以没收，上缴国库。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的检验报告未明确说明检验方法是否符合国家标准，可能影响鉴定结论的准确性 2.证人证言仅能证明被告人购买原料和进行试验，不能证明其具有非法目的 3.扣押物品清单中部分物品数量未达到司法解释规定的入罪标准 4.公诉人未能证明被告人有将爆炸物用于非法用途的故意\n\n防御策略：1.被告人系为合法生产经营目的进行试验性生产，主观恶性小 2.被告人主动投案自首，认罪态度良好 3.涉案物品存放地点远离居民区，未造成实际危害后果 4.被告人与正规公司签订合同，购买原料具有合法来源",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "为合法生产经营目的非法制造、储存爆炸物免予刑事处罚的案例",
+              "非法制造、储存爆炸物罪中主观恶性小的认定标准"
+            ],
+            "为合法生产经营目的非法制造、储存爆炸物免予刑事处罚的案例": "### 结论\n为合法生产经营目的非法制造、储存爆炸物，若未造成严重社会危害，经教育确有悔改表现，法院可能依法免除或者从轻处罚。但是否免予刑事处罚，需综合考虑爆炸物数量、是否造成实际危害、行为人的悔罪表现、是否自首、是否用于合法生产等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条第二款**：因生产、生活所需而非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物，没有造成严重社会危害，经教育确有悔改表现的，可依法免除或者从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **爆炸物的用途**：若爆炸物用于合法的生产经营活动，且未造成严重社会危害，法院可能从轻处罚。例如，【（2020）闽09刑终94号】、【（2019）闽0802刑初802号】、【（2019）闽0525刑初226号】、【（2020）闽0521刑初332号】、【（2020）粤1621刑初142号】、【（2019）闽0425刑初198号】、【（2019）闽0802刑初847号】中，法院均考虑了爆炸物用于合法生产这一因素。\n- **行为人的悔罪表现**：自首、如实供述、自愿认罪认罚等悔罪表现，法院可能从轻或减轻处罚。例如，【（2019）闽0802刑初802号】、【（2019）闽0525刑初226号】、【（2020）闽0521刑初332号】、【（2020）粤1621刑初142号】、【（2019）闽0425刑初198号】、【（2019）闽0802刑初847号】中，法院均考虑了行为人的悔罪表现。\n- **爆炸物数量**：数量虽达到情节严重的标准，但用于合法生产，可不认定为情节严重。例如，【（2019）闽0802刑初802号】、【（2019）闽0525刑初226号】、【（2020）闽0521刑初332号】、【（2019）闽0425刑初198号】、【（2019）闽0802刑初847号】中，法院均考虑了爆炸物数量因素。\n- **是否造成实际危害**：未造成实际危害，法院可能从轻处罚。例如，【（2020）闽09刑终94号】、【（2019）闽0802刑初802号】、【（2019）闽0525刑初226号】、【（2020）闽0521刑初332号】、【（2020）粤1621刑初142号】、【（2019）闽0425刑初198号】、【（2019）闽0802刑初847号】中，法院均考虑了是否造成实际危害这一因素。\n\n综上，为合法生产经营目的非法制造、储存爆炸物，法院在判决时会综合考虑爆炸物的用途、行为人的悔罪表现、爆炸物数量、是否造成实际危害等因素，以决定是否免予刑事处罚或从轻处罚。\n\n#####\n类似案件为：\n【（2020）闽09刑终94号】：法院认为，阮细光非法储存黑火药6.645千克，其行为已构成非法储存爆炸物罪。鉴于阮细光归案后如实供述自己罪行且系为了从事合法的生产经营活动而非法储存爆炸物，没有造成严重后果，符合社区矫正条件，可以宣告缓刑。一、维持福建省福安市人民法院（2020）闽0981刑初3号刑事判决的第二项，即扣押在案的黑火药6.645千克，予以没收。\n 二、撤销福建省福安市人民法院（2020）闽0981刑初3号刑事判决的第一项，即被告人阮细光犯非法储存爆炸物罪，判处有期徒刑三年。\n 三、上诉人阮细光犯非法储存爆炸物罪，判处有期徒刑三年，缓刑三年。\n （缓刑考验期限从判决确定之日起计算。）\n【（2019）闽0802刑初802号】：法院认为，被告人余正玖、邓国军、刘勋明违反国家爆炸物管理法律法规，非法制造、储存爆炸物品，虽数量大，但用于合法生产，不予认定为情节严重。一、被告人余正玖犯非法制造、储存爆炸物罪，判处有期徒刑五年。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月29日起至2023年12月28日止。）\n 二、被告人邓国军犯非法制造、储存爆炸物罪，判处有期徒刑三年三个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月29日起至2022年3月28日止。）\n 三、被告人刘勋明犯非法储存爆炸物罪，判处有期徒刑二年六个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月22日起至2021年8月21日止。）\n 四、龙岩市公安局新罗分局扣押的爆炸物品、雷管，属物证，予以没收，由龙岩市公安局新罗分局依法处理；扣押的其余物品，由龙岩市公安局新罗分局依法处理。\n【（2019）闽0525刑初226号】：法院认为，被告人姚永盛违反国家爆炸物管理法规，擅自运输、储存炸药360公斤，准备用于煤矿生产，其行为已构成非法运输、储存爆炸物罪。被告人姚永盛在案发后经电话通知自行到案，并如实供述自己的罪行，是自首，依法予以从轻处罚。公安机关向被告人姚永盛所扣押的车辆，系其非法运输炸药的作案工具，依法应予没收。被告人姚永盛所擅自运输、储存的炸药数量明显高于“情节严重”的数量标准，因系用于从事合法的生产经营活动，没有造成严重社会危害，可不认定为“情节严重”，但不能认定为情节显著轻微、危害不大、不认为是犯罪或免予刑事处罚。一、被告人姚永盛犯非法运输、储存爆炸物罪，判处有期徒刑三年，缓刑四年。\n （缓刑考验期限从本判决确定之日起计算。）\n 二、公安机关向被告人姚永盛所扣押的作案工具即闽Ｃ×××××号黑色花冠小轿车，予以没收，上缴国库。",
+            "非法制造、储存爆炸物罪中主观恶性小的认定标准": "### 结论\n非法制造、储存爆炸物罪中主观恶性小的认定标准通常涉及行为人的动机、爆炸物的用途、是否造成实际危害、行为人是否初犯、认罪态度、爆炸物是否流入社会等因素。法院在量刑时会综合考虑这些因素，对于主观恶性较小的行为人，可能会从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：规定因从事合法的生产经营活动而非法储存爆炸物，数量达到了本解释第二条规定标准的，也可以不认定为“情节严重”的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的动机**：如果行为人非法制造或储存爆炸物的动机是为了正常的生产、生活需要，而非用于非法目的，法院可能会认定主观恶性较小。例如，【（2019）粤1802刑初176号】中，被告人黄某辉存放的雷管是因早年筑路、修渠等正常生产、生活所遗留，法院认为其主观恶性较小。\n- **爆炸物的用途**：如果爆炸物用于合法的生产活动，而非用于犯罪活动，法院可能会认为主观恶性较小。例如，【（2019）鲁1325刑初34号】中，被告人非法制造爆炸物用于复垦土地正常生产需要，法院认为主观恶性较小。\n- **是否造成实际危害**：如果行为人非法制造或储存的爆炸物没有造成实际的社会危害，法院可能会认为主观恶性较小。例如，【（2019）粤0306刑初5650号】中，被告人江世界制造的爆炸物尚未完成，未造成实际危害，法院认为主观恶性较小。\n- **行为人是否初犯、认罪态度**：如果行为人是初犯，且有悔罪表现，法院可能会认为主观恶性较小。例如，【（2019）粤1802刑初176号】中，被告人黄某辉是初犯，有悔罪表现，法院认为主观恶性较小。\n- **爆炸物是否流入社会**：如果非法制造或储存的爆炸物没有流入社会，未造成更广泛的社会危害，法院可能会认为主观恶性较小。例如，【（2019）粤0306刑初5650号】中，被告人江世界制造的爆炸物尚未流入社会，法院认为主观恶性较小。\n\n综上，法院在判断非法制造、储存爆炸物罪中行为人的主观恶性大小时，会综合考虑行为人的动机、爆炸物的用途、是否造成实际危害、行为人是否初犯、认罪态度、爆炸物是否流入社会等因素。对于主观恶性较小的行为人，法院可能会从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2019）粤1802刑初176号】：法院认为，黄某辉违反国家有关爆炸物管理规定，私自存放已过使用期限的导爆雷管和电雷管共4530发，有危害公共安全的危险，其行为构成非法储存爆炸物罪。私自存放的雷管数量达到情节严重的标准，但鉴于其行为是因从事合法的生产经营活动而非法储存爆炸物，可以不认定为刑法规定的“情节严重”。黄某辉到案后如实供述犯罪事实，当庭认罪，且是初犯，可从轻处罚。辩护人请求从轻处罚的辩护意见予以采纳。公诉机关提出以非法储存爆炸物罪判处黄某辉三年有期徒刑，可以适用缓刑的建议符合法律规定和本案案情，予以采纳。被告人黄某辉犯非法储存爆炸物罪，判处有期徒刑三年，缓刑三年。\n缓刑考验期限，从判决确定之日起计算。\n【（2019）鲁1325刑初34号】：法院认为，刘西恩、齐加华、齐家彬、齐纪功、王义坤、齐加才违反国家规定，非法制造爆炸物600公斤，情节严重，构成非法制造爆炸物罪。刘西恩、齐家彬、齐纪功、王义坤、齐加才在共同犯罪中起次要、辅助作用，系从犯，应当从轻或减轻处罚。齐家彬、齐加才、齐加华、齐纪功、王义坤构成自首，刘西恩构成坦白，可从轻处罚。鉴于部分被告人主观恶性较小，且所制造炸药用于复垦土地的正常生产需要，对齐加华、齐家彬、齐纪功、王义坤、齐加才适用缓刑。一、被告人刘西恩犯非法制造爆炸物罪，判处有期徒刑四年六个月。\n\n(有期徒刑的刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年11月11日起至2023年5月10日止。)\n\n二、被告人齐加华犯非法制造爆炸物罪，判处有期徒刑三年，缓刑五年。\n\n（缓刑考验期限，从判决确定之日起计算。并限自本判决生效之日起十日内持本判决书到居住地司法行政机关报到，接受社区矫正。）\n\n三、被告人齐家彬犯非法制造爆炸物罪判处有期徒刑年三年，缓刑五年。\n\n（缓刑考验期限，从判决确定之日起计算。并限自本判决生效之日起十日内持本判决书到居住地司法行政机关报到，接受社区矫正。）\n\n四、被告人齐纪功犯非法制造爆炸物罪判处有期徒刑年三年，缓刑四年。\n\n（缓刑考验期限，从判决确定之日起计算。并限自本判决生效之日起十日内持本判决书到居住地司法行政机关报到，接受社区矫正。）\n\n五、被告人王义坤犯非法制造爆炸物罪判处有期徒刑年三年，缓刑四年。\n\n（缓刑考验期限，从判决确定之日起计算。并限自本判决生效之日起十日内持本判决书到居住地司法行政机关报到，接受社区矫正。）\n\n六、被告人齐加才犯非法制造爆炸物罪判处有期徒刑年三年，缓刑三年。\n\n（缓刑考验期限，从判决确定之日起计算。并限自本判决生效之日起十日内持本判决书到居住地司法行政机关报到，接受社区矫正。）\n\n七、侦查机关在侦查阶段扣押的物品，由侦查机关依法处理。\n【（2019）粤0306刑初5650号】：法院认为，江世界非法制造枪支、弹药，构成非法制造枪支、弹药罪。铅弹虽未达追诉标准，但江世界控制的原料足以制造超过追诉标准的铅弹，构成非法制造弹药罪未遂。爆炸物制造未成功，证据不足，不构成非法制造爆炸物罪。江世界非自愿到案，如实供述罪行，属坦白，非自首。鉴于其主观恶性较小，枪支、弹药未流入社会，爆炸物未制造成功，可酌情从轻处罚。一、被告人江世界犯非法制造枪支、弹药罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年9月27日起至2022年9月26日止）。\n二、缴获的枪支二把、弹药、爆炸物原料及制造枪支、弹药的工具、原材料依法予以没收。\n三、扣押的VIVO手机一部依法发还被告人江世界。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人系为合法生产经营目的进行试验性生产，主观恶性小 2.被告人主动投案自首，认罪态度良好 3.涉案物品存放地点远离居民区，未造成实际危害后果 4.参照(2019)苏0804刑初21号案例，类似情形可免予刑事处罚",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人漆某制造、储存的烟火药是否达到刑法第一百二十五条规定的\"爆炸物\"标准。查明情况：公诉人已出示鉴定报告证明涉案物品属于烟火药，且数量超过司法解释规定标准；辩护人对鉴定方法提出质疑，但未否定鉴定结果。审判长认为该焦点已基本查明，涉案物品确属爆炸物范畴。\n\n2.被告人漆某主观上是否具有非法制造、储存爆炸物的犯罪故意。查明情况：被告人辩称其行为是为合法生产做准备；公诉人指出合同明确约定取得许可证前不得生产。审判长认为需进一步审查合同具体条款及被告人对法律规定的认知程度。\n\n3.被告人储存爆炸物的行为是否实际危害公共安全。查明情况：双方确认储存地点距居民区2公里且无人活动，但公诉人认为仍具公共危险性。审判长认为该情节可能影响量刑但不影响定罪。\n\n4.被告人的行为是否符合司法解释第九条规定的从轻处罚情形。查明情况：被告人系试验性生产、未造成实际危害、主动投案；公诉人认可这些情节并提出缓刑建议。审判长认为该焦点需在量刑阶段重点讨论。\n\n5.导火索4500米是否应单独认定为爆炸物。查明情况：辩护人认为导火索不属于司法解释明确列举的爆炸物；公诉人援引司法解释第九条认为导火索属于爆炸物品。审判长认为需结合司法解释和鉴定报告进一步认定。\n\n6.被告人制作的烟花样品数量是否表明已进入实际生产阶段。查明情况：辩护人强调系试验性产品；公诉人认为样品数量较大已超出试验范围。审判长认为需结合生产工艺和合同约定进一步查明。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条": "实施非法制造、买卖、运输、邮寄、储存、盗窃、抢夺、持有、私藏其他弹药、爆炸物品等行为，参照本解释有关条文规定的定罪量刑标准处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪？",
+              "导火索是否属于刑法意义上的爆炸物？"
+            ],
+            "在未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪？": "### 结论\n在未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪，关键在于判断烟花爆竹制品是否应被认定为刑法意义上的爆炸物，以及行为人的主观目的和客观行为是否符合非法制造爆炸物罪的构成要件。如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能不构成非法制造爆炸物罪，而构成非法经营罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《中华人民共和国刑法》第二百二十五条第四项**：规定违反国家规定，有下列非法经营行为之一，扰乱市场秩序，情节严重的，处五年以下有期徒刑或者拘役，并处或者单处违法所得一倍以上五倍以下罚金；情节特别严重的，处五年以上有期徒刑，并处违法所得一倍以上五倍以下罚金或者没收财产：（四）其他严重扰乱市场秩序的非法经营行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **烟花爆竹制品是否应被认定为刑法意义上的爆炸物**：如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能不构成非法制造爆炸物罪。例如，【（2019）苏0114刑初369号】中，法院认为烟花爆竹制品不应直接认定为刑法意义上的爆炸物，如果行为人非法买卖烟花爆竹制品的目的是追求产品的娱乐属性、商品属性，就不应将烟花爆竹制品理解为爆炸物品。\n- **行为人的主观目的和客观行为**：如果行为人非法制造烟花爆竹的目的是为了生产烟花爆竹，且没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可能不构成非法制造爆炸物罪。例如，【（2019）苏0804刑初21号】中，法院认为被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。\n- **非法经营罪与非法制造爆炸物罪的区分**：如果行为人未取得相关行政许可买卖烟花爆竹制品，扰乱市场秩序，情节严重的，应当适用非法经营罪追究刑事责任。例如，【（2019）粤0114刑初369号】中，法院认为烟花爆竹制品不属于“专营专卖物品”或“限制买卖的物品”，行为人未取得相关行政许可买卖烟花爆竹制品，扰乱市场秩序，情节严重的，应当适用非法经营罪追究刑事责任。\n\n综上，未取得许可证情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪，需要综合考虑烟花爆竹制品的性质、行为人的主观目的、客观行为以及是否造成严重社会危害后果等因素。如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能构成非法经营罪，而非非法制造爆炸物罪。\n\n#####\n类似案件为：\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。\n【（2019）粤0114刑初369号】：法院认为，李耀球无视国家法律，未经许可，非法经营烟花爆竹，情节严重，其行为已构成非法经营罪。烟花爆竹具有爆炸性和危险性，国家监管部门将其列为爆炸物品进行严格管理，但司法实践中不宜将烟花爆竹作爆炸物扩大解释。李耀球经营数额12万余元，归案后如实供述罪行，依法从轻处罚。被告人李耀球犯非法经营罪，判处有期徒刑一年八个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年9月18日起至2020年5月17日止），并处罚金三万（罚金自本判决发生法律效力之次日起十日内本院缴纳。期满不缴纳的，强制缴纳）。",
+            "导火索是否属于刑法意义上的爆炸物？": "### 结论\n导火索属于刑法意义上的爆炸物，但其非法储存的量和用途、是否造成实际危害、被告人的主观恶性、是否自首、认罪态度、有无前科等因素会影响量刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法储存的量**：非法储存导火索的量是量刑的重要依据。例如，【（2019）闽0428刑初94号】、【（2019）闽0125刑初229号】、【（2019）粤0823刑初231号】、【（2020）闽0825刑初229号】、【（2020）鲁0883刑初28号】等案例中，储存导火索的量从30米到130米不等，量刑从缓刑到有期徒刑不等。\n- **是否自首和认罪态度**：自首和认罪态度是量刑的重要考量因素。例如，【（2019）闽0428刑初94号】、【（2020）闽0825刑初229号】中，被告人主动投案并如实供述，法院依法从轻或减轻处罚。\n- **是否造成实际危害**：未造成实际危害的，量刑可能较轻。例如，【（2019）闽0428刑初94号】、【（2019）粤0823刑初231号】、【（2020）闽0825刑初229号】中，被告人储存导火索但未造成实际危害，法院考虑适用缓刑。\n- **储存目的**：储存导火索的目的也会影响量刑。例如，【（2019）粤0823刑初231号】中，被告人储存导火索用于炸鱼，法院认为犯罪情节轻微，适用缓刑。\n\n综上，非法储存导火索构成非法储存爆炸物罪，量刑时会综合考虑储存量、是否自首、认罪态度、是否造成实际危害以及储存目的等因素。\n\n#####\n类似案件为：\n【（2019）闽0428刑初94号】：法院认为，谢启松违反国家法律规定，非法储存导火索130米，构成非法储存爆炸物罪。鉴于谢启松有自首情节，主观恶性较小，未造成严重社会危害，认罪、悔罪，犯罪情节轻微，依法可以免除处罚。一、被告人谢启松犯非法储存爆炸物罪，免予刑事处罚。\n 二、扣押在案的导火索130米，予以没收，由将乐县公安局依法处理。\n【（2019）闽0125刑初229号】：法院认为，被告人郑加林非法储存炸药1.9千克、导火索69.78米，其行为构成非法储存爆炸物罪。鉴于郑加林如实供述罪行，自愿认罪认罚，可从轻处罚。郑加林具有犯罪前科，可酌情从重处罚。但考虑爆炸物用于正常生产经营、没有给社会造成危害及郑加林认罪悔罪表现，适用缓刑不致再危害社会。一、被告人郑加林犯非法储存爆炸物罪，判处有期徒刑三年，缓刑四年。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、扣押在永泰县公安局的涉案爆炸危险品1.9千克、导火索69.78米予以没收，由扣押机关依法处理。\n【（2019）粤0823刑初231号】：法院认为，被告人刘春非法存放导火索32.25米，构成非法储存爆炸物罪。鉴于导火索用于炸鱼，存放时间长，未造成社会危害，且被告人如实供述罪行，依法可从轻处罚。根据犯罪情节及悔罪表现，适用缓刑对社区无重大不良影响，决定宣告缓刑。一、被告人刘春犯非法储存爆炸物罪，判处有期徒刑三年，缓刑三年（缓刑考验期限，从判决确定之日起计算）。\n二、随案移送的导火索3225厘米（其中黄色2255厘米黄红色970厘米），予以没收，由公安机关按有关规定予以销毁。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过国家民用爆破器材质量监督检验中心检验报告证实涉案物品确属烟火药，数量达到司法解释规定的定罪标准。2.强调被告人在未取得许可证情况下擅自制造、储存爆炸物，违反《刑法》第125条，危害公共安全。3.指出虽然存放地点远离居民区，但储存数量已远超试验性生产合理范围，具有现实危险性。4.质疑被告人关于\"试验性生产\"的说法，指出其已实际制造出大量成品烟花。5.强调被告人未办理任何爆炸物品购买、运输许可手续，主观过错明显。\n\n防御策略：1.检验报告由具有资质的专业机构出具，程序合法有效。2.扣押物品清单经办案民警和见证人签字确认，保管链条完整。3.被告人在侦查阶段供述与证人证言、书证相互印证，形成完整证据链。4.合同书不能免除被告人未取得许可证的法律责任。5.社区调查评估意见证实适用缓刑不致危害社会。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条": "实施非法制造、买卖、运输、邮寄、储存、盗窃、抢夺、持有、私藏其他弹药、爆炸物品等行为，参照本解释有关条文规定的定罪量刑标准处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在未取得许可证的情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪？",
+              "导火索是否属于司法解释规定的爆炸物范围？"
+            ],
+            "在未取得许可证的情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪？": "### 结论\n在未取得许可证的情况下进行烟花爆竹试验性生产是否构成非法制造爆炸物罪，关键在于判断烟花爆竹制品是否应被认定为刑法意义上的爆炸物，以及行为人的主观目的和客观行为是否符合非法制造爆炸物罪的构成要件。如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能不构成非法制造爆炸物罪，而构成非法经营罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《中华人民共和国刑法》第二百二十五条第四项**：规定违反国家规定，有下列非法经营行为之一，扰乱市场秩序，情节严重的，处五年以下有期徒刑或者拘役，并处或者单处违法所得一倍以上五倍以下罚金；情节特别严重的，处五年以上有期徒刑，并处违法所得一倍以上五倍以下罚金或者没收财产：（四）其他严重扰乱市场秩序的非法经营行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **烟花爆竹制品是否应认定为爆炸物**：如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，法院可能不将其直接认定为刑法意义上的爆炸物。例如，【（2019）苏0804刑初21号】中，法院认为被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。\n- **行为人的主观目的和客观行为**：如果行为人的目的是追求产品的娱乐属性、商品属性，而不是为了获取烟火药或黑火药的爆炸属性，客观上也只是将烟花爆竹制品作为烟花爆竹制品使用或出售，法院可能不认定为非法制造爆炸物罪。例如，【（2019）粤0114刑初369号】中，法院认为烟花爆竹与其他爆炸物一样具有爆炸性和危险性，但司法实践中对“爆炸物”的范围不宜作扩大性解释，被告人李耀球的行为构成非法经营罪。\n- **是否造成严重社会危害**：即使行为人非法制造烟花爆竹，如果没有造成严重社会危害，法院可能从轻处罚或认定为非法经营罪。例如，【（2019）苏0804刑初21号】中，法院考虑到被告人制造的烟火药没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，决定免予刑事处罚。\n\n综上，是否构成非法制造爆炸物罪取决于烟花爆竹制品的使用目的、是否造成严重社会危害以及行为人的主观意图。如果烟花爆竹制品主要用于娱乐或商品属性，且没有造成严重社会危害，可能构成非法经营罪而非非法制造爆炸物罪。\n\n#####\n类似案件为：\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。\n【（2019）粤0114刑初369号】：法院认为，李耀球无视国家法律，未经许可，非法经营烟花爆竹，情节严重，其行为已构成非法经营罪。烟花爆竹具有爆炸性和危险性，国家监管部门将其列为爆炸物品进行严格管理，但司法实践中不宜将烟花爆竹作爆炸物扩大解释。李耀球经营数额12万余元，归案后如实供述罪行，依法从轻处罚。被告人李耀球犯非法经营罪，判处有期徒刑一年八个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年9月18日起至2020年5月17日止），并处罚金三万（罚金自本判决发生法律效力之次日起十日内本院缴纳。期满不缴纳的，强制缴纳）。\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。",
+            "导火索是否属于司法解释规定的爆炸物范围？": "### 结论\n导火索属于司法解释规定的爆炸物范围。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **最高人民法院《关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第二条**：非法制造、买卖、运输、邮寄、储存炸药、发射药、黑火药一千克以上或者烟火药三千克以上、雷管三十枚以上或者导火索、导爆索三十米以上的，依照刑法第一百二十五条第一款的规定，以非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物罪定罪处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法储存爆炸物的数量**：非法储存的导火索数量达到或超过30米，构成非法储存爆炸物罪。例如，【（2019）闽0125刑初229号】、【（2019）闽0428刑初94号】、【（2019）粤0823刑初231号】、【（2020）鲁0883刑初28号】、【（2020）闽0825刑初229号】、【（2019）鲁0685刑初256号】、【（2019）浙0683刑初187号】、【（2019）鲁1724刑初322号】、【（2020）粤0881刑初367号】这些案例均涉及非法储存导火索，且数量达到或超过30米，构成非法储存爆炸物罪。\n- **自首和坦白**：被告人主动投案并如实供述自己的罪行，可以视为自首，依法可以从轻或减轻处罚。例如，【（2019）闽0428刑初94号】、【（2019）鲁0685刑初256号】、【（2019）浙0683刑初187号】、【（2020）粤0881刑初367号】中，被告人因自首而获得从轻或减轻处罚。\n- **犯罪目的和危害后果**：犯罪目的用于合法生产经营、未造成严重社会危害，可以作为从轻处罚的情节。例如，【（2019）闽0125刑初229号】、【（2019）粤0823刑初231号】、【（2019）鲁0685刑初256号】中，被告人储存爆炸物用于合法生产经营，未造成严重社会危害，法院在量刑时予以考虑。\n- **累犯和前科**：被告人有犯罪前科或累犯，可以酌情从重处罚。例如，【（2020）鲁0883刑初28号】中，被告人因累犯而被从重处罚。\n\n综上，导火索属于司法解释规定的爆炸物范围，非法储存导火索达到或超过30米即构成非法储存爆炸物罪。法院在量刑时会考虑自首、犯罪目的、危害后果、累犯等因素。\n\n#####\n类似案件为：\n【（2019）闽0125刑初229号】：法院认为，被告人郑加林非法储存炸药1.9千克、导火索69.78米，其行为构成非法储存爆炸物罪。鉴于郑加林如实供述罪行，自愿认罪认罚，可从轻处罚。郑加林具有犯罪前科，可酌情从重处罚。但考虑爆炸物用于正常生产经营、没有给社会造成危害及郑加林认罪悔罪表现，适用缓刑不致再危害社会。一、被告人郑加林犯非法储存爆炸物罪，判处有期徒刑三年，缓刑四年。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、扣押在永泰县公安局的涉案爆炸危险品1.9千克、导火索69.78米予以没收，由扣押机关依法处理。\n【（2019）闽0428刑初94号】：法院认为，谢启松违反国家法律规定，非法储存导火索130米，构成非法储存爆炸物罪。鉴于谢启松有自首情节，主观恶性较小，未造成严重社会危害，认罪、悔罪，犯罪情节轻微，依法可以免除处罚。一、被告人谢启松犯非法储存爆炸物罪，免予刑事处罚。\n 二、扣押在案的导火索130米，予以没收，由将乐县公安局依法处理。\n【（2019）粤0823刑初231号】：法院认为，被告人刘春非法存放导火索32.25米，构成非法储存爆炸物罪。鉴于导火索用于炸鱼，存放时间长，未造成社会危害，且被告人如实供述罪行，依法可从轻处罚。根据犯罪情节及悔罪表现，适用缓刑对社区无重大不良影响，决定宣告缓刑。一、被告人刘春犯非法储存爆炸物罪，判处有期徒刑三年，缓刑三年（缓刑考验期限，从判决确定之日起计算）。\n二、随案移送的导火索3225厘米（其中黄色2255厘米黄红色970厘米），予以没收，由公安机关按有关规定予以销毁。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的检验报告未明确说明检验方法是否符合国家标准，可能影响鉴定结论的准确性 2.证人证言仅能证明被告人购买原料和进行试验，不能证明其具有非法目的 3.扣押物品清单中部分物品数量未达到司法解释规定的入罪标准 4.公诉人未能证明被告人有将爆炸物用于非法用途的故意\n\n防御策略：1.被告人系为合法生产经营目的进行试验性生产，主观恶性小 2.被告人主动投案自首，认罪态度良好 3.涉案物品存放地点远离居民区，未造成实际危害后果 4.被告人与正规公司签订合同，购买原料具有合法来源",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条": "实施非法制造、买卖、运输、邮寄、储存、盗窃、抢夺、持有、私藏其他弹药、爆炸物品等行为，参照本解释有关条文规定的定罪量刑标准处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "为办理许可证而进行试验性生产烟花爆竹是否构成非法制造爆炸物罪",
+              "导火索是否属于司法解释明确列举的爆炸物种类"
+            ],
+            "为办理许可证而进行试验性生产烟花爆竹是否构成非法制造爆炸物罪": "### 结论\n为办理许可证而进行试验性生产烟花爆竹的行为，是否构成非法制造爆炸物罪，关键在于该行为是否违反国家有关爆炸物管理规定，是否具有非法性，以及是否达到刑法规定的犯罪构成要件。如果行为人是为了合法生产烟花爆竹而进行的试验性生产，且未造成严重社会危害，可能不构成非法制造爆炸物罪，但可能构成非法经营罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《中华人民共和国刑法》第二百二十五条**：违反国家规定，有下列非法经营行为之一，扰乱市场秩序，情节严重的，处五年以下有期徒刑或者拘役，并处或者单处违法所得一倍以上五倍以下罚金；情节特别严重的，处五年以上有期徒刑，并处违法所得一倍以上五倍以下罚金或者没收财产：（一）未经许可经营法律、行政法规规定的专营、专卖物品或者其他限制买卖的物品的；（四）其他严重扰乱市场秩序的非法经营行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为的非法性**：如果行为人是为了合法生产烟花爆竹而进行的试验性生产，且未造成严重社会危害，可能不构成非法制造爆炸物罪。例如，【（2019）苏0804刑初21号】中，被告人制造的烟火药目的是生产烟花爆竹，数量刚超过3000克的入罪标准，犯罪情节轻微，法院认为可以免予刑事处罚。\n- **行为的目的和后果**：如果行为人非法制造烟花爆竹是为了牟利，且造成了严重社会危害，可能构成非法制造爆炸物罪。例如，【（2016）湘0527刑初字第43号】中，被告人钟小波非法制造烟火药，数量达到犯罪最低标准的五倍以上，法院认为构成非法制造爆炸物罪。\n- **行为的性质**：如果行为人非法买卖、储存烟花爆竹，但未达到刑法意义上的爆炸物标准，可能构成非法经营罪。例如，【（2019）粤1302刑初2161号】中，法院认为烟花爆竹并未被明确纳入刑法意义上的爆炸物范围，被告人潘某平的行为构成非法经营罪。\n\n综上，为办理许可证而进行试验性生产烟花爆竹的行为，是否构成非法制造爆炸物罪，关键在于行为的非法性、目的和后果，以及是否达到刑法规定的犯罪构成要件。如果行为是为了合法生产而进行，且未造成严重社会危害，可能不构成非法制造爆炸物罪，但可能构成非法经营罪。\n\n#####\n类似案件为：\n【（2019）苏0804刑初21号】：法院认为，被告人刘文思、朱建中以牟利为目的，共同非法制造烟火药3869克，其行为均已构成非法制造爆炸物罪，属共同犯罪。二被告人归案后如实供述犯罪事实，系坦白，可以从轻处罚。鉴于二被告人制造的烟火药目的是生产烟花爆竹，系为生产所需，并没有造成其他社会危害后果，且数量刚超过3000克的入罪标准，犯罪情节轻微，可以对两名被告人免予刑事处罚。被告人刘文思犯非法制造爆炸物罪，免予刑事处罚。\n\n被告人朱建中犯非法制造爆炸物罪，免予刑事处罚。\n【（2019）粤1302刑初2161号】：法院认为，被告人潘某平非法经营烟花爆竹，扰乱市场秩序，情节严重，其行为构成非法经营罪。烟花爆竹未被纳入刑法意义上的爆炸物范围，将烟花爆竹等同于爆炸物进行定性，有违罪责刑相适应原则。一、被告人潘某平犯非法经营罪，判处有期徒刑九个月，并处罚金五千元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2019年1月10日先前被羁押的一日。即自2019年9月21日起至2020年6月19日止。罚金应在本判决生效之日起一个月内，一次性向本院缴纳，上缴国库）。\n二、涉案扣押的物品[精品特红（388）爆竹31件、满堂红（10个8）爆竹18件、满堂红（16个8）爆竹80件、满堂红（3个8）爆竹50件、精品特红（168）爆竹11件、满堂红（8个8）爆竹4件、精品特红爆竹888万64件、满堂红（13个8）爆竹110件、精品特红（688万足）爆竹25件、好运特红皇爆竹2件、万兴和金将爆竹2件、满红堂（6个8）100件、满红堂阳春爆竹（排炮）24箱、阳春爆竹满地红（排炮80*240）23件、精品特红9888万足25件、第一炮加胆9888888万足16件，以上共计585件烟花爆竹]，由公安机关依法处置。",
+            "导火索是否属于司法解释明确列举的爆炸物种类": "在司法实践中，导火索通常被视为爆炸物的一种，尤其是在涉及非法制造、买卖、运输、储存爆炸物的刑事案件中。我国《刑法》及相关司法解释对爆炸物的定义并没有明确列举所有的种类，而是采取了较为宽泛的定义，通常包括炸药、雷管、导火索、导爆索、非电导爆系统、爆破剂等。\n\n例如，最高人民法院《关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》（法释[2009]18号）中，虽然没有直接列举导火索，但在实际案例中，导火索被认定为爆炸物的一种。该解释第一条第（六）项规定：“非法制造、买卖、运输、邮寄、储存炸药、发射药、黑火药一千克以上或者烟火药三千克以上、雷管三十枚以上或者导火索、导爆索三十米以上的”，应当认定为刑法第一百二十五条第一款规定的“情节严重”。\n\n因此，导火索在司法实践中被视为爆炸物的一种，其非法制造、买卖、运输、储存等行为可能构成刑法第一百二十五条规定的非法制造、买卖、运输、储存爆炸物罪。在具体案件中，是否构成犯罪以及犯罪情节的轻重，需要根据具体案情和相关证据来判断。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人系为合法生产经营目的进行试验性生产，主观恶性小 2.被告人主动投案自首，认罪态度良好 3.涉案物品存放地点远离居民区，未造成实际危害后果 4.参照(2019)苏0804刑初21号案例，类似情形可免予刑事处罚",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人漆某制造、储存的烟火药是否达到刑法第一百二十五条规定的\"爆炸物\"标准。查明情况：公诉人已出示鉴定报告证明涉案物品属于烟火药，且数量超过司法解释规定标准；辩护人对鉴定方法提出质疑，但未否定鉴定结果。审判长认为该焦点已基本查明，涉案物品确属爆炸物范畴。\n\n2.被告人漆某主观上是否具有非法制造、储存爆炸物的犯罪故意。查明情况：被告人辩称其行为是为合法生产做准备；公诉人指出合同明确约定取得许可证前不得生产。审判长认为需进一步审查合同具体条款及被告人对法律规定的认知程度。\n\n3.导火索4500米是否应单独认定为爆炸物及其数量是否达到入罪标准。查明情况：辩护人认为导火索不属于司法解释明确列举的爆炸物；公诉人援引司法解释第九条认为导火索属于爆炸物品。审判长认为需结合司法解释和鉴定报告进一步认定。\n\n4.被告人制作的烟花样品数量是否表明已进入实际生产阶段。查明情况：辩护人强调系试验性产品；公诉人认为样品数量较大已超出试验范围。审判长认为需结合生产工艺和合同约定进一步查明。\n\n5.被告人的行为是否符合司法解释第九条规定的\"因合法生产经营需要\"从轻处罚情形。查明情况：被告人系试验性生产、未造成实际危害；公诉人认可这些情节并提出缓刑建议。审判长认为需重点审查生产目的与实际行为的匹配性。\n\n6.被告人储存爆炸物的行为是否实际危害公共安全。查明情况：双方确认储存地点距居民区2公里且无人活动，但公诉人认为仍具公共危险性。审判长认为该情节可能影响量刑但不影响定罪。\n\n7.被告人的自首情节是否成立及其对量刑的影响。查明情况：双方均认可被告人主动投案并如实供述；公诉人建议从轻处罚。审判长认为自首成立，具体从宽幅度需综合考量。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第一条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第一条": "个人或者单位非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物，具有下列情形之一的，依照刑法第一百二十五条第一款的规定，以非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物罪定罪处罚：（一）非法制造、买卖、运输、邮寄、储存军用枪支1支以上的；（二）非法制造、买卖、运输、邮寄、储存以火药为动力发射枪弹的非军用枪支1支以上或者以压缩气体等为动力的其他非军用枪支2支以上的；（三）非法制造、买卖、运输、邮寄、储存军用子弹10发以上、气枪铅弹500发以上或者其他非军用子弹100发以上的；（四）非法制造、买卖、运输、邮寄、储存手榴弹1枚以上的；（五）非法制造、买卖、运输、邮寄、储存爆炸装置的；（六）非法制造、买卖、运输、邮寄、储存炸药、发射药、黑火药1千克以上或者烟火药3千克以上、雷管30枚以上或者导火索、导爆索30米以上的；（七）具有生产爆炸物品资格的单位不按照规定的品种制造，或者具有销售、使用爆炸物品资格的单位超过限额买卖炸药、发射药、黑火药10千克以上或者烟火药30千克以上、雷管300枚以上或者导火索、导爆索300米以上的；（八）多次非法制造、买卖、运输、邮寄、储存弹药、爆炸物的；（九）虽未达到上述最低数量标准，但具有造成严重后果等其他恶劣情节的。介绍买卖枪支、弹药、爆炸物的，以买卖枪支、弹药、爆炸物罪的共犯论处。",
+            "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释第九条": "实施非法制造、买卖、运输、邮寄、储存、盗窃、抢夺、持有、私藏其他弹药、爆炸物品等行为，参照本解释有关条文规定的定罪量刑标准处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法制造、储存爆炸物罪中试验性生产与正式生产的区分标准",
+              "导火索在非法制造爆炸物案件中的认定标准",
+              "为合法生产经营目的非法制造爆炸物的量刑考量"
+            ],
+            "非法制造、储存爆炸物罪中试验性生产与正式生产的区分标准": "非法制造、储存爆炸物罪，根据《中华人民共和国刑法》第125条的规定，是指非法制造、买卖、运输、储存枪支、弹药、爆炸物的行为。在这一罪名中，试验性生产与正式生产的区分主要基于以下几个方面：\n\n1. **生产目的**：试验性生产通常是为了研究、测试或验证某种爆炸物的性能、安全性或可行性，而正式生产则是为了大规模生产并用于实际应用，如军事、工程爆破等。\n\n2. **生产规模**：试验性生产通常规模较小，可能仅生产少量样品用于实验；而正式生产则涉及大规模、连续的生产过程，产量较大。\n\n3. **生产条件**：试验性生产可能在实验室或研发环境中进行，使用的是实验设备；而正式生产则在专门的工厂或生产线上，使用的是工业级设备。\n\n4. **生产流程**：试验性生产可能涉及更多的手工操作和调整，以适应实验需求；而正式生产则更注重标准化、自动化和效率。\n\n5. **许可与审批**：正式生产通常需要获得相关部门的许可和审批，包括安全生产许可、环境影响评估等；而试验性生产可能只需要科研或教育机构内部的审批。\n\n在法律实践中，区分试验性生产与正式生产对于判断行为是否构成非法制造、储存爆炸物罪具有重要意义。如果行为人是在合法的科研或教育活动中进行试验性生产，且符合相关安全规定，可能不构成犯罪。但如果未经许可，擅自进行大规模生产或储存爆炸物，即使声称是“试验性”的，也可能被认定为非法制造、储存爆炸物罪。\n\n需要注意的是，具体案件的定性还需结合案件事实、证据以及相关法律法规进行综合判断。在处理此类案件时，建议咨询专业律师或法律机构，以获得更准确的法律意见。",
+            "导火索在非法制造爆炸物案件中的认定标准": "### 结论\n导火索在非法制造爆炸物案件中的认定标准主要依据其数量、用途、是否造成社会危害以及被告人的认罪态度和犯罪情节。数量达到一定标准（如30米以上）通常构成非法储存或制造爆炸物罪，但若用于正常生产生活需要，未造成严重社会危害，可不认定为情节严重。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条第一款第（六）项、第二条第（一）项**：非法制造、买卖、运输、邮寄、储存爆炸物，具有下列情形之一的，属于刑法第一百二十五条第一款规定的“情节严重”：（六）造成严重后果的；（一）非法制造、买卖、运输、邮寄、储存爆炸物，数量达到本解释第二条规定的最低标准五倍以上的。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **导火索的数量**：数量是判断是否构成犯罪的重要标准。例如，【（2019）粤0823刑初231号】中，被告人非法存放导火索32.25米，构成非法储存爆炸物罪。\n- **导火索的用途**：用于正常生产生活需要，未造成严重社会危害的，可不认定为情节严重。如【（2019）浙0328刑初102号】中，被告人因筑路需要而非法制造烟火药，没有造成严重社会危害，数量虽达情节严重标准，可不认定情节严重。\n- **被告人的认罪态度**：如实供述自己的罪行，依法可从轻处罚。如【（2019）闽0428刑初94号】中，被告人主动交出非法储存的爆炸物，属自首，依法予以从轻或减轻处罚。\n- **是否造成社会危害**：未造成严重社会危害的，可酌情从轻处罚。如【（2020）浙0327刑初177号】中，非法制造的黑火药虽达到最低构罪标准5倍以上，但用于满足日常生活的修路需要，没有造成实际的危害后果，可不认定为情节严重。\n\n综上，导火索在非法制造爆炸物案件中的认定，需综合考虑其数量、用途、是否造成社会危害以及被告人的认罪态度和犯罪情节。\n\n#####\n类似案件为：\n【（2019）粤0823刑初231号】：法院认为，被告人刘春非法存放导火索32.25米，构成非法储存爆炸物罪。鉴于导火索用于炸鱼，存放时间长，未造成社会危害，且被告人如实供述罪行，依法可从轻处罚。根据犯罪情节及悔罪表现，适用缓刑对社区无重大不良影响，决定宣告缓刑。一、被告人刘春犯非法储存爆炸物罪，判处有期徒刑三年，缓刑三年（缓刑考验期限，从判决确定之日起计算）。\n二、随案移送的导火索3225厘米（其中黄色2255厘米黄红色970厘米），予以没收，由公安机关按有关规定予以销毁。\n【（2019）浙0328刑初102号】：法院认为，被告人胡思袍非法制造、储存爆炸物，数量虽达情节严重标准，但因筑路需要而制造，未造成严重社会危害，可不认定情节严重。乳化炸药储存在居民区，储存时间较长，具有较大危险性，酌情从重处罚。胡思袍有故意犯罪前科，从重处罚。胡思袍自动投案并如实供述，系自首，从轻处罚。其认罪认罚，从宽处理。一、被告人胡思袍犯非法制造、储存爆炸物罪，判处有期徒刑四年六个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的羁押一日折抵刑期一日，即自2019年5月8日起至2023年11月7日止。）\n 二、扣押在案的白色粉末、长条形物品、黑色不明块状物等物品，予以没收，由扣押单位依法处理。\n【（2019）闽0428刑初94号】：法院认为，谢启松违反国家法律规定，非法储存导火索130米，构成非法储存爆炸物罪。鉴于谢启松有自首情节，主观恶性较小，未造成严重社会危害，认罪、悔罪，犯罪情节轻微，依法可以免除处罚。一、被告人谢启松犯非法储存爆炸物罪，免予刑事处罚。\n 二、扣押在案的导火索130米，予以没收，由将乐县公安局依法处理。",
+            "为合法生产经营目的非法制造爆炸物的量刑考量": "### 结论\n为合法生产经营目的非法制造爆炸物的量刑考量，法院通常会考虑行为人的自首、坦白、认罪认罚、悔改表现、是否造成严重社会危害、是否用于正常生产、生活需要等因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条**：非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：因筑路、建房、打井、整修宅基地和土地等正常生产、生活需要，以及因从事合法的生产经营活动而非法制造、买卖、运输、邮寄、储存爆炸物，数量达到本解释第一条规定标准，没有造成严重社会危害，并确有悔改表现的，可依法从轻处罚；情节轻微的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首、坦白、认罪认罚**：行为人案发后自动投案，如实供述自己的罪行，系自首，可以从轻或者减轻处罚。例如，【（2020）闽0521刑初332号】、【（2020）闽0521刑初489号】、【（2019）闽0825刑初83号】中，法院均因被告人自首、坦白、认罪认罚而从轻处罚。\n- **悔改表现**：行为人确有悔改表现，可以依法从轻处罚。例如，【（2020）闽0521刑初489号】、【（2019）闽0825刑初83号】中，法院均因被告人确有悔改表现而从轻处罚。\n- **是否用于正常生产、生活需要**：行为人非法制造爆炸物系用于合法生产经营活动，没有造成严重社会危害，可以依法从轻处罚。例如，【（2020）闽0521刑初332号】、【（2020）闽0521刑初489号】、【（2019）川14刑终223号】中，法院均因被告人非法制造爆炸物系用于正常生产、生活需要而从轻处罚。\n- **是否造成严重社会危害**：行为人非法制造爆炸物没有造成严重社会危害，可以依法从轻处罚。例如，【（2020）闽0521刑初332号】、【（2020）闽0521刑初489号】、【（2019）川14刑终223号】中，法院均因被告人非法制造爆炸物没有造成严重社会危害而从轻处罚。\n\n综上，为合法生产经营目的非法制造爆炸物的量刑考量，法院会综合考虑行为人的自首、坦白、认罪认罚、悔改表现、是否用于正常生产、生活需要、是否造成严重社会危害等因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n#####\n类似案件为：\n【（2020）闽0521刑初332号】：法院认为，被告人陈敬祥、吴尾木、陈兴忠非法制造或运输爆炸物，用于合法生产经营活动，且没有造成严重社会危害，可以从轻处罚。被告人吴尾木有自首情节，陈兴忠积极退赃，陈敬祥、陈兴忠自愿认罪认罚，可依法从宽处罚。一、被告人陈敬祥犯非法制造爆炸物罪，判处有期徒刑三年，缓刑四年。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人吴尾木犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年二个月。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人陈兴忠犯非法运输爆炸物罪，判处有期徒刑三年，缓刑三年。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人陈兴忠退出的违法所得400元，予以没收，上缴国库。\n 五、扣押在案的作案工具“破岩气体发生器”的配件等物品（均未随案移送），予以没收，由惠安县公安局依法处理。\n【（2020）闽0521刑初489号】：法院认为，被告人林荣强违反爆炸物品管理规定，非法制造爆炸物，其行为构成非法制造爆炸物罪。鉴于林荣强有自首情节，非法制造爆炸物系因合法生产经营活动，没有造成严重社会危害，确有悔改表现，且主动退出违法所得，自愿认罪认罚，可以从轻处罚。因此，法院判决林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年；退出的违法所得2万元予以没收，上缴国库；扣押在案的爆炸物予以没收，由公安机关依法处理。一、被告人林荣强犯非法制造爆炸物罪，判处有期徒刑三年，缓刑三年三个月。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人林荣强退出的违法所得人民币20000元，予以没收，上缴国库。\n 三、扣押在案的“R6气体致裂管”4根、塑料管2根（均未随案移送），予以没收，由扣押机关惠安县公安局依法处理。\n【（2019）闽0825刑初83号】：法院认为，被告人朱祥寿非法制造爆炸物，行为构成非法制造爆炸物罪。鉴于其自首，可从轻或减轻处罚。考虑其犯罪情节、悔罪表现及社会危害程度，决定适用缓刑。一、被告人朱祥寿犯非法制造爆炸物罪，判处有期徒刑三年，缓刑四年；\n （缓刑考验期，从判决确定之日起计算。）\n 二、对公安机关扣押的涉案“虫炮”成品2451盘、“虫炮”半成品887盘、杆秤1把、筛子5个、封口剂41袋、硫磺288.9斤予以没收，由公安机关依法处置。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人漆某制造、储存的烟火药是否达到刑法第一百二十五条规定的\"爆炸物\"标准。查明情况：公诉人已出示鉴定报告证明涉案物品属于烟火药，且数量超过司法解释规定标准；辩护人对鉴定方法提出质疑，但未否定鉴定结果。审判长认为该焦点已基本查明，涉案物品确属爆炸物范畴。\n\n2.被告人漆某主观上是否具有非法制造、储存爆炸物的犯罪故意。查明情况：被告人辩称其行为是为合法生产做准备；公诉人指出合同明确约定取得许可证前不得生产。审判长认为需进一步审查合同具体条款及被告人对法律规定的认知程度。\n\n3.导火索4500米是否应单独认定为爆炸物及其数量是否达到入罪标准。查明情况：辩护人认为导火索不属于司法解释明确列举的爆炸物；公诉人援引司法解释第九条认为导火索属于爆炸物品。审判长认为需结合司法解释和鉴定报告进一步认定。\n\n4.被告人制作的烟花样品数量是否表明已进入实际生产阶段。查明情况：辩护人强调系试验性产品；公诉人认为样品数量较大已超出试验范围。审判长认为需结合生产工艺和合同约定进一步查明。\n\n5.被告人的行为是否符合司法解释第九条规定的\"因合法生产经营需要\"从轻处罚情形。查明情况：被告人系试验性生产、未造成实际危害；公诉人认可这些情节并提出缓刑建议。审判长认为需重点审查生产目的与实际行为的匹配性。\n\n6.被告人储存爆炸物的行为是否实际危害公共安全。查明情况：双方确认储存地点距居民区2公里且无人活动，但公诉人认为仍具公共危险性。审判长认为该情节可能影响量刑但不影响定罪。\n\n7.被告人的自首情节是否成立及其对量刑的影响。查明情况：双方均认可被告人主动投案并如实供述；公诉人建议从轻处罚。审判长认为自首成立，具体从宽幅度需综合考量。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百二十五条",
+              "最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第一百二十五条": "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。单位犯前两款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照第一款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法制造储存烟火药类爆炸物案件判决情况",
+              "非法制造储存爆炸物罪中自首情节对量刑的影响",
+              "非法制造储存爆炸物罪中试验性生产对量刑的影响",
+              "非法制造储存爆炸物罪中导火索是否计入爆炸物数量"
+            ],
+            "非法制造储存烟火药类爆炸物案件判决情况": "### 结论\n非法制造、储存烟火药类爆炸物案件的判决情况受到多个因素的影响，包括行为人的主观目的、爆炸物的用途、是否造成严重社会危害、行为人的悔改表现、是否具有坦白或自首情节、以及爆炸物的数量和性质等。法院在判决时会综合考虑这些因素，以确定是否构成“情节严重”以及量刑的轻重。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条第一款**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条、第二条、第九条**：对非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物等犯罪的具体应用法律问题作出解释，包括情节严重的情形、生产、生活需要的例外情况等。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观目的和爆炸物的用途**：如果行为人制造、储存爆炸物是为了生产、生活需要，且没有造成严重社会危害，法院可能不认定为“情节严重”。例如，【（2019）川14刑终223号】中，被告人伍某制造、储存黑火药是为了修建集体公路，法院认为其行为不构成“情节严重”。\n- **是否造成严重社会危害**：即使爆炸物数量达到“情节严重”的标准，如果行为人没有造成严重社会危害，法院可能不认定为“情节严重”。例如，【（2019）川14刑终223号】中，伍某的行为没有造成严重社会危害，法院未认定为“情节严重”。\n- **行为人的悔改表现**：行为人有悔改表现，可以作为从轻处罚的情节。例如，【（2019）川14刑终223号】中，伍某有悔改表现，法院在量刑时予以考虑。\n- **是否具有坦白或自首情节**：行为人有坦白或自首情节，法院在量刑时会予以从轻或减轻处罚。例如，【（2019）川14刑终223号】中，伍某有坦白情节，法院在量刑时予以考虑。\n- **爆炸物的数量和性质**：爆炸物的数量和性质是判断是否构成“情节严重”的重要依据。例如，【（2016）湘0527刑初字第43号】中，被告人钟小波非法制造烟火药的数量达到犯罪最低标准的五倍以上，被认定为“情节严重”。\n\n综上，非法制造、储存烟火药类爆炸物案件的判决受到多个因素的影响，法院在判决时会综合考虑行为人的主观目的、爆炸物的用途、是否造成严重社会危害、行为人的悔改表现、是否具有坦白或自首情节、以及爆炸物的数量和性质等，以确定是否构成“情节严重”以及量刑的轻重。",
+            "非法制造储存爆炸物罪中自首情节对量刑的影响": "### 结论\n非法制造储存爆炸物罪中自首情节对量刑有显著影响，可以作为从轻、减轻处罚的法定情节，但其影响程度取决于自首的具体情况，包括是否主动投案、是否如实供述主要犯罪事实、是否造成严重社会危害、是否确有悔改表现等。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首的主动性**：主动投案并如实供述主要犯罪事实的，可以认定为自首，依法从轻或减轻处罚。例如，【（2019）津0111刑初206号】、【（2019）闽0425刑初198号】、【（2020）闽0803刑初179号】中，被告人主动投案并如实供述，被认定为自首，依法从轻或减轻处罚。\n- **如实供述主要犯罪事实**：如实供述主要犯罪事实是自首成立的必要条件。例如，【（2021）鲁0691刑初35号】中，被告人刘帮学主动投案，如实供述了主要犯罪事实，被认定为自首，依法从轻处罚。\n- **犯罪情节和危害后果**：即使构成自首，如果犯罪情节特别恶劣、犯罪后果特别严重、被告人主观恶性深、人身危险性大，或者在犯罪前即为规避法律、逃避处罚而准备自首的，可以不从宽处罚。例如，【（2019）鲁0923刑初240号】中，被告人孙祥峰非法储存爆炸物情节严重，但因其自首，依法减轻处罚。\n- **悔改表现**：被告人确有悔改表现的，可以作为从轻处罚的情节。例如，【（2019）闽0425刑初198号】中，五被告人为提前生产准备而非法储存爆炸物，但因确有悔改表现，依法从轻或减轻处罚。\n\n综上，自首情节在非法制造储存爆炸物罪中对量刑的影响是显著的，但其具体影响程度需综合考虑自首的主动性、如实供述主要犯罪事实、犯罪情节和危害后果、悔改表现等因素。\n\n#####\n类似案件为：\n【（2019）津0111刑初206号】：法院认为，被告人滕春进违反国家爆炸物管理规定，非法储存爆炸物，构成非法储存爆炸物罪。滕春进犯罪后自动投案，如实供述罪行，是自首，依法从轻处罚。其犯罪前科作为量刑情节考虑。滕春进具有社会危险性，不宜适用缓刑。被告人滕春进犯非法储存爆炸物罪，判处有期徒刑三年。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年9月5日起至2022年9月3日止。）\n【（2019）闽0425刑初198号】：法院认为，田尔溪、黄生活、郑昌安、方初松、高加陆非法储存炸药，虽达到情节严重的标准，但因建爱锰矿系合法从事生产经营活动，可不认定为情节严重。田尔溪、黄生活系主犯，具有自首情节；郑昌安、方初松、高加陆系从犯，高加陆未如实供述不具自首情节，但当庭认罪。根据各被告人的犯罪情节和悔罪表现，决定对田尔溪、黄生活从轻处罚，对郑昌安、方初松、高加陆减轻处罚，并对郑昌安、方初松、高加陆适用缓刑。一、被告人田尔溪犯非法储存爆炸物罪，判处有期徒刑三年六个月。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月16日起至2022年10月15日止。)\n 二、被告人黄生活犯非法储存爆炸物罪，判处有期徒刑三年。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月16日起至2022年4月15日止。)\n 三、被告人郑昌安犯非法储存爆炸物罪，判处有期徒刑二年六个月，缓刑三年。\n （缓刑考验期自判决确定之日起计算。）\n 四、被告人方初松犯非法储存爆炸物罪，判处有期徒刑二年六个月，缓刑三年。\n （缓刑考验期自判决确定之日起计算。）\n 五、被告人高加陆犯非法储存爆炸物罪，判处有期徒刑二年六个月，缓刑三年。\n （缓刑考验期自判决确定之日起计算。）\n 六、暂扣的乳化炸药200.15千克由大田县公安局依法予以没收，扣押的闽Ｇ×××××轻型普通货车一辆由大田县公安局依法处理。\n【（2020）闽0803刑初179号】：法院认为，被告人吴忠违反国家爆炸物管理法律法规，非法买卖爆炸物，其行为已构成非法买卖爆炸物罪。吴忠为了从事合法的生产经营活动而非法买卖爆炸物，没有造成严重社会危害，并确有悔改表现，可不认定为情节严重。吴忠系自首，依法可以减轻处罚。一、被告人吴忠犯非法买卖爆炸物罪，判处有期徒刑一年九个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月20日起至2021年8月19日止。）\n 二、龙岩市公安局永定分局扣押的硝磷酸铵复合肥料十袋，予以没收，由扣押机关负责依法处理。",
+            "非法制造储存爆炸物罪中试验性生产对量刑的影响": "### 结论\n非法制造储存爆炸物罪中，试验性生产或因正常生产、生活需要而实施犯罪，且没有造成严重社会危害，确有悔改表现的，法院可能不认定为刑法规定的情节严重情形，从而从轻处罚或适用缓刑。但若数量巨大或有其他严重情节，即使用于合法生产，也可能不适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百二十五条**：规定非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。\n- **《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条**：因筑路、建房、打井、整修宅基地和土地等正常生产、生活需要，以及因从事合法的生产经营活动而非法制造、买卖、运输、邮寄、储存爆炸物，数量达到本解释第一条规定标准，没有造成严重社会危害，并确有悔改表现的，可依法从轻处罚；情节轻微的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否用于合法生产**：如果非法制造、储存爆炸物是为了合法的生产、生活需要，且没有造成严重社会危害，法院可能从轻处罚或适用缓刑。例如，【（2019）川14刑终223号】中，被告人伍某因修建集体公路而非法制造并储存黑火药，法院认为其行为虽达到情节严重标准，但因用于合法生产，未认定为情节严重，判处有期徒刑三年。\n- **是否造成严重社会危害**：即使用于合法生产，如果非法制造、储存爆炸物的数量巨大或有其他严重情节，法院可能不适用缓刑。例如，【（2019）鄂05刑终138号】中，被告人来某军非法制造枪支和非法储存黑火药，虽然有悔意，但因存储爆炸物数量大，原判量刑过重，二审改判有期徒刑四年，未适用缓刑。\n- **是否具有悔改表现**：被告人有悔改表现，可以作为从轻处罚的考量因素。例如，【（2020）闽09刑终94号】中，上诉人阮细光非法储存黑火药，但鉴于其归案后如实供述，且用于合法生产，没有造成严重后果，法院改判并适用缓刑。\n\n综上，非法制造储存爆炸物罪的量刑受到是否用于合法生产、是否造成严重社会危害以及被告人是否具有悔改表现等因素的影响。法院在判决时会综合考虑这些因素，决定是否从轻处罚或适用缓刑。\n\n#####\n类似案件为：\n【（2020）闽09刑终94号】：法院认为，阮细光非法储存黑火药6.645千克，其行为已构成非法储存爆炸物罪。鉴于阮细光归案后如实供述自己罪行且系为了从事合法的生产经营活动而非法储存爆炸物，没有造成严重后果，符合社区矫正条件，可以宣告缓刑。一、维持福建省福安市人民法院（2020）闽0981刑初3号刑事判决的第二项，即扣押在案的黑火药6.645千克，予以没收。\n 二、撤销福建省福安市人民法院（2020）闽0981刑初3号刑事判决的第一项，即被告人阮细光犯非法储存爆炸物罪，判处有期徒刑三年。\n 三、上诉人阮细光犯非法储存爆炸物罪，判处有期徒刑三年，缓刑三年。\n （缓刑考验期限从判决确定之日起计算。）"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 0.0,
+    "reprieve": 48.0
+  }
+]

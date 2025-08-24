@@ -1,0 +1,1191 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人程某，性别男，汉族，文化程度XXX，户籍XXX，因涉嫌犯销售有毒、有害食品罪，于2018年9月18日被提起公诉。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "石家庄高新技术产业开发区人民检察院  \n起 诉 书  \n\n石高检公刑诉〔2018〕134号  \n\n被告人程某，男，汉族，文化程度XXX，户籍XXX。因涉嫌犯销售有毒、有害食品罪，于2018年9月18日被提起公诉。  \n\n本案由石家庄市公安局高新技术产业开发区分局侦查终结，以被告人程某涉嫌销售有毒、有害食品罪，于2018年9月18日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2017年2月至2018年1月，被告人程某在石家庄高新技术产业开发区湘江道经营一无证保健品店，销售“老中医”补肾丸、“金某”等壮阳药。被害人张某于2017年9月13日在该店购买壮阳保健品，服用后出现头晕、血压异常等症状。经河北智德检验检测股份有限公司检验，程某所销售的“老中医”补肾丸、“金某”均含有西地那非、伐地那非、他达拉非成分，上述成分为国家在食品生产经营活动中禁止添加、使用的物质。  \n\n认定上述事实的证据如下：  \n1.书证：石家庄市公安局高新技术产业开发区分局受案登记表、立案决定书、抓获经过、强制措施文书；  \n2.被害人陈述：被害人张某陈述及取证过程录音录像；  \n3.被告人供述：被告人程某供述及讯问笔录、同步录音录像；  \n4.书证：户籍和现实表现证明；  \n5.勘验、检查笔录：石家庄市公安局高新技术产业开发区分局检查笔录及见证人签字；  \n6.书证：扣押物品、文件清单、现场照片；  \n7.鉴定意见：河北智德检验检测股份有限公司检验报告及CMA资质证书；  \n8.书证：委托检验合同及送检样品封存记录。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人程某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人程某销售明知掺有有毒、有害的非食品原料的食品，其行为已构成销售有毒、有害食品罪，犯罪事实清楚，证据确实、充分，应当以销售有毒、有害食品罪追究其刑事责任。被告人程某系初犯且到案后如实供述自己的罪行，依法可以从轻处罚。建议判处被告人程某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n石家庄高新技术产业开发区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n\n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪，但我确实不知道这些保健品含有违禁成分。我愿意赔偿被害人损失，希望能从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你经营的保健品店是否办理了相关经营许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有办理经营许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你进货时是否查验过这些保健品的生产许可证和检验合格证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有查验过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是从何处购进的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是从一个上门推销的批发商那里进的货。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品价格与市场同类正规产品相比如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "价格比正规药店便宜很多。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有正规包装和产品说明书？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "包装比较简陋，没有完整的产品说明书。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否知道西地那非、伐地那非、他达拉非这些成分是国家禁止在食品中添加的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道这些成分是被禁止的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有明确的生产厂家和联系方式？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确的生产厂家和联系方式。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售这些保健品期间是否收到过顾客关于产品不良反应的投诉？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收到过顾客投诉。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售这些保健品的利润是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有具体计算过利润。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有正规的进货发票和销售记录？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有正规的进货发票和销售记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有明确的产品批号和保质期？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确的产品批号和保质期。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有任何形式的广告宣传？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有做过广告宣传。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有任何形式的检验合格证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有检验合格证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有任何形式的防伪标识？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有防伪标识。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你销售的这些保健品是否有任何形式的销售凭证或收据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有销售凭证或收据。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，相关问题已经充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进货时是否询问过批发商这些保健品的成分和来源？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有询问过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进货时批发商是否向你保证过这些保健品是安全合法的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "批发商说这些保健品效果很好，但没有明确说过是否安全合法。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些保健品的主要顾客群体是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要是中老年男性顾客。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些保健品时是否向顾客说明过产品可能存在的风险或副作用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向顾客说明过风险和副作用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些保健品时是否向顾客承诺过治疗效果？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向顾客承诺过治疗效果。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进货时批发商是否向你提供过任何形式的产品质量保证书或检验报告？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过任何质量保证书或检验报告。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些保健品时是否了解过正规保健品的销售流程和资质要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不了解正规保健品的销售流程和资质要求。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有过正规的药品或保健品销售培训经历？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有正规的药品或保健品销售培训经历。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售这些保健品的进货渠道是否固定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "进货渠道不固定。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，相关问题已经充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你销售的这些保健品是否有明确的产品名称和功能说明？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "包装上有产品名称和简单的功能说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你销售的这些保健品是否有明确的生产日期？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "包装上没有明确的生产日期。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2017年2月至2018年1月，我在石家庄高新技术产业开发区湘江道经营一家无证保健品店，销售“老中医”补肾丸、“金某”等壮阳药。2017年9月13日，被害人张某在我的店铺购买了壮阳保健品，服用后出现头晕、血压异常等症状。后经河北智德检验检测股份有限公司检验，我所销售的“老中医”补肾丸、“金某”含有西地那非、伐地那非、他达拉非成分。这些成分是国家在食品生产经营活动中禁止添加、使用的物质。  \n\n（2）犯案动机  \n我经营无证保健品店是为了谋生，销售壮阳药是为了满足市场需求。当时并未意识到这些产品中含有国家禁止添加的有毒、有害成分。  \n\n（3）案发之后的处理  \n我在案发后被公安机关抓获，没有主动自首。目前也还没有对被害人进行赔偿，未达成和解，未取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：石家庄市公安局高新技术产业开发区分局受案登记表，证明案件受理情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：立案决定书，证明公安机关对本案立案侦查",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：抓获经过及《刑事诉讼法》第82条依据，证明被告人程某被抓获的过程及合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：强制措施文书及《刑事诉讼法》第80条依据，证明对被告人程某采取强制措施的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：被害人张某陈述及取证过程录音录像，证明被害人购买服用涉案产品后出现症状及取证程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.被告人供述：被告人程某供述及讯问笔录、同步录音录像，证明其销售涉案产品事实及取证程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：户籍和现实表现证明，证明被告人程某的个人基本情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.勘验、检查笔录：石家庄市公安局高新技术产业开发区分局检查笔录及见证人签字，记录对涉案保健品店的检查情况及程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：扣押物品、文件清单及《刑事诉讼法》第141条依据，记录从被告人处扣押的物品情况及程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：现场照片，拍摄涉案保健品店的现场情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.鉴定意见：河北智德检验检测股份有限公司检验报告及CMA资质证书，证明涉案产品含有违禁成分及检验程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：委托检验合同及送检样品封存记录，证明送检样品的委托检验情况及程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第一百四十四条之规定，被告人程某销售明知掺有有毒、有害的非食品原料的食品，其行为已构成销售有毒、有害食品罪。本案证据确实充分，被告人亦当庭认罪。\n\n关于主观明知问题，被告人虽辩称不知产品含有违禁成分，但根据其供述：1.未办理经营许可证；2.未查验任何产品合格证明；3.进货渠道不正规；4.产品价格明显低于市场价；5.包装简陋无完整标识。这些事实足以推定其应当知道所售产品存在质量问题。\n\n关于量刑情节，被告人系初犯，到案后如实供述，根据《刑法》第六十七条第三款可以从轻处罚。但需注意：1.被告人未主动自首；2.尚未对被害人进行赔偿；3.未取得被害人谅解。这些情节请法庭在量刑时予以综合考虑。\n\n综上，建议法庭以销售有毒、有害食品罪定罪，并根据被告人的犯罪情节和悔罪表现，依法判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于主观明知问题。被告人虽未办理经营许可，但根据其供述，确实不知产品含有违禁成分。根据《刑法》第十四条关于犯罪故意的规定，应当严格区分\"应当知道\"与\"明知\"。被告人文化程度有限，缺乏相关行业知识，进货时批发商也未告知产品成分，其主观恶性较小。\n\n第二，关于量刑情节。被告人系初犯，无前科劣迹，到案后如实供述全部犯罪事实，认罪态度良好，根据《刑法》第六十七条第三款，可以从轻处罚。\n\n第三，关于社会危害性。本案仅造成一名被害人轻微不适，未造成严重后果。被告人当庭表示愿意赔偿损失，具有悔罪表现。\n\n第四，关于犯罪情节。被告人经营规模小，持续时间短，获利有限，社会危害性相对较轻。\n\n综上，恳请法庭考虑被告人主观恶性较小、认罪态度良好、愿意赔偿等情节，依法从轻处罚。建议适用缓刑，给被告人改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观明知问题，辩护人提出被告人文化程度有限、缺乏行业知识。但根据《最高人民法院、最高人民检察院关于办理危害食品安全刑事案件适用法律若干问题的解释》第十条，具有下列情形之一的，应当认定为刑法第一百四十四条规定的\"明知\"：（一）无合法有效的进货凭证且不能提供真实的生产者或者供货者的；（二）进货价格明显低于市场价格的。本案中被告人既无合法进货凭证，又承认产品价格明显低于市场价，完全符合司法解释规定的\"明知\"情形。\n\n关于社会危害性，辩护人认为仅造成一名被害人轻微不适。但需要指出，销售含有西地那非等违禁成分的食品，其危害性不仅体现在已发生的个案后果，更在于对不特定多数消费者健康权的潜在威胁。根据《刑法》第一百四十四条，本罪是行为犯，不以实际危害后果为构成要件。\n\n关于赔偿问题，被告人虽表示愿意赔偿，但至今未实际履行，也未与被害人达成和解，不能作为从轻处罚的实质依据。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观明知问题，辩护人补充说明：虽然司法解释规定了推定明知的情形，但根据《刑法》第十六条，行为在客观上虽然造成了损害结果，但是不是出于故意或者过失，而是由于不能预见的原因所引起的，不是犯罪。被告人在进货时确实缺乏专业判断能力，且批发商刻意隐瞒产品成分，其主观上确实难以预见产品含有违禁成分。\n\n关于社会危害性，辩护人注意到被告人销售时间较短，销售范围有限，且未造成严重危害后果。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于犯罪情节较轻的，可以依法从宽处罚。\n\n关于赔偿问题，被告人当庭明确表示愿意赔偿，这体现了其真诚悔罪的态度。根据《刑事诉讼法》第二百八十八条，当事人和解的公诉案件可以从宽处理。建议法庭给予被告人履行赔偿义务的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观明知问题，辩护人援引《刑法》第十六条关于意外事件的规定。但本案中，被告人长期从事食品销售，应当具备基本的食品安全意识。根据《食品安全法》第五十三条，食品经营者采购食品应当查验供货者的许可证和食品合格证明文件。被告人完全未履行这一法定义务，其主观过失明显，不属于不能预见的情形。\n\n关于社会危害性，辩护人强调销售时间短、范围小。但根据《最高人民法院、最高人民检察院关于办理危害食品安全刑事案件适用法律若干问题的解释》第三条，生产、销售金额十万元以上即构成\"其他严重情节\"。本案涉案金额虽未达此标准，但被告人的经营行为已持续近一年，具有持续危害性。\n\n关于赔偿意愿，被告人虽口头表示愿意赔偿，但至今未与被害人达成任何书面协议或实际支付赔偿款。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于仅表示赔偿意愿但未实际履行的，不能认定为积极赔偿损失。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观明知问题，辩护人提请法庭注意，被告人作为个体经营者，确实存在法律意识淡薄的情况。根据《刑法》第十四条，犯罪故意必须是\"明知\"且\"希望或放任\"危害结果发生。被告人在进货时虽未尽到查验义务，但并无证据证明其明知产品含有违禁成分，更无证据证明其希望或放任危害结果发生。\n\n关于社会危害性，辩护人补充指出，根据检验报告，涉案产品中违禁成分含量较低，且仅造成一名被害人轻微不适。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第16条，对于犯罪情节较轻的初犯，应当依法从宽处理。\n\n关于赔偿问题，被告人当庭明确表示愿意赔偿，这体现了其悔罪态度。根据《刑事诉讼法》第二百九十条，对于真诚悔罪并愿意赔偿的被告人，可以依法从宽处理。建议法庭给予被告人履行赔偿义务的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪悔罪，深刻认识到自己的错误。由于法律意识淡薄，在经营过程中没有尽到查验义务，给消费者造成了伤害。我愿意赔偿被害人损失，今后一定遵纪守法。恳请法庭从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "石家庄高新技术产业开发区人民法院\n刑事判决书\n（2018）石高刑初字第134号\n\n公诉机关石家庄高新技术产业开发区人民检察院。\n被告人程某，男，汉族，XX年XX月XX日出生，文化程度XXX，户籍XXX，因涉嫌犯销售有毒、有害食品罪于2018年9月18日被提起公诉。\n辩护人XXX（写明姓名、性别、工作单位和职务）。\n\n石家庄高新技术产业开发区人民检察院于2018年9月18日以被告人程某犯销售有毒、有害食品罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。石家庄高新技术产业开发区人民检察院检察员XXX出庭支持公诉，被告人程某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n公诉机关指控：2017年2月至2018年1月，被告人程某在石家庄高新技术产业开发区湘江道经营一无证保健品店，销售\"老中医\"补肾丸、\"金某\"等壮阳药。被害人张某于2017年9月13日在该店购买壮阳保健品，服用后出现头晕、血压异常等症状。经检验，涉案产品含有西地那非、伐地那非、他达拉非等国家禁止添加的有毒、有害成分。被告人程某对指控的犯罪事实和证据没有异议，并自愿认罪。辩护人提出被告人主观上不知产品含违禁成分，系初犯、认罪态度良好，建议适用缓刑。\n\n经审理查明：2017年2月至2018年1月间，被告人程某在未取得经营许可的情况下，销售含有西地那非等违禁成分的保健品。经查，被告人未查验产品合格证明，进货渠道不正规，产品价格明显低于市场价，包装简陋无完整标识。上述事实有被告人供述、被害人陈述、检验报告、扣押清单等证据证实，证据确实充分。\n\n本院认为，被告人程某销售明知掺有有毒、有害的非食品原料的食品，其行为已构成销售有毒、有害食品罪。被告人虽辩称不知产品含违禁成分，但作为经营者未尽查验义务，依法应认定其主观明知。鉴于被告人系初犯，认罪态度较好，依法可从轻处罚。辩护人关于适用缓刑的意见予以采纳。\n\n依照《中华人民共和国刑法》第一百四十四条、第六十七条第三款、第七十二条之规定，判决如下：\n\n被告人程某犯销售有毒、有害食品罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币五千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向石家庄市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2018年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了13项证据，包括：\n   - 被告人在侦查阶段的供述，证明其销售含有违禁成分保健品的事实\n   - 公安机关的受案登记表、立案决定书等程序性文书\n   - 被害人陈述及取证过程录音录像\n   - 被告人供述及讯问笔录\n   - 现场勘验检查笔录\n   - 扣押物品清单\n   - 检验报告证明涉案产品含有西地那非等违禁成分\n   - 委托检验相关文书\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示无需出示新的证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了13项证据，包括：\n   - 被告人在侦查阶段的供述，证明其销售含有违禁成分保健品的事实\n   - 公安机关的受案登记表、立案决定书等程序性文书\n   - 被害人陈述及取证过程录音录像\n   - 被告人供述及讯问笔录\n   - 现场勘验检查笔录\n   - 扣押物品清单\n   - 检验报告证明涉案产品含有西地那非等违禁成分\n   - 委托检验相关文书\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示无需出示新的证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了13项证据，包括：\n   - 被告人在侦查阶段的供述，证明其销售含有违禁成分保健品的事实\n   - 公安机关的受案登记表、立案决定书等程序性文书\n   - 被害人陈述及取证过程录音录像\n   - 被告人供述及讯问笔录\n   - 现场勘验检查笔录\n   - 扣押物品清单\n   - 检验报告证明涉案产品含有西地那非等违禁成分\n   - 委托检验相关文书\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示无需出示新的证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了13项证据，包括：\n   - 被告人在侦查阶段的供述，证明其销售含有违禁成分保健品的事实\n   - 公安机关的受案登记表、立案决定书等程序性文书\n   - 被害人陈述及取证过程录音录像\n   - 被告人供述及讯问笔录\n   - 现场勘验检查笔录\n   - 扣押物品清单\n   - 检验报告证明涉案产品含有西地那非等违禁成分\n   - 委托检验相关文书\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示无需出示新的证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控：\n- 认为被告人构成销售有毒、有害食品罪，证据确实充分\n- 指出被告人未办理经营许可、未查验产品合格证明、进货渠道不正规、价格明显低于市场价等事实，推定其主观明知\n- 指出被告人系初犯、如实供述可从轻，但未自首、未赔偿、未取得谅解等情节需综合考虑\n\n2. 辩护人辩护：\n- 主张被告人主观上确实不知产品含违禁成分，文化程度有限且批发商未告知\n- 强调被告人系初犯、认罪态度良好、愿意赔偿\n- 指出案件仅造成一名被害人轻微不适，社会危害性较小\n- 建议适用缓刑\n\n3. 双方争议焦点：\n- 关于主观明知：公诉人依据司法解释推定明知，辩护人主张属于不能预见\n- 关于社会危害性：公诉人强调潜在威胁，辩护人指出实际后果轻微\n- 关于赔偿问题：公诉人指出未实际履行，辩护人强调当庭表示愿意赔偿\n\n4. 补充辩论：\n- 公诉人援引《食品安全法》指出被告人未尽查验义务，不属于不能预见\n- 辩护人强调被告人法律意识淡薄，无证据证明其希望或放任危害结果发生\n- 双方就涉案金额、经营持续时间、违禁成分含量等进一步辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人经营情况，被告人承认：\n   - 未办理经营许可证\n   - 未查验产品生产许可证和检验合格证明\n   - 从上门推销的批发商处进货\n   - 产品价格明显低于正规市场价\n   - 产品包装简陋，无完整说明书\n   - 无明确生产厂家和联系方式\n   - 无正规进货发票和销售记录\n   - 无产品批号、保质期和检验合格证明\n\n2. 辩护人询问显示：\n   - 被告人未询问批发商产品成分和来源\n   - 批发商未提供质量保证文件\n   - 被告人无相关销售资质和培训经历\n   - 进货渠道不固定\n\n3. 被告人补充说明：\n   - 产品包装有名称和简单功能说明\n   - 但无明确生产日期\n\n4. 被告人认罪但辩称：\n   - 不知产品含有违禁成分\n   - 愿意赔偿被害人损失\n   - 请求从轻处罚\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了13项证据，包括：\n   - 被告人在侦查阶段的供述，证明其销售含有违禁成分保健品的事实\n   - 公安机关的受案登记表、立案决定书等程序性文书\n   - 被害人陈述及取证过程录音录像\n   - 被告人供述及讯问笔录\n   - 现场勘验检查笔录\n   - 扣押物品清单\n   - 检验报告证明涉案产品含有西地那非等违禁成分\n   - 委托检验相关文书\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示无需出示新的证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控：\n- 认为被告人构成销售有毒、有害食品罪，证据确实充分\n- 指出被告人未办理经营许可、未查验产品合格证明、进货渠道不正规、价格明显低于市场价等事实，推定其主观明知\n- 指出被告人系初犯、如实供述可从轻，但未自首、未赔偿、未取得谅解等情节需综合考虑\n\n2. 辩护人辩护：\n- 主张被告人主观上确实不知产品含违禁成分，文化程度有限且批发商未告知\n- 强调被告人系初犯、认罪态度良好、愿意赔偿\n- 指出案件仅造成一名被害人轻微不适，社会危害性较小\n- 建议适用缓刑\n\n3. 双方争议焦点：\n- 关于主观明知：公诉人依据司法解释推定明知，辩护人主张属于不能预见\n- 关于社会危害性：公诉人强调潜在威胁，辩护人指出实际后果轻微\n- 关于赔偿问题：公诉人指出未实际履行，辩护人强调当庭表示愿意赔偿\n\n4. 补充辩论：\n- 公诉人援引《食品安全法》指出被告人未尽查验义务，不属于不能预见\n- 辩护人强调被告人法律意识淡薄，无证据证明其希望或放任危害结果发生\n- 双方就涉案金额、经营持续时间、违禁成分含量等进一步辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 12.0,
+    "fine": 5000.0,
+    "reprieve": 18.0
+  }
+]

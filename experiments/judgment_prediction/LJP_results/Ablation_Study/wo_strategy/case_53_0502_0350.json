@@ -1,0 +1,1797 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人张某甲，男，汉族，文化程度XXX，户籍XXX。因涉嫌犯诈骗罪于2016年12月20日被抓获，次日被刑事拘留。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "江西省宜春市人民检察院  \n起 诉 书  \n\n赣宜检刑诉〔2017〕45号  \n\n被告人张某甲，男，汉族，文化程度XXX，户籍XXX。因涉嫌犯诈骗罪于2016年12月20日被抓获，次日被刑事拘留。  \n\n本案由江西省宜春市公安局侦查终结，以被告人张某甲涉嫌诈骗罪，于2017年11月22日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2014年，熊某向被害人付某甲借款数千万元，与祁某合伙投资开发湖北省红某县金沙世纪城项目，约定借期两个月。2015年底，因该项目未完工，项目资金未清算，熊某未归还借款。期间被告人张某甲认识被害人付某甲后，谎称自己有纪委关系可帮助追债。2016年1月，付某甲委托张某甲追账。张某甲在无能力追债的情况下，通过宋某（另案处理）找到李某、江某等人，虚构宋某为检察院工作人员、中纪委已派员调查等事实骗取付某甲信任。2016年5月，在江某等人明确告知无法追账后，张某甲仍隐瞒真相，谎称祁某同意还债、项目资金已结算等，与宋某合谋发送虚假短信欺骗付某甲。2016年1月至5月，张某甲骗取付某甲102万余元。  \n\n2016年5月后，张某甲继续以疏通关系为由骗取付某甲585万余元。同年8月，张某甲虚构能通过中纪委关系为付某甲堂哥调动工作，骗取360万元。综上，张某甲共诈骗付某甲1047万余元，所得款项用于赌博、挥霍。  \n\n认定上述事实的证据如下：  \n1. 书证：付某甲转账明细、银行回单、短信照片、股权转让协议、委托书、伪造支票照片等；  \n2. 物证：扣押的银行卡、POS机消费回执等；  \n3. 证人证言：江某、李某、祁某、熊某等29名证人的证言；  \n4. 被害人陈述：付某甲关于被骗过程的陈述；  \n5. 同案人供述：宋某关于参与诈骗的供述；  \n6. 视听资料、电子数据：讯问张某甲的录音录像；  \n7. 其他书证：人口信息、退赃收条等。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人张某甲以非法占有为目的，虚构事实、隐瞒真相，骗取他人财物1047万余元，数额特别巨大，其行为触犯《中华人民共和国刑法》第二百六十六条，犯罪事实清楚，证据确实、充分，应当以诈骗罪追究其刑事责任。根据《中华人民共和国刑事诉讼法》第一百七十二条的规定，提起公诉，建议判处被告人张某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元，依法追缴犯罪所得发还被害人。  \n\n此致  \n江西省宜春市中级人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2017年11月22日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪。我确实虚构了纪委关系，骗取了付某甲的钱财。我对自己的行为感到非常后悔，愿意接受法律的惩罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人张某甲，你具体是通过什么方式向被害人付某甲证明你具有纪委关系的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我谎称宋某是吉安市检察院工作人员\"肖某甲\"，并伪造了中纪委已派员到红安县调查的假象。还发送虚假短信，谎称祁某同意还债、项目资金已结算等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与宋某是如何分工实施诈骗行为的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "宋某负责冒充检察院工作人员，我负责联系付某甲并编造虚假信息。我们共同伪造了中纪委调查的假象，合谋发送虚假短信欺骗付某甲。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你骗取的钱款具体是如何分配的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大部分钱款都被我用于赌博和偿还个人债务，宋某分得了一小部分。具体来说，宋某退赃了12万元，江某退赃3万元，李某退赃2.5万元，这些钱已经发还付某甲。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你具体是如何伪造中纪委已派员到红安县调查的假象的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我让宋某冒充中纪委工作人员，安排付某甲到红安县等待见面，但实际上并没有安排任何中纪委人员到场。我还编造了中纪委正在调查祁某的虚假信息。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你骗取付某甲堂哥360万元用于工作调动一事，具体是如何实施的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我明知自己没有能力办理工作调动，但还是向付某甲承诺可以通过中纪委关系办成此事。我收取了360万元，实际上这些钱都被我用于个人挥霍，根本没有去办理任何工作调动的事宜。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与宋某之前是否认识？是通过什么途径认识的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我和宋某之前就认识，是通过朋友介绍认识的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你骗取付某甲的1047万余元中，有多少金额是用于赌博的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大部分钱款都用于赌博了，具体金额我记不太清楚，但至少有800万元以上。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你具体是通过哪些方式伪造中纪委调查的假象的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我让宋某冒充中纪委工作人员，安排付某甲到红安县等待见面，但实际上并没有安排任何中纪委人员到场。我还编造了中纪委正在调查祁某的虚假信息，并伪造了一些短信和文件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人付某甲是如何认识的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我和付某甲是通过熊某介绍认识的。当时熊某向付某甲借款投资红安县金沙世纪城项目，我在帮熊某处理债务问题时认识了付某甲。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就主要犯罪事实进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与被害人付某甲认识后，最初是否确实有意帮助他追讨债务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最初确实是想帮助他追讨债务，但后来因为赌博和债务压力，就起了诈骗的念头。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你最初帮助被害人追讨债务时，是否确实联系过相关人员进行调查？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，最初我确实联系过宋某、李某等人尝试追讨债务，但后来发现他们也没有实际能力。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你最初联系宋某等人追讨债务时，是否向他们支付过任何费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我向他们支付过一些活动经费，具体金额记不太清楚了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你最初向被害人收取的102万元中，有多少金额是确实用于追讨债务的相关活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大概有30万元左右用于支付宋某等人的活动经费和差旅费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你最初向被害人收取的102万元中，具体是通过什么方式向被害人说明这些款项用途的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我向被害人说明这些款项是用于支付纪委关系人员的活动经费、差旅费用和疏通关系的费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你具体是通过哪些银行账户接收被害人付某甲的转账款项的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我主要使用了工商银行和建设银行的个人账户接收付某甲的转账款项。具体账号是工商银行6222********1234和建设银行6217********5678。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你具体是在什么时间、什么地点被公安机关抓获的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年12月20日，我在江西省宜春市某宾馆被公安机关抓获。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你具体是在什么时间开始产生诈骗被害人的想法的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年1月，在发现宋某等人无法实际追回债务后，我产生了诈骗的想法。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你具体是在什么时间开始将诈骗所得用于赌博的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年1月底，在收到第一笔款项后，我就开始将部分钱款用于赌博。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你具体是在什么时间开始虚构中纪委调查的假象的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年1月底，在付某甲第一次前往红安县追债时，我开始虚构中纪委调查的假象。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2014年年初，熊某向付某甲借款数千万元投资湖北省红安县金沙世纪城项目。2015年底，因项目未完工且熊某与祁某产生分歧，借款未归还。2015年底至2016年初，熊某多次邀付某甲到红安县追债未果。期间，我（张某甲）认识付某甲，并提及可通过纪委关系追债。  \n\n2016年1月，付某甲同意让我追债。我找到宋某帮忙，宋某联系李某、江某等人。1月21日，我约付某甲与宋某在峡江县见面，介绍宋某为“肖某甲”（吉安市检察院工作人员）。1月底，我谎称中纪委已派员到红安县调查，付某甲前往红安但未见到人。  \n\n2016年5月，江某等人明确告知追债无果，但我仍隐瞒真相，谎称祁某同意还债、项目资金已结算等。1月至5月，我骗取付某甲102万余元。5月后，宋某退出，我继续以疏通关系为由骗取付某甲585万余元。  \n\n2016年8月，付某甲请我帮忙找中纪委关系为其堂哥调动工作，我明知无能力仍答应，收取360万元未办成。总计骗取1047万余元，用于赌博、还债及挥霍。  \n\n（2）犯案动机  \n我因赌博和债务压力，虚构关系骗取付某甲钱财。起初认为可通过关系追债，后因无实际能力，继续隐瞒真相骗取资金。  \n\n（3）案发之后的处理  \n我于2016年12月20日被抓获，未自首。宋某退赃12万元，江某退赃3万元，李某退赃2.5万元，已发还付某甲。我未主动赔偿，未与付某甲达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：付某甲转账给张某甲的八笔汇款明细、银行电子回单八页，证实付某甲于2016年5月25日、6月8日、7月2日、7月26日、7月27日、8月1日、8月5日、8月18日分别转账30万、5万、100万、50万、50万、200万、360万、150万（共计945万）至张某甲指定账户",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：付某甲持有的宋某发给付某甲的短信照片、股权转让协议和委托书照片、中国银行转账支票照片，证实（1）2016年4月4日宋某给付某甲发短信，内容是建议付某甲晚几天拿钱；（2）张某甲要求付某甲发给其的股权转让协议，内容是熊某转让湖北红某金沙世纪城项目的全部股权；（3）2016年8月18日，付某甲发给张某甲的授权委托书，委托张某甲全权处理红某项目结算事宜，并将结算款转入刘某是个人账号；（4）张某甲发给付某甲的中国银行转账支票照片（金额1000万）（伪造）。上述证据由付某甲提供，经公安机关依法提取并核实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.物证：从张某甲钱包内扣押的银行卡照片，证实从张某甲钱包内扣押了毛某农商银行卡一张工商银行卡一张；张某甲工行卡一张、农业银行卡一张；张某乙工行卡一张等，可以证实张某甲实际控制这些银行卡。扣押程序符合《刑事诉讼法》相关规定，由侦查人员依法进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：扣押清单，包括宋某持有的熊某写给付某甲的委托书、张某甲冒充付某甲签名与江某的授权协议，证实熊某因为事务繁忙，委托付某甲处理金沙世纪城项目清算；张某甲冒充付某甲签名与江某的授权协议。上述文件由公安机关依法扣押，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：扣押清单，包括金某持有的张某甲转账给金某邮政银行卡上的转账短信照片，证实金某2016年9月18日收到转账一万元、9月22日收到两笔9300、9900元的转账。照片由金某提供，经公安机关依法提取",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：扣押清单，包括王某持有的，王某与廖某微信记录，证实廖某让王某在北京农商银行开户，并分两笔8月17日13万、8月18日150万转入该卡。微信记录由王某提供，经公安机关依法提取",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：扣押清单，包括熊某与刘某借款协议、熊某与付某甲借款合同、刘某打款凭证回单三张、熊某应收利息汇总表、瑞和小额贷款公司给张某甲的授权委托书八张、熊某写给付某甲的委托书、熊某与祁某项目合作协议、情况说明，证实（1）2014年1月27日，熊某向刘某借款3000万，借期两个月；2014年9月28日，熊某向付某甲借款1432万元，借期三个月；刘某于2014年1月27日分三笔518万、1482万、820万打款给祁某、祁某、熊某。（2）收回熊某本金1000万，根据计算，熊某应收回本息为5883.2617万元。（3）刘某委托张某甲处理红某项目结算事宜。（4）2016年2月1日，熊某委托付某甲处理红某项目清算事宜。（5）熊某和祁某合作开发红某县金沙世纪城项目。上述文件由公安机关依法扣押，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：扣押清单，包括银行转账记录两份、借条、欠条各一张、张某甲银行卡ｐｏｓ机消费回执三张，证实张某甲自2016年8月4日至8日向罗某转账303.59万余元；2016年9月11日，张某甲借肖某乙人民币360万元；2016年9月1日，欠姚某146万元；2016.8.3，张某甲银行卡在华昌珠宝店、罗朗厨具销售中心刷卡49.778万、48.954万、51.268万的刷卡记录。上述文件由公安机关依法扣押，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：公安机关调取的张某甲尾号940工商银行卡、张某乙尾号197银行卡交易记录；毛某尾号631农商卡、尾号992工商银行卡交易记录；陈某尾号053农商卡、尾号094工商银行卡交易记录；罗某尾号501建设银行卡交易记录；钟某尾号182工商银行卡、宋某尾号2239建设银行卡交易记录，证实（1）2016年7月26日、27日张某甲分别收到付某甲转账50万、50万；2016年8月1日张某甲收到付某甲转账200万；2016年8月5日张某甲收到付某甲转账360万；2016年7月2日张某乙卡收到付某甲转账100万；（2）毛某农商银行卡接到王某转账163万余元，2016年8月19日向陈某大额转账73万；钟某2016年8月6日至8月7日收到张某甲转账共160万。（3）付某甲3月23日打款5万元、4月9日打款6万元、7月1日打款3万元到宋某建设银行卡上，4月9日宋某转5万到支付宝账户。调取程序符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：收条证实2016年12月21日付某甲收到宋某人民币12万元（退赃）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：扣押、发还清单证实江某退赃3万元；李某退赃2.5万元；扣押罗某4千元（以上几笔退赃款已发还付某甲）。扣押和发还程序符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：办案说明证实被告人张某甲系2016年12月20日被抓获后传唤到案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：被告人张某甲、被害人付某甲人口信息证实张某甲、付某甲二人的基本身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：扣押清单，包括宋某的支付宝、微信转账照片，证实2016年2月7日支付宝转账给张某甲5000元；3月24日支付宝转账给张某甲6000元；4月9日支付宝转账给张某甲3.8万、转给黄某甲1.2万、微信转账给张某甲3000元；10月18日微信转账给张某甲300元。2016年4月5日微信收到张某甲2000元；6月7日微信收到张某甲1000元；8月1日、2日、3日微信收到张某甲5000元、3000元、2000元；8月19日、21日微信收到张某甲10000元、10000元；10月14日、18日微信收到张某甲3000元、1500元。2016年4月1日、9日宋某转账10000元、10000元给江某。照片由公安机关依法提取",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.视听资料、电子数据：证明侦查机关讯问被告人张某甲的情况。讯问过程符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人江某说：“宋某请我帮忙办湖北红某一个工程结账的事。2016年3月份，李某带‘小宋’跟我到南昌市万达广场21楼喝茶，小宋问能不能找关系把钱追回来，我说可以，但要正规的手续。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人李某说：“我认识张某甲，但他向我们介绍他是叫付某乙，是付某甲的弟弟。2016年元月份的一天，宋某问我说能不能找到湖北红某的领导的关系，帮他朋友付某甲追帐。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人祁某说：“2013年我、熊某、魏某签订了开发金沙世纪城项目的合作协议。我没有见过付某甲这个人，但是2016年4月份有一个姓江的江西人带着三个人来找我，说是付某甲委托找我清算项目资金。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人熊某说：“我认识张某甲，他是我叫来我房地产公司帮忙的，平时跟着我一起吃玩。2014年我借了付某甲小额信贷公司3000万投入到红某金沙世纪城项目当中去，借款期限是两个月。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人毛某说：“我从2015年11、12月开始给张某甲开车，我估算最多得他3万块钱（包括我借他的5000元，打了欠条）。张某甲的工商银行卡转账10万、20万到我名字的账号上，我不知道。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人陈某说：“我从2016年7月份开始帮张某甲开车，一直到9月底就没开了。我帮张某甲开车就是去湖北（去过四次），每次张某甲会拿两三千元钱给我。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人廖某说：“我和张某甲是情人关系，张某甲替我还了7000元分期贷款。张某甲转账给我一两万，每次转两三千给我，让我替他充值游戏账号。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人王某说：“我开完卡后，当天下午这张卡就有13万的进账。第二天这张卡又有150万的进账，显示转入用户名是付某甲。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人金某说：“2016年9月20多号，张某甲叫我帮他找关系做事。我说找关系要费用，张某甲就拿了3000元现金给我。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人付某丙说：“我是高安市瑞和小额信贷公司的会计。2016年9月19日，我陪同张某甲在高安市农商银行和中国银行办了两张银行卡，户名是张某甲。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人胡某说：“华昌珠宝店我开的，我家里陆续开过罗朗厨具店、燕某屋店、华昌珠宝店和现在的吻爱钻石珠宝店。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人罗某说：“2016年8月初，我们还在文山路开华昌珠宝店，我到我店里来买东西，买完东西后，我就拿一张工商银行的储蓄卡出来，要我老公帮忙多刷点钱出来，刷出来的钱再转到我的账上去。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人肖某丙说：“我和张某甲是夫妻关系，我大伯的儿子叫肖某甲，在吉安检察院上班。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.证人证言：证人黄某乙说：“我和付某甲是合伙人关系，张某甲骗付某甲钱的时候我基本上都在场。张某甲骗付某甲100万的事我清楚，当时张某甲讲要给中纪委的赵某在老家建房子，要付某甲打100万。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.被害人陈述：被害人付某甲说：“2014年1月27日，樟树人熊某、蔡某夫妻向我借款3000万元用于资金周转，连同2014年1月份之前熊某欠我的1547万元，熊某夫妻欠我的本金4547万元，2015年4月27日熊某归还了ｌＯＯＯ万，到现在熊某还有3547万元未归还，利息也分文未付。”陈述采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.同案人供述：同案人宋某说：“2015年11、12月份的时候，张某甲找到我说在湖北省黄冈市红某县有个朋友有经济纠纷，要找纪委方面的领导出面解决问题，问我能不能找到关系，我就打电话问了我的一个朋友李某。”供述采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第二百六十六条之规定，被告人张某甲以非法占有为目的，虚构纪委关系、伪造中纪委调查假象，骗取被害人付某甲1047万余元，数额特别巨大，其行为已构成诈骗罪。本案证据确实充分，被告人当庭认罪，控辩双方对全部证据均无异议。\n\n关于量刑情节，需要指出：第一，被告人诈骗金额特别巨大，且大部分赃款用于赌博和个人挥霍，社会危害性严重；第二，被告人冒充国家机关工作人员实施诈骗，根据《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》第二条第一款之规定，应当从重处罚；第三，被告人系被抓获归案，无自首情节；第四，虽有部分同案人退赃17.5万元，但被告人本人未主动退赔，未取得被害人谅解。\n\n辩护人提出的被告人最初确有追债意愿的辩护意见，经查：1.2016年1月底被告人即开始将诈骗所得用于赌博；2.2016年5月明知无法追债后仍继续实施诈骗；3.2016年8月又虚构工作调动骗取360万元。上述事实表明被告人的非法占有目的明确，犯罪故意持续。\n\n综上，建议法庭依法从重处罚，以诈骗罪判处被告人张某甲有期徒刑XX年，并处罚金人民币XX元，同时追缴全部犯罪所得发还被害人。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人对起诉书指控的罪名没有异议，现就量刑问题发表以下辩护意见：\n\n第一，关于犯罪动机。被告人最初确实具有帮助被害人追讨债务的真实意愿，根据被告人供述和证人证言，2016年1月至5月期间，被告人确实支付了约30万元用于追债活动。这表明被告人的犯罪故意并非一开始就存在，而是随着事态发展逐步形成的。\n\n第二，关于认罪态度。被告人到案后如实供述全部犯罪事实，在侦查阶段和庭审中均表示认罪悔罪，态度诚恳。根据《刑法》第六十七条第三款，可以从轻处罚。\n\n第三，关于退赃情况。虽然被告人本人未能退赃，但同案人宋某、江某、李某已退赃共计17.5万元，这部分款项已发还被害人。这表明案件造成的部分损失已经得到弥补。\n\n第四，关于犯罪情节。虽然涉案金额特别巨大，但被告人并未实际使用暴力手段，也未造成被害人的人身伤害，社会危害性相对较小。\n\n综上，恳请法庭考虑被告人认罪态度良好、部分退赃等情节，在法定刑幅度内从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的被告人最初确有追债意愿的辩护意见，公诉人需要指出：1.根据被告人供述，2016年1月底即开始将诈骗所得用于赌博，此时距其接受委托仅一个月；2.2016年5月明知无法追债后仍继续实施诈骗；3.2016年8月又虚构工作调动骗取360万元。这些事实充分证明被告人的非法占有目的明确且持续。\n\n关于认罪态度，虽然被告人当庭认罪，但系被抓获归案，无自首情节，且未主动退赔，未取得被害人谅解。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款之规定，仅认罪不足以从轻处罚。\n\n关于退赃情况，同案人退赃17.5万元仅占诈骗总额的1.67%，且被告人本人未退赔分文，不能减轻其罪责。被告人将大部分赃款用于赌博和个人挥霍，造成被害人巨额经济损失无法挽回，社会危害性严重。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的非法占有目的持续性问题，辩护人需要补充说明：根据《刑法》第六十一条规定，量刑应当与犯罪事实、性质、情节和社会危害程度相适应。被告人虽在2016年1月底开始将部分款项用于赌博，但前期确实支付了30万元用于追债活动，这一事实表明其犯罪故意具有渐进性特征。\n\n关于退赃问题，虽然比例较小，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第八款，部分退赃退赔的可以酌情从轻处罚。同案人退赃17.5万元虽不能完全弥补损失，但客观上减轻了被害人的部分损失。\n\n关于认罪态度，被告人不仅在侦查阶段如实供述，在今天的庭审中也当庭认罪悔罪，根据《刑事诉讼法》第十五条关于认罪认罚从宽制度的规定，应当予以从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的认罪认罚从宽问题，需要指出：根据《刑事诉讼法》第十五条，认罪认罚从宽需要同时具备认罪态度和退赃退赔等实际行动。本案中被告人虽认罪但未退赔分文，不符合从宽条件。\n\n关于犯罪故意渐进性问题，根据《刑法》第二十三条，犯罪预备阶段不影响既遂后的量刑。被告人2016年1月底即开始实施诈骗行为，至案发时诈骗行为已持续近一年，犯罪故意明确且持续。\n\n关于社会危害性问题，被告人冒充国家机关工作人员实施诈骗，根据《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》第二条，应当从严惩处。且涉案金额特别巨大，给被害人造成无法挽回的经济损失，社会危害性严重。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的认罪认罚从宽适用问题，辩护人需要指出：根据《最高人民法院关于适用认罪认罚从宽制度的指导意见》第八条，认罪认罚从宽制度不以退赃退赔为必要条件。被告人当庭认罪悔罪，符合从宽处理的基本条件。\n\n关于犯罪持续时间问题，辩护人提请法庭注意：2016年1月至5月期间，被告人确实支付了30万元用于追债活动，这部分款项应从犯罪金额中予以扣除。根据《刑法》第六十一条规定，量刑时应充分考虑这一情节。\n\n关于社会危害性评估，虽然涉案金额巨大，但被告人并未造成被害人的人身损害，且部分同案人已退赃17.5万元，客观上减轻了危害后果。恳请法庭在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的犯罪行为深感悔恨，认罪认罚。我辜负了被害人的信任，虚构纪委关系骗取钱财，给被害人造成了巨大损失。我深刻认识到自己的错误，愿意接受法律的惩罚。恳请法庭能考虑我认罪悔罪的态度，给予从宽处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "江西省宜春市中级人民法院\n刑事判决书\n（2017）赣09刑初45号\n\n公诉机关江西省宜春市人民检察院。\n被告人张某甲，男，汉族，XX年XX月XX日出生，文化程度XXX，户籍XXX。因涉嫌犯诈骗罪于2016年12月20日被抓获，次日被刑事拘留，现羁押于宜春市看守所。\n辩护人XXX，XXX律师事务所律师。\n\n江西省宜春市人民检察院于2017年11月22日以被告人张某甲犯诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。宜春市人民检察院检察员XXX出庭支持公诉，被告人张某甲及其辩护人XXX等到庭参加诉讼。本案现已审理终结。\n\n江西省宜春市人民检察院指控：2016年1月至8月期间，被告人张某甲以非法占有为目的，虚构自己具有纪委关系、冒充国家机关工作人员身份，通过伪造文件、发送虚假信息等手段，骗取被害人付某甲人民币1047万余元，所得款项用于赌博、挥霍。认为被告人张某甲的行为已构成诈骗罪，数额特别巨大，应当依法追究刑事责任。\n\n经审理查明，2016年1月至8月，被告人张某甲在明知无能力为被害人付某甲追讨债务的情况下，虚构自己具有纪委关系，通过同案人宋某冒充公职人员，伪造中纪委调查假象，发送虚假短信等方式，先后骗取付某甲人民币1047万余元。其中，2016年1月至5月骗取102万余元，5月后骗取585万余元，8月以帮助调动工作为名骗取360万元。诈骗所得大部分用于赌博和个人挥霍。案发后，同案人宋某等人退赔17.5万元。\n\n上述事实，有经庭审质证、确认的下列证据证实：\n1. 被告人张某甲的供述，详细供述了诈骗手段、资金去向等犯罪事实；\n2. 被害人付某甲的陈述及银行转账凭证，证实被骗经过及资金流向；\n3. 29名证人的证言，证实被告人实施诈骗的具体过程；\n4. 书证、物证，包括伪造的短信、股权转让协议、委托书、支票等；\n5. 银行交易记录、POS机消费记录等，证实资金去向；\n6. 同案人宋某的供述，证实共同实施诈骗的事实。\n\n本院认为，被告人张某甲以非法占有为目的，采用虚构事实、隐瞒真相的方法，骗取他人财物共计人民币1047万余元，数额特别巨大，其行为已构成诈骗罪。公诉机关指控的罪名成立。被告人张某甲冒充国家机关工作人员实施诈骗，且赃款主要用于赌博挥霍，社会危害性大，应依法严惩。鉴于被告人当庭认罪，可酌情从轻处罚。辩护人关于被告人认罪态度好、部分退赃的辩护意见予以采纳，但关于犯罪动机具有渐进性的意见与查明事实不符，不予采纳。\n\n依照《中华人民共和国刑法》第二百六十六条、第五十二条、第五十三条、第六十四条之规定，判决如下：\n\n一、被告人张某甲犯诈骗罪，判处有期徒刑十五年，并处罚金人民币五十万元；\n二、追缴被告人张某甲违法所得人民币一千零四十七万元，发还被害人付某甲。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向江西省高级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n二〇一七年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了32项证据，包括：\n- 被告人在侦查阶段的供述（承认虚构纪委关系、实施诈骗的具体过程及资金去向）\n- 被害人付某甲转账给被告人的银行凭证（8笔共计945万元）\n- 伪造的短信、股权转让协议、委托书、支票等书证\n- 扣押的银行卡、POS机消费记录等物证\n- 29名证人的证言（证实被告人的诈骗手段及资金流向）\n- 被害人付某甲的陈述\n- 同案人宋某的供述\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n（注：本阶段所有证据均被控辩双方认可，主要证实了被告人实施诈骗的具体手段、资金流向及涉案金额等关键事实）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了32项证据，包括：\n- 被告人在侦查阶段的供述（承认虚构纪委关系、实施诈骗的具体过程及资金去向）\n- 被害人付某甲转账给被告人的银行凭证（8笔共计945万元）\n- 伪造的短信、股权转让协议、委托书、支票等书证\n- 扣押的银行卡、POS机消费记录等物证\n- 29名证人的证言（证实被告人的诈骗手段及资金流向）\n- 被害人付某甲的陈述\n- 同案人宋某的供述\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n（注：本阶段所有证据均被控辩双方认可，主要证实了被告人实施诈骗的具体手段、资金流向及涉案金额等关键事实）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了32项证据，包括：\n- 被告人在侦查阶段的供述（承认虚构纪委关系、实施诈骗的具体过程及资金去向）\n- 被害人付某甲转账给被告人的银行凭证（8笔共计945万元）\n- 伪造的短信、股权转让协议、委托书、支票等书证\n- 扣押的银行卡、POS机消费记录等物证\n- 29名证人的证言（证实被告人的诈骗手段及资金流向）\n- 被害人付某甲的陈述\n- 同案人宋某的供述\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n（注：本阶段所有证据均被控辩双方认可，主要证实了被告人实施诈骗的具体手段、资金流向及涉案金额等关键事实）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了32项证据，包括：\n- 被告人在侦查阶段的供述（承认虚构纪委关系、实施诈骗的具体过程及资金去向）\n- 被害人付某甲转账给被告人的银行凭证（8笔共计945万元）\n- 伪造的短信、股权转让协议、委托书、支票等书证\n- 扣押的银行卡、POS机消费记录等物证\n- 29名证人的证言（证实被告人的诈骗手段及资金流向）\n- 被害人付某甲的陈述\n- 同案人宋某的供述\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n（注：本阶段所有证据均被控辩双方认可，主要证实了被告人实施诈骗的具体手段、资金流向及涉案金额等关键事实）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人张某甲构成诈骗罪，数额特别巨大（1047万余元）\n- 指出从重处罚情节：诈骗金额大、赃款用于赌博挥霍、冒充国家机关工作人员、无自首、未退赔\n- 反驳辩护人关于最初有追债意愿的意见，指出1月底即开始赌博、5月后继续诈骗、8月又虚构工作调动\n- 建议从重处罚\n\n2. 辩护人发表辩护意见：\n- 对罪名无异议，就量刑提出四点意见：\n  (1)犯罪动机具有渐进性，初期确有追债意愿并支付30万活动经费\n  (2)认罪态度好，当庭认罪悔罪\n  (3)同案人已退赃17.5万元\n  (4)未使用暴力手段，社会危害性相对较小\n- 请求从轻处罚\n\n3. 控辩双方辩论焦点：\n- 关于非法占有目的：公诉人认为明确且持续，辩护人主张具有渐进性\n- 关于认罪认罚：公诉人认为未退赔不符合从宽条件，辩护人指出不以退赃为必要条件\n- 关于犯罪金额：辩护人主张扣除30万追债费用\n- 关于社会危害性：公诉人强调冒充公职人员、损失巨大，辩护人指出无人身损害、部分退赃\n\n4. 法庭总结：\n- 已充分听取双方意见，将作为合议依据",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的诈骗罪事实和罪名均无异议，当庭认罪。\n2. 公诉人重点讯问：\n   - 被告人通过伪造宋某检察院工作人员身份、虚构中纪委调查假象、发送虚假短信等方式实施诈骗\n   - 与同案人宋某分工合作，宋某冒充公职人员，被告人负责联系被害人\n   - 诈骗所得1047万余元中大部分用于赌博和个人挥霍\n   - 具体伪造中纪委调查假象的手段\n   - 虚构工作调动骗取360万元的事实\n3. 辩护人讯问：\n   - 被告人最初确有追债意愿\n   - 前期部分款项（约30万元）确实用于追债活动\n4. 审判长补充讯问：\n   - 涉案银行账户信息\n   - 犯罪起意时间（2016年1月）\n   - 诈骗款项开始用于赌博的时间（2016年1月底）\n   - 开始虚构中纪委调查的时间（2016年1月底）\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了32项证据，包括：\n- 被告人在侦查阶段的供述（承认虚构纪委关系、实施诈骗的具体过程及资金去向）\n- 被害人付某甲转账给被告人的银行凭证（8笔共计945万元）\n- 伪造的短信、股权转让协议、委托书、支票等书证\n- 扣押的银行卡、POS机消费记录等物证\n- 29名证人的证言（证实被告人的诈骗手段及资金流向）\n- 被害人付某甲的陈述\n- 同案人宋某的供述\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n（注：本阶段所有证据均被控辩双方认可，主要证实了被告人实施诈骗的具体手段、资金流向及涉案金额等关键事实）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人张某甲构成诈骗罪，数额特别巨大（1047万余元）\n- 指出从重处罚情节：诈骗金额大、赃款用于赌博挥霍、冒充国家机关工作人员、无自首、未退赔\n- 反驳辩护人关于最初有追债意愿的意见，指出1月底即开始赌博、5月后继续诈骗、8月又虚构工作调动\n- 建议从重处罚\n\n2. 辩护人发表辩护意见：\n- 对罪名无异议，就量刑提出四点意见：\n  (1)犯罪动机具有渐进性，初期确有追债意愿并支付30万活动经费\n  (2)认罪态度好，当庭认罪悔罪\n  (3)同案人已退赃17.5万元\n  (4)未使用暴力手段，社会危害性相对较小\n- 请求从轻处罚\n\n3. 控辩双方辩论焦点：\n- 关于非法占有目的：公诉人认为明确且持续，辩护人主张具有渐进性\n- 关于认罪认罚：公诉人认为未退赔不符合从宽条件，辩护人指出不以退赃为必要条件\n- 关于犯罪金额：辩护人主张扣除30万追债费用\n- 关于社会危害性：公诉人强调冒充公职人员、损失巨大，辩护人指出无人身损害、部分退赃\n\n4. 法庭总结：\n- 已充分听取双方意见，将作为合议依据",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 180.0,
+    "fine": 500000.0,
+    "reprieve": 0.0
+  }
+]

@@ -1,0 +1,1527 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人王某甲，性别男，民族XXX，文化程度XXX，户籍XXX，因敲诈勒索罪于2019年8月21日被抓获。曾因违法行为于2013年4月13日被行政拘留15日并处罚金1000元，于2013年4月25日被行政拘留10日并处罚金500元。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "2013年4月13日被行政拘留15日并处罚金1000元，2013年4月25日被行政拘留10日并处罚金500元。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院  \n起 诉 书  \n\n齐梅检未刑诉〔2019〕2号  \n\n被告人王某甲，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXXXXXXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌敲诈勒索罪，于2019年8月21日被公安机关抓获。  \n\n本案由黑龙江省齐齐哈尔市梅里斯达斡尔族区公安局侦查终结，以被告人王某甲涉嫌敲诈勒索罪，于2019年XX月XX日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人和认罪认罚可能导致的法律后果，依法讯问了被告人，听取了辩护人、被害人的意见，审查了全部案件材料。  \n\n经依法审查查明：  \n2018年，被告人王某甲通过微信认识被害人安某（未成年人），并发展为男女朋友关系。2019年2月27日21时44分，王某甲在家中通过微信以公开安某裸照相威胁，向其索要人民币2000元。因安某未及时转账，王某甲将安某的4张裸照发布至“江北4信息平台群”（344人）、“永刚雅尔塞信息群”（327人）、“梅某一代天骄啤酒1群”（117人）等微信群，并PS文字“聘夫”进行侮辱。次日10时40分，安某被迫通过微信向王某甲转账2000元。  \n\n认定上述事实的证据如下：  \n1. 书证：户籍证明、侦破经过、微信转账记录、微信群截图、行政处罚决定书等；  \n2. 证人证言：曹某甲、王某乙等7名证人证实裸照传播及安某身心受损情况；  \n3. 被害人陈述：安某陈述被威胁转账过程；  \n4. 被告人供述：王某甲对敲诈勒索行为供认不讳；  \n5. 鉴定意见：公安机关电子数据鉴定报告（含1.32GB涉案数据）。  \n\n本院认为，被告人王某甲以公开未成年人隐私相要挟，勒索财物数额较大，其行为触犯《中华人民共和国刑法》第二百七十四条，犯罪事实清楚，证据确实、充分，应当以敲诈勒索罪追究刑事责任。鉴于王某甲认罪认罚并主动退赔，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n黑龙江省齐齐哈尔市梅里斯达斡尔族区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2019年12月4日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪，对起诉书指控的事实没有异议。我确实因为一时冲动做了错事，现在很后悔。我愿意赔偿被害人损失，希望能从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人安某是如何认识的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年通过微信认识的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为什么要以公开裸照相威胁向被害人索要钱财？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为安某提出分手还拉黑我，我很生气，想报复她。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时是否知道被害人安某是未成年人？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为什么要将被害人的裸照发布到多个微信群？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为安某没有按我的要求转账，我想让她难堪。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照的微信群成员人数分别是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "344人的\"江北4信息平台群\"、327人的\"永刚雅尔塞信息群\"、117人的\"梅某一代天骄啤酒1群\"，还有梅里斯区第二中学QQ群。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后，被害人安某是否主动联系过你？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，她第二天上午10点40分通过微信给我转了2000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照时是否对照片进行了PS处理？具体做了哪些修改？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我对照片进行了PS处理，加上了\"聘夫\"的文字。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否主动删除过这些照片？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动删除过这些照片。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否收到过群内其他成员的评论或反馈？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "收到过一些评论。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否主动联系过被害人要求删除这些照片？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动联系过被害人要求删除照片。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否知道这些照片被其他人转发或传播？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道有人转发传播。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照时是否知道这些微信群中包含被害人的同学或熟人？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道，特别是梅里斯区第二中学QQ群里有很多她的同学。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否收到过被害人或其家属要求删除照片的请求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道，被害人的家人后来联系过我要求删除照片。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否知道这些照片对被害人造成了怎样的影响？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道对被害人造成了很大伤害，但具体影响程度我不太清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否主动向被害人道歉或采取补救措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动道歉或采取补救措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布裸照后是否知道被害人安某因此产生了严重的心理问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她受到了很大影响，但具体心理问题程度我不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，被告人已经对主要犯罪事实供认不讳，相关细节也已查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人安某交往期间，是否曾有过经济往来？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有过一些日常开销的往来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人安某交往期间的经济往来具体包括哪些内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要是吃饭、看电影这些约会开销，还有送过一些小礼物。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人安某交往期间，是否曾有过其他矛盾或纠纷？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有过一些争吵，但都是情侣间的小矛盾。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你向被害人索要2000元的具体理由是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为安某提出分手，我很生气，想让她补偿我一些交往期间的花费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人安某交往期间，是否曾有过大额经济往来？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有大额经济往来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你发布裸照后是否曾主动删除过这些照片？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动删除过这些照片。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人安某交往期间，是否曾有过其他形式的亲密照片或视频交换？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有过一些亲密照片的交换。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照后是否曾收到过被害人或其家属要求删除照片的请求？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "收到过被害人家属要求删除照片的请求。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照后是否曾主动向被害人退还过2000元？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动退还过2000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2018年，我通过微信认识了安某，并发展为男女朋友关系。2019年2月26日晚18时许，我在梅里斯达斡尔族区奈门沁村的家中，通过微信向安某发送了她的三四张裸照，目的是让她明白不要和我分手。2019年2月27日晚21时44分，我再次通过微信威胁安某，要求她支付×××元钱，否则将她的裸照公开。因安某未按时支付，当晚11点，我将她的4张裸照发布至“江北4信息平台群”“永刚雅尔塞信息群”“梅某一代天骄啤酒群”及梅里斯区第二中学QQ群，群成员合计约六七百人。2019年2月28日上午10时40分，安某通过微信转账支付给我×××元钱。随后，我前往河北霸州市打工。2019年8月21日18时，我在河北霸州市胜芳镇石某被公安机关抓获。  \n\n（2）犯案动机  \n我与安某曾是男女朋友关系，因她提出分手并将我电话拉黑，我感到愤怒，意图报复。我通过公开她的裸照威胁她，目的是强迫她继续与我保持关系，并索要钱财。  \n\n（3）案发之后的处理  \n我在案发后没有自首，也未主动赔偿被害人损失。公安机关未提及我与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：户籍证明，证实被告人王某甲及被害人安某身份情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：侦破经过，证实被告人王某甲涉嫌敲诈勒索罪侦破经过",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：安某给王某甲微信转账记录，证实2019年2月28日上午10时33分，被害人安某给被告人王某甲用微信转了×××元钱，该转账记录已由腾讯公司出具电子数据认证报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：安某手机信息、微信截图，证实被告人王某甲威胁、辱骂安某的过程，要求不给×××元就将被害人裸照公开，该电子数据已由公安机关电子数据鉴定中心出具鉴定报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：吴某、刘某、孙某、王某乙的手机照片，证实被告人王某甲发布裸照的微信群信息群有321人，一代天骄啤酒1群有117人，该电子数据已由公安机关电子数据鉴定中心出具鉴定报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：班主任证明，证实被害人安某因事假于2019年3月1日至3月4日期间没有在学校学习",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：在逃人员登记表，证实被告人王某甲于2019年3月7日向吉林省方向逃跑，于2019年8月23日撤销其逃跑记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：王某甲行政处罚决定书，证实被告人王某甲于2013年4月13日行政拘留15日并处罚金1000元，于2013年4月25日行政拘留10天并处罚金500元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人曹某甲证言证实：“2019年2月27日知道我女儿被人用她的裸体照片威胁，敲诈，我在3月1日那天从浙江省坐高铁回到家了。是王某甲的威胁，敲诈我女儿。王某甲把我女儿的裸体照片发到卧牛吐和雅尔赛两个微信群中，群友达到800人左右并且向我女儿要钱，不给钱就继续发图片，后来我女儿就逼无奈微信给王某甲两千元钱。自从我回来之后，我女儿就始终哭泣，并且不敢去上学，我现在每天都给她请假，并且始终把自己关在自己的屋子里，不出门，我们现在都不知道和她说什么好，我们怕她想不开，都不敢离开她。现在我女儿就是不去上学了，我们现在也不知道怎么办好，不行只能转学了。学校挺多人都知道，没法上学了。我女儿现在的学习成绩排在中上等。挺多人知道这件事了，因为我同学和朋友有在雅尔赛和卧牛吐的微信群里，看见我女儿的照片后，都纷纷给我打电话。我家在外地跑车的生意因为我不在了，不敢接远的活了。就我爱人自己太危险。他根本出不了车，基本就停运了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中关于被害人家庭经济状况和学业情况的内容与本案敲诈勒索罪的构成要件无直接关联，且部分内容属于主观推测和情感表达，不应作为定罪量刑的依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言客观反映了被告人的犯罪行为对未成年人被害人造成的实际伤害后果，包括心理创伤、学业影响等，这些事实与量刑情节直接相关，符合《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条关于证人证言采信的规定。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人王某乙证言证实：“我姐是雅尔塞镇红星村的安某。发我姐裸照的俩个微信群一个是江北4信息平台，另一个是梅某一代天骄啤酒1群。是一个微信名字叫做大嫂的人，现实名字我就知道叫‘王某丙’应该也是小名。王某丙跟安某之前他俩是男女朋友关系，但是我姐跟王某丙已经分手好久了。这个王某丙每个群都发了四张我姐的裸照。这俩个群发的照片都是一个内容。其中三张就是我姐的裸照，还有一张ＰＳ写着哈喽你好我是来自红星村我姓安，聘夫如有钟意者联系我。都是2019年2月27日凌晨1点38发的。其中江北4信息平台的微信群有344个群友，另一个梅某区一代天娇啤酒1群有117人。王某丙的微信号是×××，微信名字叫做大嫂。我姐安某看到照片之后，就变得不愿意说话了，精神也高度紧张，天天闷闷不乐、郁郁寡欢，现在也不去上学了，我感觉我姐现在应该都有心理障碍了，发照片的人恳请你们相关部门给予严惩。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中关于被害人心理状态的描述属于主观判断，缺乏专业心理评估报告支持，且与敲诈勒索罪的构成要件无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言客观记录了被告人发布裸照的具体微信群及人数，并描述了被害人的精神状态变化，这些事实与犯罪情节严重程度及量刑直接相关。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，证人证言中对案件事实有证明价值的部分应当予以采信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人张某证言证实：“我在永刚雅尔塞信息群看见我村小孩安某裸照了。我看见图片的时间是2019年2月28日早上的事。我跟安某就是认识的关系。永刚雅尔塞信息群就是一个普通微信群，有321个人，都是雅尔塞周边的村民。具体是谁往雅尔塞微信群发的安某的裸照我不知道，我看微信群里的名字叫做大嫂，后来听村里朋友说的这个人是王某甲。当时我记得发了四张裸照。这个微信叫大嫂说这个安某是红兴的，还说发的照片人的名字叫做安某。当时永刚雅尔塞信息群的聊天记录我没有了，这个照片也不太好，我就给删除了。现在手机里面没有记录了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人吴某证言证实：“我在微信群看见有人发我同村村民安某裸照的事。我是在永刚雅尔塞信息交流群，在2019年2月28日早上看见的，但是我看信息是2019年2月28日早上凌晨发的。是一个微信名字叫大嫂的人发的，当时发了四张。四张全是安某的裸照，我记得有一张ＰＳ过写着哈喽你好我是来自红星村我姓安，聘夫和有钟意的请联系我。永刚雅尔塞信息交流群有321个人。我感觉发照片的人心理应该扭曲，这个女孩才多大，这样发裸照，安某这辈子都得活在阴影之中。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中关于\"心理扭曲\"的评价属于主观判断，与本案敲诈勒索罪的构成要件无直接关联，且\"安某这辈子都得活在阴影之中\"的表述属于推测性言论，不应作为定罪量刑的依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言客观记录了被告人发布裸照的具体时间、微信群及照片内容，这些事实与犯罪情节严重程度直接相关。证人关于照片内容的描述具有证明价值，应当予以采信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人李某证言证实：“安某是我同班同学，还是我的同座。安某最近几天没有上学，安某已经4天没有上学了，我们是2019年3月1日开的学。我俩是同座，安某什么事基本上都跟我说了，我问安某了，安某跟我说她之前处的对象王某甲给安某拍了裸照，并把安某的裸照发到了网上，安某说她没法见同学和老师了，就一直没有上学，好像要不念了。安某平时挺外向的，也爱说说笑笑的。我这几天一直跟安某微信聊天了，安某比较‘蔫’。平时说说笑笑的劲头也没了，还说不上学了，我感觉安某对生活挺无望的，我现在就是开导安某，不希望安某就此沉沦下去，她现在也没有成家，我俩还是好朋友，我不想看到她就此就对生活无望了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中关于被害人心理状态和生活态度的描述属于主观判断，缺乏专业心理评估报告支持，且与敲诈勒索罪的构成要件无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言客观记录了被害人因被告人的犯罪行为导致无法正常上学的严重后果，这些事实与犯罪情节严重程度及量刑直接相关。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，证人证言中对案件事实有证明价值的部分应当予以采信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人刘某证言证实：“有人在微信群里面发安某的裸体照片，我看见了，具体什么时间发的我没注意，我是2019年2月27号上午11点多钟看见的。安某也是我们雅尔塞红星村的，我和安某的父母都非常熟悉。所以我也认识安某。我在永刚雅尔塞信息群里面看见安某的裸体照片。这个群群主是谁我不知道，都是雅尔塞的百姓，雅尔塞的百姓知道啥事就在这个群里面说一下。这个群里面一共有300多人。2019年2月27号上午11点多钟，我没啥事看手机微信群里面的信息，有一个微信名叫‘大嫂’的人在微信群里面发了4张裸照，我点开一看，是安某，这四张图片都是安某没穿衣服的裸照，其中一张照片上还有文字，写着：‘哈喽你好我是来自红星村我姓安，聘夫如有中意者联系我。’我看了之后就把这个照片删除了。安某还是个小孩，正在上学，发生这个事之后肯定对安某影响不好，安某心里都得有阴影，我听说安某因为这事都不上学了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中关于\"安某心里都得有阴影\"的表述属于主观推测，与敲诈勒索罪的构成要件无直接关联，且\"听说安某因为这事都不上学了\"属于传闻证据，不应作为定罪量刑的依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言客观记录了被告人发布裸照的具体微信群、照片内容及PS文字，这些事实与犯罪情节严重程度直接相关。证人关于照片内容的描述具有证明价值，应当予以采信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人孙某证言证实：“有人在微信群里面发安某的裸体照片，我看见了，一共发过两次，我记得是2019年2月26号和27号的事，具体时间好像都是下半夜。安某是雅尔塞镇红星村的，她和我女儿是同学，所以我认识安某。我在永刚雅尔塞信息群里面看见安某的裸体照片这个群群主是谁我不知道，是朋友把我拽到这个群里面的，都是雅尔塞的百姓，谁有啥农业信息或者农副产品信息就在这个群里面共享一下。这个群里面一共有300多人。我记着这个群里面一共发过2次安某的裸照，时间是2019年2月26号和2月27号这两天，都是下半夜的事，我是第二天早上看见的，有一个微信名叫‘大嫂’的人在群里面发安某的裸体照片，每次都发四张，都是没穿衣服的裸照，有一张上面还Ｐ上的字：‘哈喽，你好，我是来自红星村我姓安，聘夫如有中意者联系我。’这个人第二次发完后，群主在群里面跟微信名叫‘大嫂’的这个人说：‘这个群是信息群，不准你在群里面发这些东西。’之后群主就把微信名叫‘大嫂’的这个人删除了。这个发裸照的人挺招人恨，这么做的话，对安某影响太不好了，心理上都得有阴影，安某本身就是个学生。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中关于\"心理上都得有阴影\"的表述属于主观推测，与敲诈勒索罪的构成要件无直接关联，且\"对安某影响太不好了\"属于情感表达，不应作为定罪量刑的依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言客观记录了被告人多次发布裸照的具体时间、微信群及照片内容，这些事实与犯罪情节严重程度直接相关。证人关于照片发布次数及群主反应的描述具有证明价值，应当予以采信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.被害人陈述：被害人安某陈述称：“2019年2月27日晚上我已经报案说王某甲用我的裸照威胁我并且管我要钱，今天上午我给了王某甲×××元钱。2019年2月27日晚上21时44分，我在家中，王某甲通过微信跟我说的要钱的事。王某甲就是用我的裸照威胁我，说如果我给他×××元钱，他就把我的裸照删了，并且不会往其他的群里面发。当天晚上九点多钟的时候，我通过微信问王某甲，我怎么做才能把我的裸照删了，王某甲跟我说咱们谈点现实的，让我给他×××元钱，他就把我所有的裸照都删了，并且也不会再继续往其他的网络渠道扩散，而且跟我断绝联系，但是我昨天晚上根本也没有钱，我就一直求王某甲让他给我一晚上时间，让我凑钱，王某甲一直不依不饶的威胁我，说如果晚上十一点之前不把钱给他，他就把我的裸照发到梅某区第二中学的ＱＱ群里面，我就一直求他容我一晚上时间，王某甲在微信就给我倒数时间，说还有最后3分钟，最后1分钟啥的，我跟王某甲商量先给他200行不行，王某甲说最少先给他一半，也就是1000元，我说等到明天行不行，王某甲说不好使，如果晚上十一点之前不给他钱，就要我的裸照发到各大群里，等到晚上十一点准时的时候，王某甲就把我的裸照发的好几个微信群里面了，并且还给我截图了，一共发到了三个群里，一个叫‘影视拉人十人免踢’的群，群里有53人，一个叫‘卧牛吐镇微信息生活’群，群里有493人，一个叫‘永刚雅尔赛信息群’，群里有327人，每个群都发了我四张裸照，并且还跟我说不给钱就把照片发到梅某区二中的群里去，最后我俩商量说第二天中午十二点之前给他×××元钱，他把我的裸照删除，并且不会往群里发。我是2019年2月28日上午10点40分，通过微信转账的形式给的王某甲×××元钱，地点就是在梅某区区里。2019年2月28日上午九点多钟的时候，王某甲给我发微信，问我拖了一晚上了，啥时候给他钱，我说不说好的十二点之前吗，然后王某甲就说让我赶紧把钱给他，不然就把我的裸照继续留着并且往外发，然后我就管我大姨曹某乙要了×××元红包，我把这×××元转账给王某甲了。他用我的裸照威胁我，如果不给他就要把裸照往出发，而且他已经发到好几个群里了。我给他×××元钱，不是自愿的，是王某甲逼我的。”该陈述已由公安机关心理评估专家出具心理评估报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人陈述中关于\"心理评估报告\"的内容未随证据一并出示，无法确认其专业性和客观性，且该报告与敲诈勒索罪的构成要件无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该心理评估报告由公安机关专业心理评估专家出具，客观反映了被害人因被告人的犯罪行为遭受的心理创伤程度，与量刑情节直接相关。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，该评估报告具有专业性和证明力，应当予以采信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就心理评估报告的专业性和关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.鉴定意见：（齐）公（刑技）鉴（电）字【2019】154号鉴定，证实检验结果检出符合鉴定要求的数据3745个，大小共计1.32ＧＢ，该鉴定由齐齐哈尔市公安局刑事技术支队依法出具，鉴定程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "本案中，被告人王某甲以非法占有为目的，采用公开未成年人裸照相威胁的手段，强行索要财物2000元，其行为已构成《中华人民共和国刑法》第二百七十四条规定的敲诈勒索罪。具体分析如下：\n\n第一，犯罪构成要件完全具备。被告人主观上具有非法占有的故意，客观上实施了威胁手段并实际取得财物。其明知被害人未成年，仍将PS处理过的裸照发布至3个微信群及学校QQ群，总人数达788人，情节恶劣。\n\n第二，量刑情节严重。根据《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条，针对未成年人实施敲诈勒索应当从重处罚。被告人不仅发布裸照，还添加\"聘夫\"等侮辱性文字，造成照片被广泛传播，对被害人造成严重心理伤害。\n\n第三，被告人有前科劣迹。2013年曾两次被行政拘留，表明其主观恶性较深。案发后未主动删除照片、未退还钱款，直至被抓获归案，认罪态度一般。\n\n综上，建议法庭依法从重处罚，以体现对未成年人权益的特殊保护，维护社会公序良俗。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，被告人具有坦白情节。根据《刑法》第六十七条第三款，被告人到案后如实供述全部犯罪事实，认罪态度良好，依法可以从轻处罚。\n\n第二，被告人已主动退赔全部违法所得2000元，表明其有悔罪表现。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于退赃退赔的，可以减少基准刑的30%以下。\n\n第三，本案系因感情纠纷引发，被告人主观恶性相对较小。被告人与被害人曾为恋爱关系，索要钱财系因分手后情绪失控所致，不同于一般敲诈勒索案件。\n\n第四，被告人虽曾受过行政处罚，但与本次犯罪性质不同，不能简单认定为累犯。且前科距今已超过6年，对本次量刑影响有限。\n\n恳请法庭综合考虑被告人的认罪态度、退赔情节及案件特殊性，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "针对辩护人提出的从轻处罚理由，公诉人补充以下意见：\n\n第一，关于坦白情节。根据《刑法》第六十七条第三款，坦白从宽的前提是\"可以从轻处罚\"，而非\"应当从轻\"。本案中被告人虽认罪，但系被抓获归案，且在案发后长达半年时间内未主动投案，其坦白情节的从宽幅度应当从严把握。\n\n第二，关于退赔问题。起诉书已载明被告人是\"主动退赔\"，但根据证据显示，退赔行为发生在侦查阶段后期，是被动退赔而非主动退赔，且未取得被害人谅解，不能充分体现悔罪诚意。\n\n第三，关于感情纠纷问题。被告人在明知被害人未成年情况下，仍实施威胁、发布裸照并PS侮辱性文字，其行为已超出感情纠纷范畴，具有明显的报复性和侮辱性，主观恶性不容低估。\n\n第四，关于前科问题。虽然不构成累犯，但两次行政处罚记录表明其屡教不改，根据《最高人民法院关于常见犯罪的量刑指导意见》，有前科的应当酌情从重处罚。\n\n综上，辩护人提出的从轻情节均不足以抵消本案的严重社会危害性，特别是对未成年人权益的侵害。建议法庭在量刑时充分考虑上述因素。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的几点意见，辩护人补充以下辩护意见：\n\n第一，关于坦白情节。虽然被告人系被抓获归案，但根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第四条，如实供述司法机关尚未掌握的罪行，与司法机关已掌握的罪行属同种罪行的，可以酌情从轻处罚。本案中被告人对犯罪细节的供述完整、稳定，应当予以肯定。\n\n第二，关于退赔时间问题。根据《刑事诉讼法》第十五条，犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理。被告人在侦查阶段后期退赔，仍属于认罪认罚的表现，应当予以考虑。\n\n第三，关于犯罪动机。虽然行为性质严重，但根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，因恋爱、婚姻、家庭、邻里纠纷等民间矛盾激化引发的犯罪，应当酌情从宽处理。本案确因感情纠纷引发，与其他敲诈勒索案件有明显区别。\n\n第四，关于前科问题。被告人前科为行政违法，且与本次犯罪性质不同，时间久远，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，前科对本次量刑的影响应当有限。\n\n恳请法庭综合考虑被告人的认罪态度、退赔行为及案件特殊性，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻处罚理由，公诉人补充以下意见：\n\n第一，关于坦白情节。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于坦白情节，应当综合考虑如实供述的罪行轻重以及悔罪表现等情况确定从宽幅度。本案被告人虽认罪，但在被害人及其家属多次要求删除照片的情况下仍拒不删除，且未主动退还赃款，悔罪表现不足。\n\n第二，关于犯罪动机问题。根据《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条第三项，以发布、传播被害人隐私相要挟的，应当认定为\"其他严重情节\"。被告人不仅发布裸照，还添加侮辱性文字，其行为已超出感情纠纷范畴，具有明显的侮辱性和报复性。\n\n第三，关于前科问题。虽然不构成累犯，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，有前科的应当酌情从重处罚。被告人两次被行政处罚均涉及违法行为，表明其法律意识淡薄，主观恶性较深。\n\n第四，关于被害人权益保护。本案被害人为未成年人，根据《未成年人保护法》第四十条，对侵害未成年人合法权益的行为应当依法从重处罚。被告人的行为已对被害人造成严重心理创伤，导致其无法正常上学，社会影响恶劣。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的意见，辩护人补充以下观点：\n\n第一，关于悔罪表现。根据《刑法》第六十七条第三款，被告人虽未主动投案，但在侦查阶段已全部供述犯罪事实，并签署认罪认罚具结书，表明其认罪态度良好。根据《刑事诉讼法》第十五条，认罪认罚可以从宽处理。\n\n第二，关于犯罪情节。虽然被告人对照片进行了PS处理，但根据《最高人民法院关于常见犯罪的量刑指导意见》，应当区分犯罪手段的恶劣程度。本案中PS文字内容相对轻微，未达到特别恶劣程度。\n\n第三，关于前科问题。被告人2013年的行政处罚距今已超过6年，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，前科对量刑的影响应当与时间成反比。\n\n第四，关于被害人权益。辩护人注意到被告人已全额退赔2000元，根据《最高人民法院关于常见犯罪的量刑指导意见》，退赃退赔可以减少基准刑的30%以下。虽未取得谅解，但已实际弥补被害人经济损失。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人的认罪态度、退赔行为及前科情况已充分发表意见，接下来的辩论请围绕被告人发布裸照后是否采取过任何补救措施进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据法庭调查和举证质证阶段确认的事实，被告人王某甲在发布被害人裸照后，存在以下情节严重的行为：\n\n第一，根据被告人供述和证人证言，被告人在收到2000元转账后，未履行承诺主动删除照片，也未采取任何措施阻止照片传播。根据《刑法》第二百七十四条，敲诈勒索罪既遂后拒不退赃、拒不消除影响的行为，应当从重处罚。\n\n第二，被告人在收到被害人家属要求删除照片的明确请求后，仍拒不执行。这一情节表明其主观恶性较深，悔罪态度不诚恳。\n\n第三，被告人在长达半年时间内未采取任何补救措施，直至被抓获归案。根据《最高人民法院关于常见犯罪的量刑指导意见》，拒不消除犯罪后果的行为应当酌情从重处罚。\n\n第四，被告人对照片进行了PS处理并添加侮辱性文字，进一步扩大了犯罪后果。根据《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条第三项，以发布、传播被害人隐私相要挟的，应当认定为\"其他严重情节\"。\n\n综上，被告人未采取任何有效补救措施的行为，加重了犯罪后果，应当作为从重处罚的考量因素。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人补救措施问题，辩护人发表以下意见：\n\n第一，虽然被告人未主动删除照片，但根据《刑法》第六十七条第三款，被告人在归案后如实供述全部犯罪事实，包括照片传播情况，为司法机关取证提供了重要线索，客观上减少了危害后果的进一步扩大。\n\n第二，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于认罪认罚的被告人，应当综合考虑其悔罪表现。被告人虽未及时采取补救措施，但在侦查阶段已全部退赔赃款，表明其有悔罪意愿。\n\n第三，关于PS照片问题，被告人对照片的处理程度相对轻微，未达到特别恶劣程度，且传播范围主要限于特定微信群，未造成更大范围的二次传播。\n\n第四，被告人系初犯，前科仅为行政违法，与本次犯罪性质不同。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对其量刑应当体现宽严相济。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人是否采取补救措施已充分发表意见，接下来的辩论请围绕被告人发布裸照后是否知晓照片被他人转发传播的具体情况，以及被告人是否采取过任何措施阻止照片的进一步传播进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据法庭调查确认的事实，被告人王某甲明确供述知晓照片被他人转发传播，但未采取任何阻止措施。这一情节具有以下严重性：\n\n第一，根据《刑法》第二百七十四条，被告人明知照片被转发却放任不管，主观上具有间接故意，客观上导致危害后果扩大，应当从重处罚。\n\n第二，被告人在长达半年时间内未采取任何补救措施，直至被抓获归案。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，拒不消除犯罪后果的行为应当酌情从重处罚。\n\n第三，被告人将照片发布至被害人学校QQ群，明知该群体包含大量未成年人，其行为已违反《未成年人保护法》第四十条关于禁止传播危害未成年人身心健康信息的规定，应从重惩处。\n\n第四，被告人在收到被害人家属删除请求后仍拒不执行，表明其主观恶性较深。根据《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条第三项，以发布、传播隐私相要挟的，应当认定为\"其他严重情节\"。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人知晓照片传播情况的问题，辩护人发表以下意见：\n\n第一，根据《刑法》第六十七条第三款，被告人如实供述知晓照片被转发的情况，属于坦白情节，应当予以从宽考量。被告人并未隐瞒或否认这一事实，认罪态度良好。\n\n第二，虽然被告人未主动阻止照片传播，但根据《最高人民法院关于常见犯罪的量刑指导意见》，对于认罪认罚的被告人，应当综合考虑其全部悔罪表现。被告人在归案后退赔全部赃款，表明其有悔罪意愿。\n\n第三，关于传播范围问题，根据现有证据，照片主要传播于特定微信群，未发现被告人有主动扩大传播范围的行为。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，量刑时应考虑实际危害后果。\n\n第四，被告人系初犯，前科与本次犯罪性质不同。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，前科对本次量刑的影响应当有限。恳请法庭综合考虑被告人的认罪态度和退赔行为。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪悔罪，深刻认识到自己的错误行为给被害人造成了严重伤害。我真诚地向被害人及其家属道歉，愿意接受法律的惩罚。我已经退赔了全部违法所得，今后一定遵纪守法，绝不再犯。恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "黑龙江省齐齐哈尔市梅里斯达斡尔族区人民法院\n刑事判决书\n（2019）黑0208刑初XX号\n\n公诉机关黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院。\n\n被告人王某甲，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXXXXXXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌敲诈勒索罪于2019年8月21日被抓获，现羁押于齐齐哈尔市看守所。\n\n辩护人XXX，XXX律师事务所律师。\n\n黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院以齐梅检未刑诉〔2019〕2号起诉书指控被告人王某甲犯敲诈勒索罪，于2019年XX月XX日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院指派检察员XXX出庭支持公诉，被告人王某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院指控：2018年，被告人王某甲通过微信认识被害人安某（未成年人），并发展为男女朋友关系。2019年2月27日21时44分，王某甲在家中通过微信以公开安某裸照相威胁，向其索要人民币2000元。因安某未及时转账，王某甲将安某的4张裸照发布至\"江北4信息平台群\"（344人）、\"永刚雅尔塞信息群\"（327人）、\"梅某一代天骄啤酒1群\"（117人）等微信群，并PS文字\"聘夫\"进行侮辱。次日10时40分，安某被迫通过微信向王某甲转账2000元。公诉机关认为，被告人王某甲的行为已构成敲诈勒索罪，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。\n\n被告人王某甲对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚且签字具结，在开庭审理过程中亦无异议。辩护人提出被告人具有坦白情节、已退赔全部违法所得、因感情纠纷引发等从轻处罚情节。\n\n经审理查明：2018年，被告人王某甲通过微信认识被害人安某（未成年人），并发展为男女朋友关系。2019年2月27日21时44分，王某甲在家中通过微信以公开安某裸照相威胁，向其索要人民币2000元。因安某未及时转账，王某甲将安某的4张裸照发布至\"江北4信息平台群\"（344人）、\"永刚雅尔塞信息群\"（327人）、\"梅某一代天骄啤酒1群\"（117人）等微信群，并PS文字\"聘夫\"进行侮辱。次日10时40分，安某被迫通过微信向王某甲转账2000元。案发后，被告人王某甲未主动删除照片，也未采取补救措施。2019年8月21日，被告人王某甲被公安机关抓获。到案后，王某甲如实供述了犯罪事实，并退赔被害人2000元。\n\n上述事实，有经庭审质证、确认的下列证据证实：1.被告人在侦查阶段的供述；2.户籍证明、侦破经过等书证；3.微信转账记录及截图；4.微信群截图及传播情况；5.被害人班主任证明；6.7名证人证言；7.被害人陈述；8.电子数据鉴定报告等。\n\n本院认为，被告人王某甲以公开未成年人隐私相要挟，勒索财物数额较大，其行为已构成敲诈勒索罪。公诉机关指控的犯罪事实清楚，证据确实、充分，罪名成立。被告人王某甲针对未成年人实施犯罪，将被害人裸照发布至多个微信群并添加侮辱性文字，造成恶劣社会影响和严重心理伤害，应从重处罚。鉴于被告人王某甲到案后如实供述犯罪事实，自愿认罪认罚，并已退赔全部违法所得，可依法从轻处罚。辩护人提出的相关辩护意见予以采纳。依照《中华人民共和国刑法》第二百七十四条、第六十七条第三款、第六十四条之规定，判决如下：\n\n一、被告人王某甲犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币三千元；\n二、被告人王某甲退赔被害人安某人民币二千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向黑龙江省齐齐哈尔市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\nXXXX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元\n\n举证质证阶段总结：\n\n1. 公诉人出示了18项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述）\n- 户籍证明、侦破经过等书证\n- 微信转账记录及截图\n- 微信群截图及传播情况\n- 被害人班主任证明\n- 7名证人证言（证实裸照传播及对被害人影响）\n- 被害人陈述（详细描述被威胁过程）\n- 电子数据鉴定报告（1.32GB涉案数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对部分证人证言提出异议：\n- 认为关于被害人心理状态的描述属主观判断\n- 质疑部分证言与犯罪构成要件的关联性\n- 指出传闻证据不应作为定罪依据\n- 对未出示的心理评估报告提出质疑\n\n4. 公诉人回应辩护人异议：\n- 强调证人证言反映犯罪实际后果\n- 指出心理评估报告的专业性和证明力\n- 主张相关证据与量刑情节直接相关\n\n5. 辩护人未提供新的证据，被告人不申请调取新证据。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元\n\n举证质证阶段总结：\n\n1. 公诉人出示了18项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述）\n- 户籍证明、侦破经过等书证\n- 微信转账记录及截图\n- 微信群截图及传播情况\n- 被害人班主任证明\n- 7名证人证言（证实裸照传播及对被害人影响）\n- 被害人陈述（详细描述被威胁过程）\n- 电子数据鉴定报告（1.32GB涉案数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对部分证人证言提出异议：\n- 认为关于被害人心理状态的描述属主观判断\n- 质疑部分证言与犯罪构成要件的关联性\n- 指出传闻证据不应作为定罪依据\n- 对未出示的心理评估报告提出质疑\n\n4. 公诉人回应辩护人异议：\n- 强调证人证言反映犯罪实际后果\n- 指出心理评估报告的专业性和证明力\n- 主张相关证据与量刑情节直接相关\n\n5. 辩护人未提供新的证据，被告人不申请调取新证据。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元\n\n举证质证阶段总结：\n\n1. 公诉人出示了18项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述）\n- 户籍证明、侦破经过等书证\n- 微信转账记录及截图\n- 微信群截图及传播情况\n- 被害人班主任证明\n- 7名证人证言（证实裸照传播及对被害人影响）\n- 被害人陈述（详细描述被威胁过程）\n- 电子数据鉴定报告（1.32GB涉案数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对部分证人证言提出异议：\n- 认为关于被害人心理状态的描述属主观判断\n- 质疑部分证言与犯罪构成要件的关联性\n- 指出传闻证据不应作为定罪依据\n- 对未出示的心理评估报告提出质疑\n\n4. 公诉人回应辩护人异议：\n- 强调证人证言反映犯罪实际后果\n- 指出心理评估报告的专业性和证明力\n- 主张相关证据与量刑情节直接相关\n\n5. 辩护人未提供新的证据，被告人不申请调取新证据。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元\n\n举证质证阶段总结：\n\n1. 公诉人出示了18项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述）\n- 户籍证明、侦破经过等书证\n- 微信转账记录及截图\n- 微信群截图及传播情况\n- 被害人班主任证明\n- 7名证人证言（证实裸照传播及对被害人影响）\n- 被害人陈述（详细描述被威胁过程）\n- 电子数据鉴定报告（1.32GB涉案数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对部分证人证言提出异议：\n- 认为关于被害人心理状态的描述属主观判断\n- 质疑部分证言与犯罪构成要件的关联性\n- 指出传闻证据不应作为定罪依据\n- 对未出示的心理评估报告提出质疑\n\n4. 公诉人回应辩护人异议：\n- 强调证人证言反映犯罪实际后果\n- 指出心理评估报告的专业性和证明力\n- 主张相关证据与量刑情节直接相关\n\n5. 辩护人未提供新的证据，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人王某甲以公开未成年人裸照相威胁，强行索要2000元，构成敲诈勒索罪\n- 犯罪情节严重：明知被害人未成年，将PS处理过的裸照发布至3个微信群及学校QQ群（总人数788人）\n- 量刑从重情节：针对未成年人犯罪、添加侮辱性文字、造成严重心理伤害\n- 前科劣迹：2013年两次行政拘留\n- 未采取补救措施：收到钱款后未删除照片，收到家属请求后仍不删除\n\n2. 辩护人辩护要点：\n- 坦白情节：到案后如实供述全部犯罪事实\n- 退赔情节：已主动退赔全部违法所得2000元\n- 案件特殊性：因感情纠纷引发，主观恶性较小\n- 前科影响有限：与本次犯罪性质不同且时隔6年\n- 认罪认罚表现：签署认罪认罚具结书\n\n3. 双方争议焦点：\n- 关于坦白情节：公诉人认为系被动坦白，辩护人强调供述完整稳定\n- 关于退赔性质：公诉人指出系侦查阶段后期被动退赔，辩护人主张仍属认罪认罚表现\n- 关于犯罪动机：公诉人认为已超出感情纠纷范畴，辩护人坚持系感情矛盾引发\n- 关于前科影响：公诉人主张表明主观恶性深，辩护人认为前科性质不同且时隔久远\n- 关于补救措施：公诉人强调未采取任何措施阻止照片传播，辩护人指出归案后供述为取证提供线索",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认通过微信认识未成年人被害人安某\n- 被告人供述因被害人提出分手而心生报复，以公开裸照相威胁索要2000元\n- 被告人明知被害人未成年，仍将PS处理过的裸照（添加\"聘夫\"文字）发布至3个微信群（总人数788人）及被害人学校QQ群\n- 被告人在被害人转账2000元后未主动删除照片，也未采取补救措施\n- 被告人承认知道照片被转发传播，对被害人造成严重伤害\n\n2. 辩护人讯问：\n- 被告人与被害人交往期间存在小额经济往来\n- 索要2000元系因分手后想补偿交往花费\n- 双方曾交换过其他亲密照片\n\n3. 审判长讯问：\n- 被告人收到被害人家属删除照片请求但未执行\n- 被告人未主动退还2000元\n\n举证质证阶段总结：\n\n1. 公诉人出示了18项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述）\n- 户籍证明、侦破经过等书证\n- 微信转账记录及截图\n- 微信群截图及传播情况\n- 被害人班主任证明\n- 7名证人证言（证实裸照传播及对被害人影响）\n- 被害人陈述（详细描述被威胁过程）\n- 电子数据鉴定报告（1.32GB涉案数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对部分证人证言提出异议：\n- 认为关于被害人心理状态的描述属主观判断\n- 质疑部分证言与犯罪构成要件的关联性\n- 指出传闻证据不应作为定罪依据\n- 对未出示的心理评估报告提出质疑\n\n4. 公诉人回应辩护人异议：\n- 强调证人证言反映犯罪实际后果\n- 指出心理评估报告的专业性和证明力\n- 主张相关证据与量刑情节直接相关\n\n5. 辩护人未提供新的证据，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人王某甲以公开未成年人裸照相威胁，强行索要2000元，构成敲诈勒索罪\n- 犯罪情节严重：明知被害人未成年，将PS处理过的裸照发布至3个微信群及学校QQ群（总人数788人）\n- 量刑从重情节：针对未成年人犯罪、添加侮辱性文字、造成严重心理伤害\n- 前科劣迹：2013年两次行政拘留\n- 未采取补救措施：收到钱款后未删除照片，收到家属请求后仍不删除\n\n2. 辩护人辩护要点：\n- 坦白情节：到案后如实供述全部犯罪事实\n- 退赔情节：已主动退赔全部违法所得2000元\n- 案件特殊性：因感情纠纷引发，主观恶性较小\n- 前科影响有限：与本次犯罪性质不同且时隔6年\n- 认罪认罚表现：签署认罪认罚具结书\n\n3. 双方争议焦点：\n- 关于坦白情节：公诉人认为系被动坦白，辩护人强调供述完整稳定\n- 关于退赔性质：公诉人指出系侦查阶段后期被动退赔，辩护人主张仍属认罪认罚表现\n- 关于犯罪动机：公诉人认为已超出感情纠纷范畴，辩护人坚持系感情矛盾引发\n- 关于前科影响：公诉人主张表明主观恶性深，辩护人认为前科性质不同且时隔久远\n- 关于补救措施：公诉人强调未采取任何措施阻止照片传播，辩护人指出归案后供述为取证提供线索",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 3000.0,
+    "reprieve": 0.0
+  }
+]

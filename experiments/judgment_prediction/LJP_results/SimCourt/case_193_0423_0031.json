@@ -1,0 +1,1845 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人贺某，于XXXX年X月X日出生，女，汉族，文化程度XXX，户籍XXXXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "杭州市上城区人民检察院  \n起 诉 书  \n\n杭上检公诉刑诉〔2018〕27号  \n\n被告人贺某，女，XXXX年X月X日出生，汉族，文化程度XXX，户籍XXXXX。因涉嫌合同诈骗罪，于2016年12月28日被杭州市公安局滨江分局抓获，同日被刑事拘留，现羁押于杭州市看守所。  \n\n本案由杭州市公安局滨江分局侦查终结，以被告人贺某涉嫌合同诈骗罪，于20xx年x月x日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2014年3月，谢某（另案处理）注册成立杭州客易电子商务有限公司（以下简称客易公司），以公司名义从事淘宝代运营诈骗活动。公司内设推广部、招商部、客服部，分工实施诈骗行为。推广部发布代运营加盟广告吸引客户咨询；招商部通过虚假销量图、返还加盟费图及话术渲染加盟前景，谎称公司具备优质货源和客服支持能力，诱导客户签订《网络销售代销商协议书》并支付加盟费；客服部仅提供网店注册、装修等简单服务。2014年4月至2015年6月，被告人贺某作为招商部业务员，参与骗取被害人杨某等人加盟费共计人民币222740元，个人非法获利58163元。  \n\n认定上述事实的证据如下：  \n\n1. 被害人陈某、金某、张某甲、李某甲、李某乙、钟某、张某乙等人的陈述及自述材料，证实受骗经过；  \n2. 书证：《网络销售代销商协议书》、收据、转账记录，证实合同签订及款项支付；  \n3. 证人谢某、刘某、方某、吴某、易某的证言，证实公司运营模式及诈骗手段；  \n4. 银行账户交易明细、业绩表、工资发放统计光盘，证实贺某涉案金额及获利情况；  \n5. 电子证物检查笔录，证实公司虚假宣传资料；  \n6. 归案经过、户籍证明、缴款票据，证实被告人到案情况及退赃事实；  \n7. 被告人贺某的供述和辩解，对犯罪事实供认不讳。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人贺某伙同他人，以非法占有为目的，在无实际履行能力的情况下骗取财物，数额巨大，其行为触犯《中华人民共和国刑法》第二百二十四条第一款第（三）项、第二十五条第一款，犯罪事实清楚，证据确实、充分，应当以合同诈骗罪追究其刑事责任。被告人贺某在共同犯罪中起次要作用，系从犯，依法应当减轻处罚；自愿认罪并退缴违法所得，可酌情从轻处罚。根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，建议判处被告人贺某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n杭州市上城区人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的基本事实没有异议，但想说明我是按照公司安排工作，没有参与诈骗模式的设计。我已经全额退缴了违法所得，愿意认罪悔改。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人贺某，你在客易公司招商部工作期间，是否明知公司并无实际履行合同的能力，仍使用虚假销量图和返还加盟费图诱导客户签订合同？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时是按照公司提供的话术和资料与客户沟通，没有主动核实过公司是否具备履行能力。公司培训时告诉我们这些都是真实的营销手段。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人贺某，你在与被害人签订《网络销售代销商协议书》时，是否向客户如实告知公司实际能够提供的服务内容？具体隐瞒了哪些关键事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有如实告知客户公司实际能提供的服务内容。公司培训时要求我们重点展示成功案例和收益前景，但没有告知客户我们只能提供网店注册和装修等基础服务，无法兑现承诺的优质货源和客服支持。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人贺某，你在客易公司招商部工作期间，是否接受过公司提供的专门话术培训？这些培训内容是否包含如何夸大公司实力、隐瞒真实情况等欺诈性内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，公司提供过专门的话术培训。培训内容确实包括如何展示虚假销量图、夸大公司实力，以及回避客户关于实际服务能力的询问。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人贺某，你在客易公司工作期间，是否直接参与过与被害人签订《网络销售代销商协议书》的具体过程？请说明你在合同签订环节的具体行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我参与了合同签订过程。具体工作是使用公司提供的话术和资料向客户介绍加盟方案，展示虚假销量图，说服客户签订协议并支付加盟费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人贺某，你在招商部工作时，公司是否提供过真实的货源和客服支持能力证明？你是否主动核实过这些承诺的真实性？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有提供过真实的货源和客服支持能力证明。我按照公司要求工作，没有主动核实过这些承诺的真实性。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与客户沟通时使用的\"话术\"是由谁制定的？是否接受过相关培训？培训内容是否包含如何规避法律风险？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "话术是由公司管理层统一制定的。我们接受过专门培训，但培训内容主要是销售技巧，没有明确提到如何规避法律风险。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你个人获得的58163元提成是如何计算的？是否清楚这些提成来源于被害人的加盟费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "提成是按照业绩比例计算的，我知道这些钱来自客户的加盟费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在工作期间是否收到过客户投诉？公司对这些投诉是如何处理的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "工作期间收到过客户投诉，公司要求我们转给客服部处理，客服部通常以各种理由推脱或拖延。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是什么时候意识到公司的经营模式可能涉嫌违法的？发现后为何没有立即停止工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是在2015年公司被投诉越来越多的时候才意识到可能违法。当时没有立即停止工作是因为文化程度不高，法律意识淡薄，而且公司解释说这些都是正常经营纠纷。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你退缴的违法所得58163元是如何筹集的？是否有能力对被害人进行进一步赔偿？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这58163元是我工作期间的积蓄。目前我没有能力对被害人进行进一步赔偿。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就被告人的主观认知、工作细节、获利情况等关键问题进行了充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2015年6月公司停止运营后，是否继续从事过类似工作？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有，2015年6月公司停止运营后我就没有再从事过类似工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在公司工作期间，是否知道公司实际能够提供的服务与向客户承诺的服务之间存在重大差异？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道公司实际提供的服务和承诺有差异，但当时认为这是正常的营销手段。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在公司工作期间，是否知道公司实际诈骗的总金额？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道公司实际诈骗的总金额。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在公司工作期间，是否曾向公司管理层反映过客户投诉问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向公司管理层反映过客户投诉问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在公司工作期间，是否知道其他业务员也使用相同的话术和虚假资料与客户沟通？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道其他业务员也都使用公司统一提供的话术和资料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2014年4月，我入职杭州客易电子商务有限公司，担任招商部业务员。公司由谢某成立，内设推广部、招商部、客服部。推广部发布淘宝代运营加盟广告吸引客户咨询，招商部通过虚假销量图、返还加盟费图及话术诱导客户签订《网络销售代销商协议书》，骗取加盟费。客服部仅提供注册网店、店铺装修等基础服务。2014年4月至2015年6月，我参与骗取客户加盟费共计222740元，个人获利58163元。2016年12月28日，我在杭州滨江区果速送公司被公安机关抓获。  \n\n（2）犯案动机  \n公司承诺提供优质货源、客服支持等虚假服务，实际无履行能力。我按照公司提供的“话术”与客户沟通，未主动核实公司承诺的真实性，目的是完成业绩并获取提成。  \n\n（3）案发之后的处理  \n我被抓获后未自首。在法院审理期间退缴个人违法所得58163元。未提及与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述虽然真实，但仅能证明其参与公司业务活动的事实，不能直接证明其主观上具有诈骗故意。该供述中明确提到\"按照公司提供的'话术'与客户沟通\"，表明其行为系执行公司指令，而非自主实施诈骗行为。且该证据未体现被告人对公司经营模式违法性的明知程度，与公诉人指控的诈骗罪主观要件关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人供述中明确承认明知公司无实际履行能力仍参与诈骗活动，其使用公司提供的虚假话术和材料诱骗客户签订合同，具有明显的非法占有目的。被告人对诈骗手段和获利情况的详细供述，与被害人陈述相互印证，足以证明其主观故意。执行公司指令不能成为免责事由，共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力和关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.被害人陈述：被害人陈某陈述：“我与客易公司签订《网络销售代销商协议书》，支付了加盟费，但公司仅提供了简单的网店注册和装修服务，未兑现承诺的优质货源和客服支持，导致我的网店无法运营。”经公安机关核实，陈某的陈述与其提供的聊天记录、转账凭证相符，且与其他被害人证言相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人陈述仅能证明公司未完全履行合同义务的事实，但无法直接证明被告人主观上具有诈骗故意。该证据与被告人个人行为及主观状态缺乏直接关联性，且未区分不同业务员的具体行为差异，不能作为认定被告人构成诈骗罪的充分依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈某的陈述与被告人供述中关于公司未提供承诺服务的细节完全吻合，且被告人明确承认其明知公司无实际履行能力仍参与诈骗活动。该证据与被告人供述、公司内部资料形成完整证据链，足以证明被告人主观上具有诈骗故意。共同犯罪中各参与人的行为均对犯罪结果具有因果关系，被告人不能以其仅执行公司指令为由免除责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力和关联性充分发表意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.被害人陈述：被害人金某陈述：“贺某向我展示了虚假的销量图和返还加盟费图，诱导我支付加盟费，但后续服务完全不符合承诺，我的网店几乎没有订单。”经公安机关调查，金某提供的截图与公司内部虚假宣传资料一致，其陈述属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人金某的陈述仅能证明公司存在虚假宣传行为，但无法证明被告人贺某个人具有诈骗故意。该证据未区分公司整体行为与被告人个人行为之间的界限，且未提供证据证明贺某明知宣传材料虚假仍故意使用。作为普通业务员，贺某对公司宣传材料的真实性缺乏专业判断能力，该证据与指控贺某个人构成诈骗罪的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人金某的陈述与被告人贺某在侦查阶段的供述相互印证，贺某明确承认其使用公司提供的虚假销量图和返还加盟费图诱导客户签订合同。作为招商部业务员，贺某直接参与实施诈骗行为，其对公司宣传材料虚假性具有明确认知，该证据与被告人主观故意具有直接关联性。共同犯罪中，各参与人的行为均对犯罪结果具有因果关系，贺某不能以其仅执行公司指令为由免除责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力和关联性充分发表意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.被害人陈述：被害人张某甲陈述：“客易公司承诺提供全方位服务并返还加盟费，但实际只提供了基础服务，且货源经常缺货，客服响应极慢。”经核实，张某甲的投诉记录与公司客服日志记载内容一致，其陈述可信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人张某甲的陈述仅反映公司整体履约情况，未能证明被告人贺某个人在具体交易中的行为及主观状态。该证据与指控贺某个人构成诈骗罪的关联性不足，无法直接证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人张某甲的陈述与公司内部客服日志、被告人供述相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接参与实施诈骗活动，其行为与公司整体诈骗结果具有直接因果关系。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任，该证据与被告人主观故意及客观行为具有充分关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力和关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.被害人陈述：被害人李某甲陈述：“我支付加盟费后，客易公司仅帮我注册了网店，后续推广和货源支持均为虚假承诺，网店无法盈利。”公安机关调取其网店后台数据证实经营异常，陈述属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人李某甲的陈述仅反映公司整体履约情况，未能证明被告人贺某个人在具体交易中的行为及主观状态。该证据与指控贺某个人构成诈骗罪的关联性不足，无法直接证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人李某甲的陈述与公司后台数据、被告人供述相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接参与实施诈骗活动，其行为与公司整体诈骗结果具有直接因果关系。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任，该证据与被告人主观故意及客观行为具有充分关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力和关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：被害人李某乙陈述：“贺某用话术渲染加盟前景，但公司实际无货源和客服储备，我的网店很快倒闭。”经查证，公司仓库租赁合同及员工名单证实无实际运营能力，陈述可信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人李某乙的陈述仅能证明公司整体运营情况，未能直接证明被告人贺某个人在具体交易中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人李某乙的陈述与公司仓库租赁合同、员工名单等书证相互印证，证实公司无实际履行能力。被告人贺某作为招商部业务员，使用公司提供的话术诱导客户签订合同，其主观上明知公司无履行能力仍实施诈骗行为。该证据与被告人供述及其他被害人证言形成完整证据链，足以证明贺某的诈骗故意和行为。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.被害人陈述：被害人钟某陈述：“客易公司以升级套餐为名骗取我额外费用，但升级后服务仍无改善，刷单制造的销量假象很快被平台发现。”平台违规记录与钟某提供的付款凭证相互印证，陈述属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人钟某的陈述仅反映公司整体运营情况，未能证明被告人贺某个人在具体交易中的行为及主观状态。该证据与指控贺某个人构成诈骗罪的关联性不足，无法直接证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人钟某的陈述与平台违规记录、付款凭证相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接参与实施诈骗活动，其行为与公司整体诈骗结果具有直接因果关系。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任，该证据与被告人主观故意及客观行为具有充分关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.被害人陈述：被害人张某乙陈述：“我加盟后发现公司提供的服务与承诺严重不符，投诉后被敷衍处理，加盟费无法追回。”其投诉录音与公司内部处理流程记录相符，陈述真实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人张某乙的陈述仅反映公司整体处理投诉的情况，未能证明被告人贺某个人在具体交易中的行为及主观状态。该证据与指控贺某个人构成诈骗罪的关联性不足，无法直接证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人张某乙的陈述与公司内部处理流程记录相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接参与实施诈骗活动，其行为与公司整体诈骗结果具有直接因果关系。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任，该证据与被告人主观故意及客观行为具有充分关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：《网络销售代销商协议书》、收据、转账记录，证明被害人与客易公司签订合同并支付加盟费的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组书证仅能证明被害人与公司之间存在合同关系及资金往来，无法直接证明被告人贺某个人在具体交易中的主观故意和行为方式。作为公司普通业务员，贺某并非合同签订主体，该证据与指控贺某个人构成诈骗罪的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组书证与被告人供述、被害人陈述相互印证，证实被告人贺某作为招商部业务员直接参与合同签订过程，使用公司提供的虚假话术和材料诱骗客户签订合同并支付款项。共同犯罪中各参与人的行为均对犯罪结果具有因果关系，贺某不能以其非合同签订主体为由免除责任。该证据与被告人主观故意及客观行为具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人谢某证言：“客易公司是我与刘某开设，盈利主要来自加盟费，公司无实际货源，仅少数客户获得返还加盟费。”经公安机关讯问核实，谢某的证言与公司账目、被害人陈述一致。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人谢某的证言仅能证明公司整体经营模式，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人谢某的证言与公司账目、被害人陈述相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接参与实施诈骗活动，其主观上明知公司无实际履行能力仍使用公司提供的话术诱导客户签订合同。该证据与被告人供述及其他证据形成完整证据链，足以证明贺某的诈骗故意和行为。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人刘某证言：“公司官网销量数据虚假，刷钻服务无法兑现，90%客户因服务不到位停止经营，加盟费转为公司纯收益。”其证言经与网站后台数据比对，内容属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人刘某的证言仅反映公司整体运营情况，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人刘某的证言与网站后台数据、被害人陈述相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接参与实施诈骗活动，其主观上明知公司数据虚假仍使用公司提供的话术诱导客户签订合同。该证据与被告人供述及其他证据形成完整证据链，足以证明贺某的诈骗故意和行为。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人方某证言：“公司业务部提成比例按业绩分级，谢某负责发放工资，公司无仓库和稳定货源，客户订单极少。”经核实工资表及提成制度文件，证言可信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人方某的证言仅反映公司整体运营和薪酬制度，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人方某的证言与公司工资表、提成制度文件相互印证，证实公司以诈骗手段获取加盟费作为主要盈利来源。被告人贺某作为招商部业务员，按照公司提成制度直接参与诈骗活动并获取非法利益，其主观上明知公司无实际履行能力仍实施诈骗行为。该证据与被告人供述及其他证据形成完整证据链，足以证明贺某的诈骗故意和行为。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人吴某证言：“公司销售提成最低13%，最高25%，且从未制定退加盟费流程。”该证言与公司财务制度文件相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人吴某的证言仅反映公司薪酬制度，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人吴某的证言与公司财务制度文件相互印证，证实公司以高额提成激励员工实施诈骗行为。被告人贺某作为招商部业务员，按照该提成制度直接参与诈骗活动并获取非法利益，其主观上明知公司无实际履行能力仍实施诈骗行为。该证据与被告人供述及其他证据形成完整证据链，足以证明贺某的诈骗故意和行为。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人易某证言：“客易公司提成制度鼓励业务员夸大承诺，实际无法履行合同义务。”经查证培训录音资料，证言属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人易某的证言仅反映公司整体培训制度，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人易某的证言与培训录音资料相互印证，证实公司通过制度性安排鼓励员工实施诈骗行为。被告人贺某作为招商部业务员，接受公司培训后直接参与诈骗活动，其主观上明知公司承诺无法兑现仍实施诈骗行为。该证据与被告人供述及其他证据形成完整证据链，足以证明贺某的诈骗故意和行为。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：银行账户交易明细、业绩表、工资发放统计光盘，证明贺某参与骗取加盟费222740元，个人获利58163元。经司法会计鉴定，证据来源合法。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组书证仅能证明被告人的业绩和收入情况，无法直接证明其主观上具有诈骗故意。业绩表与工资发放统计仅反映公司内部管理情况，与指控的诈骗罪构成要件缺乏直接关联性。作为普通业务员，被告人的业绩和收入情况不能等同于其主观故意和行为性质。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组书证与被告人供述、被害人陈述相互印证，证实被告人贺某通过实施诈骗行为获取非法利益。银行交易明细直接反映被告人从诈骗活动中获取提成的具体金额，业绩表显示其参与诈骗的具体业务量，工资发放统计证实其非法获利与诈骗行为的直接关联性。这些证据与被告人主观故意及客观行为具有充分关联性，共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：协助查询财产通知书，证明公安机关对涉案资金流向的调查情况。该通知书由公安机关依法出具，程序合法。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该协助查询财产通知书仅反映公安机关对资金流向的调查情况，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。该证据与指控贺某个人构成诈骗罪的关联性不足，无法单独证明贺某具有诈骗故意或实施了具体诈骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该协助查询财产通知书与银行账户交易明细相互印证，证实被告人贺某通过实施诈骗行为获取非法利益的具体金额和流向。该证据与被告人供述、被害人陈述形成完整证据链，证实被告人参与诈骗活动并从中获利的事实。共同犯罪中各参与人均应对整体犯罪结果承担刑事责任，该证据与被告人主观故意及客观行为具有充分关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：归案经过，证明贺某于2016年12月28日在杭州滨江区被抓获。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：户籍证明，证明贺某的自然人身份信息。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：缴款票据，证明贺某退缴违法所得58163元。经法院财务部门确认，票据合法有效。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.电子数据：电子证物检查笔录，证明公安机关对谢某、方某的电脑硬盘及U盘提取的电子证据，包含虚假宣传资料及业绩数据。该笔录由具有资质的鉴定机构依法制作",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该电子证物检查笔录仅能证明公司存在虚假宣传资料及业绩数据，未能直接证明被告人贺某个人在具体业务中的主观故意和行为方式。作为普通业务员，贺某对公司宣传资料的真实性缺乏专业判断能力，该证据与指控贺某个人构成诈骗罪的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该电子证物检查笔录与被告人供述、被害人陈述相互印证，证实公司存在系统性诈骗行为。被告人贺某作为招商部业务员，直接使用公司提供的虚假宣传资料实施诈骗活动，其主观上明知资料虚假仍用于诱导客户签订合同。该证据与被告人主观故意及客观行为具有直接关联性，共同犯罪中各参与人均应对整体犯罪结果承担刑事责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就电子证据的关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表以下辩论意见：\n\n第一，关于犯罪事实认定。本案证据确实充分，形成完整证据链条。8名被害人的陈述与公司内部资料、银行流水等书证相互印证，证实贺某参与诈骗222740元的事实。电子数据经合法提取鉴定，与被告人供述高度吻合。\n\n第二，关于主观故意。根据《刑法》第224条规定，贺某明知公司无实际履行能力，仍参与实施诈骗活动，具有明显的非法占有目的。其行为完全符合合同诈骗罪的构成要件。\n\n第三，关于社会危害性。贺某的行为不仅侵犯被害人财产权，还严重扰乱电商行业市场秩序，社会影响恶劣，应当从重处罚。\n\n第四，关于责任认定。贺某作为共同犯罪参与人，应当对整体犯罪结果承担刑事责任。其在侦查阶段的稳定供述与在案证据相互印证，足以认定其犯罪事实。\n\n综上，建议法庭依法认定贺某犯合同诈骗罪，并判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表以下辩护意见：\n\n第一，关于犯罪金额认定。公诉机关指控的22万余元系公司整体涉案金额，现有证据无法证明贺某个人直接参与全部诈骗行为。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第七条，应当区分主从犯责任。\n\n第二，关于主观恶性。贺某仅为普通业务员，按照公司统一话术开展工作，未参与诈骗模式设计，其主观恶性明显小于公司管理层。根据《刑法》第二十七条，应当认定为从犯。\n\n第三，关于量刑情节。贺某到案后如实供述犯罪事实，认罪态度良好，且已全额退缴个人所得。根据《刑法》第六十七条第三款，可以从轻处罚。\n\n第四，关于社会危害性。贺某系初犯，文化程度较低，受公司管理制度误导实施犯罪，其个人行为的社会危害性相对有限。\n\n综上，恳请法庭充分考虑贺某的从犯地位、认罪悔罪态度及退赃情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "第一，关于犯罪金额认定。根据《刑法》第二十五条，共同犯罪中各行为人应对共同故意范围内的全部犯罪结果负责。贺某作为公司业务员，明知公司无实际履行能力仍参与实施诈骗，应当对参与期间公司整体诈骗金额承担刑事责任。\n\n第二，关于主从犯认定。贺某虽未参与诈骗模式设计，但其直接实施诈骗行为，积极促成犯罪结果发生，在共同犯罪中起主要作用。根据《刑法》第二十六条，不应认定为从犯。\n\n第三，关于量刑情节。贺某虽认罪态度较好，但本案诈骗金额特别巨大，社会影响恶劣。根据《最高人民法院关于常见犯罪的量刑指导意见》，合同诈骗数额在20万元以上的，基准刑为三年以上十年以下有期徒刑。\n\n第四，关于社会危害性。贺某作为完全刑事责任能力人，应当认识到其行为的违法性。其参与实施的诈骗行为已造成8名被害人重大经济损失，社会危害性不容低估。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "第一，关于共同犯罪责任。根据《刑法》第二十七条，在共同犯罪中起次要或者辅助作用的，是从犯。贺某仅按照公司既定话术执行工作，未参与诈骗模式设计，也未参与分赃决策，其作用明显小于公司管理层，应当认定为从犯。\n\n第二，关于电子证据问题。公诉人提供的电子证据检查笔录未说明提取过程的完整性和真实性，根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十三条，电子数据应当着重审查其真实性。现有证据不能排除被篡改的可能性。\n\n第三，关于被害人陈述。8名被害人的陈述存在高度同质化，未能体现个案差异性，可能夸大了实际损失。根据《刑事诉讼法》第五十五条，只有被告人供述，没有其他证据的，不能认定被告人有罪和处以刑罚。\n\n第四，关于量刑情节。贺某已全额退缴个人违法所得，悔罪态度明显。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于退赃、退赔的，应当综合考虑犯罪性质等情况予以从宽。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "第一，关于电子证据合法性。公安机关依法提取的电子数据已通过《电子数据提取笔录》完整记录提取过程，并由技术人员签名确认。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十四条，经法定程序收集的电子数据应当作为定案依据。辩护人提出的篡改可能性纯属主观臆测，无事实依据。\n\n第二，关于被害人陈述。8名被害人分别独立陈述被骗经过，其陈述与公司内部业务台账、银行转账记录等客观证据相互印证，形成完整证据链条。根据《刑事诉讼法》第五十五条，证据确实、充分的，可以认定被告人有罪，本案完全符合该证明标准。\n\n第三，关于从犯认定。贺某虽未参与诈骗模式设计，但其直接实施诈骗行为，积极促成犯罪结果发生，在共同犯罪中起主要作用。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第七条，共同诈骗犯罪中各行为人应对其参与期间的全部诈骗数额负责。\n\n第四，关于退赃情节。贺某仅退缴个人违法所得，未对被害人全部损失进行退赔，其悔罪表现有限。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于未全额退赔的，从宽幅度应当从严掌握。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "第一，关于电子证据真实性问题。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十三条第三款，电子数据的收集、提取过程应当有录像记录。公诉人未能提供提取过程的同步录像，无法证明电子数据的原始性。\n\n第二，关于被害人损失认定。8名被害人的陈述在关键细节上高度一致，不符合正常记忆规律。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，对被害人陈述应当结合其他证据审查其真实性。\n\n第三，关于从犯认定标准。贺某仅领取固定工资，未参与利润分配，其获利与诈骗金额无直接关联。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第七条第二款，应当根据行为人在共同犯罪中的实际作用认定主从犯。\n\n第四，关于退赃情节。贺某已将个人全部违法所得退缴，其个人收入远低于公司整体诈骗金额。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，对于积极退赃的，应当依法从宽处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我深刻认识到自己的错误，愿意认罪悔罪。我在公司工作期间确实参与了诈骗活动，但只是按照公司要求执行工作，没有参与诈骗模式的设计。我已经全额退缴了违法所得58163元，愿意接受法律制裁。我文化程度不高，是初犯，当时被公司管理制度误导才实施了犯罪。恳请法庭能从轻处罚，我保证今后一定遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "杭州市上城区人民法院\n刑事判决书\n（2018）杭上刑初字第27号\n\n公诉机关杭州市上城区人民检察院。\n被告人贺某，女，XXXX年X月X日出生，汉族，文化程度XXX，户籍XXXXX。因涉嫌合同诈骗罪，于2016年12月28日被刑事拘留，现取保候审。\n辩护人XXX，XXX律师事务所律师。\n\n杭州市上城区人民检察院于20xx年x月x日以被告人贺某犯合同诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。杭州市上城区人民检察院检察员XXX出庭支持公诉，被告人贺某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n杭州市上城区人民检察院指控：2014年3月至2015年6月，被告人贺某作为杭州客易电子商务有限公司招商部业务员，伙同他人以虚假宣传手段骗取被害人加盟费共计222740元，个人非法获利58163元，其行为构成合同诈骗罪。被告人贺某对指控的基本事实无异议，但辩称其系按公司安排工作，主观恶性较小。辩护人提出贺某系从犯，具有认罪悔罪、全额退赃等从轻情节。\n\n经审理查明：2014年4月至2015年6月，被告人贺某在明知公司无实际履行能力的情况下，使用虚假销量图等宣传资料，诱导被害人签订《网络销售代销商协议书》并支付加盟费，参与骗取8名被害人共计222740元，个人获利58163元。案发后，贺某已全额退缴违法所得。上述事实有被告人供述、被害人陈述、证人证言、书证、电子数据等证据证实，证据间相互印证，形成完整证据链。\n\n本院认为，被告人贺某以非法占有为目的，在签订、履行合同过程中骗取他人财物，数额巨大，其行为已构成合同诈骗罪。公诉机关指控罪名成立。贺某在共同犯罪中起次要作用，系从犯，依法应当减轻处罚；其自愿认罪并退缴全部违法所得，可酌情从轻处罚。辩护人相关辩护意见予以采纳。依照《中华人民共和国刑法》第二百二十四条第一款第（三）项、第二十五条第一款、第二十七条、第七十二条、第七十三条第二款、第三款、第六十四条之规定，判决如下：\n\n一、被告人贺某犯合同诈骗罪，判处有期徒刑二年，缓刑三年，并处罚金人民币三万元；\n二、被告人贺某退缴的违法所得人民币五万八千一百六十三元依法予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向杭州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\nXXXX年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人贺某是否构成合同诈骗罪。需要查明其主观上是否具有非法占有目的，客观上是否实施了虚构事实、隐瞒真相的行为，以及行为与被害人损失之间是否存在直接因果关系。\n\n2.被告人贺某在共同犯罪中的地位和作用。需要查明其是否系从犯，包括是否参与预谋、是否实施主要犯罪行为、在犯罪过程中的具体分工和作用等。\n\n3.被告人贺某的量刑情节。需要查明其是否具有从轻或减轻处罚的情节，包括是否主动退缴违法所得、是否认罪认罚、是否取得被害人谅解等。\n\n4.涉案金额的认定。需要查明被告人贺某参与骗取的具体金额及个人获利情况，包括银行账户交易明细、业绩表等证据的合法性和证明力。\n\n5.被害人陈述的真实性。需要查明被害人陈述是否与其他证据相互印证，是否存在夸大或失实的情况。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中从犯的认定标准是什么？",
+              "在合同诈骗案件中，退缴违法所得对量刑的影响如何？"
+            ],
+            "合同诈骗罪中从犯的认定标准是什么？": "### 结论\n合同诈骗罪中从犯的认定标准主要基于行为人在共同犯罪中的作用和地位，包括但不限于是否起次要或辅助作用，是否参与预谋，是否实际实施主要犯罪行为，以及在犯罪过程中的具体分工和作用。即使幕后主犯未到案，也可以根据现有证据认定从犯。证明主犯的证据不足时，应从轻认定被告人为从犯，遵循存疑时有利于被告人的原则。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采用虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的认定，即在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用**：如果行为人在共同犯罪中起次要或辅助作用，应认定为从犯。例如，【（2018）苏0722刑初296号】中，被告鲍鲸鲸、沈男在共同犯罪中起次要作用，被认定为从犯。\n- **是否参与预谋和实施主要犯罪行为**：未参与预谋，仅在犯罪过程中起辅助作用的，可以认定为从犯。例如，【（2017）浙1004刑初57号】中，被告人徐杰被辩称为只是帮阮某1打工，但法院认为其参与了预谋和实施，未认定为从犯。\n- **犯罪过程中的具体分工和作用**：在共同犯罪中，根据各自分工和作用的不同，可以区分主从犯。例如，【（2020）粤0303刑初64号】中，被告人曾相元、郭运启各自分工，积极实施犯罪行为，均被认定为主犯。\n- **证明主犯的证据不足时的处理原则**：如果现有证据不能认定被告人系主犯，或者认定其为主犯的证据证明力不足，应从轻认定被告人为从犯。例如，【（2014）张刑终字第13号】中，因证据不足，未认定被告人朱某卫犯合同诈骗罪。\n\n综上，合同诈骗罪中从犯的认定需综合考虑行为人在共同犯罪中的作用、是否参与预谋、是否实施主要犯罪行为以及犯罪过程中的具体分工和作用，遵循存疑时有利于被告人的原则，即使主犯未到案，也可以根据现有证据认定从犯。\n\n#####\n类似案件为：\n【（2018）苏0722刑初296号】：法院认为，被告人鲍鲸鲸、沈男以非法占有为目的，无实际履行能力，采用部分履行合同的方法，诱骗对方财物，数额巨大，构成合同诈骗罪。二被告在共同犯罪中分工不同，非从犯。合同诈骗数额按实际骗取的83万元认定。鲍鲸鲸坦白，可从轻处罚；沈男自首，可从轻处罚。被告人鲍鲸鲸犯合同诈骗罪，判处有期徒刑四年六个月，并处罚金十万元；被告人沈男犯合同诈骗罪，判处有期徒刑三年六个月，并处罚金五万元。二被告连带退赔被害单位83万元。\n【（2017）浙1004刑初57号】：法院认为，被告人徐杰以非法占有为目的，结伙在签订、履行合同过程中，利用虚假身份，诱骗对方当事人继续签订、履行合同，骗取财物，数额巨大，其行为已构成合同诈骗罪。公诉机关指控罪名不当，予以纠正。被告人徐杰与阮某1预谋并实施合同诈骗，否认其知晓并具有骗取缝纫机的主观故意，不符合从犯及坦白情节。依照《中华人民共和国刑法》第二百二十四条、第二十五条第一款、第六十四条之规定，判决如下：\n一、被告人徐杰犯合同诈骗罪，判处有期徒刑三年九个月，并处罚金人民币五万五千元。\n二、被告人徐杰于判决生效之日起一个月内退赔29.27万元给诸被害人。\n【（2020）粤0303刑初64号】：法院认为，被告人曾相元、郭运启以非法占有为目的，在签订、履行合同过程中，采取虚构事实、隐瞒真相的手段，骗取对方财物，数额特别巨大，其行为均已构成合同诈骗罪。两被告人在共同犯罪中均起主要作用，系主犯。法院判决被告人曾相元、郭运启犯合同诈骗罪，均判处有期徒刑十年，并处罚金人民币20000元，责令两被告人连带退赔被害人张某2人民币255万元。",
+            "在合同诈骗案件中，退缴违法所得对量刑的影响如何？": "### 结论\n在合同诈骗案件中，退缴违法所得是法院量刑时的重要考量因素，能够显著影响量刑结果。主动退缴全部或部分违法所得的被告人，法院通常会从轻或减轻处罚，甚至在某些情况下适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件和处罚标准。\n- **《中华人民共和国刑法》第六十七条**：规定了自首和坦白的从轻或减轻处罚情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退缴违法所得**：主动退缴全部或部分违法所得的被告人，法院通常会从轻或减轻处罚。例如，【（2019）皖15刑终98号】中，桑宏山归案后主动退缴全部违法所得，法院因此对其从轻处罚，并适用缓刑。【（2020）京0105刑初436号】中，谢中华退缴部分违法所得，法院在量刑时予以从宽处理。【（2020）浙0681刑初392号】中，李志林、郑建宇已退缴违法所得，法院予以从轻从宽处罚并适用缓刑。\n- **自首和坦白**：被告人主动投案并如实供述自己的罪行，系自首，依法从轻或减轻处罚。例如，【（2018）浙0102刑初20号】中，李聪主动投案并如实供述，法院依法从轻处罚。【（2021）鲁0126刑初60号】中，单某某自首并如实供述，法院从轻处罚并适用缓刑。\n- **犯罪情节和主观恶性**：犯罪情节较轻，主观恶性较小的被告人，法院在量刑时会体现刑法的谦抑性，依法判处缓刑。例如，【（2019）皖15刑终98号】中，桑宏山主观恶性较小，犯罪情节较轻，法院依法判处缓刑。\n\n综上，退缴违法所得、自首和坦白、犯罪情节和主观恶性是合同诈骗案件中影响量刑的关键因素。主动退缴违法所得和自首、坦白能够显著减轻处罚，而犯罪情节较轻和主观恶性较小则可能使被告人获得缓刑。\n\n#####\n类似案件为：\n【（2019）皖15刑终98号】：法院生效裁判认为：桑宏山以违规设立的专业合作社，采用提供虚假申报材料、签订虚假合同的方法，骗取30万元中央财政扶持资金，其行为构成诈骗罪，应依法惩处。桑宏山虽然对犯罪性质进行辩解，但供认了主要犯罪事实，且归案后主动退缴全部违法所得，可对其从轻处罚。桑宏山上诉及其辩护人辩护提出不构成犯罪的意见，与审理查明的事实不符，不予采纳。原判认定事实清楚，定罪准确，鉴于桑宏山主观恶性较小，犯罪情节较轻，结合司法行政机关出具的基本具备适用社区矫正条件的评估意见，对其可适用缓刑。安徽省六安市叶集区人民法院于2019年1月16日作出（2018）皖1504刑初52号刑事判决：被告人桑宏山犯诈骗罪，判处有期徒刑四年六个月，并处罚金人民币五万元；对被告人桑宏山已退缴的违法所得人民币三十万元，予以没收，上缴国库。宣判后，桑宏山提出上诉。安徽省六安市中级人民法院于2020年5月9日作出（2019）皖15刑终98号刑事判决：撤销安徽省六安市叶集区人民法院（2018）皖1504刑初52号刑事判决；桑宏山犯诈骗罪，判处有期徒刑三年，缓刑四年，罚金人民币五万元；追缴桑宏山违法所得人民币三十万元。\n【（2020）京0105刑初436号】：法院认为，谢中华伙同他人非法吸收公众存款，扰乱金融秩序，数额巨大，构成非法吸收公众存款罪；以非法占有为目的，在签订、履行合同过程中，骗取他人钱款，数额巨大，构成合同诈骗罪，应数罪并罚。鉴于谢中华在非法吸收公众存款中系从犯，归案后如实供述，自愿认罪认罚，退缴部分违法所得，合同诈骗被害人损失已挽回，对其二罪名均从宽处理。谢中华犯非法吸收公众存款罪，判处有期徒刑二年，罚金十万元；犯合同诈骗罪，判处有期徒刑四年，罚金八万元；决定执行有期徒刑五年，罚金十八万元。继续追缴谢中华违法所得，连同在案钱款，用于退赔投资人经济损失。扣押在案的孙某违法所得，用于执行B公司投资人经济损失。\n法院判决，谢中华犯非法吸收公众存款罪、合同诈骗罪，执行有期徒刑五年，罚金十八万元，继续追缴违法所得及在案钱款用于退赔投资人损失。\n【（2020）浙0681刑初392号】：法院认为，被告人李志林、郑建宇以非法占有为目的，在签订、履行合同中采用虚构事实、隐瞒真相的方法骗取他人财物，数额较大，构成合同诈骗罪。二人系自首，已退缴违法所得，认罪认罚，依法从轻处罚并适用缓刑。法院判决被告人李志林、郑建宇犯合同诈骗罪，判处有期徒刑七个月，缓刑一年，各处罚金人民币一万元，退缴的违法所得各2万元发还被害人。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.证据链完整：被害人陈述、书证、证人证言、电子数据等相互印证，证实贺某参与诈骗222740元，个人获利58163元，符合合同诈骗罪构成要件。2.犯罪事实清楚：贺某作为招商部业务员，明知公司无实际履行能力，仍使用虚假话术诱导被害人签订合同，具有非法占有目的。3.量刑依据充分：根据《刑法》第224条，数额巨大应处三年以上十年以下有期徒刑；鉴于贺某系从犯、认罪退赃，建议减轻处罚并适用缓刑。\n防御策略：1.证据合法性：所有书证、电子数据均由公安机关依法调取，鉴定程序合规。2.被害人陈述一致性：8名被害人分别陈述受骗经过，与公司内部资料高度吻合。3.被告人供述稳定性：贺某在侦查阶段对犯罪事实供认不讳，与证人证言形成补强。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "淘宝代运营诈骗案件的定罪量刑标准",
+              "合同诈骗罪中从犯的认定标准"
+            ],
+            "淘宝代运营诈骗案件的定罪量刑标准": "### 结论\n淘宝代运营诈骗案件的定罪量刑标准主要依据《中华人民共和国刑法》中关于合同诈骗罪的规定，重点考量被告人的犯罪数额、在共同犯罪中的作用、是否如实供述、退赃情况、认罪态度、是否有前科、是否适用缓刑等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的，构成合同诈骗罪。犯罪数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额是定罪量刑的重要依据，数额巨大或特别巨大将直接影响量刑的轻重。例如，【（2018）浙0481刑初752号】中，被告人王俊鹏、陈艳青因涉案价值特别巨大，被认定为数额特别巨大，依法应当从重处罚。\n- **在共同犯罪中的作用**：从犯与主犯在量刑上存在差异，从犯依法应当减轻处罚。如【（2018）浙0102刑初38号】中，各被告人在共同犯罪中起次要作用，系从犯，依法减轻处罚。\n- **是否如实供述**：如实供述自己的罪行，可依法从轻处罚。如【（2017）浙1082刑初888号】中，被告人王康、孙勇辉、祝俊华、杨林荟、况铜、吴俊帅、吴庆庆、包慧兰、吴涵到案后如实供述了自己的罪行，依法予以从轻处罚。\n- **退赃情况**：退赃是酌情从轻处罚的重要因素。如【（2018）浙0481刑初487号】中，被告人谭璐璐、朱婷婷、韩顺昌有退赃情节，可分别酌情从轻处罚。\n- **认罪态度**：自愿认罪，可酌情从轻处罚。如【（2018）浙0421刑初671号】中，被告人杨志彦、竺成龙、段沛涵、蒋成乾、冯艳德、彭兴武、王智龙均有坦白情节，依法从轻处罚。\n- **是否有前科**：有前科的被告人，量刑时会考虑其再犯的可能性。如【（2017）浙1082刑初888号】中，胡新明未退缴违法所得及罚金，存在犯罪前科，不符合缓刑适用条件。\n- **是否适用缓刑**：根据被告人的犯罪情节和悔罪表现，可依法适用缓刑。如【（2017）浙1082刑初888号】中，被告人詹春梅、王康的犯罪情节和悔罪表现，依法对其适用缓刑。\n\n综上，淘宝代运营诈骗案件的定罪量刑标准综合考量了犯罪数额、共同犯罪中的作用、是否如实供述、退赃情况、认罪态度、是否有前科、是否适用缓刑等因素，体现了罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2018）浙0481刑初752号】：法院认为，五被告人在签订、履行合同过程中，以非法占有为目的，骗取对方财物，构成合同诈骗罪。王俊鹏、陈艳青诈骗数额特别巨大，贺锡梁、王林、唐燕诈骗数额巨大。各被告人系从犯，可依法减轻处罚。归案后如实供述并退赃，可从轻处罚。法院判决如下：\n1. 王俊鹏判处有期徒刑三年六个月，并处罚金五万元。\n2. 陈艳青判处有期徒刑三年，并处罚金五万元。\n3. 贺锡梁判处有期徒刑二年，缓刑二年六个月，并处罚金二万元。\n4. 王林判处有期徒刑二年三个月，缓刑二年九个月，并处罚金二万元。\n5. 唐燕判处有期徒刑一年六个月，缓刑二年，并处罚金一万元。\n扣押的作案工具予以没收，由海宁市公安局依法处理。被告退赃发还被害人，被害人其余损失责令继续退赔。\n【（2018）浙0102刑初38号】：法院认为，各被告人伙同他人，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额巨大，其行为构成合同诈骗罪，且系共同犯罪。各被告人在共同犯罪中起次要作用，系从犯，依法减轻处罚。各被告人如实供述自己的罪行，有退赃情节，予以从轻处罚。法院认定各被告人的行为构成合同诈骗罪，属于共同犯罪，且系从犯，依法减轻处罚。各被告人如实供述自己的罪行，有退赃情节，予以从轻处罚。法院判决被告人孙俊旗、高嘉杰、方霞、李杰、邬亚平犯合同诈骗罪，分别判处二年五个月至一年七个月不等的有期徒刑，缓刑，罚金从21000元至11000元不等，追缴违法所得并发还被害人。\n【（2017）浙1082刑初888号】：法院认为，各被告人以非法占有为目的，通过虚假广告招揽客户，并通过签订服务合同形式骗取对方当事人财物，构成合同诈骗罪。詹春梅、王康数额巨大，其他被告人数额较大。各被告人在共同犯罪中为从犯，依法予以减轻、从轻处罚。王康等被告人有坦白情节，予以从轻处罚。各被告人当庭自愿认罪，且已退出部分或全部赃款，酌情从轻处罚。鉴于詹春梅、王康的犯罪情节和悔罪表现，适用缓刑。其他被告人犯罪情节较轻，免予刑事处罚。法院对詹春梅、王康判处有期徒刑缓刑并处罚金，对陈勇判处有期徒刑并处罚金，对孙勇辉判处拘役并处罚金，对陈梦婷、郑琦、祝俊华、杨林荟、况铜、吴俊帅、吴庆庆、包慧兰、吴涵免予刑事处罚，对已退出的赃款予以追缴，继续追缴未退出的赃款，按比例返还给各被害人，扣押的作案工具予以没收。",
+            "合同诈骗罪中从犯的认定标准": "### 结论\n在合同诈骗罪中，从犯的认定主要依据行为人在共同犯罪中的地位、作用和参与程度。从犯是指在共同犯罪中起次要作用或辅助作用的犯罪分子。认定从犯时，法院会综合考虑行为人是否参与预谋、实施犯罪的具体行为、在犯罪中的分工、是否控制或管理犯罪所得、以及是否积极实施诈骗行为等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的定义和处罚原则，即在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的地位和作用**：如果行为人在共同犯罪中起次要作用，如仅参与了部分环节，未控制犯罪所得，或仅执行他人指令，可以认定为从犯。例如，【（2017）沪0106刑初562号】中，部分被告人在共同犯罪中起次要作用，系从犯，依法应当分别予以从轻或者减轻处罚。\n- **是否参与预谋和实施犯罪**：未参与预谋，仅在犯罪过程中被临时拉入，且未实施关键犯罪行为的，可能被认定为从犯。例如，【（2017）浙1082刑初944号】中，各被告人在共同犯罪中均起次要作用，系从犯，依法予以减轻处罚。\n- **是否控制或管理犯罪所得**：未控制或管理犯罪所得，仅参与实施犯罪行为的，可能被认定为从犯。例如，【（2018）苏0102刑初724号】中，被告人唐某在合同诈骗共同犯罪中，预谋犯罪并全程参与实施诈骗行为，并非起次要或辅助作用，不应认定为从犯。\n- **是否积极实施诈骗行为**：仅在他人主导下被动参与，未积极实施诈骗行为的，可能被认定为从犯。例如，【（2017）浙1082刑初944号】中，各被告人在共同犯罪中均起次要作用，系从犯，依法予以减轻处罚。\n\n综上，合同诈骗罪中从犯的认定需综合考虑行为人在共同犯罪中的地位、作用、参与程度以及是否控制犯罪所得等因素。法院在认定从犯时，会根据行为人在犯罪中的具体表现，判断其是否起次要或辅助作用，从而决定是否适用从轻、减轻处罚或免除处罚的规定。\n\n#####\n类似案件为：\n【（2017）沪0106刑初562号】：法院认为，被告人的行为构成合同诈骗罪，陈佳明等被告人参与诈骗数额特别巨大或巨大，但在共同犯罪中起次要作用，系从犯，且如实供述罪行，应从轻或减轻处罚。许泽晖、张锦峰、苗某某部分退赔，可酌情从轻处罚。苗某某可适用缓刑。法院对陈佳明、朱小亮、马开财、许泽晖、张自彪、梅亚威、胡亚超、刘含浪分别判处六年六个月至四年六个月不等有期徒刑，并处十三万至九万不等罚金；对张锦峰、刘5、苗某某分别判处三年六个月至三年不等有期徒刑，并处七万至六万不等罚金，其中苗某某适用缓刑。责令退赔违法所得，发还各被害人；缴获的犯罪工具予以没收。\n【（2017）浙1082刑初944号】：法院认为，各被告人与人结伙，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，构成合同诈骗罪。其中，潘孝炜数额特别巨大，倪明琴、金荣健数额巨大，符恩俊、王俊亚、谢华静、汪丽美、张静数额较大。各被告人在共同犯罪中起次要作用，系从犯，潘孝炜、张静具有坦白情节，依法予以减轻或从轻处罚。法院判决：\n1. 被告人潘孝炜犯合同诈骗罪，判处有期徒刑三年，并处罚金人民币三万元。\n2. 被告人金荣健犯合同诈骗罪，判处有期徒刑一年四个月，缓刑二年，并处罚金人民币一万三千元。\n3. 被告人倪明琴犯合同诈骗罪，判处有期徒刑一年一个月，缓刑二年，并处罚金人民币一万二千元。\n4. 被告人符恩俊、王俊亚、谢华静、汪丽美、张静犯合同诈骗罪，免予刑事处罚。\n5. 各被告人退出的违法所得予以追缴，退赔被害人。\n6. 随案移送的作案工具电脑、手机予以没收。\n7. 被告人潘孝炜的违法所得予以追缴，退赔被害人。\n8. 各被告人继续退赔被害人的经济损失。\n【（2018）苏0102刑初724号】：法院认为，三被告人以非法占有为目的，合同诈骗数额较大，构成合同诈骗罪；翟某、唐某诈骗金融机构贷款，数额较大，构成贷款诈骗罪。翟某在贷款诈骗中为主犯，唐某为从犯，翟某为累犯，唐某、刘某有退赔、自首等情节。被告人翟某犯合同诈骗罪，判处有期徒刑十一个月，罚金三万元；犯贷款诈骗罪，判处有期徒刑一年，罚金四万元；决定执行有期徒刑一年六个月，罚金七万元。被告人唐某犯合同诈骗罪，判处有期徒刑十个月，罚金二万元；犯贷款诈骗罪，判处有期徒刑六个月，罚金二万元；决定执行有期徒刑一年，罚金四万元。被告人刘某犯合同诈骗罪，判处有期徒刑九个月，罚金二万元。责令被告人继续退赔被害单位经济损失。"
+          }
+        },
+        "目标": "请求法院判处被告人贺某犯合同诈骗罪，处有期徒刑三年，缓刑四年，并处罚金人民币五万元",
+        "询问": "1. 被告人贺某，你在客易公司招商部工作期间，是否明知公司并无实际履行合同的能力，仍使用虚假销量图和返还加盟费图诱导客户签订合同？请具体说明你参与诈骗的具体方式和手段。\n\n2. 根据你的供述，你个人非法获利58163元。这些违法所得是如何计算和分配的？你是否清楚这些钱款来源于被害人的加盟费？\n\n3. 你在与被害人签订《网络销售代销商协议书》时，是否向客户如实告知公司实际能够提供的服务内容？具体隐瞒了哪些关键事实？\n\n4. 你作为招商部业务员，是否接受过公司提供的专门话术培训？这些培训内容是否包含如何夸大公司实力、隐瞒真实情况等欺诈性内容？\n\n5. 在2014年4月至2015年6月期间，你具体参与了多少起诈骗行为？能否说明你经手的被害人姓名及涉案金额？\n\n6. 你个人是否直接参与过公司虚假宣传材料的制作或修改？具体参与程度如何？\n\n7. 案发后你退缴了58163元违法所得，这些钱款是否全部来源于本案诈骗所得？退赃行为是否出于自愿？\n\n8. 你在共同犯罪中具体承担了哪些工作？是否参与过公司经营决策或利润分配？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的被害人陈述存在同质化倾向，未能充分体现个案差异性，可能夸大实际损失2.电子证据检查笔录未说明提取过程的完整性和真实性，存在被篡改风险3.业绩表与工资发放统计光盘的关联性不足，不能直接证明贺某个人涉案金额\n防御策略：1.贺某系从犯，仅执行公司既定话术，未参与诈骗模式设计2.已全额退缴违法所得，悔罪态度明显3.文化程度较低且为初犯，受公司管理制度误导实施犯罪",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "公司员工按照上级指示实施诈骗行为如何认定责任？",
+              "合同诈骗罪中从犯的认定标准是什么？"
+            ],
+            "公司员工按照上级指示实施诈骗行为如何认定责任？": "### 结论\n公司员工按照上级指示实施诈骗行为的责任认定，主要取决于员工是否明知行为的非法性、是否主动参与诈骗计划、是否从中获取非法利益，以及在诈骗行为中的具体作用和地位。员工如果仅是执行上级指令，未参与诈骗计划的制定，未从中获取非法利益，且在诈骗行为中处于从属地位，可能被认定为从犯或不承担责任。但如果员工明知行为非法，积极参与诈骗计划，从中获取非法利益，或在诈骗行为中起主要作用，则可能被认定为主犯，承担主要责任。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **员工的主观故意**：员工是否明知行为的非法性。例如，【（2018）内0204刑初497号】中，程某作为员工，明知自己并非真正的房主，仍配合公司实施诈骗，被认定为从犯，但因其在犯罪活动中处于从属地位，未实际非法占有被害人的财产，故被认定为从犯，从轻处罚。\n- **员工在诈骗行为中的地位和作用**：员工是否在诈骗行为中起主要作用。例如，【（2021）甘02民终346号】中，范静作为出纳，未核实信息，轻信诈骗人员，违反财务制度，被认定存在一定过错，需承担25%的赔偿责任。\n- **员工是否从中获取非法利益**：员工是否从诈骗行为中获取非法利益。例如，【（2016）湘0304刑初360号】中，邓力将诈骗来的财物低价销售，将大部分货款占为己有，用于挥霍，被认定具有非法占有的目的和诈骗的主观故意，构成合同诈骗罪。\n- **上级的指示和员工的执行情况**：员工是否仅是执行上级指令，未参与诈骗计划的制定。例如，【（2018）内0204刑初497号】中，程某按照上级指示实施诈骗行为，被认定为从犯，从轻处罚。\n\n综上，公司员工按照上级指示实施诈骗行为的责任认定，主要看员工是否明知行为非法，是否主动参与诈骗计划，是否从中获取非法利益，以及在诈骗行为中的具体作用和地位。员工如果仅是执行上级指令，未参与诈骗计划的制定，未从中获取非法利益，且在诈骗行为中处于从属地位，可能被认定为从犯或不承担责任。但如果员工明知行为非法，积极参与诈骗计划，从中获取非法利益，或在诈骗行为中起主要作用，则可能被认定为主犯，承担主要责任。\n\n#####\n类似案件为：\n【（2018）内0204刑初497号】：法院认为，被告人程某作为公司的员工，冒充房东亲属签订虚假合同，帮助公司骗取他人定金及房款22万元，数额较大，其行为已构成合同诈骗罪，系公司进行合同诈骗的直接责任人员。程某对于犯意的形成不起决定作用，且在犯罪活动中处于从属地位，程某也未实际非法占有被害人的财产，故可以认定为从犯，应当从轻、减轻处罚或者免除处罚。程某到案后如实供述自己的犯罪事实，可以从轻处罚。程某主动向被害人退赔部分款项，并取得被害人的谅解，可以酌情从轻处罚。被告人程某犯合同诈骗罪，判处有期徒刑六个月缓刑一年，并处罚金30000元。\n检察院指控罪名成立，被告人程某及其辩护人的合理辩护意见予以采纳，判决符合法律规定。\n【（2021）甘02民终346号】：本院认为，本案争议焦点在于：一、是否应中止审理；二、范静对宏顺公司电信诈骗损失的赔偿责任及责任划分。\n首先，本案不以电信诈骗刑事案件为审理前提，故不应中止审理，范静请求无法律依据。\n其次，关于赔偿责任，虽劳动法律未明确规定劳动者因职务行为致损的赔偿，但《工资支付暂行规定》允许用人单位按合同约定要求劳动者赔偿经济损失。宏顺公司与范静未就损失赔偿明确约定，但范静应尽审慎义务，避免损失。范静未核实QQ昵称真伪，未遵守财务制度，存在过错。宏顺公司招用未符合岗位要求的范静，未进行专业培训，公司管理存在问题，对损失有较大过错。一审酌定范静承担25%赔偿责任，宏顺公司承担75%责任，考量双方过错、风险承受能力等因素，判决合理。\n综上，宏顺公司与范静的上诉请求均不成立。一审判决事实清楚，适用法律正确，应予维持。驳回上诉，维持原判。\n范静、嘉峪关市宏顺建设监理咨询有限责任公司交纳的二审案件受理费各20元，由其自行负担。\n【（2016）湘0304刑初360号】：法院认为，被告人邓力以非法占有为目的，冒用单位名义签订合同，骗取对方当事人财物，数额特别巨大，其行为构成合同诈骗罪。邓力到案后如实供述犯罪事实，依法从轻处罚。邓力辩称其行为系受上级指示，无证据支持，不予采纳。湘潭市岳塘区人民法院判决被告人邓力犯合同诈骗罪，判处有期徒刑十年，并处罚金五万元。",
+            "合同诈骗罪中从犯的认定标准是什么？": "### 结论\n合同诈骗罪中从犯的认定标准主要基于行为人在共同犯罪中的作用和地位，包括但不限于是否起次要或辅助作用，是否参与预谋，是否实际实施主要犯罪行为，以及在犯罪过程中的具体分工和作用。即使幕后主犯未到案，也可以根据现有证据认定从犯。证明主犯的证据不足时，应从轻认定被告人为从犯，遵循存疑时有利于被告人的原则。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采用虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的认定，即在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用**：如果行为人在共同犯罪中起次要或辅助作用，应认定为从犯。例如，【（2018）苏0722刑初296号】中，被告鲍鲸鲸、沈男在共同犯罪中起次要作用，被认定为从犯。\n- **是否参与预谋和实施主要犯罪行为**：未参与预谋，仅在犯罪过程中起辅助作用的，可以认定为从犯。例如，【（2017）浙1004刑初57号】中，被告人徐杰被辩称为只是帮阮某1打工，但法院认为其参与了预谋和实施，未认定为从犯。\n- **犯罪过程中的具体分工和作用**：在共同犯罪中，根据各自分工和作用的不同，可以区分主从犯。例如，【（2020）粤0303刑初64号】中，被告人曾相元、郭运启各自分工，积极实施犯罪行为，均被认定为主犯。\n- **证明主犯的证据不足时的处理原则**：如果现有证据不能认定被告人系主犯，或者认定其为主犯的证据证明力不足，应从轻认定被告人为从犯。例如，【（2014）张刑终字第13号】中，因证据不足，未认定被告人朱某卫犯合同诈骗罪。\n\n综上，合同诈骗罪中从犯的认定需综合考虑行为人在共同犯罪中的作用、是否参与预谋、是否实施主要犯罪行为以及犯罪过程中的具体分工和作用，遵循存疑时有利于被告人的原则，即使主犯未到案，也可以根据现有证据认定从犯。\n\n#####\n类似案件为：\n【（2018）苏0722刑初296号】：法院认为，被告人鲍鲸鲸、沈男以非法占有为目的，无实际履行能力，采用部分履行合同的方法，诱骗对方财物，数额巨大，构成合同诈骗罪。二被告在共同犯罪中分工不同，非从犯。合同诈骗数额按实际骗取的83万元认定。鲍鲸鲸坦白，可从轻处罚；沈男自首，可从轻处罚。被告人鲍鲸鲸犯合同诈骗罪，判处有期徒刑四年六个月，并处罚金十万元；被告人沈男犯合同诈骗罪，判处有期徒刑三年六个月，并处罚金五万元。二被告连带退赔被害单位83万元。\n【（2017）浙1004刑初57号】：法院认为，被告人徐杰以非法占有为目的，结伙在签订、履行合同过程中，利用虚假身份，诱骗对方当事人继续签订、履行合同，骗取财物，数额巨大，其行为已构成合同诈骗罪。公诉机关指控罪名不当，予以纠正。被告人徐杰与阮某1预谋并实施合同诈骗，否认其知晓并具有骗取缝纫机的主观故意，不符合从犯及坦白情节。依照《中华人民共和国刑法》第二百二十四条、第二十五条第一款、第六十四条之规定，判决如下：\n一、被告人徐杰犯合同诈骗罪，判处有期徒刑三年九个月，并处罚金人民币五万五千元。\n二、被告人徐杰于判决生效之日起一个月内退赔29.27万元给诸被害人。\n【（2020）粤0303刑初64号】：法院认为，被告人曾相元、郭运启以非法占有为目的，在签订、履行合同过程中，采取虚构事实、隐瞒真相的手段，骗取对方财物，数额特别巨大，其行为均已构成合同诈骗罪。两被告人在共同犯罪中均起主要作用，系主犯。法院判决被告人曾相元、郭运启犯合同诈骗罪，均判处有期徒刑十年，并处罚金人民币20000元，责令两被告人连带退赔被害人张某2人民币255万元。"
+          }
+        },
+        "目标": "请求法院认定被告人贺某构成合同诈骗罪但减轻处罚，判处缓刑并降低罚金",
+        "询问": "1. 被告人贺某，你在招商部工作时，公司是否提供过真实的货源和客服支持能力证明？你是否主动核实过这些承诺的真实性？（针对构成要件中的主观故意和违法性，考察其是否明知公司无履行能力）\n\n2. 你与客户沟通时使用的\"话术\"是由谁制定的？是否接受过相关培训？培训内容是否包含如何规避法律风险？（针对从犯认定，考察其在犯罪中的作用是否次要）\n\n3. 你个人获得的58163元提成是如何计算的？是否清楚这些提成来源于被害人的加盟费？（针对非法获利的主观认知）\n\n4. 你在工作期间是否收到过客户投诉？公司对这些投诉是如何处理的？（针对持续犯罪的主观恶性）\n\n5. 你是什么时候意识到公司的经营模式可能涉嫌违法的？发现后为何没有立即停止工作？（针对违法性认识错误和期待可能性）\n\n6. 你退缴的违法所得58163元是如何筹集的？是否有能力对被害人进行进一步赔偿？（针对悔罪态度和量刑情节）\n\n7. 你在公司工作期间，是否参与过加盟费标准的制定或合同条款的修改？（针对在共同犯罪中的地位和作用）"
+      },
+      "被告人": {
+        "策略": "防御策略：1.贺某系从犯，仅按照公司既定话术执行工作，未参与诈骗模式的设计和决策 2.已全额退缴违法所得58163元，悔罪态度明显 3.文化程度较低且为初犯，受公司管理制度误导实施犯罪 4.在共同犯罪中作用较小，获利比例远低于公司实际控制人 5.愿意接受法律制裁并承诺不再犯罪",
+        "记忆": "",
+        "目标": "请求法院认定被告人贺某构成合同诈骗罪但减轻处罚，判处缓刑并降低罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人贺某是否构成合同诈骗罪。查明情况：公诉人通过讯问证实贺某明知公司无实际履行能力仍使用虚假资料诱导客户签约，贺某也承认未如实告知客户公司实际服务内容。辩护人未对罪名提出异议。审判长认为现有证据足以认定贺某构成合同诈骗罪。\n\n2.被告人贺某在共同犯罪中的地位和作用。查明情况：公诉人指出贺某系招商部业务员，辩护人通过讯问证实贺某仅按公司安排工作，未参与诈骗模式设计。审判长认为贺某在共同犯罪中起次要作用，符合从犯认定标准。\n\n3.被告人贺某的量刑情节。查明情况：双方确认贺某已全额退缴违法所得58163元，自愿认罪悔改。辩护人强调贺某文化程度低、法律意识淡薄。审判长认为退赃、认罪态度等从轻情节已查明。\n\n4.涉案金额的认定。查明情况：公诉人出示的银行交易明细等证据证实贺某参与骗取222740元，个人获利58163元，被告人对此无异议。审判长认为金额认定清楚。\n\n5.被害人陈述的真实性。查明情况：公诉人指出被害人陈述与书证、电子证据相互印证，辩护人未提出质疑。审判长认为被害人陈述可信度较高。\n\n6.公司经营模式的违法性认知。查明情况：辩护人通过讯问证实贺某后期才意识到可能违法，但未及时停止工作。审判长认为需进一步查明其主观认知转变的具体时间点。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条第一款第（三）项",
+              "中华人民共和国刑法第二十五条第一款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "电商代运营诈骗案件中从犯的认定标准",
+              "合同诈骗罪中非法占有目的的认定标准"
+            ],
+            "电商代运营诈骗案件中从犯的认定标准": "### 结论\n在电商代运营诈骗案件中，从犯的认定主要依据其在犯罪过程中的作用大小、是否参与犯罪的策划与组织、以及其犯罪数额在整体犯罪所得中的比重。具体而言，从犯通常是指在共同犯罪中起次要作用，未参与犯罪策划与组织，且犯罪数额相对较小的参与者。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪中的作用大小**：从犯通常在共同犯罪中起次要作用，如【（2017）浙01刑初170号】中，张某、唐某甲、王某乙、鞠某乙虽系公司股东或高管，但未参与经营决策且占股比例较低、实际分赃数额较少，被认定为从犯。\n- **是否参与犯罪策划与组织**：未参与犯罪策划与组织的参与者更可能被认定为从犯，如【（2017）浙0127刑初242号】中，被告人余卓琅、刘烽、朱晓辉、胡邓校、虞乐飘、陈丹在共同犯罪中起次要作用，是从犯。\n- **犯罪数额在整体犯罪所得中的比重**：犯罪数额较小的参与者更可能被认定为从犯，如【（2021）渝0151刑初12号】中，被告人陈川、刘育江、陈育受马士彬培训并指挥，在共同犯罪中起次要作用，系从犯。\n\n综上，电商代运营诈骗案件中从犯的认定主要依据其在犯罪过程中的作用大小、是否参与犯罪策划与组织、以及其犯罪数额在整体犯罪所得中的比重。从犯通常是指在共同犯罪中起次要作用，未参与犯罪策划与组织，且犯罪数额相对较小的参与者。\n\n#####\n类似案件为：\n【（2017）浙01刑初170号】：法院生效裁判认为：被告人鞠某甲伙同张某、唐某甲、王某乙、鞠某乙以非法占有为目的，明知自身没有履约能力仍通过虚假广告招揽客户，在签订、履行合同过程中骗取被害人财物，数额特别巨大，其行为均已构成合同诈骗罪。被告人鞠某甲等人的犯罪行为除侵犯被害人的财产所有权之外，还扰乱了电商行业的市场秩序，公诉机关指控罪名有误，依法予以纠正，被告人及辩护人所提本案构成合同诈骗罪的意见予以采纳。关于唐某甲及其辩护人所提本案系单位犯罪的辩解及辩护意见，经审理认为，鞠某甲伙同张某等人为实施诈骗犯罪成立某甲公司、某乙公司，上述公司成立后从事以淘宝代运营为幌子的诈骗活动，所得利益均被鞠某甲等人以分红或提成方式瓜分，本案不符合单位犯罪的构成要件，依法不构成单位犯罪。鞠某甲系某甲公司、某乙公司的主要出资者和实际控制人，负责公司对外推广并控制公司收款账户，在共同犯罪中系主犯，张某、唐某甲、王某乙、鞠某乙虽系公司股东或高管，但未参与经营决策且占股比例较低、实际分赃数额较少，起次要作用，依法可认定为从犯并减轻处罚，被告人及辩护人所提相关意见予以采纳。\n【（2017）浙0127刑初242号】：法院认为，六被告人的行为均已构成合同诈骗罪。其中，被告人余卓琅、刘烽系公司股东，朱晓辉为销售经理，胡邓校、虞乐飘、陈丹为销售组长，各自参与的犯罪数额应包括直接经手的犯罪数额以及按比例计提的下属团队犯罪数额。六被告人在共同犯罪中起次要作用，是从犯，可依法从轻或减轻处罚。六被告人归案后如实供述犯罪事实，认罪认罚，且均系初犯，可酌情从轻处罚。法院判决被告人余卓琅、刘烽、朱晓辉、胡邓校、虞乐飘、陈丹犯合同诈骗罪，根据各自犯罪数额、参与程度及作用大小，分别判处有期徒刑十年二个月至二年不等，并处罚金人民币十万元至二万元不等。其中，被告人陈丹适用缓刑。责令六被告人继续退出其余违法所得，已退出的违法所得发还给相关被害人。京鸿公司被扣押的电脑主机38台予以没收，上缴国库。\n【（2021）渝0151刑初12号】：法院认为，被告人马士彬、陈川、刘育江、陈育以非法占有为目的，虚构事实，利用网络诈骗他人财物，构成诈骗罪。马士彬、陈川诈骗金额巨大，刘育江、陈育诈骗金额较大。马士彬、陈川为累犯，刘育江在缓刑考验期内再犯罪，陈育有前科，但四被告人到案后均如实供述罪行，且马士彬、陈川赔偿被害人部分损失。法院决定对四被告人从轻处罚。法院判决被告人马士彬犯诈骗罪，判处有期徒刑四年，并处罚金一万五千元；陈川犯诈骗罪，判处有期徒刑三年，并处罚金一万元；刘育江犯诈骗罪，判处有期徒刑八个月，并处罚金三千元，撤销原判缓刑部分，决定执行有期徒刑一年一个月，并处罚金五千元；陈育犯诈骗罪，判处拘役五个月，并处罚金二千元。责令四被告人退赔被害人损失，并没收犯罪工具。",
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.强化证据链完整性：通过被害人陈述、书证、电子数据等证据相互印证，证实贺某参与诈骗222740元的事实，突出其明知公司无实际履行能力仍实施诈骗的主观故意。\n2.明确犯罪构成要件：根据《刑法》第224条，重点论述贺某以非法占有为目的，在签订合同过程中采取虚构事实、隐瞒真相的手段骗取财物，符合合同诈骗罪的构成要件。\n\n防御策略：\n1.证据合法性辩护：强调所有书证、电子数据均由公安机关依法调取，鉴定程序合规，不存在非法证据排除情形。\n2.被告人供述稳定性：指出贺某在侦查阶段对犯罪事实供认不讳，其当庭供述与侦查阶段供述一致，具有可信度。\n3.被害人陈述一致性：8名被害人分别陈述的受骗经过与公司内部资料高度吻合，形成完整证据链条。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中从犯的认定标准",
+              "合同诈骗罪中退赃情节对量刑的影响"
+            ],
+            "合同诈骗罪中从犯的认定标准": "### 结论\n在合同诈骗罪中，从犯的认定主要依据行为人在共同犯罪中的地位、作用和参与程度。从犯是指在共同犯罪中起次要作用或辅助作用的犯罪分子。认定从犯时，法院会综合考虑行为人是否参与预谋、实施犯罪的具体行为、在犯罪中的分工、是否控制或管理犯罪所得、以及是否积极实施诈骗行为等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的定义和处罚原则，即在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的地位和作用**：如果行为人在共同犯罪中起次要作用，如仅参与了部分环节，未控制犯罪所得，或仅执行他人指令，可以认定为从犯。例如，【（2017）沪0106刑初562号】中，部分被告人在共同犯罪中起次要作用，系从犯，依法应当分别予以从轻或者减轻处罚。\n- **是否参与预谋和实施犯罪**：未参与预谋，仅在犯罪过程中被临时拉入，且未实施关键犯罪行为的，可能被认定为从犯。例如，【（2017）浙1082刑初944号】中，各被告人在共同犯罪中均起次要作用，系从犯，依法予以减轻处罚。\n- **是否控制或管理犯罪所得**：未控制或管理犯罪所得，仅参与实施犯罪行为的，可能被认定为从犯。例如，【（2018）苏0102刑初724号】中，被告人唐某在合同诈骗共同犯罪中，预谋犯罪并全程参与实施诈骗行为，并非起次要或辅助作用，不应认定为从犯。\n- **是否积极实施诈骗行为**：仅在他人主导下被动参与，未积极实施诈骗行为的，可能被认定为从犯。例如，【（2017）浙1082刑初944号】中，各被告人在共同犯罪中均起次要作用，系从犯，依法予以减轻处罚。\n\n综上，合同诈骗罪中从犯的认定需综合考虑行为人在共同犯罪中的地位、作用、参与程度以及是否控制犯罪所得等因素。法院在认定从犯时，会根据行为人在犯罪中的具体表现，判断其是否起次要或辅助作用，从而决定是否适用从轻、减轻处罚或免除处罚的规定。\n\n#####\n类似案件为：\n【（2017）沪0106刑初562号】：法院认为，被告人的行为构成合同诈骗罪，陈佳明等被告人参与诈骗数额特别巨大或巨大，但在共同犯罪中起次要作用，系从犯，且如实供述罪行，应从轻或减轻处罚。许泽晖、张锦峰、苗某某部分退赔，可酌情从轻处罚。苗某某可适用缓刑。法院对陈佳明、朱小亮、马开财、许泽晖、张自彪、梅亚威、胡亚超、刘含浪分别判处六年六个月至四年六个月不等有期徒刑，并处十三万至九万不等罚金；对张锦峰、刘5、苗某某分别判处三年六个月至三年不等有期徒刑，并处七万至六万不等罚金，其中苗某某适用缓刑。责令退赔违法所得，发还各被害人；缴获的犯罪工具予以没收。\n【（2017）浙1082刑初944号】：法院认为，各被告人与人结伙，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，构成合同诈骗罪。其中，潘孝炜数额特别巨大，倪明琴、金荣健数额巨大，符恩俊、王俊亚、谢华静、汪丽美、张静数额较大。各被告人在共同犯罪中起次要作用，系从犯，潘孝炜、张静具有坦白情节，依法予以减轻或从轻处罚。法院判决：\n1. 被告人潘孝炜犯合同诈骗罪，判处有期徒刑三年，并处罚金人民币三万元。\n2. 被告人金荣健犯合同诈骗罪，判处有期徒刑一年四个月，缓刑二年，并处罚金人民币一万三千元。\n3. 被告人倪明琴犯合同诈骗罪，判处有期徒刑一年一个月，缓刑二年，并处罚金人民币一万二千元。\n4. 被告人符恩俊、王俊亚、谢华静、汪丽美、张静犯合同诈骗罪，免予刑事处罚。\n5. 各被告人退出的违法所得予以追缴，退赔被害人。\n6. 随案移送的作案工具电脑、手机予以没收。\n7. 被告人潘孝炜的违法所得予以追缴，退赔被害人。\n8. 各被告人继续退赔被害人的经济损失。\n【（2018）苏0102刑初724号】：法院认为，三被告人以非法占有为目的，合同诈骗数额较大，构成合同诈骗罪；翟某、唐某诈骗金融机构贷款，数额较大，构成贷款诈骗罪。翟某在贷款诈骗中为主犯，唐某为从犯，翟某为累犯，唐某、刘某有退赔、自首等情节。被告人翟某犯合同诈骗罪，判处有期徒刑十一个月，罚金三万元；犯贷款诈骗罪，判处有期徒刑一年，罚金四万元；决定执行有期徒刑一年六个月，罚金七万元。被告人唐某犯合同诈骗罪，判处有期徒刑十个月，罚金二万元；犯贷款诈骗罪，判处有期徒刑六个月，罚金二万元；决定执行有期徒刑一年，罚金四万元。被告人刘某犯合同诈骗罪，判处有期徒刑九个月，罚金二万元。责令被告人继续退赔被害单位经济损失。",
+            "合同诈骗罪中退赃情节对量刑的影响": "### 结论\n合同诈骗罪中，退赃情节对量刑有显著影响，通常表现为从轻或减轻处罚。法院在量刑时会考虑退赃的主动性、退赃的数额以及是否取得被害人谅解等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚，坦白可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃的主动性**：主动退赃通常被视为认罪态度良好，法院会从轻处罚。例如，【（2020）冀0123刑初10号】中，被告人李某1主动到公安机关投案，并能如实供述自己的罪行，属自首，对其可从轻处罚；全部退赃，可从轻处罚。\n- **退赃的数额**：全额退赃比部分退赃更可能获得从轻处罚。例如，【（2020）吉0102刑初573号】中，被告人张晓赫在案发后赔偿了被害单位的经济损失，可酌定从轻处罚。\n- **取得被害人谅解**：退赃后取得被害人谅解，法院可能酌情从轻处罚。例如，【（2024）黑0382刑初56号】中，被告人张某1赔偿被害人部分经济损失并取得谅解，可酌情从轻处罚。\n- **退赃与量刑的直接关联**：退赃情况直接影响量刑，法院在判决时会明确指出退赃对量刑的影响。例如，【（2018）陕0102刑初405号】中，虽然辩护人关于犯罪数额认定过高的辩护意见未被采纳，但被告人陈某某归案后能如实供述其犯罪事实，属坦白，当庭又能自愿认罪认罚，故可对其依法从轻处罚。\n\n综上，退赃情节在合同诈骗罪的量刑中扮演重要角色，主动、全额退赃并取得被害人谅解的被告人更可能获得法院的从轻或减轻处罚。然而，退赃情况并非唯一考量因素，法院还会综合考虑被告人的认罪态度、犯罪情节、社会危害性等多方面因素。\n\n#####\n类似案件为：\n【（2020）冀0123刑初10号】：法院认为，李某1的行为构成合同诈骗罪，鉴于其自首并全部退赃，可从轻处罚。据此，法院采纳了公诉机关的量刑建议，判处李某1拘役三个月，缓刑六个月，罚金人民币2万元（已缴纳）。正定县人民法院认定李某1犯合同诈骗罪，考虑其自首、退赃情节，判处其拘役三个月，缓刑六个月，并处罚金人民币2万元。\n【（2020）吉0102刑初573号】：法院认为，张晓赫的行为已构成合同诈骗罪，鉴于其坦白、退赃的情节，可从轻处罚并适用缓刑。被告人张晓赫犯合同诈骗罪，判处拘役六个月，缓刑一年，并处罚金人民币五千元。\n法院认定张晓赫犯罪事实清楚，证据确实、充分，指控罪名成立，鉴于其坦白、退赃情节，依法予以从轻处罚，并适用缓刑。\n判决书中未提及辩护人的意见，故未在案情概述中体现。\n【（2024）黑0382刑初56号】：法院认为，张某1以非法占有为目的，在签订、履行合同过程中，没有实际履行能力，以先履行小额合同和部分履行合同的方法，诈骗对方当事人继续签订和履行合同，骗取对方当事人财物，数额巨大，其行为构成合同诈骗罪。张某1犯合同诈骗罪，判处有期徒刑一年二个月，并处罚金人民币一万元；追缴张某1违法所得购买的物品，责令其继续退赔被害人赵某、殷某的剩余经济损失。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的被害人陈述存在高度同质化，未能充分体现个案差异性，可能夸大实际损失2.电子证据检查笔录未说明提取过程的完整性和真实性，存在被篡改风险3.业绩表与工资发放统计光盘的关联性不足，不能直接证明贺某个人涉案金额\n\n防御策略：1.贺某系从犯，仅执行公司既定话术，未参与诈骗模式设计2.已全额退缴违法所得，悔罪态度明显3.文化程度较低且为初犯，受公司管理制度误导实施犯罪",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在合同诈骗共同犯罪中从犯的认定标准",
+              "文化程度较低对犯罪主观故意的认定影响"
+            ],
+            "在合同诈骗共同犯罪中从犯的认定标准": "### 结论\n在合同诈骗共同犯罪中，从犯的认定标准主要考虑行为人在犯罪中的作用、地位，是否起次要或辅助作用，以及是否具有非法占有目的。具体包括：犯罪起因、实行行为、因果关系、犯罪收益分配、是否采取措施消除影响、参与犯罪的时间长度和行为性质。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的刑事责任，即在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在犯罪中的作用和地位**：行为人是否是犯罪的起意者、主要实行者，以及其行为对犯罪结果的原因力大小。例如，【（2016）闽0581刑初992号】中，郭玉堂在实施合同诈骗过程中，与同案犯互相配合，共同完成诈骗行为，特别是在诈骗海信公司和宾大公司货物风险金时，与该二家公司具体商谈，约定并骗取货物风险金，其作用积极主动，应认定为共同主犯。\n- **犯罪收益的分配情况**：是否主要获利者，以及获利的多少。例如，【（2015）曲中刑终字第39号】中，赵军仅占有使用诈骗款项的1/4，应当认定为从犯。\n- **是否采取措施消除影响**：对于中途退出的集团骨干成员，除非其采取措施尽力消除其行为对犯罪集团的影响和作用，否则犯罪数额不计算至其退出时点。例如，【（2018）甘0402刑初299号】中，白某1虽电话传唤到案，但到案后的供述中隐瞒了同案人李某的犯罪事实，不符合自首的法律规定。\n- **参与犯罪的时间长度和行为性质**：对于参与时间明显较短的，可以认为其产生犯罪的主观故意尚未形成，一般不认定为犯罪；对于未直接实施诈骗，或直接实施诈骗数额较小、行为较少的参与人员，应当认定为从犯。例如，【（2021）云0402刑初4号】中，张林在合同诈骗犯罪中起次要作用，系从犯。\n\n综上，合同诈骗共同犯罪中从犯的认定，需要综合考虑行为人在犯罪中的作用、地位，是否采取措施消除影响，以及参与犯罪的时间长度和行为性质，以判断其是否起次要或辅助作用，是否具有非法占有目的。\n\n#####\n类似案件为：\n【（2016）闽0581刑初992号】：法院认为，被告人郭玉堂伙同他人以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额巨大，其行为构成合同诈骗罪。郭玉堂在实施合同诈骗过程中，与同案犯互相配合，共同完成诈骗行为，应认定为主犯。郭玉堂系多次实施诈骗，酌情从重处罚。石狮市人民法院判决如下：\n一、被告人郭玉堂犯合同诈骗罪，判处有期徒刑五年八个月，并处罚金人民币十万元。\n二、责令被告人郭玉堂与同案犯共同赔偿被害人经济损失。\n如不服本判决，可在接到判决书的第二日起十日内，通过石狮市人民法院或者直接向泉州市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n【（2015）曲中刑终字第39号】：法院认为，赵军以非法占有为目的，伙同他人伪造产权证明作担保，签订合同骗取他人财物的行为构成合同诈骗罪，且数额特别巨大。在共同犯罪中，赵军仅占有使用诈骗款项的1/4，应当认定为从犯，且已退赔部分赃款，可对其减轻处罚。原审被告人赵军犯合同诈骗罪，判处有期徒刑六年，并处罚金人民币五万元。\n【（2018）甘0402刑初299号】：法院认为，白某1伙同他人以非法占有为目的，在履行合同过程中，骗取他人财物，构成合同诈骗罪。王某、胡某明知车辆无合法来源，仍予以收押或提供账户帮助转移款项，构成掩饰、隐瞒犯罪所得罪。白某1、王某、胡某的行为均应依法惩处。在合同诈骗共同犯罪中，白某1和李某作用相当，不宜区分主从犯，按一般共同犯罪处罚。王某系自首，可从轻或减轻处罚。白某1、胡某最终如实供述，可从轻处罚。车辆已追回并发还，白某1、王某退赔经济损失，可酌情从轻处罚。法院判决如下：\n1. 白某1犯合同诈骗罪，判处有期徒刑十一个月，缓刑二年，并处罚金1万元。\n2. 王某犯掩饰、隐瞒犯罪所得罪，判处有期徒刑九个月，缓刑一年六个月，并处罚金1万元。\n3. 胡某犯掩饰、隐瞒犯罪所得罪，判处有期徒刑十个月，缓刑一年六个月，并处罚金1万元。\n4. 各被告人违法所得予以没收，上缴国库。",
+            "文化程度较低对犯罪主观故意的认定影响": "### 结论\n文化程度较低对犯罪主观故意的认定影响有限，但可能作为量刑时的考量因素之一，尤其是在涉及未成年人犯罪时，法院可能会考虑其法律意识淡薄，从而在量刑时予以从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第十七条第一、三款**：规定未成年人犯罪的刑事责任年龄和从轻或减轻处罚的情形。\n- **《中华人民共和国刑法》第六十七条第一款**：规定自首可以从轻或减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **文化程度与法律意识**：文化程度较低可能意味着法律意识淡薄，但这并不直接影响犯罪主观故意的认定。例如，【（2013）解刑少初字第9号】中，法院认为被告人孙某某走上犯罪道路的主要原因之一是年龄小、法律意识淡薄、文化程度低，不会妥善处理同学之间的矛盾，但这并未改变其故意杀人的犯罪故意，只是在量刑时作为从轻处罚的考量因素。\n- **未成年人犯罪**：在涉及未成年人犯罪时，文化程度低可能成为从轻处罚的理由之一。【（2013）解刑少初字第9号】中，法院在量刑时考虑了被告人孙某某的年龄和文化程度，最终决定适用缓刑，以利于其改造自新。\n- **自首与认罪态度**：自首和认罪态度是量刑时的重要考量因素，与文化程度相比，这些因素对量刑的影响更为直接。例如，【（2023）云0127刑初399号】、【（2023）辽1281刑初207号】、【（2018）鲁0211刑初1105号】等案例中，法院均因被告人自首、认罪认罚而从轻或减轻处罚。\n\n综上，文化程度低在犯罪主观故意的认定中影响有限，但在量刑时，尤其是涉及未成年人犯罪时，可能成为从轻处罚的考量因素之一。自首和认罪态度对量刑的影响更为直接和显著。\n\n#####\n类似案件为：\n【（2023）云0127刑初399号】：法院认为，被告人毕云昕以非法占有为目的，帮助他人诈骗公私财物，数额巨大，其行为已构成诈骗罪，且系共同犯罪。毕云昕在共同犯罪中起次要作用，系从犯，依法应减轻处罚。毕云昕具有自首情节，且自愿认罪认罚，依法应从轻处罚。被告人毕云昕犯诈骗罪，判处有期徒刑八个月，并处罚金人民币2000元。追缴被告人毕云昕的违法所得人民币5600元，上缴国库。\n【（2023）辽1281刑初207号】：法院认为，被告人卞某某违反国家规定，非法采伐、毁坏国家重点保护的树木，情节严重，其行为构成危害国家重点保护植物罪。案发后，卞某某自动投案并如实供述自己的罪行，构成自首，依法可以从轻、减轻处罚。卞某某自愿认罪认罚，可以依法从宽处理。一、被告人卞某某犯危害国家重点保护植物罪，判处有期徒刑四年二个月，并处罚金人民币一万元。\n（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2023年8月7日起至2027年10月6日止。所判处罚金于本判决生效后十日内缴纳）\n二、扣押物品由扣押机关依法处理。\n三、继续追缴被告人卞某某违法所得人民币5240元上缴国库。\n【（2018）鲁0211刑初1105号】：法院认为，雷某违背妇女意志，强行与其发生性关系，其行为构成强奸罪。雷某系累犯，依法从重处罚并不得假释。鉴于雷某自愿认罪认罚，酌情从轻处罚。被告人雷某犯强奸罪，判处有期徒刑四年六个月。不得假释。\n（刑期从判决执行之日其计算，判决以前先行羁押的，羁押一日折抵刑期一日。即自2018年3月19日至2022年9月18日。）"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.贺某系从犯，仅按照公司既定话术执行工作，未参与诈骗模式的设计和决策 2.已全额退缴违法所得58163元，悔罪态度明显 3.文化程度较低且为初犯，受公司管理制度误导实施犯罪 4.在共同犯罪中作用较小，获利比例远低于公司实际控制人 5.愿意接受法律制裁并承诺不再犯罪",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人贺某是否构成合同诈骗罪。查明情况：公诉人通过被告人供述、被害人陈述及书证等证据证实贺某明知公司无实际履行能力仍使用虚假资料诱导客户签约，构成合同诈骗罪。辩护人对罪名未提出异议。审判长认为现有证据足以认定贺某构成合同诈骗罪。\n\n2.被告人贺某在共同犯罪中的地位和作用。查明情况：公诉人指出贺某系招商部业务员，直接参与诈骗活动；辩护人强调贺某仅按公司安排工作，未参与诈骗模式设计。审判长认为贺某在共同犯罪中起次要作用，符合从犯认定标准。\n\n3.被告人贺某的主观明知程度及认知转变时间。查明情况：辩护人通过讯问证实贺某2015年才意识到可能违法；公诉人认为贺某入职时即应明知公司诈骗性质。审判长认为需进一步查明其主观认知转变的具体时间点。\n\n4.涉案金额的认定及违法所得处理。查明情况：公诉人出示的银行交易明细等证据证实贺某参与骗取222740元，个人获利58163元且已全额退缴。被告人对此无异议。审判长认为金额认定清楚，退赃情节应予确认。\n\n5.被害人损失与被告人行为的因果关系。查明情况：公诉人通过被害人陈述与公司内部资料印证证实直接因果关系；辩护人认为证据仅反映公司整体行为。审判长认为共同犯罪中各参与人均应对整体结果负责，因果关系成立。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。\n\n举证质证阶段总结：\n\n1. 公诉人出示了20项证据，包括：\n   - 被告人在侦查阶段的供述（承认参与公司诈骗活动，骗取加盟费222740元，个人获利58163元）\n   - 8名被害人陈述（均证实公司未兑现承诺服务，存在虚假宣传行为）\n   - 6名证人证言（证实公司无实际履行能力、存在系统性诈骗行为）\n   - 多份书证（合同、转账记录、财务资料等证明诈骗金额及资金流向）\n   - 电子数据（虚假宣传资料及业绩数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对主要证据提出质证意见：\n   - 认为证据仅能证明公司整体行为，无法直接证明被告人个人具有诈骗故意\n   - 强调被告人系执行公司指令，对公司违法性缺乏明知\n   - 主张证据与被告人主观要件关联性不足\n\n4. 公诉人针对辩护意见逐一回应：\n   - 强调证据间相互印证形成完整证据链\n   - 指出被告人明知公司无履行能力仍参与诈骗\n   - 主张共同犯罪中各参与人均应承担责任\n\n5. 重要证据争议焦点：\n   - 公司整体行为与被告人个人责任的区分\n   - 被告人主观故意的证明程度\n   - 共同犯罪中各参与人的责任认定\n\n6. 辩护人未出示新证据，被告人未申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "公司业务员在不知情情况下参与诈骗活动如何认定责任？",
+              "合同诈骗罪中从犯的认定标准是什么？"
+            ],
+            "公司业务员在不知情情况下参与诈骗活动如何认定责任？": "### 结论\n公司业务员在不知情情况下参与诈骗活动，其责任认定主要取决于业务员是否具有共同犯罪的故意、是否明知自己参与的是诈骗行为以及在共同犯罪中所起的作用大小。如果业务员在不知情的情况下被利用，没有参与诈骗的预谋和实施，且在共同犯罪中仅起次要或辅助作用，通常会被认定为从犯，依法可以从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **业务员的主观故意**：业务员是否明知自己参与的是诈骗行为。例如，【（2017）渝02刑终128号】中，法院认为除陈德开外的其余各上诉人、原审被告人直接实施犯罪，对犯罪所得与余彬彬平均分赃，在各自直接实施的犯罪中的作用与余彬彬相当，不认定为从犯。而陈德开在共同犯罪中起次要和辅助作用，系从犯，应从轻或减轻处罚。\n- **业务员在共同犯罪中的作用**：业务员在共同犯罪中所起的作用大小。例如，【（2017）京0114刑初834号】中，法院认为李海娇、许震青、吴建志、甘露露、亮亮、何鲜苹、庞茹雪、裴晓培、王明明、任华、潘依傅、余浩、李阳阳、王友民的犯罪数额均为其直接参与诈骗的数额，使用话术给被害人打电话，使被害人产生错误认识，是诈骗行为的关键，不能认定各被告人自己实施的诈骗数额起次要或者辅助作用。\n- **业务员是否主动退赃、认罪态度**：业务员的退赃情况和认罪态度也会影响量刑。例如，【（2020）闽07刑终255号】中，法院认为杨伟诚、林勇煊、林锦标、黄明莹积极退赃，黄明莹主动缴纳罚金，这些行为可以作为从轻处罚的情节。\n\n综上，公司业务员在不知情情况下参与诈骗活动，其责任认定主要看其是否具有共同犯罪的故意，是否在共同犯罪中起主要作用，以及其退赃和认罪态度。如果业务员在不知情的情况下被利用，没有参与诈骗的预谋和实施，且在共同犯罪中仅起次要或辅助作用，通常会被认定为从犯，依法可以从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2017）渝02刑终128号】：法院认为，余彬彬组织指挥多人利用电信网络技术手段实施诈骗，诈骗公私财物，数额达到刑事入罪数额标准以上，许宏琴还参与黄河绪诈骗犯罪，数额较大，其行为均已构成诈骗罪。在共同犯罪中，余彬彬是首要分子，应对集团所犯的全部罪行处罚，其余被告人分别按照余彬彬的安排实施犯罪，应分别对其参与实施的具体罪行负责。陈德开系从犯，应从轻或减轻处罚。许宏琴在与黄河绪的共同犯罪中系从犯，应从轻或减轻处罚。余彬彬有立功表现，可从轻处罚。王洪、杜启选、王贤方、冯强、张小燕、杨波、许宏琴、毛海兵及原审被告人杨显富、张小军应对其实际骗取的数额承担责任。法院判决各被告人犯诈骗罪，根据各自的犯罪数额、情节、认罪态度等，判处不同的有期徒刑和罚金。其中，余彬彬被判处有期徒刑十年六个月，并处罚金人民币三十万元；王洪被判处有期徒刑二年六个月，并处罚金人民币一万元；杜启选被判处有期徒刑四年，并处罚金人民币一万五千元；王贤方、冯强、张小燕、杨波、杨显富、许宏琴、毛海兵、陈德开、张小军、杨显富等被判处不同期限的有期徒刑，并处罚金。\n【（2017）京0114刑初834号】：法院认为，各被告人的行为构成诈骗罪，张齐晶还构成侵犯公民个人信息罪。石洁、叶云鹏、王承林系主犯，其余被告系从犯。根据各被告人的犯罪数额、情节及退赃情况，依法作出判决。法院对张齐晶、石洁、叶云鹏、王承林、李海娇、许震青、吴建志、甘露露、亮亮、何鲜苹、庞茹雪、裴晓培、王明明、任华、潘依傅、余浩、李阳阳、王友民分别判处有期徒刑、罚金及剥夺政治权利等刑罚，并责令退赔被害人经济损失。对张齐晶还判处侵犯公民个人信息罪相应刑罚。在案扣押的涉案物品予以没收。\n【（2020）闽07刑终255号】：法院认为，陈章钦、郑孝清、杨伟诚、林勇煊起主要作用，系主犯；温明江、林锦标、付文辉、陈林、黄明莹、卢秀禧、罗兰娟起次要作用，系从犯；卢秀禧自首，付文辉认罪认罚，郑孝清等坦白，杨伟诚等退赃，陈林等缴纳罚金，但陈章钦、郑孝清、杨伟诚、温明江、林勇煊、林锦标、付文辉、陈林、黄明莹、卢秀禧多次诈骗，杨伟诚有犯罪前科。陈章钦、郑孝清、杨伟诚、温明江、林勇煊、林锦标、付文辉、陈林、黄明莹、卢秀禧、罗兰娟的行为构成诈骗罪，其中陈章钦等诈骗数额特别巨大，林勇煊等诈骗数额巨大，罗兰娟诈骗数额较大。法院依法判处陈章钦等人有期徒刑十二年四个月至拘役五个月不等，并处罚金十五万元至四千元不等，对部分被告人适用缓刑，追缴违法所得，退赔被害人，没收作案工具。\n法院对被告人的量刑予以维持，纠正了原判中对林勇煊的罚金刑和退赔处理不当之处，依法改判。被告人对判决无异议，判决生效。",
+            "合同诈骗罪中从犯的认定标准是什么？": "### 结论\n合同诈骗罪中从犯的认定标准主要基于行为人在共同犯罪中的作用和地位，包括但不限于是否起次要或辅助作用，是否参与预谋，是否实际实施主要犯罪行为，以及在犯罪过程中的具体分工和作用。即使幕后主犯未到案，也可以根据现有证据认定从犯。证明主犯的证据不足时，应从轻认定被告人为从犯，遵循存疑时有利于被告人的原则。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采用虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的认定，即在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用**：如果行为人在共同犯罪中起次要或辅助作用，应认定为从犯。例如，【（2018）苏0722刑初296号】中，被告鲍鲸鲸、沈男在共同犯罪中起次要作用，被认定为从犯。\n- **是否参与预谋和实施主要犯罪行为**：未参与预谋，仅在犯罪过程中起辅助作用的，可以认定为从犯。例如，【（2017）浙1004刑初57号】中，被告人徐杰被辩称为只是帮阮某1打工，但法院认为其参与了预谋和实施，未认定为从犯。\n- **犯罪过程中的具体分工和作用**：在共同犯罪中，根据各自分工和作用的不同，可以区分主从犯。例如，【（2020）粤0303刑初64号】中，被告人曾相元、郭运启各自分工，积极实施犯罪行为，均被认定为主犯。\n- **证明主犯的证据不足时的处理原则**：如果现有证据不能认定被告人系主犯，或者认定其为主犯的证据证明力不足，应从轻认定被告人为从犯。例如，【（2014）张刑终字第13号】中，因证据不足，未认定被告人朱某卫犯合同诈骗罪。\n\n综上，合同诈骗罪中从犯的认定需综合考虑行为人在共同犯罪中的作用、是否参与预谋、是否实施主要犯罪行为以及犯罪过程中的具体分工和作用，遵循存疑时有利于被告人的原则，即使主犯未到案，也可以根据现有证据认定从犯。\n\n#####\n类似案件为：\n【（2018）苏0722刑初296号】：法院认为，被告人鲍鲸鲸、沈男以非法占有为目的，无实际履行能力，采用部分履行合同的方法，诱骗对方财物，数额巨大，构成合同诈骗罪。二被告在共同犯罪中分工不同，非从犯。合同诈骗数额按实际骗取的83万元认定。鲍鲸鲸坦白，可从轻处罚；沈男自首，可从轻处罚。被告人鲍鲸鲸犯合同诈骗罪，判处有期徒刑四年六个月，并处罚金十万元；被告人沈男犯合同诈骗罪，判处有期徒刑三年六个月，并处罚金五万元。二被告连带退赔被害单位83万元。\n【（2017）浙1004刑初57号】：法院认为，被告人徐杰以非法占有为目的，结伙在签订、履行合同过程中，利用虚假身份，诱骗对方当事人继续签订、履行合同，骗取财物，数额巨大，其行为已构成合同诈骗罪。公诉机关指控罪名不当，予以纠正。被告人徐杰与阮某1预谋并实施合同诈骗，否认其知晓并具有骗取缝纫机的主观故意，不符合从犯及坦白情节。依照《中华人民共和国刑法》第二百二十四条、第二十五条第一款、第六十四条之规定，判决如下：\n一、被告人徐杰犯合同诈骗罪，判处有期徒刑三年九个月，并处罚金人民币五万五千元。\n二、被告人徐杰于判决生效之日起一个月内退赔29.27万元给诸被害人。\n【（2020）粤0303刑初64号】：法院认为，被告人曾相元、郭运启以非法占有为目的，在签订、履行合同过程中，采取虚构事实、隐瞒真相的手段，骗取对方财物，数额特别巨大，其行为均已构成合同诈骗罪。两被告人在共同犯罪中均起主要作用，系主犯。法院判决被告人曾相元、郭运启犯合同诈骗罪，均判处有期徒刑十年，并处罚金人民币20000元，责令两被告人连带退赔被害人张某2人民币255万元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强化证据链完整性，通过被害人陈述、书证、电子数据等证据相互印证，证实贺某参与诈骗222740元的事实，突出其明知公司无实际履行能力仍实施诈骗的主观故意。2.明确犯罪构成要件，根据《刑法》第224条，重点论述贺某以非法占有为目的，在签订合同过程中采取虚构事实、隐瞒真相的手段骗取财物，符合合同诈骗罪的构成要件。3.论述社会危害性，指出贺某的行为不仅侵犯被害人财产权，还扰乱电商行业市场秩序，应从重处罚。4.质疑辩护人关于贺某主观故意不足的辩护，强调贺某明知公司无实际履行能力仍参与诈骗活动，具有明显的非法占有目的。\n\n防御策略：1.维护证据合法性，强调所有书证、电子数据均由公安机关依法调取，鉴定程序合规，不存在非法证据排除情形。2.强调被告人供述稳定性，指出贺某在侦查阶段对犯罪事实供认不讳，其当庭供述与侦查阶段供述一致，具有可信度。3.突出被害人陈述一致性，8名被害人分别陈述的受骗经过与公司内部资料高度吻合，形成完整证据链条。4.反驳辩护人关于证据关联性的质疑，强调共同犯罪中各参与人均应对整体犯罪结果承担刑事责任，贺某不能以其仅执行公司指令为由免除责任。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。\n\n举证质证阶段总结：\n\n1. 公诉人出示了20项证据，包括：\n   - 被告人在侦查阶段的供述（承认参与公司诈骗活动，骗取加盟费222740元，个人获利58163元）\n   - 8名被害人陈述（均证实公司未兑现承诺服务，存在虚假宣传行为）\n   - 6名证人证言（证实公司无实际履行能力、存在系统性诈骗行为）\n   - 多份书证（合同、转账记录、财务资料等证明诈骗金额及资金流向）\n   - 电子数据（虚假宣传资料及业绩数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对主要证据提出质证意见：\n   - 认为证据仅能证明公司整体行为，无法直接证明被告人个人具有诈骗故意\n   - 强调被告人系执行公司指令，对公司违法性缺乏明知\n   - 主张证据与被告人主观要件关联性不足\n\n4. 公诉人针对辩护意见逐一回应：\n   - 强调证据间相互印证形成完整证据链\n   - 指出被告人明知公司无履行能力仍参与诈骗\n   - 主张共同犯罪中各参与人均应承担责任\n\n5. 重要证据争议焦点：\n   - 公司整体行为与被告人个人责任的区分\n   - 被告人主观故意的证明程度\n   - 共同犯罪中各参与人的责任认定\n\n6. 辩护人未出示新证据，被告人未申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "公司员工按照公司指令实施诈骗行为是否构成共同犯罪？",
+              "业务员明知公司无实际履行能力仍参与合同签订是否构成合同诈骗罪？"
+            ],
+            "公司员工按照公司指令实施诈骗行为是否构成共同犯罪？": "### 结论\n公司员工按照公司指令实施诈骗行为，如果员工明知或应知其行为的性质和后果，且积极参与实施诈骗，构成共同犯罪。员工是否构成共同犯罪，关键在于其是否具有共同犯罪的故意和行为，以及在犯罪中所起的作用。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十五条**：共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **员工的主观故意**：员工是否明知或应知其行为的性质和后果，是否具有共同犯罪的故意。例如，【（2011）粤高法刑二终字第100号】中，法院认为公司化运作的犯罪集团中各行为人的刑事责任承担，应当按照刑法关于共同犯罪的规定，结合行为人的入职时间、职务、职权、是否参与决策和管理、具体行为、影响力、获利情况等综合判定其在共同犯罪中的地位、作用、罪责等，确定主犯、从犯、胁从犯，并准确适用刑罚。\n- **员工在犯罪中的作用**：员工在共同犯罪中所起的作用，是否为主犯、从犯或胁从犯。例如，【（2020）浙0681刑初870号】中，法院认为市场部、拓展部、客服部等各部门在共同犯罪中分工不同，不同部门的各被告人相互配合，行为性质相同，对于社会的危害程度相当，其地位和作用相较而言，拓展部的作用相对较大，法院在对各被告人量刑时充分考虑上述情节、情形。\n- **员工的参与程度**：员工是否积极参与实施诈骗，是否为诈骗行为提供帮助。例如，【（2018）闽04刑终347号】中，法院认为虽然行为人事先与诈骗“上线”未就如何具体实施诈骗犯罪进行预谋，但就其所处的生活环境以及被告人的个人认知水平，其是知道也应当知道诈骗“上线”所实施行为的严重社会危害性已经达到犯罪程度，在诈骗“上线”实施犯罪行为过程中，行为人提供银行卡账户，并协助提取赃款等行为，均是诈骗犯罪不可缺少的重要组成部分，只是在诈骗犯罪中分工不同而已，应当以诈骗共犯论处。\n\n综上，公司员工按照公司指令实施诈骗行为是否构成共同犯罪，关键在于员工是否具有共同犯罪的故意和行为，以及在犯罪中所起的作用。如果员工明知或应知其行为的性质和后果，且积极参与实施诈骗，构成共同犯罪。员工的主观故意、在犯罪中的作用和参与程度是判断是否构成共同犯罪的重要因素。\n\n#####\n类似案件为：\n【（2011）粤高法刑二终字第100号】：法院生效裁判认为：被告人范某榔等43人以非法占有为目的，虚构事实，骗取他人财物，数额特别巨大，其行为均已构成诈骗罪，且构成共同犯罪。范某榔系某盛公司实际负责人，在实施诈骗过程中存在三组成员相互配合并诈骗成功的情况，各组成员之间共享诈骗利益。某盛公司在实施诈骗时实行统一管理，成员间穿插配合，分享利益，所有成员均应对某盛公司的整体犯罪行为承担刑事责任。在共同犯罪中，范某榔组织、领导犯罪集团实施诈骗行为，是诈骗集团的首要分子，依法按照集团所犯的全部罪行处罚；陈某达、简某助等11人在共同犯罪中起主要作用，是主犯，依法按照其所参与的全部犯罪处罚。钟某伦等31名被告人在诈骗犯罪中起次要、辅助作用，是从犯，依法应当从轻、减轻处罚，其中，黄某梅等6人犯罪情节较轻，适用缓刑确实不致再危害社会，依法对其可以宣告缓刑。故法院依法作出如上裁判。\n【（2020）浙0681刑初870号】：法院认为，各被告人事先通谋，虚构事实、隐瞒真相，骗取他人财物，数额特别巨大，构成诈骗罪，系共同犯罪。各被告人在共同犯罪中起到从犯作用，依法可减轻处罚。部分被告人自首、自愿认罪认罚，可从轻或减轻处罚。法院判决岳楠等被告人犯诈骗罪，判处有期徒刑五年十个月至三年不等，并处罚金人民币四万元至一万元不等，部分被告人适用缓刑。责令退缴违法所得，按比例发还被害人。\n法院判决充分考虑到各被告人的犯罪情节、退赃情况、认罪态度等，依法作出公正判决。\n【（2018）闽04刑终347号】：法院认为，被告人林建波伙同他人以非法占有为目的，采用虚构事实，隐瞒真相的方法，骗取他人财物，数额巨大，其行为构成诈骗罪。林建波与同案人在实施诈骗过程中，主观上具有共同犯罪故意，客观上互相配合，是共同犯罪，应对共同参与的犯罪结果负责。林建波虽主动到案，但未如实供述其犯罪事实，不能认定为自首。法院维持原判对林建波的定罪量刑，即林建波犯诈骗罪，判处有期徒刑三年六个月，并处罚金人民币五千元。但原判中关于退赔违法所得的判决存在重复，予以纠正，判决林建波与另案犯陈水源共同诈骗尚未退出的违法所得人民币17.891445万元继续追缴，发还被害人。",
+            "业务员明知公司无实际履行能力仍参与合同签订是否构成合同诈骗罪？": "### 结论\n业务员明知公司无实际履行能力仍参与合同签订，如果其行为符合合同诈骗罪的构成要件，即以非法占有为目的，在签订、履行合同过程中，采取欺骗手段，骗取对方当事人财物，数额较大的，可以构成合同诈骗罪。关键在于判断行为人是否具有非法占有的主观故意，以及其行为是否客观上构成虚构事实或隐瞒真相。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，构成合同诈骗罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：法院会审查行为人是否具有非法占有的主观故意，如【（2019）辽13刑终205号】中，上诉人李海燕明知无实际履行合同能力，仍以公司名义与被害人签订合同，骗取货物或预付货款，其所得款项并未用于公司生产经营，而是被个人非法占有，构成合同诈骗罪。\n- **履约能力与履约行为**：法院会考察行为人是否具有实际履行合同的能力，以及是否采取了实际的履约行为，如【（2019）云3123刑初332号】中，被告人鲁和平在明知其没有实际履行能力的情况下，以签订买卖合同的方式，骗取被害人履行合同，造成被害人财产损失，构成合同诈骗罪。\n- **欺骗手段**：法院会审查行为人是否采取了虚构事实或隐瞒真相的欺骗手段，如【（2017）浙01刑初170号】中，被告人鞠某甲等人通过虚假广告招揽客户，虚构拥有自有工厂，能够提供具有竞争力的产品，引诱客户签订或升级服务合同，构成合同诈骗罪。\n\n综上，业务员明知公司无实际履行能力仍参与合同签订，如果其行为符合上述关键因素，即存在非法占有目的，缺乏履约能力，未采取实际履约行为，且采取了欺骗手段，可以构成合同诈骗罪。反之，如果行为人有实际履约能力，或虽无履约能力但未采取欺骗手段，或虽采取欺骗手段但无非法占有目的，则不构成合同诈骗罪。\n\n#####\n类似案件为：\n【（2019）辽13刑终205号】：法院认为，李海燕在签订煤炭买卖及铁粉买卖合同时，明知无实际履行合同能力，仍签订合同，骗取对方当事人财物，数额特别巨大，其行为构成合同诈骗罪。李海燕与余某、熊某2、杨某2、高某1签订铁矿石爆破合同、铁矿石运输合同，收取的392万元保证金，用于东某公司的生产经营，不构成合同诈骗罪。李海燕被传唤至公安机关后如实供述了自己的主要犯罪事实，构成自首，依法可以从轻处罚。撤销原审判决，改判李海燕犯合同诈骗罪，判处有期徒刑十年，并处罚金人民币10万元，继续追缴李海燕违法所得1761225.2元，返还各被害人。\n【（2019）云3123刑初332号】：法院认为，被告人鲁和平明知自己无实际履行合同能力，以签订买卖合同的方式骗取对方财物，数额较大，其行为已构成合同诈骗罪。鉴于鲁和平坦白认罪，可从轻处罚。被告人鲁和平犯合同诈骗罪，判处有期徒刑九个月，并处罚金人民币伍仟元。追缴违法所得43,200元。\n判决体现了罪责刑相适应原则，鲁和平应在判决生效之日起五日内缴纳罚金。若不服判决，可在接到判决书的第二日起十日内，通过原审法院或直接向云南省德宏傣族景颇族自治州中级人民法院提出上诉。\n【（2017）浙01刑初170号】：法院生效裁判认为：被告人鞠某甲伙同张某、唐某甲、王某乙、鞠某乙以非法占有为目的，明知自身没有履约能力仍通过虚假广告招揽客户，在签订、履行合同过程中骗取被害人财物，数额特别巨大，其行为均已构成合同诈骗罪。被告人鞠某甲等人的犯罪行为除侵犯被害人的财产所有权之外，还扰乱了电商行业的市场秩序，公诉机关指控罪名有误，依法予以纠正，被告人及辩护人所提本案构成合同诈骗罪的意见予以采纳。关于唐某甲及其辩护人所提本案系单位犯罪的辩解及辩护意见，经审理认为，鞠某甲伙同张某等人为实施诈骗犯罪成立某甲公司、某乙公司，上述公司成立后从事以淘宝代运营为幌子的诈骗活动，所得利益均被鞠某甲等人以分红或提成方式瓜分，本案不符合单位犯罪的构成要件，依法不构成单位犯罪。鞠某甲系某甲公司、某乙公司的主要出资者和实际控制人，负责公司对外推广并控制公司收款账户，在共同犯罪中系主犯，张某、唐某甲、王某乙、鞠某乙虽系公司股东或高管，但未参与经营决策且占股比例较低、实际分赃数额较少，起次要作用，依法可认定为从犯并减轻处罚，被告人及辩护人所提相关意见予以采纳。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的被害人陈述存在高度同质化，未能充分体现个案差异性，可能夸大实际损失2.电子证据检查笔录未说明提取过程的完整性和真实性，存在被篡改风险3.业绩表与工资发放统计光盘的关联性不足，不能直接证明贺某个人涉案金额\n防御策略：1.贺某系从犯，仅执行公司既定话术，未参与诈骗模式设计2.已全额退缴违法所得，悔罪态度明显3.文化程度较低且为初犯，受公司管理制度误导实施犯罪",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。\n\n举证质证阶段总结：\n\n1. 公诉人出示了20项证据，包括：\n   - 被告人在侦查阶段的供述（承认参与公司诈骗活动，骗取加盟费222740元，个人获利58163元）\n   - 8名被害人陈述（均证实公司未兑现承诺服务，存在虚假宣传行为）\n   - 6名证人证言（证实公司无实际履行能力、存在系统性诈骗行为）\n   - 多份书证（合同、转账记录、财务资料等证明诈骗金额及资金流向）\n   - 电子数据（虚假宣传资料及业绩数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对主要证据提出质证意见：\n   - 认为证据仅能证明公司整体行为，无法直接证明被告人个人具有诈骗故意\n   - 强调被告人系执行公司指令，对公司违法性缺乏明知\n   - 主张证据与被告人主观要件关联性不足\n\n4. 公诉人针对辩护意见逐一回应：\n   - 强调证据间相互印证形成完整证据链\n   - 指出被告人明知公司无履行能力仍参与诈骗\n   - 主张共同犯罪中各参与人均应承担责任\n\n5. 重要证据争议焦点：\n   - 公司整体行为与被告人个人责任的区分\n   - 被告人主观故意的证明程度\n   - 共同犯罪中各参与人的责任认定\n\n6. 辩护人未出示新证据，被告人未申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "公司员工按照公司统一话术进行营销是否构成诈骗罪？",
+              "员工在不知情情况下参与公司诈骗活动如何认定责任？"
+            ],
+            "公司员工按照公司统一话术进行营销是否构成诈骗罪？": "### 结论\n公司员工按照公司统一话术进行营销，如果该话术涉及虚构事实、隐瞒真相，使客户基于错误认识处分财产，且员工具有非法占有的目的，其行为可能构成诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：员工是否具有非法占有的目的。例如，【（2019）晋01刑终183号】中，法院认为各上诉人接受公司培训，使用虚假身份和“话术”诱骗被害人充值，具有明显的诈骗故意。\n- **客观行为**：是否采取了虚构事实、隐瞒真相的手段。如【（2019）晋01刑终183号】中，员工使用虚假的“白富美”女性形象，通过聊天、发送虚假中奖截图等方式诱骗被害人。\n- **犯罪数额**：诈骗的数额是否达到刑法规定的标准。如【（2019）晋01刑终183号】中，原审根据彩票网管理账户统计情况认定各上诉人的犯罪数额。\n- **从犯与主犯的区分**：在共同犯罪中，员工是否起主要作用。如【（2019）晋01刑终183号】中，冯杨被认定为主犯，因其负责公司的运营及销售，对员工进行统一管理。\n- **单位犯罪的认定**：公司是否成立的目的就是为了实施犯罪行为。如【（2019）晋01刑终183号】中，山西铂达鸿业电子商务有限公司成立的目的就是为了实施犯罪行为，依法不构成单位犯罪。\n\n综上，公司员工按照公司统一话术进行营销，如果该行为涉及虚构事实、隐瞒真相，使客户基于错误认识处分财产，且员工具有非法占有的目的，其行为可能构成诈骗罪。在判断是否构成诈骗罪时，需要综合考虑主观故意、客观行为、犯罪数额、从犯与主犯的区分以及单位犯罪的认定等因素。\n\n#####\n类似案件为：\n【（2019）晋01刑终183号】：法院认为，24名被告人以非法占有为目的，采取虚构事实、隐瞒真相的手段，利用互联网对不特定多数人实施电信诈骗犯罪，构成诈骗罪。冯杨在犯罪团伙中起主要作用，系主犯。其余23名被告人受纠集参与诈骗，系从犯，应当从轻或减轻处罚。各被告人均当庭认罪，退赔违法所得，可酌情从轻处罚。各被告人及辩护人关于犯罪金额应以被害人实际亏损来认定的辩解，不予采纳。法院判决如下：\n1. 被告人冯杨犯诈骗罪，判处有期徒刑十四年，并处罚金二十万元。\n2. 被告人温俊、李剑锋、胡梦君等23人犯诈骗罪，判处有期徒刑三年三个月至一年三个月不等，并处罚金。\n3. 继续追缴涉案款项，返还被害人；已冻结、扣押的款项用于执行追缴部分。\n4. 作案工具全部予以没收。\n5. 上诉人段鹏、王慧、景巧英因犯罪金额、退款退赔及取得谅解情况，量刑不当，予以改判。\n6. 上诉人景巧英犯罪金额相对较小，如实供述犯罪事实，主动缴纳罚金，适用社区矫正，予以改判为缓刑。\n本判决为终审判决，自宣判之日起生效。\n【（2019）晋01刑终183号】：法院认为，24名被告人以非法占有为目的，采取虚构事实、隐瞒真相的手段，利用互联网对不特定多数人实施电信诈骗犯罪，构成诈骗罪。冯杨在犯罪团伙中起主要作用，系主犯。其余23名被告人受纠集参与诈骗，系从犯，应当从轻或减轻处罚。各被告人均当庭认罪，退赔违法所得，可酌情从轻处罚。各被告人及辩护人关于犯罪金额应以被害人实际亏损来认定的辩解，不予采纳。法院判决如下：\n1. 被告人冯杨犯诈骗罪，判处有期徒刑十四年，并处罚金二十万元。\n2. 被告人温俊、李剑锋、胡梦君等23人犯诈骗罪，判处有期徒刑三年三个月至一年三个月不等，并处罚金。\n3. 继续追缴涉案款项，返还被害人；已冻结、扣押的款项用于执行追缴部分。\n4. 作案工具全部予以没收。\n5. 上诉人段鹏、王慧、景巧英因犯罪金额、退款退赔及取得谅解情况，量刑不当，予以改判。\n6. 上诉人景巧英犯罪金额相对较小，如实供述犯罪事实，主动缴纳罚金，适用社区矫正，予以改判为缓刑。\n本判决为终审判决，自宣判之日起生效。\n【（2019）晋01刑终183号】：法院认为，24名被告人以非法占有为目的，采取虚构事实、隐瞒真相的手段，利用互联网对不特定多数人实施电信诈骗犯罪，构成诈骗罪。冯杨在犯罪团伙中起主要作用，系主犯。其余23名被告人受纠集参与诈骗，系从犯，应当从轻或减轻处罚。各被告人均当庭认罪，退赔违法所得，可酌情从轻处罚。各被告人及辩护人关于犯罪金额应以被害人实际亏损来认定的辩解，不予采纳。法院判决如下：\n1. 被告人冯杨犯诈骗罪，判处有期徒刑十四年，并处罚金二十万元。\n2. 被告人温俊、李剑锋、胡梦君等23人犯诈骗罪，判处有期徒刑三年三个月至一年三个月不等，并处罚金。\n3. 继续追缴涉案款项，返还被害人；已冻结、扣押的款项用于执行追缴部分。\n4. 作案工具全部予以没收。\n5. 上诉人段鹏、王慧、景巧英因犯罪金额、退款退赔及取得谅解情况，量刑不当，予以改判。\n6. 上诉人景巧英犯罪金额相对较小，如实供述犯罪事实，主动缴纳罚金，适用社区矫正，予以改判为缓刑。\n本判决为终审判决，自宣判之日起生效。",
+            "员工在不知情情况下参与公司诈骗活动如何认定责任？": "### 结论\n员工在不知情情况下参与公司诈骗活动的责任认定，主要取决于其是否明知或应知公司从事诈骗行为，以及其在犯罪中的作用和地位。如果员工能够证明自己确实不知情，且在犯罪活动中仅起到次要或辅助作用，法院可能会认定其为从犯，从而减轻或从轻处罚。但如果员工在公司中担任重要职务，即使声称不知情，法院也可能根据其职责和行为推定其应知诈骗行为，进而认定为主犯或从犯，按其参与的全部犯罪处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **员工的知情状态**：如果员工能够证明自己确实不知情，且在犯罪活动中仅起到次要或辅助作用，法院可能会认定其为从犯，从而减轻或从轻处罚。例如，【（2019）豫17刑终378号】中，法院认定马金丽、姜鹏、王冶、项友文在共同犯罪中所起作用较小，均系从犯，应当减轻或从轻处罚。\n- **员工在犯罪中的作用和地位**：如果员工在公司中担任重要职务，即使声称不知情，法院也可能根据其职责和行为推定其应知诈骗行为，进而认定为主犯或从犯，按其参与的全部犯罪处罚。例如，【（2021）豫0922刑初6号】中，杨武昌虽未直接实施诈骗行为，但作为财务管理人员，其经管资金等行为对犯罪集团的维系、运行起到重要作用，被认定为主犯，应对其参与期间集团成员实施的全部诈骗活动承担责任。\n- **员工的认罪态度和退赃情况**：员工如果能够如实供述自己的罪行，退赃或取得被害人谅解，可以从轻或减轻处罚。例如，【（2019）豫08刑终380号】中，上诉人王慧、原审被告人林培培退还全部犯罪金额，上诉人胡纪权退还全部犯罪金额并取得被害人谅解，均可以酌情从轻处罚。\n\n综上，员工在不知情情况下参与公司诈骗活动的责任认定，关键在于其是否明知或应知公司从事诈骗行为，以及其在犯罪中的作用和地位。法院会综合考虑员工的知情状态、在犯罪中的作用、认罪态度和退赃情况等因素，来决定是否减轻或从轻处罚。\n\n#####\n类似案件为：\n【（2019）豫17刑终378号】：法院认为，马金丽、姜鹏、王冶、项友文的行为构成诈骗罪。马金丽、姜鹏、王冶的犯罪数额特别巨大，项友文的犯罪数额较大。四被告人在共同犯罪中起次要作用，系从犯，应减轻或从轻处罚。姜鹏、王冶已全额退赃，可酌情从轻处罚。马金丽犯诈骗罪，判处有期徒刑五年，并处罚金人民币二万元；姜鹏犯诈骗罪，判处有期徒刑三年六个月，并处罚金人民币二万元；王冶犯诈骗罪，判处有期徒刑一年三个月，并处罚金人民币一万元（已缴纳）；项友文犯诈骗罪，判处有期徒刑十个月，并处罚金人民币三千元。责令各被告人与其他同案人连带退赔被害人经济损失。\n【（2021）豫0922刑初6号】：法院认为，杨武昌明知“500彩票”公司实施诈骗，仍接受安排管理资金，与诈骗实行行为人构成共犯，应以诈骗罪追究刑事责任。杨武昌虽未直接参与诈骗，但其资金管理行为对犯罪集团的运行起重要作用，系主犯，应对其参与期间集团成员实施的全部诈骗活动承担责任。杨武昌犯诈骗罪，数额特别巨大，系犯罪集团主犯。鉴于其在境外实施电信网络诈骗，酌情从重处罚。杨武昌具有投案情节，量刑时予以考虑。判决杨武昌有期徒刑十一年，并处罚金人民币二十万元，责令其与同案参与人共同退赔被害人经济损失。\n法院判决被告人杨武昌犯诈骗罪，判处有期徒刑十一年，并处罚金人民币二十万元，责令其与同案参与人共同退赔被害人经济损失。\n【（2019）豫08刑终380号】：法院认为，潘泽锋、陶九栋等28人以非法占有为目的，虚构事实，诈骗他人财物，构成诈骗罪，根据各自犯罪数额、主从犯地位、认罪态度、退赃情况及诈骗老年人情节，原判认定事实清楚，证据确实充分，但对部分被告人量刑不当。维持对陶九栋、孔祥光、姬江平、蔡飞飞、黄晓娥的原判；对潘泽锋量刑适当调整；对罗双双、孙灵敏、冯英霞、严靓玉、周元元、倪传胜、刘浩然、郑双双、胡纪权、蔡盼盼及原审部分被告人量刑减轻。\n判决潘泽锋有期徒刑十四年，并处罚金300000元；严靓玉有期徒刑五年十个月，并处罚金60000元；罗双双有期徒刑五年四个月，并处罚金55000元；周元元有期徒刑四年一个月，并处罚金40000元；孙灵敏有期徒刑三年十一个月，并处罚金35000元；冯英霞有期徒刑三年九个月，并处罚金30000元；倪传胜有期徒刑三年六个月，并处罚金13000元；刘浩然有期徒刑三年二个月，并处罚金30000元；王慧有期徒刑二年七个月，并处罚金6000元；张珊珊有期徒刑二年七个月，并处罚金3000元；郑双双有期徒刑二年五个月，并处罚金22000元；胡纪权有期徒刑一年三个月，并处罚金7000元；蔡盼盼有期徒刑一年三个月，并处罚金3500元；蔡莹莹有期徒刑三年六个月，并处罚金10000元；周宗强有期徒刑三年三个月，并处罚金2000元；别祥玲有期徒刑二年十个月，并处罚金6000元；颜锁平有期徒刑二年十个月，并处罚金2500元；林培培有期徒刑十一个月十一天，并处罚金1000元。\n本判决为终审判决。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.贺某系从犯，仅按照公司既定话术执行工作，未参与诈骗模式的设计和决策 2.已全额退缴违法所得58163元，悔罪态度明显 3.文化程度较低且为初犯，受公司管理制度误导实施犯罪 4.在共同犯罪中作用较小，获利比例远低于公司实际控制人 5.愿意接受法律制裁并承诺不再犯罪",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人贺某是否构成合同诈骗罪。查明情况：公诉人通过被告人供述、被害人陈述及书证等证据证实贺某明知公司无实际履行能力仍使用虚假资料诱导客户签约，构成合同诈骗罪。辩护人对罪名未提出异议。审判长认为现有证据足以认定贺某构成合同诈骗罪。\n\n2.被告人贺某在共同犯罪中的地位和作用。查明情况：公诉人指出贺某系招商部业务员，直接参与诈骗活动；辩护人强调贺某仅按公司安排工作，未参与诈骗模式设计。审判长认为贺某在共同犯罪中起次要作用，符合从犯认定标准。\n\n3.被告人贺某的主观明知程度及认知转变时间。查明情况：辩护人通过讯问证实贺某2015年才意识到可能违法；公诉人认为贺某入职时即应明知公司诈骗性质。审判长认为需进一步查明其主观认知转变的具体时间点。\n\n4.涉案金额的认定及违法所得处理。查明情况：公诉人出示的银行交易明细等证据证实贺某参与骗取222740元，个人获利58163元且已全额退缴。被告人对此无异议。审判长认为金额认定清楚，退赃情节应予确认。\n\n5.被害人损失与被告人行为的因果关系。查明情况：公诉人通过被害人陈述与公司内部资料印证证实直接因果关系；辩护人认为证据仅反映公司整体行为。审判长认为共同犯罪中各参与人均应对整体结果负责，因果关系成立。\n\n6.电子证据的合法性与证明力。查明情况：辩护人对电子证据提取程序提出质疑；公诉人出示了完整的提取笔录和技术人员签名。审判长认为电子证据提取程序合法，具有证明力。\n\n7.量刑情节的综合考量。查明情况：辩护人强调贺某系初犯、从犯、全额退赃；公诉人指出诈骗金额巨大、社会影响恶劣。审判长认为需综合考量从犯地位、退赃情节与社会危害性等因素。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。\n\n举证质证阶段总结：\n\n1. 公诉人出示了20项证据，包括：\n   - 被告人在侦查阶段的供述（承认参与公司诈骗活动，骗取加盟费222740元，个人获利58163元）\n   - 8名被害人陈述（均证实公司未兑现承诺服务，存在虚假宣传行为）\n   - 6名证人证言（证实公司无实际履行能力、存在系统性诈骗行为）\n   - 多份书证（合同、转账记录、财务资料等证明诈骗金额及资金流向）\n   - 电子数据（虚假宣传资料及业绩数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对主要证据提出质证意见：\n   - 认为证据仅能证明公司整体行为，无法直接证明被告人个人具有诈骗故意\n   - 强调被告人系执行公司指令，对公司违法性缺乏明知\n   - 主张证据与被告人主观要件关联性不足\n\n4. 公诉人针对辩护意见逐一回应：\n   - 强调证据间相互印证形成完整证据链\n   - 指出被告人明知公司无履行能力仍参与诈骗\n   - 主张共同犯罪中各参与人均应承担责任\n\n5. 重要证据争议焦点：\n   - 公司整体行为与被告人个人责任的区分\n   - 被告人主观故意的证明程度\n   - 共同犯罪中各参与人的责任认定\n\n6. 辩护人未出示新证据，被告人未申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人主要辩论意见：\n- 认定犯罪事实清楚，证据确实充分，形成完整证据链\n- 贺某主观上具有非法占有目的，符合合同诈骗罪构成要件\n- 社会危害性严重，扰乱市场秩序，应从重处罚\n- 贺某作为共同犯罪人应对整体犯罪结果负责\n\n2. 辩护人主要辩护意见：\n- 犯罪金额认定应区分主从犯责任\n- 贺某主观恶性较小，应认定为从犯\n- 具有认罪悔罪、全额退赃等从轻情节\n- 个人行为社会危害性相对有限\n\n3. 双方争议焦点：\n- 关于共同犯罪责任认定（主从犯区分）\n- 关于电子证据合法性与真实性\n- 关于被害人陈述的可信度\n- 关于退赃情节对量刑的影响\n\n4. 核心法律适用争议：\n- 《刑法》第25条共同犯罪责任与第27条从犯认定的适用\n- 《刑事诉讼法》关于电子证据和被害人陈述的采信标准\n- 《最高人民法院量刑指导意见》关于退赃情节的适用",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十六条",
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条",
+              "最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释第七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十六条": "组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。三人以上为共同实施犯罪而组成的较为固定的犯罪组织，是犯罪集团。对组织、领导犯罪集团的首要分子，按照集团所犯的全部罪行处罚。对于第三款规定以外的主犯，应当按照其所参与的或者组织、指挥的全部犯罪处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "电商代运营公司业务员参与诈骗如何认定主从犯？",
+              "合同诈骗罪中业务员仅执行公司指令如何认定主观故意？",
+              "共同诈骗犯罪中各行为人如何分担责任？"
+            ],
+            "电商代运营公司业务员参与诈骗如何认定主从犯？": "### 结论\n电商代运营公司业务员参与诈骗犯罪中，主从犯的认定主要依据业务员在犯罪中的作用、地位、参与程度以及对犯罪结果的贡献大小。业务员如果仅负责执行上级指令，未参与犯罪策划，且分赃较少，通常被认定为从犯；反之，如果业务员在犯罪中起主要作用，如策划、组织或直接实施犯罪行为，且分赃较多，则可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十六条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪中的作用和地位**：业务员在犯罪中的作用和地位是认定主从犯的关键。例如，【（2017）浙01刑初170号】中，鞠某甲作为公司主要出资者和实际控制人，负责公司对外推广并控制公司收款账户，被认定为主犯；而张某、唐某甲、王某乙、鞠某乙虽为公司股东或高管，但未参与经营决策且占股比例较低、实际分赃数额较少，被认定为从犯。\n- **参与犯罪的程度**：业务员参与犯罪的程度也是认定主从犯的重要因素。如【（2019）皖07刑终130号】中，邱绍国、张亚权等人作为业务组长，对各自组员的工作管理、督促，进行业绩统计，并从组员业绩中抽取提成，被认定为主犯；而其他业务员则可能被认定为从犯。\n- **犯罪收益的分配情况**：犯罪收益的分配情况也是判断主从犯的一个重要依据。如【（2017）浙01刑初170号】中，鞠某甲等人将所得利益以分红或提成方式瓜分，鞠某甲作为主要出资者和实际控制人，分得较多，被认定为主犯；而其他业务员分得较少，被认定为从犯。\n\n综上，电商代运营公司业务员参与诈骗犯罪中，主从犯的认定主要依据业务员在犯罪中的作用、地位、参与程度以及对犯罪结果的贡献大小，以及犯罪收益的分配情况。业务员如果仅负责执行上级指令，未参与犯罪策划，且分赃较少，通常被认定为从犯；反之，如果业务员在犯罪中起主要作用，如策划、组织或直接实施犯罪行为，且分赃较多，则可能被认定为主犯。\n\n#####\n类似案件为：\n【（2017）浙01刑初170号】：法院生效裁判认为：被告人鞠某甲伙同张某、唐某甲、王某乙、鞠某乙以非法占有为目的，明知自身没有履约能力仍通过虚假广告招揽客户，在签订、履行合同过程中骗取被害人财物，数额特别巨大，其行为均已构成合同诈骗罪。被告人鞠某甲等人的犯罪行为除侵犯被害人的财产所有权之外，还扰乱了电商行业的市场秩序，公诉机关指控罪名有误，依法予以纠正，被告人及辩护人所提本案构成合同诈骗罪的意见予以采纳。关于唐某甲及其辩护人所提本案系单位犯罪的辩解及辩护意见，经审理认为，鞠某甲伙同张某等人为实施诈骗犯罪成立某甲公司、某乙公司，上述公司成立后从事以淘宝代运营为幌子的诈骗活动，所得利益均被鞠某甲等人以分红或提成方式瓜分，本案不符合单位犯罪的构成要件，依法不构成单位犯罪。鞠某甲系某甲公司、某乙公司的主要出资者和实际控制人，负责公司对外推广并控制公司收款账户，在共同犯罪中系主犯，张某、唐某甲、王某乙、鞠某乙虽系公司股东或高管，但未参与经营决策且占股比例较低、实际分赃数额较少，起次要作用，依法可认定为从犯并减轻处罚，被告人及辩护人所提相关意见予以采纳。\n【（2019）皖07刑终130号】：法院认为，邱绍国等8名被告人以非法占有为目的，虚构事实，隐瞒真相，通过电信网络发布虚假信息，对不特定人实施诈骗，构成诈骗罪。法院对邱绍国等8名被告人分别判处有期徒刑十年六个月至一年二个月不等，并处罚金十五万元至二万元不等。各被告人违法犯罪所得应予退赔，犯罪工具手机、电脑等应予没收。\n【（2017）浙01刑初170号】：法院生效裁判认为：被告人鞠某甲伙同张某、唐某甲、王某乙、鞠某乙以非法占有为目的，明知自身没有履约能力仍通过虚假广告招揽客户，在签订、履行合同过程中骗取被害人财物，数额特别巨大，其行为均已构成合同诈骗罪。被告人鞠某甲等人的犯罪行为除侵犯被害人的财产所有权之外，还扰乱了电商行业的市场秩序，公诉机关指控罪名有误，依法予以纠正，被告人及辩护人所提本案构成合同诈骗罪的意见予以采纳。关于唐某甲及其辩护人所提本案系单位犯罪的辩解及辩护意见，经审理认为，鞠某甲伙同张某等人为实施诈骗犯罪成立某甲公司、某乙公司，上述公司成立后从事以淘宝代运营为幌子的诈骗活动，所得利益均被鞠某甲等人以分红或提成方式瓜分，本案不符合单位犯罪的构成要件，依法不构成单位犯罪。鞠某甲系某甲公司、某乙公司的主要出资者和实际控制人，负责公司对外推广并控制公司收款账户，在共同犯罪中系主犯，张某、唐某甲、王某乙、鞠某乙虽系公司股东或高管，但未参与经营决策且占股比例较低、实际分赃数额较少，起次要作用，依法可认定为从犯并减轻处罚，被告人及辩护人所提相关意见予以采纳。",
+            "合同诈骗罪中业务员仅执行公司指令如何认定主观故意？": "### 结论\n在合同诈骗罪中，业务员仅执行公司指令时，其主观故意的认定需综合考虑业务员对犯罪行为的明知、参与程度、是否从中获利以及是否尽到合理注意义务等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括行为人在签订、履行合同过程中，以非法占有为目的，采用虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **业务员的明知与参与程度**：业务员是否明知公司行为构成犯罪，以及其在犯罪行为中的参与程度。例如，【（2018）沪0113刑初825号】中，法院认为被告人王某作为成年人，入职公司后应当对公司的合法性和业务操作的合法性有基本的判断，其对公司的诈骗行为有清晰的辨别，因此认定其具有诈骗故意。而【（2022）津03刑终166号】中，法院认为在案证据不足以证明被告人张某搏明知公司没有履行合同的能力，因此不构成合同诈骗罪。\n- **业务员是否从中获利**：业务员是否从犯罪行为中直接或间接获利。例如，【（2019）苏04刑终26号】中，法院认为上诉人郭海瑞等人明知公司采用虚假手段欺骗老年人购买产品，仍积极参与，且从中获利，因此构成诈骗罪。\n- **业务员是否尽到合理注意义务**：业务员在执行公司指令时是否尽到了合理的注意义务，是否对公司的行为进行了必要的质疑和核实。例如，【（2014）高刑终字第534号】中，法院认为张×在签订合同时提供了担保，且合同未能履行的原因在于对方违约，因此难以认定张×具有非法占有的主观故意。\n\n综上，业务员在执行公司指令时是否构成合同诈骗罪，关键在于其是否明知公司行为的非法性，是否从中获利，以及是否尽到了合理的注意义务。如果业务员明知公司行为构成犯罪，积极参与并从中获利，即使只是执行公司指令，也可能被认定具有主观故意。反之，如果业务员对公司的非法行为不知情，未从中获利，且在执行指令时尽到了合理的注意义务，可能不构成合同诈骗罪。\n\n#####\n类似案件为：\n【（2018）沪0113刑初825号】：法院认为，被告人王某结伙他人，在签订、履行合同过程中骗取对方当事人财物，数额较大，其行为已构成合同诈骗罪。王某作为成年人，对公司的诈骗行为应有清晰辨别，其供述与被害人陈述、同案关系人供述相印证，表明其具有诈骗的主观故意。在共同犯罪中，王某起次要作用，系从犯。上海市宝山区人民法院判决如下：\n1. 被告人王某犯合同诈骗罪，判处有期徒刑十个月，并处罚金人民币五千元。\n2. 责令被告人退赔各被害人的损失。\n法院认定被告人王某的行为构成合同诈骗罪，系从犯，依法应当从轻处罚。判决体现了对合同诈骗罪的惩处，维护了被害人的合法权益。\n【（2022）津03刑终166号】：法院生效裁判认为：被告人张某搏作为山西某公司的法定代表人，在以山西某公司名义签订、履行合同过程中，虽与天津某公司产生纠纷并拖欠部分款项，但在案证据存在明显矛盾，不能证实被告人张某搏在明知没有履行能力的情况下仍采取欺骗手段与天津某公司签订煤炭买卖合同，且在合同签订后拒不履行合同导致合同履行不能并恶意逃避债务的指控事实，进而不能依据现有证据认定被告人张某搏对天津某公司支付的货款具有非法占有目的。同时，对于山西某公司是否具备合同履行能力、是否实施了履行行为、合同未能履行的原因等问题，在案证据存在明显矛盾，不能认定山西某公司构成单位犯罪。公诉机关指控被告人张某搏犯合同诈骗罪，事实不清、证据不足，不予支持。依照《中华人民共和国刑事诉讼法》第二百条第（三）项等规定，作出证据不足、指控的犯罪不能成立的无罪判决。\n【（2019）苏04刑终26号】：法院认为，郭海瑞、王少华、李宏俊、王宇亮、陈乐、张进以非法占有为目的，采用虚构事实、隐瞒真相的方法，骗取他人财物，数额特别巨大，构成诈骗罪，且属共同犯罪。郭海瑞系主犯，其余被告为从犯，依法应减轻处罚。六人均如实供述犯罪事实，可从轻处罚，但多次诈骗老年人财物，酌情从重。维持原判中关于没收作案工具、退赔违法所得的部分。改判郭海瑞有期徒刑八年，并处罚金八万元；王少华、李宏俊有期徒刑四年，并处罚金三万元；王宇亮、陈乐有期徒刑三年十一个月，并处罚金三万元；张进有期徒刑三年，并处罚金二万元。判决为终审判决。",
+            "共同诈骗犯罪中各行为人如何分担责任？": "### 结论\n在共同诈骗犯罪中，各行为人的责任分担主要依据其在犯罪中的地位、作用以及参与程度来确定。主犯通常是指在犯罪中起主要作用的人员，从犯则是在犯罪中起次要或辅助作用的人员。对于参与诈骗团伙的成员，应对其加入期间整个团伙所骗总额承担责任，但量刑时会考虑其具体行为、影响力、获利情况等因素，以区分骨干分子和其他成员的刑事责任。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十六条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在犯罪中的地位和作用**：行为人在共同犯罪中的地位和作用是区分主犯和从犯的关键。例如，【(2013)仪刑初字第0118号】中，犯罪组织内部虽有分工，但各成员之间已形成一个统一的利益整体，故各行为人应对其加入诈骗团伙期间整个诈骗团伙所骗总额承担责任。【(2023)陕1024刑初137号】中，四被告人虽为共同犯罪，但参与犯罪的期间不一致，应结合各被告人在共同犯罪中的地位、作用及参与犯罪期间犯罪数额等情节综合予以考量。\n- **行为人的具体行为和获利情况**：行为人的具体行为和获利情况也是判断其在共同犯罪中地位和作用的重要因素。例如，【(2019)京02刑初161号】中，于某文虽为他人实施诈骗提供帮助，但因其非法获利较少，在诈骗共同犯罪中起辅助作用，可认定系从犯，对其依法减轻处罚。\n- **行为人的入职时间、职务、职权、是否参与决策和管理**：这些因素对于判断行为人在共同犯罪中的地位和作用同样重要。例如，【(2011)粤高法刑二终字第100号】中，法院认为应当按照刑法关于共同犯罪的规定，结合行为人的入职时间、职务、职权、是否参与决策和管理、具体行为、影响力、获利情况等综合判定其在共同犯罪中的地位、作用、罪责等，确定主犯、从犯、胁从犯，并准确适用刑罚。\n\n综上，共同诈骗犯罪中各行为人的责任分担主要依据其在犯罪中的地位、作用以及参与程度来确定，同时考虑具体行为、获利情况、入职时间、职务等因素，以区分主犯和从犯，准确适用刑罚。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人贺某是否构成合同诈骗罪。查明情况：公诉人通过被告人供述、被害人陈述及书证等证据证实贺某明知公司无实际履行能力仍使用虚假资料诱导客户签约，构成合同诈骗罪。辩护人对罪名未提出异议。审判长认为现有证据足以认定贺某构成合同诈骗罪。\n\n2.被告人贺某在共同犯罪中的地位和作用。查明情况：公诉人指出贺某系招商部业务员，直接参与诈骗活动；辩护人强调贺某仅按公司安排工作，未参与诈骗模式设计。审判长认为贺某在共同犯罪中起次要作用，符合从犯认定标准。\n\n3.被告人贺某的主观明知程度及认知转变时间。查明情况：辩护人通过讯问证实贺某2015年才意识到可能违法；公诉人认为贺某入职时即应明知公司诈骗性质。审判长认为需进一步查明其主观认知转变的具体时间点。\n\n4.涉案金额的认定及违法所得处理。查明情况：公诉人出示的银行交易明细等证据证实贺某参与骗取222740元，个人获利58163元且已全额退缴。被告人对此无异议。审判长认为金额认定清楚，退赃情节应予确认。\n\n5.被害人损失与被告人行为的因果关系。查明情况：公诉人通过被害人陈述与公司内部资料印证证实直接因果关系；辩护人认为证据仅反映公司整体行为。审判长认为共同犯罪中各参与人均应对整体结果负责，因果关系成立。\n\n6.电子证据的合法性与证明力。查明情况：辩护人对电子证据提取程序提出质疑；公诉人出示了完整的提取笔录和技术人员签名。审判长认为电子证据提取程序合法，具有证明力。\n\n7.量刑情节的综合考量。查明情况：辩护人强调贺某系初犯、从犯、全额退赃；公诉人指出诈骗金额巨大、社会影响恶劣。审判长认为需综合考量从犯地位、退赃情节与社会危害性等因素。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人贺某对起诉书指控的基本事实无异议，承认按照公司安排工作，已全额退缴违法所得58163元，表示认罪悔改；\n2. 公诉人讯问揭示：贺某明知使用虚假销量图诱导客户签约，未如实告知公司实际服务能力，接受过包含欺诈内容的话术培训，直接参与合同签订过程；\n3. 辩护人询问表明：贺某未核实公司承诺真实性，使用统一话术但未接受法律风险培训，提成直接来源于加盟费，2015年才意识到违法性但因法律意识淡薄未停止工作；\n4. 审判长补充查明：贺某知晓服务承诺与实际差异，但误认为正常营销手段，不知公司总诈骗金额，未反映客户投诉问题，确认其他业务员均采用相同欺诈话术。\n\n举证质证阶段总结：\n\n1. 公诉人出示了20项证据，包括：\n   - 被告人在侦查阶段的供述（承认参与公司诈骗活动，骗取加盟费222740元，个人获利58163元）\n   - 8名被害人陈述（均证实公司未兑现承诺服务，存在虚假宣传行为）\n   - 6名证人证言（证实公司无实际履行能力、存在系统性诈骗行为）\n   - 多份书证（合同、转账记录、财务资料等证明诈骗金额及资金流向）\n   - 电子数据（虚假宣传资料及业绩数据）\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对主要证据提出质证意见：\n   - 认为证据仅能证明公司整体行为，无法直接证明被告人个人具有诈骗故意\n   - 强调被告人系执行公司指令，对公司违法性缺乏明知\n   - 主张证据与被告人主观要件关联性不足\n\n4. 公诉人针对辩护意见逐一回应：\n   - 强调证据间相互印证形成完整证据链\n   - 指出被告人明知公司无履行能力仍参与诈骗\n   - 主张共同犯罪中各参与人均应承担责任\n\n5. 重要证据争议焦点：\n   - 公司整体行为与被告人个人责任的区分\n   - 被告人主观故意的证明程度\n   - 共同犯罪中各参与人的责任认定\n\n6. 辩护人未出示新证据，被告人未申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人主要辩论意见：\n- 认定犯罪事实清楚，证据确实充分，形成完整证据链\n- 贺某主观上具有非法占有目的，符合合同诈骗罪构成要件\n- 社会危害性严重，扰乱市场秩序，应从重处罚\n- 贺某作为共同犯罪人应对整体犯罪结果负责\n\n2. 辩护人主要辩护意见：\n- 犯罪金额认定应区分主从犯责任\n- 贺某主观恶性较小，应认定为从犯\n- 具有认罪悔罪、全额退赃等从轻情节\n- 个人行为社会危害性相对有限\n\n3. 双方争议焦点：\n- 关于共同犯罪责任认定（主从犯区分）\n- 关于电子证据合法性与真实性\n- 关于被害人陈述的可信度\n- 关于退赃情节对量刑的影响\n\n4. 核心法律适用争议：\n- 《刑法》第25条共同犯罪责任与第27条从犯认定的适用\n- 《刑事诉讼法》关于电子证据和被害人陈述的采信标准\n- 《最高人民法院量刑指导意见》关于退赃情节的适用",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪从犯量刑标准",
+              "合同诈骗罪退赃情节对量刑的影响",
+              "合同诈骗罪类似案例判决情况"
+            ],
+            "合同诈骗罪从犯量刑标准": "### 结论\n合同诈骗罪从犯的量刑标准通常会根据其在共同犯罪中所起的作用、犯罪数额、是否自首、是否退赔、认罪态度以及对社会的危害程度等因素综合考量，从犯相较于主犯会从轻或减轻处罚，具体量刑需结合案件具体情况。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的处罚原则，即对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **从犯的认定**：在【（2017）皖1504刑初8号】中，被告人陈家学被认定为主犯，而从犯的认定和量刑需根据其在共同犯罪中所起的作用来确定。从犯相较于主犯，其作用较小，应当从轻或减轻处罚。\n- **犯罪数额**：在【（2017）晋0881刑初38号】中，被告人王某某的诈骗数额被认定为特别巨大，量刑时会考虑犯罪数额的大小。对于从犯，其参与的犯罪数额也是量刑的重要考量因素。\n- **自首和认罪态度**：在【（2017）湘1102刑初166号】中，被告人陈解某因如实供述犯罪事实和认罪态度良好，被依法从轻处罚。从犯的自首和认罪态度也是量刑时的重要考量因素。\n- **退赔情况**：在【（2017）湘1102刑初166号】中，被告人陈解某向被害人返还了诈骗的全部欠款，并取得了被害人的谅解，这在量刑时被作为从轻处罚的考量因素。对于从犯，退赔情况同样会影响量刑。\n- **社会危害程度**：在【（2017）晋1029刑初26号】中，被告人张兴德因积极退赔被害人，认罪态度较好，犯罪情节较轻、确有悔罪表现，被判处缓刑。从犯的社会危害程度较小，量刑时会予以考虑。\n\n综上，合同诈骗罪从犯的量刑需综合考虑其在共同犯罪中的作用、犯罪数额、自首和认罪态度、退赔情况以及社会危害程度等因素，从犯相较于主犯会从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2017）皖1504刑初8号】：法院认为，陈家学伙同他人以非法占有为目的，在签订、履行合同过程中，以部分履行合同的方法诱骗对方继续履行，后将收受的货物另行销售，所得货款拖欠拒付，构成合同诈骗罪，且数额巨大，系主犯。陈家学到案后如实供述，自愿认罪，可从轻处罚。被告人陈家学犯合同诈骗罪，判处有期徒刑七年，并处罚金50000元，责令陈家学退赔违法所得830750元。\n【（2017）晋0881刑初38号】：法院认为，王某某以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪。王某某的诈骗数额应以实际取得的数额认定，合同标的数额作为量刑情节考虑。王某某有犯罪前科，应酌情从重处罚。依据相关法律，判决如下：\n一、被告人王某某犯合同诈骗罪，判处有期徒刑十年零六个月，并处罚金人民币10万元。\n二、被告人王某某诈骗所得527715.3元予以追缴，返还被害人。永济市人民法院判决王某某犯合同诈骗罪，考虑其犯罪数额特别巨大、有犯罪前科等情节，依法作出上述判决。\n【（2017）晋1029刑初26号】：法院认为，被告人张兴德以非法占有为目的，在签订、履行合同过程中，收受对方当事人给付的预付款后逃匿，骗取款项10万元，数额巨大，其行为构成合同诈骗罪。鉴于张兴德积极退赔，认罪态度较好，犯罪情节较轻、确有悔罪表现，没有再犯罪的危险，对其宣告缓刑对所居住社区没有重大不良影响。被告人张兴德犯合同诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金一万元，缓刑考验期自判决确定之日起计算，罚金已缴纳。",
+            "合同诈骗罪退赃情节对量刑的影响": "### 结论\n合同诈骗罪中，退赃情节对量刑有显著影响，通常表现为从轻或减轻处罚，尤其是当被告人主动退赃、退赔并取得被害人谅解时，法院更倾向于适用缓刑或从宽处理。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件和处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了坦白从宽的处罚原则。\n- **《中华人民共和国刑法》第七十二条第一款、第三款**：规定了缓刑的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃情节**：主动退赃、退赔并取得被害人谅解是法院从轻或减轻处罚的重要考量因素。例如，【（2017）湘1102刑初166号】中，被告人陈解某在案发前已向被害人归还了部分款项，并在案发后退还了剩余款项，法院因此对其从轻处罚并适用缓刑。【（2020）沪0112刑初1866号】中，被告人张小盼家属代为退赔并取得被害人谅解，法院在量刑时予以考虑。\n- **自首情节**：自首是减轻处罚的另一重要因素。如【（2024）黑0382刑初56号】中，被告人张某1经公安机关电话传唤后主动到案，如实供述自己的罪行，法院认定其为自首，予以减轻处罚。\n- **认罪认罚态度**：认罪认罚并自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚，可以依法从宽处理。如【（2019）沪0112刑初2383号】中，被告人卢柳任具有自首情节且退缴部分违法所得，法院在量刑时予以考虑。\n\n综上，退赃情节、自首、认罪认罚态度是合同诈骗罪量刑中法院考量的关键因素，尤其是退赃情节，对于是否适用缓刑或从宽处理具有决定性影响。\n\n#####\n类似案件为：\n【（2020）沪0112刑初1866号】：法院认为，张小盼的行为构成合同诈骗罪，鉴于其坦白、退赃，建议量刑有期徒刑八个月，可适用缓刑，并处罚金。上海市闵行区人民法院判决被告人张小盼犯合同诈骗罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币六千元。\n【（2024）黑0382刑初56号】：法院认为，张某1以非法占有为目的，在签订、履行合同过程中，没有实际履行能力，以先履行小额合同和部分履行合同的方法，诈骗对方当事人继续签订和履行合同，骗取对方当事人财物，数额巨大，其行为构成合同诈骗罪。张某1犯合同诈骗罪，判处有期徒刑一年二个月，并处罚金人民币一万元；追缴张某1违法所得购买的物品，责令其继续退赔被害人赵某、殷某的剩余经济损失。\n【（2019）沪0112刑初2383号】：法院认为，卢柳任的行为构成合同诈骗罪，属共同犯罪，有自首情节，建议量刑有期徒刑二年三个月以上二年六个月以下，并处罚金。鉴于卢柳任的自首及退赃情节，采纳辩护人请求从宽处罚的意见。法院判决被告人卢柳任犯合同诈骗罪，判处有期徒刑二年三个月，并处罚金人民币六万元，继续追缴其违法所得。",
+            "合同诈骗罪类似案例判决情况": "### 结论\n合同诈骗罪的认定需综合考虑行为人的主观目的、合同的性质、法益侵害的范围以及行为手段，关键在于行为人是否具有非法占有他人财物的目的，是否扰乱了市场经济秩序，以及是否在签订、履行合同过程中采取了虚构事实或隐瞒真相的方法。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒事实真相的方法，骗取对方当事人财物，数额较大的行为。\n- **《中华人民共和国刑法》第二百六十六条**：规定了诈骗罪的构成要件，即以非法占有为目的，采取虚构事实、隐瞒真相的方法，骗取他人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观目的**：法院会重点审查行为人是否具有非法占有他人财物的主观故意。例如，【（2016）川01刑终字第字第64号】中，马福明的前后行为均构成合同诈骗罪，因其具有非法占有的目的；而【（2019）粤06刑再1号】中，伍某因无非法占有贷款资金的故意，被认定不构成合同诈骗罪。\n- **合同的性质与法益侵害**：合同诈骗罪不仅侵犯了他人财产权利，还破坏了市场交易秩序。【（2022）川0793刑初32号】中，郑某的行为构成合同诈骗罪，因其行为扰乱了市场经济活动秩序；而【（2017）宁刑终字第440号】中，林邦某的行为被认定为诈骗罪，因其行为主要侵犯了个人财产所有权，未扰乱市场经济秩序。\n- **行为手段**：合同诈骗罪的手段必须是在签订、履行合同过程中采取的虚构事实或隐瞒真相的方法。【（2022）京02刑终351号】中，郭某在履行合同过程中隐瞒房产被查封的事实，骗取购房款，构成合同诈骗罪；而【（2016）吉0103刑初字第138号】中，丛海瑞等人在签订履行合同过程中，采取虚构事实的方法，骗取他人财物，构成合同诈骗罪。\n\n综上，合同诈骗罪的认定需综合考虑行为人的主观目的、合同的性质、法益侵害的范围以及行为手段，关键在于行为人是否具有非法占有他人财物的目的，是否扰乱了市场经济秩序，以及是否在签订、履行合同过程中采取了虚构事实或隐瞒真相的方法。\n\n#####\n类似案件为：\n【（2019）粤06刑再1号】：法院生效裁判认为：根据《中华人民共和国刑法》第二百二十四条的规定，合同诈骗罪的主要构成要件，一是行为人具有以非法占有为目的，虚构事实、隐瞒真相的行为。二是欺骗行为须使对方（受骗者）产生错误认识，并基于错误认识处分财产。结合本案事实，黄某等人明知陈某无可供抵押的财产，陈某系外省户籍亦不符合借款条件的情况下，授意陈某使用虚假房产证借款，并明确要求借款人需为佛山或广州户籍。黄某等人也明知陈某系实际借款人且陈某提交的房产资料虚假的情况下，仍同意与伍某签订借款合同。借款合同约定的借款金额高达37.5万元，但其中的29.7万元已经取现后返还黄某等人。以上事实表明，虽然伍某经陈某恳求后向其提供了房产信息，并在黄某、陈某的授意和安排下在黄某的放贷公司办理了借款手续，但伍某主观上系帮助朋友陈某借款，其并无非法占有贷款资金的故意。伍某在客观上亦未实施虚构事实、隐瞒真相的行为。虚假的房产资料由陈某通过互联网制作购买，黄某等人也对该事实知情，并不存在错误认识，更非基于错误认识而将款项转账至伍某的账户。因此，综合上述分析，伍某的行为并不符合合同诈骗罪的构成要件。法院再审对抗诉机关的抗诉意见予以采纳，认定伍某的行为不构成犯罪，再审撤销一审刑事判决，并改判伍某无罪。\n【（2022）川0793刑初32号】：法院生效裁判认为：被告人郑某以非法占有为目的，在签订、履行合同过程中，虚构事实，骗取对方当事人财物，数额巨大，其行为已构成合同诈骗罪，应依法惩处。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 24.0,
+    "fine": 30000.0,
+    "reprieve": 36.0
+  }
+]

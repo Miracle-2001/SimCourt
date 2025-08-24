@@ -1,0 +1,1638 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人阮某甲，性别男，民族XXX，文化程度XXX，户籍XXX。因涉嫌犯有容留卖淫罪，于2018年3月14日被刑事拘留。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "广西壮族自治区博白县人民检察院  \n起 诉 书  \n\n博检公诉刑诉〔2018〕392号  \n\n被告人阮某甲，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌容留卖淫罪，于2018年3月14日被刑事拘留。  \n\n本案由博白县公安局侦查终结，以被告人阮某甲涉嫌容留卖淫罪，于2018年7月24日向本院移送起诉。本院受理后，依法告知被告人有权委托辩护人，审查了全部案件材料。  \n\n经依法审查查明：  \n2017年8月至2018年3月间，被告人阮某甲伙同李某（另案处理）利用博白县英桥镇工商所后面的瓦房作为窝点，容留妇女进行卖淫，并从中收取好处费。2018年3月14日，公安民警依法对该处进行查处，当场查获正在卖淫嫖娼的卖淫女王某甲、黄某甲、刘某甲及嫖客吴某甲、黄某乙、钟某甲等人。  \n\n认定上述事实的证据如下：  \n1. 证人证言：证人吴某乙、王某乙、黄某丙、雷某、钟某乙、刘某乙、胡某、姚某、唐某、杨某及同案人李某的证言；  \n2. 书证：行政处罚决定书、现场勘验笔录、现场图、现场照片、现场笔录、抓获经过、受案登记表、立案决定书、户籍证明；  \n3. 勘验笔录：现场勘验笔录记载了卖淫窝点的具体位置和现场情况；  \n4. 书证：现场照片显示瓦房内有多张简易床铺和使用过的避孕套等物品；  \n5. 书证：现场图详细标注了卖淫窝点的内部结构和出入口位置；  \n6. 书证：现场笔录记录了查处时现场发现的卖淫嫖娼人员情况；  \n7. 书证：抓获经过说明公安机关查处该卖淫窝点的过程；  \n8. 书证：受案登记表证明本案的立案情况；  \n9. 书证：立案决定书显示公安机关对本案的立案侦查决定。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人阮某甲对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人阮某甲以营利为目的，伙同他人提供场所容留妇女从事卖淫活动，其行为已触犯《中华人民共和国刑法》第三百五十九条第一款之规定，犯罪事实清楚，证据确实、充分，应当以容留卖淫罪追究其刑事责任。被告人阮某甲在共同犯罪中起主要作用，是主犯，依法应当按照其所参与的全部犯罪处罚。被告人阮某甲归案后如实供述自己的罪行，属坦白，依法可以从轻处罚。根据被告人阮某甲的犯罪事实、性质、情节及对社会的危害程度，建议判处被告人阮某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n广西壮族自治区博白县人民法院  \n\n检 察 员 邹某甲  \n检察官助理 XXX  \n2018年7月24日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人阮某甲，你与李某共同经营的瓦房内是否长期容留妇女从事卖淫活动？具体从何时开始至何时结束？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "从2017年8月到2018年3月14日被查获期间，确实有容留妇女卖淫的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与李某是如何分工合作的？在容留卖淫活动中各自承担什么具体职责？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要是李某负责联系和安排卖淫女，我主要是帮忙看管场所，偶尔接待客人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你们是如何向卖淫女和嫖客收取费用的？具体收费标准是什么？违法所得共计多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "每次交易收取30-50元不等，我和李某按比例分成。具体违法所得记不清了，大概几千块钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "2018年3月14日被公安机关查处时，现场发现的卖淫女和嫖客是否都是由你安排在该场所进行交易的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，当天被查获的卖淫女和嫖客都是在那个场所进行交易的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "瓦房内的简易床铺、避孕套等物品是否是你和李某专门为卖淫活动准备的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "床铺是原来就有的，避孕套是李某准备的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何选择在工商所后面的瓦房作为卖淫场所？是否考虑到该地点较为隐蔽？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "那个地方是李某找的，我只是跟着他做事。确实比较隐蔽，不容易被发现。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "在长达7个月的犯罪期间，你是否意识到自己的行为已经触犯法律？为何没有主动停止犯罪活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我一开始没想那么多，后来知道违法了但贪图利益没有及时收手。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与同案人李某是如何分配违法所得的？各自分得多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我和李某是三七分成，他拿七成我拿三成。具体金额记不太清了，我大概分到两三千块钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被抓获后，你是否如实向公安机关供述了全部犯罪事实？现在对起诉书指控的犯罪事实是否有异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "从2017年8月到2018年3月14日被查获期间，确实有容留妇女卖淫的情况。\n\n主要是李某负责联系和安排卖淫女，我主要是帮忙看管场所，偶尔接待客人。\n\n每次交易收取30-50元不等，我和李某按比例分成。具体违法所得记不清了，大概几千块钱。\n\n是的，当天被查获的卖淫女和嫖客都是在那个场所进行交易的。\n\n床铺是原来就有的，避孕套是李某准备的。\n\n那个地方是李某找的，我只是跟着他做事。确实比较隐蔽，不容易被发现。\n\n我一开始没想那么多，后来知道违法了但贪图利益没有及时收手。\n\n我和李某是三七分成，他拿七成我拿三成。具体金额记不太清了，我大概分到两三千块钱。\n\n被抓获后我如实供述了全部犯罪事实，对起诉书指控的犯罪事实没有异议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否愿意认罪认罚？对于给社会造成的不良影响是否有悔过之意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我愿意认罪认罚，对给社会造成的不良影响深感后悔。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，被告人已经对犯罪事实供认不讳，相关细节也已询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与李某在经营该场所期间，具体是如何分工的？你主要负责哪些事务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要是看管场所，打扫卫生，偶尔接待客人。李某负责联系卖淫女和谈价格。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在公安机关第一次讯问时就如实供述了全部事实吗？是否有主动交代公安机关尚未掌握的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，第一次讯问时就如实交代了所有情况，包括李某的主要责任和我自己的参与程度。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "该场所经营期间是否发生过纠纷或治安问题？你是否知道有强迫卖淫的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有发生过纠纷，我也不知道有强迫卖淫的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你参与此事的主要原因是什么？是否存在生活困难等特殊原因？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要是生活困难，想赚点钱补贴家用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与李某的分成比例是否一直保持三七分成？期间是否有过调整？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "一直保持三七分成，没有调整过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与李某在经营该场所期间，是否曾向当地有关部门缴纳过任何费用或办理过相关经营手续？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有缴纳过任何费用，也没有办理过经营手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在案发后是否主动退缴违法所得？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有退缴违法所得。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2017年8月至2018年3月间，我与李某在广西壮族自治区博白县英桥镇工商所后面的瓦房内容留妇女从事卖淫活动，并从中收取好处费。2018年3月14日，公安民警查处该窝点，当场抓获卖淫女王某甲、黄某甲、刘某甲及嫖客吴某甲、黄某乙、钟某甲等人。  \n\n（2）犯案动机  \n我与李某共同提供场所容留卖淫，目的是通过收取好处费获利。  \n\n（3）案发之后的处理  \n我没有主动自首，被公安机关抓获归案。归案后如实供述了自己的罪行，当庭自愿认罪。目前没有进行赔偿，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：证人吴某乙作证称：“2018年3月14日，我在博白县英桥镇工商所后面的瓦房进行嫖娼活动，被公安机关当场查获。”附公安机关询问笔录，笔录编号20180314-WM，询问人张某、李某，记录人王某乙，询问时间2018年3月14日15:30",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人王某乙作证称：“我是被阮某甲容留在瓦房内从事卖淫活动的，2018年3月14日正在接客时被警察抓获。”附公安机关询问笔录，笔录编号20180314-WN，询问人赵某、钱某，记录人孙某，询问时间2018年3月14日16:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人黄某丙作证称：“我看到阮某甲和李某经常带不同女性进出工商所后面的瓦房，那些女性看起来像是在从事卖淫活动。”附公安机关询问笔录，笔录编号20180315-HM1，询问人周某、吴某乙，记录人郑某，询问时间2018年3月15日10:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人雷某作证称：“我曾听村里人说阮某甲在工商所后面开了一个卖淫窝点，还向嫖客收取费用。”附公安机关询问笔录，笔录编号20180315-LM1，询问人冯某、陈某，记录人褚某，询问时间2018年3月15日11:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人钟某乙作证称：“2018年3月14日，我在瓦房嫖娼时被警察抓获，阮某甲平时会向我们收取费用。”附公安机关询问笔录，笔录编号20180314-ZM1，询问人卫某、蒋某，记录人沈某，询问时间2018年3月14日17:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人刘某乙作证称：“我是被阮某甲安排在该瓦房卖淫的，每次交易后都要向他交钱。”附公安机关询问笔录，笔录编号20180314-LN，询问人韩某、杨某，记录人朱某，询问时间2018年3月14日18:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人胡某作证称：“我经常看到陌生男子进出那个瓦房，怀疑里面在进行非法交易。”附公安机关询问笔录，笔录编号20180315-HN，询问人秦某、尤某，记录人许某，询问时间2018年3月15日09:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人姚某作证称：“阮某甲曾向我炫耀说他有个地方可以'做生意'，指的就是容留卖淫。”附公安机关询问笔录，笔录编号20180315-YM，询问人何某、吕某，记录人施某，询问时间2018年3月15日14:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人唐某作证称：“我亲眼看到阮某甲收取嫖客的钱，然后分给卖淫女。”附公安机关询问笔录，笔录编号20180315-TN，询问人张某、孔某，记录人曹某，询问时间2018年3月15日15:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人杨某作证称：“那个瓦房经常有男女进出，行为可疑，我怀疑是卖淫场所。”附公安机关询问笔录，笔录编号20180315-YN，询问人严某、华某，记录人金某，询问时间2018年3月15日16:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.同案人证言：同案人李某供述：“我和阮某乙有合伙利用这个瓦房容留妇女卖淫，共同收取好处费。”附公安机关讯问笔录，笔录编号20180314-LM，讯问人魏某、陶某，记录人姜某，讯问时间2018年3月14日19:00",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人李某的证言仅能证明存在共同犯罪事实，但无法证明被告人在共同犯罪中的具体作用和地位。该证言未详细说明双方的具体分工和实际参与程度，不能直接证明被告人是主要组织者。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人李某的证言与被告人供述相互印证，均证实二人共同经营卖淫场所并从中获利的事实。被告人在侦查阶段明确承认其负责看管场所、接待客人等具体职责，与李某证言中\"共同收取好处费\"的表述完全一致。这些证据已形成完整证据链，足以认定被告人在共同犯罪中的参与程度和作用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对同案人李某证言的证明力已充分发表意见，法庭已记录在案。公诉人请继续举证。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：行政处罚决定书，证明涉案人员因卖淫嫖娼被公安机关行政处罚",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.勘验笔录：现场勘验笔录记载了卖淫窝点的具体位置和现场情况，勘验人谢某、邹某乙，记录人喻某，勘验时间2018年3月14日20:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "现场勘验笔录仅能证明场所存在卖淫活动，不能直接证明被告人是主要组织者。该证据与被告人在共同犯罪中的地位和作用无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "现场勘验笔录客观记录了卖淫场所的具体情况，与被告人供述、证人证言相互印证，共同证明被告人参与容留卖淫的犯罪事实。该证据虽不直接证明被告人的主从地位，但作为客观证据能够佐证其他言词证据的真实性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的证明力已充分发表意见，法庭已记录在案。公诉人请继续举证。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：现场照片显示瓦房内有多张简易床铺和使用过的避孕套等物品，照片拍摄时间2018年3月14日20:30，拍摄地点博白县英桥镇工商所后面瓦房，拍摄人员窦某",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：现场图详细标注了卖淫窝点的内部结构和出入口位置，绘制人章某、苏某，绘制时间2018年3月14日21:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：现场笔录记录了2018年3月14日查处时现场发现的卖淫嫖娼人员情况，记录人潘某、葛某，记录时间2018年3月14日22:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：抓获经过说明公安机关查处该卖淫窝点的过程，经办人范某、彭某，记录时间2018年3月14日23:00，附签名和盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：受案登记表证明本案的立案情况，登记时间2018年3月14日，经办人鲁某，附相关部门盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：立案决定书显示公安机关对本案的立案侦查决定，决定时间2018年3月15日，经办人韦某，附相关部门盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：户籍证明证实被告人阮某甲的身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第三百五十九条第一款规定，容留他人卖淫的，处五年以下有期徒刑、拘役或者管制，并处罚金。本案中，被告人阮某甲与李某共同提供场所容留妇女卖淫长达7个月，其行为已构成容留卖淫罪。\n\n第一，被告人主观上具有犯罪故意。其在侦查阶段和法庭上的供述一致，明确承认与李某共同提供场所容留卖淫并收取好处费，具有明显的营利目的。\n\n第二，客观方面证据确实充分。现场勘验笔录、照片等物证显示瓦房内设有多张简易床铺及使用过的避孕套，与证人证言形成完整证据链，充分证明被告人实施了容留卖淫行为。\n\n第三，被告人虽非主要组织者，但长期参与经营，持续时间长达7个月，社会危害性较大。根据其在共同犯罪中的实际参与程度和作用，应当承担相应的刑事责任。\n\n第四，所有证据均依法收集，程序合法。被告人的供述与证人证言、物证能够相互印证，不存在矛盾。同案人李某的供述与被告人供述高度一致，具有可信度。\n\n鉴于被告人归案后如实供述自己的罪行，属坦白，依法可以从轻处罚。公诉机关的量刑建议已综合考虑了被告人的坦白情节和犯罪情节，符合法律规定。请法庭依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于被告人在共同犯罪中的地位问题。根据被告人供述和同案人李某证言，被告人仅负责看管场所、打扫卫生等辅助性工作，主要经营活动由李某负责。根据《刑法》第二十七条，在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n第二，关于被告人的认罪态度。被告人在第一次讯问时就如实供述全部犯罪事实，根据《刑法》第六十七条第三款，可以从轻处罚。且被告人当庭自愿认罪，认罪态度良好。\n\n第三，关于社会危害性。被告人是初犯，此前无违法犯罪记录。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于初犯可以酌情从轻处罚。且本案未发生强迫卖淫等严重情节，社会危害性相对较小。\n\n第四，关于同案人李某证言的客观性问题。李某作为同案人，其证言可能存在推卸责任的情况，不能仅凭其证言就认定被告人在共同犯罪中起主要作用。\n\n综上，恳请法庭充分考虑被告人的从犯地位、坦白情节、初犯情节等从轻处罚因素，依法从轻判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人在共同犯罪中的地位问题，根据被告人供述，其不仅负责看管场所，还参与接待客人并收取费用，与李某共同分成。根据《刑法》第二十五条，共同犯罪是指二人以上共同故意犯罪。被告人的行为已超出辅助性工作范畴，属于共同犯罪的积极参与者。\n\n关于社会危害性问题，本案持续时间长达7个月，容留多名妇女卖淫，已对社会管理秩序造成实际破坏。根据《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第八条，容留二人以上卖淫的即构成犯罪，本案明显超出该标准。\n\n关于同案人李某证言的可信度问题，其证言与被告人供述、现场物证、证人证言相互印证，形成完整证据链，具有高度可信性。被告人在共同犯罪中的具体作用已通过多份证据得到证实。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人的具体作用，需要特别指出的是，被告人仅获得三成收益，而李某获得七成，这一分成比例充分反映出被告人在共同犯罪中的次要地位。根据《刑法》第二十七条，对于从犯应当从轻或减轻处罚。\n\n关于社会危害性，虽然持续时间较长，但被告人仅参与看管场所，未直接组织、招募卖淫人员，其行为的社会危害性明显小于主要组织者。且本案未发生暴力、胁迫等加重情节，符合从轻处罚条件。\n\n关于证据链问题，公诉方提供的证据仅能证明存在卖淫活动，但未能充分证明被告人在组织卖淫活动中的具体作用和地位。恳请法庭在量刑时充分考虑被告人的实际参与程度。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人的具体作用，需要指出的是，虽然被告人仅分得三成收益，但其长期参与经营，持续时间长达7个月，且实际负责场所管理和接待工作，已超出从犯范畴。根据《刑法》第二十六条，组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。被告人的行为已构成共同犯罪中的积极参与者。\n\n关于社会危害性，本案持续时间长、涉及人员多，已严重破坏社会管理秩序。根据《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第一条，容留卖淫二人次以上的即构成犯罪，本案明显超出该标准。\n\n关于证据问题，被告人的供述与同案人李某证言、现场物证、多名证人证言相互印证，已形成完整证据链，足以认定被告人的犯罪事实及其在共同犯罪中的作用。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人的具体作用，需要强调三点：第一，根据被告人的供述，其仅负责看管场所和打扫卫生，主要经营活动均由李某负责；第二，被告人分得的违法所得比例仅为三成，远低于李某的七成；第三，现场勘验笔录和照片仅能证明场所存在卖淫活动，不能证明被告人的组织作用。根据《刑法》第二十七条，被告人在共同犯罪中明显起次要作用，应当认定为从犯。\n\n关于认罪态度，被告人从第一次讯问时就如实供述全部犯罪事实，当庭自愿认罪，符合《刑法》第六十七条第三款关于坦白从宽的规定。且被告人是初犯，此前无违法犯罪记录，社会危害性相对较小。\n\n恳请法庭充分考虑被告人的从犯地位、坦白情节和初犯情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的行为深感后悔，愿意认罪认罚。在共同犯罪中我确实只负责看管场所等辅助工作，主要活动由李某负责。我是初犯，归案后如实供述了全部事实，恳请法庭从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "广西壮族自治区博白县人民法院\n刑事判决书\n（2018）博刑初字第392号\n\n公诉机关广西壮族自治区博白县人民检察院。\n被告人阮某甲，男，XXXX年XX月XX日出生，汉族，文化程度XXX，户籍所在地XXX。因涉嫌容留卖淫罪于2018年3月14日被刑事拘留，现羁押于博白县看守所。\n辩护人XXX，XXX律师事务所律师。\n\n广西壮族自治区博白县人民检察院于2018年7月24日以被告人阮某甲犯容留卖淫罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。博白县人民检察院检察员邹某甲出庭支持公诉，被告人阮某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n公诉机关指控：2017年8月至2018年3月间，被告人阮某甲伙同李某（另案处理）利用博白县英桥镇工商所后面的瓦房作为窝点，容留妇女进行卖淫，并从中收取好处费。2018年3月14日，公安民警依法对该处进行查处，当场查获正在卖淫嫖娼的卖淫女王某甲、黄某甲、刘某甲及嫖客吴某甲、黄某乙、钟某甲等人。公诉机关认为被告人阮某甲的行为已构成容留卖淫罪，在共同犯罪中起主要作用，是主犯，但归案后如实供述自己的罪行，属坦白，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。\n\n被告人阮某甲对公诉机关指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人系从犯、初犯，具有坦白情节，请求从轻处罚。\n\n经审理查明：2017年8月至2018年3月间，被告人阮某甲伙同李某在博白县英桥镇工商所后面的瓦房内容留妇女从事卖淫活动，并从中收取好处费。2018年3月14日被公安机关查处时，当场查获卖淫女王某甲、黄某甲、刘某甲及嫖客吴某甲、黄某乙、钟某甲等人。被告人阮某甲主要负责看管场所、接待客人，与李某按三七比例分成违法所得。上述事实有被告人供述、证人证言、现场勘验笔录、照片等证据证实，证据确实充分，足以认定。\n\n本院认为，被告人阮某甲以营利为目的，伙同他人提供场所容留妇女从事卖淫活动，其行为已构成容留卖淫罪。在共同犯罪中，被告人虽非主要组织者，但长期参与经营，持续时间长达7个月，社会危害性较大，应承担相应刑事责任。鉴于被告人归案后如实供述自己的罪行，属坦白，依法可以从轻处罚；系初犯，认罪态度较好，可酌情从轻处罚。辩护人关于从犯的辩护意见与查明事实不符，不予采纳；关于坦白、初犯等从轻处罚情节的辩护意见予以采纳。依照《中华人民共和国刑法》第三百五十九条第一款、第二十五条第一款、第六十七条第三款之规定，判决如下：\n\n一、被告人阮某甲犯容留卖淫罪，判处有期徒刑一年六个月，并处罚金人民币五千元；\n二、追缴被告人阮某甲违法所得人民币三千元，没收上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向玉林市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2018年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人阮某甲是否构成容留卖淫罪。需要查明其是否明知并主动提供场所容留妇女从事卖淫活动，并从中获利。\n\n2.被告人在共同犯罪中的地位和作用。需要查明其与同案人李某的具体分工、获利分配情况，以认定其是否为主犯。\n\n3.被告人的坦白情节是否成立。需要核实其在侦查阶段及庭审中的供述是否稳定一致，是否如实供述主要犯罪事实。\n\n4.量刑情节的认定。需要查明被告人是否具有其他从轻或从重处罚的情节，如是否初犯、是否退赃等。\n\n5.现场证据的证明力。需要核实现场勘验笔录、照片等证据是否能够充分证明卖淫活动的存在及被告人的参与程度。\n\n6.证人证言的可信度。需要审查多名证人的证言是否存在矛盾，是否能够相互印证被告人的犯罪行为。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫案件中坦白情节的认定标准",
+              "容留卖淫罪中营利目的的证明标准"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫案件中坦白情节的认定标准": "### 结论\n在容留卖淫案件中，坦白情节的认定标准主要考虑被告人是否在归案后如实供述自己的罪行，即使供述存在反复，只要在一审法庭上能够恢复如实供述，即可认定为坦白。坦白的从宽处罚程度需综合考虑犯罪的事实、性质、情节，以及坦白的时间、程度和价值。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间和稳定性**：【（2020）闽0582刑初5号】、【（2019）浙1023刑初343号】、【（2019）沪0112刑初2469号】、【（2020）沪0112刑初1164号】、【（2019）粤0303刑初992号】、【（2019）粤0306刑初5803号】、【（2019）沪0115刑初1845号】、【（2020）闽0203刑初707号】、【（2019）苏0404刑初178号】、【（2020）闽0702刑初121号】这些案例均表明，被告人归案后如实供述基本犯罪事实，即使供述存在反复，只要在一审法庭上能够恢复如实供述，即可视为坦白，予以从轻处罚。\n- **坦白的价值**：【（2019）粤0306刑初5803号】中，被告人刘晨、张青、江辉的坦白情节在量刑时予以考虑，因为坦白有助于收集定案证据，对定案证据的收集有重要作用，一般应当从轻处罚。\n- **坦白的程度**：【（2019）苏0404刑初178号】中，被告人周丽的供述未能如实供述自己的主要犯罪事实，不符合坦白的认定条件，因此，坦白的程度不同，反映犯罪分子是真心悔改还是想蒙混过关，对从宽处罚的幅度有影响。\n\n综上，坦白情节在容留卖淫案件中的认定，需综合考虑坦白的时间、稳定性、价值和程度，以决定是否从轻处罚以及从轻处罚的幅度。\n\n#####\n类似案件为：\n【（2020）闽0582刑初5号】：法院认为，被告人林梅丽以营利为目的，容留、介绍二人以上卖淫，其行为已构成容留、介绍卖淫罪。鉴于林梅丽归案后如实供述基本犯罪事实，依法可视为坦白，予以从轻处罚。辩护人关于坦白情节的辩护意见予以采纳，其余辩护意见不予采纳。一、被告人林梅丽犯容留、介绍卖淫罪，判处有期徒刑四年三个月，并处罚金人民币十万元。\n （刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年4月26日起至2023年7月25日止。罚金应于判决生效之日起十日内向本院缴纳。）\n 二、扣押在案的作案工具“OPPO”牌A83型手机、“VIVO”牌Y55A型手机各1部（均未随案移送），由扣押机关晋江市公安局予以没收，上缴国库。\n 三、继续追缴被告人林梅丽的违法所得人民币45610元。\n【（2019）浙1023刑初343号】：法院认为，被告人周嫦云构成容留卖淫罪，鉴于其自愿认罪认罚，有坦白情节，应予从轻处罚。被告人的违法所得，应当予以追缴，供犯罪所用的本人财物，予以没收。一、被告人周嫦云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币八千元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的,羁押一日折抵刑期一日,即自2019年5月22日起至2020年3月21日止。)\n 二、追缴被告人周嫦云的违法所得人民币四千元，没收上缴国库。\n （以上罚金及追缴款限判决生效之日起一个月内缴纳)。\n 三、没收被告人周嫦云的华为荣耀金色手机一部。\n【（2019）沪0112刑初2469号】：法院认为，被告人刘正全、永文昌的行为构成容留卖淫罪，且属共同犯罪，均具有坦白情节。一、被告人刘正全犯容留卖淫罪，判处有期徒刑九个月，并处罚金人民币四千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月12日起至2020年4月11日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、被告人永文昌犯容留卖淫罪，判处拘役五个月，罚金人民币二千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月12日起至2019年12月11日止。罚金自本判决生效之日起三十日内如数缴纳。)\n三、违法所得予以追缴。",
+            "容留卖淫罪中营利目的的证明标准": "### 结论\n容留卖淫罪的构成不以营利为目的为必要条件。只要行为人客观上实施了容留他人卖淫的行为，即符合该罪的客观要件，无论其是否以营利为目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了引诱、容留、介绍卖淫罪的构成要件，取消了“以营利为目的”的要求。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **营利目的的证明标准**：在【（2020）苏1002刑初229号】、【（2019）沪0115刑初1845号】、【（2020）粤1881刑初355号】、【（2021）闽0302刑初145号】、【（2019）粤1881刑初141号】、【（2020）闽0782刑初96号】、【（2020）浙0481刑初240号】、【（2020）闽0302刑初507号】、【（2020）闽0702刑初121号】、【（2019）闽0782刑初19号】中，法院均未将营利目的作为容留卖淫罪的构成要件，而是强调了行为人实施了容留他人卖淫的行为。例如，【（2020）苏1002刑初229号】中，被告人周某某、姜某某以盈利为目的，共同容留他人卖淫，但法院在判决中并未将营利目的作为定罪的必要条件，而是基于其行为构成容留卖淫罪。\n- **自首、认罪态度**：在【（2020）苏1002刑初229号】、【（2019）沪0115刑初1845号】、【（2020）粤1881刑初355号】、【（2020）闽0782刑初96号】、【（2019）闽0782刑初19号】中，法院均考虑了被告人的自首、坦白、认罪认罚等情节，作为从轻处罚的理由。例如，【（2019）沪0115刑初1845号】中，被告人林某某有坦白情节，法院因此从轻处罚。\n- **非法获利**：在【（2021）闽0302刑初145号】、【（2020）浙0481刑初240号】中，非法获利被作为量刑的考量因素之一，但并非构成容留卖淫罪的必要条件。例如，【（2021）闽0302刑初145号】中，被告人陈某铃非法获利人民币86040元，但法院在判决中强调的是其容留、介绍卖淫的行为，而非获利金额。\n\n综上，容留卖淫罪的构成不以营利为目的为必要条件，行为人实施了容留他人卖淫的行为即构成犯罪。法院在量刑时会考虑自首、认罪态度、非法获利等情节，但这些并非构成犯罪的必要条件。\n\n#####\n类似案件为：\n【（2020）苏1002刑初229号】：法院认为，被告人周某某、姜某某以盈利为目的，共同容留他人卖淫，构成容留卖淫罪。二被告人主动投案，如实供述犯罪事实，系自首，可从轻处罚；自愿认罪，可从轻处罚；积极退出违法所得，可酌情从轻处罚。结合二被告人的犯罪事实、情节以及认罪、悔罪表现，可给予一定的缓刑考验期限。一、被告人周某某犯容留卖淫罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币六千元。\n（缓刑考验期限自判决确定之日起计算，罚金在判决生效后十日内用其暂扣于扬州市广陵区公安分局的款项缴纳）\n二、被告人姜某某犯容留卖淫罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币六千元。\n（缓刑考验期限自判决确定之日起计算，罚金在判决生效后十日内用其暂扣于扬州市广陵区公安分局的款项缴纳）\n三、二被告人退出的违法所得人民币六千元（暂扣于扬州市公安局广陵分局），依法予以没收，上缴国库。\n【（2019）沪0115刑初1845号】：法院认为，被告人林某某以营利为目的，为他人卖淫活动提供场所，构成容留卖淫罪，并具有坦白情节。被告人林某某犯容留卖淫罪，判处有期徒刑十个月，罚金人民币二千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年2月2日起至2019年12月1日止。罚金款自判决生效后一个月内缴纳。)\n【（2020）粤1881刑初355号】：法院认为，被告人卢某、郑某、吴某以营利为目的，为他人卖淫提供场所及便利条件，从中谋利，其行为已构成容留卖淫罪。在共同犯罪中，被告人卢某、郑某起主要作用，是主犯，其中卢某作用较大；被告人吴某起次要作用，属于从犯。三被告人归案后能如实供述犯罪事实，在审查起诉阶段即能认罪认罚，依法予以从轻处罚。一、被告人卢某犯容留卖淫罪，判处有期徒刑一年六个月，并处罚金人民币六千元（罚金限于本判决发生法律效力之日起一个月内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月27日起至2021年10月26日止。）\n二、被告人郑某犯容留卖淫罪，判处有期徒刑十一个月，并处罚金人民币六千元（罚金限于本判决发生法律效力之日起一个月内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月25日起至2021年5月24日止。）\n三、被告人吴某犯容留卖淫罪，判处有期徒刑九个月，缓刑一年，并处罚金人民币三千元（罚金限于本判决发生法律效力之日起一个月内缴纳）。\n（缓刑考验期限，从判决确定之日起计算。）\n四、查扣在案存放于英德市公安局被告人卢某的OPPO牌手机一台、被告人郑某的黑色IQ00牌手机一台、被告人吴某的VIVO牌手机一台，予以没收，依法销毁。\n五、继续追缴被告人卢某犯罪所得人民币3000元、被告人郑某犯罪所得人民币3000元、被告人吴某犯罪所得250元，予以没收，上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.被告人在侦查阶段的供述明确承认与李某共同提供场所容留卖淫并收取好处费，构成犯罪故意 2.多名证人证言及同案人李某供述相互印证，证实被告人长期经营卖淫窝点 3.现场勘验笔录、照片等物证显示瓦房内设有多张简易床铺及使用过的避孕套，与证人证言形成完整证据链 4.被告人在共同犯罪中起主要作用，系主犯，应按照其所参与的全部犯罪处罚 5.社会危害性较大，持续时间长达7个月，影响恶劣\n防御策略：1.所有证据均依法收集，程序合法，询问/讯问笔录均有办案人员签名确认 2.现场勘验笔录、照片等物证由专业技术人员制作，具有客观性 3.被告人的供述与证人证言、物证能够相互印证，不存在矛盾 4.同案人李某的供述与被告人供述高度一致，具有可信度",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主犯的认定标准",
+              "容留卖淫罪中坦白情节的从轻处罚幅度"
+            ],
+            "容留卖淫罪中主犯的认定标准": "### 结论\n在容留卖淫罪中，主犯的认定标准主要依据行为人在犯罪中的作用和地位，特别是是否对卖淫活动实施了组织、策划、指挥、管理或控制等行为，以及是否为主要投资者或实际经营者。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了组织、强迫、引诱、容留、介绍他人卖淫的犯罪行为及其处罚。\n- **《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》**：对组织卖淫罪与容留卖淫罪的区分提供了具体指导，强调了对卖淫活动的管理、控制行为是区分两罪的关键。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在犯罪中的作用和地位**：如果行为人是主要投资者或实际经营者，即使不直接参与日常管理，也应认定为主犯。例如，【（2020）苏0583刑初2011号】中，被告人戴广伍作为主犯，虽然否认犯罪事实，但其在共同犯罪中起主要作用，被认定为容留卖淫罪的主犯。\n- **是否实施了管理、控制卖淫活动的组织行为**：如果行为人对卖淫活动有策划、指挥、管理、控制、安排和调度等组织行为，不论其是主犯还是从犯，都应按组织卖淫罪定罪处罚。例如，【（2019）粤0305刑初1500号】中，被告人王某不仅容留他人卖淫，还与他人合作，安排卖淫活动，被认定为容留、介绍卖淫罪的主犯。\n- **是否为卖淫活动提供场所或便利条件**：如果行为人仅提供场所或便利条件，对卖淫活动不进行管理或控制，可能构成容留卖淫罪，但不构成组织卖淫罪的主犯。例如，【（2019）粤0513刑初1002号】中，被告人陈汉吟虽然提供了场所，但其在共同犯罪中起主要作用，被认定为容留卖淫罪的主犯。\n\n综上，容留卖淫罪中主犯的认定，关键在于行为人是否对卖淫活动实施了实质性的组织、管理或控制行为，以及其在犯罪中的地位和作用。主要投资者或实际经营者，以及直接实施组织行为的人员，通常会被认定为容留卖淫罪的主犯。\n\n#####\n类似案件为：\n【（2020）苏0583刑初2011号】：法院认为，被告人戴广伍容留他人卖淫，其行为构成容留卖淫罪，且在共同犯罪中起主要作用，系主犯。辩护人关于初犯的辩护意见被采纳，但被告人否认犯罪事实，未认罪。一、被告人戴广伍犯容留卖淫罪，判处有期徒刑二年六个月，并处罚金人民币四万七千元。\n（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年8月1日起至2023年2月9日止。罚金在判决生效后第二日起三十日内缴纳。）\n二、追缴被告人戴广伍违法所得人民币二万五千六百元，予以没收，上缴国库。\n三、扣押的手机由公安机关依法处理。\n【（2019）粤0305刑初1500号】：法院认为，被告人王某构成容留、介绍卖淫罪，系主犯，具有认罪态度好的从轻处罚情节。一、被告人王某犯容留、介绍卖淫罪，判处有期徒刑六个月，并处罚金人民币五千元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月9日起执行至2019年12月8日止；罚金自本判决生效之日起十日内向本院缴纳，上缴国库。）\n二、犯罪工具由扣押机关依法予以没收。\n【（2019）粤0513刑初1002号】：法院认为，被告人陈汉吟为牟取非法收入，结伙提供场所容留他人卖淫，其行为已构成容留卖淫罪，属共同犯罪，且在共同犯罪中起主要作用，是主犯，但鉴于其自首、认罪认罚、预交罚金等情节，可从轻处罚并适用缓刑。被告人陈汉吟犯容留卖淫罪，判处有期徒刑十个月，缓刑一年，并处罚金五千元。\n（缓刑考验期限，从判决确定之日起计算。）",
+            "容留卖淫罪中坦白情节的从轻处罚幅度": "### 结论\n在容留卖淫罪中，坦白情节的从轻处罚幅度受到罪行轻重、坦白的时间、坦白的程度以及坦白的价值等多方面因素的影响。根据《刑法》第六十七条第三款，坦白可以从轻处罚，但具体从轻的幅度需根据案件的具体情况确定，一般情况下，坦白司法机关尚未掌握的同种罪行的，可以从轻10%~30%；坦白司法机关已经掌握的罪行的，可以从轻20%以下。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2019）浙1023刑初343号】中，被告人周嫦云虽有坦白情节，但具体从轻幅度需考虑其罪行的严重性。\n- **坦白的时间**：犯罪分子在归案后坦白的时间早晚，反映了其悔悟程度和人身危险性，影响从宽处罚的幅度。例如，【（2019）沪0112刑初113号】中，被告人黄明生系初犯且坦白，法院因此从宽处罚。\n- **坦白的程度**：彻底交代全部罪行与仅交代主要罪行，以及交代事实的全面性，影响从宽处罚的幅度。例如，【（2020）苏1202刑初146号】中，被告人贾某的坦白程度和认罪态度被法院认为是决定从宽处罚的重要因素。\n- **坦白的价值**：坦白在全案中的证据作用，如是否有助于收集定案证据，影响从宽处罚的幅度。例如，【（2021）沪0116刑初98号】中，被告人孟某某的坦白有助于案件的侦破，因此法院从轻处罚。\n\n综上，坦白情节在容留卖淫罪中的从轻处罚幅度，需综合考虑罪行的严重性、坦白的时间、程度和价值，以及是否有助于案件的侦破和证据的收集。法院在量刑时会根据这些因素在规定的幅度内确定具体的从轻处罚比例。\n\n#####\n类似案件为：\n【（2019）浙1023刑初343号】：法院认为，被告人周嫦云构成容留卖淫罪，鉴于其自愿认罪认罚，有坦白情节，应予从轻处罚。被告人的违法所得，应当予以追缴，供犯罪所用的本人财物，予以没收。一、被告人周嫦云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币八千元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的,羁押一日折抵刑期一日,即自2019年5月22日起至2020年3月21日止。)\n 二、追缴被告人周嫦云的违法所得人民币四千元，没收上缴国库。\n （以上罚金及追缴款限判决生效之日起一个月内缴纳)。\n 三、没收被告人周嫦云的华为荣耀金色手机一部。\n【（2019）沪0112刑初113号】：法院认为，被告人黄明生的行为构成容留卖淫罪，其具有坦白情节，依法可从轻处罚。鉴于黄明生系初犯、坦白且认罪悔罪，予以从宽处罚。一、被告人黄明生犯容留卖淫罪，判处有期徒刑六个月，并处罚金人民币三千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月10日起至2019年4月9日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、扣押在案的账本(一册)予以没收；追缴被告人黄明生的违法所得。\n【（2020）苏1202刑初146号】：法院认为，被告人贾某的行为构成容留、介绍卖淫罪，其具有坦白、自愿认罪认罚、主动退出违法所得、积极预缴罚金等情节，依法对其从轻处罚并给予缓刑。一、被告人贾某犯容留、介绍卖淫罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币五千元。\n二、被告人贾某退出的违法所得人民币一千元依法予以没收，上缴国库。"
+          }
+        },
+        "目标": "请求法院判处被告人阮某甲容留卖淫罪，有期徒刑XX，缓刑XX，并处罚金人民币XX元",
+        "询问": "1. 被告人阮某甲，你与李某共同经营的瓦房内是否长期容留妇女从事卖淫活动？具体从何时开始至何时结束？\n\n2. 你与李某是如何分工合作的？在容留卖淫活动中各自承担什么具体职责？\n\n3. 你们是如何向卖淫女和嫖客收取费用的？具体收费标准是什么？违法所得共计多少？\n\n4. 2018年3月14日被公安机关查处时，现场发现的卖淫女和嫖客是否都是由你安排在该场所进行交易的？\n\n5. 瓦房内的简易床铺、避孕套等物品是否是你和李某专门为卖淫活动准备的？\n\n6. 你为何选择在工商所后面的瓦房作为卖淫场所？是否考虑到该地点较为隐蔽？\n\n7. 在长达7个月的犯罪期间，你是否意识到自己的行为已经触犯法律？为何没有主动停止犯罪活动？\n\n8. 你与同案人李某是如何分配违法所得的？各自分得多少？\n\n9. 被抓获后，你是否如实向公安机关供述了全部犯罪事实？现在对起诉书指控的犯罪事实是否有异议？\n\n10. 你是否愿意认罪认罚？对于给社会造成的不良影响是否有悔过之意？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑部分证人证言的客观性，如胡某、杨某等证人的证言仅基于怀疑，缺乏直接证据支持2.现场勘验笔录和照片仅能证明场所存在卖淫活动，不能直接证明被告人是主要组织者3.同案人李某的证言可能存在推卸责任的情况，需要进一步核实\n防御策略：1.被告人自愿认罪，如实供述，具有坦白情节2.被告人在共同犯罪中实际作用较小，主要行为由李某实施3.被告人是初犯，社会危害性较小，愿意缴纳罚金",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫罪中坦白情节的从轻处罚幅度",
+              "容留卖淫罪中共同犯罪的责任划分"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫罪中坦白情节的从轻处罚幅度": "### 结论\n在容留卖淫罪中，坦白情节的从轻处罚幅度受到罪行轻重、坦白的时间、坦白的程度以及坦白的价值等多方面因素的影响。根据《刑法》第六十七条第三款，坦白可以从轻处罚，但具体从轻的幅度需根据案件的具体情况确定，一般情况下，坦白司法机关尚未掌握的同种罪行的，可以从轻10%~30%；坦白司法机关已经掌握的罪行的，可以从轻20%以下。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2019）浙1023刑初343号】中，被告人周嫦云虽有坦白情节，但具体从轻幅度需考虑其罪行的严重性。\n- **坦白的时间**：犯罪分子在归案后坦白的时间早晚，反映了其悔悟程度和人身危险性，影响从宽处罚的幅度。例如，【（2019）沪0112刑初113号】中，被告人黄明生系初犯且坦白，法院因此从宽处罚。\n- **坦白的程度**：彻底交代全部罪行与仅交代主要罪行，以及交代事实的全面性，影响从宽处罚的幅度。例如，【（2020）苏1202刑初146号】中，被告人贾某的坦白程度和认罪态度被法院认为是决定从宽处罚的重要因素。\n- **坦白的价值**：坦白在全案中的证据作用，如是否有助于收集定案证据，影响从宽处罚的幅度。例如，【（2021）沪0116刑初98号】中，被告人孟某某的坦白有助于案件的侦破，因此法院从轻处罚。\n\n综上，坦白情节在容留卖淫罪中的从轻处罚幅度，需综合考虑罪行的严重性、坦白的时间、程度和价值，以及是否有助于案件的侦破和证据的收集。法院在量刑时会根据这些因素在规定的幅度内确定具体的从轻处罚比例。\n\n#####\n类似案件为：\n【（2019）浙1023刑初343号】：法院认为，被告人周嫦云构成容留卖淫罪，鉴于其自愿认罪认罚，有坦白情节，应予从轻处罚。被告人的违法所得，应当予以追缴，供犯罪所用的本人财物，予以没收。一、被告人周嫦云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币八千元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的,羁押一日折抵刑期一日,即自2019年5月22日起至2020年3月21日止。)\n 二、追缴被告人周嫦云的违法所得人民币四千元，没收上缴国库。\n （以上罚金及追缴款限判决生效之日起一个月内缴纳)。\n 三、没收被告人周嫦云的华为荣耀金色手机一部。\n【（2019）沪0112刑初113号】：法院认为，被告人黄明生的行为构成容留卖淫罪，其具有坦白情节，依法可从轻处罚。鉴于黄明生系初犯、坦白且认罪悔罪，予以从宽处罚。一、被告人黄明生犯容留卖淫罪，判处有期徒刑六个月，并处罚金人民币三千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月10日起至2019年4月9日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、扣押在案的账本(一册)予以没收；追缴被告人黄明生的违法所得。\n【（2020）苏1202刑初146号】：法院认为，被告人贾某的行为构成容留、介绍卖淫罪，其具有坦白、自愿认罪认罚、主动退出违法所得、积极预缴罚金等情节，依法对其从轻处罚并给予缓刑。一、被告人贾某犯容留、介绍卖淫罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币五千元。\n二、被告人贾某退出的违法所得人民币一千元依法予以没收，上缴国库。",
+            "容留卖淫罪中共同犯罪的责任划分": "### 结论\n在容留卖淫罪的共同犯罪中，责任划分主要依据各被告人在犯罪中的作用、地位以及是否实施了组织行为。主要投资者或所有者通常认定为主犯，而实施辅助行为的则可能被认定为从犯。区分组织卖淫罪与协助组织卖淫罪的关键在于是否对卖淫活动实施了管理、控制的组织行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了组织卖淫罪和协助组织卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十六条第一款及第四款**：规定了主犯的认定和处罚。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的认定和处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **被告人在共同犯罪中的作用和地位**：在【（2017）桂0881刑初326号】中，法院认为被告人梁红某起主要作用，是主犯，而被告人余培某、莫润某起辅助作用，是从犯。在【（2019）浙0603刑初934号】中，被告人苏永团被认定为主犯，而被告人江合被认定为从犯。\n- **是否实施了管理、控制的组织行为**：在【（2017）桂0881刑初326号】中，法院认为卖淫妇女行动自由，不受被告人梁红某控制，因此不构成组织卖淫罪，而是介绍、容留卖淫罪。在【（2019）粤0303刑初943号】中，被告人胡杨强、陈光明均被认定为实施了容留、介绍卖淫的组织行为，构成容留、介绍卖淫罪。\n- **是否如实供述罪行**：在【（2019）苏0922刑初235号】中，被告人黄某归案后如实供述自己的罪行，可以从轻处罚。在【（2019）0922刑初字第34号】中，被告人李买云到案后如实供述自己的犯罪事实，当庭自愿认罪，依法可以从轻处罚。\n\n综上，被告人在共同犯罪中的作用和地位、是否实施了管理、控制的组织行为以及是否如实供述罪行是影响容留卖淫罪共同犯罪责任划分的关键因素。\n\n#####\n类似案件为：\n【（2019）浙0603刑初934号】：法院认为，被告人苏永团、江合结伙为他人卖淫提供场所，其行为已构成容留卖淫罪，属共同犯罪。在共同犯罪中，被告人苏永团系主犯，被告人江合系从犯，依法予以从轻处罚。被告人江合有犯罪前科，酌情予以从重处罚。被告人苏永团、江合归案后如实供述自己的罪行，且自愿认罪认罚，依法予以从轻处罚。一、被告人苏永团犯容留卖淫罪，判处有期徒刑一年四个月，并处罚金人民币一万四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一九年一月二十八日起至二○二○年五月二十七日止。罚金限在判决生效后十日内缴纳）；\n\n二、被告人江合犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币一万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一九年一月十日起至二○二○年八月三日止。罚金限在判决生效后十日内缴纳）；\n\n三、追缴被告人苏永团、江合等人犯罪所得人民币一万七千元；\n\n四、暂存于绍兴市公安局柯桥区分局的手机一只，予以没收，由绍兴市公安局柯桥区分局负责处理。\n【（2019）粤0303刑初943号】：法院认为，胡杨强、陈光明的行为构成容留、介绍卖淫罪，两人在共同犯罪中作用相当，不宜区分主从犯。两人均坦白认罪，自愿认罚，可从轻处罚。一、被告人胡杨强犯容留、介绍卖淫罪，判处有期徒刑十一个月，并处罚金人民币八千元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月16日起至2019年12月15日止。罚金自判决生效后十日内向本院缴纳）。\n二、被告人陈光明犯容留、介绍卖淫罪，判处有期徒刑十一个月，并处罚金人民币八千元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月16日起至2019年12月15日止。罚金自判决生效后十日内向本院缴纳）。\n三、公安机关扣押的被告人三部手机，予以没收，依法上缴国库。\n【（2019）0922刑初字第34号】：法院认为，被告人李买云、李欠法、王义撑为非法获利，容留他人在旅社卖淫，构成容留卖淫罪，属共同犯罪。李欠法有犯罪前科，从重处罚；李买云如实供述，自愿认罪，从轻处罚；李欠法当庭认罪，酌情从轻；王义撑如实供述，自愿认罪认罚，依法从宽。一．被告人李买云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币四千元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自二○一九年三月十三日起至二○二○年一月十二日止。罚金限于本判决生效后一个月内缴纳）。\n 二．被告人李欠法犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币四千元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自二○一九年三月十三日起至二○二○年一月十二日止。罚金限于本判决生效后一个月内缴纳）。\n 三．被告人王义撑犯容留卖淫罪，判处有期徒刑六个月，并处罚金人民币二千元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自二○一九年七月九日起至二○二○年一月八日止。罚金限于本判决生效后一个月内缴纳）。\n 四．扣押在案的作案工具手机两部，予以没收，上缴国库；继续追缴被告人李买云、李欠法、王义撑未退赔的非法所得人民币6000元。"
+          }
+        },
+        "目标": "请求法院判处被告人阮某甲从轻处罚，适用缓刑",
+        "询问": "1. 关于共同犯罪中的作用：被告人，你与李某在经营该场所期间，具体是如何分工的？你主要负责哪些事务？（用于区分主从犯，证明被告人在共同犯罪中实际作用较小）\n\n2. 关于获利情况：你从该场所中实际获得的经济利益有多少？这些钱款是如何分配的？（用于证明被告人的实际获利情况，可能影响量刑幅度）\n\n3. 关于场所管理：该瓦房的所有权归属是谁？日常运营中是谁负责接待嫖客、安排卖淫女？（用于证明被告人对场所的实际控制程度）\n\n4. 关于认罪态度：你在公安机关第一次讯问时就如实供述了全部事实吗？是否有主动交代公安机关尚未掌握的情况？（用于强调坦白情节）\n\n5. 关于犯罪动机：你参与此事的主要原因是什么？是否存在生活困难等特殊原因？（用于说明犯罪动机，可能影响量刑）\n\n6. 关于社会危害性：该场所经营期间是否发生过纠纷或治安问题？你是否知道有强迫卖淫的情况？（用于证明社会危害性较小）"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人自愿认罪认罚，如实供述犯罪事实，具有法定从轻处罚的坦白情节 2.在共同犯罪中实际作用较小，主要犯罪行为由同案人李某实施，应认定为从犯 3.系初犯，社会危害性相对较小，愿意积极缴纳罚金 4.对部分仅凭怀疑的证人证言(如胡某、杨某)提出质疑，缺乏直接证据支持 5.现场证据仅能证明存在卖淫活动，不能直接证明被告人是主要组织者 6.同案人李某的证言可能存在推卸责任的情况，需法庭进一步核实",
+        "记忆": "",
+        "目标": "请求法院从轻处罚并适用缓刑"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人阮某甲是否构成容留卖淫罪。查明情况：被告人已当庭认罪，对起诉书指控的犯罪事实和罪名无异议，且供述与证人证言、现场证据相互印证，犯罪事实清楚。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：根据被告人供述，其与李某分工明确，李某负责主要经营事项，被告人主要负责看管场所等辅助工作，获利比例为三七分成。结合共同犯罪认定标准，应认定被告人在共同犯罪中起次要作用。\n\n3.被告人的坦白情节是否成立。查明情况：被告人在侦查阶段及庭审中均如实供述犯罪事实，供述稳定一致，符合坦白情节的认定标准，依法可以从轻处罚。\n\n4.量刑情节的认定。查明情况：被告人系初犯，具有坦白情节，认罪认罚，但未退缴违法所得。需综合考虑其犯罪情节、社会危害性及悔罪表现等因素确定量刑。\n\n5.现场证据的证明力。查明情况：现场勘验笔录、照片等证据与被告人供述相互印证，能够充分证明卖淫活动的存在及被告人的参与程度，证据确实、充分。\n\n6.证人证言的可信度。查明情况：多名证人证言内容一致，与被告人供述及其他证据相互印证，不存在矛盾，具有较高可信度。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫案件中坦白情节的认定标准",
+              "容留卖淫罪的量刑指导意见"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫案件中坦白情节的认定标准": "### 结论\n在容留卖淫案件中，坦白情节的认定标准主要考虑被告人是否在归案后如实供述自己的罪行，即使供述存在反复，只要在一审法庭上能够恢复如实供述，即可认定为坦白。坦白的从宽处罚程度需综合考虑犯罪的事实、性质、情节，以及坦白的时间、程度和价值。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间和稳定性**：【（2020）闽0582刑初5号】、【（2019）浙1023刑初343号】、【（2019）沪0112刑初2469号】、【（2020）沪0112刑初1164号】、【（2019）粤0303刑初992号】、【（2019）粤0306刑初5803号】、【（2019）沪0115刑初1845号】、【（2020）闽0203刑初707号】、【（2019）苏0404刑初178号】、【（2020）闽0702刑初121号】这些案例均表明，被告人归案后如实供述基本犯罪事实，即使供述存在反复，只要在一审法庭上能够恢复如实供述，即可视为坦白，予以从轻处罚。\n- **坦白的价值**：【（2019）粤0306刑初5803号】中，被告人刘晨、张青、江辉的坦白情节在量刑时予以考虑，因为坦白有助于收集定案证据，对定案证据的收集有重要作用，一般应当从轻处罚。\n- **坦白的程度**：【（2019）苏0404刑初178号】中，被告人周丽的供述未能如实供述自己的主要犯罪事实，不符合坦白的认定条件，因此，坦白的程度不同，反映犯罪分子是真心悔改还是想蒙混过关，对从宽处罚的幅度有影响。\n\n综上，坦白情节在容留卖淫案件中的认定，需综合考虑坦白的时间、稳定性、价值和程度，以决定是否从轻处罚以及从轻处罚的幅度。\n\n#####\n类似案件为：\n【（2020）闽0582刑初5号】：法院认为，被告人林梅丽以营利为目的，容留、介绍二人以上卖淫，其行为已构成容留、介绍卖淫罪。鉴于林梅丽归案后如实供述基本犯罪事实，依法可视为坦白，予以从轻处罚。辩护人关于坦白情节的辩护意见予以采纳，其余辩护意见不予采纳。一、被告人林梅丽犯容留、介绍卖淫罪，判处有期徒刑四年三个月，并处罚金人民币十万元。\n （刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年4月26日起至2023年7月25日止。罚金应于判决生效之日起十日内向本院缴纳。）\n 二、扣押在案的作案工具“OPPO”牌A83型手机、“VIVO”牌Y55A型手机各1部（均未随案移送），由扣押机关晋江市公安局予以没收，上缴国库。\n 三、继续追缴被告人林梅丽的违法所得人民币45610元。\n【（2019）浙1023刑初343号】：法院认为，被告人周嫦云构成容留卖淫罪，鉴于其自愿认罪认罚，有坦白情节，应予从轻处罚。被告人的违法所得，应当予以追缴，供犯罪所用的本人财物，予以没收。一、被告人周嫦云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币八千元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的,羁押一日折抵刑期一日,即自2019年5月22日起至2020年3月21日止。)\n 二、追缴被告人周嫦云的违法所得人民币四千元，没收上缴国库。\n （以上罚金及追缴款限判决生效之日起一个月内缴纳)。\n 三、没收被告人周嫦云的华为荣耀金色手机一部。\n【（2019）沪0112刑初2469号】：法院认为，被告人刘正全、永文昌的行为构成容留卖淫罪，且属共同犯罪，均具有坦白情节。一、被告人刘正全犯容留卖淫罪，判处有期徒刑九个月，并处罚金人民币四千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月12日起至2020年4月11日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、被告人永文昌犯容留卖淫罪，判处拘役五个月，罚金人民币二千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月12日起至2019年12月11日止。罚金自本判决生效之日起三十日内如数缴纳。)\n三、违法所得予以追缴。",
+            "容留卖淫罪的量刑指导意见": "### 结论\n容留卖淫罪的量刑指导意见主要考虑以下因素：卖淫人数、卖淫人员的类别、行为人获利情况、行为人是否具有同类行为被行政处罚的前科、以及行为人的主观恶性与人身危险性。对于初犯、坦白、认罪认罚、获利较少或社会危害性较小的，法院可能从轻处罚并适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了引诱、容留、介绍他人卖淫的犯罪构成。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了犯罪嫌疑人如实供述自己罪行的，可以从轻处罚。\n- **《中华人民共和国刑法》第七十二条第一、三款**：规定了适用缓刑的条件。\n- **《中华人民共和国刑法》第七十三条第一、三款**：规定了缓刑的考验期限。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **卖淫人数**：法院通常将容留二人以上卖淫作为入罪标准，特殊人员（如未成年人、孕妇、智障人员、患有严重性病的人）不受二人限制。例如，【（2020）苏1182刑初244号】、【（2020）苏1182刑初233号】中，法院均考虑了卖淫人数对量刑的影响。\n- **行为人获利情况**：非法获利一万元以上作为入罪标准之一，体现了对行为人经济利益的考量。例如，【（2020）苏1182刑初244号】中，法院考虑了行为人的非法获利情况。\n- **行为人是否具有同类行为被行政处罚的前科**：一年内曾因引诱、容留、介绍卖淫行为被行政处罚的，入罪门槛更低。例如，【（2020）苏1182刑初244号】中，法院考虑了行为人是否有前科劣迹。\n- **行为人的主观恶性与人身危险性**：初犯、坦白、认罪认罚等情节，法院可能从轻处罚并适用缓刑。例如，【（2020）粤0607刑初385号】、【（2021）沪0120刑初206号】、【（2021）沪0112刑初607号】中，法院均考虑了行为人的主观态度和人身危险性。\n\n综上，容留卖淫罪的量刑需综合考虑卖淫人数、行为人获利情况、前科劣迹、主观恶性与人身危险性等因素，法院在量刑时会根据具体案情，对行为人是否从轻处罚、是否适用缓刑作出判断。\n\n#####\n类似案件为：\n【（2020）苏1182刑初244号】：法院认为，公诉机关指控被告人甘兆某犯容留卖淫罪的事实清楚，证据确实、充分，指控罪名成立，量刑建议适当，予以采纳。可在接到判决书的第二日起十日内，通过本院或者直接向江苏省镇江市中级人民法院提出上诉。书面上诉的，应提交上诉状正本一份，副本二份。\n【（2020）苏1182刑初233号】：法院认为，公诉机关指控被告人薛长某犯容留卖淫罪的事实清楚，证据确实、充分，指控罪名成立，量刑建议适当，应予采纳。可在接到判决书的第二日起十日内，通过本院或者直接向江苏省镇江市中级人民法院提出上诉。书面上诉的，应提交上诉状正本一份，副本二份。\n【（2020）苏1182刑初244号】：法院认为，公诉机关指控被告人甘兆某犯容留卖淫罪的事实清楚，证据确实、充分，指控罪名成立，量刑建议适当，予以采纳。可在接到判决书的第二日起十日内，通过本院或者直接向江苏省镇江市中级人民法院提出上诉。书面上诉的，应提交上诉状正本一份，副本二份。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.被告人在侦查阶段和法庭上的供述一致，明确承认与李某共同提供场所容留卖淫并收取好处费，构成犯罪故意 2.现场勘验笔录、照片等物证显示瓦房内设有多张简易床铺及使用过的避孕套，与证人证言形成完整证据链 3.被告人在共同犯罪中虽非主要组织者，但长期参与经营，持续时间长达7个月，社会危害性较大 4.根据刑法第三百五十九条第一款，被告人行为已构成容留卖淫罪，应依法惩处\n\n防御策略：1.所有证据均依法收集，程序合法，询问/讯问笔录均有办案人员签名确认 2.现场勘验笔录、照片等物证由专业技术人员制作，具有客观性 3.被告人的供述与证人证言、物证能够相互印证，不存在矛盾 4.同案人李某的供述与被告人供述高度一致，具有可信度 5.量刑建议综合考虑了被告人的坦白情节和犯罪情节，符合法律规定",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十六条"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十六条": "组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。三人以上为共同实施犯罪而组成的较为固定的犯罪组织，是犯罪集团。对组织、领导犯罪集团的首要分子，按照集团所犯的全部罪行处罚。对于第三款规定以外的主犯，应当按照其所参与的或者组织、指挥的全部犯罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫罪中坦白情节的从轻处罚幅度",
+              "容留卖淫罪中违法所得金额的认定标准"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫罪中坦白情节的从轻处罚幅度": "### 结论\n在容留卖淫罪中，坦白情节的从轻处罚幅度受到罪行轻重、坦白的时间、坦白的程度以及坦白的价值等多方面因素的影响。根据《刑法》第六十七条第三款，坦白可以从轻处罚，但具体从轻的幅度需根据案件的具体情况确定，一般情况下，坦白司法机关尚未掌握的同种罪行的，可以从轻10%~30%；坦白司法机关已经掌握的罪行的，可以从轻20%以下。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2019）浙1023刑初343号】中，被告人周嫦云虽有坦白情节，但具体从轻幅度需考虑其罪行的严重性。\n- **坦白的时间**：犯罪分子在归案后坦白的时间早晚，反映了其悔悟程度和人身危险性，影响从宽处罚的幅度。例如，【（2019）沪0112刑初113号】中，被告人黄明生系初犯且坦白，法院因此从宽处罚。\n- **坦白的程度**：彻底交代全部罪行与仅交代主要罪行，以及交代事实的全面性，影响从宽处罚的幅度。例如，【（2020）苏1202刑初146号】中，被告人贾某的坦白程度和认罪态度被法院认为是决定从宽处罚的重要因素。\n- **坦白的价值**：坦白在全案中的证据作用，如是否有助于收集定案证据，影响从宽处罚的幅度。例如，【（2021）沪0116刑初98号】中，被告人孟某某的坦白有助于案件的侦破，因此法院从轻处罚。\n\n综上，坦白情节在容留卖淫罪中的从轻处罚幅度，需综合考虑罪行的严重性、坦白的时间、程度和价值，以及是否有助于案件的侦破和证据的收集。法院在量刑时会根据这些因素在规定的幅度内确定具体的从轻处罚比例。\n\n#####\n类似案件为：\n【（2019）浙1023刑初343号】：法院认为，被告人周嫦云构成容留卖淫罪，鉴于其自愿认罪认罚，有坦白情节，应予从轻处罚。被告人的违法所得，应当予以追缴，供犯罪所用的本人财物，予以没收。一、被告人周嫦云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币八千元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的,羁押一日折抵刑期一日,即自2019年5月22日起至2020年3月21日止。)\n 二、追缴被告人周嫦云的违法所得人民币四千元，没收上缴国库。\n （以上罚金及追缴款限判决生效之日起一个月内缴纳)。\n 三、没收被告人周嫦云的华为荣耀金色手机一部。\n【（2019）沪0112刑初113号】：法院认为，被告人黄明生的行为构成容留卖淫罪，其具有坦白情节，依法可从轻处罚。鉴于黄明生系初犯、坦白且认罪悔罪，予以从宽处罚。一、被告人黄明生犯容留卖淫罪，判处有期徒刑六个月，并处罚金人民币三千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月10日起至2019年4月9日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、扣押在案的账本(一册)予以没收；追缴被告人黄明生的违法所得。\n【（2020）苏1202刑初146号】：法院认为，被告人贾某的行为构成容留、介绍卖淫罪，其具有坦白、自愿认罪认罚、主动退出违法所得、积极预缴罚金等情节，依法对其从轻处罚并给予缓刑。一、被告人贾某犯容留、介绍卖淫罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币五千元。\n二、被告人贾某退出的违法所得人民币一千元依法予以没收，上缴国库。",
+            "容留卖淫罪中违法所得金额的认定标准": "### 结论\n容留卖淫罪中违法所得金额的认定，需区分正常经营收入与非法获利，确保定罪量刑的准确性。法院在认定违法所得时，会审查记账本、供述、转账记录等证据，以确保非法获利数额的准确性，并依据相关司法解释确定罚金刑的适用。\n\n### 核心法条\n- **《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第十三条**：规定了容留卖淫罪的罚金刑适用标准，应根据犯罪情节、非法获利数额等因素确定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法获利数额的准确性**：法院在认定非法获利时，会仔细审查记账本、供述、转账记录等证据，以区分正常经营收入与非法获利。例如，【（2020）浙04刑再12号】中，法院认为原审被告人郑才刚关于非法获利数额的辩护意见不予采纳，因为记账本中正常浴资收入与非法获利分开记录，与原审被告人赵丽萍的供述相印证，足以认定非法获利数额40000元并不包括正常经营收入。\n- **罚金刑的适用**：法院在判处罚金刑时，应依据《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第十三条的规定，根据犯罪情节、非法获利数额等因素确定。例如，【（2019）京02刑终431号】中，法院认为原审判决未根据上述司法解释判处罚金刑，属适用法律错误，依法应予改判。\n\n综上，容留卖淫罪中违法所得金额的认定需细致审查证据，确保非法获利数额的准确性，并依据相关司法解释确定罚金刑的适用，以实现公正裁判。\n\n#####\n类似案件为：\n【（2020）浙04刑再12号】：法院认为，原审被告人郑才刚、赵丽萍共同容留他人卖淫，非法获利40000元，已构成容留卖淫罪。原审判决认定事实清楚，证据确实、充分，定罪正确，判处的主刑适当。但原审判决未根据《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第十三条的规定判处罚金刑，属适用法律错误。抗诉机关的意见成立，应予采纳。一、撤销嘉兴市南湖区人民法院（2019）浙0402刑初412号刑事判决中原审被告人郑才刚、赵丽萍的罚金刑部分，维持判决的其余部分；\n二、原审被告人郑才刚犯容留卖淫罪，判处有期徒刑三年六个月，并处罚金40000元；\n三、原审被告人赵丽萍犯容留卖淫罪，判处有期徒刑三年六个月，并处罚金40000元。\n【（2019）京02刑终431号】：法院认为，王利娜无视国法，伙同他人利用经营场所容留、介绍他人卖淫，其行为已构成容留、介绍卖淫罪，且情节严重，依法应予惩处。王利娜能够自愿如实供述主要犯罪事实，认罪态度较好，并能积极退缴部分赃款，可酌予从轻处罚。原判认定犯罪所得数额有误，且判处罚金刑的数额违反了相关法律解释，系适用法律错误，应予改判。一、维持北京市丰台区人民法院（2019）京0106刑初104号刑事判决主文第四项，即：扣押物品由扣押机关处理。\n二、撤销北京市丰台区人民法院（2019）京0106刑初104号刑事判决主文第一项、第二项、第三项，即：被告人王利娜犯容留、介绍卖淫罪，判处有期徒刑五年六个月，并处罚金人民币一万元；追缴被告人王利娜的违法所得人民币十二万八千九百元没收上缴国库；已追缴被告人王利娜的违法所得人民币四万元并入第二项执行。\n三、上诉人王利娜犯容留、介绍卖淫罪，判处有期徒刑五年六个月，并处罚金人民币十三万三千一百元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年5月27日起至2023年11月26日止。罚金于判决生效后一个月内缴纳。）\n四、追缴被告人王利娜的违法所得人民币十三万三千一百元，没收上缴国库（已退缴人民币四万元）。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：\n1.现场勘验笔录和照片仅能证明场所存在卖淫活动，不能直接证明被告人是主要组织者\n2.同案人李某的证言可能存在推卸责任的情况，需要进一步核实\n防御策略：\n1.被告人自愿认罪，如实供述，具有坦白情节\n2.被告人在共同犯罪中实际作用较小，主要行为由李某实施\n3.被告人是初犯，社会危害性较小",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中从犯的认定标准",
+              "初犯且认罪态度良好的容留卖淫案件量刑参考"
+            ],
+            "容留卖淫罪中从犯的认定标准": "### 结论\n在容留卖淫罪中，从犯的认定主要基于行为人在共同犯罪中的作用和地位，具体表现为是否在犯罪活动中起次要或辅助作用，如提供场所、收取嫖资等，但未直接参与卖淫活动的组织、策划或管理。\n\n### 核心法条\n- **《中华人民共和国刑法》第359条**：规定了容留卖淫罪的构成要件和处罚。\n- **《中华人民共和国刑法》第27条**：规定了从犯的认定和处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用**：如果行为人在共同犯罪中起次要或辅助作用，如仅提供场所或协助收取嫖资，未直接参与卖淫活动的组织、策划或管理，通常会被认定为从犯。例如，【（2020）沪0114刑初1270号】中，伍某某、李某4、张某3因提供场所而被认定为从犯；【（2019）苏1302刑初232号】中，朱军、朱贵华因在共同犯罪中起次要作用而被认定为从犯。\n- **行为人的主观故意和客观行为**：行为人是否明知他人从事卖淫活动而提供帮助，以及提供的帮助是否对卖淫活动的顺利进行起到关键作用。例如，【（2020）沪0114刑初1270号】中，朱某某、伍某某、李某4、张某3均明知他人从事卖淫活动而提供场所，但因作用不同，主从犯有别。\n- **行为人的认罪态度和配合程度**：行为人是否如实供述罪行，是否愿意接受处罚，这些因素也会影响从犯的认定和量刑。例如，【（2020）沪0114刑初1270号】中，四名被告人均能如实供述罪行，愿意接受处罚，因此从轻处罚。\n\n综上，容留卖淫罪中从犯的认定主要依据行为人在共同犯罪中的作用和地位，以及主观故意和客观行为，认罪态度和配合程度也是量刑时考虑的因素。从犯通常是在共同犯罪中起次要或辅助作用，未直接参与核心犯罪活动的组织、策划或管理。\n\n#####\n类似案件为：\n【（2020）沪0114刑初1270号】：法院认为，被告人朱某某、伍某某介绍他人卖淫并提供场所，构成容留、介绍卖淫罪，朱某某为主犯，伍某某为从犯；李某4、张某3明知他人从事卖淫活动而提供场所，构成容留卖淫罪，为从犯。一、被告人朱某某犯容留、介绍卖淫罪，判处有期徒刑二年，并处罚金人民币二万元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月2日起至2022年4月1日止。)\n二、被告人伍某某犯容留、介绍卖淫罪，判处有期徒刑一年二个月，并处罚金人民币一万元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月2日起至2021年6月1日止。)\n三、被告人李某4犯容留卖淫罪，判处有期徒刑八个月，并处罚金人民币四千元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月4日起至2020年12月3日止。)\n四、被告人张某3犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币五千元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月6日起至2021年2月4日止。)\n(上述罚金均应于本判决生效之日起十日内缴纳。)\n五、向被告人朱某某追缴违法所得人民币三千元，连同在案违法所得人民币二千二百元及犯罪工具，予以没收。\n【（2019）苏1302刑初232号】：法院认为，被告人田凤美、朱军、朱贵华容留他人卖淫，其行为已构成容留卖淫罪。田凤美在共同犯罪中起主要作用，是主犯，应当按照其所参与的全部犯罪处罚。朱军、朱贵华在共同犯罪中起次要作用，是从犯，应当从轻处罚。三被告人归案后如实供述自己的罪行，可以从轻处罚。朱贵华曾因犯容留卖淫罪被判处刑罚，现又实施容留卖淫犯罪，可以酌情从重处罚。被告人田凤美犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币二万元。\n\n（刑期从判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年1月11日起至2019年11月10日止。罚金于本判决生效后十日内缴纳。）\n\n被告人朱军犯容留卖淫罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币一万五千元。\n\n（缓刑考验期限从判决确定之日计算；罚金已缴纳。）\n\n被告人朱贵华犯容留卖淫罪，判处有期徒刑八个月，并处罚金人民币一万五千元。\n\n（刑期从判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日。罚金于本判决生效后十日内缴纳。）\n【（2020）沪0114刑初1270号】：法院认为，被告人朱某某、伍某某介绍他人卖淫并提供场所，构成容留、介绍卖淫罪，朱某某为主犯，伍某某为从犯；李某4、张某3明知他人从事卖淫活动而提供场所，构成容留卖淫罪，为从犯。一、被告人朱某某犯容留、介绍卖淫罪，判处有期徒刑二年，并处罚金人民币二万元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月2日起至2022年4月1日止。)\n二、被告人伍某某犯容留、介绍卖淫罪，判处有期徒刑一年二个月，并处罚金人民币一万元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月2日起至2021年6月1日止。)\n三、被告人李某4犯容留卖淫罪，判处有期徒刑八个月，并处罚金人民币四千元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月4日起至2020年12月3日止。)\n四、被告人张某3犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币五千元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月6日起至2021年2月4日止。)\n(上述罚金均应于本判决生效之日起十日内缴纳。)\n五、向被告人朱某某追缴违法所得人民币三千元，连同在案违法所得人民币二千二百元及犯罪工具，予以没收。",
+            "初犯且认罪态度良好的容留卖淫案件量刑参考": "### 结论\n初犯且认罪态度良好的容留卖淫案件中，法院通常会考虑被告人的认罪态度、是否为初犯、犯罪的社会危害性、非法获利情况以及是否主动配合调查等因素，依法从轻处罚，量刑时可能会适用缓刑，罚金数额和刑期会根据具体情节而定。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件和处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的，可以从轻处罚。\n- **《中华人民共和国刑法》第七十二条第一款**：规定了对于被判处三年以下有期徒刑或者拘役的犯罪分子，同时符合一定条件的，可以宣告缓刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪态度**：认罪态度好，愿意接受处罚，是法院从轻处罚的重要考量因素。例如，【（2021）粤5122刑初181号】、【（2019）粤0305刑初1407号】、【（2020）粤0306刑初109号】中，被告人均因认罪态度好而获得从轻处罚。\n- **是否为初犯**：初犯通常会被视为减轻处罚的情节。例如，【（2020）鲁0705刑初208号】中，被告人认罪态度好，自愿认罪认罚，并积极缴纳罚金，法院予以从轻处罚。\n- **犯罪的社会危害性**：犯罪行为的社会危害性较小，法院可能会从轻处罚。例如，【（2019）粤0305刑初1407号】中，被告人王某勤的犯罪行为社会危害性较小，法院在量刑时予以考虑。\n- **非法获利情况**：非法获利的多少也会影响量刑。例如，【（2019）粤0305刑初1500号】中，被告人王某非法获利上万元，虽然认罪态度好，但非法获利较多，法院在量刑时会考虑这一因素。\n- **是否主动配合调查**：主动配合调查，如实供述犯罪事实，可以从轻处罚。例如，【（2020）粤0306刑初109号】中，被告人李谦知到案后如实供述犯罪事实，法院在量刑时予以考虑。\n\n综上，初犯、认罪态度良好、犯罪社会危害性较小、非法获利不多以及主动配合调查等都是法院在容留卖淫案件中从轻处罚的重要考量因素。\n\n#####\n类似案件为：\n【（2021）粤5122刑初181号】：法院认为，被告人张和钦的行为已构成容留卖淫罪，鉴于其认罪态度良好，依法可从宽处罚。采纳公诉机关的量刑建议，判处张和钦有期徒刑一年，并处罚金人民币14000元。随案移送的违法所得及手机一部，予以没收，上缴国库。一、被告人张和钦犯容留卖淫罪，判处有期徒刑一年，并处罚金人民币14000元；限于本判决生效之日起十日内缴纳。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年1月22日起至2022年1月21日止。）\n二、随案移送的违法所得人民币1100元（暂存于饶平县公安局公户）、手机一部，均予以没收，上缴国库。\n【（2019）粤0305刑初1407号】：法院认为，被告人王某勤构成容留卖淫罪，鉴于其认罪态度好，具有从轻处罚情节。一、被告人王某勤犯容留卖淫罪，判处拘役五个月，并处罚金人民币三千元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月18日起执行至2019年11月17日止；罚金自本判决生效之日起十日内向本院缴纳，上缴国库。）\n二、缴获的赃款及犯罪工具由扣押机关依法予以没收。\n【（2020）粤0306刑初109号】：法院认为，被告人的行为构成容留、介绍卖淫罪，认罪态度良好，可从轻处罚。辩护人的相关辩护意见予以采纳。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人自愿认罪认罚，如实供述犯罪事实，具有法定从轻处罚的坦白情节 2.在共同犯罪中实际作用较小，主要犯罪行为由同案人李某实施，应认定为从犯 3.系初犯，社会危害性相对较小，愿意积极缴纳罚金 4.对部分仅凭怀疑的证人证言(如胡某、杨某)提出质疑，缺乏直接证据支持 5.现场证据仅能证明存在卖淫活动，不能直接证明被告人是主要组织者 6.同案人李某的证言可能存在推卸责任的情况，需法庭进一步核实",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人阮某甲是否构成容留卖淫罪。查明情况：被告人已当庭认罪，对起诉书指控的犯罪事实和罪名无异议，且供述与证人证言、现场证据相互印证，犯罪事实清楚，证据确实充分。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：根据被告人供述和同案人证言，被告人主要负责看管场所等辅助工作，获利比例为三七分成，结合共同犯罪认定标准，应认定被告人在共同犯罪中起次要作用。辩护人对此提出异议，认为不能直接证明被告人是主要组织者。\n\n3.被告人的坦白情节是否成立。查明情况：被告人在侦查阶段及庭审中均如实供述犯罪事实，供述稳定一致，符合坦白情节的认定标准，依法可以从轻处罚。控辩双方对此无异议。\n\n4.量刑情节的认定。查明情况：被告人系初犯，具有坦白情节，认罪认罚，但未退缴违法所得。需综合考虑其犯罪情节、社会危害性及悔罪表现等因素确定量刑。目前控辩双方对量刑情节的讨论尚不充分。\n\n5.违法所得的具体数额认定。查明情况：被告人供述违法所得约几千元，但具体数额尚未查清，需进一步核实。该问题对罚金刑的确定有重要影响，目前双方均未充分讨论。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫案件中坦白情节的认定及量刑影响"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫案件中坦白情节的认定及量刑影响": "### 结论\n在容留卖淫案件中，坦白情节的认定及量刑影响主要取决于坦白的时间、程度、价值以及罪行的轻重。坦白有助于收集定案证据，尤其是对于司法机关尚未掌握的同种罪行的坦白，一般应当从轻处罚；坦白对于定案证据的收集有重要作用，坦白司法机关尚未掌握的较重同种罪行，或者因坦白避免了严重后果发生的，一般应当较大幅度从轻处罚；罪行极其严重，或者坦白对于司法机关办案没有起到实际作用的，可以不从轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间**：坦白的时间早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2019）粤0306刑初5803号】中，被告人刘晨、张青、江辉在案发当晚即被抓获，其坦白情节被法院认定，从而获得从轻处罚。\n- **坦白的程度**：犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。例如，【（2019）粤0306刑初5803号】中，被告人刘晨、张青、江辉对起诉书指控的犯罪事实均无异议，并认罪，法院认为其坦白情节明显，予以从轻处罚。\n- **坦白的价值**：坦白的价值和作用不同，客观上影响司法机关认定和处理案件。例如，【（2019）粤0306刑初5803号】中，被告人刘晨、张青、江辉的坦白对于收集定案证据尤其是关键证据起到了重要作用，法院在量刑时予以考虑。\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2019）粤0306刑初5803号】中，尽管被告人刘晨、张青、江辉的罪行严重，但由于其坦白情节，法院在量刑时予以从轻处罚。\n\n综上，坦白情节在容留卖淫案件中的认定及量刑影响，主要取决于坦白的时间、程度、价值以及罪行的轻重。法院在量刑时会综合考虑这些因素，以决定是否从宽处罚以及从宽处罚的幅度。\n\n#####\n类似案件为：\n【（2019）粤0306刑初5803号】：法院认为，被告人刘晨、张青、江辉的行为构成容留、介绍卖淫罪，其均具有坦白情节。被告人刘晨全面管理会所，张青系主任，江辉系楼面部长，该情节在量刑时予以考虑。辩护人的相关从轻处罚辩护意见，法院予以采纳。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0306刑初5803号】：法院认为，被告人刘晨、张青、江辉的行为构成容留、介绍卖淫罪，其均具有坦白情节。被告人刘晨全面管理会所，张青系主任，江辉系楼面部长，该情节在量刑时予以考虑。辩护人的相关从轻处罚辩护意见，法院予以采纳。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0306刑初5803号】：法院认为，被告人刘晨、张青、江辉的行为构成容留、介绍卖淫罪，其均具有坦白情节。被告人刘晨全面管理会所，张青系主任，江辉系楼面部长，该情节在量刑时予以考虑。辩护人的相关从轻处罚辩护意见，法院予以采纳。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.被告人在侦查阶段和法庭上的供述一致，明确承认与李某共同提供场所容留卖淫并收取好处费，构成犯罪故意 2.现场勘验笔录、照片等物证显示瓦房内设有多张简易床铺及使用过的避孕套，与证人证言形成完整证据链 3.被告人在共同犯罪中虽非主要组织者，但长期参与经营，持续时间长达7个月，社会危害性较大 4.根据刑法第三百五十九条第一款，被告人行为已构成容留卖淫罪，应依法惩处\n\n防御策略：1.所有证据均依法收集，程序合法，询问/讯问笔录均有办案人员签名确认 2.现场勘验笔录、照片等物证由专业技术人员制作，具有客观性 3.被告人的供述与证人证言、物证能够相互印证，不存在矛盾 4.同案人李某的供述与被告人供述高度一致，具有可信度 5.量刑建议综合考虑了被告人的坦白情节和犯罪情节，符合法律规定",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十六条"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十六条": "组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。三人以上为共同实施犯罪而组成的较为固定的犯罪组织，是犯罪集团。对组织、领导犯罪集团的首要分子，按照集团所犯的全部罪行处罚。对于第三款规定以外的主犯，应当按照其所参与的或者组织、指挥的全部犯罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫罪中坦白情节的从轻处罚幅度"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫罪中坦白情节的从轻处罚幅度": "### 结论\n在容留卖淫罪中，坦白情节的从轻处罚幅度受到罪行轻重、坦白的时间、坦白的程度以及坦白的价值等多方面因素的影响。根据《刑法》第六十七条第三款，坦白可以从轻处罚，但具体从轻的幅度需根据案件的具体情况确定，一般情况下，坦白司法机关尚未掌握的同种罪行的，可以从轻10%~30%；坦白司法机关已经掌握的罪行的，可以从轻20%以下。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2019）浙1023刑初343号】中，被告人周嫦云虽有坦白情节，但具体从轻幅度需考虑其罪行的严重性。\n- **坦白的时间**：犯罪分子在归案后坦白的时间早晚，反映了其悔悟程度和人身危险性，影响从宽处罚的幅度。例如，【（2019）沪0112刑初113号】中，被告人黄明生系初犯且坦白，法院因此从宽处罚。\n- **坦白的程度**：彻底交代全部罪行与仅交代主要罪行，以及交代事实的全面性，影响从宽处罚的幅度。例如，【（2020）苏1202刑初146号】中，被告人贾某的坦白程度和认罪态度被法院认为是决定从宽处罚的重要因素。\n- **坦白的价值**：坦白在全案中的证据作用，如是否有助于收集定案证据，影响从宽处罚的幅度。例如，【（2021）沪0116刑初98号】中，被告人孟某某的坦白有助于案件的侦破，因此法院从轻处罚。\n\n综上，坦白情节在容留卖淫罪中的从轻处罚幅度，需综合考虑罪行的严重性、坦白的时间、程度和价值，以及是否有助于案件的侦破和证据的收集。法院在量刑时会根据这些因素在规定的幅度内确定具体的从轻处罚比例。\n\n#####\n类似案件为：\n【（2019）浙1023刑初343号】：法院认为，被告人周嫦云构成容留卖淫罪，鉴于其自愿认罪认罚，有坦白情节，应予从轻处罚。被告人的违法所得，应当予以追缴，供犯罪所用的本人财物，予以没收。一、被告人周嫦云犯容留卖淫罪，判处有期徒刑十个月，并处罚金人民币八千元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的,羁押一日折抵刑期一日,即自2019年5月22日起至2020年3月21日止。)\n 二、追缴被告人周嫦云的违法所得人民币四千元，没收上缴国库。\n （以上罚金及追缴款限判决生效之日起一个月内缴纳)。\n 三、没收被告人周嫦云的华为荣耀金色手机一部。\n【（2019）沪0112刑初113号】：法院认为，被告人黄明生的行为构成容留卖淫罪，其具有坦白情节，依法可从轻处罚。鉴于黄明生系初犯、坦白且认罪悔罪，予以从宽处罚。一、被告人黄明生犯容留卖淫罪，判处有期徒刑六个月，并处罚金人民币三千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月10日起至2019年4月9日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、扣押在案的账本(一册)予以没收；追缴被告人黄明生的违法所得。\n【（2020）苏1202刑初146号】：法院认为，被告人贾某的行为构成容留、介绍卖淫罪，其具有坦白、自愿认罪认罚、主动退出违法所得、积极预缴罚金等情节，依法对其从轻处罚并给予缓刑。一、被告人贾某犯容留、介绍卖淫罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币五千元。\n二、被告人贾某退出的违法所得人民币一千元依法予以没收，上缴国库。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑同案人李某证言的客观性，指出其可能存在推卸责任的情况2.指出现场勘验笔录和照片仅能证明场所存在卖淫活动，不能直接证明被告人是主要组织者3.强调公诉方证据未能充分证明被告人在共同犯罪中的具体作用和地位\n\n防御策略：1.强调被告人自愿认罪，如实供述，具有坦白情节2.指出被告人在共同犯罪中实际作用较小，主要行为由李某实施3.强调被告人是初犯，社会危害性较小，符合从轻处罚条件",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "共同犯罪中作用较小的从犯如何量刑"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "共同犯罪中作用较小的从犯如何量刑": "### 结论\n在共同犯罪中，作用较小的从犯通常会被依法从轻或减轻处罚。量刑时，法院会综合考虑从犯在犯罪过程中的具体作用、是否如实供述、认罪态度、退赃情况、是否初犯、偶犯以及犯罪的社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **从犯的具体作用**：从犯在共同犯罪中的作用越小，越可能被认定为从犯并从轻或减轻处罚。例如，【（2019）粤1973刑初60号】中，四被告人在共同犯罪中所起作用较小，被认定为从犯，依法减轻处罚。\n- **如实供述和认罪态度**：从犯如果能如实供述自己的罪行，认罪态度好，可以依法从轻处罚。如【（2020）苏0106刑初11号】中，五被告人能如实供述其犯罪事实，系坦白，依法从轻处罚。\n- **退赃情况**：从犯如果积极退赃，可以酌情从轻处罚。如【（2019）浙0381刑初475号】中，被告人陈暕归案后能如实供述自己的罪行，并退出全部违法所得，依法从轻处罚。\n- **是否初犯、偶犯**：从犯如果是初犯、偶犯，法院在量刑时会予以考虑。如【（2020）苏0106刑初11号】中，辩护人提出的从犯系初犯、偶犯的辩护意见被采纳，法院决定对五被告人均适用缓刑。\n- **社会危害性**：从犯犯罪行为的社会危害性较小，量刑时会予以考虑。如【（2014）通刑初字第59号】中，法院鉴于涉案赃物均已起获发还被害人，第二批32套尚未运走等情节，依法对二被告人酌予从轻处罚。\n\n综上，作用较小的从犯在量刑时会受到从轻或减轻处罚，但具体量刑幅度会根据从犯在犯罪中的具体作用、是否如实供述、认罪态度、退赃情况、是否初犯、偶犯以及犯罪的社会危害性等因素综合考量。\n\n#####\n类似案件为：\n【（2019）粤1973刑初60号】：法院认为，被告人**程、李厚斌、李九生、陈东平无视国法，未经许可非法经营烟草专卖品，情节特别严重，其行为已构成非法经营罪。四被告人在共同犯罪中所起作用较小，系从犯，依法应当减轻处罚。四被告人的辩护意见部分成立，依法予以考虑。一、被告人**程犯非法经营罪，判处有期徒刑一年六个月，并处罚金人民币40000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月22日起至2019年12月21日止；罚金在本判决生效后30日内向本院缴纳，上缴国库）；\n二、被告人李厚斌犯非法经营罪，判处有期徒刑一年，并处罚金30000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月22日起至2019年6月21日止；罚金在本判决生效后30日内向本院缴纳，上缴国库）；\n三、被告人李九生犯非法经营罪，判处有期徒刑一年，并处罚金人民币30000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月22日起至2019年6月21日止；罚金在本判决生效后30日内向本院缴纳，上缴国库）；\n四、被告人陈东平犯非法经营罪，判处有期徒刑一年，并处罚金人民币30000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月22日起至2019年6月21日止；罚金在本判决生效后30日内向本院缴纳，上缴国库）；\n五、暂扣于东莞市公安局清溪分局的包装材料、包装工具；暂扣于东莞市烟草专卖局的假冒伪劣卷烟芙蓉王香烟1000条、各牌子香烟1665条，依法予以没收，由暂扣机关予以销毁。\n【（2020）苏0106刑初11号】：法院认为，王某、陈某、刘某、董某、朱某违反国家金融管理法律，未经有关部门依法批准，伙同他人向社会不特定人员非法吸收资金，扰乱金融秩序，其行为已构成非法吸收公众存款罪，且系共同犯罪。各被告人在共同犯罪中作用较小，可认定为从犯，依法从轻或减轻处罚。案发后，五被告人能如实供述其犯罪事实，系坦白，依法从轻处罚。五被告人自愿认罪认罚，并积极退赔，依法从宽处理。一、被告人王某犯非法吸收公众存款罪，判处有期徒刑十个月，缓刑一年，罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算。罚金于本判决生效之日起十日内缴纳。）\n被告人陈某犯非法吸收公众存款罪，判处有期徒刑八个月，缓刑一年，罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算。罚金于本判决生效之日起十日内缴纳。）\n被告人刘某犯非法吸收公众存款罪，判处有期徒刑八个月，缓刑一年，罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算。罚金于本判决生效之日起十日内缴纳。）\n被告人董某犯非法吸收公众存款罪，判处有期徒刑一年二个月，缓刑一年六个月，罚金人民币五万元。\n（缓刑考验期限从判决确定之日起计算。罚金于本判决生效之日起十日内缴纳。）\n被告人朱某犯非法吸收公众存款罪，判处有期徒刑九个月，缓刑一年，罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算。罚金于本判决生效之日起十日内缴纳。）\n二、责令被告人王某、陈某、刘某、董某、朱某分别对其参与非法吸收公众存款造成的实际经济损失余款，继续承担连带退赔责任。对已扣押在公安机关账户的退赔款人民币十四万四千元、本院案款账户的退赔款人民币二十九万六千元，依法处理。\n【（2019）浙0381刑初475号】：法院认为，“hp”注册商标受法律保护。陈暕未经注册商标所有人的许可，在同一种商品上使用与其注册商标相同的商标，情节特别严重，构成假冒注册商标罪。陈暕归案后如实供述，退出全部违法所得，符合社区矫正条件，可依法从轻处罚并适用缓刑。一、被告人陈暕犯假冒注册商标罪，判处有期徒刑三年，缓刑四年，并处罚金人民币210000元。\n （缓刑考验期限从判决确定之日起计算，罚金限判决生效之日起十日内缴纳。）\n 二、扣押于平阳县公安局的假冒“hp”商标的硒鼓成品835个、硒鼓外包装、防伪标签、说明书、不干胶鼓标等，予以没收。\n 三、被告人陈暕退出的违法所得人民币200000元，予以没收，上缴国库。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人自愿认罪认罚，如实供述犯罪事实，具有法定从轻处罚的坦白情节 2.在共同犯罪中实际作用较小，主要犯罪行为由同案人李某实施，应认定为从犯 3.系初犯，社会危害性相对较小，愿意积极缴纳罚金 4.对部分仅凭怀疑的证人证言(如胡某、杨某)提出质疑，缺乏直接证据支持 5.现场证据仅能证明存在卖淫活动，不能直接证明被告人是主要组织者 6.同案人李某的证言可能存在推卸责任的情况，需法庭进一步核实",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人阮某甲是否构成容留卖淫罪。查明情况：被告人已当庭认罪，对起诉书指控的犯罪事实和罪名无异议，且供述与证人证言、现场证据相互印证，犯罪事实清楚，证据确实充分。控辩双方对此无争议。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：根据被告人供述和同案人证言，被告人主要负责看管场所等辅助工作，获利比例为三七分成。辩护人主张应认定为从犯，公诉人则认为其行为已超出辅助性工作范畴。审判长认为需结合具体参与程度进一步认定。\n\n3.被告人的坦白情节是否成立。查明情况：被告人在侦查阶段及庭审中均如实供述犯罪事实，供述稳定一致，符合坦白情节的认定标准。控辩双方对此无异议，依法可以从轻处罚。\n\n4.量刑情节的综合认定。查明情况：被告人系初犯，具有坦白情节，认罪认罚，但未退缴违法所得。辩护人主张从轻处罚，公诉人认为应考虑犯罪持续时间长、社会危害性大等因素。审判长认为需综合考量犯罪情节、社会危害性及悔罪表现。\n\n5.违法所得的具体数额认定。查明情况：被告人供述违法所得约几千元，但具体数额尚未查清。该问题对罚金刑的确定有重要影响，目前双方均未充分讨论。审判长认为需进一步核实。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十六条",
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十六条": "组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。三人以上为共同实施犯罪而组成的较为固定的犯罪组织，是犯罪集团。对组织、领导犯罪集团的首要分子，按照集团所犯的全部罪行处罚。对于第三款规定以外的主犯，应当按照其所参与的或者组织、指挥的全部犯罪处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪中主从犯的认定标准",
+              "容留卖淫罪中坦白情节的认定标准",
+              "容留卖淫罪中违法所得数额的认定标准"
+            ],
+            "容留卖淫罪中主从犯的认定标准": "### 结论\n在容留卖淫罪中，主从犯的认定主要依据行为人在共同犯罪中的作用、地位、犯罪行为的性质以及对犯罪结果的贡献程度。主要投资者或实际经营者通常认定为主犯，而提供辅助性服务、管理或协助行为的人员通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《中华人民共和国刑法》第二十五条、第二十六条、第二十七条**：规定了共同犯罪中主犯与从犯的区分标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用和地位**：【（2019）粤0306刑初1446号】、【（2019）粤0307刑初3338号】、【（2019）沪0120刑初1463号】中，主犯通常是提供场所、管理卖淫活动的主要投资者或实际经营者，而从犯则是在犯罪中负责望风、收取嫖资等辅助性工作的人。\n- **犯罪行为的性质**：【（2019）沪0120刑初1463号】、【（2019）粤0305刑初1500号】中，直接参与组织卖淫活动，对卖淫者进行管理或控制的行为人被认定为主犯，而仅提供辅助性服务或协助的行为人被认定为从犯。\n- **对犯罪结果的贡献程度**：【（2019）沪0120刑初1463号】、【（2019）粤0306刑初1446号】中，对犯罪结果起决定性作用的行为人被认定为主犯，而作用较小的行为人被认定为从犯。\n\n综上，容留卖淫罪中主从犯的认定，主要依据行为人在共同犯罪中的具体作用、地位以及对犯罪结果的贡献程度。主要投资者或实际经营者通常因对卖淫活动的直接管理或控制而被认定为主犯，而提供辅助性服务或协助的行为人则通常被认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0306刑初1446号】：法院认为，被告人赖某平、赖某许的行为构成容留、介绍卖淫罪，其均具有认罪认罚的从轻情节。赖某许在共同犯罪中起主要作用，系主犯；赖某平在共同犯罪中起次要作用，系从犯，其具有立功的从轻情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2019）粤0307刑初3338号】：法院认为，被告人张某山容留他人卖淫，其行为已构成容留卖淫罪。张某山与张保山系共同犯罪，两人均起主要作用，系主犯，不采纳辩护人主张的从犯观点。张某山当庭认罪，依法可从轻处罚。被告人张某山犯容留卖淫罪，判处有期徒刑二年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月8日起至2021年6月7日止。罚金应于判决生效之次日起十日内一次性缴纳。）\n【（2019）沪0120刑初1463号】：法院认为，被告人赵满意、卞某某组织他人卖淫，构成组织卖淫罪；被告人刘某2协助他人组织卖淫，构成协助组织卖淫罪。赵满意在共同犯罪中起主要作用，是主犯；卞某某起次要作用，是从犯，依法应当从轻或减轻处罚。卞某某到案后如实供述罪行，可从轻处罚；赵满意、刘某2当庭自愿认罪，可酌情从轻处罚。辩护人关于容留卖淫罪的辩护意见不予采纳；赵满意不宜认定为从犯，亦不构成自首、坦白，相关辩护意见不予采纳。一、被告人赵满意犯组织卖淫罪，判处有期徒刑五年，并处罚金人民币三万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月28日起至2024年11月25日止。罚金于本判决生效后10日内缴纳。)\n二、被告人卞某某犯组织卖淫罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2021年5月13日止。罚金于本判决生效后10日内缴纳。)\n三、被告人刘某2犯协助组织卖淫罪，判处有期徒刑一年四个月，并处罚金人民币五千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日起至2020年9月13日止。罚金于本判决生效后10日内缴纳。)\n四、随案移送的人民币一千七百元予以没收，违法所得继续予以追缴。",
+            "容留卖淫罪中坦白情节的认定标准": "### 结论\n容留卖淫罪中坦白情节的认定标准主要考虑犯罪分子是否在归案后如实供述自己的罪行，包括司法机关已掌握的罪行和未掌握的同种罪行，以及坦白的时间、程度和价值。坦白有助于收集定案证据，坦白司法机关尚未掌握的同种罪行，或者交代同案犯共同犯罪事实的，一般应当从轻处罚；坦白对于定案证据的收集有重要作用，坦白司法机关尚未掌握的较重同种罪行，或者因坦白避免了严重后果发生的，一般应当较大幅度从轻处罚；罪行极其严重，或者坦白对于司法机关办案没有起到实际作用的，可以不从轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间**：坦白的时间早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2020）闽0582刑初5号】中，被告人林梅丽归案后如实供述其基本犯罪事实，仍可视为坦白，予以从轻处罚。\n- **坦白的程度**：即犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。例如，【（2019）沪0115刑初1845号】中，辩护人以被告人林某某有坦白情节要求从轻处罚的意见，亦予以采纳。\n- **坦白的价值**：即犯罪分子的坦白交代在全案中的证据作用如何，是一般证据、重要证据还是关键证据。例如，【（2019）粤0306刑初5803号】中，被告人刘晨、张青、江辉的行为构成容留、介绍卖淫罪，其均具有坦白情节，辩护人的相关从轻处罚辩护意见，本院予以采纳。\n\n综上，坦白情节在容留卖淫罪中的认定标准主要考虑坦白的时间、程度和价值，以及是否有助于收集定案证据，避免特别严重后果的发生。\n\n#####\n类似案件为：\n【（2020）闽0582刑初5号】：法院认为，被告人林梅丽以营利为目的，容留、介绍二人以上卖淫，其行为已构成容留、介绍卖淫罪。鉴于林梅丽归案后如实供述基本犯罪事实，依法可视为坦白，予以从轻处罚。辩护人关于坦白情节的辩护意见予以采纳，其余辩护意见不予采纳。一、被告人林梅丽犯容留、介绍卖淫罪，判处有期徒刑四年三个月，并处罚金人民币十万元。\n （刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年4月26日起至2023年7月25日止。罚金应于判决生效之日起十日内向本院缴纳。）\n 二、扣押在案的作案工具“OPPO”牌A83型手机、“VIVO”牌Y55A型手机各1部（均未随案移送），由扣押机关晋江市公安局予以没收，上缴国库。\n 三、继续追缴被告人林梅丽的违法所得人民币45610元。\n【（2019）沪0115刑初1845号】：法院认为，被告人林某某以营利为目的，为他人卖淫活动提供场所，构成容留卖淫罪，并具有坦白情节。被告人林某某犯容留卖淫罪，判处有期徒刑十个月，罚金人民币二千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年2月2日起至2019年12月1日止。罚金款自判决生效后一个月内缴纳。)\n【（2019）粤0306刑初5803号】：法院认为，被告人刘晨、张青、江辉的行为构成容留、介绍卖淫罪，其均具有坦白情节。被告人刘晨全面管理会所，张青系主任，江辉系楼面部长，该情节在量刑时予以考虑。辩护人的相关从轻处罚辩护意见，法院予以采纳。可于接到判决书的第二日起十日内，通过本院或者直接向广东省深圳市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。",
+            "容留卖淫罪中违法所得数额的认定标准": "### 结论\n在容留卖淫罪中，违法所得数额的认定标准主要依据行为人从卖淫活动中直接获取的非法利益，包括但不限于卖淫活动的提成、卖淫场所的经营收入等，但应排除正常经营收入和犯罪成本。对于非法获利数额的认定，法院通常会依据记账本、供述、证人证言、电子数据等证据进行综合判断。\n\n### 核心法条\n- **《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第十三条**：规定了对组织、强迫、引诱、容留、介绍卖淫犯罪的罚金刑适用标准，其中涉及对犯罪所得的认定和处理。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法获利的认定**：法院在认定非法获利时，会区分正常经营收入与非法获利，如【（2020）浙04刑再12号】中，法院认为记账本中正常浴资收入与非法获利分开记录，与被告人供述相印证，足以认定非法获利数额40000元不包括正常经营收入。\n- **犯罪所得与非法获利的区分**：犯罪所得是指犯罪行为人犯罪收入的总和，与非法获利的内涵一致，如【（2019）鲁0785刑初408号】中，法院认为基于组织卖淫行为而付出的费用属于犯罪成本，不能在犯罪所得中扣除，应按照犯罪分子因犯罪行为的全部收入计算。\n- **证据的采纳与认定**：在认定非法获利时，法院会依据多种证据，如【（2019）鲁0785刑初408号】中，法院认为电子数据原始存储介质（如U盘）及其打印输出物可以作为定案根据，且犯罪所得（或非法获利）数额应大于卖淫女的提成数额。\n\n综上，容留卖淫罪中违法所得数额的认定，法院会综合考虑多种证据，区分正常经营收入与非法获利，排除犯罪成本，以确定行为人从卖淫活动中直接获取的非法利益总额。\n\n#####\n类似案件为：\n【（2020）浙04刑再12号】：法院认为，原审被告人郑才刚、赵丽萍共同容留他人卖淫，非法获利40000元，已构成容留卖淫罪。原审判决认定事实清楚，证据确实、充分，定罪正确，判处的主刑适当。但原审判决未根据《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》第十三条的规定判处罚金刑，属适用法律错误。抗诉机关的意见成立，应予采纳。一、撤销嘉兴市南湖区人民法院（2019）浙0402刑初412号刑事判决中原审被告人郑才刚、赵丽萍的罚金刑部分，维持判决的其余部分；\n二、原审被告人郑才刚犯容留卖淫罪，判处有期徒刑三年六个月，并处罚金40000元；\n三、原审被告人赵丽萍犯容留卖淫罪，判处有期徒刑三年六个月，并处罚金40000元。\n【（2019）鲁0785刑初408号】：法院认为，王某组织他人卖淫，情节严重，构成组织卖淫罪；李某在组织卖淫中担任执行经理，也构成组织卖淫罪；孙某、李某、李某、魏某、徐某、王某、郭某、姚某、谭某、李某协助组织他人卖淫，构成协助组织卖淫罪；刘某帮助王某毁灭证据，情节严重，构成帮助毁灭证据罪。王某、李某、李某、李某系自首，可从轻或减轻处罚。李某、李某、孙某、王某、郭某、姚某、徐某、白某、魏某、谭某、李某认罪、退赃，可酌情从轻处罚。刘某认罪，可酌情从轻处罚。部分辩护意见予以采纳。一、被告人王某犯组织卖淫罪，判处有期徒刑十年六个月，并处罚金人民币一千万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月4日起至2029年9月3日止；罚金限于判决生效之次日起三十日内缴纳。）\n二、被告人李某犯组织卖淫罪，判处有期徒刑三年六个月，并处罚金人民币三万五千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月8日起至2022年9月7日止；罚金限于判决生效之次日起三十日内缴纳。）\n三、被告人孙某犯协助组织卖淫罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万二千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n四、被告人李某犯协助组织卖淫罪，判处有期徒刑一年十个月，缓刑二年，并处罚金人民币一万一千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n被告人李某犯协助组织卖淫罪，判处有期徒刑一年十个月，缓刑二年，并处罚金人民币一万一千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n六、被告人魏某犯协助组织卖淫罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万二千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n七、被告人徐某犯协助组织卖淫罪，判处有期徒刑一年八个月，缓刑二年，并处罚金人民币一万元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n八、被告人王某犯协助组织卖淫罪，判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币九千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n九、被告人郭某犯协助组织卖淫罪，判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币九千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十、被告人白某犯协助组织卖淫罪，判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币九千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十一、被告人姚某犯协助组织卖淫罪，判处有期徒刑一年四个月，缓刑一年六个月，并处罚金人民币八千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十二、被告人谭某犯协助组织卖淫罪，判处有期徒刑一年八个月，缓刑二年，并处罚金人民币一万元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十三、被告人刘某犯帮助毁灭证据罪，判处有期徒刑二年，缓刑三年。\n（缓刑考验期自判决确定之日起计算。）\n十四、尚未追缴到案的违法所得继续追缴，已收缴到案的违法所得予以没收，上缴国库。\n【（2019）鲁0785刑初408号】：法院认为，王某组织他人卖淫，情节严重，构成组织卖淫罪；李某在组织卖淫中担任执行经理，也构成组织卖淫罪；孙某、李某、李某、魏某、徐某、王某、郭某、姚某、谭某、李某协助组织他人卖淫，构成协助组织卖淫罪；刘某帮助王某毁灭证据，情节严重，构成帮助毁灭证据罪。王某、李某、李某、李某系自首，可从轻或减轻处罚。李某、李某、孙某、王某、郭某、姚某、徐某、白某、魏某、谭某、李某认罪、退赃，可酌情从轻处罚。刘某认罪，可酌情从轻处罚。部分辩护意见予以采纳。一、被告人王某犯组织卖淫罪，判处有期徒刑十年六个月，并处罚金人民币一千万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月4日起至2029年9月3日止；罚金限于判决生效之次日起三十日内缴纳。）\n二、被告人李某犯组织卖淫罪，判处有期徒刑三年六个月，并处罚金人民币三万五千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月8日起至2022年9月7日止；罚金限于判决生效之次日起三十日内缴纳。）\n三、被告人孙某犯协助组织卖淫罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万二千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n四、被告人李某犯协助组织卖淫罪，判处有期徒刑一年十个月，缓刑二年，并处罚金人民币一万一千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n被告人李某犯协助组织卖淫罪，判处有期徒刑一年十个月，缓刑二年，并处罚金人民币一万一千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n六、被告人魏某犯协助组织卖淫罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万二千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n七、被告人徐某犯协助组织卖淫罪，判处有期徒刑一年八个月，缓刑二年，并处罚金人民币一万元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n八、被告人王某犯协助组织卖淫罪，判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币九千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n九、被告人郭某犯协助组织卖淫罪，判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币九千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十、被告人白某犯协助组织卖淫罪，判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币九千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十一、被告人姚某犯协助组织卖淫罪，判处有期徒刑一年四个月，缓刑一年六个月，并处罚金人民币八千元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十二、被告人谭某犯协助组织卖淫罪，判处有期徒刑一年八个月，缓刑二年，并处罚金人民币一万元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n十三、被告人刘某犯帮助毁灭证据罪，判处有期徒刑二年，缓刑三年。\n（缓刑考验期自判决确定之日起计算。）\n十四、尚未追缴到案的违法所得继续追缴，已收缴到案的违法所得予以没收，上缴国库。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人阮某甲是否构成容留卖淫罪。查明情况：被告人已当庭认罪，对起诉书指控的犯罪事实和罪名无异议，且供述与证人证言、现场证据相互印证，犯罪事实清楚，证据确实充分。控辩双方对此无争议。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：根据被告人供述和同案人证言，被告人主要负责看管场所等辅助工作，获利比例为三七分成。辩护人主张应认定为从犯，公诉人则认为其行为已超出辅助性工作范畴。审判长认为需结合具体参与程度进一步认定。\n\n3.被告人的坦白情节是否成立。查明情况：被告人在侦查阶段及庭审中均如实供述犯罪事实，供述稳定一致，符合坦白情节的认定标准。控辩双方对此无异议，依法可以从轻处罚。\n\n4.量刑情节的综合认定。查明情况：被告人系初犯，具有坦白情节，认罪认罚，但未退缴违法所得。辩护人主张从轻处罚，公诉人认为应考虑犯罪持续时间长、社会危害性大等因素。审判长认为需综合考量犯罪情节、社会危害性及悔罪表现。\n\n5.违法所得的具体数额认定。查明情况：被告人供述违法所得约几千元，但具体数额尚未查清。该问题对罚金刑的确定有重要影响，目前双方均未充分讨论。审判长认为需进一步核实。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十九条第一款",
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留卖淫罪从犯认定标准",
+              "容留卖淫罪初犯坦白认罪认罚量刑案例",
+              "容留卖淫罪违法所得认定标准"
+            ],
+            "容留卖淫罪从犯认定标准": "### 结论\n容留卖淫罪从犯的认定主要基于行为人在共同犯罪中的作用和地位，是否直接参与管理、控制卖淫活动，以及是否如实供述罪行和认罪态度。从犯通常是指在共同犯罪中起次要或辅助作用的行为人，其行为对犯罪的完成起辅助作用，且在犯罪中所起的作用较小。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用**：如果行为人在共同犯罪中起次要或辅助作用，如仅负责日常管理、收取嫖资等，而未直接参与管理、控制卖淫活动，可能被认定为从犯。例如，【（2019）沪0114刑初1270号】中，伍某某、李某4、张某3被认定为从犯，因为他们虽然参与了犯罪，但作用较小。\n- **是否如实供述罪行和认罪态度**：行为人如果能如实供述罪行并认罪，可以从轻处罚。例如，【（2019）沪0114刑初1270号】中，四名被告人均能如实供述罪行，可以从轻处罚。\n- **是否愿意接受处罚**：行为人如果愿意接受处罚，可以从宽处理。例如，【（2019）沪0114刑初1270号】中，四名被告人均愿意接受处罚，可以从宽处理。\n\n综上，容留卖淫罪从犯的认定主要依据行为人在共同犯罪中的作用和地位，以及是否如实供述罪行和认罪态度。从犯通常是指在共同犯罪中起次要或辅助作用的行为人，其行为对犯罪的完成起辅助作用，且在犯罪中所起的作用较小。在量刑时，法院会考虑行为人的作用、是否如实供述罪行、认罪态度以及是否愿意接受处罚等因素，对从犯给予从轻、减轻处罚或者免除处罚。",
+            "容留卖淫罪初犯坦白认罪认罚量刑案例": "### 结论\n对于容留卖淫罪的初犯，坦白并认罪认罚的被告人，法院通常会从轻处罚，量刑时会考虑被告人的认罪态度、是否为初犯、有无悔罪表现等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件和处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了坦白可以从轻处罚。\n- **《中华人民共和国刑事诉讼法》第十五条**：规定了认罪认罚从宽制度。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **初犯**：初犯作为从轻处罚的情节被多个案例提及，如【（2020）粤0203刑初232号】、【（2021）沪0112刑初378号】，这些案例中被告人的初犯身份被法院认为是量刑时的考虑因素。\n- **坦白**：坦白是多个案例中被告人从轻处罚的重要因素，如【（2020）粤0203刑初232号】、【（2019）粤0105刑初1092号】、【（2020）粤0105刑初1345号】，法院在量刑时均考虑了被告人的坦白情节。\n- **认罪认罚**：认罪认罚是影响量刑的重要因素，如【（2020）粤0203刑初232号】、【（2021）沪0112刑初378号】、【（2019）粤0105刑初1092号】，这些案例中被告人的认罪认罚态度被法院认为是量刑时的重要考量。\n\n综上，初犯、坦白、认罪认罚是影响容留卖淫罪量刑的关键因素，法院在判决时会综合考虑这些因素，给予被告人从轻处罚。\n\n#####\n类似案件为：\n【（2020）粤0203刑初232号】：法院认为，被告人刘青香的行为构成容留、介绍卖淫罪，其具有坦白、认罪认罚的量刑情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省韶关市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。\n【（2021）沪0112刑初378号】：法院认为，被告人齐贤俊犯容留卖淫罪，属共同犯罪，鉴于其具有坦白情节，认罪认罚，建议对其判处有期徒刑一年，并处罚金人民币一万元。一、被告人齐贤俊犯容留卖淫罪，判处有期徒刑一年，并处罚金人民币一万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年10月22日起至2021年10月21日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、追缴被告人齐贤俊的违法所得。\n【（2020）粤0203刑初232号】：法院认为，被告人刘青香的行为构成容留、介绍卖淫罪，其具有坦白、认罪认罚的量刑情节。可于接到判决书的第二日起十日内，通过本院或者直接向广东省韶关市中级人民法院提起上诉。书面上诉的，应当提交上诉状正本一份、副本二份。",
+            "容留卖淫罪违法所得认定标准": "### 结论\n容留卖淫罪的违法所得认定标准主要考虑行为人通过容留卖淫活动所获得的直接经济利益，包括但不限于收取的嫖资提成、场所费用、管理费用等。对于非法获利的数额，司法解释规定一万元以上作为入罪标准，体现了对容留卖淫行为的严厉打击。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十九条第一款**：规定了容留卖淫罪的构成要件。\n- **《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》**：对容留卖淫罪的入罪标准、违法所得的认定、特殊人员卖淫的入罪标准等进行了详细规定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法获利数额**：【（2019）沪0115刑初1530号】、【（2019）粤07刑终369号】、【（2019）京02刑终431号】等案例中，法院均强调了对容留卖淫行为中非法获利数额的认定，认为这是判断罪行严重程度和量刑的重要依据。其中，【（2019）沪0115刑初1530号】中，法院认为被告人幸某某的非法获利数额是量刑的重要考量因素；【（2019）粤07刑终369号】中，法院认定上诉人张文彦、罗娟非法获利50000元以上，属于情节严重；【（2019）京02刑终431号】中，法院纠正了原审判决对犯罪所得数额的认定错误，强调了非法获利数额对量刑的重要性。\n- **是否以营利为目的**：【（2019）京02刑终431号】案例中，法院强调了引诱、容留、介绍他人卖淫是否以营利为目的，不影响本罪的成立，这与《最高人民法院、最高人民检察院关于办理组织、强迫、引诱、容留、介绍卖淫刑事案件适用法律若干问题的解释》的精神一致，即取消了“以营利为目的”的要件规定，以扩大打击范围。\n\n综上，容留卖淫罪的违法所得认定标准不仅关注行为人通过容留卖淫活动直接获得的经济利益，还考虑了行为的性质、社会危害性以及行为人的主观目的，体现了刑法对卖淫活动的全面打击和对社会秩序的维护。\n\n#####\n类似案件为：\n【（2019）沪0115刑初1530号】：法院认为，被告人幸某某容留他人卖淫，已构成容留卖淫罪，应处五年以下有期徒刑，并处罚金。被告人幸某某到案后如实供述罪行，可以从轻处罚。扣押在案的违法所得应予没收。一、被告人幸某某犯容留卖淫罪，判处有期徒刑一年三个月，罚金人民币四千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月15日起至2020年3月14日止；罚金自判决生效后一个月内向本院缴纳。)\n二、扣押在案的违法所得予以没收。\n【（2019）粤07刑终369号】：法院认为，被告人张文彦、罗娟无视国家法律，为谋取非法利益，容留他人卖淫，非法获利50000元以上，情节严重，其行为均已构成容留卖淫罪。二被告人归案后如实供述自己的罪行，可从轻处罚。张文彦、罗娟因容留他人卖淫活动获得的提成款，属于违法所得，依法应予以追缴，上缴国库。一、维持广东省江门市新会区人民法院（2018）粤0705刑初395号刑事判决书第一项对上诉人张文彦的定罪量刑及附加刑的判决；第二项对上诉人罗娟的定罪量刑及附加刑的判决及第三项判决。\n二、依法追缴上诉人张文彦单独实施容留卖淫犯罪活动获利的违法所得人民币48000元，上缴国库；依法追缴上诉人张文彦、罗娟共同实施容留卖淫犯罪活动合共获利的违法所得人民币84050元，上缴国库，上诉人张文彦、罗娟承担连带退赔责任。\n【（2019）京02刑终431号】：法院认为，王利娜无视国法，伙同他人利用经营场所容留、介绍他人卖淫，其行为已构成容留、介绍卖淫罪，且情节严重，依法应予惩处。王利娜能够自愿如实供述主要犯罪事实，认罪态度较好，并能积极退缴部分赃款，可酌予从轻处罚。原判认定犯罪所得数额有误，且判处罚金刑的数额违反了相关法律解释，系适用法律错误，应予改判。一、维持北京市丰台区人民法院（2019）京0106刑初104号刑事判决主文第四项，即：扣押物品由扣押机关处理。\n二、撤销北京市丰台区人民法院（2019）京0106刑初104号刑事判决主文第一项、第二项、第三项，即：被告人王利娜犯容留、介绍卖淫罪，判处有期徒刑五年六个月，并处罚金人民币一万元；追缴被告人王利娜的违法所得人民币十二万八千九百元没收上缴国库；已追缴被告人王利娜的违法所得人民币四万元并入第二项执行。\n三、上诉人王利娜犯容留、介绍卖淫罪，判处有期徒刑五年六个月，并处罚金人民币十三万三千一百元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年5月27日起至2023年11月26日止。罚金于判决生效后一个月内缴纳。）\n四、追缴被告人王利娜的违法所得人民币十三万三千一百元，没收上缴国库（已退缴人民币四万元）。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 5000.0,
+    "reprieve": 0.0
+  }
+]

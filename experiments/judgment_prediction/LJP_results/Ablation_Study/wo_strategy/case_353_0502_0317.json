@@ -1,0 +1,1341 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人韩某，性别男，民族XXX，文化程度XXX，户籍XXX。因涉嫌犯有过失致人死亡罪，于2017年1月24日案发后拨打报警电话并在现场等候抓捕，归案后如实供述自己的罪行。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "东营市垦利区人民检察院  \n起 诉 书  \n\n东垦检未检刑诉〔2018〕2号  \n\n被告人韩某，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXXXXXXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌过失致人死亡罪，于2017年1月24日案发后拨打报警电话并在现场等候抓捕，归案后如实供述自己的罪行。  \n\n本案由东营市垦利区公安局侦查终结，以被告人韩某涉嫌过失致人死亡罪，于2018年2月26日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2017年1月24日10时42分左右，被告人韩某驾驶六轮农用车（鲁Ｅ×××××）在东营市垦利区黄河口镇生产村周某甲承包的南侧鸭棚倒车时不慎撞到周某乙，致周某乙当场死亡。经法医鉴定，周某乙符合颅脑合并胸腹脏器严重损伤死亡。  \n\n认定上述事实的证据如下：  \n1. 书证：垦利区公安局刑事侦查大队受案登记表、抓获经过、户籍信息、驾驶证复印件、行驶证复印件、民事赔偿协议、谅解书；  \n2. 勘验笔录：现场勘验检查笔录；  \n3. 物证：现场照片；  \n4. 证人证言：证人岳某、周某甲、李某、牛某的证言；  \n5. 鉴定意见：东营市垦利区公安局刑事技术室（垦）公（刑）鉴（尸）字（2017）006号法医学尸体检验报告书、东营市公安司法鉴定中心东公（司）鉴（遗传）字［2017］015号ＤＮＡ检验鉴定书、鉴定意见通知书；  \n6. 视听资料：案发现场的监控录像；  \n7. 被告人供述和辩解：被告人韩某在公安侦查阶段的供述和辩解。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人韩某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人韩某应当预见自己的行为可能发生致人死亡的结果却因疏忽大意没有预见，致一人死亡，其行为已构成过失致人死亡罪，犯罪事实清楚，证据确实、充分，应当以过失致人死亡罪追究其刑事责任。被告人韩某案发后拨打报警电话并在现场等候抓捕，归案后如实供述自己的罪行，系自首，根据《中华人民共和国刑法》第六十七条第一款之规定，可对其从轻处罚。鉴于被告人韩某案发后已赔偿了被害人近亲属的经济损失并获得了谅解，可对其酌情从轻处罚。根据被告人韩某的犯罪情节和悔罪表现，可依法对其适用缓刑。建议判处被告人韩某有期徒刑XX，缓刑XX，并处罚金XX。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n东营市垦利区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发当天你驾驶的六轮农用车是否经过年检？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "经过年检。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车时是否查看了后视镜？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时没有查看后视镜。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时倒车区域是否有其他人员在场？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时有几个人在场，但我没注意到周某乙在车后方。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时倒车速度是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大概每小时5公里左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时倒车区域的光线条件如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "光线条件良好，是白天上午十点多。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你是否有饮酒或服用影响驾驶能力的药物？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有饮酒或服用药物。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你平时驾驶这辆农用车时是否都会查看后视镜？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "平时都会查看后视镜，但那天疏忽了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车时是否鸣笛示意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有鸣笛示意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车的具体原因是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车是为了调整车辆位置，方便装卸货物。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车的具体路线是怎样的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车路线是从鸭棚门口向后直线倒车约5米。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车时是否有人指挥或协助？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人在指挥或协助。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你与被害人家属达成的赔偿协议具体金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "赔偿协议金额是30万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车的具体距离是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车距离大约5米。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车时是否使用了倒车影像或其他辅助设备？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有使用倒车影像或其他辅助设备。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车时是否听到周围有人提醒或呼喊？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有听到有人提醒或呼喊。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发时你倒车时是否注意到车辆后方有障碍物或其他危险因素？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有注意到车辆后方有障碍物或其他危险因素。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，关于案件的基本事实已经询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车刹车系统是否正常？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "刹车系统是正常的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发时你倒车时是否确认过车辆后方是安全的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有确认过车辆后方是否安全。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车后视镜是否存在故障或视野盲区？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "后视镜没有故障，但当时确实存在视野盲区。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发时被害人周某乙是否处于你车辆后方的视线盲区？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人当时确实处于我车辆后方的视线盲区。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车倒车警示装置是否正常工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车警示装置是正常工作的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车倒车警示装置是否发出警示音？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车警示装置当时没有发出警示音。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车倒车警示装置为何没有发出警示音？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我不清楚为什么倒车警示装置没有发出警示音。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车倒车警示装置是否定期进行过检修？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车警示装置没有定期进行过检修。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "案发当天你驾驶的农用车倒车警示装置是否曾经出现过故障？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "倒车警示装置之前没有出现过故障。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，关于车辆状况和案发细节已经询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。  \n2017年1月24日10时42分左右，我在东营市垦利区黄河口镇生产村周某甲承包的南侧鸭棚驾驶六轮农用车（鲁Ｅ×××××）倒车时，不慎撞到周某乙，导致周某乙当场死亡。经法医鉴定，周某乙符合颅脑合并胸腹脏器严重损伤死亡。  \n\n（2）犯案动机。  \n我没有故意伤害或杀害周某乙的意图。事故发生时，我因疏忽大意未能预见倒车行为可能造成的危险，导致悲剧发生。  \n\n（3）案发之后的处理。  \n我在案发后立即拨打报警电话，并在现场等候抓捕。归案后如实供述了自己的罪行。我已赔偿被害人近亲属的经济损失，并与其达成民事赔偿协议，获得了谅解书。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：垦利区公安局刑事侦查大队受案登记表，记录案件受理情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：抓获经过，记录被告人韩某的归案过程，抓获过程符合《刑事诉讼法》第82条关于拘留的规定，由公安机关依法执行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：户籍信息，证明被告人韩某的身份情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：驾驶证复印件，由公安机关依法调取并加盖调取单位公章，证明被告人韩某的驾驶资格",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：行驶证复印件，由公安机关依法调取并加盖调取单位公章，证明涉案车辆鲁Ｅ×××××的登记信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.勘验笔录：现场勘验检查笔录，记录案发现场的情况，勘验过程符合《公安机关办理刑事案件程序规定》第208条的操作规范",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.物证：现场照片，展示案发现场的具体情况，照片由公安机关拍摄并标注拍摄时间，保存完整",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人岳某说：“我当时在现场附近，听到一声巨响，跑过去看到韩某的车撞到了周某乙，周某乙躺在地上不动了。”，证言经公安机关核实并记录在案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人周某甲说：“我是鸭棚的承包者，事发时我不在现场，但后来听说韩某倒车时撞到了周某乙。”，证言经公安机关核实并记录在案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人李某说：“我看到韩某的车在倒车，突然听到撞击声，然后发现周某乙被撞倒在地。”，证言经公安机关核实并记录在案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人牛某说：“我听到有人喊‘撞人了’，跑过去看到周某乙已经躺在地上，韩某正在打电话报警。”，证言经公安机关核实并记录在案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.鉴定意见：东营市垦利区公安局刑事技术室（垦）公（刑）鉴（尸）字（2017）006号法医学尸体检验报告书，鉴定周某乙符合颅脑合并胸腹脏器严重损伤死亡，鉴定机构具有省级公安机关认可的资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.鉴定意见：东营市公安司法鉴定中心东公（司）鉴（遗传）字［2017］015号ＤＮＡ检验鉴定书，确认现场血迹等生物检材与周某乙的DNA一致，鉴定机构具有省级公安机关认可的资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：鉴定意见通知书，记录鉴定结果已告知相关人员，送达过程符合《刑事诉讼法》第148条的规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.视听资料：案发现场的监控录像，记录韩某倒车撞到周某乙的过程，录像由公安机关依法提取并保存完整，未经篡改",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.6.书证：民事赔偿协议，记录被告人韩某与被害人近亲属达成的赔偿协议，协议签署过程有公安机关见证，双方自愿签署",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "2.书证：谅解书，被害人近亲属出具，表示对被告人韩某的谅解，签署过程有公安机关见证，内容真实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人认为本案事实清楚，证据确实充分。被告人韩某在倒车过程中未尽到安全注意义务，未查看后视镜、未确认后方安全、未鸣笛示意，导致被害人周某乙死亡，其行为已构成过失致人死亡罪。根据《刑法》第二百三十三条，过失致人死亡的，处三年以上七年以下有期徒刑；情节较轻的，处三年以下有期徒刑。\n\n关于量刑情节，被告人具有以下从宽情节：第一，案发后主动报警并在现场等候，归案后如实供述，构成自首，根据《刑法》第六十七条第一款可以从轻处罚；第二，已赔偿被害人近亲属30万元并取得谅解，可酌情从轻处罚。\n\n综合考量被告人的过失程度、危害后果及悔罪表现，公诉人坚持起诉书提出的量刑建议，建议判处有期徒刑XX，缓刑XX。请法庭依法裁判。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人对公诉机关指控的罪名没有异议，但认为被告人有以下从轻、减轻处罚的情节：\n\n第一，被告人具有自首情节。根据《刑法》第六十七条第一款，被告人案发后立即报警并在现场等候处理，归案后如实供述全部犯罪事实，依法应当从轻处罚。\n\n第二，被告人认罪态度良好。从侦查阶段到庭审阶段，被告人均能如实供述，自愿认罪认罚，表现出真诚悔罪的态度。\n\n第三，被告人已与被害人家属达成赔偿协议，赔偿30万元并取得书面谅解。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于积极赔偿被害人经济损失并取得谅解的，可以酌情从宽处罚。\n\n第四，本案属于过失犯罪，被告人主观恶性较小。事故发生时存在视野盲区等客观因素，被告人的过失程度相对较轻。\n\n综上，辩护人认为被告人具有多项法定和酌定从轻处罚情节，建议法庭采纳公诉机关提出的缓刑量刑建议，给予被告人改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的视野盲区问题，公诉人需要指出：根据《道路交通安全法实施条例》第五十条，机动车倒车时应当察明车后情况，确认安全后倒车。被告人作为专业驾驶员，应当充分了解车辆视野盲区并采取必要措施。其未查看后视镜、未确认后方安全、未鸣笛示意的行为，明显违反了安全驾驶义务。\n\n关于量刑建议，公诉人补充说明：虽然被告人具有自首、赔偿等从宽情节，但考虑到本案造成一人死亡的严重后果，根据《最高人民法院关于常见犯罪的量刑指导意见》，过失致人死亡罪的基准刑为三年至五年有期徒刑。结合被告人的过失程度和危害后果，公诉机关提出的量刑建议已充分体现宽严相济的刑事政策。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的视野盲区问题，辩护人需要强调：虽然被告人确实违反了安全驾驶义务，但本案存在特殊情形。根据被告人供述和现场勘验，被害人当时处于车辆后方的视线盲区，且倒车警示装置未能正常发出警示音。这些客观因素在一定程度上减轻了被告人的过失程度。\n\n关于量刑建议，辩护人提请法庭注意：被告人不仅具有自首、赔偿等情节，更重要的是其主观恶性极小，系典型的过失犯罪。根据《刑法》第六十一条规定，量刑应当与犯罪分子所犯罪行和承担的刑事责任相适应。考虑到被告人已深刻悔罪，且已取得被害人家属谅解，适用缓刑不会对社会造成危害。\n\n辩护人特别提请法庭注意，本案赔偿金额30万元已远超当地同类案件的赔偿标准，充分体现了被告人的悔罪诚意。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第23条，对于过失犯罪，应当与故意犯罪区别对待，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的倒车警示装置问题，公诉人需要指出：根据《机动车运行安全技术条件》规定，车辆安全装置应当保持良好状态。被告人作为车辆所有人，未定期检修警示装置，存在管理过失。即便存在警示装置未发声的情况，也不能免除其未尽安全注意义务的责任。\n\n关于赔偿金额问题，公诉人认可被告人的积极赔偿行为，但需要强调赔偿行为是法定义务而非额外恩惠。根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，被告人赔偿被害人损失是量刑考虑因素之一，但不能替代刑事责任。\n\n公诉人坚持认为，本案虽系过失犯罪，但造成一人死亡的严重后果，被告人存在多项违反安全驾驶规范的行为。建议法庭在充分考虑从宽情节的同时，也要体现刑罚的惩戒和教育功能。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的警示装置管理过失问题，辩护人认为：虽然被告人确实存在未定期检修的过失，但根据被告人供述，该装置此前从未出现故障，且案发时车辆刚通过年检，这种过失程度显著轻微。根据《刑法》第十六条关于\"情节显著轻微危害不大的，不认为是犯罪\"的立法精神，恳请法庭对此予以充分考虑。\n\n关于赔偿金额问题，辩护人补充说明：30万元赔偿不仅远超当地同类案件标准，更是被告人倾其所有、积极筹措的结果。根据《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第十七条，这充分体现了被告人的悔罪诚意和弥补损失的决心。\n\n辩护人再次强调，本案系典型过失犯罪，被告人主观恶性极小，社会危害性较低。根据《刑法》第七十二条关于缓刑适用的规定，被告人完全符合\"犯罪情节较轻、有悔罪表现、没有再犯罪危险\"的适用条件。恳请法庭给予缓刑判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的过失行为深感悔恨，向被害人家属表示最诚挚的歉意。我认罪认罚，接受法庭的审判。案发后我积极赔偿并取得谅解，今后一定吸取教训，严格遵守交通法规。恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "东营市垦利区人民法院\n刑事判决书\n（2018）鲁刑初字第XX号\n\n公诉机关东营市垦利区人民检察院。\n被告人韩某，男，XXXX年XX月XX日出生，汉族，文化程度XXX，户籍所在地XXX。因涉嫌过失致人死亡罪，于2017年1月24日被刑事拘留，现取保候审。\n辩护人XXX，XXX律师事务所律师。\n\n东营市垦利区人民检察院于2018年XX月XX日以被告人韩某犯过失致人死亡罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。东营市垦利区人民检察院检察员XXX出庭支持公诉，被告人韩某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n东营市垦利区人民检察院指控：2017年1月24日10时42分左右，被告人韩某驾驶六轮农用车在东营市垦利区黄河口镇生产村周某甲承包的南侧鸭棚倒车时不慎撞到周某乙，致周某乙当场死亡。经法医鉴定，周某乙符合颅脑合并胸腹脏器严重损伤死亡。公诉机关认为被告人韩某的行为已构成过失致人死亡罪，具有自首情节，已赔偿被害人近亲属经济损失并获得谅解，建议判处有期徒刑XX，缓刑XX。\n\n被告人韩某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人具有自首、积极赔偿、取得谅解等从轻处罚情节，建议适用缓刑。\n\n经审理查明：2017年1月24日10时42分许，被告人韩某驾驶六轮农用车（鲁Ｅ×××××）在东营市垦利区黄河口镇生产村周某甲承包的南侧鸭棚倒车时，因未确认后方安全，未鸣笛示意，未查看后视镜，疏忽大意撞到被害人周某乙，致其当场死亡。经法医鉴定，周某乙符合颅脑合并胸腹脏器严重损伤死亡。案发后，被告人韩某立即拨打报警电话并在现场等候，归案后如实供述犯罪事实，已赔偿被害人近亲属经济损失30万元并取得谅解。\n\n上述事实有经庭审质证、确认的下列证据证实：1.被告人的供述；2.受案登记表、抓获经过等书证；3.现场勘验检查笔录及照片；4.证人岳某、周某甲等人的证言；5.法医学尸体检验报告等鉴定意见；6.案发现场监控录像；7.民事赔偿协议及谅解书等。\n\n本院认为，被告人韩某因疏忽大意致一人死亡，其行为已构成过失致人死亡罪。公诉机关指控的罪名成立。被告人韩某具有自首情节，依法可以从轻处罚；积极赔偿被害人近亲属经济损失并取得谅解，可酌情从轻处罚。根据被告人的犯罪情节和悔罪表现，适用缓刑对其所居住社区无重大不良影响，可依法适用缓刑。辩护人的相关辩护意见予以采纳。依照《中华人民共和国刑法》第二百三十三条、第六十七条第一款、第七十二条第一款之规定，判决如下：\n\n被告人韩某犯过失致人死亡罪，判处有期徒刑二年，缓刑三年。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向山东省东营市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\nXXXX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认过失致人死亡事实、自首情节及赔偿情况）\n- 书证（受案登记表、抓获经过、户籍信息、驾驶证、行驶证等）\n- 勘验笔录和现场照片\n- 4名证人证言（岳某、周某甲、李某、牛某关于事故过程的证言）\n- 2份鉴定意见（尸体检验报告和DNA鉴定）\n- 案发现场监控录像\n\n2. 辩护人出示了2项证据：\n- 民事赔偿协议（证明被告人已赔偿被害人近亲属30万元）\n- 谅解书（证明获得被害人近亲属谅解）\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认过失致人死亡事实、自首情节及赔偿情况）\n- 书证（受案登记表、抓获经过、户籍信息、驾驶证、行驶证等）\n- 勘验笔录和现场照片\n- 4名证人证言（岳某、周某甲、李某、牛某关于事故过程的证言）\n- 2份鉴定意见（尸体检验报告和DNA鉴定）\n- 案发现场监控录像\n\n2. 辩护人出示了2项证据：\n- 民事赔偿协议（证明被告人已赔偿被害人近亲属30万元）\n- 谅解书（证明获得被害人近亲属谅解）\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认过失致人死亡事实、自首情节及赔偿情况）\n- 书证（受案登记表、抓获经过、户籍信息、驾驶证、行驶证等）\n- 勘验笔录和现场照片\n- 4名证人证言（岳某、周某甲、李某、牛某关于事故过程的证言）\n- 2份鉴定意见（尸体检验报告和DNA鉴定）\n- 案发现场监控录像\n\n2. 辩护人出示了2项证据：\n- 民事赔偿协议（证明被告人已赔偿被害人近亲属30万元）\n- 谅解书（证明获得被害人近亲属谅解）\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认过失致人死亡事实、自首情节及赔偿情况）\n- 书证（受案登记表、抓获经过、户籍信息、驾驶证、行驶证等）\n- 勘验笔录和现场照片\n- 4名证人证言（岳某、周某甲、李某、牛某关于事故过程的证言）\n- 2份鉴定意见（尸体检验报告和DNA鉴定）\n- 案发现场监控录像\n\n2. 辩护人出示了2项证据：\n- 民事赔偿协议（证明被告人已赔偿被害人近亲属30万元）\n- 谅解书（证明获得被害人近亲属谅解）\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 指控被告人韩某构成过失致人死亡罪，事实清楚、证据充分\n- 指出被告人违反安全驾驶义务的具体行为（未查看后视镜、未确认后方安全、未鸣笛示意）\n- 提出量刑建议：有期徒刑XX，缓刑XX\n- 认可被告人自首、赔偿等从宽情节\n\n2. 辩护人发表辩论意见：\n- 对罪名无异议，提出从轻处罚情节：\n  a) 自首情节\n  b) 良好认罪态度\n  c) 已赔偿30万元并取得谅解\n  d) 过失程度较轻（存在视野盲区等客观因素）\n- 建议采纳缓刑量刑建议\n\n3. 控辩双方争议焦点：\n- 关于视野盲区问题：公诉人强调被告人应尽安全注意义务；辩护人主张客观因素减轻过失程度\n- 关于倒车警示装置：公诉人指出被告人管理过失；辩护人认为过失程度轻微\n- 关于赔偿金额：辩护人强调远超标准体现悔罪诚意；公诉人认为系法定义务不替代刑事责任\n\n4. 双方补充意见：\n- 公诉人坚持原量刑建议，强调刑罚惩戒功能\n- 辩护人援引刑法第十六条、第七十二条，强调符合缓刑适用条件",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人确认车辆经过年检，案发时未查看后视镜\n- 被告人承认未注意到被害人在车后方，倒车速度约5公里/小时\n- 被告人陈述当时光线良好，未饮酒或服药\n- 被告人承认平时会查看后视镜但当天疏忽，未鸣笛示意\n- 被告人说明倒车是为调整车辆位置，直线倒车约5米\n- 被告人确认无人指挥，赔偿被害人家属30万元\n- 被告人承认未使用倒车辅助设备，未听到他人提醒\n- 被告人表示未注意到后方障碍物\n\n2. 辩护人讯问被告人：\n- 被告人确认刹车系统正常，但未确认后方安全\n- 被告人承认存在视野盲区，被害人处于盲区位置\n- 被告人陈述倒车警示装置未发出警示音\n- 被告人承认未定期检修警示装置，但之前未出现故障\n\n举证质证阶段总结：\n\n1. 公诉人出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认过失致人死亡事实、自首情节及赔偿情况）\n- 书证（受案登记表、抓获经过、户籍信息、驾驶证、行驶证等）\n- 勘验笔录和现场照片\n- 4名证人证言（岳某、周某甲、李某、牛某关于事故过程的证言）\n- 2份鉴定意见（尸体检验报告和DNA鉴定）\n- 案发现场监控录像\n\n2. 辩护人出示了2项证据：\n- 民事赔偿协议（证明被告人已赔偿被害人近亲属30万元）\n- 谅解书（证明获得被害人近亲属谅解）\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 指控被告人韩某构成过失致人死亡罪，事实清楚、证据充分\n- 指出被告人违反安全驾驶义务的具体行为（未查看后视镜、未确认后方安全、未鸣笛示意）\n- 提出量刑建议：有期徒刑XX，缓刑XX\n- 认可被告人自首、赔偿等从宽情节\n\n2. 辩护人发表辩论意见：\n- 对罪名无异议，提出从轻处罚情节：\n  a) 自首情节\n  b) 良好认罪态度\n  c) 已赔偿30万元并取得谅解\n  d) 过失程度较轻（存在视野盲区等客观因素）\n- 建议采纳缓刑量刑建议\n\n3. 控辩双方争议焦点：\n- 关于视野盲区问题：公诉人强调被告人应尽安全注意义务；辩护人主张客观因素减轻过失程度\n- 关于倒车警示装置：公诉人指出被告人管理过失；辩护人认为过失程度轻微\n- 关于赔偿金额：辩护人强调远超标准体现悔罪诚意；公诉人认为系法定义务不替代刑事责任\n\n4. 双方补充意见：\n- 公诉人坚持原量刑建议，强调刑罚惩戒功能\n- 辩护人援引刑法第十六条、第七十二条，强调符合缓刑适用条件",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 24.0,
+    "fine": 0.0,
+    "reprieve": 36.0
+  }
+]

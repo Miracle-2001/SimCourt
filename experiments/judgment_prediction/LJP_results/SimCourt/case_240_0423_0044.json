@@ -1,0 +1,1736 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，男，国家工作人员（五原县防沙林场场长），于XXX年X月X日出生于XXX，汉族，XXX文化程度，户籍XXX。因涉嫌犯贪污罪，于2015年7月14日被羁押。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是五原县防沙林场场长。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "巴彦淖尔市磴口县人民检察院  \n起 诉 书  \n\n磴检刑诉〔2016〕15号  \n\n被告人武某，男，XXX年X月X日出生，公民身份号码XXX，汉族，XXX文化程度，户籍所在地XXX。因涉嫌贪污罪，于2015年7月14日被羁押。  \n\n本案由巴彦淖尔市人民检察院侦查终结，以被告人武某涉嫌贪污罪，于2016年2月19日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2015年4月，被告人武某在担任五原县防沙林场场长期间，利用职务便利，以单位急需用钱为由，指使会计齐某从单位账外资金中取出6万元现金交予其个人。武某未办理任何手续，将上述公款用于支付其个人承包土地的育苗费用、起树苗费及车辆燃油费等个人支出。  \n\n另查明，五原县防沙林场通过虚列支出手段套取账内资金形成账外资金。2015年8月13日，武某家属向检察机关退缴全部赃款6万元。  \n\n认定上述事实的证据如下：  \n\n1. 书证：立案决定书、指定管辖决定书、户籍证明、任职文件、银行交易明细、账外资金票据、退赃凭证等；  \n2. 证人证言：候某、齐某、刘某甲等20名证人的证言；  \n3. 被告人供述与辩解：武某的供述材料。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人武某身为国家工作人员，利用职务便利侵吞公款，其行为触犯了《中华人民共和国刑法》第三百八十二条之规定，犯罪事实清楚，证据确实、充分，应当以贪污罪追究其刑事责任。鉴于被告人退缴全部赃款，可酌情从轻处罚。建议判处被告人武某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n磴口县人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实有异议。当时是临时借用单位资金用于育苗工作，并非个人支出。我有归还的意愿，个人账户有5万多元存款可以偿还。这笔钱实际用于单位相关的育苗费用，包括起树苗费和租地费。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人武某，你在2015年4月指使会计齐某从单位账外资金中取出6万元现金时，是否办理了相关借款手续？为何未办理任何手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时单位资金周转紧急，我确实没有办理书面借款手续。但我口头向会计说明了这是临时借用，准备等资金到位后立即归还。账外资金的使用在我们单位一直存在管理不规范的情况，这也是我疏忽的地方。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你声称这笔钱用于单位相关的育苗费用，但根据证人证言和账目显示，这些费用实际用于你个人承包的土地项目。请解释为何将单位资金用于个人承包项目？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些育苗项目虽然是以我个人名义承包，但实际是为单位培育树苗。林场经常采用这种方式来补充苗木供应，其他同事也有类似操作。起树苗费和租地费都是用于培育单位所需的苗木，并非纯粹的个人项目。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据证人证言显示，你个人承包的土地项目与单位业务无关，且未向单位交付过任何苗木。请具体说明这些苗木的去向及用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些苗木确实是为单位培育的，但由于当年气候原因导致成活率不高，最终没有达到交付标准。单位账目上应该有相关记录可以证明这一点。我承认在管理上存在不规范，但确实没有将资金挪作私用的意图。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人武某，你作为林场场长，是否了解账外资金的具体来源和性质？你认为这笔资金是否属于严格意义上的公共财物？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "账外资金是通过单位虚列支出套取的，主要用于单位不便入账的开支。我认为这笔资金虽然来源不规范，但确实属于单位公共资金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人武某，你当时从账外资金中支取6万元时，是否明确告知会计齐某这笔款项将用于个人承包土地的育苗费用？请具体说明当时与齐某的对话内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我告诉齐某单位急需用钱，让他从账外资金中取出6万元。我没有明确说用于个人承包土地的育苗费用，只是说用于单位急需的开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在个人账户中存有5万余元存款的情况下，为何选择从单位账外资金中支取款项用于个人承包土地的育苗费用？请说明当时的资金周转情况和决策过程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时单位资金周转确实比较紧张，我个人账户虽然有存款，但考虑到育苗工作需要持续投入，我担心后续资金不足。而且账外资金使用比较灵活，我就先借用了这笔钱。这是我的工作失误，应该走正规借款程序。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就资金性质、支取过程及被告人的主观意图进行了充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，你声称这笔资金是临时借用，那么从2015年4月支取到2015年8月案发期间，为何长达4个月都未归还？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实有归还的意愿，但因为工作繁忙，加上会计齐某后来被刑事拘留，导致没有及时办理还款手续。这是我的疏忽，但我确实没有非法占有的故意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，你声称这笔资金是用于单位育苗工作，那么请说明为何在2015年8月案发后，你的家属立即向检察机关退缴了全部6万元赃款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "家属退缴款项是因为意识到资金使用程序上存在问题，想尽快弥补这个错误。虽然资金实际用于单位相关育苗工作，但我们承认在资金使用程序上确实不规范，愿意承担相应责任。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，你声称育苗工作是用于单位需要，那么请说明为何这些苗木最终没有交付单位，也没有在单位账目上体现相关记录？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些苗木由于当年气候条件不佳，成活率较低，未能达到交付标准。单位账目上确实没有相关记录，因为这是通过账外资金操作的，管理上存在不规范。我承认这是工作失误，但当时确实是为单位育苗需要才进行的投入。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，你声称育苗工作是用于单位需要，那么请说明为何这些苗木的培育工作是以你个人名义承包，而不是以单位名义进行？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这是单位长期以来的操作惯例，很多同事都是以个人名义承包育苗项目。因为单位编制有限，通过个人名义操作更为灵活。虽然是以我个人名义承包，但实际是为单位培育苗木。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，你声称育苗工作是单位惯例，那么请说明为何其他同事以个人名义承包育苗项目时都办理了正规借款手续，而你却未办理任何手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "其他同事办理借款手续是因为他们使用的是单位账内资金。我这次使用的是账外资金，单位对账外资金的管理比较松散，所以没有办理正规手续。这是我的工作失误，我承认在程序上存在不规范。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年4月，我担任五原县防沙林场场长期间，因单位急需用钱，要求会计齐某从单位账外资金中取出6万元交给我。齐某从其个人账户中保管的账外资金中提取现金6万元，在塔尔湖镇其妻子刘某甲的门店前交给我。我将这笔钱用于支付我个人承包土地的育苗费用，包括起树苗费、租地费等。  \n\n（2）犯案动机  \n我并未有非法占有的意图，当时因单位事务需要资金周转，临时借用账外资金，并计划后续归还。由于工作繁忙且齐某被刑事拘留，未能及时办理还款手续。  \n\n（3）案发之后的处理  \n案发后，我没有自首。2015年8月13日，我的家属向巴彦淖尔市人民检察院退缴了6万元赃款。目前尚未与被害单位达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人的供述中明确表示\"没有非法占有的意图\"、\"临时借用\"、\"计划后续归还\"，这与公诉人指控的贪污罪主观要件不符。且供述中提到资金用于\"育苗费用\"，这与单位工作相关，不能简单认定为个人使用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人虽辩称\"临时借用\"，但长达4个月未归还且未办理任何借款手续，仅在案发后退缴，证明其无还款意愿。关于资金用途，无任何单位账目记录证明苗木交付，其他同事办理类似业务均走正规手续，被告人所称\"育苗费用\"与单位工作无关。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就被告人供述中关于主观故意和资金用途的关键争议点充分表达了各自观点。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：立案决定书，指定管辖决定书，证实本案经巴彦淖尔市人民检察院立案侦查；巴彦淖尔市中级人民法院指定本院审理",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：武某户籍证明、五原县林业局文件、五原县劳动人事局文件、干部任免职审批表、年度考核登记表、五原县防沙林场组织机构代码证、事业单位法人证书，证实被告人武某的基本情况及1991年6月被五原县劳动人事局转为国家干部的情况；武某于2014年2月26日被五原县林业局任命为五原县防沙林场场长，其符合国家工作人员的主体身份；五原县防沙林场机构类型为事业法人，举办单位五原县林业局",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：归案说明，证实被告人武某到案的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：武某与五原县天吉泰镇二合永村村民张某甲、郭某甲、贾某、李某甲、郭某乙、郝某等人签订的育苗合同,证实2012年4月20日武某与上述村民签订育苗合同，合同约定武某承包上述村民耕地进行育苗，武某在每年4月份支付承包费等相关内容",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据仅能证明被告人与村民存在育苗合同关系，但无法证明2015年4月发生的6万元资金使用情况。合同签订时间为2012年，与本案指控的2015年资金使用行为时间跨度较大，缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "育苗合同证明被告人长期从事个人承包育苗业务，与被告人供述将6万元用于\"个人承包土地的育苗费用\"相互印证，证实资金实际用于个人经营活动而非单位公务。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就育苗合同与本案关联性充分表达了各自观点。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：户名为齐某，账号＊＊＊＊＊＊＊＊＊内蒙古五原农商银行储蓄取款凭条、客户交易明细对账单及齐某身份证复印件，证实2015年4月30日齐某从该卡中取现金60000元，同年5月17日转取129535元，上述取款凭条和对账单经银行盖章确认，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：户名为武某，账号＊＊＊＊＊＊＊＊＊邮储银行交易明细，证实2015年2月17日至2015年6月21日此账户存款余额一直有5万余元，该交易明细经银行盖章确认，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据恰恰证明被告人在案发期间具有还款能力，其个人账户一直保持5万余元存款，与其供述中\"临时借用\"的说法相互印证，证明被告人确实具有还款意愿和能力。这与公诉人指控的\"非法占有\"的主观故意相矛盾。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人虽个人账户有存款，但长达4个月未归还涉案款项，且未办理任何借款手续，证明其并无实际还款行为。账户余额仅能反映资金状况，不能证明还款意愿，与非法占有的主观故意并不矛盾。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就被告人账户余额与主观故意之间的关联性充分表达了观点。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：从齐某处提取的五原县防沙林场账外资金支出相关票据,证实该林场账外资金部分收入及支出的相关情况，上述票据经司法会计鉴定机构鉴定，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据仅能证明林场存在账外资金收支情况，但无法直接证明被告人武某对6万元资金具有非法占有的主观故意。账外资金的性质特殊，其管理使用与正规财务制度存在差异，不能简单等同于贪污罪中的\"公共财物\"。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "账外资金虽管理不规范，但根据《刑法》第91条规定，仍属于公共财物范畴。被告人作为单位负责人，明知资金性质仍擅自支取用于个人用途，且未履行任何审批手续，其行为已符合贪污罪的构成要件。司法会计鉴定已确认票据真实性，证明资金流向与被告人个人经营活动直接相关。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就账外资金性质及管理问题充分表达了观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：户名为齐某，账号＊＊＊＊＊＊＊＊＊的内蒙古农村信用社交易流水及储蓄存款凭条；户名为候某，账号＊＊＊＊＊＊＊＊＊、＊＊＊＊＊＊＊＊＊的内蒙古五原农商行交易流水及储蓄存款凭条；户名为闫某（王某甲），账号＊＊＊＊＊＊＊＊＊内蒙古五原农商行储蓄取款凭条；户名为李某乙，账号＊＊＊＊＊＊＊＊＊内蒙古五原农商行储蓄取款凭条、胡某、雷某甲等人的个人储蓄账户及五原农商行相关账务资料凭证，证实候某担任五原县防沙林场出纳期间，该林场部分账外资金形成的时间、来源和金额，以及候某将其管理的账外资金25.5万元于2015年1月26日、2月4日分两笔移交给齐某管理等事实，上述交易流水和存款凭条经银行盖章确认，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：2015年11月29日五原县林业局出具的“关于防沙林场套取资金私设小金库处理情况整改意见”，证实2014年五原县因绿化植树造林租防沙林场110国道两侧土地，2015年1月五原县财政局将租地费拨入职工账户，防沙林场以齐某、巩某、刘某乙、于某等人的名义套取租地费129535元存入齐某个人账户，后于2015年5月17日从齐某账户转入雷某乙账户。鉴于上述情况五原县林业局就该事件提出了整改的相关意见，该整改意见经五原县林业局正式发文确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该整改意见仅能证明林场存在账外资金管理问题，与被告人武某是否具有非法占有6万元资金的主观故意无直接关联。且整改意见形成于2015年11月，晚于本案指控的2015年4月资金使用行为，无法证明被告人在案发时的主观状态。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "整改意见证实林场账外资金的形成过程及管理混乱状况，但被告人作为单位负责人，明知资金性质仍擅自支取用于个人用途，且未履行任何审批手续，其行为已符合贪污罪的构成要件。整改时间虽晚于案发时间，但能印证账外资金性质及管理问题的一贯性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就账外资金管理问题充分表达观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：2015年8月13日巴彦淖尔市人民检察院出具的资金往来结算票据，证实2015年8月13日被告人武某的家属向巴彦淖尔市人民检察院退款60000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据证明被告人家属已全额退缴涉案款项，表明被告人及其家属积极弥补损失的态度，与公诉人指控的\"非法占有\"的主观故意相矛盾。退缴行为证明被告人对资金性质的认识不同于贪污罪的构成要件要求。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "退缴行为发生在案发后，系被动退赃，不能否定被告人实施行为时具有非法占有的主观故意。根据《刑法》规定，退赃仅影响量刑，不影响犯罪构成。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就退缴行为与主观故意之间的关系充分表达了观点。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：候某说：“我任五原县防沙林场出纳期间，记得给胡某支付的电力追加补偿款11万元中，实际付了胡某3万元，胡某又给防沙林场转回8万元，还有5.7万元的抚育费，以支付工人工资的名义取出后，存在我的个人银行卡上，还有以支付雷某甲整地费的名义先支付给雷某甲，后又转回我的银行卡中，这些都形成账外资金，有的记不清了，我管理的账外资金有40多万元，包括赵某甲名下的10万元和李某乙名下的15.5万元借款。2014年底武某让我将账外资金移交给齐某管理，我与武某核对完账外资金后，我管理的账外资金都开支了，但赵某甲和李某乙两人名下的借款25.5万元没有收回来，这些款是二人给防沙林场干工程时借下的，武某让把这两笔款移交给齐某，武某与这二人联系好后，我和他们去银行分别于2015年1月26日和2月4日将这两笔款转在齐某的个人账户上。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明账外资金移交管理的过程，与被告人武某是否具有非法占有6万元资金的主观故意无直接关联。证言中提到的资金移交行为发生在2015年1-2月，而本案指控的资金使用行为发生在2015年4月，时间上缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言证实账外资金的形成过程及管理方式，证明被告人作为单位负责人对账外资金具有管理职权，且明知资金性质仍擅自支取用于个人用途，其行为符合贪污罪的构成要件。资金移交时间虽早于本案行为，但能证明账外资金管理的延续性及被告人的管理权限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就账外资金管理问题充分表达观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：胡某说：“2014年3月31日五原县防沙林场给我支付的电力补偿款11万元中给我3万元，其余8万元我又返回防沙林场了，我将这8万元转入候某的个人银行卡上。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：齐某说：“2014年三、四月份武某被五原县林业局任命为五原县防沙林场场长，当时我是会计，候某是出纳。2014年的腊月武某让候某将她管理的防沙林场的账外资金移交给我管理，后候某将账外资金25.5万元分两笔转入我信用社储蓄卡号为＊＊＊＊＊＊＊＊＊的账户上。我管理上账外资金后，又以刘某乙、雷某甲、于某、巩某等人和我的名义套取租地费12万多元，后又将该笔款转给雷某甲的妹妹雷某乙的卡上。2015年4月份，武某说他给单位办事，急需用钱，让我从账外资金中取6万元给他，我就从自己管理的账外资金中取了6万元现金在自家经营的门市部门口交给武某，武某与我没有办理任何手续，事后武某再没有提及过这6万元的事情，也没有补办过相关手续。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言中齐某称\"武某说他给单位办事，急需用钱\"，与被告人供述中资金用途一致，证明资金使用具有公务性质。且证言中\"没有办理任何手续\"的说法与账外资金管理不规范的特点相符，不能据此认定被告人具有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "齐某证言明确证实被告人未办理任何手续且事后未提及还款事宜，证明其无还款意愿。所称\"给单位办事\"与被告人实际将资金用于个人承包育苗的事实不符，且无任何单位账目记录佐证其公务用途主张。账外资金管理不规范不能成为免除刑事责任的正当理由。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就账外资金管理问题及主观故意充分表达观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：刘某甲说：“我是齐某的妻子，2015年四、五月份，齐某在我家经营的门市部与我说，武某让他从单位的账上取点钱要给单位办事，我提醒齐某谁拿钱你就让谁打条子，齐某具体给武某拿了多少钱，我不清楚。另外，武某今年没有向我家中借过钱。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言中刘某甲明确表示\"武某让他从单位的账上取点钱要给单位办事\"，与被告人供述中资金用途一致，证明资金使用具有公务性质。且证人表示\"不清楚具体金额\"，无法直接证明被告人具有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "刘某甲证言仅能证明齐某向其提及\"给单位办事\"的说法，但无法证实资金实际用途。且证人明确表示不清楚具体金额，不能证明被告人的主观状态。结合其他证据，被告人实际将资金用于个人承包育苗，证明其\"给单位办事\"的说法不实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证人证言与资金用途的关系充分表达了各自观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：白某说：“齐某是我女婿，2015年4月底齐某给我女儿说取点钱，听我女儿跟齐某说‘你给别人拿钱得让他打条子’，至于取多少钱，后来还没还我不知道。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：赵某甲说：“我每年给五原防沙林场干工程。2014年我给防沙林场干工程时向林场借过钱，年底林场向我催要借款，我用兄弟赵某乙妻子闫某的名义贷款23万元，让妻子王某甲从贷款中给齐某的卡上转款10万元。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：王某甲说：“2015年1月26日，我丈夫赵某甲让我从以闫某名义贷出的款中给齐某账户尾号＊＊＊＊的卡上转款10万元，当时是候某与我去办理的转款手续。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：李某乙说：“2014年给五原防沙林场干工程时从林场借过钱。2015年2月4日林场给我支付工程款后，我给齐某账户尾号＊＊＊＊的卡上转款15.5万元，偿还了借款，当时转款是候某与我去办理的。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：郝某、王某乙、曹某、李某甲、王某丙、郭某甲、张某乙、贾某、郭某乙等人说：“2012年4月20日武某承包了我们的土地进行育苗，共计31.2亩，承包期4年，双方约定每年每亩承包费2000元，实际每年先给付承包费每亩1000元。2015年四、五月份武某按照承包我们各自的土地亩数，按每亩1000元支付了我们2014年的土地承包费。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据仅能证明被告人与村民存在土地承包关系及2015年支付承包费的事实，但无法直接证明2015年4月发生的6万元资金使用情况。支付承包费的时间为2015年四、五月份，与本案指控的4月30日资金支取行为时间上存在间隔，无法建立直接因果关系。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人证言证实被告人在2015年四、五月份支付了土地承包费，与被告人供述将6万元用于\"个人承包土地的育苗费用\"相互印证，时间上具有连续性，证明资金实际用于个人经营活动而非单位公务。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就土地承包费支付时间与资金使用的关系充分表达了观点。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：张某丙说：“武某是我妹夫，2015年4月份武某让我雇些人起树苗，我就雇了二十几个人，干了十几天，被雇的工人要现钱，我就给武某垫付了26000元，在起完树苗半个月后，我给武某打电话要钱，过了两三天武某就给我还了钱。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人与张某丙之间存在雇佣关系和资金往来，与本案指控的6万元资金使用情况无直接关联。证言中提到的26000元垫付款与本案6万元资金在金额、时间上均不一致，无法证明被告人对涉案款项的使用情况。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "张某丙证言证实被告人在2015年4月确有个人育苗经营活动，与被告人供述将6万元用于\"个人承包土地的育苗费用\"相互印证，证明资金实际用于个人用途而非单位公务。虽然金额不完全对应，但能证明被告人同期确有个人育苗支出需求。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证人证言与资金用途的关系充分表达了各自观点。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表以下辩论意见：\n\n第一，关于犯罪构成。被告人利用担任林业站站长的职务便利，指使会计从单位账外资金中支取6万元用于个人承包项目，且未办理任何借款手续，长达4个月未归还。根据《刑法》第382条规定，国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。账外资金虽管理不规范，但根据《刑法》第91条规定仍属公共财物范畴。\n\n第二，关于非法占有故意。被告人辩称\"临时借用\"不能成立，因其既未办理借款手续，也未在合理期限内归还，仅在案发后由家属退缴。其个人账户显示有还款能力但拒不归还，充分证明其主观上具有非法占有的故意。\n\n第三，关于资金用途。被告人声称用于单位育苗的说法与事实不符。经查，单位账目无相关苗木交付记录，且其他同事办理同类业务均通过正规手续，唯独被告人采取秘密支取方式。\n\n第四，关于量刑建议。虽然被告人案发后退赃，但该情节已在量刑建议中予以考虑。本案证据确实充分，包括银行交易明细、账外资金票据等书证及20名证人证言，形成完整证据链，足以认定贪污罪成立。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表以下辩护意见：\n\n第一，关于犯罪主观方面。公诉机关指控的非法占有故意证据不足。根据《刑法》第382条，贪污罪必须以非法占有为目的。现有证据仅能证明资金使用事实，无法排除被告人临时借用的可能性。被告人个人账户显示有5万余元存款，具备还款能力，且家属已全额退缴，证明其并无永久占有意图。\n\n第二，关于资金性质。账外资金管理不规范，其性质存在争议。根据《刑法》第91条解释，公共财物应当具有明确权属关系。本案中账外资金未纳入正规财务管理，其公共属性存疑。\n\n第三，关于资金用途。证人证言存在矛盾，特别是关于资金使用手续的陈述不一致。现有证据不能排除部分资金确实用于单位育苗工作的可能性，这与被告人的供述能够相互印证。\n\n第四，关于量刑情节。被告人认罪态度良好，家属已全额退缴款项，未给国家造成实际损失。根据《刑法》第67条第3款，可以从轻处罚。建议法庭充分考虑这些从轻情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，辩护人忽略了一个关键事实：被告人长达4个月未归还且未办理任何借款手续，这明显超出正常借用期限。根据最高人民法院《关于审理贪污贿赂刑事案件适用法律若干问题的解释》第16条，国家工作人员利用职务便利非法占有公共财物后，未在合理期限内归还的，应当认定为非法占有目的。\n\n关于资金性质，账外资金虽未纳入正规管理，但根据《刑法》第91条第2款明确规定，在国家机关管理、使用或者运输中的私人财产，以公共财产论。本案资金由单位实际控制，完全符合该条规定。\n\n关于资金用途，辩护人提出的\"部分资金用于单位育苗\"纯属主观推测。经查证，单位账目无任何相关记录，且其他同事办理同类业务均通过正规手续，唯独被告人采取秘密支取方式，这与其辩解明显矛盾。\n\n关于量刑情节，公诉机关已充分考虑退赃情节，在量刑建议中予以体现。但必须指出，被告人家属是在案发后才退缴，属于被动退赃，不能改变其行为性质。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，公诉人引用的司法解释第16条应当结合具体案情适用。本案中被告人确有还款能力，且资金使用期间正值育苗季节，其未及时归还存在客观原因。根据《刑法》第13条\"但书\"规定，情节显著轻微危害不大的，不认为是犯罪。\n\n关于资金性质，虽然《刑法》第91条第2款有相关规定，但本案账外资金长期脱离监管，其权属关系确实存在争议。被告人作为站长对这部分资金具有管理权限，其支取行为与典型的贪污行为存在本质区别。\n\n关于资金用途，公诉人仅以\"无账目记录\"否定被告人的辩解有失公允。育苗工作具有季节性特点，相关支出可能未及时入账。现有证据不能排除资金确实用于公务的可能性。\n\n关于量刑情节，被告人主动配合调查，认罪态度良好，家属在案件侦查阶段即已退缴全部款项，根据《刑法》第67条第3款及最高人民法院《关于常见犯罪的量刑指导意见》，应当从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，辩护人提出的\"客观原因\"不能成立。根据在案证据，被告人支取资金时正值单位财务检查期间，其刻意避开正规手续的行为具有明显隐蔽性。且育苗工作结束后长达两个月仍未归还，足以证明其非法占有故意。\n\n关于资金性质，辩护人混淆了管理权限与所有权概念。被告人作为站长仅有管理职责，无权擅自处分公共资金。根据《刑法》第382条，只要行为人利用职务便利非法占有公共财物即构成贪污，与资金管理方式无关。\n\n关于资金用途，辩护人提出的\"可能未及时入账\"纯属主观臆测。经查，单位同期其他育苗支出均有完整账目记录，唯独被告人支取的6万元无任何凭证，这与其职务身份形成的印证关系足以认定贪污事实。\n\n关于量刑情节，需要强调的是，被告人家属是在检察机关立案侦查后才退缴款项，不符合最高人民法院关于\"主动退赃\"的认定标准。虽然可以从轻处罚，但不能改变其行为性质。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，公诉人将资金使用期限作为唯一判断标准有失偏颇。根据《刑法》第13条但书规定，应当综合考量行为人的主观状态和客观表现。被告人确有还款能力，且资金使用与育苗工作存在时间上的关联性，不能简单推定其具有非法占有目的。\n\n关于资金性质，公诉人忽视了账外资金管理的特殊性。这部分资金长期脱离监管，被告人作为实际管理者，其支取行为与典型贪污行为中\"秘密窃取\"的特征存在本质区别。\n\n关于资金用途，公诉人仅以\"无账目记录\"否定公务用途过于武断。育苗工作具有临时性特点，相关支出未及时入账符合实际情况。现有证据不能排除资金确实用于公务的可能性。\n\n关于量刑情节，虽然退赃发生在立案后，但被告人始终积极配合调查，认罪悔罪态度诚恳。根据《刑法》第67条第3款，应当认定为坦白情节，依法可以从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "审判长，我承认在担任林场场长期间确实使用了单位账外资金6万元用于个人承包土地的育苗费用。但我当时确实是因为工作需要临时借用这笔资金，并非想要非法占有。我的个人账户当时有5万多元存款，完全具备还款能力，只是后来因为工作繁忙和会计被拘留才没能及时办理还款手续。我的家属已经在案发后退缴了全部款项，没有给单位造成实际损失。我在单位工作多年一直表现良好，这次是初犯，恳请法庭考虑这些情节从轻处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "巴彦淖尔市磴口县人民法院  \n刑事判决书  \n（2016）磴刑初字第15号  \n\n公诉机关巴彦淖尔市磴口县人民检察院。  \n被告人武某，男，XXX年X月X日出生，公民身份号码XXX，汉族，XXX文化程度，户籍所在地XXX，原系五原县防沙林场场长。因涉嫌贪污罪于2015年7月14日被羁押。  \n辩护人XXX（姓名、性别、工作单位和职务）。  \n\n磴口县人民检察院以磴检刑诉〔2016〕15号起诉书指控被告人武某犯贪污罪，于2016年2月19日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。磴口县人民检察院指派检察员XXX出庭支持公诉，被告人武某及其辩护人XXX到庭参加诉讼。本案现已审理终结。  \n\n公诉机关指控：2015年4月，被告人武某在担任五原县防沙林场场长期间，利用职务便利，指使会计齐某从单位账外资金中取出6万元现金用于支付其个人承包土地的育苗费用等支出，未办理任何手续。2015年8月13日，武某家属向检察机关退缴全部赃款。公诉机关认为应以贪污罪追究刑事责任，建议判处有期徒刑并适用缓刑。  \n\n被告人武某对指控事实无异议，但辩称系临时借用资金用于单位育苗工作，无非法占有故意。辩护人提出账外资金性质存疑、被告人具有还款能力且已全部退赃，建议从轻处罚。  \n\n经审理查明：2015年4月，被告人武某利用担任五原县防沙林场场长的职务便利，在未办理任何借款手续的情况下，指使会计齐某从单位账外资金中支取6万元，用于支付其个人承包土地的育苗费用等支出。该笔资金至案发时未归还单位。2015年8月13日，武某家属向检察机关退缴全部赃款。上述事实有下列证据证实：  \n1. 被告人供述承认支取资金事实；  \n2. 银行交易明细证实资金流向；  \n3. 账外资金票据证实资金来源；  \n4. 育苗合同证实个人承包事实；  \n5. 证人齐某、候某等人证言证实资金支取过程；  \n6. 退缴凭证证实赃款退还情况。  \n\n本院认为，被告人武某身为国家工作人员，利用职务便利侵吞公款，其行为已构成贪污罪。关于辩护人提出的临时借用意见，经查：被告人支取资金后长达四个月未办理还款手续，且资金实际用于个人项目，足以认定非法占有故意。鉴于被告人认罪态度较好且全部退赃，依法可从轻处罚。  \n\n依照《中华人民共和国刑法》第三百八十二条第一款、第三百八十三条第一款第（一）项、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第六十四条之规定，判决如下：  \n一、被告人武某犯贪污罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币十万元；  \n二、被告人武某退缴的赃款人民币六万元依法予以没收，上缴国库。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向巴彦淖尔市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长 XXX  \n2016年X月X日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人武某是否具有国家工作人员身份，是否符合贪污罪的主体要件\n2.被告人武某指使会计齐某从单位账外资金中取出6万元的行为是否属于利用职务便利\n3.被告人武某将6万元公款用于个人支出的行为是否具有非法占有的主观故意\n4.涉案6万元资金的性质是否属于公共财物\n5.被告人武某未办理任何手续的行为是否构成贪污罪的客观要件\n6.被告人武某家属退缴全部赃款的情节是否构成从轻处罚的事由\n7.本案是否存在挪用公款罪与贪污罪的竞合问题\n8.被告人武某是否具有自首情节\n9.被告人武某是否与被害单位达成和解或取得谅解\n10.被告人武某的认罪态度及悔罪表现对量刑的影响",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员临时借用公款用于个人支出是否构成贪污罪",
+              "贪污罪中赃款全部退还是否可以从轻处罚"
+            ],
+            "国家工作人员临时借用公款用于个人支出是否构成贪污罪": "### 结论\n国家工作人员临时借用公款用于个人支出，如果数额较大、超过三个月未还，或进行营利活动，或用于非法活动，则可能构成挪用公款罪，而非贪污罪。贪污罪的构成要件是非法占有为目的，而挪用公款罪则以使用为目的，且在一定条件下可以构成犯罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **挪用公款的性质和目的**：挪用公款罪与贪污罪的关键区别在于行为人的主观目的。挪用公款罪以使用为目的，而贪污罪以非法占有为目的。例如，【（2018）苏02刑终55号】中，钱某甲、钱某乙挪用公款帮助他人完成揽储任务或帮助亲属购房，没有证据证明从中获取利益，属于归个人使用，构成挪用公款罪。\n- **挪用公款的数额和时间**：挪用公款数额较大，超过三个月未还，构成挪用公款罪。例如，【（2017）苏0322刑初843号】中，石善华挪用公款归个人使用，构成挪用公款罪。\n- **归还公款的情况**：挪用公款后是否归还，以及归还的时间，影响罪名的认定和量刑。例如，【（2011）第224号】中，胡某某在检察机关侦查期间全部退缴挪用的款项，未造成经济损失，故予以从轻处罚。\n- **是否用于营利或非法活动**：挪用公款用于营利活动或非法活动，构成挪用公款罪。例如，【（2016）云01刑终466号】中，杨少荣挪用公款给私有公司使用，进行营利活动，构成挪用公款罪。\n\n综上，国家工作人员临时借用公款用于个人支出，如果数额较大、超过三个月未还，或进行营利活动，或用于非法活动，则可能构成挪用公款罪。贪污罪的构成要件是非法占有为目的，而挪用公款罪则以使用为目的，且在一定条件下可以构成犯罪。挪用公款罪与贪污罪的关键区别在于行为人的主观目的和公款的使用情况。\n\n#####\n类似案件为：\n【（2018）苏02刑终55号】：法院生效裁判认为：1.本案所涉资金系江阴市某供销合作社的国有资产，被告人钱某甲、钱某乙不可为帮助他人完成储蓄任务而以个人名义存入银行，即以此方式加以挪用。换言之，钱某甲、钱某乙为帮助他人完成揽储任务而以个人名义将公款存入银行属于挪用公款归个人使用的一种方式，而钱某乙即使经钱某甲同意也无权且不可将国有资金挪用归个人使用用于购房。2.本案所涉资金的用途为帮助他人完成揽储任务或者帮助亲属购买房屋，现有证据不足以证明钱某甲、钱某乙在帮助他人完成揽储任务过程中将利息据为己有或者获取其他收益，亦不足以证明钱某乙通过炒房获利，故不能认定钱某甲、钱某乙挪用公款进行营利活动。3.钱某甲、钱某乙的行为属于挪用公款归个人使用，但起诉书指控的11笔所挪用的款项均已归还，其中第1-6笔、第9-11笔挪用时间为1天至30余天不等，均未超过三个月即归还，不应以挪用公款罪论处，可作为量刑情节考虑，而针对第7笔、第8笔分别共同挪用公款100万元、38万元，超过三个月未还，二被告人的行为符合挪用公款罪的构成要件，且其二人在此过程中地位、作用相当，不宜区分主从犯。4.钱某甲、钱某乙挪用公款数额较大，超过三个月未还，具有刑事违法性，但综合考虑二被告人挪用公款的时间、数额、使用方式以及挪用过程中的风险防控行为、挪用后的归还行为，可予以从轻处罚。5.办案机关在经初查掌握钱某甲、钱某乙犯罪事实基础上电话通知其二人到案接受调查，到案后二被告人均如实供述，但其到案情形不符合自首的法律规定。\n综上，钱某甲、钱某乙作为国有企业中从事公务的人员，应当以国家工作人员论，利用职务上的便利，挪用公款归个人使用，数额较大，超过三个月未还，二被告人的行为均确已构成挪用公款罪，系共同犯罪。钱某甲、钱某乙归案后如实供述自己的罪行，所挪用的公款已退还，予以从轻处罚。根据钱某甲、钱某乙的犯罪情节、悔罪表现，没有再犯罪的危险，宣告缓刑对其所居住社区没有重大不良影响，依法可以宣告缓刑。\n【（2017）苏0322刑初843号】：法院认为，石善华身为国家工作人员，挪用公款归个人使用，构成挪用公款罪；非法收受他人财物，为他人谋取利益，构成非国家工作人员受贿罪；侵吞基层组织财物，构成职务侵占罪。石善华犯数罪，应数罪并罚。石善华在挪用公款罪中构成自首，在非国家工作人员受贿罪和职务侵占罪中构成坦白，且已退缴全部赃款，决定从轻处罚。一、被告人石善华犯挪用公款罪，判处有期徒刑一年六个月；犯非国家工作人员受贿罪，判处有期徒刑十个月；犯职务侵占罪，判处有期徒刑十个月。决定执行有期徒刑二年六个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年3月3日起至2019年9月2日止。）\n 二、被告人石善华退缴的赃款依法予以没收，上缴国库。",
+            "贪污罪中赃款全部退还是否可以从轻处罚": "### 结论\n贪污罪中赃款全部退还可以从轻处罚，但是否构成积极退赃并获得从宽处罚，需综合考虑退赃的时间、退赃的主动性、退赃的完整性以及是否避免或减少损害结果的发生。退赃行为对量刑具有一定的正面影响，但并不自动构成从轻处罚的充分条件。\n\n### 核心法条\n- **《中华人民共和国刑法》第64条**：犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。\n- **《中华人民共和国刑法》第385条**：国家工作人员利用职务上的便利，索取他人财物，或者收受他人财物，为他人谋取利益的，是受贿罪。\n- **《刑法修正案（九）》第四十四条第三款**：犯贪污罪的行为人必须如实供述自己罪行、真诚悔罪、积极退赃，且避免、减少损害结果的发生，才能获得从宽处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃的时间和主动性**：退赃发生在何时，是否主动退赃，对量刑有重要影响。例如，【（2020）鄂28刑终233号】中，被告人王某到案后如实供述并退缴了全部赃款赃物，法院决定对其从轻处罚。\n- **退赃的完整性**：是否退缴了全部直接和间接获得的赃款赃物。【（2019）鲁0124刑初5号】中，五被告人将骗取的美丽乡村建设补助资金全部退还，法院从轻处罚。\n- **避免或减少损害结果的发生**：退赃是否有助于避免或减少损害结果的发生。【（2020）粤刑终2号】中，邓某某归案后如实供述自己的罪行、积极退赃、悔罪态度较好，依法可以从轻处罚。\n- **认罪态度和悔罪表现**：是否如实供述罪行，是否真诚悔罪。【（2021）苏0925刑初44号】中，被告人朱军如实供述自己的罪行，可以从轻处罚。\n\n综上，退赃行为对量刑具有正面影响，但要构成积极退赃并获得从宽处罚，需满足退赃的主动性、完整性以及避免或减少损害结果的发生等条件。法院在量刑时会综合考虑这些因素，决定是否从轻处罚以及从轻处罚的幅度。\n\n#####\n类似案件为：\n【（2019）鲁0124刑初5号】：法院认为，尹某甲、尹某乙、孙某某、吕某某、尹某丙利用担任村党支部或村委会委员，管理本村事务的职务之便，骗取美丽乡村建设补助资金，存入私设账户，经共同商议决定私分87522元，数额较大，其行为构成职务侵占罪。鉴于五被告人具有自首情节，赃款全部退还，且认罪认罚，依法可从轻处罚。被告人尹某甲犯职务侵占罪，判处拘役五个月缓刑六个月（缓刑考验期从判决确定之日起计算）。\n 被告人尹某乙犯职务侵占罪，判处拘役四个月缓刑六个月（缓刑考验期从判决确定之日起计算）。\n 被告人孙某某犯职务侵占罪，判处拘役四个月缓刑六个月（缓刑考验期从判决确定之日起计算）。\n 被告人吕某某犯职务侵占罪，判处拘役四个月缓刑六个月（缓刑考验期从判决确定之日起计算）。\n 被告人尹某丙犯职务侵占罪，判处拘役四个月缓刑六个月（缓刑考验期从判决确定之日起计算）。\n 退缴的非法所得八万七千五百二十二元，发还平阴县榆山街道办事处某某村。\n【（2020）粤刑终2号】：法院生效裁判认为，邓某某身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为已构成贪污罪。邓某某身为国家工作人员，利用职务上的便利，非法收受他人财物，为他人谋取利益，数额巨大，其行为已构成受贿罪。邓某某与投标人串通投标，损害国家、集体、公民的利益，其行为已构成串通投标罪。邓某某作为与国家工作人员关系密切的人，利用该国家工作人员职权形成的便利条件，通过其他国家工作人员职务上的便利，为他人谋取不正当利益，收受他人财物，数额巨大，其行为已构成利用影响力受贿罪。邓某某犯数罪，应予并罚。邓某某如实供述司法机关尚未掌握的受贿及利用影响力受贿罪行，是自首，二罪名依法可减轻处罚。邓某某检举黄某全犯罪行为，经查证属实，有立功表现，依法可从轻处罚。邓某某归案后如实供述自己的罪行、积极退赃、悔罪态度较好，依法可以从轻处罚。原审判决认定的事实清楚，证据确实、充分，定罪准确，量刑适当，审判程序合法，但对邓某某退缴的部分赃款处理不当，应予纠正。\n【（2021）苏0925刑初44号】：法院认为，被告人朱军以非法占有为目的，诈骗他人财物，数额较大，其行为构成诈骗罪。鉴于朱军如实供述自己的罪行，退还全部赃款并取得被害人谅解，且自愿认罪认罚，可以从轻处罚。被告人朱军犯诈骗罪，判处拘役五个月，并处罚金人民币九千元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.证据链完整：被告人武某作为国家工作人员，利用职务便利指使会计齐某从单位账外资金中取出6万元用于个人支出，有银行交易明细、账外资金票据等书证及多名证人证言佐证。2.主观故意明确：武某未办理任何手续，事后也未提及还款，表明其具有非法占有的主观故意。3.社会危害性：作为防沙林场场长，其行为严重损害国家利益和公职人员形象。4.量刑建议合理：鉴于其家属已退缴全部赃款，建议从轻处罚，符合刑法相关规定。\n防御策略：1.证据收集程序合法：所有书证均经银行或相关单位盖章确认，证人证言经检察机关核实，具有法律效力。2.证据关联性强：银行交易明细、账外资金票据等直接证明武某侵吞公款的事实。3.主观故意证据充分：武某未办理手续且长期未还款，结合证人证言可证明其非法占有目的。4.量刑依据充分：根据《刑法》第三百八十二条及《刑法修正案（九）》第四十四条第三款，退赃可从轻处罚。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利挪用公款用于个人支出是否构成贪污罪？",
+              "贪污罪中赃款全部退还是否可以从轻处罚？"
+            ],
+            "国家工作人员利用职务便利挪用公款用于个人支出是否构成贪污罪？": "### 结论\n国家工作人员利用职务便利挪用公款用于个人支出，如果主观上没有非法占有的目的，而是以使用为目的，构成挪用公款罪；如果主观上具有非法占有的目的，实施了侵吞公款的行为，则构成贪污罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **挪用公款的主观目的**：如果行为人主观上以使用为目的，即使将公款用于个人支出，构成挪用公款罪。例如，【（2017）苏1202刑初26号】中，被告人朱某挪用公款进行营利活动，但没有非法占有的目的，构成挪用公款罪。【（2018）苏02刑终55号】中，被告人钱某甲、钱某乙挪用公款帮助亲友完成银行揽储任务或购置房产，没有证据证明从中获取利益，构成挪用公款罪。\n- **非法占有的主观目的**：如果行为人主观上具有非法占有的目的，实施了侵吞公款的行为，则构成贪污罪。例如，【（2019）川1824刑初47号】中，被告人杨某将公款用于挥霍和支付分手费等开支，无归还公款的行为，主观上以非法占有为目的，构成贪污罪。【（2011）第224号】中，被告人胡某某挪用公款超过三个月未归还，主观上具有非法占有的目的，构成挪用公款罪，但因其认罪态度较好，未造成经济损失，予以从轻处罚。\n\n综上，国家工作人员利用职务便利挪用公款用于个人支出，其构成犯罪的性质取决于行为人的主观目的和行为方式。如果以使用为目的，构成挪用公款罪；如果以非法占有为目的，构成贪污罪。\n\n#####\n类似案件为：\n【（2018）苏02刑终55号】：法院生效裁判认为：1.本案所涉资金系江阴市某供销合作社的国有资产，被告人钱某甲、钱某乙不可为帮助他人完成储蓄任务而以个人名义存入银行，即以此方式加以挪用。换言之，钱某甲、钱某乙为帮助他人完成揽储任务而以个人名义将公款存入银行属于挪用公款归个人使用的一种方式，而钱某乙即使经钱某甲同意也无权且不可将国有资金挪用归个人使用用于购房。2.本案所涉资金的用途为帮助他人完成揽储任务或者帮助亲属购买房屋，现有证据不足以证明钱某甲、钱某乙在帮助他人完成揽储任务过程中将利息据为己有或者获取其他收益，亦不足以证明钱某乙通过炒房获利，故不能认定钱某甲、钱某乙挪用公款进行营利活动。3.钱某甲、钱某乙的行为属于挪用公款归个人使用，但起诉书指控的11笔所挪用的款项均已归还，其中第1-6笔、第9-11笔挪用时间为1天至30余天不等，均未超过三个月即归还，不应以挪用公款罪论处，可作为量刑情节考虑，而针对第7笔、第8笔分别共同挪用公款100万元、38万元，超过三个月未还，二被告人的行为符合挪用公款罪的构成要件，且其二人在此过程中地位、作用相当，不宜区分主从犯。4.钱某甲、钱某乙挪用公款数额较大，超过三个月未还，具有刑事违法性，但综合考虑二被告人挪用公款的时间、数额、使用方式以及挪用过程中的风险防控行为、挪用后的归还行为，可予以从轻处罚。5.办案机关在经初查掌握钱某甲、钱某乙犯罪事实基础上电话通知其二人到案接受调查，到案后二被告人均如实供述，但其到案情形不符合自首的法律规定。\n综上，钱某甲、钱某乙作为国有企业中从事公务的人员，应当以国家工作人员论，利用职务上的便利，挪用公款归个人使用，数额较大，超过三个月未还，二被告人的行为均确已构成挪用公款罪，系共同犯罪。钱某甲、钱某乙归案后如实供述自己的罪行，所挪用的公款已退还，予以从轻处罚。根据钱某甲、钱某乙的犯罪情节、悔罪表现，没有再犯罪的危险，宣告缓刑对其所居住社区没有重大不良影响，依法可以宣告缓刑。",
+            "贪污罪中赃款全部退还是否可以从轻处罚？": "### 结论\n贪污罪中，赃款全部退还可以从轻处罚，但是否从轻以及从轻的幅度，取决于犯罪人是否如实供述罪行、真诚悔罪、积极退赃，以及是否避免或减少损害结果的发生。此外，从宽处罚的情节需在提起公诉前体现。\n\n### 核心法条\n- **《刑法修正案（九）》第四十四条第三款**：规定犯贪污罪的行为人必须如实供述自己罪行、真诚悔罪、积极退赃，且需在提起公诉以前，才能从轻、减轻或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **如实供述罪行、真诚悔罪、积极退赃**：这些是《刑法修正案（九）》第四十四条第三款规定的从宽处罚的必要条件。例如，【（2014）怀中刑二终字第72号】中，上诉人李某因认罪态度较好，退还了全部赃款并取得被害人的谅解，法院从轻处罚。\n- **避免或减少损害结果的发生**：这是从宽处罚的另一个重要条件。例如，【（2015）晋市法刑终字第304号】中，上诉人乔XX在案发前积极退还赃款，法院酌情从轻处罚。\n- **退赃的时间**：从宽处罚的情节需在提起公诉前体现。例如，【（2024）浙0109刑初457号】中，被告人余某自动投案并如实供述自己的罪行，系自首，且在提起公诉前退赃，法院从轻处罚。\n\n综上，贪污罪中赃款全部退还是否可以从轻处罚，关键在于犯罪人是否在提起公诉前如实供述罪行、真诚悔罪、积极退赃，并且是否避免或减少损害结果的发生。这些因素共同决定了从轻处罚的可能性和幅度。\n\n#####\n类似案件为：\n【（2014）怀中刑二终字第72号】：法院认为，上诉人李某以非法占有为目的，采取虚构事实、隐瞒真相的方法骗取公民财物，数额巨大，其行为已构成诈骗罪。李某认罪态度较好，退还了全部赃款并取得被害人的谅解，可以从轻处罚。李某及其辩护人提出原判量刑过重、请求从轻处罚的上诉理由及辩护意见成立，予以采纳。原判认定的事实清楚，证据确实充分，定罪准确，审判程序合法，但量刑不当。二审判决，维持湖南省怀化市鹤城区人民法院对上诉人李某定罪部分的判决，撤销量刑部分的判决；上诉人李某犯诈骗罪，判处有期徒刑三年，并处罚金人民币五千元。\n【（2015）晋市法刑终字第304号】：法院认为，乔XX身为XX村党支部书记，利用职务便利侵吞村集体资金，其行为构成职务侵占罪，而非贪污罪。鉴于乔XX到案后如实供述罪行，且在案发前退还赃款，依法可以从轻处罚。一、撤销阳城县人民法院（2015）阳刑初字第128号刑事判决；\n 二、上诉人（原审被告人）乔XX犯职务侵占罪，判处有期徒刑一年。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年1月14日起至2016年1月13日止）\n 三、上诉人乔XX非法侵占的46500元返还阳城县XX镇XX村委。\n【（2024）浙0109刑初457号】：法院认为，被告人余某以非法占有为目的，采用虚构事实、隐瞒真相的方法，骗取他人财物，数额较大，构成诈骗罪。鉴于余某系自首，已退还全部赃款，且自愿认罪认罚，可以从轻处罚。法院判决，被告人余某犯诈骗罪，判处有期徒刑八个月，缓刑一年，并处罚金3000元；作案工具OPPO手机一部，予以没收，上缴国库。"
+          }
+        },
+        "目标": "请求法院判处被告人武某贪污罪，有期徒刑XX，缓刑XX，并处罚金人民币XX元",
+        "询问": "1. 被告人武某，你在2015年4月指使会计齐某从单位账外资金中取出6万元现金时，是否办理了相关借款手续？为何未办理任何手续？\n\n2. 你声称当时是因单位急需用钱而临时借用账外资金，但根据银行交易明细显示，你个人账户在2015年2月至6月期间一直保持5万余元余额。请解释为何不动用个人资金，而选择挪用公款？\n\n3. 你将这6万元用于支付个人承包土地的育苗费用等开支后，为何在长达数月时间内既未向单位报告，也未办理还款手续？\n\n4. 会计齐某及其妻子刘某甲的证言均证实，当时曾提醒你要打借条，但你始终未补办手续。你对此有何解释？\n\n5. 你作为防沙林场场长，是否清楚账外资金的来源？是否参与过通过虚列支出手段套取账内资金形成账外资金的行为？\n\n6. 你家属在案发后退缴了6万元赃款，这是否表明你承认这笔款项属于非法占有？请说明退赃的具体原因和过程。"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的证据无法充分证明武某具有非法占有的主观故意，仅能证明资金使用事实2.账外资金性质特殊，不属于严格意义上的公共财物3.证人证言存在矛盾，特别是关于资金用途和手续办理的陈述不一致\n防御策略：1.武某系临时借用资金，且有归还意愿和还款能力（个人账户有5万余元存款）2.资金实际用于单位相关育苗工作，具有公务性质3.家属已全额退缴款项，未造成实际损失4.武某系初犯，且长期担任公职表现良好",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员临时借用公款是否构成贪污罪？",
+              "贪污罪中非法占有目的的认定标准是什么？"
+            ],
+            "国家工作人员临时借用公款是否构成贪污罪？": "### 结论\n国家工作人员临时借用公款的行为是否构成贪污罪，关键在于行为人是否具有非法占有的目的。如果行为人主观上具有非法占有的故意，客观上采取了隐瞒、掩盖其侵吞、窃取、骗取公款的行为，使所挪用的公款在单位财务账目上难以反映出来，且没有归还行为，或者携带挪用的公款潜逃，或者有能力归还而拒不归还，那么其行为可能构成贪污罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观占有目的**：【（2002）刑复字第19号】中，国有银行工作人员利用职务便利挪用公款，携带公司银行账户凭证和全部炒股手续潜逃，将其中的公款置于自己控制之下，有能力归还而拒不归还，主观上具有非法占有的故意，其行为构成贪污罪。这表明，如果行为人主观上具有非法占有的目的，即使原本是临时借用，也可能转化为贪污罪。\n- **客观行为方式**：【（2017）京03刑终657号】中，被告人刘某春采取了虚构交易、虚开发票平账等隐蔽手段，实质上是以发放奖金之名行侵吞公款之实，客观上符合贪污罪的构成要件。这说明，采取虚假手段掩盖挪用公款的行为，可能被认定为贪污罪。\n- **归还意愿与能力**：【（2021）豫04刑终93号】中，被告人马某中身为国家机关工作人员，利用职务便利贪污公款，虽然主动退回违法所得，但其行为仍构成贪污罪。这表明，即使有归还意愿，如果行为已经构成贪污罪，归还公款并不影响罪名的认定。\n\n综上，国家工作人员临时借用公款的行为是否构成贪污罪，主要取决于行为人是否具有非法占有的目的，以及是否采取了隐瞒、掩盖其侵吞、窃取、骗取公款的行为，使所挪用的公款在单位财务账目上难以反映出来，且没有归还行为。如果行为人主观上具有非法占有的目的，客观上采取了隐瞒、掩盖其侵吞、窃取、骗取公款的行为，即使原本是临时借用，也可能转化为贪污罪。\n\n#####\n类似案件为：\n【（2017）京03刑终657号】：法院生效裁判认为：被告人刘某春作为国家工作人员，伙同他人利用职务上的便利，非法占有公共财物，数额巨大，其行为已构成贪污罪，且系共同犯罪，应予惩处。刘某春违反相关规定，擅自决定为其本人及会计发放“奖金”，并采取了虚构交易、虚开发票平账等隐蔽手段，其实质是以发放奖金之名行侵吞公款之实，客观上符合贪污罪的构成要件；主观上，刘某春明知奖金的正常决策和发放程序以及会计应如实记账的规定，仍然违反相关程序和要求发放涉案钱款、授意会计虚假记账，其本人亦领取了涉案钱款，足以证明其主观上具有非法占有的故意，故其行为已构成贪污罪。刘某春及其辩护人相关辩解及辩护意见不予采纳。鉴于刘某春有自首情节，积极退缴赃款，依法对其从轻处罚。故一、二审法院依法作出如上裁判。",
+            "贪污罪中非法占有目的的认定标准是什么？": "### 结论\n贪污罪中非法占有目的的认定标准主要考虑行为人是否实际控制了公共财物，即使产权证尚未办理，也不影响贪污犯罪既遂的成立。行为人对财物的“实际控制”意味着财物既脱离了所有人的实际控制，又排除了第三人的实际控制。此外，行为人是否将财物据为己有，不影响贪污既遂的认定。\n\n### 核心法条\n- **《中华人民共和国刑法》第382条**：规定了贪污罪的构成要件，包括利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的行为。\n- **《最高人民法院、最高人民检察院关于办理国家出资企业中职务犯罪案件具体应用法律若干问题的意见》第一条**：规定了在国家出资企业改制过程中，故意隐匿公司、企业财产，转为本人持有股份的改制后公司、企业所有的行为，应以贪污罪定罪处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否实际控制公共财物**：行为人对财物的“实际控制”是贪污罪既遂的关键。例如，【（2012）沪高刑终字第123号】中，法院认为被告人吴小莉虽未办理房屋产权变更登记，但实际控制了房产，应认定为贪污既遂。\n- **行为人是否将财物据为己有**：行为人是否将财物据为己有，不影响贪污既遂的认定。例如，【（2019）辽01刑终315号】中，法院认为“帮助他人占有型”贪污犯罪的成立，应以国家工作人员具有非法占有目的并按照其意愿将财物转至他人为前提。\n- **行为人是否具有非法占有目的**：在认定行为人是否具有非法占有目的时，应当坚持主客观相统一的认定标准。例如，【（2013）沪二中刑终字第145号】中，法院认为合同诈骗罪中被告人非法占有目的的认定，可采取“三看”要素审查法。\n\n综上，贪污罪中非法占有目的的认定不仅要看行为人是否实际控制了公共财物，还要考虑行为人是否具有非法占有的主观目的，即使行为人未将财物据为己有，只要行为人实际控制了财物，即可认定为贪污既遂。\n\n#####\n类似案件为：\n【（2012）沪高刑终字第123号】：法院生效裁判认为：关于被告人吴小莉是否贪污涉案房产的问题。根据《最高人民法院、最高人民检察院关于办理国家出资企业中职务犯罪案件具体应用法律若干问题的意见》的有关规定，受国有企业委托管理、经营国有财产的人员利用职务上的便利，在国家出资企业改制过程中故意隐匿公司、企业财产为行为人所实际控制，或者国家出资企业改制已经完成的，以贪污犯罪既遂处理。可见，在刑事法律上对非法占有的认定以行为人对财物的实际控制为标准，注重评价行为客观上所具有的社会危害性，即对财物真正所有权人行使占有、使用、收益、处分权能的侵害，而非考察财物所有权是否在法律形式上发生了转移。换句话说，对房屋等不动产而言，民法上以行为人办理了产权变更登记为指征来认定其侵占他人的财产所有权，而刑法上从实际控制的角度来认定行为人实现了非法占有的目的，并不以得到民法上的确认为条件。\n在未办理房屋产权变更登记的情况下，可以从房产登记所有权人的相关账目上能否反映该房产的存在，行为人是否可以自主使用该房产、自主决定对房产进行事实和法律上的处分，是否通过房产获取利益几方面来综合判断涉案房产是否被行为人实际控制。\n经查，涉案房产产权证上的权利人为公欣监理或更名后的公欣公司，但在公欣公司转制前，用于购买涉案房产的资金始终隐于公欣公司账外，使涉案房产无需登记，事实上也未经登记，在账上无法显示出该房产；转制时，被告人吴小莉未就涉案房产向上级单位或评估单位进行说明，上级单位以及转制后的公欣公司法人代表均不知有该套房产，足以证明被告人吴小莉出于非法占有的目的，积极实施隐匿行为，使涉案房产成功脱离了国有资产权利人的控制。现有证据又证实被告人吴小莉实际掌控着公欣公司的公章、转制前的营业执照复印件、原法定代表人徐某某的私印及身份证复印件等。在此种情况下，凭借上述材料被告人吴小莉完全有条件自行实现对涉案房产的过户更名，其在事实上已经能够独立地行使房屋产权人的处分权。公欣公司转制前后，涉案房产历年来所产生的房租收益亦被吴小莉控制，其又实际享有了房屋产权人的收益权。因此，被告人吴小莉除了在权利文书的形式上并非涉案房产的产权人外，其在事实上已经行使了产权人所有权的全部权能，符合刑法上非法占有要求的实际控制标准。故，被告人吴小莉在国有公司转制过程中，隐匿公司名下房产，虽未办理产权转移登记，但实际控制的行为，仍应当认定为贪污既遂。\n关于被告人吴小莉及其辩护人提出，将4,012万“应收监理费”全部认定为吴小莉的贪污数额错误，且部分系未遂的辩护意见。根据刑法对贪污罪的规定，公共财物的所有权遭受侵害是贪污犯罪的本质特征。“应收监理费”作为转制前国有公司确定享有的债权，是预期可实现的利益，在转制过程中，理应作为企业财产权纳入资产评估范围。经查，吴小莉在国有公欣公司转制过程中未将归属于该企业的4,012万余元应收债权纳入到资产评估范围，而是隐匿于帐外，导致国有资产价值被低估，这部分债权所对应的财产性利益随着国有公欣公司出售工作的完成而流失，吴小莉对国有资产所造成的侵害在转制完成时即已实现，属于贪污犯罪既遂。对于吴小莉贪污具体数额的认定，《最高人民法院、最高人民检察院关于办理国家出资企业中职务犯罪案件具体应用法律若干问题的意见》第一条规定，贪污数额一般应当以所隐匿财产全额计算；改制后公司、企业仍有国有股份的，按股份比例扣除归于国有的部分。国有公欣公司转制后，被整体出售给非国有单位住远公司，原来的国有出资人退出，改制前的企业被改制后企业所取代，隐匿的4,012万余元债权被改制后的非国有企业全部继承。虽然被告人吴小莉等人在改制后的公欣公司中持有的股份仅为49%，但非法占有的形式不仅仅是行为人个人占有，也可以是公司占有，或者由他人代为占有。故，被改制后公欣公司占有的债权4,012万余元，应全额认定为被告人吴小莉的贪污数额。\n综上所述，被告人吴小莉作为国有公欣公司的主管人员，利用职务便利，伙同他人在经营、管理国有企业及改制过程中实施隐匿国有财产，使之脱离国有资产权利人的控制，并由自己实际控制的行为，已构成贪污既遂且犯罪数额为4,600余万元，依法应承担相应的刑事责任，故二审法院依法作出如上改判。上海市第二中级人民法院于2012年6月5日作出（2012）沪二中刑初字第15号刑事判决，认定被告人吴小莉在国有企业转制过程中，贪污国有资产4,200余万元，但贪污公欣公司名下房产证据不足。被告人吴小莉犯贪污罪，判处无期徒刑，剥夺政治权利终身，并处没收个人财产人民币五十万元；违法所得予以追缴。宣判后，上海市人民检察院第二分院提出抗诉，被告人吴小莉提出上诉。上海市高级人民法院于2012年11月20日作出（2012）沪高刑终字第123号刑事判决，认为原判认定被告人吴小莉利用管理国有资产的职务便利，在国有企业经营管理及转制过程中贪污4,200余万元的事实清楚，证据确实、充分，应予确认。同时，上诉人吴小莉，在国有企业转制过程中隐匿涉案房产的行为，依法应当一并以贪污罪论处。原判认为涉案房产权属仍归公欣公司，在案证据尚不足以认定该房屋被吴小莉非法占有，系认定事实有误，应予纠正。据此，判决维持上海市第二中级人民法院（2012）沪二中刑初字第15号刑事判决的第一项，即“被告人吴小莉犯贪污罪，判处无期徒刑，剥夺政治权利终身，并处没收个人财产人民币五十万元”；撤销第二项，即“违法所得予以追缴”改判为贪污犯罪违法所得钱款、房产等国有资产予以追缴，并发还国有资产权利人。\n【（2019）辽01刑终315号】：法院生效裁判认为：\n1.关于抗诉机关及支持抗诉机关所提涉王某等7户事实中，肇某具有渎职罪主体身份的抗诉意见。肇某作为村基层组织人员在协助人民政府从事特定行政管理公务时，属于《中华人民共和国刑法》第九十三条规定的“其他依法从事公务的人员”，但“协助人民政府”并不能直接等同于《全国人民代表大会常务委员会关于〈中华人民共和国刑法〉第九章渎职罪主体适用问题的解释》（以下简称《渎职罪立法解释》）规定的第二类人员，认定村基层组织人员属于后者，应具备一定的任职形式且以受委托行使职权的组织的名义开展公务活动为必要条件。本案中，相关书证显示，受委托行使房屋征收补偿职权的组织为某街道办事处拆迁工作组，而非某村村委会；肇某作为某村主任，只是以村委会干部身份参加了涉案工程动迁工作调度会，只是在《宅基地使用及分户认定单》等材料的“村委会意见”一栏签名并加盖村委会公章，而没有以拆迁组的名义履行职责，也从未在拆迁组领取工资；且关于肇某是否为拆迁组成员的现有证据之间相互矛盾，难以对其拆迁工作组成员身份进行认定。故对抗诉机关和支持抗诉机关的意见不予支持。\n2.关于上级检察机关支持抗诉机关提出对肇某、金某的行为一并认定为贪污罪的意见。经查，起诉书指控肇某利用其协助政府拆迁的职权，为其本人购买的4户户口出具证明并上报，套取拆迁补偿款共计102万余元的行为构成贪污罪，肇某还明知王某等7户不符合拆迁条件，仍徇私舞弊违规签字确认，使王某等7户获得拆迁款共计144万余元的行为另构成滥用职权罪；指控金某构成滥用职权罪。抗诉机关针对原判未认定肇某构成滥用职权罪提出抗诉，沈阳市人民检察院虽支持抗诉，但认为对肇某、金某全案行为均应以贪污罪定罪处罚，即支持抗诉意见不仅与抗诉意见不同，还改变了起诉书指控的罪名，且对抗诉机关未抗诉的同案被告人金某提出适用重罪定罪处罚的意见。首先，我国实行两审终审制度，上一级检察院在抗诉期满后改变下级检察院原起诉罪名提出支持抗诉意见，如果二审法院予以采纳，则意味着被告人对改变的罪名仅获得一次辩护机会，相当于变相剥夺其上诉权。其次，我国刑事诉讼制度规定的一审案件抗诉启动权在同级检察院，上一级检察院在抗诉期间内认为下级检察院应当抗诉，可以指令下级检察院提出抗诉，而不能直接代替下级检察院提出抗诉。在抗诉期限内，上一级检察院可以通过支持、撤回或者指令抗诉的方式对下级检察院提出的抗诉进行监督、指导，但抗诉期满，抗诉机关仅针对部分被告人的判决提出抗诉，上一级检察院提出将其他被告人的判决也列为抗诉范畴，不符合《最高人民检察院关于加强和改进刑事抗诉工作的意见》的相关规定。最后，根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》（以下简称《刑事诉讼法司法解释》）的相关规定，人民检察院只对部分被告人的判决提出抗诉的，第二审人民法院不得对其他同案被告人加重刑罚。本案中抗诉机关仅对肇某的判决提出抗诉，未对同案被告人金某的判决提出抗诉，二审法院不得加重金某的刑罚。\n3.关于肇某在王某等7户拆迁补偿过程中实施的行为、金某涉案行为是否构成贪污罪。法院审理认为，作为贪污罪结果的非法占有公共财物，可以是特定身份人员独自占有，也可以是与他人共同占有，还可能是由他人占有，但“他人占有”应以特定身份人员具有非法占有之目的为前提并依其意愿转移、处置财物归属他人的情形，才能视为贪污罪的非法占有。结合本案所涉事实，客观上，全部拆迁款确由所涉村民占有，现有证据不能证实肇某、金某与村民就拆迁补偿的分配进行了犯意联络，也不能证实肇某与金某为此进行了犯意联络，亦不能证实存在肇某、金某自愿将个人占有部分处置给村民的情形，故因二被告人不具有非法占有公共财物之故意，对其相关行为不能认定为贪污犯罪。\n【（2013）沪二中刑终字第145号】：法院生效裁判认为，本案争议焦点为被告人陆某是否具有非法占有目的。陆某向被害人隐瞒根本无法履行合同的事实，将同一工程同时发包给三名被害人，合同履行时间、期限相近，工程地点、承包范围和价款相同。陆某在签订合同并收取工程保证金、定金后，未按约定安排被害人进场施工，在被害人多次催促后以种种理由进行拖延，没有任何实质性的履约行为。在合同不能履行，被害人多次向陆某催讨钱款的情形下，陆某没有采取任何有效途径阻止和减少被害人的损失，并逃匿。据此，应认定陆某具有非法占有他人财产的主观目的，对其行为应按照合同诈骗罪定罪惩处。故一审、二审作出如上裁判。"
+          }
+        },
+        "目标": "请求法院判处被告人武某无罪或免于刑事处罚",
+        "询问": "1.被告人武某，你当时从账外资金中支取6万元时，是否明确告知会计齐某这笔款项将用于个人承包土地的育苗费用？请具体说明当时与齐某的对话内容。\n\n2.你在个人账户中存有5万余元存款的情况下，为何选择从单位账外资金中支取款项用于个人承包土地的育苗费用？请说明当时的资金周转情况和决策过程。\n\n3.你声称这笔资金是临时借用并计划归还，请问你具体制定了哪些还款计划？是否有书面记录或其他证据可以证明你的还款意愿？\n\n4.你作为林场场长，是否了解账外资金的具体来源和性质？你认为这笔资金是否属于严格意义上的公共财物？\n\n5.你用于支付育苗费用的资金，是否与林场的业务工作存在关联？请具体说明这些育苗项目与林场工作之间的关系。\n\n6.在支取这笔资金后，你为何没有及时办理相关借款手续？请说明具体原因，特别是关于齐某被刑事拘留对你办理手续的影响。\n\n7.你作为国家工作人员，在支取单位资金时是否考虑过相关财务制度和法律规定？请说明你当时的认识和判断。\n\n8.你家属退缴的6万元款项，资金来源是什么？这是否可以证明你具有还款能力？\n\n9.你在担任林场场长期间，是否有过类似支取单位资金用于个人用途的情况？如果有，请说明具体情况和后续处理结果。\n\n10.你对自己行为的性质有何认识？你认为这是否构成贪污行为？请说明你的看法和理由。"
+      },
+      "被告人": {
+        "策略": "防御策略：1.强调武某系临时借用资金，主观上无非法占有故意，且有归还意愿和还款能力（个人账户有5万余元存款）2.说明资金实际用于单位相关育苗工作，具有公务性质，并非纯粹个人支出3.指出账外资金性质特殊，不属于严格意义上的公共财物4.提出证人证言存在矛盾，特别是关于资金用途和手续办理的陈述不一致5.强调家属已全额退缴款项，未造成实际损失6.说明武某系初犯，长期担任公职表现良好",
+        "记忆": "",
+        "目标": "请求法院判处被告人武某无罪或免于刑事处罚"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人武某是否具有贪污罪的主观故意。公诉人通过证人证言和账目记录证明武某将公款用于个人承包项目且未办理手续；辩护人主张武某系临时借用且有归还意愿。审判长认为需结合资金使用去向和归还情况进一步查明。\n\n2.涉案6万元账外资金的性质认定。双方均认可该资金属于单位公共财物，但对管理规范性和使用目的存在争议。审判长认为资金性质已明确，但需关注账外资金管理漏洞问题。\n\n3.被告人行为应定性为贪污罪还是挪用公款罪。公诉人主张构成贪污罪；辩护人未明确主张但强调临时借用特征。审判长认为需结合主观故意和客观行为表现进一步区分。\n\n4.被告人退缴全部赃款的情节对量刑的影响。双方均认可该情节，但对从轻幅度存在分歧。审判长认为该情节确属从轻处罚事由，具体幅度需综合全案情况判定。\n\n5.单位账外资金管理不规范是否影响责任认定。被告人主张系单位惯例；公诉人认为不能免除个人责任。审判长认为管理漏洞不能成为免责理由，但可能影响主观恶性评价。\n\n6.苗木培育项目的实际性质及资金用途。被告人坚称用于单位需要；公诉人提供相反证据。审判长认为该焦点需结合苗木去向和单位账目进一步核实。\n\n7.被告人未办理借款手续的主观意图。被告人解释为工作疏忽；公诉人认为系刻意规避监管。审判长认为需结合单位财务管理惯例综合判断。\n\n8.四个月未还款期间被告人的主观状态变化。被告人称系客观原因导致；公诉人认为反映非法占有故意。审判长认为该期间行为表现对定性具有重要参考价值。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十四条",
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第六十八条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十四条": "国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪，处五年以下有期徒刑或者拘役；情节严重的，处五年以上有期徒刑。挪用公款数额巨大不退还的，处十年以上有期徒刑或者无期徒刑。挪用用于救灾、抢险、防汛、优抚、扶贫、移民、救济款物归个人使用的，从重处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第六十八条": "犯罪分子有揭发他人犯罪行为，查证属实的，或者提供重要线索，从而得以侦破其他案件等立功表现的，可以从轻或者减轻处罚；有重大立功表现的，可以减轻或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "贪污罪与挪用公款罪在司法实践中的区分标准",
+              "账外资金的性质认定在贪污案件中的影响",
+              "国家工作人员利用职务便利临时借用公款后归还的行为定性",
+              "贪污案件中退赃情节对量刑的影响程度"
+            ],
+            "贪污罪与挪用公款罪在司法实践中的区分标准": "### 结论\n贪污罪与挪用公款罪在司法实践中的区分主要在于行为人主观上是否具有非法占有公共财物的目的，以及行为方式上是否存在隐瞒、掩盖侵吞公款的行为。挪用公款罪的行为人通常有归还公款的意图，而贪污罪的行为人则意图将公款据为己有，不准备归还。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观目的**：行为人是否具有非法占有公共财物的目的。例如，【（2019）川1824刑初47号】中，被告人杨某将公款用于个人挥霍和支付分手费等开支，且无归还公款的行为，法院认定其主观上具有非法占有的目的，构成贪污罪。\n- **行为方式**：行为人是否采取了隐瞒、掩盖侵吞公款的行为。如【（2019）川1824刑初47号】中，被告人杨某采取销毁真实凭证、以修改后的银行对账单平账，使所窃取的公款在单位财务账目上难以反映出来，法院认定其行为构成贪污罪。\n- **归还能力与意愿**：行为人是否具有归还公款的能力和意愿。如【（2019）湘07刑终117号】中，张帮华在案发后积极退赃，法院认定其挪用公款罪，但未认定其具有非法占有的目的，因此未构成贪污罪。\n- **公款性质与控制**：公款是否属于国家财产，以及行为人是否实际控制了公款。如【（2015）鄂新洲刑初字第00240号】中，周丽萍挪用的公款具有公款的性质，且其实际控制了公款，法院认定其构成挪用公款罪。\n\n综上，区分贪污罪与挪用公款罪的关键在于行为人的主观目的、行为方式、归还能力与意愿以及公款的性质与控制。如果行为人具有非法占有的目的，采取了隐瞒、掩盖侵吞公款的行为，且无归还公款的意愿或能力，通常会被认定为贪污罪。反之，如果行为人有归还公款的意愿和能力，且未采取隐瞒、掩盖侵吞公款的行为，通常会被认定为挪用公款罪。\n\n#####\n类似案件为：\n【（2019）湘07刑终117号】：法院认为，张帮华挪用星城公交公司公款300万元，构成挪用公款罪；张帮华与谭维林勾结，利用谭的职务便利，骗取国家燃油补贴，构成贪污罪。张帮华不具有自首情节。法院判决张帮华犯挪用公款罪，判处有期徒刑五年；犯贪污罪，判处有期徒刑三年六个月，并处罚金人民币三十万元。决定执行有期徒刑七年，并处罚金人民币三十万元。犯罪所得60.7377万元，予以没收，上缴国库。\n【（2015）鄂新洲刑初字第00240号】：法院认为，周丽萍身为公司工作人员，利用职务便利，侵吞单位公款40万元，数额巨大，构成职务侵占罪；身为村基层组织工作人员，在协助政府从事土地征收费用管理时，挪用公款2500万元进行营利活动，构成挪用公款罪。周丽萍在纪委采取“两规”措施期间，主动交代未被掌握的犯罪事实，视为自首，依法减轻处罚。周丽萍挪用公款时间短且未脱离银行监控，主观恶性较小，案发后退出全部赃款，具有从轻处罚情节。一、被告人周丽萍犯职务侵占罪，判处有期徒刑三年；犯挪用公款罪，判处有期徒刑四年六个月；决定执行有期徒刑五年六个月。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年1月9日起至2020年7月8日止。）\n二、对被告人周丽萍违法所得人民币426，263.89元（其中423，906.78元未随案移送）依法予以追缴，上缴国库。",
+            "账外资金的性质认定在贪污案件中的影响": "### 结论\n账外资金的性质认定在贪污案件中具有重大影响，关键在于判断账外资金是否属于单位控制下的“小金库”，以及被告人是否具有非法占有的主观故意和客观行为。对于确实用于单位开支且资金去向难以查清的，不宜直接计入贪污犯罪数额，而应以证据证明的个人非法占有的金额来认定。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定了职务侵占罪的构成要件，即利用职务上的便利，将本单位财物非法占为己有，数额较大的行为。\n- **《中华人民共和国刑法》第三百八十二条**：规定了贪污罪的构成要件，即国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **账外资金的性质**：法院认为，账外资金是否属于单位控制下的“小金库”是关键。例如，【（2018）川01刑终677号】中，法院认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。\n- **被告人主观故意**：法院强调，被告人是否具有非法占有的主观故意是认定贪污罪的关键。例如，【（2018）川01刑终677号】中，法院认为被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物。\n- **资金的使用去向**：对于确实用于单位开支，资金去向难以查清的，不宜直接计入贪污犯罪数额。例如，【（2018）川01刑终677号】中，法院认为对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。\n\n综上，账外资金的性质、被告人主观故意以及资金的使用去向是判断贪污罪与职务侵占罪的关键因素，法院在审理此类案件时会综合考虑这些因素，以准确界定犯罪性质和犯罪数额。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。",
+            "国家工作人员利用职务便利临时借用公款后归还的行为定性": "### 结论\n国家工作人员利用职务便利临时借用公款后归还的行为，是否构成挪用公款罪，主要取决于借用公款的数额、用途、归还时间以及是否造成经济损失等因素。如果数额较大，超过三个月未还，或用于营利活动，即使最终归还，也可能构成挪用公款罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十四条**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **借用公款的数额**：如果数额较大，即使最终归还，也可能构成挪用公款罪。例如，【（2011）第224号】中，被告人胡某某挪用公款54184.88元，超过三个月未还，构成挪用公款罪。\n- **借用公款的用途**：如果用于营利活动，即使最终归还，也可能构成挪用公款罪。例如，【（2012）一中刑终字第4465号】中，被告人马某将挪用的公款用于偿还债务，进行营利活动，构成挪用公款罪。\n- **归还时间**：如果超过三个月未还，即使最终归还，也可能构成挪用公款罪。例如，【（2017）苏0282刑初1434号】中，被告人蒋某挪用公款超过三个月未还，构成挪用公款罪。\n- **是否造成经济损失**：如果未造成经济损失，可能作为从轻处罚的考量因素。例如，【（2011）第224号】中，被告人胡某某在检察机关侦查期间全部退缴挪用款项，未造成经济损失，法院予以从轻处罚。\n\n综上，国家工作人员利用职务便利临时借用公款后归还的行为，是否构成挪用公款罪，主要看是否满足上述关键因素。如果满足，即使最终归还，也可能构成犯罪。",
+            "贪污案件中退赃情节对量刑的影响程度": "### 结论\n在贪污案件中，退赃情节对量刑的影响程度显著，尤其是当被告人能够主动退赃、如实供述罪行、真诚悔罪时，法院通常会考虑减轻处罚。然而，退赃的时间点、退赃的主动性以及是否配合调查等因素，都会影响退赃情节在量刑中的作用。对于较轻的贪污犯罪，退赃可能带来从轻、减轻甚至免除处罚的可能；而对于较严重的贪污犯罪，退赃虽不能免除处罚，但可以作为从轻处罚的依据。\n\n### 核心法条\n- **《中华人民共和国刑法》第382条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第383条第一款第（二）项**：贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第67条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第64条**：犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款**：贪污或者受贿数额在二十万元以上不满三百万元的，应当认定为刑法第三百八十三条第一款规定的“数额巨大”，依法判处三年以上十年以下有期徒刑，并处罚金或者没收财产。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十八条**：贪污贿赂犯罪分子违法所得的一切财物，应当依照刑法第六十四条的规定予以追缴或者责令退赔，对被害人的合法财产应当及时返还。对尚未追缴到案或者尚未足额退赔的违法所得，应当继续追缴或者责令退赔。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃的时间和主动性**：法院通常会考虑被告人是否在案发前主动退赃，如【（2014）娄中刑二终字第113号】中，胡三佰在案发前主动退清全部赃款，被认定为自首，依法可以从轻、减轻处罚或者免除处罚。\n- **退赃与自首的结合**：如【（2015）西刑初字第910号】中，李某某虽有自首情节，但因其有赌博前科和再次侵吞公款的主观恶性，法院在量刑时虽考虑自首和退赃情节，但未宣告缓刑。\n- **退赃与犯罪情节的综合考量**：如【（2021）黑0605刑初14号】中，张金坤因具有自首、全部退赃、认罪认罚等情节，法院在量刑时予以综合考量，适用缓刑。\n- **退赃与犯罪数额的关系**：根据《刑法修正案（九）》第四十四条，对于不同犯罪数额的贪污犯罪，退赃带来的从宽处罚幅度不同，较轻的贪污犯罪退赃可能带来更大幅度的从宽处罚。\n\n综上，退赃情节在贪污案件中的量刑影响程度，不仅取决于退赃的主动性、时间点，还与犯罪的严重程度、自首情节、认罪态度等综合因素相关。\n\n#####\n类似案件为：\n【（2014）娄中刑二终字第113号】：法院认为，胡三佰协助国家工作人员利用职务之便，骗取国家家电下乡补贴款，构成贪污罪，且数额特别巨大；以非法占有为目的，虚构事实，骗取国家家电下乡补贴款，构成诈骗罪。在贪污共同犯罪中系从犯，依法予以减轻处罚；有部分贪污款未发放到位，系犯罪未遂，依法可以比照既遂犯从轻处罚；在诈骗犯罪案发前已主动退清全部赃款，如实供述诈骗犯罪事实，可认定为自首，依法可以免除处罚；到案后如实供述贪污犯罪事实，依法可从轻处罚；一人犯数罪，依法应当数罪并罚。胡三佰犯贪污罪，判处有期徒刑五年；犯诈骗罪，免除处罚。数罪并罚，决定执行有期徒刑五年。\n【（2021）黑0605刑初14号】：法院认为，被告人张金坤以非法占有为目的，以虚构事实、隐瞒真相的手段骗取他人财物，数额较大，其行为已构成诈骗罪。鉴于张金坤自首、认罪认罚、全部退赃、退赔等情节，建议量刑适当，适用缓刑不致再危害社会，对其所居住的社区无重大不良影响。法院判决被告人张金坤犯诈骗罪，判处有期徒刑一年零五个月，宣告缓刑二年，并处罚金人民币三万五千元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.强调被告人武某作为国家工作人员，利用职务便利指使会计从单位账外资金中支取6万元用于个人承包项目，且未办理任何借款手续，主观上具有非法占有的故意。\n2.指出被告人所称\"临时借用\"不成立，因其长达4个月未归还，且仅在案发后由家属退缴，证明其无还款意愿。\n3.反驳被告人关于资金用于单位育苗的说法，指出无任何单位账目记录证明苗木交付，且其他同事办理类似业务均走正规手续。\n4.强调账外资金虽管理不规范，但仍属公共财物，被告人行为符合贪污罪构成要件。\n\n防御策略：\n1.坚持证据链完整，包括银行交易明细、账外资金票据等书证及20名证人证言，证明被告人侵吞公款事实。\n2.强调所有证据收集程序合法，书证均经相关单位盖章确认，证人证言经检察机关核实。\n3.指出被告人供述与辩解存在矛盾，其声称用于单位育苗但无法提供任何交付记录或单位账目证明。\n4.依据《刑法》第382条及司法解释，说明被告人行为符合贪污罪构成要件，且退赃情节已在量刑建议中体现从轻处罚。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利挪用账外资金用于个人项目是否构成贪污罪？",
+              "贪污案件中被告人退缴全部赃款对量刑的影响"
+            ],
+            "国家工作人员利用职务便利挪用账外资金用于个人项目是否构成贪污罪？": "### 结论\n国家工作人员利用职务便利挪用账外资金用于个人项目，如果主观上具有非法占有的故意，客观上实施了侵吞、窃取、骗取或者以其他手段非法占有公共财物的行为，且数额较大，可以构成贪污罪。如果主观上没有非法占有的故意，只是暂时挪用公款归个人使用，进行营利活动或超过三个月未还，可以构成挪用公款罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：如果行为人主观上具有非法占有的故意，即意图永久性地剥夺单位的财产，那么其行为可能构成贪污罪。例如，【（2023）鲁14刑终10号】中，杜某某挪用公款后，采取虚假单据平账等手段，使所挪用的公款难以在单位财务账目上反映出来，且在相关公司归还本金及利息后，再次出借给他人或为子女购买房产，没有归还行为，表明其主观上具有非法占有的故意。\n- **挪用资金的用途**：如果挪用的资金用于个人营利活动或超过三个月未还，可能构成挪用公款罪。例如，【（2018）苏02刑终55号】中，钱某甲、钱某乙挪用公款帮助亲友完成银行揽储任务或购置房产，虽未从中获取利益，但因数额较大，超过三个月未还，构成挪用公款罪。\n- **归还情况**：如果挪用的资金在案发前已全部归还，可以作为量刑时的从轻情节考虑。例如，【（2016）兵1101刑初20号】中，李某在案发前已将挪用的资金全部退还，法院在量刑时予以从轻处罚。\n- **行为人的身份**：如果行为人是国家工作人员或受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，其利用职务便利实施的犯罪行为可能构成贪污罪或挪用公款罪。例如，【（2017）苏0322刑初843号】中，石善华身为国家工作人员，利用职务便利挪用公款归个人使用，构成挪用公款罪。\n\n综上，国家工作人员利用职务便利挪用账外资金用于个人项目，其是否构成贪污罪或挪用公款罪，关键在于行为人的主观故意、挪用资金的用途、归还情况以及行为人的身份。如果主观上具有非法占有的故意，且实施了侵吞、窃取、骗取或者以其他手段非法占有公共财物的行为，构成贪污罪；如果只是暂时挪用公款归个人使用，进行营利活动或超过三个月未还，构成挪用公款罪。\n\n#####\n类似案件为：\n【（2018）苏02刑终55号】：法院生效裁判认为：1.本案所涉资金系江阴市某供销合作社的国有资产，被告人钱某甲、钱某乙不可为帮助他人完成储蓄任务而以个人名义存入银行，即以此方式加以挪用。换言之，钱某甲、钱某乙为帮助他人完成揽储任务而以个人名义将公款存入银行属于挪用公款归个人使用的一种方式，而钱某乙即使经钱某甲同意也无权且不可将国有资金挪用归个人使用用于购房。2.本案所涉资金的用途为帮助他人完成揽储任务或者帮助亲属购买房屋，现有证据不足以证明钱某甲、钱某乙在帮助他人完成揽储任务过程中将利息据为己有或者获取其他收益，亦不足以证明钱某乙通过炒房获利，故不能认定钱某甲、钱某乙挪用公款进行营利活动。3.钱某甲、钱某乙的行为属于挪用公款归个人使用，但起诉书指控的11笔所挪用的款项均已归还，其中第1-6笔、第9-11笔挪用时间为1天至30余天不等，均未超过三个月即归还，不应以挪用公款罪论处，可作为量刑情节考虑，而针对第7笔、第8笔分别共同挪用公款100万元、38万元，超过三个月未还，二被告人的行为符合挪用公款罪的构成要件，且其二人在此过程中地位、作用相当，不宜区分主从犯。4.钱某甲、钱某乙挪用公款数额较大，超过三个月未还，具有刑事违法性，但综合考虑二被告人挪用公款的时间、数额、使用方式以及挪用过程中的风险防控行为、挪用后的归还行为，可予以从轻处罚。5.办案机关在经初查掌握钱某甲、钱某乙犯罪事实基础上电话通知其二人到案接受调查，到案后二被告人均如实供述，但其到案情形不符合自首的法律规定。\n综上，钱某甲、钱某乙作为国有企业中从事公务的人员，应当以国家工作人员论，利用职务上的便利，挪用公款归个人使用，数额较大，超过三个月未还，二被告人的行为均确已构成挪用公款罪，系共同犯罪。钱某甲、钱某乙归案后如实供述自己的罪行，所挪用的公款已退还，予以从轻处罚。根据钱某甲、钱某乙的犯罪情节、悔罪表现，没有再犯罪的危险，宣告缓刑对其所居住社区没有重大不良影响，依法可以宣告缓刑。\n【（2017）苏0322刑初843号】：法院认为，石善华身为国家工作人员，挪用公款归个人使用，构成挪用公款罪；非法收受他人财物，为他人谋取利益，构成非国家工作人员受贿罪；侵吞基层组织财物，构成职务侵占罪。石善华犯数罪，应数罪并罚。石善华在挪用公款罪中构成自首，在非国家工作人员受贿罪和职务侵占罪中构成坦白，且已退缴全部赃款，决定从轻处罚。一、被告人石善华犯挪用公款罪，判处有期徒刑一年六个月；犯非国家工作人员受贿罪，判处有期徒刑十个月；犯职务侵占罪，判处有期徒刑十个月。决定执行有期徒刑二年六个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年3月3日起至2019年9月2日止。）\n 二、被告人石善华退缴的赃款依法予以没收，上缴国库。",
+            "贪污案件中被告人退缴全部赃款对量刑的影响": "### 结论\n在贪污案件中，被告人退缴全部赃款通常被视为积极退赃，是量刑时的从轻或减轻处罚情节，但是否适用缓刑需综合考虑犯罪数额、自首、立功、认罪认罚态度、社会危害性及再犯可能性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条第一款**：规定了贪污罪的量刑标准，其中退缴全部赃款可作为从轻处罚的情节。\n- **《中华人民共和国刑法》第六十七条第一款**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：规定了立功可以从轻或减轻处罚。\n- **《中华人民共和国刑事诉讼法》第二百零一条**：规定了认罪认罚从宽制度。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退缴全部赃款**：被视为积极退赃，是量刑时的从轻或减轻处罚情节。例如，【（2020）桂14刑终26号】中，被告人陈某萃主动退回全部赃款，法院认为这可作为减轻处罚的量刑情节，但不能作为适用缓刑的依据。\n- **自首**：主动向单位或司法机关投案，如实供述自己的罪行，可视为自首，依法可以从轻或减轻处罚。例如，【（2020）桂14刑终26号】、【（2019）鄂1002刑初567号】中，被告人陈某萃和朱美华均因自首而获得从轻处罚。\n- **立功**：在被羁押期间协助侦破其他案件，可视为立功，依法可以从轻或减轻处罚。例如，【（2020）桂14刑终26号】中，陈某萃在被羁押期间协助侦破一起重大案件，被认定为立功。\n- **认罪认罚**：从接受调查之日起认罪、认罚，有悔罪表现，依法可以从宽处罚。例如，【（2020）桂14刑终26号】、【（2019）鄂1002刑初567号】中，被告人陈某萃和朱美华均因认罪认罚而获得从宽处罚。\n- **缓刑适用**：退缴全部赃款、自首、立功、认罪认罚等情节，可以作为适用缓刑的考量因素，但需综合考虑犯罪数额、社会危害性及再犯可能性。例如，【（2015）朗刑初字第5号】中，被告人刘桂某因认罪态度好、积极退赃、自首等情节，被判处缓刑。\n\n综上，退缴全部赃款是量刑时的重要考量因素，但是否适用缓刑需综合考虑犯罪情节、自首、立功、认罪认罚态度等多方面因素。\n\n#####\n类似案件为：\n【（2019）鄂1002刑初567号】：法院认为，被告人朱美华身为公司工作人员，利用职务便利将本单位财物非法占为己有，数额较大，构成职务侵占罪。鉴于朱美华自动投案，如实供述，属自首，积极退缴全部赃款，自愿认罪认罚，依法可以从轻处罚。辩护人提出的辩护意见与事实相符，予以采纳。公诉机关的量刑建议合理，予以采纳。一、被告人朱美华犯职务侵占罪，判处有期徒刑一年十个月，缓刑二年。\n（缓刑考验期限，从本判决确定之日起计算。）\n二、被告人朱美华退缴的赃款人民币61.2029万元依法予以没收，由荆州市沙市区人民检察院上缴国库。\n【（2019）鄂1002刑初567号】：法院认为，被告人朱美华身为公司工作人员，利用职务便利将本单位财物非法占为己有，数额较大，构成职务侵占罪。鉴于朱美华自动投案，如实供述，属自首，积极退缴全部赃款，自愿认罪认罚，依法可以从轻处罚。辩护人提出的辩护意见与事实相符，予以采纳。公诉机关的量刑建议合理，予以采纳。一、被告人朱美华犯职务侵占罪，判处有期徒刑一年十个月，缓刑二年。\n（缓刑考验期限，从本判决确定之日起计算。）\n二、被告人朱美华退缴的赃款人民币61.2029万元依法予以没收，由荆州市沙市区人民检察院上缴国库。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的证据无法充分证明武某具有非法占有的主观故意，仅能证明资金使用事实2.账外资金性质特殊，不属于严格意义上的公共财物3.证人证言存在矛盾，特别是关于资金用途和手续办理的陈述不一致\n\n防御策略：1.武某系临时借用资金，且有归还意愿和还款能力（个人账户有5万余元存款）2.资金实际用于单位相关育苗工作，具有公务性质3.家属已全额退缴款项4.武某系初犯，且长期担任公职表现良好",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员临时借用单位资金但未办理手续是否构成贪污罪",
+              "账外资金的性质认定及贪污罪构成要件"
+            ],
+            "国家工作人员临时借用单位资金但未办理手续是否构成贪污罪": "### 结论\n国家工作人员临时借用单位资金但未办理手续，是否构成贪污罪，关键在于其是否具有非法占有的主观故意和客观上是否实施了侵吞、窃取、骗取或以其他手段非法占有公共财物的行为。如果仅仅是临时借用，且有归还的意图和行为，通常不构成贪污罪，可能构成挪用公款罪或职务侵占罪，具体取决于主体身份和资金性质。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：是否具有非法占有的主观故意是区分贪污罪与挪用公款罪的关键。例如，【（2016）沪0115刑初65号】中，法院认为被告人崔某主观上不具备永久性占有资金的犯罪故意，而是基于侥幸心理挪用资金，因此认定为挪用资金罪。\n- **资金性质和使用目的**：资金是否属于公共财物，以及借用资金的目的是用于个人消费还是单位事务，也会影响定性。例如，【（2016）苏07 刑终252号】中，被告人王某川收取的款项虽为国家规费，但因其不具有管理、经营等职务，不属于受委派、聘任从事公务的人员，故以职务侵占罪定罪。\n- **归还行为**：是否有归还行为，以及归还的时间和方式，是判断是否构成贪污罪的重要因素。例如，【（2016）沪0115刑初65号】中，被告人崔某通过借新债还旧债的方式，虽然暂时性弥补了单位账目上的亏空，但最终未归还的款项被认定为挪用资金罪。\n\n综上，国家工作人员临时借用单位资金但未办理手续，是否构成贪污罪，主要看其是否具有非法占有的主观故意，资金的性质，以及是否实施了归还行为。如果只是临时借用，且有归还意图和行为，通常不构成贪污罪，可能构成挪用公款罪或职务侵占罪，具体取决于主体身份和资金性质。\n\n#####\n类似案件为：\n【（2016）沪0115刑初65号】：法院生效判决认为，本案的争议焦点主要在两个方面：一是被告人崔某的主体身份是否能够认定为国家工作人员？二是被告人崔某冒用借调所在单位的名义对外借款归个人使用且在案发前未归还的行为，构成何种犯罪？\n（一）被告人崔某主体身份的认定\n《刑法》第93条规定：“本法所称国家工作人员，是指国家机关中从事公务的人员。国有公司、企业、事业单位、人民团体中从事公务的人员和国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员，以及其他依照法律从事公务的人员，以国家工作人员论。”本案中，被告人崔某系由国有公司（中建某局）借调到社会团体（某协会）的工作人员，由于某协会系非营利性行业性社会团体法人且其运作资金也主要来源于会员缴纳的会费，不具备国家机关的属性，所以被告人崔某在某协会中的职务身份不符合在国家机关从事公务人员的规定。对于其主体身份的认定就需要判断其是否符合刑法第93条中关于“国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员”的规定。\n1.关于借调行为的性质。借调指的是被借调的人员由原机构或单位暂时“借”到其他机构或单位任职，以执行指定的工作，借调虽然并非一种正式的人事制度，但是在实践中却是普遍存在的人员流动方式。借调与正式的调任不同，借调人员的人事关系和工资福利待遇仍保留在原单位之中，并且通常情况下，借调期满后除非办理正式调动手续，否则借调人员仍须返回原单位工作。所以在本案中，由于尚未办理正式调动手续，且在案证据也显示，被告人的工资福利、组织关系仍挂靠在中建某局，从劳动关系的角度来看，被告人崔某仍属于中建某局的员工。因此，对于被告人崔某主体身份的判断需要参照是否符合受委派从事公务的特征。《全国法院审理经济犯罪案件座谈会纪要》（以下简称《纪要》）将委派界定为委任、派遣，并对其形式进行了不完全列举，即包括任命、指派、提名、批准等，这其中并不包括借调。这些列举的任命、指派、提名、批准等方式的词性均具有一定的管理性和权力性的韵味，体现出在委派关系中，委派单位和被委派人员就委派活动之间所具有的一定的强制性的管理关系。本案中所涉及的借调关系不能认定为刑法意义上的委派。从被告人与其原单位的关系来看，中建某局对于此次人员借调既没有党政部门进行研究讨论的会议纪要，也没有组织人事部门出具的任免文件，在形式上缺乏认定委派行为的程序要件；从被告人原单位与借调单位的关系来看，根据某协会的章程规定，秘书处的工作人员可以由会员单位推荐，所以被告人原所属的国有公司中建某局对于某协会人员的任用，仅有推荐的权利，而无决定委派的权力，而且在实际运行层面，中建某局作为一个会员单位，其在协会中并没有具体的需要管理的公务，更不可能也没有必要专门委派一名人员代表其在协会中从事组织、领导、监督、管理的公务性工作；从被告人在某协会的职务任命程序上来看，某协会的副秘书长由协会会员大会按照章程选举产生，不需要报协会登记管理机关和行业主管部门批准或任命。\n2.关于被告人崔某的工作职责不具有公务性。被告人崔某的工作职责是不具备公务性。《纪要》中规定对于从国有公司委派到社会团体的人员认定其从事公务人员有两个判断标准：其一是与职权相联系的公共事务，其二是监督管理国有财产的职务活动。在本案中，首先从上海市某行业协会的属性来分析，根据某协会章程反映，该协会系上海市某行业同业企业单位联合组建的非营利性的行业性社团法人，工作重点是维权服务，所以某协会的属性更多偏向于为行业内企业服务，例如组织业务培训和会员交流联络、提供咨询服务、进行评优评奖等，不具有公共管理属性；并且被告人作为某协会的副秘书长，其工作职责主要是负责协会内部管理，不具有对外性的属性，不符合公共性的特征，不宜认定为国家工作人员。其次，该协会的运行经费绝大部分来源于会员所缴纳的会费，并无财政拨款，所以其也不具有监督管理国有财产的权利和义务。此外，根据《纪要》认定被委派人员从事公务指的是其代表国有公司在社会团体中从事组织、领导、监督、管理等工作。这条规定预设的前提即国有公司对于相应的社会团体具有包括组织、领导、监督、管理等在内的一定的管理权能。但是从本案的实际来看，中建某局与某协会之间并无这样的权力划分关系，事实上中建某局只不过是该协会的会员单位之一。根据该协会章程第十三条的规定，会员享有的权利包括“一、本会的选举权、被选举权和表决权；二、参加本会的活动权；三、获得本会服务的优先权；四、对本会工作的知情权、批评建议权和监督权；五、入会自愿、退会自由。”由此可见会员单位对于该协会并不存在管理的权能，进而被告人更不可能凭空产生公务性管理权能。\n综上，根据在案的证据不足以判定被告人崔某系国家工作人员，也不足以判定崔某系受国有公司委派到社会团体中从事公务的人员，宜认定为是非国家工作人员。\n（二）对于被告人崔某冒用协会名义对外借款行为性质的认定\n被告人崔某最初着手实施的犯罪行为是挪用某协会账上的资金用于支付本人的购房款，其后多次利用职务上的便利向他单位借款的目的也都是为了归还挪用款，并且所借得的款项最终都进入到协会的账户之中，用于填补先前挪用单位资金所造成的亏空，这也表明了被告人崔某对于涉案的资金没有永久占有的故意，在犯罪主观方面还是宜就低认定其具有挪用的故意。被告人崔某系非国家工作人员，利用职务上的便利挪用数额较大的本单位资金归个人使用超过三个月未归还，应当认定为挪用资金罪。理由如下：\n1.被告人崔某主观上不具备永久性占有资金的犯罪故意。本案中，被告人崔某在挪用本单位的资金后，又先后三次分别从王某涛、某桥公司以及广某公司处以某协会的名义借得钱款。从被告人虽然采用欺骗的手段、冒用单位的名义借款，但是借得的钱款主要用于归还先前的到期债务，还按照商业惯例支付了部分借款利息，这种借新债还旧债的行为模式反映出被告人主观上并没有侵吞借款的故意，而且在案发前的几次借还款周期都比较短，这些也都反映出被告人希望通过不断的循环借贷，能够弥补上其挪用单位资金所造成的账目上的缺口，其主观上还是基于侥幸的心理，妄图利用涉案单位不甚规范的财务制度，来达到掩饰自己挪用资金的目的。此外对于被告人挪用单位资金购房行为的判断，在本案中，被告人是以半公开的形式多次对外借款以归还协会挪用款，协会账目中的资金缺口一直都存在而没有被刻意的遮盖或隐蔽，通过一般形式的财务核查就能够被发现。所以可以认定被告人对于涉案的资金只有“利用故意”，而没有将资金永久据为己有的“排除故意”。\n2.本案中的被害方应当是某协会。从被告人的行为外观上看，其冒用单位的名义，并采用在借据上加盖某协会公章的形式，使得某桥公司等单位基于错误的认识而出借款项。但是这些单位的借款都通过被告人后续的借款和挪用协会公款得到了偿还。从犯罪的本质来看，保护法益是现代刑法存在的正当性依据，无法益侵害则无犯罪。而从本案中的法益侵害角度来看，被告人先前以虚构事实、隐瞒真相借得的二笔借款（来自于王某涛、某桥公司）都全额予以归还，资金出借方并未遭受实际损失，而第三笔借款方广某公司，由于被告人所具备的某协会副秘书长的身份，以及其利用职务便利在借据上加盖某协会公章的行为，广某公司完全有理由相信某协会向其借款的真实性，这些都使得借款行为符合民法上表见代理的特征。对于依据表见代理关系而产生的债权债务关系，某协会具有偿还的义务，广某公司作为善意一方可以通过双方协商或者民事诉讼的途径要求某协会归还借款，其债权能够得到完整的救济，因此对于广某公司也就不存在法益侵害的现实后果。而纵观本案，最终因为犯罪行为遭受损失的应当是某协会，由于被告人利用职务上的便利，将其个人借款行为蒙上了单位借款的面纱，单位也为此要承担还款的义务。虽然在案发时通过被告人借款平账，某协会在本单位财务账目中并未直接产生资金被挪用的情况，但是其所承担的债务应视为是被告人挪用单位资金行为的延续。\n3.被告人借新债归还旧债的行为系挪用资金行为的延续。虽说从外观上看，被告人四次直接挪用单位账户内的资金后不久（间隔分别为8日、15日、50日、14日）就通过向外借款的方式进行了平账，这几次挪用行为时间较短，单独予以考量乃至进行累加的话都没有达到法律规定的挪用资金超过三个月的入罪标准。所以对于被告人的行为应当从整体上予以判断，对于全案进行综合的分析。不论被告人通过借新债归还旧债的行为循环了多少次，也不论被告人将挪用款项填补某协会财务亏空多少次，其每次填补亏空的行为都是为了后续继续挪用资金做准备。所以单位上的资金始终有部分资金是处于为被告人所挪用的状态。\n首先，从被告人的主观方面来看，被告人为了支付本人的购房款，多次直接从单位账上挪用资金，其间虽然有归还行为，但是从整体上来看，这些归还行为并不是被告人基于真诚悔悟、及时纠偏等善念主动放弃犯罪行为以防止危害结果的发生，而是其为了避免挪用行为被某协会发现而采取的补救措施，其每次还款行为都可以看作是为了下次的挪用做准备的行为，其在案发前都没有停止挪用行为的主观态度和客观行为，可以推断被告人挪用资金的犯罪故意和危害行为一直都在延续。\n其次，从被告人的客观行为来看，被告人通过以建筑的名义对外借款，虽然暂时性的弥补上了某协会账目上的亏空，但是由于单位要对外承担还款义务，这也可以视为是增加了某协会的消极财产，客观上并未减少某协会的财务负担，可以视为某协会的部分财物从第一次挪用（2015年3月17日）开始就始终处于为被告人非法占用的状态，挪用单位资金的情况也一直处于延续的状态之中并没有消除。而且，被告人数次对外借款均是打着某协会的幌子，借款方均是出于对其职务权力的认可才出借资金，所以被告人的犯罪行为具有典型的职务性特征。\n最后，关于本案的危害后果的认定。根据《最高人民法院关于审理挪用公款案件具体应用法律若干问题的解释》第4条的规定“多次挪用公款不还，挪用公款数额累计计算；多次挪用公款，并以后次挪用的公款归还前次挪用的公款，挪用公款数额以案发时未还的实际数额认定。”本案中被告人崔某分四次挪用了直接挪用了某协会的资金，金额分别为350万、360万、86万、360万，以某协会的资金名义对外借款，金额分别为350万、360万、460万，截至案发尚欠广某公司460万元未归还，由于该笔借款时间为2015年7月30日，至案发时（2015年8月19日）尚不满三个月，对于该笔借款依法不能认定为刑罚当罚性层面的挪用资金行为，所以被告人的犯罪金额应认定为是其挪用后超过三个月仍未归还的360万。\n综上，被告人崔某身为某协会工作人员，利用职务上的便利，将本单位资金30万余元非法占为己有，数额较大，其行为已构成职务侵占罪；被告人崔某还利用职务便利，挪用本单位资金360万元归个人使用，数额较大，超过三个月未归还，其行为还构成挪用资金罪。公诉机关指控的事实成立，法院予以支持。对被告人崔某应予两罪并罚。被告人崔某系自首，且退赔了大部分的赃款，对其所犯职务侵占罪及挪用资金罪均依法从轻处罚。\n【（2016）苏07 刑终252号】：法院生效裁判认为，被告人王某川作为交通警察支队聘用人员，被安排在车管所收费大厅负责收费、开票并将钱款缴存上门收款的银行工作人员。被告人王某川所收取款项虽为国家规费，但其对该款项不具有管理、经营等职务，不属于受委派、聘任从事公务的人员，不能以国家工作人员论。因此被告人王某川在收取国家规费的过程中，利用工作便利，侵吞国家财产22.066万元，数额较大，应当以职务侵占罪对其定罪处罚。公诉机关指控被告人王某川犯罪事实清楚，证据确实、充分，但定性错误，依法应予以纠正。被告人王某川虽有主动投案的行为，但归案后未能如实供述自己的犯罪事实，因此其不构成自首。对辩护人提出的被告人王某川具有自首情节的辩护意见不予采纳。庭审中被告人王某川能够自愿认罪，态度较好，量刑时可以酌情从轻处罚。对辩护人提出的与此相同的辩护意见予以采纳。同时辩护人提出的被告人王某川系初犯，主观恶性不大，社会危害性较小，请求酌情从宽处罚及被告人服务单位管理上存在漏洞，请求从轻处罚的辩护意见与本案查明事实不符，对上述辩护意见不予采纳。被告人王某川归案后对犯罪所得未予退缴，依法应当责令退赔。\n【（2016）沪0115刑初65号】：法院生效判决认为，本案的争议焦点主要在两个方面：一是被告人崔某的主体身份是否能够认定为国家工作人员？二是被告人崔某冒用借调所在单位的名义对外借款归个人使用且在案发前未归还的行为，构成何种犯罪？\n（一）被告人崔某主体身份的认定\n《刑法》第93条规定：“本法所称国家工作人员，是指国家机关中从事公务的人员。国有公司、企业、事业单位、人民团体中从事公务的人员和国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员，以及其他依照法律从事公务的人员，以国家工作人员论。”本案中，被告人崔某系由国有公司（中建某局）借调到社会团体（某协会）的工作人员，由于某协会系非营利性行业性社会团体法人且其运作资金也主要来源于会员缴纳的会费，不具备国家机关的属性，所以被告人崔某在某协会中的职务身份不符合在国家机关从事公务人员的规定。对于其主体身份的认定就需要判断其是否符合刑法第93条中关于“国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员”的规定。\n1.关于借调行为的性质。借调指的是被借调的人员由原机构或单位暂时“借”到其他机构或单位任职，以执行指定的工作，借调虽然并非一种正式的人事制度，但是在实践中却是普遍存在的人员流动方式。借调与正式的调任不同，借调人员的人事关系和工资福利待遇仍保留在原单位之中，并且通常情况下，借调期满后除非办理正式调动手续，否则借调人员仍须返回原单位工作。所以在本案中，由于尚未办理正式调动手续，且在案证据也显示，被告人的工资福利、组织关系仍挂靠在中建某局，从劳动关系的角度来看，被告人崔某仍属于中建某局的员工。因此，对于被告人崔某主体身份的判断需要参照是否符合受委派从事公务的特征。《全国法院审理经济犯罪案件座谈会纪要》（以下简称《纪要》）将委派界定为委任、派遣，并对其形式进行了不完全列举，即包括任命、指派、提名、批准等，这其中并不包括借调。这些列举的任命、指派、提名、批准等方式的词性均具有一定的管理性和权力性的韵味，体现出在委派关系中，委派单位和被委派人员就委派活动之间所具有的一定的强制性的管理关系。本案中所涉及的借调关系不能认定为刑法意义上的委派。从被告人与其原单位的关系来看，中建某局对于此次人员借调既没有党政部门进行研究讨论的会议纪要，也没有组织人事部门出具的任免文件，在形式上缺乏认定委派行为的程序要件；从被告人原单位与借调单位的关系来看，根据某协会的章程规定，秘书处的工作人员可以由会员单位推荐，所以被告人原所属的国有公司中建某局对于某协会人员的任用，仅有推荐的权利，而无决定委派的权力，而且在实际运行层面，中建某局作为一个会员单位，其在协会中并没有具体的需要管理的公务，更不可能也没有必要专门委派一名人员代表其在协会中从事组织、领导、监督、管理的公务性工作；从被告人在某协会的职务任命程序上来看，某协会的副秘书长由协会会员大会按照章程选举产生，不需要报协会登记管理机关和行业主管部门批准或任命。\n2.关于被告人崔某的工作职责不具有公务性。被告人崔某的工作职责是不具备公务性。《纪要》中规定对于从国有公司委派到社会团体的人员认定其从事公务人员有两个判断标准：其一是与职权相联系的公共事务，其二是监督管理国有财产的职务活动。在本案中，首先从上海市某行业协会的属性来分析，根据某协会章程反映，该协会系上海市某行业同业企业单位联合组建的非营利性的行业性社团法人，工作重点是维权服务，所以某协会的属性更多偏向于为行业内企业服务，例如组织业务培训和会员交流联络、提供咨询服务、进行评优评奖等，不具有公共管理属性；并且被告人作为某协会的副秘书长，其工作职责主要是负责协会内部管理，不具有对外性的属性，不符合公共性的特征，不宜认定为国家工作人员。其次，该协会的运行经费绝大部分来源于会员所缴纳的会费，并无财政拨款，所以其也不具有监督管理国有财产的权利和义务。此外，根据《纪要》认定被委派人员从事公务指的是其代表国有公司在社会团体中从事组织、领导、监督、管理等工作。这条规定预设的前提即国有公司对于相应的社会团体具有包括组织、领导、监督、管理等在内的一定的管理权能。但是从本案的实际来看，中建某局与某协会之间并无这样的权力划分关系，事实上中建某局只不过是该协会的会员单位之一。根据该协会章程第十三条的规定，会员享有的权利包括“一、本会的选举权、被选举权和表决权；二、参加本会的活动权；三、获得本会服务的优先权；四、对本会工作的知情权、批评建议权和监督权；五、入会自愿、退会自由。”由此可见会员单位对于该协会并不存在管理的权能，进而被告人更不可能凭空产生公务性管理权能。\n综上，根据在案的证据不足以判定被告人崔某系国家工作人员，也不足以判定崔某系受国有公司委派到社会团体中从事公务的人员，宜认定为是非国家工作人员。\n（二）对于被告人崔某冒用协会名义对外借款行为性质的认定\n被告人崔某最初着手实施的犯罪行为是挪用某协会账上的资金用于支付本人的购房款，其后多次利用职务上的便利向他单位借款的目的也都是为了归还挪用款，并且所借得的款项最终都进入到协会的账户之中，用于填补先前挪用单位资金所造成的亏空，这也表明了被告人崔某对于涉案的资金没有永久占有的故意，在犯罪主观方面还是宜就低认定其具有挪用的故意。被告人崔某系非国家工作人员，利用职务上的便利挪用数额较大的本单位资金归个人使用超过三个月未归还，应当认定为挪用资金罪。理由如下：\n1.被告人崔某主观上不具备永久性占有资金的犯罪故意。本案中，被告人崔某在挪用本单位的资金后，又先后三次分别从王某涛、某桥公司以及广某公司处以某协会的名义借得钱款。从被告人虽然采用欺骗的手段、冒用单位的名义借款，但是借得的钱款主要用于归还先前的到期债务，还按照商业惯例支付了部分借款利息，这种借新债还旧债的行为模式反映出被告人主观上并没有侵吞借款的故意，而且在案发前的几次借还款周期都比较短，这些也都反映出被告人希望通过不断的循环借贷，能够弥补上其挪用单位资金所造成的账目上的缺口，其主观上还是基于侥幸的心理，妄图利用涉案单位不甚规范的财务制度，来达到掩饰自己挪用资金的目的。此外对于被告人挪用单位资金购房行为的判断，在本案中，被告人是以半公开的形式多次对外借款以归还协会挪用款，协会账目中的资金缺口一直都存在而没有被刻意的遮盖或隐蔽，通过一般形式的财务核查就能够被发现。所以可以认定被告人对于涉案的资金只有“利用故意”，而没有将资金永久据为己有的“排除故意”。\n2.本案中的被害方应当是某协会。从被告人的行为外观上看，其冒用单位的名义，并采用在借据上加盖某协会公章的形式，使得某桥公司等单位基于错误的认识而出借款项。但是这些单位的借款都通过被告人后续的借款和挪用协会公款得到了偿还。从犯罪的本质来看，保护法益是现代刑法存在的正当性依据，无法益侵害则无犯罪。而从本案中的法益侵害角度来看，被告人先前以虚构事实、隐瞒真相借得的二笔借款（来自于王某涛、某桥公司）都全额予以归还，资金出借方并未遭受实际损失，而第三笔借款方广某公司，由于被告人所具备的某协会副秘书长的身份，以及其利用职务便利在借据上加盖某协会公章的行为，广某公司完全有理由相信某协会向其借款的真实性，这些都使得借款行为符合民法上表见代理的特征。对于依据表见代理关系而产生的债权债务关系，某协会具有偿还的义务，广某公司作为善意一方可以通过双方协商或者民事诉讼的途径要求某协会归还借款，其债权能够得到完整的救济，因此对于广某公司也就不存在法益侵害的现实后果。而纵观本案，最终因为犯罪行为遭受损失的应当是某协会，由于被告人利用职务上的便利，将其个人借款行为蒙上了单位借款的面纱，单位也为此要承担还款的义务。虽然在案发时通过被告人借款平账，某协会在本单位财务账目中并未直接产生资金被挪用的情况，但是其所承担的债务应视为是被告人挪用单位资金行为的延续。\n3.被告人借新债归还旧债的行为系挪用资金行为的延续。虽说从外观上看，被告人四次直接挪用单位账户内的资金后不久（间隔分别为8日、15日、50日、14日）就通过向外借款的方式进行了平账，这几次挪用行为时间较短，单独予以考量乃至进行累加的话都没有达到法律规定的挪用资金超过三个月的入罪标准。所以对于被告人的行为应当从整体上予以判断，对于全案进行综合的分析。不论被告人通过借新债归还旧债的行为循环了多少次，也不论被告人将挪用款项填补某协会财务亏空多少次，其每次填补亏空的行为都是为了后续继续挪用资金做准备。所以单位上的资金始终有部分资金是处于为被告人所挪用的状态。\n首先，从被告人的主观方面来看，被告人为了支付本人的购房款，多次直接从单位账上挪用资金，其间虽然有归还行为，但是从整体上来看，这些归还行为并不是被告人基于真诚悔悟、及时纠偏等善念主动放弃犯罪行为以防止危害结果的发生，而是其为了避免挪用行为被某协会发现而采取的补救措施，其每次还款行为都可以看作是为了下次的挪用做准备的行为，其在案发前都没有停止挪用行为的主观态度和客观行为，可以推断被告人挪用资金的犯罪故意和危害行为一直都在延续。\n其次，从被告人的客观行为来看，被告人通过以建筑的名义对外借款，虽然暂时性的弥补上了某协会账目上的亏空，但是由于单位要对外承担还款义务，这也可以视为是增加了某协会的消极财产，客观上并未减少某协会的财务负担，可以视为某协会的部分财物从第一次挪用（2015年3月17日）开始就始终处于为被告人非法占用的状态，挪用单位资金的情况也一直处于延续的状态之中并没有消除。而且，被告人数次对外借款均是打着某协会的幌子，借款方均是出于对其职务权力的认可才出借资金，所以被告人的犯罪行为具有典型的职务性特征。\n最后，关于本案的危害后果的认定。根据《最高人民法院关于审理挪用公款案件具体应用法律若干问题的解释》第4条的规定“多次挪用公款不还，挪用公款数额累计计算；多次挪用公款，并以后次挪用的公款归还前次挪用的公款，挪用公款数额以案发时未还的实际数额认定。”本案中被告人崔某分四次挪用了直接挪用了某协会的资金，金额分别为350万、360万、86万、360万，以某协会的资金名义对外借款，金额分别为350万、360万、460万，截至案发尚欠广某公司460万元未归还，由于该笔借款时间为2015年7月30日，至案发时（2015年8月19日）尚不满三个月，对于该笔借款依法不能认定为刑罚当罚性层面的挪用资金行为，所以被告人的犯罪金额应认定为是其挪用后超过三个月仍未归还的360万。\n综上，被告人崔某身为某协会工作人员，利用职务上的便利，将本单位资金30万余元非法占为己有，数额较大，其行为已构成职务侵占罪；被告人崔某还利用职务便利，挪用本单位资金360万元归个人使用，数额较大，超过三个月未归还，其行为还构成挪用资金罪。公诉机关指控的事实成立，法院予以支持。对被告人崔某应予两罪并罚。被告人崔某系自首，且退赔了大部分的赃款，对其所犯职务侵占罪及挪用资金罪均依法从轻处罚。",
+            "账外资金的性质认定及贪污罪构成要件": "### 结论\n账外资金的性质认定及贪污罪构成要件的关键在于被告人是否具有非法占有公共财物的主观故意，以及是否实施了利用职务便利侵吞、窃取、骗取公共财物的客观行为。对于“小金库”资金，应具体分析其使用情况，若用于单位合法开支，不宜直接计入贪污数额；若用于个人非法占有，则构成贪污罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：法院认为，被告人是否具有非法占有公共财物的主观故意是认定贪污罪的关键。例如，【（2018）川01刑终677号】中，法院认定被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物，具有非法占有的主观故意。\n- **客观行为**：被告人是否实施了利用职务便利侵吞、窃取、骗取公共财物的客观行为。如【（2018）川01刑终677号】中，被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物，实施了客观上的非法占有行为。\n- **“小金库”资金的使用**：对于“小金库”资金的使用情况，若用于单位合法开支，不宜直接计入贪污数额；若用于个人非法占有，则构成贪污罪。【（2018）川01刑终677号】中，法院认为对于确实用于单位开支，资金去向难以查清的，不宜直接计入贪污犯罪数额。\n- **犯罪主体**：是否为国家工作人员或受委托管理、经营国有财产的人员。如【（2012）鄂巴东刑初字第00069号】中，法院认为被告人谭某某的身份不符合贪污罪主体构成要件，其行为构成职务侵占罪。\n\n综上，贪污罪的构成要件包括主观故意、客观行为、资金使用情况以及犯罪主体身份。在认定账外资金性质时，应综合考虑上述因素，判断是否构成贪污罪。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.强调武某系临时借用资金，主观上无非法占有故意，且有归还意愿和还款能力（个人账户有5万余元存款）2.说明资金实际用于单位相关育苗工作，具有公务性质，并非纯粹个人支出3.指出账外资金性质特殊，不属于严格意义上的公共财物4.提出证人证言存在矛盾，特别是关于资金用途和手续办理的陈述不一致5.强调家属已全额退缴款项，未造成实际损失6.说明武某系初犯，长期担任公职表现良好",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人武某是否具有贪污罪的主观故意。公诉人通过证人证言和账目记录证明武某将公款用于个人承包项目且未办理手续；辩护人主张武某系临时借用且有归还意愿，并举证其个人账户有足够还款资金。审判长认为需结合资金实际使用去向和四个月未归还的原因进一步查明。\n\n2.涉案6万元账外资金的使用性质认定。公诉人主张资金实际用于个人经营活动；被告人辩称用于单位育苗工作。审判长认为需核实苗木是否实际交付单位及单位账目是否有相关记录。\n\n3.被告人行为应定性为贪污罪还是挪用公款罪。公诉人主张构成贪污罪；辩护人虽未明确主张但强调临时借用特征。审判长认为需结合四个月未还款期间被告人的行为表现及资金去向进一步区分。\n\n4.账外资金管理不规范对责任认定的影响。被告人主张系单位惯例；公诉人认为不能免除个人责任。审判长认为管理漏洞不能成为免责理由，但可能影响主观恶性评价，需结合单位具体管理情况判断。\n\n5.被告人退缴全部赃款的情节对量刑的影响。双方均认可该情节，但对从轻幅度存在分歧。审判长认为该情节确属从轻处罚事由，具体幅度需综合全案情况判定。\n\n6.四个月未还款期间被告人的主观状态变化。被告人称系工作繁忙和会计被拘导致；公诉人认为反映非法占有故意。审判长认为该期间行为表现对定性具有重要参考价值，需核实客观障碍是否真实存在。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，被告人无异议。辩护人提出供述中\"没有非法占有的意图\"、\"临时借用\"等表述与贪污罪主观要件不符，且资金用于育苗费用与单位工作相关。公诉人反驳称4个月未归还且无借款手续证明无还款意愿，资金用途无单位账目记录。\n\n2. 公诉人出示书证（立案决定书、主体身份证明等），控辩双方均无异议。\n\n3. 公诉人出示育苗合同，辩护人认为与2015年资金使用行为时间跨度大缺乏关联性。公诉人认为证明被告人长期从事个人育苗业务，印证资金用于个人用途。\n\n4. 公诉人出示银行交易明细（齐某、武某账户），辩护人指出武某账户有5万余元存款证明其有还款能力，与\"临时借用\"供述印证。公诉人认为账户余额不能证明还款意愿。\n\n5. 公诉人出示账外资金票据，辩护人认为不能直接证明主观故意，账外资金性质特殊。公诉人强调账外资金仍属公共财物，擅自支取符合贪污要件。\n\n6. 公诉人出示整改意见书，辩护人认为与主观故意无直接关联且形成时间晚于案发。公诉人认为印证账外资金管理问题的一贯性。\n\n7. 公诉人出示退缴凭证，辩护人认为证明积极退赃态度，与非法占有故意矛盾。公诉人认为退赃不影响犯罪构成。\n\n8. 公诉人出示证人证言（候某、齐某等）：\n   - 齐某证言称\"给单位办事\"，辩护人认为与公务用途一致；\n   - 刘某甲证言称\"给单位办事\"，辩护人认为证明公务性质；\n   - 公诉人反驳称无手续且实际用于个人育苗，证明\"给单位办事\"说法不实。\n\n9. 公诉人出示土地承包费支付证言，辩护人认为时间上无法建立直接因果关系。公诉人认为与个人育苗用途相互印证。\n\n10. 公诉人出示张某丙证言，辩护人认为与6万元资金无直接关联。公诉人认为证明被告人同期确有个人育苗支出需求。\n\n11. 辩护人表示无证据需要出示，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十四条": "国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪，处五年以下有期徒刑或者拘役；情节严重的，处五年以上有期徒刑。挪用公款数额巨大不退还的，处十年以上有期徒刑或者无期徒刑。挪用用于救灾、抢险、防汛、优抚、扶贫、移民、救济款物归个人使用的，从重处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "账外资金管理不规范是否影响贪污罪认定？",
+              "挪用公款与贪污罪的主观故意如何区分？",
+              "单位负责人擅自使用账外资金如何定性？"
+            ],
+            "账外资金管理不规范是否影响贪污罪认定？": "### 结论\n账外资金管理不规范对贪污罪的认定有重要影响，关键在于被告人是否具有非法占有公共财物的主观故意和客观行为。即使资金管理不规范，如果被告人利用职务便利，采取秘密手段侵吞公共财物，且数额达到法定标准，仍可构成贪污罪。但若资金确实用于单位开支，且资金去向难以查清，不宜直接计入贪污犯罪数额。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十三条第一款**：贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **账外资金的性质和管理**：账外资金是否属于单位控制下的“小金库”，以及资金的使用是否用于单位开支，对贪污罪的认定有重要影响。其中【（2018）川01刑终677号】、【（2015）亳刑终字第00378号】、【（2013）临刑二终字第164号】，这些案例中，法院认为账外资金的性质和管理方式是判断贪污罪是否成立的关键因素。\n- **被告人主观故意**：被告人是否具有非法占有公共财物的主观故意，是构成贪污罪的必要条件。例如，【（2018）川01刑终677号】提到，被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物，反映了其非法占有的主观故意。\n- **客观行为**：被告人是否实施了利用职务便利采取秘密手段侵吞公共财物的客观行为，是构成贪污罪的另一个必要条件。例如，【（2018）苏1023刑初308号】中，被告人何学高采取收入不入账的手段，将政府公款占为己有，体现了其客观上的贪污行为。\n\n综上，账外资金管理不规范对贪污罪的认定有重要影响，但关键在于被告人是否具有非法占有公共财物的主观故意和客观行为。即使资金管理不规范，如果被告人利用职务便利，采取秘密手段侵吞公共财物，且数额达到法定标准，仍可构成贪污罪。但若资金确实用于单位开支，且资金去向难以查清，不宜直接计入贪污犯罪数额。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2015）亳刑终字第00378号】：法院认为，李某甲在本案中不具有国家工作人员身份，其行为构成职务侵占罪。原判认定贪污罪不当，应予纠正。一、撤销利辛县人民法院（2015）利刑初字第00268号刑事判决；\n二、上诉人（原审被告人）李某甲犯职务侵占罪，判处有期徒刑二年；\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年4月24日起至2016年4月23日止。）\n三、对李某甲违法所得74044.68元予以没收，由扣押机关上缴国库。\n【（2013）临刑二终字第164号】：法院认为，管某利用职务上的便利，将村集体所有的资金借贷给他人进行营利活动，数额较大，其行为构成挪用资金罪。采取收入不记账的方式，将上级财政拨付的村村通工程补助款、计划生育帮扶款占为己有，其行为构成贪污罪。管某有坦白情节，自愿认罪，赃款已全部退缴，依法可对其从轻处罚。一、维持山东省郯城县人民法院（2013）郯刑初字第312号刑事判决对上诉人管某犯贪污罪的定罪和量刑部分。即“被告人管某犯贪污罪，判处有期徒刑一年零六个月。”\n二、撤销山东省郯城县人民法院（2013）郯刑初字第312号刑事判决对上诉人管某犯职务侵占罪的定罪和量刑部分及决定执行的刑期。即“被告人管某犯职务侵占罪，判处有期徒刑三年；决定执行有期徒刑三年零六个月。”\n三、上诉人管某犯挪用资金罪，判处有期徒刑一年零六个月；犯贪污罪，判处有期徒刑一年零六个月；决定执行有期徒刑二年零六个月。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2012年8月27日起至2015年2月26日止。）",
+            "挪用公款与贪污罪的主观故意如何区分？": "### 结论\n挪用公款罪与贪污罪的主观故意区分在于行为人是否具有非法占有公款的目的。挪用公款罪的行为人主观上是为了临时使用公款，有归还的意愿；而贪污罪的行为人主观上是为了将公款据为己有，没有归还的意愿。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观占有目的**：挪用公款罪的行为人主观上是为了临时使用公款，有归还的意愿；而贪污罪的行为人主观上是为了将公款据为己有，没有归还的意愿。例如，【（2019）川1824刑初47号】中，被告人杨某将公款用于挥霍和支付分手费等开支，长达一年以上，无归还公款的行为，主观上没有归还意识，其行为是以非法占有为目的，构成贪污罪。\n- **行为方式**：挪用公款罪的行为人通常在账目上留下挪用的痕迹，而贪污罪的行为人则会采取措施使公款难以在单位财务账目上反映出来。例如，【（2002）刑复字第19号】中，国有银行工作人员利用职务便利挪用公款，携带公司银行账户凭证和全部炒股手续潜逃，将公款置于自己控制之下，有能力归还而拒不归还，主观上具有非法占有的故意，构成贪污罪。\n- **归还能力与意愿**：如果行为人有能力归还所挪用的公款而拒不归还，并隐瞒挪用的公款去向，应当以贪污罪定罪处罚。例如，【（2019）湘0603刑初67号】中，被告人周某斌利用职务便利，采取虚报冒领的手段，重复领取款项后据为己有，主观上有非法占有的故意，符合贪污罪的构成要件。\n\n综上，挪用公款罪与贪污罪的区分关键在于行为人主观上是否具有非法占有公款的目的，以及行为方式是否采取了使公款难以在单位财务账目上反映出来的措施。如果行为人主观上具有非法占有的目的，且采取了使公款难以在单位财务账目上反映出来的措施，或者有能力归还所挪用的公款而拒不归还，应当以贪污罪定罪处罚。",
+            "单位负责人擅自使用账外资金如何定性？": "### 结论\n单位负责人擅自使用账外资金的定性，关键在于判断该行为是否脱离单位的监管和控制，是否具有非法占有的目的，以及是否用于单位的正当开支。若资金使用脱离单位监管，具有非法占有目的，且用于个人营利活动，则可能构成贪污罪或挪用资金罪；若用于单位正当开支，资金去向难以查清，不宜直接计入贪污犯罪数额。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十一条第一款**：规定公司、企业或者其他单位的人员，利用职务上的便利，将本单位财物非法占为己有，数额较大的，处五年以下有期徒刑或者拘役；数额巨大的，处五年以上有期徒刑，可以并处没收财产。\n- **《中华人民共和国刑法》第三百八十四条第一款**：规定国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪，处五年以下有期徒刑或者拘役；情节严重的，处五年以上有期徒刑。挪用公款数额巨大不退还的，处十年以上有期徒刑或者无期徒刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **资金是否脱离单位监管**：若单位负责人擅自使用账外资金，且该资金脱离单位的监管和控制，可能构成贪污罪或挪用资金罪。例如，【（2018）川01刑终677号】中，被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物，构成贪污罪。\n- **是否具有非法占有的目的**：若单位负责人在套取单位资金进入“小金库”时对套取的全部资金具有非法占有目的，且用于个人营利活动，则可能构成贪污罪。例如，【（2022）内02刑终233号】中，被告人个人账户与公司资金混同，但因证据不足，未认定为挪用单位资金犯罪。\n- **资金是否用于单位正当开支**：若“小金库”资金确实用于单位开支，资金去向难以查清的，不宜直接计入贪污犯罪数额。例如，【（2018）川01刑终677号】中，法院认为对于设立的“小金库”确实用于单位开支的，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额。\n- **是否构成挪用资金罪**：若单位负责人利用职务便利，擅自使用本单位的资金归个人使用进行营利活动，可能构成挪用资金罪。例如，【（2017）浙06刑终456号】中，被告人章永某利用职务便利，擅自告知相关业务单位将公司应收货款汇至其私自设立的公司账户，用于支付自身企业的租金，构成挪用资金罪。\n\n综上，单位负责人擅自使用账外资金的定性，需综合考虑资金是否脱离单位监管、是否具有非法占有的目的、是否用于单位正当开支以及是否构成挪用资金罪等因素。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2022）内02刑终233号】：法院生效判决认为，被告人张某国除用其个人账户收取公司款项外，还同时用于收转自有资金，用自有资金为公司垫付工资、税费、旅游费等支出，个人资金和公司资金混同，认定张某国具有挪用单位资金犯罪故意的证据不足，故作出如上判决。内蒙古自治区包头市青山区人民法院于2022年9月16日作出（2021）内0204刑初619号刑事判决：被告人张某国犯挪用资金罪，判处有期徒刑一年零三个月，决定执行有期徒刑两年零六个月（其余判项略）。宣判后，张某国提出上诉。内蒙古自治区包头市中级人民法院于2023年3月3日作出（2022）内02刑终233号刑事判决：认定被告人张某国不构成挪用资金罪（其余判项略）。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强调被告人作为国家工作人员，利用职务便利指使会计从单位账外资金中支取6万元用于个人承包项目，且未办理任何借款手续，主观上具有非法占有的故意。2.指出被告人所称\"临时借用\"不成立，因其长达4个月未归还，且仅在案发后由家属退缴，证明其无还款意愿。3.反驳被告人关于资金用于单位育苗的说法，指出无任何单位账目记录证明苗木交付，且其他同事办理类似业务均走正规手续。4.强调账外资金虽管理不规范，但仍属公共财物，被告人行为符合贪污罪构成要件。5.依据《刑法》第382条及司法解释，说明被告人行为符合贪污罪构成要件，且退赃情节已在量刑建议中体现从轻处罚。\n\n防御策略：1.坚持证据链完整，包括银行交易明细、账外资金票据等书证及20名证人证言，证明被告人侵吞公款事实。2.强调所有证据收集程序合法，书证均经相关单位盖章确认，证人证言经检察机关核实。3.指出被告人供述与辩解存在矛盾，其声称用于单位育苗但无法提供任何交付记录或单位账目证明。4.依据《刑法》第91条规定，说明账外资金仍属于公共财物范畴。5.反驳辩护人关于被告人具有还款能力的说法，指出账户余额仅反映资金状况，不能证明还款意愿。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，被告人无异议。辩护人提出供述中\"没有非法占有的意图\"、\"临时借用\"等表述与贪污罪主观要件不符，且资金用于育苗费用与单位工作相关。公诉人反驳称4个月未归还且无借款手续证明无还款意愿，资金用途无单位账目记录。\n\n2. 公诉人出示书证（立案决定书、主体身份证明等），控辩双方均无异议。\n\n3. 公诉人出示育苗合同，辩护人认为与2015年资金使用行为时间跨度大缺乏关联性。公诉人认为证明被告人长期从事个人育苗业务，印证资金用于个人用途。\n\n4. 公诉人出示银行交易明细（齐某、武某账户），辩护人指出武某账户有5万余元存款证明其有还款能力，与\"临时借用\"供述印证。公诉人认为账户余额不能证明还款意愿。\n\n5. 公诉人出示账外资金票据，辩护人认为不能直接证明主观故意，账外资金性质特殊。公诉人强调账外资金仍属公共财物，擅自支取符合贪污要件。\n\n6. 公诉人出示整改意见书，辩护人认为与主观故意无直接关联且形成时间晚于案发。公诉人认为印证账外资金管理问题的一贯性。\n\n7. 公诉人出示退缴凭证，辩护人认为证明积极退赃态度，与非法占有故意矛盾。公诉人认为退赃不影响犯罪构成。\n\n8. 公诉人出示证人证言（候某、齐某等）：\n   - 齐某证言称\"给单位办事\"，辩护人认为与公务用途一致；\n   - 刘某甲证言称\"给单位办事\"，辩护人认为证明公务性质；\n   - 公诉人反驳称无手续且实际用于个人育苗，证明\"给单位办事\"说法不实。\n\n9. 公诉人出示土地承包费支付证言，辩护人认为时间上无法建立直接因果关系。公诉人认为与个人育苗用途相互印证。\n\n10. 公诉人出示张某丙证言，辩护人认为与6万元资金无直接关联。公诉人认为证明被告人同期确有个人育苗支出需求。\n\n11. 辩护人表示无证据需要出示，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第九十一条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第九十一条": "本法所称公共财产，是指下列财产：（一）国有财产；（二）劳动群众集体所有的财产；（三）用于扶贫和其他公益事业的社会捐助或者专项基金的财产。在国家机关、国有公司、企业、集体企业和人民团体管理、使用或者运输中的私人财产，以公共财产论。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员挪用账外资金用于个人经营活动是否构成贪污罪",
+              "账外资金的性质认定及贪污罪构成要件"
+            ],
+            "国家工作人员挪用账外资金用于个人经营活动是否构成贪污罪": "### 结论\n国家工作人员挪用账外资金用于个人经营活动，其是否构成贪污罪取决于挪用行为的主观目的、资金性质、使用方式以及是否具有归还意图。如果挪用行为是以非法占有为目的，且采取了使公款难以在单位财务账目上反映出来的手段，或者挪用时间较长、无归还行为，则可能构成贪污罪。反之，如果挪用行为的主观目的是使用而非非法占有，且有归还的意愿和行为，则可能构成挪用公款罪或挪用资金罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n- **《中华人民共和国刑法》第二百七十二条第一款**：公司、企业或者其他单位的工作人员，利用职务上的便利，挪用本单位资金归个人使用或者借贷给他人，数额较大、超过三个月未还的，或者虽未超过三个月，但数额较大、进行营利活动的，或者进行非法活动的，是挪用资金罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **挪用行为的主观目的**：如果挪用行为是以非法占有为目的，采取了销毁真实凭证、修改银行对账单等手段使公款难以在单位财务账目上反映出来，且无归还行为，则可能构成贪污罪。例如，【（2019）川1824刑初47号】中，被告人杨某将公款套出后，采取销毁真实凭证、以修改后的银行对账单平账，使其所窃取的公款在单位财务账目上难以反映出来，且在窃取公款后将公款用于挥霍和支付分手费等开支，被认定为贪污罪。\n- **资金性质**：如果挪用的是公款，且行为人具有国家工作人员身份，则可能构成贪污罪或挪用公款罪。如果挪用的是集体资金或企业资金，且行为人不具有国家工作人员身份，则可能构成挪用资金罪。例如，【（2016）兵1101刑初20号】中，被告人李某身为国有控股公司的工作人员，挪用公司资金用于个人购买门面房，被认定为挪用资金罪。\n- **使用方式**：如果挪用资金用于非法活动或营利活动，且超过三个月未还，则可能构成挪用公款罪或挪用资金罪。如果挪用资金用于个人经营活动，且有归还意愿和行为，则可能构成挪用资金罪。例如，【（2017）苏0322刑初843号】中，被告人石善华挪用公款归个人使用，被认定为挪用公款罪。\n- **归还意图**：如果挪用行为后有归还的意愿和行为，则可能构成挪用公款罪或挪用资金罪。如果挪用行为后无归还行为，则可能构成贪污罪。例如，【（2015）大刑二终字第173号】中，上诉人苏某、谷婕挪用资金后，虽用于偿还个人债务，但在款项到期日临近时积极联系对方商议归还事宜，且有归还所挪用款项的主观意愿，被认定为挪用资金罪。\n\n综上，挪用行为的定性需综合考虑主观目的、资金性质、使用方式以及归还意图等因素。\n\n#####\n类似案件为：\n【（2017）苏0322刑初843号】：法院认为，石善华身为国家工作人员，挪用公款归个人使用，构成挪用公款罪；非法收受他人财物，为他人谋取利益，构成非国家工作人员受贿罪；侵吞基层组织财物，构成职务侵占罪。石善华犯数罪，应数罪并罚。石善华在挪用公款罪中构成自首，在非国家工作人员受贿罪和职务侵占罪中构成坦白，且已退缴全部赃款，决定从轻处罚。一、被告人石善华犯挪用公款罪，判处有期徒刑一年六个月；犯非国家工作人员受贿罪，判处有期徒刑十个月；犯职务侵占罪，判处有期徒刑十个月。决定执行有期徒刑二年六个月。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年3月3日起至2019年9月2日止。）\n 二、被告人石善华退缴的赃款依法予以没收，上缴国库。\n【（2015）大刑二终字第173号】：法院认为，谷婕、苏某不具有国家工作人员身份，挪用单位资金归个人使用，构成挪用资金罪；谷婕信用卡诈骗、职务侵占、诈骗，构成相应罪名。谷婕犯挪用资金罪、信用卡诈骗罪、职务侵占罪、诈骗罪，数罪并罚，决定执行有期徒刑十年，并处罚金10万元；苏某犯挪用资金罪，判处有期徒刑一年。赃款继续予以追缴，并返还被害单位及被害人。\n法院认定，谷婕、苏某挪用资金归个人使用，数额较大，超过三个月未还；谷婕多次实施信用卡诈骗、职务侵占、诈骗；苏某挪用资金，构成相应罪名。苏某自动投案，谷婕如实供述犯罪事实，有从轻情节，已赔偿部分损失。故作出上述判决。\n检察院以被告人谷婕犯挪用资金罪、信用卡诈骗罪、职务侵占罪、诈骗罪，被告人苏某犯挪用资金罪，向辽宁省大连市中级人民法院提起公诉。\n被告及辩护人提出，谷婕、苏某不具有国家工作人员身份，苏某有自首情节，案发前已归还本金及利息，应从轻处罚。\n法院经审理查明，谷婕与苏某预谋后，由谷婕提出虚假退保申请，苏某利用职务便利同意由谷婕代领退保金26万余元归个人使用，构成挪用资金罪；谷婕多次实施信用卡诈骗，透支本金10万余元；利用职务便利侵占单位财物13万余元；虚构事实骗取他人财物5万余元，构成信用卡诈骗罪、职务侵占罪、诈骗罪；苏某挪用资金，构成挪用资金罪。\n法院认为，谷婕、苏某不具有国家工作人员身份，挪用单位资金归个人使用，构成挪用资金罪；谷婕信用卡诈骗、职务侵占、诈骗，构成相应罪名。\n综上，谷婕犯挪用资金罪、信用卡诈骗罪、职务侵占罪、诈骗罪，数罪并罚，决定执行有期徒刑十年，并处罚金10万元；苏某犯挪用资金罪，判处有期徒刑一年。赃款继续予以追缴，并返还被害单位及被害人。",
+            "账外资金的性质认定及贪污罪构成要件": "### 结论\n账外资金的性质认定及贪污罪构成要件的关键在于被告人是否具有非法占有公共财物的主观故意，以及是否实施了利用职务便利侵吞、窃取、骗取公共财物的客观行为。对于“小金库”资金，应具体分析其使用情况，若用于单位合法开支，不宜直接计入贪污数额；若用于个人非法占有，则构成贪污罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：法院认为，被告人是否具有非法占有公共财物的主观故意是认定贪污罪的关键。例如，【（2018）川01刑终677号】中，法院认定被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物，具有非法占有的主观故意。\n- **客观行为**：被告人是否实施了利用职务便利侵吞、窃取、骗取公共财物的客观行为。如【（2018）川01刑终677号】中，被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物，实施了客观上的非法占有行为。\n- **“小金库”资金的使用**：对于“小金库”资金的使用情况，若用于单位合法开支，不宜直接计入贪污数额；若用于个人非法占有，则构成贪污罪。【（2018）川01刑终677号】中，法院认为对于确实用于单位开支，资金去向难以查清的，不宜直接计入贪污犯罪数额。\n- **犯罪主体**：是否为国家工作人员或受委托管理、经营国有财产的人员。如【（2012）鄂巴东刑初字第00069号】中，法院认为被告人谭某某的身份不符合贪污罪主体构成要件，其行为构成职务侵占罪。\n\n综上，贪污罪的构成要件包括主观故意、客观行为、资金使用情况以及犯罪主体身份。在认定账外资金性质时，应综合考虑上述因素，判断是否构成贪污罪。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的证据无法充分证明武某具有非法占有的主观故意，仅能证明资金使用事实2.账外资金性质特殊，不属于严格意义上的公共财物3.证人证言存在矛盾，特别是关于资金用途和手续办理的陈述不一致\n\n防御策略：1.武某系临时借用资金，且有归还意愿和还款能力（个人账户有5万余元存款）2.资金实际用于单位相关育苗工作，具有公务性质3.家属已全额退缴款项",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，被告人无异议。辩护人提出供述中\"没有非法占有的意图\"、\"临时借用\"等表述与贪污罪主观要件不符，且资金用于育苗费用与单位工作相关。公诉人反驳称4个月未归还且无借款手续证明无还款意愿，资金用途无单位账目记录。\n\n2. 公诉人出示书证（立案决定书、主体身份证明等），控辩双方均无异议。\n\n3. 公诉人出示育苗合同，辩护人认为与2015年资金使用行为时间跨度大缺乏关联性。公诉人认为证明被告人长期从事个人育苗业务，印证资金用于个人用途。\n\n4. 公诉人出示银行交易明细（齐某、武某账户），辩护人指出武某账户有5万余元存款证明其有还款能力，与\"临时借用\"供述印证。公诉人认为账户余额不能证明还款意愿。\n\n5. 公诉人出示账外资金票据，辩护人认为不能直接证明主观故意，账外资金性质特殊。公诉人强调账外资金仍属公共财物，擅自支取符合贪污要件。\n\n6. 公诉人出示整改意见书，辩护人认为与主观故意无直接关联且形成时间晚于案发。公诉人认为印证账外资金管理问题的一贯性。\n\n7. 公诉人出示退缴凭证，辩护人认为证明积极退赃态度，与非法占有故意矛盾。公诉人认为退赃不影响犯罪构成。\n\n8. 公诉人出示证人证言（候某、齐某等）：\n   - 齐某证言称\"给单位办事\"，辩护人认为与公务用途一致；\n   - 刘某甲证言称\"给单位办事\"，辩护人认为证明公务性质；\n   - 公诉人反驳称无手续且实际用于个人育苗，证明\"给单位办事\"说法不实。\n\n9. 公诉人出示土地承包费支付证言，辩护人认为时间上无法建立直接因果关系。公诉人认为与个人育苗用途相互印证。\n\n10. 公诉人出示张某丙证言，辩护人认为与6万元资金无直接关联。公诉人认为证明被告人同期确有个人育苗支出需求。\n\n11. 辩护人表示无证据需要出示，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第九十一条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第九十一条": "本法所称公共财产，是指下列财产：（一）国有财产；（二）劳动群众集体所有的财产；（三）用于扶贫和其他公益事业的社会捐助或者专项基金的财产。在国家机关、国有公司、企业、集体企业和人民团体管理、使用或者运输中的私人财产，以公共财产论。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "账外资金是否属于贪污罪中的公共财物？",
+              "临时借用单位资金但未及时归还是否构成贪污罪？",
+              "国家工作人员挪用账外资金用于个人经营活动但声称用于公务如何认定？"
+            ],
+            "账外资金是否属于贪污罪中的公共财物？": "### 结论\n账外资金可以属于贪污罪中的公共财物，关键在于判断该资金是否属于单位控制下的财产，以及被告人是否具有非法占有的主观故意和客观行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十三条第一款**：对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **账外资金的性质**：如果账外资金属于单位控制下的财产，即使未入账，也应视为公共财物。例如，【（2018）川01刑终677号】中，法院认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪。\n- **被告人主观故意**：被告人是否具有非法占有的主观故意是判断其行为是否构成贪污罪的关键。例如，【（2017）京03刑终657号】中，刘某春明知奖金的正常决策和发放程序以及会计应如实记账的规定，仍然违反相关程序和要求发放涉案钱款、授意会计虚假记账，其本人亦领取了涉案钱款，足以证明其主观上具有非法占有的故意。\n- **账外资金的使用**：账外资金的使用情况也会影响对贪污罪的认定。如果账外资金确实用于单位开支，且资金去向难以查清的，不宜直接计入贪污犯罪数额。例如，【（2018）川01刑终677号】中，法院认为对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。\n\n综上，账外资金是否属于贪污罪中的公共财物，主要取决于该资金是否在单位的控制之下，以及被告人是否具有非法占有的主观故意和客观行为。如果账外资金用于单位开支且资金去向不明，应谨慎认定贪污数额，需有确凿证据证明个人非法占有的部分。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2017）京03刑终657号】：法院生效裁判认为：被告人刘某春作为国家工作人员，伙同他人利用职务上的便利，非法占有公共财物，数额巨大，其行为已构成贪污罪，且系共同犯罪，应予惩处。刘某春违反相关规定，擅自决定为其本人及会计发放“奖金”，并采取了虚构交易、虚开发票平账等隐蔽手段，其实质是以发放奖金之名行侵吞公款之实，客观上符合贪污罪的构成要件；主观上，刘某春明知奖金的正常决策和发放程序以及会计应如实记账的规定，仍然违反相关程序和要求发放涉案钱款、授意会计虚假记账，其本人亦领取了涉案钱款，足以证明其主观上具有非法占有的故意，故其行为已构成贪污罪。刘某春及其辩护人相关辩解及辩护意见不予采纳。鉴于刘某春有自首情节，积极退缴赃款，依法对其从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。",
+            "临时借用单位资金但未及时归还是否构成贪污罪？": "### 结论\n临时借用单位资金但未及时归还，是否构成贪污罪，关键在于行为人是否具有非法占有的目的，以及资金的使用是否超过规定期限，且是否采取了隐瞒、欺骗等手段使资金难以在单位财务账目上反映出来。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十二条第一款**：公司、企业或者其他单位的工作人员，利用职务上的便利，挪用本单位资金归个人使用或者借贷给他人，数额较大、超过三个月未还的，或者虽未超过三个月，但数额较大、进行营利活动的，或者进行非法活动的，处三年以下有期徒刑或者拘役；挪用本单位资金数额巨大的，或者数额较大不退还的，处三年以上十年以下有期徒刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：如果行为人有非法占有的目的，即使资金被临时借用，也可能构成贪污罪。例如，【（2023）鲁14刑终10号】中，杜某某利用职务便利，采取收入、支出不计入账目的方式侵吞公款，且为非法获利再次出借给他人或为子女购买房产，没有归还行为，构成贪污罪。\n- **资金使用期限**：资金是否超过三个月未还，是区分挪用资金罪和贪污罪的重要因素。例如，【（2019）闽0425刑初215号】中，林某伟挪用资金超过三个月未还，构成挪用资金罪。\n- **隐瞒、欺骗手段**：行为人是否采取了隐瞒、欺骗等手段使资金难以在单位财务账目上反映出来，也是构成贪污罪的关键。例如，【（2016）京0105刑初1623号】中，王永杰利用职务便利，挪用本单位资金归个人使用，数额较大，超过三个月未还，构成挪用资金罪，但其行为并未构成贪污罪，因为没有证据证明其有非法占有的目的。\n\n综上，临时借用单位资金但未及时归还是否构成贪污罪，主要取决于行为人是否具有非法占有的目的，资金使用是否超过规定期限，以及是否采取了隐瞒、欺骗等手段。如果行为人仅是暂时挪用资金，且有归还的意愿和行为，通常会被认定为挪用资金罪，而非贪污罪。\n\n#####\n类似案件为：\n【（2016）京0105刑初1623号】：法院认为，王永杰利用职务便利，挪用本单位资金归个人使用，数额较大，超过三个月未还，构成挪用资金罪；另利用职务便利，将本单位的财物非法占为己有，数额较大，构成职务侵占罪。一、被告人王永杰犯挪用资金罪，判处有期徒刑一年；犯职务侵占罪，判处有期徒刑一年九个月；决定执行有期徒刑二年六个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。被取保候审前羁押之86日亦应折抵刑期。即自2016年1月31日起至2018年5月5日止）。\n二、责令被告人王永杰退赔人民币七十三万四千一百六十三元四角六分，发还北京×1商贸有限责任公司。\n三、在案之印章十七枚，其中九枚假印章（印文分别为“廊坊市×3有限公司”、“北京×10餐饮有限公司”、“廊坊市×2娱乐有限公司”、“廊坊市新世纪步行街×12酒吧”、北京×5娱乐有限公司”、“北京×1开心果餐饮娱乐有限公司”、“北京×宝贝餐饮娱乐有限公司”、“三河市×11歌厅”、“北京×9歌厅有限公司”）予以没收，剩余印章退回北京市朝阳区人民检察院。",
+            "国家工作人员挪用账外资金用于个人经营活动但声称用于公务如何认定？": "### 结论\n国家工作人员挪用账外资金用于个人经营活动，即使声称用于公务，仍构成挪用公款罪。关键在于判断资金是否真正用于公务，以及挪用行为是否符合“归个人使用”的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **挪用资金的性质**：挪用的公款是否真正用于公务，还是用于个人营利活动。例如，【（2012）一中刑终字第4465号】中，马某挪用公款用于偿还个人参股公司的债务，被认定为挪用公款罪。\n- **挪用资金的用途**：挪用的公款是否用于非法活动或营利活动。例如，【（2013）粤高法刑二终字第144号】中，吴泽坚挪用公款进行非法活动，构成挪用公款罪。\n- **挪用资金的时间**：挪用的公款是否超过三个月未还。例如，【（2018）苏02刑终55号】中，钱某甲、钱某乙挪用公款超过三个月未还，构成挪用公款罪。\n- **挪用资金的主体身份**：挪用公款的主体是否属于国家工作人员。例如，【（2016）沪0115刑初65号】中，崔某虽由国有企业借调至行业协会，但因其工作性质不具有公共管理性质，不能认定为国家工作人员，故其行为构成挪用资金罪。\n\n综上，国家工作人员挪用账外资金用于个人经营活动，即使声称用于公务，仍需根据挪用资金的性质、用途、时间以及主体身份等因素综合判断，以确定是否构成挪用公款罪。如果挪用资金用于个人营利活动，超过三个月未还，且主体为国家工作人员，则构成挪用公款罪。\n\n#####\n类似案件为：\n【（2018）苏02刑终55号】：法院生效裁判认为：1.本案所涉资金系江阴市某供销合作社的国有资产，被告人钱某甲、钱某乙不可为帮助他人完成储蓄任务而以个人名义存入银行，即以此方式加以挪用。换言之，钱某甲、钱某乙为帮助他人完成揽储任务而以个人名义将公款存入银行属于挪用公款归个人使用的一种方式，而钱某乙即使经钱某甲同意也无权且不可将国有资金挪用归个人使用用于购房。2.本案所涉资金的用途为帮助他人完成揽储任务或者帮助亲属购买房屋，现有证据不足以证明钱某甲、钱某乙在帮助他人完成揽储任务过程中将利息据为己有或者获取其他收益，亦不足以证明钱某乙通过炒房获利，故不能认定钱某甲、钱某乙挪用公款进行营利活动。3.钱某甲、钱某乙的行为属于挪用公款归个人使用，但起诉书指控的11笔所挪用的款项均已归还，其中第1-6笔、第9-11笔挪用时间为1天至30余天不等，均未超过三个月即归还，不应以挪用公款罪论处，可作为量刑情节考虑，而针对第7笔、第8笔分别共同挪用公款100万元、38万元，超过三个月未还，二被告人的行为符合挪用公款罪的构成要件，且其二人在此过程中地位、作用相当，不宜区分主从犯。4.钱某甲、钱某乙挪用公款数额较大，超过三个月未还，具有刑事违法性，但综合考虑二被告人挪用公款的时间、数额、使用方式以及挪用过程中的风险防控行为、挪用后的归还行为，可予以从轻处罚。5.办案机关在经初查掌握钱某甲、钱某乙犯罪事实基础上电话通知其二人到案接受调查，到案后二被告人均如实供述，但其到案情形不符合自首的法律规定。\n综上，钱某甲、钱某乙作为国有企业中从事公务的人员，应当以国家工作人员论，利用职务上的便利，挪用公款归个人使用，数额较大，超过三个月未还，二被告人的行为均确已构成挪用公款罪，系共同犯罪。钱某甲、钱某乙归案后如实供述自己的罪行，所挪用的公款已退还，予以从轻处罚。根据钱某甲、钱某乙的犯罪情节、悔罪表现，没有再犯罪的危险，宣告缓刑对其所居住社区没有重大不良影响，依法可以宣告缓刑。\n【（2016）沪0115刑初65号】：法院生效判决认为，本案的争议焦点主要在两个方面：一是被告人崔某的主体身份是否能够认定为国家工作人员？二是被告人崔某冒用借调所在单位的名义对外借款归个人使用且在案发前未归还的行为，构成何种犯罪？\n（一）被告人崔某主体身份的认定\n《刑法》第93条规定：“本法所称国家工作人员，是指国家机关中从事公务的人员。国有公司、企业、事业单位、人民团体中从事公务的人员和国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员，以及其他依照法律从事公务的人员，以国家工作人员论。”本案中，被告人崔某系由国有公司（中建某局）借调到社会团体（某协会）的工作人员，由于某协会系非营利性行业性社会团体法人且其运作资金也主要来源于会员缴纳的会费，不具备国家机关的属性，所以被告人崔某在某协会中的职务身份不符合在国家机关从事公务人员的规定。对于其主体身份的认定就需要判断其是否符合刑法第93条中关于“国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员”的规定。\n1.关于借调行为的性质。借调指的是被借调的人员由原机构或单位暂时“借”到其他机构或单位任职，以执行指定的工作，借调虽然并非一种正式的人事制度，但是在实践中却是普遍存在的人员流动方式。借调与正式的调任不同，借调人员的人事关系和工资福利待遇仍保留在原单位之中，并且通常情况下，借调期满后除非办理正式调动手续，否则借调人员仍须返回原单位工作。所以在本案中，由于尚未办理正式调动手续，且在案证据也显示，被告人的工资福利、组织关系仍挂靠在中建某局，从劳动关系的角度来看，被告人崔某仍属于中建某局的员工。因此，对于被告人崔某主体身份的判断需要参照是否符合受委派从事公务的特征。《全国法院审理经济犯罪案件座谈会纪要》（以下简称《纪要》）将委派界定为委任、派遣，并对其形式进行了不完全列举，即包括任命、指派、提名、批准等，这其中并不包括借调。这些列举的任命、指派、提名、批准等方式的词性均具有一定的管理性和权力性的韵味，体现出在委派关系中，委派单位和被委派人员就委派活动之间所具有的一定的强制性的管理关系。本案中所涉及的借调关系不能认定为刑法意义上的委派。从被告人与其原单位的关系来看，中建某局对于此次人员借调既没有党政部门进行研究讨论的会议纪要，也没有组织人事部门出具的任免文件，在形式上缺乏认定委派行为的程序要件；从被告人原单位与借调单位的关系来看，根据某协会的章程规定，秘书处的工作人员可以由会员单位推荐，所以被告人原所属的国有公司中建某局对于某协会人员的任用，仅有推荐的权利，而无决定委派的权力，而且在实际运行层面，中建某局作为一个会员单位，其在协会中并没有具体的需要管理的公务，更不可能也没有必要专门委派一名人员代表其在协会中从事组织、领导、监督、管理的公务性工作；从被告人在某协会的职务任命程序上来看，某协会的副秘书长由协会会员大会按照章程选举产生，不需要报协会登记管理机关和行业主管部门批准或任命。\n2.关于被告人崔某的工作职责不具有公务性。被告人崔某的工作职责是不具备公务性。《纪要》中规定对于从国有公司委派到社会团体的人员认定其从事公务人员有两个判断标准：其一是与职权相联系的公共事务，其二是监督管理国有财产的职务活动。在本案中，首先从上海市某行业协会的属性来分析，根据某协会章程反映，该协会系上海市某行业同业企业单位联合组建的非营利性的行业性社团法人，工作重点是维权服务，所以某协会的属性更多偏向于为行业内企业服务，例如组织业务培训和会员交流联络、提供咨询服务、进行评优评奖等，不具有公共管理属性；并且被告人作为某协会的副秘书长，其工作职责主要是负责协会内部管理，不具有对外性的属性，不符合公共性的特征，不宜认定为国家工作人员。其次，该协会的运行经费绝大部分来源于会员所缴纳的会费，并无财政拨款，所以其也不具有监督管理国有财产的权利和义务。此外，根据《纪要》认定被委派人员从事公务指的是其代表国有公司在社会团体中从事组织、领导、监督、管理等工作。这条规定预设的前提即国有公司对于相应的社会团体具有包括组织、领导、监督、管理等在内的一定的管理权能。但是从本案的实际来看，中建某局与某协会之间并无这样的权力划分关系，事实上中建某局只不过是该协会的会员单位之一。根据该协会章程第十三条的规定，会员享有的权利包括“一、本会的选举权、被选举权和表决权；二、参加本会的活动权；三、获得本会服务的优先权；四、对本会工作的知情权、批评建议权和监督权；五、入会自愿、退会自由。”由此可见会员单位对于该协会并不存在管理的权能，进而被告人更不可能凭空产生公务性管理权能。\n综上，根据在案的证据不足以判定被告人崔某系国家工作人员，也不足以判定崔某系受国有公司委派到社会团体中从事公务的人员，宜认定为是非国家工作人员。\n（二）对于被告人崔某冒用协会名义对外借款行为性质的认定\n被告人崔某最初着手实施的犯罪行为是挪用某协会账上的资金用于支付本人的购房款，其后多次利用职务上的便利向他单位借款的目的也都是为了归还挪用款，并且所借得的款项最终都进入到协会的账户之中，用于填补先前挪用单位资金所造成的亏空，这也表明了被告人崔某对于涉案的资金没有永久占有的故意，在犯罪主观方面还是宜就低认定其具有挪用的故意。被告人崔某系非国家工作人员，利用职务上的便利挪用数额较大的本单位资金归个人使用超过三个月未归还，应当认定为挪用资金罪。理由如下：\n1.被告人崔某主观上不具备永久性占有资金的犯罪故意。本案中，被告人崔某在挪用本单位的资金后，又先后三次分别从王某涛、某桥公司以及广某公司处以某协会的名义借得钱款。从被告人虽然采用欺骗的手段、冒用单位的名义借款，但是借得的钱款主要用于归还先前的到期债务，还按照商业惯例支付了部分借款利息，这种借新债还旧债的行为模式反映出被告人主观上并没有侵吞借款的故意，而且在案发前的几次借还款周期都比较短，这些也都反映出被告人希望通过不断的循环借贷，能够弥补上其挪用单位资金所造成的账目上的缺口，其主观上还是基于侥幸的心理，妄图利用涉案单位不甚规范的财务制度，来达到掩饰自己挪用资金的目的。此外对于被告人挪用单位资金购房行为的判断，在本案中，被告人是以半公开的形式多次对外借款以归还协会挪用款，协会账目中的资金缺口一直都存在而没有被刻意的遮盖或隐蔽，通过一般形式的财务核查就能够被发现。所以可以认定被告人对于涉案的资金只有“利用故意”，而没有将资金永久据为己有的“排除故意”。\n2.本案中的被害方应当是某协会。从被告人的行为外观上看，其冒用单位的名义，并采用在借据上加盖某协会公章的形式，使得某桥公司等单位基于错误的认识而出借款项。但是这些单位的借款都通过被告人后续的借款和挪用协会公款得到了偿还。从犯罪的本质来看，保护法益是现代刑法存在的正当性依据，无法益侵害则无犯罪。而从本案中的法益侵害角度来看，被告人先前以虚构事实、隐瞒真相借得的二笔借款（来自于王某涛、某桥公司）都全额予以归还，资金出借方并未遭受实际损失，而第三笔借款方广某公司，由于被告人所具备的某协会副秘书长的身份，以及其利用职务便利在借据上加盖某协会公章的行为，广某公司完全有理由相信某协会向其借款的真实性，这些都使得借款行为符合民法上表见代理的特征。对于依据表见代理关系而产生的债权债务关系，某协会具有偿还的义务，广某公司作为善意一方可以通过双方协商或者民事诉讼的途径要求某协会归还借款，其债权能够得到完整的救济，因此对于广某公司也就不存在法益侵害的现实后果。而纵观本案，最终因为犯罪行为遭受损失的应当是某协会，由于被告人利用职务上的便利，将其个人借款行为蒙上了单位借款的面纱，单位也为此要承担还款的义务。虽然在案发时通过被告人借款平账，某协会在本单位财务账目中并未直接产生资金被挪用的情况，但是其所承担的债务应视为是被告人挪用单位资金行为的延续。\n3.被告人借新债归还旧债的行为系挪用资金行为的延续。虽说从外观上看，被告人四次直接挪用单位账户内的资金后不久（间隔分别为8日、15日、50日、14日）就通过向外借款的方式进行了平账，这几次挪用行为时间较短，单独予以考量乃至进行累加的话都没有达到法律规定的挪用资金超过三个月的入罪标准。所以对于被告人的行为应当从整体上予以判断，对于全案进行综合的分析。不论被告人通过借新债归还旧债的行为循环了多少次，也不论被告人将挪用款项填补某协会财务亏空多少次，其每次填补亏空的行为都是为了后续继续挪用资金做准备。所以单位上的资金始终有部分资金是处于为被告人所挪用的状态。\n首先，从被告人的主观方面来看，被告人为了支付本人的购房款，多次直接从单位账上挪用资金，其间虽然有归还行为，但是从整体上来看，这些归还行为并不是被告人基于真诚悔悟、及时纠偏等善念主动放弃犯罪行为以防止危害结果的发生，而是其为了避免挪用行为被某协会发现而采取的补救措施，其每次还款行为都可以看作是为了下次的挪用做准备的行为，其在案发前都没有停止挪用行为的主观态度和客观行为，可以推断被告人挪用资金的犯罪故意和危害行为一直都在延续。\n其次，从被告人的客观行为来看，被告人通过以建筑的名义对外借款，虽然暂时性的弥补上了某协会账目上的亏空，但是由于单位要对外承担还款义务，这也可以视为是增加了某协会的消极财产，客观上并未减少某协会的财务负担，可以视为某协会的部分财物从第一次挪用（2015年3月17日）开始就始终处于为被告人非法占用的状态，挪用单位资金的情况也一直处于延续的状态之中并没有消除。而且，被告人数次对外借款均是打着某协会的幌子，借款方均是出于对其职务权力的认可才出借资金，所以被告人的犯罪行为具有典型的职务性特征。\n最后，关于本案的危害后果的认定。根据《最高人民法院关于审理挪用公款案件具体应用法律若干问题的解释》第4条的规定“多次挪用公款不还，挪用公款数额累计计算；多次挪用公款，并以后次挪用的公款归还前次挪用的公款，挪用公款数额以案发时未还的实际数额认定。”本案中被告人崔某分四次挪用了直接挪用了某协会的资金，金额分别为350万、360万、86万、360万，以某协会的资金名义对外借款，金额分别为350万、360万、460万，截至案发尚欠广某公司460万元未归还，由于该笔借款时间为2015年7月30日，至案发时（2015年8月19日）尚不满三个月，对于该笔借款依法不能认定为刑罚当罚性层面的挪用资金行为，所以被告人的犯罪金额应认定为是其挪用后超过三个月仍未归还的360万。\n综上，被告人崔某身为某协会工作人员，利用职务上的便利，将本单位资金30万余元非法占为己有，数额较大，其行为已构成职务侵占罪；被告人崔某还利用职务便利，挪用本单位资金360万元归个人使用，数额较大，超过三个月未归还，其行为还构成挪用资金罪。公诉机关指控的事实成立，法院予以支持。对被告人崔某应予两罪并罚。被告人崔某系自首，且退赔了大部分的赃款，对其所犯职务侵占罪及挪用资金罪均依法从轻处罚。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.强调武某系临时借用资金，主观上无非法占有故意，且有归还意愿和还款能力（个人账户有5万余元存款）2.说明资金实际用于单位相关育苗工作，具有公务性质，并非纯粹个人支出3.指出账外资金性质特殊，不属于严格意义上的公共财物4.提出证人证言存在矛盾，特别是关于资金用途和手续办理的陈述不一致5.强调家属已全额退缴款项，未造成实际损失6.说明武某系初犯，长期担任公职表现良好",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人武某是否具有贪污罪的主观故意。公诉人通过未办理借款手续、四个月未归还及资金实际用于个人项目等证据证明其具有非法占有故意；辩护人主张系临时借用，并举证个人账户有还款能力及家属退赃行为。审判长认为需结合资金使用期间被告人的客观行为表现及还款能力综合判断。\n\n2.涉案6万元账外资金的使用性质认定。公诉人主张资金用于个人承包项目，并举证单位无相关苗木交付记录；被告人辩称用于单位育苗工作。审判长认为需重点核查苗木是否实际交付单位及同期其他公务支出的账目处理方式。\n\n3.账外资金管理不规范对责任认定的影响。公诉人认为不影响贪污罪构成；辩护人主张资金性质存疑。审判长认为根据刑法第91条第2款，账外资金仍属公共财物，但管理漏洞可能影响主观恶性评价。\n\n4.四个月未还款期间被告人的主观状态变化。公诉人认为反映非法占有故意；被告人辩称系工作繁忙和会计被拘导致。审判长认为需核实会计被拘时间与还款期限的关联性，以及期间被告人的具体行为表现。\n\n5.被告人行为应定性为贪污罪还是挪用公款罪。公诉人主张构成贪污罪；辩护人虽未明确定性但强调临时借用特征。审判长认为需结合资金去向、平账行为及还款意愿等要素进一步区分。\n\n6.退缴全部赃款情节对量刑的影响。双方均认可该情节，但对从轻幅度存在分歧。审判长认为根据刑法第67条第3款及量刑指导意见，该情节确属从宽处罚事由，但需结合退缴主动性及时间节点综合判定。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，被告人无异议。辩护人提出供述中\"没有非法占有的意图\"、\"临时借用\"等表述与贪污罪主观要件不符，且资金用于育苗费用与单位工作相关。公诉人反驳称4个月未归还且无借款手续证明无还款意愿，资金用途无单位账目记录。\n\n2. 公诉人出示书证（立案决定书、主体身份证明等），控辩双方均无异议。\n\n3. 公诉人出示育苗合同，辩护人认为与2015年资金使用行为时间跨度大缺乏关联性。公诉人认为证明被告人长期从事个人育苗业务，印证资金用于个人用途。\n\n4. 公诉人出示银行交易明细（齐某、武某账户），辩护人指出武某账户有5万余元存款证明其有还款能力，与\"临时借用\"供述印证。公诉人认为账户余额不能证明还款意愿。\n\n5. 公诉人出示账外资金票据，辩护人认为不能直接证明主观故意，账外资金性质特殊。公诉人强调账外资金仍属公共财物，擅自支取符合贪污要件。\n\n6. 公诉人出示整改意见书，辩护人认为与主观故意无直接关联且形成时间晚于案发。公诉人认为印证账外资金管理问题的一贯性。\n\n7. 公诉人出示退缴凭证，辩护人认为证明积极退赃态度，与非法占有故意矛盾。公诉人认为退赃不影响犯罪构成。\n\n8. 公诉人出示证人证言（候某、齐某等）：\n   - 齐某证言称\"给单位办事\"，辩护人认为与公务用途一致；\n   - 刘某甲证言称\"给单位办事\"，辩护人认为证明公务性质；\n   - 公诉人反驳称无手续且实际用于个人育苗，证明\"给单位办事\"说法不实。\n\n9. 公诉人出示土地承包费支付证言，辩护人认为时间上无法建立直接因果关系。公诉人认为与个人育苗用途相互印证。\n\n10. 公诉人出示张某丙证言，辩护人认为与6万元资金无直接关联。公诉人认为证明被告人同期确有个人育苗支出需求。\n\n11. 辩护人表示无证据需要出示，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 关于犯罪构成：\n- 公诉人指控被告人利用职务便利支取6万元账外资金未归还，符合贪污罪构成要件\n- 辩护人辩称账外资金性质存疑，且被告人具有还款能力，不排除临时借用可能性\n\n2. 关于主观故意：\n- 公诉人指出被告人4个月未归还且无借款手续，符合非法占有故意认定标准\n- 辩护人主张资金使用与育苗季节相关，存在客观原因，情节显著轻微\n\n3. 关于资金用途：\n- 公诉人举证单位无相关账目记录，其他同事均走正规手续\n- 辩护人提出育苗工作季节性特点可能导致未及时入账\n\n4. 关于量刑情节：\n- 公诉人认可退赃情节但强调属被动退赃，已在量刑建议中考虑\n- 辩护人强调被告人认罪态度良好、家属全额退缴，建议从轻处罚\n\n5. 补充争议焦点：\n- 双方对账外资金是否属于公共财物存在法律适用分歧\n- 对资金使用期限是否足以认定非法占有目的存在不同解读",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十四条": "国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪，处五年以下有期徒刑或者拘役；情节严重的，处五年以上有期徒刑。挪用公款数额巨大不退还的，处十年以上有期徒刑或者无期徒刑。挪用用于救灾、抢险、防汛、优抚、扶贫、移民、救济款物归个人使用的，从重处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员临时借用公款未及时归还是否构成贪污罪？",
+              "账外资金管理不规范对贪污罪认定的影响？",
+              "被告人主动退赃对贪污罪量刑的影响？"
+            ],
+            "国家工作人员临时借用公款未及时归还是否构成贪污罪？": "### 结论\n国家工作人员临时借用公款未及时归还，是否构成贪污罪，关键在于主观上是否具有非法占有的目的，以及是否采取了隐瞒、掩盖其侵吞、窃取、骗取公款的行为，使所挪用的公款难以在单位财务账目上反映出来，且没有归还行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观占有目的**：如果国家工作人员挪用公款后，主观上具有非法占有的目的，即使公款未及时归还，也可能构成贪污罪。例如，【（2023）鲁14刑终10号】中，杜某某利用职务便利挪用公款，采取虚假单据平账等手段，使所挪用的公款难以在单位财务账目上反映出来，且在相关公司归还本金及利息后，其为非法获利再次出借给他人或者为子女购买房产，没有归还行为，因此构成贪污罪。\n- **行为方式**：采取隐瞒、掩盖其侵吞、窃取、骗取公款的行为，使所挪用的公款难以在单位财务账目上反映出来，且没有归还行为，也可能构成贪污罪。例如，【（2019）川1824刑初47号】中，杨某采取销毁真实凭证、以修改后的银行对账单平账，使其所窃取的公款在单位财务账目上难以反映出来，且在窃取公款后将公款用于挥霍和支付分手费等开支，因此构成贪污罪。\n- **归还行为**：如果国家工作人员挪用公款后，有归还行为，即使归还时间较长，也可能不构成贪污罪，而构成挪用公款罪。例如，【（2011）第224号】中，胡某某挪用公款归个人使用，数额较大超过三个月未归还，但在检察机关侦查期间全部退缴，因此构成挪用公款罪。\n\n综上，国家工作人员临时借用公款未及时归还，是否构成贪污罪，关键在于主观上是否具有非法占有的目的，以及是否采取了隐瞒、掩盖其侵吞、窃取、骗取公款的行为，使所挪用的公款难以在单位财务账目上反映出来，且没有归还行为。如果主观上没有非法占有的目的，且有归还行为，即使归还时间较长，也可能构成挪用公款罪。",
+            "账外资金管理不规范对贪污罪认定的影响？": "### 结论\n账外资金管理不规范对贪污罪的认定有显著影响，关键在于是否能够证明被告人具有非法占有的主观故意和实施了侵吞公共财物的客观行为。账外资金若仍处于单位控制之下，且用于单位开支，其性质和使用情况将影响贪污罪的数额认定，不能简单将全部账外资金视为贪污金额。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **账外资金的性质和控制状态**：账外资金是否仍处于单位控制之下，且用于单位开支，是判断贪污罪数额的关键。例如，【（2018）川01刑终677号】中，法院认为“小金库”在单位控制管理之下，仍属于单位财产，不能将全部金额直接认定为贪污数额，而应根据证据证明的个人非法占有金额来认定。\n- **被告人主观故意和客观行为**：被告人是否具有非法占有的主观故意，以及是否实施了侵吞公共财物的客观行为，是构成贪污罪的核心要素。例如，【（2018）川01刑终677号】中，法院认为被告人以“特别奖”和“绩效补差”的名义从“小金库”中侵吞公共财物，体现了非法占有的主观故意和客观行为，符合贪污罪的构成要件。\n- **资金去向的查证**：对于账外资金的使用，如果资金去向难以全部查清，应以证据证明的个人非法占有金额来认定贪污数额。例如，【（2018）川01刑终677号】中，法院认为对于“小金库”资金去向难以查清的部分，不宜直接计入贪污犯罪数额。\n\n综上，账外资金管理不规范对贪污罪的认定影响重大，关键在于判断账外资金的性质、被告人主观故意和客观行为，以及资金去向的查证。法院在审理此类案件时，会综合考虑上述因素，以准确界定贪污罪的构成和犯罪数额。\n\n#####\n类似案件为：\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。\n【（2018）川01刑终677号】：法院生效裁判认为，被告人杨某某、谢某某、王某某、张某某、程某某、周某某身为国家工作人员，共同侵吞公共财物共计人民币349.4万元，数额特别巨大，其行为均已构成贪污罪。公诉机关对于六名被告人共同贪污金额达2083.2万元的指控，现有证据无法证明六名被告人在主观上具有非法占有用于单位开支的公款的目的，客观上也未实施侵吞用于单位开支的公款的行为，仅能证实六名被告人以“特别奖”和“绩效补差”的名义从“小金库”资金中侵吞公共财物共计349.4万元，对于公诉机关超出部分的指控，决定不予支持。\n本案争议焦点在于检察机关认为套取单位资金进入“小金库”即已贪污既遂，“小金库”资金如何使用不影响认定犯罪；辩方认为“小金库”在单位控制管理之下，仍然属于单位财产，被告人等无侵吞“小金库”资金的故意和客观行为，以发放奖金名义领取的部分资金仅属违纪，更不能以“小金库”全部金额认定为贪污。法院认为，涉及单位账外资金的案件中，应根据相关情况判断账外资金是属于单位管理控制下的“小金库”，还是单位个别领导个人掌控的资金。且被告人在套取单位资金进入“小金库”时是否对套取的全部资金具有非法占有目的是准确认定本案贪污犯罪数额的关键，对于设立的“小金库”确实用于单位开支，对于资金去向难以全部查清的，应以证据证明其中确被个人非法占有的金额认定贪污数额，而不能将“小金库”全部金额认定为贪污数额。关于使用“小金库”款项的定性，综合全案证据来看被告人等领取的所谓“奖金”既不能在单位公账上体现，也不在“小金库”账目中体现，逃避监管、脱离国家审计。加之“奖金”发放的对象仅限于本案被告人，单位其他员工并不知晓，不具有公开性。被告人等的客观行为已经反映具有非法占有该部分公款的主观故意，客观上也实施了将“小金库”资金占为己有的行为，属于利用职务便利采取秘密手段侵吞公共财物，数额达349.4万元，符合贪污罪的构成要件。",
+            "被告人主动退赃对贪污罪量刑的影响？": "### 结论\n被告人主动退赃对贪污罪量刑有显著影响，可以作为从轻、减轻或免除处罚的情节，尤其是在犯罪数额较大或有其他较重情节的情况下，主动退赃结合如实供述罪行和真诚悔罪，可以成为适用缓刑的重要考量因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条第三款**：犯贪污罪的，如果如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，可以从轻、减轻或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主动退赃**：主动退赃是法院考虑从轻处罚的重要因素。例如，【（2018）湘03刑终304号】中，两上诉人主动退还违法所得100960元，可酌情从轻处罚；【（2013）鄂沙洋县刑初字第00125、130号】中，十二名被告人退清了全部赃款并得到了发案单位的谅解，依法可酌情从轻处罚。\n- **如实供述罪行和真诚悔罪**：结合主动退赃，如实供述罪行和真诚悔罪是法院考虑从轻处罚的另一重要因素。如【（2013）鄂沙洋县刑初字第00125、130号】中，被告人姚某、姚某某在公安机关办案过程中，如实供述了伙同他人贪污的事实，应以自首论，可以对其从轻处罚。\n- **犯罪数额和情节**：犯罪数额较大或有其他较重情节时，主动退赃的从轻处罚幅度较大；而犯罪数额巨大或有其他严重情节时，从轻处罚的幅度较小。【（2017）浙0382刑初125号】中，被告人倪克杨犯贪污罪判处十年以上十二年以下有期徒刑并处罚金，尽管其主动投案并如实供述自己的罪行，系自首，且已退回大部分赃款，但因犯罪数额特别巨大，法院未采纳辩护人建议的减轻处罚意见。\n\n综上，主动退赃结合如实供述罪行和真诚悔罪，可以显著影响贪污罪的量刑，尤其是在犯罪数额较大或有其他较重情节的情况下，这些因素可以成为适用缓刑的重要考量。然而，对于犯罪数额巨大或有其他严重情节的案件，从轻处罚的幅度较小。\n\n#####\n类似案件为：\n【（2018）湘03刑终304号】：法院认为，两被告人的行为构成贪污罪和职务侵占罪。一审认定两被告人的行为构成诈骗罪定性错误，应予纠正。两被告人在贪污犯罪中主动退还部分违法所得，可酌情从轻处罚，在职务侵占犯罪中，章贱平在案发前主动退赃，可酌情从轻处罚，熊青年如实供述了自己的罪行，依法可以从轻处罚。一、维持湖南省韶山市人民法院（2017）湘0382刑初73号刑事判决中第一项对上诉人章贱平、熊青年犯职务侵占罪的定罪量刑部分部分以及第二项、第三项。\n二、撤销湖南省韶山市人民法院（2017）湘0382刑初73号刑事判决中第一项对上诉人章贱平、熊青年犯诈骗罪的定罪量刑以及数罪并罚部分。\n三、上诉人章贱平犯贪污罪，判处有期徒刑三年，并处罚金人民币三万元；犯职务侵占罪，判处有期徒刑一年。数罪并罚，决定合并执行有期徒刑三年，并处罚金人民币三万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年3月3日起至2020年3月2日止。罚金限本判决生效后十日内向本院缴纳）。\n四、上诉人熊青年犯贪污罪，判处有期徒刑一年六个月，并处罚金人民币二万元；犯职务侵占罪，判处有期徒刑六个月。数罪并罚，决定合并执行有期徒刑一年十一个月，并处罚金人民币二万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年3月3日起至2019年2月2日止。罚金限本判决生效后十日内向本院缴纳）。\n【（2013）鄂沙洋县刑初字第00125、130号】：法院认为，孙某某、姚某、姚某某的行为构成贪污罪；姚某、姚某、张某某、王某、王某、刘某某、马某某、姚某某、王某、朱某某、熊某某的行为构成职务侵占罪。被告人朱某某、王某自动投案，如实供述，构成自首；姚某、姚某某在公安机关如实供述贪污事实，构成自首。被告人认罪态度好，积极退赃，可从轻处罚。被告人姚某某与他人分工合作，不宜区分主从犯。十二名被告人归案后认罪态度较好，具有悔罪表现，适用缓刑没有再犯罪危险。被告人孙某某犯贪污罪，判处有期徒刑一年零二个月，缓刑二年。\n被告人姚某犯贪污罪，判处有期徒刑一年零二个月，缓刑二年，犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年，决定执行有期徒刑二年，缓刑三年零六个月。\n被告人姚某某犯贪污罪，判处有期徒刑一年零二个月，缓刑二年，犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年，决定执行有期徒刑二年，缓刑三年零六个月。\n被告人熊某某犯职务侵占罪，判处有期徒刑一年零六个月，缓刑二年。\n被告人姚某犯职务侵占罪，判处有期徒刑一年零一个月，缓刑二年。\n被告人张某某犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年。\n被告人王某犯职务侵占罪，判处有期徒刑十个月，缓刑一年零六个月。\n被告人王某犯职务侵占罪，判处有期徒刑十个月，缓刑一年零六个月。\n被告人刘某某犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年。\n被告人马某某犯职务侵占罪，判处有期徒刑一年零四个月，缓刑二年。\n被告人王某犯职务侵占罪，判处有期徒刑一年，缓刑一年零六个月。\n被告人朱某某犯职务侵占罪，判处有期徒刑六个月，缓刑一年。\n（以上十二被告人的缓刑考验期限，从本判决确定之日起计算）。\n【（2013）鄂沙洋县刑初字第00125、130号】：法院认为，孙某某、姚某、姚某某的行为构成贪污罪；姚某、姚某、张某某、王某、王某、刘某某、马某某、姚某某、王某、朱某某、熊某某的行为构成职务侵占罪。被告人朱某某、王某自动投案，如实供述，构成自首；姚某、姚某某在公安机关如实供述贪污事实，构成自首。被告人认罪态度好，积极退赃，可从轻处罚。被告人姚某某与他人分工合作，不宜区分主从犯。十二名被告人归案后认罪态度较好，具有悔罪表现，适用缓刑没有再犯罪危险。被告人孙某某犯贪污罪，判处有期徒刑一年零二个月，缓刑二年。\n被告人姚某犯贪污罪，判处有期徒刑一年零二个月，缓刑二年，犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年，决定执行有期徒刑二年，缓刑三年零六个月。\n被告人姚某某犯贪污罪，判处有期徒刑一年零二个月，缓刑二年，犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年，决定执行有期徒刑二年，缓刑三年零六个月。\n被告人熊某某犯职务侵占罪，判处有期徒刑一年零六个月，缓刑二年。\n被告人姚某犯职务侵占罪，判处有期徒刑一年零一个月，缓刑二年。\n被告人张某某犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年。\n被告人王某犯职务侵占罪，判处有期徒刑十个月，缓刑一年零六个月。\n被告人王某犯职务侵占罪，判处有期徒刑十个月，缓刑一年零六个月。\n被告人刘某某犯职务侵占罪，判处有期徒刑一年零三个月，缓刑二年。\n被告人马某某犯职务侵占罪，判处有期徒刑一年零四个月，缓刑二年。\n被告人王某犯职务侵占罪，判处有期徒刑一年，缓刑一年零六个月。\n被告人朱某某犯职务侵占罪，判处有期徒刑六个月，缓刑一年。\n（以上十二被告人的缓刑考验期限，从本判决确定之日起计算）。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人武某是否具有贪污罪的主观故意。公诉人通过未办理借款手续、四个月未归还及资金实际用于个人项目等证据证明其具有非法占有故意；辩护人主张系临时借用，并举证个人账户有还款能力及家属退赃行为。审判长认为需结合资金使用期间被告人的客观行为表现及还款能力综合判断。\n\n2.涉案6万元账外资金的使用性质认定。公诉人主张资金用于个人承包项目，并举证单位无相关苗木交付记录；被告人辩称用于单位育苗工作。审判长认为需重点核查苗木是否实际交付单位及同期其他公务支出的账目处理方式。\n\n3.账外资金管理不规范对责任认定的影响。公诉人认为不影响贪污罪构成；辩护人主张资金性质存疑。审判长认为根据刑法第91条第2款，账外资金仍属公共财物，但管理漏洞可能影响主观恶性评价。\n\n4.四个月未还款期间被告人的主观状态变化。公诉人认为反映非法占有故意；被告人辩称系工作繁忙和会计被拘导致。审判长认为需核实会计被拘时间与还款期限的关联性，以及期间被告人的具体行为表现。\n\n5.被告人行为应定性为贪污罪还是挪用公款罪。公诉人主张构成贪污罪；辩护人虽未明确定性但强调临时借用特征。审判长认为需结合资金去向、平账行为及还款意愿等要素进一步区分。\n\n6.退缴全部赃款情节对量刑的影响。双方均认可该情节，但对从轻幅度存在分歧。审判长认为根据刑法第67条第3款及量刑指导意见，该情节确属从宽处罚事由，但需结合退缴主动性及时间节点综合判定。",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 被告人武某对起诉书指控的贪污事实提出异议，辩称6万元系临时借用单位资金用于育苗工作，并非个人支出，且有归还意愿。\n\n2. 公诉人讯问重点：\n- 确认被告人未办理任何借款手续\n- 指出资金实际用于个人承包土地项目\n- 质疑苗木未交付单位的事实\n- 指出证言显示项目与单位业务无关\n\n3. 辩护人讯问重点：\n- 询问被告人是否明确告知会计款项用途\n- 质疑在个人有存款情况下仍挪用单位资金的原因\n- 询问账外资金性质及管理情况\n\n4. 法庭补充讯问：\n- 质疑长达4个月未归还资金\n- 质疑家属立即退赃的行为\n- 质疑苗木未交付单位及账目无记录\n- 质疑以个人名义承包的合理性\n- 指出其他同事办理正规借款手续的对比\n\n5. 被告人主要辩解：\n- 承认程序不规范但否认非法占有故意\n- 称资金用于单位相关育苗工作\n- 解释未归还系因工作繁忙和会计被拘\n- 称个人承包是单位惯例\n- 承认账外资金管理松散\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，被告人无异议。辩护人提出供述中\"没有非法占有的意图\"、\"临时借用\"等表述与贪污罪主观要件不符，且资金用于育苗费用与单位工作相关。公诉人反驳称4个月未归还且无借款手续证明无还款意愿，资金用途无单位账目记录。\n\n2. 公诉人出示书证（立案决定书、主体身份证明等），控辩双方均无异议。\n\n3. 公诉人出示育苗合同，辩护人认为与2015年资金使用行为时间跨度大缺乏关联性。公诉人认为证明被告人长期从事个人育苗业务，印证资金用于个人用途。\n\n4. 公诉人出示银行交易明细（齐某、武某账户），辩护人指出武某账户有5万余元存款证明其有还款能力，与\"临时借用\"供述印证。公诉人认为账户余额不能证明还款意愿。\n\n5. 公诉人出示账外资金票据，辩护人认为不能直接证明主观故意，账外资金性质特殊。公诉人强调账外资金仍属公共财物，擅自支取符合贪污要件。\n\n6. 公诉人出示整改意见书，辩护人认为与主观故意无直接关联且形成时间晚于案发。公诉人认为印证账外资金管理问题的一贯性。\n\n7. 公诉人出示退缴凭证，辩护人认为证明积极退赃态度，与非法占有故意矛盾。公诉人认为退赃不影响犯罪构成。\n\n8. 公诉人出示证人证言（候某、齐某等）：\n   - 齐某证言称\"给单位办事\"，辩护人认为与公务用途一致；\n   - 刘某甲证言称\"给单位办事\"，辩护人认为证明公务性质；\n   - 公诉人反驳称无手续且实际用于个人育苗，证明\"给单位办事\"说法不实。\n\n9. 公诉人出示土地承包费支付证言，辩护人认为时间上无法建立直接因果关系。公诉人认为与个人育苗用途相互印证。\n\n10. 公诉人出示张某丙证言，辩护人认为与6万元资金无直接关联。公诉人认为证明被告人同期确有个人育苗支出需求。\n\n11. 辩护人表示无证据需要出示，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 关于犯罪构成：\n- 公诉人指控被告人利用职务便利支取6万元账外资金未归还，符合贪污罪构成要件\n- 辩护人辩称账外资金性质存疑，且被告人具有还款能力，不排除临时借用可能性\n\n2. 关于主观故意：\n- 公诉人指出被告人4个月未归还且无借款手续，符合非法占有故意认定标准\n- 辩护人主张资金使用与育苗季节相关，存在客观原因，情节显著轻微\n\n3. 关于资金用途：\n- 公诉人举证单位无相关账目记录，其他同事均走正规手续\n- 辩护人提出育苗工作季节性特点可能导致未及时入账\n\n4. 关于量刑情节：\n- 公诉人认可退赃情节但强调属被动退赃，已在量刑建议中考虑\n- 辩护人强调被告人认罪态度良好、家属全额退缴，建议从轻处罚\n\n5. 补充争议焦点：\n- 双方对账外资金是否属于公共财物存在法律适用分歧\n- 对资金使用期限是否足以认定非法占有目的存在不同解读",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第九十一条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第九十一条": "本法所称公共财产，是指下列财产：（一）国有财产；（二）劳动群众集体所有的财产；（三）用于扶贫和其他公益事业的社会捐助或者专项基金的财产。在国家机关、国有公司、企业、集体企业和人民团体管理、使用或者运输中的私人财产，以公共财产论。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员贪污6万元量刑标准",
+              "贪污罪与挪用公款罪区分标准",
+              "贪污案中退赃情节对量刑的影响"
+            ],
+            "国家工作人员贪污6万元量刑标准": "### 结论\n国家工作人员贪污6万元的量刑标准，根据《中华人民共和国刑法》第三百八十三条第一款第一项的规定，属于数额较大的情形，应处三年以下有期徒刑或者拘役，并处罚金。但具体量刑需考虑自首、退赃、认罪认罚等情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条第一款第一项**：对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **贪污数额**：贪污6万元属于数额较大，根据《中华人民共和国刑法》第三百八十三条第一款第一项的规定，应处三年以下有期徒刑或者拘役，并处罚金。例如，【（2016）京03刑终323号】中，金某某贪污数额较大，被判处有期徒刑六个月，缓刑一年，罚金人民币十万元。\n- **自首情节**：自首可以作为从轻或减轻处罚的情节。例如，【（2020）桂14刑终26号】中，陈某萃主动向单位汇报自己的犯罪行为，被认定为自首，依法可以从轻或减轻处罚。\n- **退赃情况**：积极退赃可以作为从轻处罚的情节。例如，【（2021）豫04刑终156号】中，郭某六被要求退赔被害单位人民币1052485元，退赃情况影响量刑。\n- **认罪认罚**：认罪认罚可以从宽处理。例如，【（2022）兵0501刑初32号】中，胡某自愿认罪认罚，可依法从宽处理。\n\n综上，国家工作人员贪污6万元的量刑标准，主要考虑贪污数额、自首、退赃、认罪认罚等情节，具体量刑需根据案件具体情况而定。\n\n#####\n类似案件为：\n【（2022）兵0501刑初32号】：法院生效裁判认为：被告人胡某作为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。其利用职务上的便利，为他人谋取利益，非法收受他人财物，数额巨大，其行为构成受贿罪。其身为司法工作人员徇私舞弊对不符合减刑条件的罪犯予以减刑，其行为已构成徇私舞弊减刑罪，依法应予惩处。公诉机关的指控成立。被告人胡某一人犯数罪，依法应当数罪并罚。被告人胡某在接到通知后原地等待，被检察人员带至办案区后，如实供述犯罪事实，依法可以从轻处罚。被告人胡某已全部退赃，可以酌定从轻处罚。同时自愿认罪认罚，可依法从宽处理。公诉机关的量刑建议适当。对被告人胡某辩护人提出的胡某贪污受贿犯罪不适用罚金刑的问题，本案中被告人胡某的贪污、受贿的大部分犯罪事实发生在《刑法修正案（九）》施行之前，按当时的刑法贪污五千元即为数额较大，入罪数额较低。《刑法修正案（九）》施行后，法律和司法解释对入罪数额的规定有了较大幅度的提高，即适用《刑法修正案（九）》及相关司法解释处罚上更轻。故根据《中华人民共和国刑法》第十二条第一款规定的从旧兼从轻的原则，应适用《刑法修正案（九）》及相关司法解释的规定。罚金刑作为主刑的附加刑，从属于主刑，应与主刑一并适用，而不应与主刑割裂开分别适用，故本案应当适用《刑法修正案（九）》及相关司法解释的规定，并处罚金。",
+            "贪污罪与挪用公款罪区分标准": "### 结论\n贪污罪与挪用公款罪的主要区别在于行为人主观上是否具有非法占有公共财物的目的，以及行为方式上是否存在隐瞒、掩盖侵吞公款的行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十四条第一款**：国家工作人员利用职务上的便利，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，或者挪用公款数额较大、超过三个月未还的，是挪用公款罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观目的**：行为人是否具有非法占有公共财物的目的。例如，【（2019）川1824刑初47号】中，被告人杨某将公款用于个人挥霍和支付分手费等开支，且无归还公款的行为，法院认定其主观上具有非法占有的目的，构成贪污罪。\n- **行为方式**：行为人是否采取了隐瞒、掩盖侵吞公款的行为。如【（2019）川1824刑初47号】中，杨某销毁真实凭证、修改银行对账单，使所窃取的公款在单位财务账目上难以反映出来，符合贪污罪的行为特征。\n- **归还意愿与能力**：行为人是否愿意归还公款，以及是否有能力归还。如【（2002）刑复字第19号】中，国有银行工作人员有能力归还而拒不归还，主观上具有非法占有的故意，构成贪污罪。\n- **挪用公款后的行为**：如【（2002）刑复字第19号】中，行为人携带挪用的公款潜逃，将公款置于自己控制之下，构成贪污罪。\n\n综上，区分贪污罪与挪用公款罪的关键在于行为人的主观目的和行为方式，以及是否具有归还意愿与能力。如果行为人主观上具有非法占有的目的，采取了隐瞒、掩盖侵吞公款的行为，或者有能力归还而拒不归还，通常会被认定为贪污罪。反之，如果行为人只是暂时挪用公款，没有非法占有的目的，且有归还意愿与能力，通常会被认定为挪用公款罪。",
+            "贪污案中退赃情节对量刑的影响": "### 结论\n在贪污案件中，退赃情节对量刑有显著影响，可以作为从轻、减轻处罚的考量因素，尤其是在被告人主动退赃、全额退赃、退赃时间在提起公诉前的情况下。但退赃情节的从轻处罚力度会根据贪污数额的大小而有所不同，对于数额较大或严重的贪污行为，退赃情节的从轻处罚幅度较小。\n\n### 核心法条\n- **《中华人民共和国刑法》第383条第三款**：犯贪污罪的，如果如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，在提起公诉前的，可以从轻、减轻或者免除处罚；但对贪污数额巨大或者有其他严重情节的，可以从轻处罚，不能减轻或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与退赃**：自首并退赃是法院考虑从轻处罚的重要因素。例如，【（2016）桂02刑终397号】中，被告人覃某芬因自首和积极退赃被从轻处罚并宣告缓刑。【（2021）辽0124刑初10号】中，被告人吴某某因如实供述犯罪事实、认罪认罚和退赃被从轻处罚。\n- **退赃时间**：退赃时间在提起公诉前对量刑有积极影响。【（2014）娄中刑二终字第113号】中，胡三佰在诈骗案发前主动退清全部赃款，被认定为自首，依法可以从轻、减轻处罚或者免除处罚。\n- **退赃金额**：全额退赃比部分退赃更有利于从轻处罚。【（2019）湘31刑终250号】中，向峰、严国皇全额退赃，取得了被害人的谅解，法院在改变定性后对二人从轻处罚。\n- **犯罪数额与退赃的从轻处罚幅度**：对于数额较大或严重的贪污行为，退赃情节的从轻处罚幅度较小。【（2021）川20刑终62号】中，法院在量刑时充分考虑了王某庚的退赃情节，但由于犯罪数额特别巨大，退赃情节的从轻处罚幅度较小。\n\n综上，退赃情节在贪污案件中对量刑有重要影响，尤其是自首、全额退赃、在提起公诉前退赃等情况下，法院更倾向于从轻处罚。然而，对于数额特别巨大或严重的贪污行为，退赃情节的从轻处罚幅度会受到限制。\n\n#####\n类似案件为：\n【（2021）辽0124刑初10号】：法院认为，公诉机关指控被告人吴某某犯诈骗罪事实清楚，证据确实、充分，指控罪名成立，量刑建议合理。被告人到案后能够如实供述犯罪事实，并认罪认罚，依法予以从轻处罚。鉴于被告人具有退赃的酌定从轻处罚情节，且犯罪事实、情节及悔罪表现，对被告人适用缓刑对其所在社区没有重大影响，可以宣告缓刑。依照《中华人民共和国刑法》第二百六十六条、第五十二条及《中华人民共和国刑事诉讼法》第十五条、第二百零一条之规定，判决如下：被告人吴某某犯诈骗罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币六千元（已缴纳）。\n【（2014）娄中刑二终字第113号】：法院认为，胡三佰协助国家工作人员利用职务之便，骗取国家家电下乡补贴款，构成贪污罪，且数额特别巨大；以非法占有为目的，虚构事实，骗取国家家电下乡补贴款，构成诈骗罪。在贪污共同犯罪中系从犯，依法予以减轻处罚；有部分贪污款未发放到位，系犯罪未遂，依法可以比照既遂犯从轻处罚；在诈骗犯罪案发前已主动退清全部赃款，如实供述诈骗犯罪事实，可认定为自首，依法可以免除处罚；到案后如实供述贪污犯罪事实，依法可从轻处罚；一人犯数罪，依法应当数罪并罚。胡三佰犯贪污罪，判处有期徒刑五年；犯诈骗罪，免除处罚。数罪并罚，决定执行有期徒刑五年。\n【（2019）湘31刑终250号】：法院认为，向峰、严国皇利用职务上的便利，将本单位财物非法占为己有，数额较大，其行为构成职务侵占罪。在共同犯罪中，向峰为主犯，严国皇为从犯。向峰如实供述，全额退赃，获得谅解，可从轻处罚；严国皇为从犯，全额退赃，获得谅解，可减轻处罚。原判认定的罪名不当，应予纠正。鉴于向峰、严国皇的认罪态度和退赃、谅解等情节，可以适当调整量刑。向峰犯职务侵占罪，判处有期徒刑二年六个月；严国皇犯职务侵占罪，判处有期徒刑一年四个月。随案移送的两根金条予以没收，上缴国库。向峰、严国皇退缴的赃款予以没收，上缴国库。本判决为终审判决。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 12.0,
+    "fine": 100000.0,
+    "reprieve": 18.0
+  }
+]

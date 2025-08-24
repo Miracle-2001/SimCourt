@@ -1,0 +1,3405 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人王某甲，男，XXX年X月X日出生，户籍XXXXX，汉族，XXX文化程度，无犯罪前科，山西盛百泽投资有限公司法定代表人。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "阳泉市城区人民检察院  \n起 诉 书  \n\n阳城检刑刑诉〔2017〕298号  \n\n被告人王某甲，男，XXX年X月X日出生，公民身份号码XXXX，汉族，XXX文化程度，户籍所在地XXXX，山西盛百泽投资有限公司法定代表人。因涉嫌非法吸收公众存款罪，于2017年5月31日被伊某乙县公安局抓获，2017年6月9日移交阳某乙市公安局城区分局。  \n\n本案由阳某乙市公安局城区分局侦查终结，以被告人王某甲涉嫌非法吸收公众存款罪，于2017年12月8日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2014年7月24日，被告人王某甲注册成立山西盛百泽投资管理有限公司并担任法定代表人。2014年8月至12月间，该公司违反国家金融管理法律规定，未经有关部门批准，通过业务员散发传单、口头宣传等方式，以月息1.4%-1.6%的高额利息为诱饵，向社会不特定公众55人非法吸收存款共计290万元，支付利息13.35万元，造成实际损失276.646万元。吸收资金被王某甲用于出借给李某甲等人，至今未归还。  \n\n认定上述事实的证据如下：  \n1. 书证：抓获经过、羁押证明、工商登记材料、租赁合同、审计报告等；  \n2. 证人证言：刘某甲、马某、屈某等公司员工及亲属证言；  \n3. 被害人陈述：胡某等55名投资人的报案材料及损失说明；  \n4. 被告人供述：王某甲对犯罪事实的供认；  \n5. 鉴定意见：山西晨泰会计师事务所出具的审计报告；  \n6. 其他证据：借据、合同等。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人王某甲对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人王某甲作为公司法定代表人，违反国家金融管理法规，非法吸收公众存款，扰乱金融秩序，数额巨大，其行为触犯了《中华人民共和国刑法》第一百七十六条第二款之规定，犯罪事实清楚，证据确实、充分，应当以非法吸收公众存款罪追究其刑事责任。建议判处被告人王某甲有期徒刑XX，缓刑XX，并处罚金XX。  \n\n此致  \n阳泉市城区人民法院  \n\n检 察 官 杨某甲  \n检察官助理 张某甲  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议。我认罪悔罪，愿意积极退赔投资人损失。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某甲，你作为山西盛百泽投资管理有限公司的法定代表人，是否清楚公司未经金融监管部门批准就开展吸收公众存款业务？请说明你对此的认知情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实知道公司没有取得相关金融业务许可，但我认为通过担保和高息承诺的方式吸引投资是可行的，没有意识到这是违法行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司通过业务员散发传单、口头宣传等方式向社会公众吸收存款，并承诺月息1.4%-1.6%的高额回报，这些宣传内容是否经过你的授意或批准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些宣传内容是我批准和授意的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司吸收的290万元资金中，有250万元借给了李某甲，其余部分用于公司运营和个人获利。请具体说明这些资金的使用决策过程，以及你个人从中获利的具体金额。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "250万元借给李某甲是我个人决定的，当时他承诺会支付更高的利息。其余约40万元用于公司日常运营开支，我个人从中获利约5、6万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "在案发后，你为何没有主动投案自首？对于给55名投资人造成的276万余元实际损失，你是否有退赔计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时因为害怕法律制裁，所以没有主动投案。我现在确实没有能力一次性赔偿全部损失，但我愿意制定分期还款计划，尽最大努力弥补投资人的损失。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司工商登记的经营范围是自有资金投资，但实际从事吸收公众存款业务。你作为法定代表人，为何要采取这种与实际经营范围不符的经营方式？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我认为通过吸收公众资金再转借出去可以赚取利差，比单纯用自有资金投资利润更高。公司注册经营范围写自有资金投资是为了方便注册，实际经营时采取了更灵活的方式。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司业务员马某、刘某甲等人已被判刑，你作为公司实际控制人，对此有何认识？是否认同法院对他们行为的定性？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到作为公司实际控制人应当承担主要责任。我认同法院对他们行为的定性，他们都是按照我的指示开展业务的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在侦查阶段供述称\"认为通过担保和高息承诺可以吸引投资\"，这种经营模式是否具有可持续性？你当时是否预见到可能造成的严重后果？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实没有认真考虑过这种模式的可持续性，只想着短期获利。我没有预见到会造成这么严重的后果，现在非常后悔。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你公司吸收的290万元资金中，有250万元借给了李某甲，请说明你与李某甲的关系，以及他向你承诺的具体利息是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "李某甲是我的朋友关系。他当时承诺的月息是2%，比我们给投资人的1.4%-1.6%要高一些。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人王某甲，你公司向投资人承诺的1.4%-1.6%月息是如何确定的？这个利率水平与当时市场正常借贷利率相比如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这个利率是根据当时民间借贷市场的行情确定的，比银行利率高一些，但比一些非法集资案件的利率要低。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你公司向投资人承诺的1.4%-1.6%月息是如何确定的？这个利率水平与当时市场正常借贷利率相比如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这个利率是根据当时民间借贷市场的行情确定的，比银行利率高一些，但比一些非法集资案件的利率要低。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人王某甲，你公司向55名投资人吸收的290万元资金中，除250万元借给李某甲外，其余40万元具体用于哪些公司运营开支？请详细说明。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于支付公司房租、员工工资、业务提成和日常办公费用。具体来说，房租每月约1.5万元，员工工资和提成每月约3万元，其余用于办公用品采购、水电费等日常开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向李某甲出借的250万元资金，是否签订了书面借款合同？合同中约定的还款期限和担保措施是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "与李某甲签订了书面借款合同，约定借款期限为6个月，由李某甲名下一处房产作为抵押担保。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向李某甲出借的250万元资金，目前是否已采取法律措施追讨？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "已经向法院提起诉讼要求李某甲偿还借款，但目前尚未执行到位。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向投资人承诺的1.4%-1.6%月息，是否在借款合同中明确约定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在借款合同中有明确约定月息1.4%-1.6%，并写明了按月付息、到期还本的条款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你公司向李某甲出借的250万元资金，目前该抵押房产是否已经进入司法处置程序？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "已经向法院申请强制执行，但抵押房产尚未进入司法拍卖程序。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2014年7月24日，我在阳泉市注册成立山西盛百泽投资管理有限公司，担任法定代表人。公司实际经营地点位于阳泉市南山南路龙泉小区E幢三层楼。2014年8月至12月期间，公司通过雇佣业务员散发传单、推销介绍等方式，向社会不特定人群宣传河南伊川重腾刚玉有限公司的投资项目，承诺高额利息回报，吸引公众投资。公司与投资人签订资产管理合同，出具借据和承诺函，提供担保。共吸收55名投资人存款合计290万元，支付利息133540元，造成实际损失2766460元。吸收的资金被我借给朋友李某甲250万元，其余部分用于公司运营和个人获利约5、6万元。  \n\n（2）犯案动机  \n公司注册经营范围虽为自有资金投资，但实际从事吸收公众存款业务。我未取得相关金融业务许可，但认为通过担保和高息承诺可以吸引投资，再将资金转借他人获取利差。  \n\n（3）案发之后的处理  \n2017年5月31日，我在河南省伊川县被交警查获，因未携带有效证件且神情慌张，经核查被确认为网上在逃人员。2017年6月1日至9日在伊川县看守所羁押，后移交阳泉市公安局城区分局。案发后我没有主动自首，目前尚未赔偿投资人损失，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：伊川县公安局交通警察大队五中队出具的抓获经过，证实2017年5月31日民警查获未年检车辆时发现驾驶员王某甲系网上在逃人员",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：河南省伊川县看守所出具的羁押证明，证实被告人王某甲于2017年6月1日至6月9日在该所羁押，后移交阳泉市公安局城区分局",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：阳泉市公安局城区分局经济犯罪侦查大队出具的常住人口基本信息，证实被告人王某甲的自然身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人刘某甲（业务经理）称：“我在2014年11月入职山西盛百泽公司，法人是王某甲。公司通过宣传单承诺高息吸收存款，我经手1名投资人10万元，自己投资12万元，损失11万余元。资金去向不清楚。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人马某（业务经理）称：“我负责管理业务员，公司以月息1.4%-1.6%吸收存款，经手8名投资人73万元，自己投资1万元损失9520元。资金由王某甲控制。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人屈某（王某甲妻子）称：“公司由王某甲实际经营，我只短暂帮忙做饭。看到有人来存钱签合同，但具体业务不清楚。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人侯某（会计）称：“公司通过签订资产管理合同吸储，利率1.4%-1.6%。我经手约100人302万元投资，账本已交给王某甲。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：租赁合同及商品房买卖合同，证实王某甲租赁阳泉市龙泉小区E幢三层楼作为公司办公场所",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：收据存根两张，显示王某甲2014年支付房租共计20万元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：山西盛百泽公司营业执照等工商资料，证实公司注册资本5000万元，经营范围含自有资金投资，法定代表人为王某甲",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：山西省阳泉市城区人民法院（2016）晋0302刑初366号刑事判决书，证实该公司及业务员马某、刘某甲已被判刑",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.鉴定意见：山西晨泰会计师事务所审计报告，证实公司非法吸收55人存款290万元，支付利息13.35万元，实际损失276.6万元。该审计报告由具有合法资质的山西晨泰会计师事务所出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审计报告未明确区分公司合法经营资金与非法吸收资金的具体流向，证据链条不完整。部分被害人陈述存在重复计算损失的情况，实际损失金额存疑。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审计报告系由具有合法资质的会计师事务所依法出具，审计程序符合规范要求。报告中对资金流向的审计结论与被告人供述、证人证言相互印证，能够形成完整证据链。关于损失金额的计算，已扣除已支付利息部分，不存在重复计算问题。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对审计报告的意见已充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：阳泉市公安局城区分局经侦大队出具的说明，证实王某甲作为法人于2017年6月被抓获",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：嫌疑人员前科劣迹调查表，证实王某甲无犯罪记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人王某乙（王某甲之子）称：“父亲说将投资款借给老乡李某甲250万元，但对方公司已停业，借条至今未兑现。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：借据三张，显示王某甲2014年分三次借给李某甲合计250万元。借据的真实性已经司法鉴定确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：山西省工商行政管理局出具的公司登记材料，证实山西盛百泽公司2014年7月成立及变更信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：河南伊川重腾耐火材料有限公司工商登记资料，证实该公司法定代表人白某及经营范围。该证据与本案无直接关联",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据与本案指控的非法吸收公众存款行为无直接关联，不能证明被告人的犯罪事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证据虽与直接指控行为无直接关联，但能够证明被告人虚构投资项目的事实，与被告人供述中关于虚构投资项目吸引投资人的内容相互印证，具有辅助证明作用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "该证据的证明目的已经明确，控辩双方意见已充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.被害人陈述：被害人胡某称：“2014年12月投资6万元，仅获1920元利息，损失58080元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.被害人陈述：被害人闫某称：“2014年10月投资30万元，获息1.8万元，实际损失28.2万元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.被害人陈述：被害人刘某乙称：“2014年12月投资1万元，损失9840元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.被害人陈述：被害人张某乙称：“2014年10月投资10万元，获息8000元，损失9.2万元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.被害人陈述：被害人马某称：“2014年9月投资1万元，损失9520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.被害人陈述：被害人李某乙称：“2014年12月投资2万元，损失19360元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.被害人陈述：被害人李某丙称：“2014年12月投资3万元，损失29040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.被害人陈述：被害人孙某甲称：“2014年11月投资10万元，损失95800元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.被害人陈述：被害人孙某乙称：“2014年11月投资2万元，损失18880元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.被害人陈述：被害人宋某甲称：“2014年9月投资1万元，损失9200元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.被害人陈述：被害人魏某称：“两次投资共3万元，分别损失19720元和9840元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.被害人陈述：被害人张某丙称：“2014年12月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.被害人陈述：被害人郝某称：“2014年10月投资2万元，损失18720元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.被害人陈述：被害人张某丁称：“三次投资共4万元，分别损失9580元、18720元和9440元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.被害人陈述：被害人张某戊称：“2014年12月投资10万元，损失96400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.被害人陈述：被害人刘某甲称：“两次投资共12万元，分别损失96400元和19040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.被害人陈述：被害人田某称：“2014年11月投资1万元，损失9550元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.被害人陈述：被害人王某丙称：“2014年10月投资10万元，损失95800元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.被害人陈述：被害人冯某甲称：“2014年10月投资2万元，损失18720元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "39.被害人陈述：被害人曹某称：“两次投资共10万元，分别损失28080元和65520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "40.被害人陈述：被害人纽某称：“2014年12月投资1万元，损失9860元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "41.被害人陈述：被害人王某丁称：“两次投资共2万元，分别损失9580元和9550元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "42.被害人陈述：被害人路某称：“2014年11月投资1万元，损失9580元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "43.被害人陈述：被害人商某称：“2014年12月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "44.被害人陈述：被害人石某称：“2014年11月投资1万元，损失9580元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "45.被害人陈述：被害人康某称：“2014年10月投资10万元，损失93600元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "46.被害人陈述：被害人郭某甲称：“四次投资共4万元，分别损失9360元（三次）和9520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "47.被害人陈述：被害人薛某甲称：“三次投资共3万元，均损失9400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "48.被害人陈述：被害人郭某乙称：“2014年12月投资5万元，损失48400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "49.被害人陈述：被害人陈某称：“两次投资共2万元，均损失9400元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "50.被害人陈述：被害人张某己称：“2014年10月投资2万元，损失19040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "51.被害人陈述：被害人贾某称：“2014年10月投资3万元，损失28740元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "52.被害人陈述：被害人张某庚称：“2014年10月投资1万元，损失9360元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "53.被害人陈述：被害人高某称：“三次投资共3万元，分别损失9100元、9040元和9300元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "54.被害人陈述：被害人李某丁称：“2014年11月投资6万元，损失58320元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "55.被害人陈述：被害人赵某称：“2014年11月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "56.被害人陈述：被害人杨某乙称：“三次投资共3万元，均损失9580元（两次）和9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "57.被害人陈述：被害人史某称：“2014年10月投资1万元，损失9550元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "58.被害人陈述：被害人薛某乙称：“2014年10月投资1万元，损失9300元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "59.被害人陈述：被害人付某称：“2014年10月投资3万元，损失28320元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "60.被害人陈述：被害人孙某丙称：“2014年12月投资2万元，损失19040元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "61.被害人陈述：被害人武某称：“三次投资共3万元，分别损失9360元（两次）和9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "62.被害人陈述：被害人白某称：“2014年11月投资1万元，损失9520元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "63.被害人陈述：被害人王某戊称：“四次投资共14万元，分别损失67060元、19160元、28740元和19160元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "64.被害人陈述：被害人王某己称：“2014年10月投资1万元，损失9680元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "65.被害人陈述：被害人郭某丙称：“两次投资共2万元，分别损失9680元和9740元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "66.被害人陈述：被害人宋某乙称：“两次投资共36万元，分别损失166600元和186200元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "67.被害人陈述：被害人宋某丙称：“两次投资共23万元，分别损失142350元和77760元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "68.被害人陈述：被害人李某戊称：“2014年11月投资1万元，损失9850元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "69.被害人陈述：被害人冯某乙称：“2014年12月投资10万元，损失94300元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "70.被害人陈述：被害人焦某称：“2014年12月投资5万元，损失47750元。”该陈述已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "71.书证：受害群众情况汇总表，列明55名被某投资金额及损失明细。该汇总表已经由公安机关证实，并具备资质证明。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表以下辩论意见：\n\n一、关于定罪方面\n被告人王某甲作为公司法定代表人，明知公司未取得金融业务许可，仍批准实施高息揽储方案，其主观故意明显。根据《刑法》第一百七十六条，已构成非法吸收公众存款罪。被告人将大部分资金（250万元）借给个人朋友牟利，而非用于正常生产经营，进一步印证其非法占有的主观目的。\n\n二、关于量刑情节\n1.本案涉案金额290万元，造成实际损失276万余元，涉及55名投资人，根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，已达到\"数额巨大\"标准。\n2.被告人虽认罪悔罪，但案发后未主动投案，且至今未实际赔偿被害人损失，不具备自首和积极退赔的从轻情节。\n3.被告人作为公司实际控制人，在犯罪中起主要作用，应承担主要责任。\n\n三、关于证据方面\n1.工商登记、审计报告等书证来源合法，程序正当。\n2.55名被害人陈述与员工证言、被告人供述相互印证，形成完整证据链。\n3.审计报告由专业机构出具，结论客观可信。\n\n综上，被告人王某甲的行为已构成非法吸收公众存款罪，且情节严重，请法庭依法判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表以下辩护意见：\n\n一、关于案件事实方面\n1.审计报告未能明确区分公司合法经营资金与非法吸收资金的具体流向，证据链条存在不完整性。根据《刑事诉讼法》第五十三条，证据必须确实充分才能作为定案依据。\n\n2.部分被害人陈述存在重复计算损失的情况，实际损失金额存疑。河南伊川重腾耐火材料有限公司工商登记资料与本案指控的非法吸收公众存款行为无直接关联，不能证明被告人的犯罪事实。\n\n二、关于量刑情节\n1.被告人系初犯且无前科，根据《刑法》第六十七条，主观恶性较小，应当从轻处罚。\n\n2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，资金用途是量刑的重要考量因素。\n\n3.被告人认罪态度良好，愿意积极退赔，并已对李某甲提起诉讼追讨借款，表明其有悔罪表现。根据《刑法》第六十七条第三款，可以从轻处罚。\n\n三、关于法律适用\n建议法庭充分考虑被告人系初犯、认罪态度良好、资金主要用于经营而非个人挥霍等情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于辩护人提出的证据链条问题\n审计报告已明确区分了非法吸收资金与合法经营资金，被告人供述中承认将250万元借给李某甲，与借据、证人证言相互印证，证据链条完整。根据《刑事诉讼法》第五十五条，证据之间能够相互印证，足以认定案件事实。\n\n二、关于损失金额计算\n审计报告由专业机构出具，已扣除已支付利息部分，不存在重复计算问题。55名被害人陈述与审计报告相互印证，损失金额276万余元认定准确。\n\n三、关于量刑情节\n1.被告人虽系初犯，但作为公司法定代表人，主观恶性较大。根据《刑法》第一百七十六条第二款，单位犯罪中直接负责的主管人员应当从重处罚。\n\n2.资金流向显示被告人将大部分资金用于个人牟利，而非正常经营，社会危害性严重。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，将吸收资金用于违法犯罪活动或借给他人获取高额利息的，应当从重处罚。\n\n3.被告人虽表示愿意退赔，但至今未实际履行，且案发后未主动投案，不符合从轻处罚条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于审计报告问题\n审计报告虽由专业机构出具，但未能详细列明资金流向的具体凭证，特别是250万元出借款项与公司其他资金往来的区分依据不足。根据《最高人民法院关于适用刑事诉讼法的解释》第八十五条，鉴定意见应当具有完整性，不能仅凭结论性意见定案。\n\n二、关于社会危害性\n被告人将资金主要用于出借而非个人挥霍，且已对李某甲提起诉讼追偿，表明其主观上并非恶意占有。根据《刑法》第六十一条，量刑应当与犯罪的社会危害性相适应。本案中被告人的行为与典型的非法集资案件存在明显区别。\n\n三、关于认罪态度\n被告人在侦查阶段即如实供述，庭审中认罪悔罪态度诚恳。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于当庭自愿认罪的，可以减少基准刑的10%以下。虽未实际退赔，但已表明赔偿意愿并采取法律措施追讨借款，应当予以考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于审计报告完整性问题\n审计报告已详细列明资金流向，包括250万元出借款项的借据、收款凭证等原始凭证，与被告人供述完全吻合。根据《最高人民法院关于适用刑事诉讼法的解释》第九十三条，鉴定意见与其他证据相互印证的，应当作为定案依据。\n\n二、关于资金用途问题\n被告人将86%的资金（250万元）借给个人朋友牟取高额利差，明显超出正常经营需要。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条第二款，将吸收资金用于违法犯罪活动或借给他人获取高额利息的，应当从重处罚。\n\n三、关于认罪态度问题\n被告人虽当庭认罪，但案发后未主动投案，且至今未实际赔偿被害人损失。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，仅口头认罪悔罪但未实际退赔的，不能从轻处罚。被告人虽表示愿意赔偿，但距案发已近三年仍未履行，其悔罪表现不足。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于资金用途问题\n公诉人将资金出借行为简单等同于个人牟利有失偏颇。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，资金用于生产经营活动的可以从轻处罚。被告人将资金借给李某甲时已要求抵押担保，并已通过法律途径追讨，表明其具有还款意愿而非恶意占有。\n\n二、关于认罪态度问题\n被告人虽未主动投案，但在到案后始终如实供述，庭审中认罪态度诚恳。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于当庭自愿认罪的，应当予以从宽考虑。被告人已制定切实可行的还款计划，并已对李某甲提起诉讼追讨借款，其悔罪表现应当得到认可。\n\n三、关于社会危害性评估\n本案与典型的非法集资案件存在明显区别：1.利率水平明显低于同类案件；2.资金主要用于借贷而非个人挥霍；3.已采取法律措施追讨借款。根据《刑法》第六十一条，量刑应当与犯罪的社会危害性相适应，建议法庭充分考虑这些情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的行为深感悔恨，愿意认罪认罚。作为公司法定代表人，我没有依法经营，给55名投资人造成了巨大损失。我承诺将尽最大努力追回借给李某甲的250万元，并制定切实可行的还款计划，分期偿还投资人损失。恳请法庭考虑我是初犯，认罪态度诚恳，能够从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "阳泉市城区人民法院\n刑事判决书\n（2017）晋0302刑初XX号\n\n公诉机关阳泉市城区人民检察院。\n被告人王某甲，男，XXX年X月X日出生，汉族，XXX文化程度，山西盛百泽投资有限公司法定代表人，户籍地XXXX。因涉嫌非法吸收公众存款罪于2017年5月31日被抓获，2017年6月9日被刑事拘留，现羁押于阳泉市看守所。\n辩护人XXX，XXX律师事务所律师。\n\n阳泉市城区人民检察院于2017年12月8日以被告人王某甲犯非法吸收公众存款罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。阳泉市城区人民检察院检察员杨某甲出庭支持公诉，被告人王某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n阳泉市城区人民检察院指控：2014年7月至12月间，被告人王某甲作为山西盛百泽投资管理有限公司法定代表人，违反国家金融管理法律规定，未经有关部门批准，通过业务员散发传单、口头宣传等方式，以月息1.4%-1.6%的高额利息为诱饵，向社会不特定公众55人非法吸收存款共计290万元，支付利息13.35万元，造成实际损失276.646万元。吸收资金被王某甲用于出借给李某甲等人，至今未归还。认为被告人王某甲的行为已构成非法吸收公众存款罪，建议判处相应刑罚。\n\n被告人王某甲对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人系初犯、认罪态度良好、资金主要用于经营而非个人挥霍等从轻情节的辩护意见。\n\n经审理查明：2014年7月24日，被告人王某甲注册成立山西盛百泽投资管理有限公司并担任法定代表人。2014年8月至12月间，该公司违反国家金融管理法律规定，未经有关部门批准，通过业务员散发传单、口头宣传等方式，以月息1.4%-1.6%的高额利息为诱饵，向社会不特定公众55人非法吸收存款共计290万元，支付利息13.35万元，造成实际损失276.646万元。吸收资金中250万元被王某甲借给李某甲，其余部分用于公司运营和个人获利。上述事实有被告人供述、证人证言、被害人陈述、审计报告、借据等证据证实，足以认定。\n\n本院认为，被告人王某甲违反国家金融管理法规，非法吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。公诉机关指控的罪名成立。被告人王某甲认罪态度较好，但未主动投案，且未实际赔偿被害人损失。综合考虑其犯罪事实、性质、情节和社会危害程度，依照《中华人民共和国刑法》第一百七十六条第一款、第六十四条之规定，判决如下：\n\n一、被告人王某甲犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币五万元；\n二、责令被告人王某甲退赔违法所得人民币276.646万元，返还各被害人（具体金额详见受害群众情况汇总表）。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向阳泉市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n20XX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲作为山西盛百泽投资有限公司法定代表人，其行为是否构成非法吸收公众存款罪。需要查明公司实际经营行为是否超出工商登记范围，是否以高息为诱饵向不特定公众吸收存款。\n\n2.本案应认定为单位犯罪还是个人犯罪。需查明公司设立目的、主要经营活动、违法所得归属等事实，判断犯罪行为是否体现单位意志。\n\n3.犯罪数额的认定问题。需审查审计报告对吸收存款总额、已支付利息及实际损失金额的计算是否准确，各被害人陈述与书证是否能够相互印证。\n\n4.被告人主观故意认定。需查明王某甲是否明知公司未经批准从事吸收存款业务，是否具有非法吸收公众存款的直接故意。\n\n5.量刑情节认定。需查明被告人是否具有自首、坦白、认罪认罚等从轻情节，以及未退赔被害人损失是否构成从重处罚情节。\n\n6.资金去向及追赃挽损情况。需查明250万元出借款项的具体流向，是否存在追回可能，以及被告人是否有退赔意愿和能力。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准",
+              "非法吸收公众存款案件中被告人未赔偿被害人损失对量刑的影响"
+            ],
+            "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准": "### 结论\n非法吸收公众存款罪中单位犯罪与个人犯罪的区分主要依据是否以单位名义实施犯罪、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否以单位名义实施犯罪**：如果犯罪行为是以单位名义实施的，但并非经过单位集体决策，或者违法所得并没有归单位所有，不能认定为单位犯罪。例如，【（2022）鲁刑终360号】中，阿某担保公司虽被用于非法集资，但因未经过单位集体决策，且资金未归单位所有，故不构成单位犯罪。\n- **是否体现单位意志**：如果犯罪行为体现单位意志，即经过单位决策机构按照单位的决策程序决定实施，且为单位谋取非法利益，可认定为单位犯罪。例如，【（2019）京0106刑初1820号】中，石家庄源恒精密机械有限公司自成立后以非法吸收公众存款为主要活动，故依法应认定为个人犯罪而非单位犯罪。\n- **违法所得是否归单位所有**：如果单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。例如，【（2019）沪0113刑初1700号】中，鼎高公司、申禄公司成立后从事的主要业务系犯罪行为，故各被告人的行为应认定为个人犯罪。\n- **单位是否以实施非法集资犯罪活动为主要活动**：如果单位设立后，以实施非法集资犯罪活动为主要活动的，不以单位犯罪论处。例如，【（2015）泉刑初字第195号】中，被告人杨力权出于非法集资的目的而成立徐州金保利担保有限公司，且公司设立后主要实施非法集资犯罪活动，显然不能认定为单位犯罪。\n\n综上，非法吸收公众存款罪中单位犯罪与个人犯罪的区分需综合考虑犯罪行为是否以单位名义实施、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。如果上述条件中任一不满足，应按照个人犯罪处理。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）京0106刑初1820号】：法院认为，被告人连悦伙同他人无视国家法律，未经国家许可，以高额回报为诱饵，变相非法吸收公众存款，其行为已构成非法吸收公众存款罪，应予处罚。鉴于连悦到案后如实供述犯罪事实，认罪态度较好，且自愿认罪认罚，依法对其予以从轻处罚。辩护人提出本案系单位犯罪的意见，经查，源恒公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪，辩护人意见不予采纳。一、被告人连悦犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币十万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月4日起至2021年4月3日止。罚金于判决生效后一个月内缴纳）。\n二、继续追缴被告人连悦违法所得，发还各投资人（详见清单）。\n三、在案扣押人民币一万五千元，由扣押机关依法处理。\n【（2019）沪0113刑初1700号】：法院认为，被告人方1等人的行为构成非法吸收公众存款罪，方1系主犯，谢某某等人系从犯，应依法从轻或减轻处罚。方1等被告人的行为应认定为个人犯罪，而非单位犯罪。谢某某等被告人具有自首情节，方1具有坦白情节，均依法从轻处罚。但各被告人不宜适用缓刑。一、被告人方1犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月9日起至2022年2月8日止；上述罚金款于本判决生效之日起十日内缴纳。)\n二、被告人谢某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n三、被告人余某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年8月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n四、被告人方某2犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n五、被告人聂某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月3日起至2020年9月2日止；上述罚金款于本判决生效之日起十日内缴纳。)\n六、被告人王某犯非法吸收公众存款罪，判处有期徒刑一年，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年4月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n七、被告人叶某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n八、被告人黄某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n九、被告人魏某某犯非法吸收公众存款罪，判处有期徒刑八个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年1月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n十、责令被告人方1、谢某某、余某、方某2、聂某某、王某、叶某某、黄某某、魏某某退赔各名投资人的经济损失。",
+            "非法吸收公众存款案件中被告人未赔偿被害人损失对量刑的影响": "### 结论\n在非法吸收公众存款案件中，被告人未赔偿被害人损失通常会影响量刑，法院倾向于不适用缓刑，且量刑时会考虑未退赔的严重性，但具体影响程度需结合案件的其他情节综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **被告人是否退赔被害人经济损失**：未退赔被害人经济损失通常会导致法院不采纳辩护人提出的缓刑建议，认为不宜适用缓刑。例如，【（2019）闽0182刑初461号】、【（2019）苏0481刑初60号】、【（2020）鲁0831刑初17号】，这些案例中，法院均认为被告人未能有效弥补集资参与人财产损失，不宜适用缓刑。\n- **犯罪数额**：犯罪数额巨大是法院考虑的重要因素，即使被告人有自首情节，也可能不适用缓刑。例如，【（2019）闽0182刑初461号】中，被告人陈建军非法吸收公众存款数额巨大，尽管有自首情节，但法院认为不宜适用缓刑。\n- **社会影响**：非法吸收公众存款案件的社会影响也是法院量刑时考虑的因素。例如，【（2013）南刑初字第7号】中，法院认为被告人的行为给被害人带来的损失巨大，社会影响极坏，因此判处较重的刑罚。\n\n综上，非法吸收公众存款案件中，被告人是否退赔被害人经济损失、犯罪数额的大小以及社会影响的严重程度，都是法院在量刑时会重点考虑的因素。未退赔损失通常会导致法院不采纳缓刑建议，而犯罪数额巨大和社会影响恶劣则可能加重处罚。\n\n#####\n类似案件为：\n【（2019）闽0182刑初461号】：法院认为，被告人陈建军非法吸收公众存款，扰乱金融秩序，金额达人民币3838万元，数额巨大，其行为构成非法吸收公众存款罪。陈建军犯罪后自动投案，如实供述自己的罪行，是自首，可以从轻或者减轻处罚。陈建军非法吸收公众存款数额巨大，且未能退赔被害人经济损失，不适用缓刑。一、被告人陈建军犯非法吸收公众存款罪，判处有期徒刑四年，并处罚金人民币二十万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月29日起至2022年10月28日止。罚金应于本判决生效之日起一个月内缴纳。）\n 二、责令被告人陈建军退出犯罪所得人民币3838万元，发还各被害人。\n【（2019）苏0481刑初60号】：法院认为，被告人黄彩香、陈小巧变相吸收公众存款，数额巨大，扰乱金融秩序，构成非法吸收公众存款罪。二人系共同犯罪中的从犯，陈小巧如实供述犯罪事实，可从轻处罚。但鉴于犯罪数额巨大，集资参与人损失未退赔，社会影响较大，不宜适用缓刑。一、被告人黄彩香犯非法吸收公众存款罪，判处有期徒刑二年二个月，并处罚金人民币八万元；\n二、被告人陈小巧犯非法吸收公众存款罪，判处有期徒刑二年六个月，并处罚金人民币十万元。\n三、被告人黄彩香的违法所得人民币33万元，被告人陈小巧的违法所得人民币34万元，依法予以追缴，按比例返还给集资参与人。\n四、责令被告人黄彩香、陈小巧对犯罪数额内造成集资参与人的损失承担连带退赔责任。\n（刑期从判决执行之日起计算，判决执行前羁押一日折抵刑期一日。）\n【（2020）鲁0831刑初17号】：法院认为，被告人董西国违反国家金融管理法律规定，非法吸收公众存款，数额巨大，情节严重，其行为已构成非法吸收公众存款罪。辩护人提出的部分集资参与人与被告人有亲属关系不影响犯罪数额的认定；存在多次转存续存情形的说法与查明事实不符，不予采纳。被告人至宣判时既未退赔款项，也未与集资参与人达成退赔协议，不适用缓刑。被告人有坦白情节，自愿认罪认罚，系初犯，可从轻处罚。一、被告人董西国犯非法吸收公众存款罪，判处有期徒刑三年十个月，并处罚金人民币十万元。（刑期自判决执行之日起计算，判决执行之前先行羁押一日，折抵刑期一日。即自2019年7月8日起至2023年5月7日止。罚金限于本判决生效后十日内一次性缴纳。）\n 二、责令被告人董西国退赔各集资参与人损失，于本判决生效后十日内一次性支付。具体包括但不限于：相龙申8万元、张庆俊7万元、董西录7万元、董福田12.6万元、王艳美2万元、董福生3万元、朱翠荣2.1万元、谢洪友0.6万元、谢华2万元、李忠祥2万元、孟召英5万元、相龙林1万元、李忠玲0.7万元、张洪青（含张甲亮0.5万元）3.7万元、赵治义5.9万元、张甲庆0.1万元、赵治祥4万元、张洪寅1.8万元、张雷3.7万元、赵飞2万元、夏祥廷1万元、董西刚1万元、王安玲（董书营）1.2万元、刘月星0.7万元、李新英0.8万元、董西美0.3万元、左文明3.5万元、董秀祥2.3万元、莫军叶2万元、宋长友0.3万元、董广庆7万元、董省祥2万元、董茂记3.2万元、董茂凤0.4万元、张彬16.45万元、宋长久1万元、孟宪清1万元、杨宗申0.35万元、孟宪得0.8万元、张存国2万元、左庆民0.35万元、左京注2万元、张厚盈2万元、张厚德1.1万元、张厚军3.5万元、董广杰2万元、张浮伦（曾用名张厚伦）1.7万元、冯延亮1万元、相龙娥0.4万元、董西楼2万元、张际文1.6万元、董福斗3.7万元、谢洪发0.5万元、张广鲁0.06万元、相霞0.5万元、李怀让9万元、李怀柱0.6万元、孟宪龙1万元、张俊秋0.9万元、相修民0.2万元、杨广久0.84万元、张厚峰0.2万元、刘东成1万元、孟昭平1万元、刘永芳1.9万元、李德和1万元、李廷英0.3万元、张存新2.3万元、胡印仲1万元、张秀东0.5万元、高廷福0.3万元、张体均0.6万元、王更友4万元、冯殿义1万元、贺广振3万元、刘东成1万元、刘风美0.1万元、蔡秀全0.5万元、孙庆梅0.3万元、张洪志0.1万元、董西成1.5万元、冯延兵0.1万元、董福荣2万元、张宝金1万元、董良华2万元、张庆义0.3万元、赵吉岱1.7万元、张厚华1万元、董秀香1万元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过工商登记材料、审计报告等书证证实王某甲作为公司法定代表人，未经批准从事非法吸储业务，符合《刑法》第176条构成要件。2.55名被害人陈述及员工证言形成完整证据链，证明其通过公开宣传、高息承诺向不特定对象吸收存款290万元，造成实际损失276万余元，达到\"数额巨大\"标准。3.被告人供述承认资金用于个人获利及出借他人，证明其主观故意及违法性。4.审计报告证实资金流向与损失金额，显示社会危害性严重。5.被告人事后未退赔，无自首情节，应从重处罚。\n防御策略：1.所有书证均经公安机关依法调取，证据来源合法。2.证人证言均经法庭质证，与被害人陈述相互印证。3.审计报告由具备资质的会计师事务所出具，程序合法。4.被告人在侦查阶段稳定供述，与客观证据吻合。5.前科调查证实无犯罪记录不影响本案定罪。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第一条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第一条": "违反国家金融管理法律规定，向社会公众（包括单位和个人）吸收资金的行为，同时具备下列四个条件的，除刑法另有规定的以外，应当认定为刑法第一百七十六条规定的“非法吸收公众存款或者变相吸收公众存款”：（一）未经有关部门依法批准或者借用合法经营的形式吸收资金；（二）通过媒体、推介会、传单、手机短信等途径向社会公开宣传；（三）承诺在一定期限内以货币、实物、股权等方式还本付息或者给付回报；（四）向社会公众即社会不特定对象吸收资金。未向社会公开宣传，在亲友或者单位内部针对特定对象吸收资金的，不属于非法吸收或者变相吸收公众存款。",
+            "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条": "非法吸收或者变相吸收公众存款，具有下列情形之一的，应当依法追究刑事责任：（一）个人非法吸收或者变相吸收公众存款，数额在20万元以上的，单位非法吸收或者变相吸收公众存款，数额在100万元以上的；（二）个人非法吸收或者变相吸收公众存款对象30人以上的，单位非法吸收或者变相吸收公众存款对象150人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在10万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的；（四）造成恶劣社会影响或者其他严重后果的。具有下列情形之一的，属于刑法第一百七十六条规定的“数额巨大或者有其他严重情节”：（一）个人非法吸收或者变相吸收公众存款，数额在100万元以上的，单位非法吸收或者变相吸收公众存款，数额在500万元以上的；（二）个人非法吸收或者变相吸收公众存款对象100人以上的，单位非法吸收或者变相吸收公众存款对象500人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在250万元以上的；（四）造成特别恶劣社会影响或者其他特别严重后果的。非法吸收或者变相吸收公众存款的数额，以行为人所吸收的资金全额计算。案发前后已归还的数额，可以作为量刑情节酌情考虑。非法吸收或者变相吸收公众存款，主要用于正常的生产经营活动，能够及时清退所吸收资金，可以免予刑事处罚；情节显著轻微的，不作为犯罪处理。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准",
+              "非法吸收公众存款案件中被告人未退赔情况下如何量刑"
+            ],
+            "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准": "### 结论\n非法吸收公众存款罪中单位犯罪与个人犯罪的区分主要依据是否以单位名义实施犯罪、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否以单位名义实施犯罪**：如果犯罪行为是以单位名义实施的，但并非经过单位集体决策，或者违法所得并没有归单位所有，不能认定为单位犯罪。例如，【（2022）鲁刑终360号】中，阿某担保公司虽被用于非法集资，但因未经过单位集体决策，且资金未归单位所有，故不构成单位犯罪。\n- **是否体现单位意志**：如果犯罪行为体现单位意志，即经过单位决策机构按照单位的决策程序决定实施，且为单位谋取非法利益，可认定为单位犯罪。例如，【（2019）京0106刑初1820号】中，石家庄源恒精密机械有限公司自成立后以非法吸收公众存款为主要活动，故依法应认定为个人犯罪而非单位犯罪。\n- **违法所得是否归单位所有**：如果单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。例如，【（2019）沪0113刑初1700号】中，鼎高公司、申禄公司成立后从事的主要业务系犯罪行为，故各被告人的行为应认定为个人犯罪。\n- **单位是否以实施非法集资犯罪活动为主要活动**：如果单位设立后，以实施非法集资犯罪活动为主要活动的，不以单位犯罪论处。例如，【（2015）泉刑初字第195号】中，被告人杨力权出于非法集资的目的而成立徐州金保利担保有限公司，且公司设立后主要实施非法集资犯罪活动，显然不能认定为单位犯罪。\n\n综上，非法吸收公众存款罪中单位犯罪与个人犯罪的区分需综合考虑犯罪行为是否以单位名义实施、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。如果上述条件中任一不满足，应按照个人犯罪处理。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）京0106刑初1820号】：法院认为，被告人连悦伙同他人无视国家法律，未经国家许可，以高额回报为诱饵，变相非法吸收公众存款，其行为已构成非法吸收公众存款罪，应予处罚。鉴于连悦到案后如实供述犯罪事实，认罪态度较好，且自愿认罪认罚，依法对其予以从轻处罚。辩护人提出本案系单位犯罪的意见，经查，源恒公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪，辩护人意见不予采纳。一、被告人连悦犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币十万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月4日起至2021年4月3日止。罚金于判决生效后一个月内缴纳）。\n二、继续追缴被告人连悦违法所得，发还各投资人（详见清单）。\n三、在案扣押人民币一万五千元，由扣押机关依法处理。\n【（2019）沪0113刑初1700号】：法院认为，被告人方1等人的行为构成非法吸收公众存款罪，方1系主犯，谢某某等人系从犯，应依法从轻或减轻处罚。方1等被告人的行为应认定为个人犯罪，而非单位犯罪。谢某某等被告人具有自首情节，方1具有坦白情节，均依法从轻处罚。但各被告人不宜适用缓刑。一、被告人方1犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月9日起至2022年2月8日止；上述罚金款于本判决生效之日起十日内缴纳。)\n二、被告人谢某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n三、被告人余某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年8月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n四、被告人方某2犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n五、被告人聂某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月3日起至2020年9月2日止；上述罚金款于本判决生效之日起十日内缴纳。)\n六、被告人王某犯非法吸收公众存款罪，判处有期徒刑一年，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年4月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n七、被告人叶某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n八、被告人黄某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n九、被告人魏某某犯非法吸收公众存款罪，判处有期徒刑八个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年1月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n十、责令被告人方1、谢某某、余某、方某2、聂某某、王某、叶某某、黄某某、魏某某退赔各名投资人的经济损失。",
+            "非法吸收公众存款案件中被告人未退赔情况下如何量刑": "### 结论\n在非法吸收公众存款案件中，被告人未退赔情况下的量刑，法院会综合考虑犯罪数额、犯罪情节、自首、坦白、认罪认罚、退赔情况、社会危害性、是否初犯、是否从犯、是否自首、是否适用缓刑等因素。未退赔通常会导致量刑时不予适用缓刑，且在量刑时作为加重情节考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十五条第（三）项**：规定非法经营罪，包括未经国家有关主管部门批准非法经营证券、期货、保险业务，或者非法从事资金支付结算业务。\n- **《中华人民共和国刑法》第六十四条**：规定犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赔情况**：未退赔通常会导致量刑时不予适用缓刑，且在量刑时作为加重情节考虑。例如，【（2020）鲁0831刑初17号】、【（2020）苏1323刑初45号】、【（2020）鲁1392刑初27号】、【（2019）闽0182刑初461号】、【（2020）沪0106刑初422号】、【（2020）苏0302刑初169号】中，法院均认为被告人未退赔是不予适用缓刑的重要因素。\n- **自首、坦白、认罪认罚**：这些情节可以作为从轻处罚的因素。例如，【（2019）沪0106刑初688号】、【（2020）沪0106刑初422号】中，法院认为自首、坦白、认罪认罚可以从轻处罚。\n- **犯罪数额和情节**：数额巨大、情节严重通常会导致更重的刑罚。例如，【（2020）鲁0831刑初17号】、【（2020）苏1323刑初45号】、【（2020）鲁1392刑初27号】中，法院均认为犯罪数额巨大是加重处罚的因素。\n- **是否初犯、是否从犯**：初犯、从犯可能作为从轻处罚的因素。例如，【（2020）鲁1392刑初27号】中，法院认为被告人系初犯、偶犯，认罪认罚，到案后如实供述案件事实，已部分退赔，依法可对其从轻处罚。\n\n综上，非法吸收公众存款案件中，被告人未退赔情况下的量刑，法院会综合考虑上述因素，未退赔通常会导致量刑时不予适用缓刑，且在量刑时作为加重情节考虑。自首、坦白、认罪认罚、犯罪数额和情节、是否初犯、是否从犯等也是影响量刑的重要因素。\n\n#####\n类似案件为：\n【（2020）鲁0831刑初17号】：法院认为，被告人董西国违反国家金融管理法律规定，非法吸收公众存款，数额巨大，情节严重，其行为已构成非法吸收公众存款罪。辩护人提出的部分集资参与人与被告人有亲属关系不影响犯罪数额的认定；存在多次转存续存情形的说法与查明事实不符，不予采纳。被告人至宣判时既未退赔款项，也未与集资参与人达成退赔协议，不适用缓刑。被告人有坦白情节，自愿认罪认罚，系初犯，可从轻处罚。一、被告人董西国犯非法吸收公众存款罪，判处有期徒刑三年十个月，并处罚金人民币十万元。（刑期自判决执行之日起计算，判决执行之前先行羁押一日，折抵刑期一日。即自2019年7月8日起至2023年5月7日止。罚金限于本判决生效后十日内一次性缴纳。）\n 二、责令被告人董西国退赔各集资参与人损失，于本判决生效后十日内一次性支付。具体包括但不限于：相龙申8万元、张庆俊7万元、董西录7万元、董福田12.6万元、王艳美2万元、董福生3万元、朱翠荣2.1万元、谢洪友0.6万元、谢华2万元、李忠祥2万元、孟召英5万元、相龙林1万元、李忠玲0.7万元、张洪青（含张甲亮0.5万元）3.7万元、赵治义5.9万元、张甲庆0.1万元、赵治祥4万元、张洪寅1.8万元、张雷3.7万元、赵飞2万元、夏祥廷1万元、董西刚1万元、王安玲（董书营）1.2万元、刘月星0.7万元、李新英0.8万元、董西美0.3万元、左文明3.5万元、董秀祥2.3万元、莫军叶2万元、宋长友0.3万元、董广庆7万元、董省祥2万元、董茂记3.2万元、董茂凤0.4万元、张彬16.45万元、宋长久1万元、孟宪清1万元、杨宗申0.35万元、孟宪得0.8万元、张存国2万元、左庆民0.35万元、左京注2万元、张厚盈2万元、张厚德1.1万元、张厚军3.5万元、董广杰2万元、张浮伦（曾用名张厚伦）1.7万元、冯延亮1万元、相龙娥0.4万元、董西楼2万元、张际文1.6万元、董福斗3.7万元、谢洪发0.5万元、张广鲁0.06万元、相霞0.5万元、李怀让9万元、李怀柱0.6万元、孟宪龙1万元、张俊秋0.9万元、相修民0.2万元、杨广久0.84万元、张厚峰0.2万元、刘东成1万元、孟昭平1万元、刘永芳1.9万元、李德和1万元、李廷英0.3万元、张存新2.3万元、胡印仲1万元、张秀东0.5万元、高廷福0.3万元、张体均0.6万元、王更友4万元、冯殿义1万元、贺广振3万元、刘东成1万元、刘风美0.1万元、蔡秀全0.5万元、孙庆梅0.3万元、张洪志0.1万元、董西成1.5万元、冯延兵0.1万元、董福荣2万元、张宝金1万元、董良华2万元、张庆义0.3万元、赵吉岱1.7万元、张厚华1万元、董秀香1万元。\n【（2020）苏1323刑初45号】：法院认为，被告人胡亮违反国家金融管理法规，以口口相传的方式向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。胡亮归案后，如实供述犯罪事实，认罪认罚，且归还大部分集资款项，故对其从轻处罚。本案中存在集资参与人收回本金或获得回报后又重复出借的情况，量刑时酌情从轻处罚。一、被告人胡亮犯非法吸收公众存款罪，判处有期徒刑三年二个月，并处罚金五万元。\n (刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年9月3日起至2022年11月2日止。罚金于判决生效后十日内缴纳)。\n 二、责令被告人胡亮退还所吸收存款。\n （尚未归还的，于判决生效之后十日内退还）。\n【（2020）鲁1392刑初27号】：法院认为，被告人戚廷敏非法吸收公众存款，数额巨大，其行为构成非法吸收公众存款罪。虽然戚廷敏系初犯、偶犯，认罪认罚，到案后如实供述案件事实，已部分退赔，但鉴于其在吸收存款过程中起主要作用，且大部分存款未退赔，不适宜判处缓刑。被告人戚廷敏犯非法吸收公众存款，判处有期徒刑三年，并处罚金人民币十万元。\n （刑期自执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，应扣除已羁押的一日；罚金限判决生效后十日内缴纳。）"
+          }
+        },
+        "目标": "请求法院判处被告人王某甲犯非法吸收公众存款罪，处三年以上十年以下有期徒刑，并处罚金",
+        "询问": "1.被告人王某甲，你作为山西盛百泽投资管理有限公司的法定代表人，是否清楚公司未经金融监管部门批准就开展吸收公众存款业务？请说明你对此的认知情况。\n\n2.你公司通过业务员散发传单、口头宣传等方式向社会公众吸收存款，并承诺月息1.4%-1.6%的高额回报，这些宣传内容是否经过你的授意或批准？\n\n3.你公司吸收的290万元资金中，有250万元借给了李某甲，其余部分用于公司运营和个人获利。请具体说明这些资金的使用决策过程，以及你个人从中获利的具体金额。\n\n4.在案发后，你为何没有主动投案自首？对于给55名投资人造成的276万余元实际损失，你是否有退赔计划？\n\n5.你公司工商登记的经营范围是自有资金投资，但实际从事吸收公众存款业务。你作为法定代表人，为何要采取这种与实际经营范围不符的经营方式？\n\n6.你公司业务员马某、刘某甲等人已被判刑，你作为公司实际控制人，对此有何认识？是否认同法院对他们行为的定性？\n\n7.你在侦查阶段供述称\"认为通过担保和高息承诺可以吸引投资\"，这种经营模式是否具有可持续性？你当时是否预见到可能造成的严重后果？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的审计报告未明确区分公司经营资金与非法吸收资金的具体流向，证据链条不完整2.部分被害人陈述存在重复计算损失的情况，实际损失金额存疑3.河南伊川重腾耐火材料有限公司工商登记资料与本案无直接关联，不应作为证据使用\n防御策略：1.被告人系初犯且无前科，主观恶性较小2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低3.被告人愿意积极退赔，但因资金被他人占用暂未履行，具有悔罪表现",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中'社会不特定对象'的认定标准",
+              "非法吸收公众存款罪中被告人积极退赔对量刑的影响"
+            ],
+            "非法吸收公众存款罪中'社会不特定对象'的认定标准": "### 结论\n非法吸收公众存款罪中'社会不特定对象'的认定标准主要涉及行为人是否通过各种途径向社会公众传播吸收资金的信息，以及是否明知吸收资金的信息向社会扩散而予以放任。关键在于判断行为人是否主动授意或在获悉存在口口相传向社会人员吸收资金时不予控制或排斥，以及对社会人员直接或以内部人员名义投入的资金是否均予以吸收。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **公开性**：是否通过媒体、推介会、传单、社交平台等各种途径向社会公众传播吸收资金信息。例如，【（2023）鲁16刑终6号】中，法院认为陈某先通过公司员工以口口相传方式向公司外部人员公开宣传高息吸收存款信息，属于向社会不特定对象公开宣传。\n- **社会性**：是否向不特定对象吸收资金。例如，【（2019）粤0112刑初861号】中，法院认为陈某红的行为不构成非法吸收公众存款罪，因为其借款对象均为特定对象，且借款行为具有特定的社会关系基础，范围固定、封闭，不具有开放性。\n- **利诱性**：是否承诺在一定期限内给付高额利息。例如，【（2020）浙0603刑初831号】中，法院认为任富元承诺2%-6%不等月息的高息回报，符合非法吸收公众存款罪的利诱性特征。\n- **非法性**：是否未经有关部门依法批准。例如，【（2019）沪0113刑初1569号】中，法院认为嘉丰瑞德公司设立后，在未获得有关部门批准的情况下，以向社会公众吸收资金的犯罪行为为主要活动，不应以单位犯罪认定。\n\n综上，非法吸收公众存款罪的认定需要综合考虑行为的公开性、社会性、利诱性和非法性，特别是行为人是否主动或放任向社会不特定对象吸收资金的行为。\n\n#####\n类似案件为：\n【（2023）鲁16刑终6号】：法院生效裁判认为，本案争议焦点为被告人陈某先通过内部员工口口相传的方式吸收存款行为是否属于向社会不特定对象吸收资金。在案证据反映，陈某先虽向员工发布公司高息吸收存款信息，但未限制吸收存款对象范围，由员工以口口相传方式为公司宣传吸收存款，后陈某先以某公司名义与前来存款的员工、员工亲属、其他社会人员签订借款合同。陈某先未经批准，擅自通过公司员工以口口相传方式向公司外部人员公开宣传高息吸收存款信息，属于向社会不特定对象公开宣传，其行为符合非法吸收公众存款罪的构成要件。故法院依法作出如上裁判。\n【（2019）粤0112刑初861号】：法院生效裁判认为：被告人陈某红的行为不符合非法吸收公众存款罪的构成要件。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》规定，非法吸收公众存款应同时具备非法性、公开性、利诱性、社会性；未向社会公开宣传，在亲友或者单位内部针对特定对象吸收资金的，不属于非法吸收或者变相吸收公众存款。被告人陈某红向尹某荣等人的借款行为不具备上述条件。\n第一，本案只有黄某某、蒙某某、伍某某是通过被告人陈某红的妻子陈某认识了陈某红，并借钱给陈某红，还有李某的妻子周某某通过李某认识了陈某红，并借钱给陈某红，虽然是“口口相传”， “口口相传”仅集中在夫妻之间形成的特定关系中，且人数相对较少，借款对象范围较小，故在案证据尚不能证明陈某红本人或委托他人有通过媒体、推介会、传单、手机短信等途径向社会公开宣传需要资金的行为，亦无证据显示其要求借款对象为其募集、吸收资金或明知他人将其吸收资金的信息向社会公众扩散而予以放任的情形。\n第二，本案国某某、贺某、钟某某、张某某、尹某某与被告人陈某红都是商铺租户与房东的关系，李某、翁某某与陈某红是同事关系，以上借款人均与陈某红有特定的社会关系基础，范围固定、封闭，不具有开放性，并非随机选择或者随时可能变化的不特定对象。另外，张某是以投资入股参与项目运营的方式借款给陈某红，并非系陈某红以吸收资金为目的而将张某吸纳为合作伙伴，事实上张某也参与了项目的管理并对资金使用进行监督，故张某应为特定对象。结合第一点的分析可知，黄某某、蒙某某、伍某某、周某某系基于夫妻关系与陈某红认识后继而借钱给被告人陈某红的，亦均系相对特定的具体对象，而并非社会上不特定的人，故以上十二名借款对象均为特定对象。\n第三，申某某虽通过尹某某认识了被告人陈某红，但申某某与陈某红之间签订了借款协议，约定了抵押，并进行了公证。同时，贺某与陈某红的借贷又系通过第三方借贷平台进行。以上表现出较为典型的民间借贷举债的特点，无论从形式上、还是实质上都应属于民事法律所调整的范围，而不应由刑法予以调整。此外，陈某红在向国某某、张某某借款的过程中，还存在着未约定利息或回报的情况。\n【（2020）浙0603刑初831号】：法院认为，被告人任富元以承诺支付高额利息的方法，向社会不特定对象非法吸收存款，数额巨大，扰乱金融秩序，其行为已构成非法吸收公众存款罪。任富元与部分借款人虽有旧交或业务关系，但并未形成真正意义上的友谊或紧密联系，其集资行为符合非法性、公开性、利诱性、社会性四大特征，且数额巨大，应以非法吸收公众存款罪定罪处罚。任富元归还了部分欠款，并获得部分被害人的谅解，酌情予以从轻处罚。一、被告人任富元犯非法吸收公众存款罪，判处有期徒刑三年十个月，并处罚金人民币六万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一八年十月三十日起至二○二四年六月二十一日止。罚金限在判决生效后十日内缴纳）；\n 二、追缴被告人任富元人民币一千四百六十二万四千九百元，追缴后发还给严和良人民币一百三十五万六千四百元、沈某1人民币一百万元、张某人民币五百一十万一千元、詹某人民币一百万元、沈某2人民币五百一十五万元、杨志刚人民币三十五万元、田永华人民币六十六万七千五百元。",
+            "非法吸收公众存款罪中被告人积极退赔对量刑的影响": "### 结论\n在非法吸收公众存款罪中，被告人积极退赔是量刑时的重要考量因素，可以作为从轻或减轻处罚的情节，但其影响程度需结合犯罪性质、社会危害性、被告人主观恶性及人身危险性等综合因素进行判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：规定自首可以从轻或者减轻处罚。\n- **《中华人民共和国刑法》第六十四条**：规定犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **积极退赔**：积极退赔集资参与人损失，表明被告人有悔罪表现，可以作为从轻处罚的情节。例如，【（2019）津0101刑初410号】中，被告人张玉红当庭自愿认罪并积极退赔集资参与人损失，法院酌情从轻处罚并适用缓刑。【（2019）京0105刑初2965号】中，被告人李泽、任发祥、邵国林已退赔部分投资人的部分经济损失，法院在量刑时予以考虑。\n- **自首与认罪认罚**：被告人主动投案，如实供述犯罪事实，构成自首，依法可从轻或减轻处罚。例如，【（2019）京0105刑初2965号】中，被告人石京、李泽、任发祥、邵国林归案后能够如实供述主要犯罪事实，当庭自愿认罪，法院依法予以减轻处罚。\n- **从犯与主犯**：在共同犯罪中，从犯依法可以从轻或减轻处罚。例如，【（2019）京0105刑初2965号】中，被告人石京、李泽、任发祥、邵国林在共同犯罪中起次要作用，系从犯，法院依法予以减轻处罚。\n- **社会危害性与犯罪性质**：犯罪行为的社会危害性及犯罪性质是决定被告人刑罚的基本因素，积极退赔不能完全抵消犯罪的社会危害性。例如，【（2020）津0101刑初227号】中，虽然被告人王常峰积极退缴全部违法所得、退赔集资参与人部分损失，但法院仍需考虑其犯罪性质和对金融秩序的扰乱程度。\n\n综上，积极退赔是非法吸收公众存款罪中影响量刑的重要因素，但其作用需在综合考量犯罪性质、社会危害性、被告人主观恶性及人身危险性等多方面因素后进行判断。\n\n#####\n类似案件为：\n【（2019）津0101刑初410号】：法院认为，被告人张玉红违反国家金融管理法规，参与向社会公开宣传投资理财并许以高额回报，向不特定社会公众吸收资金，数额巨大，构成非法吸收公众存款罪，鉴于其自愿认罪、积极退赔，可酌情从轻处罚并适用缓刑。一、被告人张玉红犯非法吸收公众存款罪，判处有期徒刑三年，缓刑三年，并处罚金五万元。\n（缓刑考验期限从判决确定之日起计算，在缓刑考验期限内，依法实行社区矫正。罚金已预缴。）\n二、被告人张玉红退缴在案的款项15万元，按比例发还集资参与人。\n三、查封、扣押的天津市南开区的房屋、梅赛德斯-奔驰牌小型越野客车一辆（津ＡＭ××××）、路虎揽胜牌小型越野客车一辆（津ＣＤ××××），变现后，按比例发还集资参与人。\n【（2019）京0105刑初2965号】：法院认为，被告人石京、李泽、任发祥、邵国林违反国家金融管理法律规定，帮助他人非法吸收公众存款，其中石京、李泽、任发祥犯罪数额巨大，上述行为构成非法吸收公众存款罪。鉴于四被告人系从犯，能如实供述，初犯，且退赔损失，依法对石京、李泽、任发祥减轻处罚，对邵国林从轻处罚，并均适用缓刑。一、被告人石京犯非法吸收公众存款罪，判处有期徒刑一年二个月，缓刑二年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n二、被告人李泽犯非法吸收公众存款罪，判处有期徒刑一年，缓刑一年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n三、被告人任发祥犯非法吸收公众存款罪，判处有期徒刑十个月，缓刑一年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n四、被告人邵国林犯非法吸收公众存款罪，判处有期徒刑十个月，缓刑一年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n五、在案之人民币九十一万元，将其中人民币四十一万元发还给被告人石京涉及的投资人，将其中人民币十五万元发还给被告人任发祥涉及的投资人，将其中人民币二十三万元发还给被告人李泽涉及的投资人，将其中人民币十二万元发还给被告人邵国林涉及的投资人。\n【（2019）京0105刑初2965号】：法院认为，被告人石京、李泽、任发祥、邵国林违反国家金融管理法律规定，帮助他人非法吸收公众存款，其中石京、李泽、任发祥犯罪数额巨大，上述行为构成非法吸收公众存款罪。鉴于四被告人系从犯，能如实供述，初犯，且退赔损失，依法对石京、李泽、任发祥减轻处罚，对邵国林从轻处罚，并均适用缓刑。一、被告人石京犯非法吸收公众存款罪，判处有期徒刑一年二个月，缓刑二年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n二、被告人李泽犯非法吸收公众存款罪，判处有期徒刑一年，缓刑一年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n三、被告人任发祥犯非法吸收公众存款罪，判处有期徒刑十个月，缓刑一年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n四、被告人邵国林犯非法吸收公众存款罪，判处有期徒刑十个月，缓刑一年，罚金人民币五万元（缓刑考验期限，从判决确定之日起计算。罚金于本判决发生法律效力后3个月内缴纳）。\n五、在案之人民币九十一万元，将其中人民币四十一万元发还给被告人石京涉及的投资人，将其中人民币十五万元发还给被告人任发祥涉及的投资人，将其中人民币二十三万元发还给被告人李泽涉及的投资人，将其中人民币十二万元发还给被告人邵国林涉及的投资人。"
+          }
+        },
+        "目标": "请求法院对被告人王某甲从轻处罚，判处缓刑并减少罚金",
+        "询问": "1. 被告人王某甲，你公司吸收的资金主要用途是什么？是否如你所述250万元借给了李某甲？请说明借款的具体情况和资金流向。\n\n2. 你在经营过程中是否意识到未经批准吸收公众存款是违法行为？当时是基于何种考虑决定采取这种经营模式？\n\n3. 你公司向投资人承诺的1.4%-1.6%月息是如何确定的？这个利率水平与当时市场正常借贷利率相比如何？\n\n4. 你公司通过哪些具体方式向社会公众宣传投资项目？是否仅限于业务员口头宣传和散发传单？\n\n5. 案发后你是否采取过任何措施来弥补投资人损失？目前是否具备退赔能力？如有具体退赔计划请说明。\n\n6. 你作为公司法定代表人，在公司非法吸收存款活动中具体负责哪些工作？公司其他员工如业务经理、会计等各自承担什么职责？\n\n7. 你与投资人签订的资产管理合同、借据等文件是否明确告知了投资风险？合同中是否载明资金具体用途？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人系初犯且无前科，主观恶性较小，应酌情从轻处罚 2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低 3.被告人愿意积极退赔，但因资金被他人占用暂未履行，具有悔罪表现 4.审计报告未明确区分公司经营资金与非法吸收资金的具体流向，证据链条存在瑕疵 5.部分被害人陈述存在重复计算损失的情况，实际损失金额需要进一步核实",
+        "记忆": "",
+        "目标": "请求法院对被告人王某甲从轻处罚，判处缓刑并减少罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲的行为是否构成非法吸收公众存款罪。查明情况：被告人已当庭认罪，承认公司未经批准从事吸收存款业务，并通过高息承诺向社会不特定公众吸收资金。审判长认为犯罪事实清楚，符合非法吸收公众存款罪的构成要件。\n\n2.本案应认定为单位犯罪还是个人犯罪。查明情况：被告人作为公司法定代表人，个人决定资金使用并从中获利，公司设立后主要从事非法吸收存款活动。审判长倾向于认定为个人犯罪，但需进一步审查公司决策程序和资金流向。\n\n3.犯罪数额的认定问题。查明情况：审计报告显示吸收存款290万元，支付利息13.35万元，造成实际损失276.646万元。被告人对此无异议，审判长认为数额认定准确。\n\n4.被告人主观故意认定。查明情况：被告人承认明知公司无相关金融业务许可仍开展吸收存款业务，具有直接故意。审判长认为主观故意明确。\n\n5.量刑情节认定。查明情况：被告人认罪悔罪，但未主动投案，目前无力全额退赔。审判长认为需综合考虑其认罪态度和退赔意愿，但缺乏自首等从轻情节。\n\n6.资金去向及追赃挽损情况。查明情况：250万元借给李某甲，40万元用于公司运营，被告人已对李某甲提起诉讼但尚未执行到位。审判长认为需进一步核实追偿可能性和具体退赔计划。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第一条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第一条": "违反国家金融管理法律规定，向社会公众（包括单位和个人）吸收资金的行为，同时具备下列四个条件的，除刑法另有规定的以外，应当认定为刑法第一百七十六条规定的“非法吸收公众存款或者变相吸收公众存款”：（一）未经有关部门依法批准或者借用合法经营的形式吸收资金；（二）通过媒体、推介会、传单、手机短信等途径向社会公开宣传；（三）承诺在一定期限内以货币、实物、股权等方式还本付息或者给付回报；（四）向社会公众即社会不特定对象吸收资金。未向社会公开宣传，在亲友或者单位内部针对特定对象吸收资金的，不属于非法吸收或者变相吸收公众存款。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准",
+              "非法吸收公众存款案件中被告人认罪认罚但无力退赔的量刑考量"
+            ],
+            "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准": "### 结论\n非法吸收公众存款罪中单位犯罪与个人犯罪的区分主要依据是否以单位名义实施犯罪、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否以单位名义实施犯罪**：如果犯罪行为是以单位名义实施的，但并非经过单位集体决策，或者违法所得并没有归单位所有，不能认定为单位犯罪。例如，【（2022）鲁刑终360号】中，阿某担保公司虽被用于非法集资，但因未经过单位集体决策，且资金未归单位所有，故不构成单位犯罪。\n- **是否体现单位意志**：如果犯罪行为体现单位意志，即经过单位决策机构按照单位的决策程序决定实施，且为单位谋取非法利益，可认定为单位犯罪。例如，【（2019）京0106刑初1820号】中，石家庄源恒精密机械有限公司自成立后以非法吸收公众存款为主要活动，故依法应认定为个人犯罪而非单位犯罪。\n- **违法所得是否归单位所有**：如果单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。例如，【（2019）沪0113刑初1700号】中，鼎高公司、申禄公司成立后从事的主要业务系犯罪行为，故各被告人的行为应认定为个人犯罪。\n- **单位是否以实施非法集资犯罪活动为主要活动**：如果单位设立后，以实施非法集资犯罪活动为主要活动的，不以单位犯罪论处。例如，【（2015）泉刑初字第195号】中，被告人杨力权出于非法集资的目的而成立徐州金保利担保有限公司，且公司设立后主要实施非法集资犯罪活动，显然不能认定为单位犯罪。\n\n综上，非法吸收公众存款罪中单位犯罪与个人犯罪的区分需综合考虑犯罪行为是否以单位名义实施、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。如果上述条件中任一不满足，应按照个人犯罪处理。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）京0106刑初1820号】：法院认为，被告人连悦伙同他人无视国家法律，未经国家许可，以高额回报为诱饵，变相非法吸收公众存款，其行为已构成非法吸收公众存款罪，应予处罚。鉴于连悦到案后如实供述犯罪事实，认罪态度较好，且自愿认罪认罚，依法对其予以从轻处罚。辩护人提出本案系单位犯罪的意见，经查，源恒公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪，辩护人意见不予采纳。一、被告人连悦犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币十万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月4日起至2021年4月3日止。罚金于判决生效后一个月内缴纳）。\n二、继续追缴被告人连悦违法所得，发还各投资人（详见清单）。\n三、在案扣押人民币一万五千元，由扣押机关依法处理。\n【（2019）沪0113刑初1700号】：法院认为，被告人方1等人的行为构成非法吸收公众存款罪，方1系主犯，谢某某等人系从犯，应依法从轻或减轻处罚。方1等被告人的行为应认定为个人犯罪，而非单位犯罪。谢某某等被告人具有自首情节，方1具有坦白情节，均依法从轻处罚。但各被告人不宜适用缓刑。一、被告人方1犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月9日起至2022年2月8日止；上述罚金款于本判决生效之日起十日内缴纳。)\n二、被告人谢某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n三、被告人余某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年8月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n四、被告人方某2犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n五、被告人聂某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月3日起至2020年9月2日止；上述罚金款于本判决生效之日起十日内缴纳。)\n六、被告人王某犯非法吸收公众存款罪，判处有期徒刑一年，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年4月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n七、被告人叶某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n八、被告人黄某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n九、被告人魏某某犯非法吸收公众存款罪，判处有期徒刑八个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年1月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n十、责令被告人方1、谢某某、余某、方某2、聂某某、王某、叶某某、黄某某、魏某某退赔各名投资人的经济损失。",
+            "非法吸收公众存款案件中被告人认罪认罚但无力退赔的量刑考量": "### 结论\n在非法吸收公众存款案件中，被告人认罪认罚但无力退赔的情况，法院在量刑时会综合考虑犯罪数额、认罪态度、退赔情况、社会危害性、是否初犯、是否从犯、是否自首、是否协助退赔、是否适用缓刑等多个因素。认罪认罚态度和退赔情况是影响量刑的重要因素，但无力退赔并不必然导致从重量刑，法院会根据案件具体情况酌情考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：规定非法吸收公众存款罪的构成要件和量刑标准。\n- **《中华人民共和国刑事诉讼法》第十五条**：规定认罪认罚从宽制度的基本原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚态度**：认罪认罚是法院从轻处罚的重要考量因素。例如，【（2020）沪0110刑初277号】中，被告人叶钦浩如实供述自己罪行，依法可以从轻处罚。【（2020）苏1323刑初45号】中，被告人胡亮归案后，如实供述犯罪事实，认罪认罚，归还大部分集资款项，故对其从轻处罚。\n- **退赔情况**：退赔情况是法院量刑时的重要考量因素。例如，【（2020）苏1323刑初45号】中，被告人胡亮归还大部分集资款项，故对其从轻处罚。【（2020）沪0115刑初5165号】中，被告人刘某能积极退赔犯罪所得，可酌情从轻处罚。\n- **社会危害性**：社会危害性是量刑时的重要考量因素。例如，【（2020）苏0302刑初169号】中，被告人周某非法吸收存款数额巨大，且大部分未返还，并非社会危害性较小，故不宜适用缓刑。\n- **是否初犯**：初犯与否是量刑时的考量因素。例如，【（2020）苏0302刑初169号】中，辩护人提出被告人是初犯的辩护意见，但法院认为被告人并非初犯，故对该辩护意见不予采纳。\n- **是否从犯**：是否从犯是量刑时的重要考量因素。例如，【（2020）沪0115刑初5165号】中，被告人在共同犯罪中起次要作用，系从犯，应当从轻处罚。\n- **是否自首**：自首是量刑时的重要考量因素。例如，【（2020）沪0115刑初5165号】中，被告人到案后能作如实供述，可以从轻处罚。\n- **是否协助退赔**：是否协助退赔是量刑时的考量因素。例如，【（2020）粤0305刑初500号】中，被告人高欣虽未到案，但积极筹措资金协助殷丰生家属进行退赔，故在量刑时酌情考虑。\n- **是否适用缓刑**：是否适用缓刑是量刑时的重要考量因素。例如，【（2020）沪0115刑初5165号】中，被告人刘某可以适用缓刑。\n\n综上，认罪认罚态度、退赔情况、社会危害性、是否初犯、是否从犯、是否自首、是否协助退赔、是否适用缓刑等因素都会影响非法吸收公众存款案件中被告人的量刑。法院在量刑时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2020）沪0110刑初277号】：法院认为，叶钦浩伙同他人违反金融管理法律规定，未经依法批准，以投资名义非法向社会公众变相吸收资金，扰乱金融秩序，数额巨大，构成非法吸收公众存款罪。叶钦浩如实供述罪行，可从轻处罚，但不适用缓刑。一、被告人叶钦浩犯非法吸收公众存款罪，判处有期徒刑四年六个月，罚金人民币十万元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月11日起至2024年4月10日止。罚金于本判决发生法律效力之日起十日内缴纳。)\n二、违法所得予以追缴。\n【（2020）苏1323刑初45号】：法院认为，被告人胡亮违反国家金融管理法规，以口口相传的方式向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。胡亮归案后，如实供述犯罪事实，认罪认罚，且归还大部分集资款项，故对其从轻处罚。本案中存在集资参与人收回本金或获得回报后又重复出借的情况，量刑时酌情从轻处罚。一、被告人胡亮犯非法吸收公众存款罪，判处有期徒刑三年二个月，并处罚金五万元。\n (刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年9月3日起至2022年11月2日止。罚金于判决生效后十日内缴纳)。\n 二、责令被告人胡亮退还所吸收存款。\n （尚未归还的，于判决生效之后十日内退还）。\n【（2020）苏1323刑初45号】：法院认为，被告人胡亮违反国家金融管理法规，以口口相传的方式向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。胡亮归案后，如实供述犯罪事实，认罪认罚，且归还大部分集资款项，故对其从轻处罚。本案中存在集资参与人收回本金或获得回报后又重复出借的情况，量刑时酌情从轻处罚。一、被告人胡亮犯非法吸收公众存款罪，判处有期徒刑三年二个月，并处罚金五万元。\n (刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年9月3日起至2022年11月2日止。罚金于判决生效后十日内缴纳)。\n 二、责令被告人胡亮退还所吸收存款。\n （尚未归还的，于判决生效之后十日内退还）。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.通过被告人供述确认其明知公司无金融业务许可仍开展吸储业务，主观故意明显。\n2.强调被告人作为法定代表人直接批准宣传方案和利率标准，在犯罪中起主要作用。\n3.指出资金流向显示被告人将大部分资金(250万)借给个人朋友牟利，而非用于正常生产经营。\n4.根据司法解释，单位非法吸储290万、造成276万损失、涉及55人，已达到\"数额巨大\"标准。\n\n防御策略：\n1.工商登记、审计报告等书证均经合法程序调取，证据来源合法。\n2.55名被害人陈述与员工证言相互印证，形成完整证据链。\n3.被告人供述稳定，与客观证据吻合，不存在刑讯逼供等违法取证情形。\n4.审计报告由专业机构出具，程序合法，结论客观。\n5.前科调查证实被告人无犯罪记录，但不影响本案定罪量刑。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条": "非法吸收或者变相吸收公众存款，具有下列情形之一的，应当依法追究刑事责任：（一）个人非法吸收或者变相吸收公众存款，数额在20万元以上的，单位非法吸收或者变相吸收公众存款，数额在100万元以上的；（二）个人非法吸收或者变相吸收公众存款对象30人以上的，单位非法吸收或者变相吸收公众存款对象150人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在10万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的；（四）造成恶劣社会影响或者其他严重后果的。具有下列情形之一的，属于刑法第一百七十六条规定的“数额巨大或者有其他严重情节”：（一）个人非法吸收或者变相吸收公众存款，数额在100万元以上的，单位非法吸收或者变相吸收公众存款，数额在500万元以上的；（二）个人非法吸收或者变相吸收公众存款对象100人以上的，单位非法吸收或者变相吸收公众存款对象500人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在250万元以上的；（四）造成特别恶劣社会影响或者其他特别严重后果的。非法吸收或者变相吸收公众存款的数额，以行为人所吸收的资金全额计算。案发前后已归还的数额，可以作为量刑情节酌情考虑。非法吸收或者变相吸收公众存款，主要用于正常的生产经营活动，能够及时清退所吸收资金，可以免予刑事处罚；情节显著轻微的，不作为犯罪处理。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中'数额巨大'的认定标准",
+              "非法吸收公众存款案件中法定代表人责任认定的相关案例"
+            ],
+            "非法吸收公众存款罪中'数额巨大'的认定标准": "### 结论\n非法吸收公众存款罪中'数额巨大'的认定标准在不同案例中有所差异，但通常与非法吸收资金的总额、造成的损失金额、参与集资的人数以及是否构成其他严重情节等因素相关。在量刑时，法院会考虑行为人的自首、退赃、从犯地位、初犯等情节，以及集资目的和清退资金的情况，以决定是否适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法吸收资金的总额**：在【（2019）闽01刑终521号】、【（2020）鲁0883刑初605号】、【（2020）京0105刑初1462号】等案例中，法院均将非法吸收资金的总额作为认定'数额巨大'的重要依据。\n- **造成的损失金额**：【（2019）闽01刑终521号】中，法院考虑了造成的实际损失金额，认为丁妹妹的行为构成非法吸收公众存款罪，且数额巨大。\n- **参与集资的人数**：【（2020）鲁0883刑初605号】中，法院提到已报案的集资参与人人数，作为认定'数额巨大'的参考。\n- **是否构成其他严重情节**：【（2019）苏0602刑初404号】中，法院区分了'数额巨大'与'其他严重情节'，认为对于'数额巨大'的案件，在符合条件时可以考虑缓刑适用，而对于具有'其他严重情节'的案件，一般不宜适用缓刑。\n- **行为人的自首、退赃、从犯地位、初犯等情节**：【（2020）京0105刑初1462号】、【（2019）鲁1526刑初207号】等案例中，法院在量刑时考虑了行为人的自首、退赃、从犯地位、初犯等情节，以决定是否从轻或减轻处罚。\n\n综上，非法吸收公众存款罪中'数额巨大'的认定标准不仅取决于非法吸收资金的总额，还与造成的损失、参与集资的人数、是否构成其他严重情节以及行为人的具体情节有关。法院在量刑时会综合考虑这些因素，以确保判决的公正性和合理性。\n\n#####\n类似案件为：\n【（2019）闽01刑终521号】：法院认为，丁妹妹违反国家金融管理法律规定，非法吸收公众存款，扰乱金融秩序，其行为已构成非法吸收公众存款罪，数额巨大。鉴于丁妹妹恶意透支信用卡未达入罪新标准，不构成犯罪。一、维持福建省平潭县人民法院（2017）闽0128刑初220号刑事判决第二、三、四项。\n 二、撤销福建省平潭县人民法院（2017）闽0128刑初220号刑事判决第一项。\n 三、上诉人（原审被告人）丁妹妹犯非法吸收公众存款罪,判处有期徒刑五年九个月,并处罚金人民币二十万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年12月20日起至2022年9月11日止。罚金应于判决生效后十日缴纳。）\n【（2020）鲁0883刑初605号】：法院认为，被告人仇广银违反国家金融管理法律规定，以高额返利等为诱饵向社会公众非法吸收资金，数额巨大，扰乱金融秩序，造成巨额财产无法返还，其行为已构成非法吸收公众存款罪。被告人仇广银提出的不构成非法吸收公众存款罪的辩护意见，不符合法律规定，不予采纳。一、被告人仇广银犯非法吸收公众存款罪，判处有期徒刑一年（刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日），并处罚金人民币二万元（限判决生效后十日内缴纳）。\n二、被告人仇广银退赔给集资参与人经济损失人民币792175.1元（具体集资参与人及损失金额见附表），于本判决生效后十日内付清；本案追缴、退赔的金额与本院（2020）鲁0883刑初342号刑事判决书中对相关集资参与人退赔的金额相互冲抵。\n【（2020）京0105刑初1462号】：法院认为，各被告人在他人组织下面向社会公众非法吸收资金，数额巨大，构成非法吸收公众存款罪。鉴于各被告人在犯罪中起次要作用，可认定为从犯，依法从轻或减轻处罚。各被告人如实供述犯罪行为，部分被告人退缴所得，认罪认罚，依法从轻处罚。一、被告人乔妮犯非法吸收公众存款罪，判处有期徒刑四年，并处罚金人民币十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月15日起至2023年11月14日止。罚金于本判决发生法律效力后3个月内缴纳）。\n二、被告人黄礼英犯非法吸收公众存款罪，判处有期徒刑三年十个月，并处罚金人民币十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月12日起至2023年9月11日止。罚金于本判决发生法律效力后3个月内缴纳）。\n三、被告人张健犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币三万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月12日起至2021年11月11日止。罚金于本判决发生法律效力后3个月内缴纳）。\n四、被告人刘金良犯非法吸收公众存款罪，判处有期徒刑五年，并处罚金人民币二十五万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年12月3日起至2024年12月2日止。罚金于本判决发生法律效力后3个月内缴纳）。\n五、被告人紫建设犯非法吸收公众存款罪，判处有期徒刑二年六个月，并处罚金人民币五万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年12月2日起至2022年6月1日止。罚金于本判决发生法律效力后3个月内缴纳）。\n六、被告人张育瑩犯非法吸收公众存款罪，判处有期徒刑二年二个月，并处罚金人民币五万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年12月2日起至2022年2月1日止。罚金于本判决发生法律效力后3个月内缴纳）。\n七、被告人张江平犯非法吸收公众存款罪，判处有期徒刑二年六个月，并处罚金人民币五万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月16日起至2022年5月15日止。罚金于本判决发生法律效力后3个月内缴纳）。\n八、继续追缴被告人乔妮、黄礼英、张健、刘金良、紫建设、张育瑩、张江平的违法所得，发还集资参与人。\n九、在案之十五万元，发还集资参与人。",
+            "非法吸收公众存款案件中法定代表人责任认定的相关案例": "### 结论\n在非法吸收公众存款案件中，法定代表人是否承担责任以及责任大小，主要取决于其在犯罪中的作用、是否具有自首情节、是否退赔违法所得、是否取得集资参与人谅解、是否属于单位犯罪中的主犯或从犯等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第176条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》第二条**：个人为进行违法犯罪而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **法定代表人在犯罪中的作用**：如果法定代表人在非法吸收公众存款犯罪中起主要作用，如【（2023）京0118刑初55号】中的柳召伟，被认定为主犯，将受到更严厉的处罚；如果起次要作用，如【（2020）苏0706刑初126号】中的柳双、王源、张磊，被认定为从犯，可以从轻或减轻处罚。\n- **自首情节**：如【（2020）苏0706刑初126号】中的季善睿、柳双、王源、张磊，自首并自愿认罪认罚，可以从轻或减轻处罚。\n- **退赔违法所得**：如【（2023）京0118刑初55号】中的王小娟、姜再芹、陈英杰，已退赔全部或部分违法所得，可以得到从轻处罚。\n- **取得集资参与人谅解**：如【（2020）苏0706刑初126号】中的柳双，取得部分集资参与人的谅解，量刑时酌情予以从轻处罚。\n- **是否属于单位犯罪中的主犯或从犯**：如【（2020）苏0706刑初126号】中的季善睿、柳双、王源、张磊，虽然单位犯罪，但个人在犯罪中所起作用不同，季善睿作为主犯，柳双、王源、张磊作为从犯，分别受到不同程度的处罚。\n\n综上，法定代表人在非法吸收公众存款案件中的责任认定，主要依据其在犯罪中的具体作用、是否自首、是否退赔、是否取得谅解以及是否属于单位犯罪中的主犯或从犯等因素。\n\n#####\n类似案件为：\n【（2023）京0118刑初55号】：法院认为，柳召伟、王小娟、姜再芹、陈英杰违反国家金融管理规定，未经批准，非法吸收公众存款，扰乱金融秩序，犯罪事实清楚，证据确实充分。柳召伟系主犯，王小娟、姜再芹、陈英杰为从犯，王小娟、姜再芹、陈英杰已退缴违法所得，柳召伟、王小娟、姜再芹、陈英杰如实供述罪行并认罪认罚，依法可从轻或减轻处罚。一、被告人柳召伟犯非法吸收公众存款罪，判处有期徒刑四年六个月，罚金人民币八万元（刑期从判决执行之日起计算。判决执行以前先行羁押一日折抵刑期一日，即自2022年7月14日起至2027年1月13日止；罚金限判决生效之日起30日内缴纳）。\n二、被告人王小娟犯非法吸收公众存款罪，判处有期徒刑一年六个月，罚金人民币六万元（刑期从判决执行之日起计算。判决执行以前先行羁押一日折抵刑期一日，即自2022年8月18日起至2024年2月15日止；罚金限判决生效之日起30日内缴纳）。\n三、被告人姜再芹犯非法吸收公众存款罪，判处有期徒刑一年，罚金人民币五万元（刑期从判决执行之日起计算。判决执行以前先行羁押一日折抵刑期一日，即自2022年8月18日起至2023年8月15日止；罚金限判决生效之日起30日内缴纳）。\n四、被告人陈英杰犯非法吸收公众存款罪，判处有期徒刑十个月，罚金人民币五万元（刑期从判决执行之日起计算。判决执行以前先行羁押一日折抵刑期一日，即自2022年8月18日起至2023年6月15日止；罚金限判决生效之日起30日内缴纳）。\n五、已追缴被告人王小娟违法所得人民币五万元、姜再芹违法所得人民币十九万五千元、陈英杰违法所得人民币六万一千五百元按比例退赔集资参与人；继续追缴被告人柳召伟、王小娟违法所得退赔集资参与人。\n【（2020）苏0706刑初126号】：法院认为，被告人季善睿、柳双、王源、张磊在所任职的公司不具备相关许可的情况下，违反国家金融管理法规，非法吸收他人存款，数额巨大，构成非法吸收公众存款罪。四被告人在共同犯罪中起辅助作用，是从犯，应当从轻或减轻处罚。案发后主动投案，如实供述自己的罪行，是自首，且自愿认罪认罚，可以从轻或减轻处罚。一、被告人季善睿犯非法吸收公众存款罪，判处有期徒刑二年，缓刑三年，并处罚金人民币四万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳。）\n二、被告人柳双犯非法吸收公众存款罪，判处有期徒刑一年三个月，缓刑一年六个月，并处罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳一万元，剩余一万元于本判决生效后十日内一次性向本院缴纳。）\n三、被告人王源犯非法吸收公众存款罪，判处有期徒刑一年三个月，缓刑一年六个月，并处罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳。）\n被告人张磊犯非法吸收公众存款罪，判处有期徒刑一年三个月，缓刑一年六个月，并处罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳。）\n【（2020）苏0706刑初126号】：法院认为，被告人季善睿、柳双、王源、张磊在所任职的公司不具备相关许可的情况下，违反国家金融管理法规，非法吸收他人存款，数额巨大，构成非法吸收公众存款罪。四被告人在共同犯罪中起辅助作用，是从犯，应当从轻或减轻处罚。案发后主动投案，如实供述自己的罪行，是自首，且自愿认罪认罚，可以从轻或减轻处罚。一、被告人季善睿犯非法吸收公众存款罪，判处有期徒刑二年，缓刑三年，并处罚金人民币四万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳。）\n二、被告人柳双犯非法吸收公众存款罪，判处有期徒刑一年三个月，缓刑一年六个月，并处罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳一万元，剩余一万元于本判决生效后十日内一次性向本院缴纳。）\n三、被告人王源犯非法吸收公众存款罪，判处有期徒刑一年三个月，缓刑一年六个月，并处罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳。）\n被告人张磊犯非法吸收公众存款罪，判处有期徒刑一年三个月，缓刑一年六个月，并处罚金人民币二万元。\n（缓刑考验期限从判决确定之日起计算，罚金已预缴纳。）"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.审计报告未明确区分公司合法经营资金与非法吸收资金的具体流向，证据链条不完整2.部分被害人陈述存在重复计算损失的情况，实际损失金额存疑3.被告人已将大部分资金(250万元)出借给李某甲并办理了抵押担保，表明其并非恶意占有资金\n\n防御策略：1.被告人系初犯且无前科，主观恶性较小2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低3.被告人认罪态度良好，愿意积极退赔，并已对李某甲提起诉讼追讨借款，具有悔罪表现",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款案件中，被告人认罪悔罪并积极退赔的典型案例",
+              "非法吸收公众存款案件中，资金主要用于经营而非个人挥霍的从轻处罚案例"
+            ],
+            "非法吸收公众存款案件中，被告人认罪悔罪并积极退赔的典型案例": "### 结论\n在非法吸收公众存款案件中，被告人认罪悔罪并积极退赔是重要的量刑从轻情节，但其影响程度需结合犯罪性质、社会危害性、被告人的主观恶性及人身危险性等综合考量。\n\n### 核心法条\n- **《中华人民共和国刑法》第176条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n- **《中华人民共和国刑法》第67条**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪悔罪态度**：被告人主动投案，到案后能够如实供述犯罪事实，构成自首，依法可减轻处罚。例如，【（2020）津0101刑初227号】、【（2020）京0105刑初935号】、【（2019）京0101刑初260号】，这些案例中被告人均因自首和认罪悔罪态度而获得从轻处罚。\n- **积极退赔**：被告人积极退缴全部或部分违法所得，退赔集资参与人部分损失，有悔罪表现，酌情可从轻处罚。例如，【（2020）津0101刑初227号】、【（2020）京0105刑初40号】、【（2022）京0114刑初671号】，这些案例中被告人均因积极退赔而获得从轻处罚。\n- **犯罪性质与社会危害性**：即使被告人认罪悔罪并积极退赔，但若犯罪性质恶劣、社会危害性大，法院仍可能从重处罚。例如，【（2014）咸刑中初字第00007号】中，尽管被告人有认罪态度，但由于集资诈骗数额特别巨大，仍被认定为主犯并从重处罚。\n\n综上，认罪悔罪态度和积极退赔是非法吸收公众存款案件中重要的从轻量刑情节，但其影响程度需结合具体犯罪性质、社会危害性等综合考量。\n\n#####\n类似案件为：\n【（2020）津0101刑初227号】：法院认为，被告人王常峰违反国家金融管理法规，公开宣传并许以高额回报，非法向社会公众吸收资金，扰乱金融秩序，构成非法吸收公众存款罪，且数额巨大。王常峰系共同犯罪，但非犯意提起者或资金支配者，酌情从轻处罚。鉴于自首、认罪认罚、积极退缴、退赔等情节，依法可减轻处罚并适用社区矫正。一、被告人王常峰犯非法吸收公众存款罪，判处有期徒刑二年六个月，缓刑二年六个月，并处罚金三万元。\n（缓刑考验期限，从判决确定之日起计算。在缓刑考验期限内，依法实行社区矫正。罚金已预缴1万元，剩余款项于判决生效之日起一个月内缴纳。）\n二、被告人王常峰退缴的款项348519.06元，按比例发还集资参与人。\n【（2020）京0105刑初935号】：法院认为，李大朋明知新元通过公开宣传、利诱贷款投资方式非法募集资金，仍提供协助，构成非法吸收公众存款罪。作为从犯，如实供述，自愿认罪，积极退赔，予以从轻处罚。一、被告人李大朋犯非法吸收公众存款罪，判处有期徒刑三年九个月，罚金人民币二十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月11日起至2023年5月10日止。罚金于本判决发生法律效力后即行缴纳）。\n二、在案之人民币十万元，依法予以处理。\n【（2019）京0101刑初260号】：法院认为，武玉霞伙同他人，违反国家金融管理法律制度，未经有关部门批准，向社会公开宣传，以承诺高额返利的方式，向社会公众募集资金，变相吸收公众存款，数额巨大，其行为破坏了金融管理秩序，已构成非法吸收公众存款罪。一、被告人武玉霞犯非法吸收公众存款罪，判处有期徒刑三年，缓刑三年，并处罚金人民币五万元（缓刑考验期限，从判决确定之日起计算）。\n二、公安机关扣押被告人武玉霞的人民币三十万零四千一百元，其中违法所得人民币二十四万六千零八十八元二角三分，依法处理；人民币五万元，执行罚金；余款发还被告人武玉霞。",
+            "非法吸收公众存款案件中，资金主要用于经营而非个人挥霍的从轻处罚案例": "### 结论\n在非法吸收公众存款案件中，资金主要用于正常生产经营而非个人挥霍，且行为人归案后如实供述罪行、认罪认罚的，法院通常会考虑从轻处罚，但是否适用缓刑需综合考量犯罪数额、社会危害性及退赃表现等情节。\n\n### 核心法条\n- **《刑法》第一百七十六条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n- **《刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **资金用途**：资金主要用于正常的生产经营活动，而非个人挥霍，是法院考虑从轻处罚的重要因素。例如，【（2019）鲁1526刑初172号】、【（2019）苏1202刑初475号】、【（2019）苏1204刑初328号】中，法院均认为被告人吸收的资金主要用于正常的生产经营，因此在量刑时酌情予以考虑。\n- **坦白与认罪认罚**：被告人归案后如实供述自己的罪行，自愿认罪认罚，也是法院从轻处罚的重要考量因素。如【（2019）鲁1526刑初172号】、【（2019）苏1202刑初475号】、【（2020）沪0115刑初3672号】中，法院均因被告人坦白、认罪认罚而从轻处罚。\n- **退赃表现**：被告人是否归还投资人的部分款项，也是法院考虑从轻处罚的因素之一。如【（2019）鲁1526刑初172号】中，法院认为被告人归还了投资人的部分款项，可酌情从轻处罚。\n\n综上，资金主要用于正常生产经营、坦白与认罪认罚、以及退赃表现是影响非法吸收公众存款案件中从轻处罚的关键因素。法院在量刑时会综合考量这些因素，以实现法律的公正与公平。\n\n#####\n类似案件为：\n【（2019）鲁1526刑初172号】：法院认为，东大公司及徐树东违反国家金融管理法规非法吸收公众存款，扰乱金融秩序，构成非法吸收公众存款罪，数额巨大。徐树东归案后如实供述罪行，所吸收的资金主要用于正常生产经营，可以从轻处罚。徐树东在判决宣告后，发现其他罪未判决，应当数罪并罚。扣押和查封的财物依法拍卖或变卖后发还集资参与人，不足部分责令东大公司继续退赔。一、被告单位高唐县东大针织服装有限公司犯非法吸收公众存款罪，判处罚金人民币三十万元（罚金限判决生效后十日内缴纳）。\n二、被告人徐树东犯非法吸收公众存款罪，判处有期徒刑八年；并处罚金人民币二十万元，与前罪所判刑罚有期徒刑七年、罚金人民币三十万元数罪并罚，决定执行有期徒刑九年，并处罚金人民币五十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年4月26日起至2026年4月25日止。罚金限判决生效后十日内缴纳。）\n三、扣押在案的现金人民币105000元按比例发还各集资参与人，查封的土地、房产、办公及机器设备一宗依法拍卖或变卖后发还各集资参与人，不足部分责令被告单位高唐县东大针织服装有限公司继续退赔。\n【（2019）苏1202刑初475号】：法院认为，被告人李某非法吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。李某归案后如实供述自己的罪行，且自愿认罪认罚，依法从轻处罚。一、被告人李某犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n二、责令被告人李某退赔涉案集资参与人经济损失合计人民币三百三十四万五千九百九十一元。\n【（2019）苏1204刑初328号】：法院认为，被告人陈坚违反国家金融管理法律法规，向社会不特定公众非法吸收存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。被告人归案后如实供述自己的罪行，依法可以从轻处罚。被告人自愿认罪认罚，可以依法从宽处理。辩护人提出的“相关集资参与人具有过错”及“建议对被告人适用缓刑”的辩护意见不予采纳。一、被告人陈坚犯非法吸收公众存款罪，判处有期徒刑五年九个月，并处罚金人民币二十万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月15日起至2025年1月14日止。罚金于判决生效后十五日内缴纳。）\n 二、责令被告人陈坚继续退赔人民币二千零四十七万六千四百一十五元分别发还给相关集资参与人。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人系初犯且无前科，主观恶性较小，应酌情从轻处罚 2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低 3.被告人愿意积极退赔，但因资金被他人占用暂未履行，具有悔罪表现 4.审计报告未明确区分公司经营资金与非法吸收资金的具体流向，证据链条存在瑕疵 5.部分被害人陈述存在重复计算损失的情况，实际损失金额需要进一步核实",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲的行为是否构成非法吸收公众存款罪。查明情况：被告人已当庭认罪，承认公司未经批准从事吸收存款业务，并通过高息承诺向社会不特定公众吸收资金。公诉人通过工商登记材料、审计报告等证据充分证明犯罪事实。审判长认为犯罪事实清楚，符合非法吸收公众存款罪的构成要件。\n\n2.本案应认定为单位犯罪还是个人犯罪。查明情况：被告人作为公司法定代表人，个人决定资金使用并从中获利，公司设立后主要从事非法吸收存款活动。公诉人通过证人证言、资金流向等证据证明系个人犯罪。审判长倾向于认定为个人犯罪，但需进一步审查公司决策程序和资金流向。\n\n3.犯罪数额的认定问题。查明情况：审计报告显示吸收存款290万元，支付利息13.35万元，造成实际损失276.646万元。辩护人对审计报告部分内容提出异议，认为存在重复计算。审判长认为数额认定基本准确，但需核实辩护人提出的异议。\n\n4.被告人主观故意认定。查明情况：被告人承认明知公司无相关金融业务许可仍开展吸收存款业务。公诉人通过被告人供述、证人证言证明其具有直接故意。审判长认为主观故意明确。\n\n5.量刑情节认定。查明情况：被告人认罪悔罪，但未主动投案，目前无力全额退赔。辩护人未提出具体从轻情节。审判长认为需综合考虑其认罪态度和退赔意愿，但缺乏自首等从轻情节。\n\n6.资金去向及追赃挽损情况。查明情况：250万元借给李某甲，40万元用于公司运营，被告人已对李某甲提起诉讼但尚未执行到位。审判长认为需进一步核实追偿可能性和具体退赔计划。\n\n7.审计报告的证明效力问题。查明情况：辩护人对审计报告提出异议，认为未区分合法与非法资金流向。公诉人认为审计程序合法合规。审判长认为需进一步审查审计方法是否科学合理。\n\n8.被害人损失计算准确性。查明情况：辩护人提出部分被害人陈述存在重复计算。公诉人认为损失计算已扣除已支付利息。审判长认为需核实具体计算方法和依据。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准",
+              "非法吸收公众存款案件中认罪认罚从宽制度的适用"
+            ],
+            "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准": "### 结论\n非法吸收公众存款罪中单位犯罪与个人犯罪的区分主要依据是否以单位名义实施犯罪、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否以单位名义实施犯罪**：如果犯罪行为是以单位名义实施的，但并非经过单位集体决策，或者违法所得并没有归单位所有，不能认定为单位犯罪。例如，【（2022）鲁刑终360号】中，阿某担保公司虽被用于非法集资，但因未经过单位集体决策，且资金未归单位所有，故不构成单位犯罪。\n- **是否体现单位意志**：如果犯罪行为体现单位意志，即经过单位决策机构按照单位的决策程序决定实施，且为单位谋取非法利益，可认定为单位犯罪。例如，【（2019）京0106刑初1820号】中，石家庄源恒精密机械有限公司自成立后以非法吸收公众存款为主要活动，故依法应认定为个人犯罪而非单位犯罪。\n- **违法所得是否归单位所有**：如果单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。例如，【（2019）沪0113刑初1700号】中，鼎高公司、申禄公司成立后从事的主要业务系犯罪行为，故各被告人的行为应认定为个人犯罪。\n- **单位是否以实施非法集资犯罪活动为主要活动**：如果单位设立后，以实施非法集资犯罪活动为主要活动的，不以单位犯罪论处。例如，【（2015）泉刑初字第195号】中，被告人杨力权出于非法集资的目的而成立徐州金保利担保有限公司，且公司设立后主要实施非法集资犯罪活动，显然不能认定为单位犯罪。\n\n综上，非法吸收公众存款罪中单位犯罪与个人犯罪的区分需综合考虑犯罪行为是否以单位名义实施、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。如果上述条件中任一不满足，应按照个人犯罪处理。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）京0106刑初1820号】：法院认为，被告人连悦伙同他人无视国家法律，未经国家许可，以高额回报为诱饵，变相非法吸收公众存款，其行为已构成非法吸收公众存款罪，应予处罚。鉴于连悦到案后如实供述犯罪事实，认罪态度较好，且自愿认罪认罚，依法对其予以从轻处罚。辩护人提出本案系单位犯罪的意见，经查，源恒公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪，辩护人意见不予采纳。一、被告人连悦犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币十万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月4日起至2021年4月3日止。罚金于判决生效后一个月内缴纳）。\n二、继续追缴被告人连悦违法所得，发还各投资人（详见清单）。\n三、在案扣押人民币一万五千元，由扣押机关依法处理。\n【（2019）沪0113刑初1700号】：法院认为，被告人方1等人的行为构成非法吸收公众存款罪，方1系主犯，谢某某等人系从犯，应依法从轻或减轻处罚。方1等被告人的行为应认定为个人犯罪，而非单位犯罪。谢某某等被告人具有自首情节，方1具有坦白情节，均依法从轻处罚。但各被告人不宜适用缓刑。一、被告人方1犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月9日起至2022年2月8日止；上述罚金款于本判决生效之日起十日内缴纳。)\n二、被告人谢某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n三、被告人余某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年8月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n四、被告人方某2犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n五、被告人聂某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月3日起至2020年9月2日止；上述罚金款于本判决生效之日起十日内缴纳。)\n六、被告人王某犯非法吸收公众存款罪，判处有期徒刑一年，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年4月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n七、被告人叶某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n八、被告人黄某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n九、被告人魏某某犯非法吸收公众存款罪，判处有期徒刑八个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年1月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n十、责令被告人方1、谢某某、余某、方某2、聂某某、王某、叶某某、黄某某、魏某某退赔各名投资人的经济损失。",
+            "非法吸收公众存款案件中认罪认罚从宽制度的适用": "### 结论\n非法吸收公众存款案件中认罪认罚从宽制度的适用需综合考虑被告人的认罪态度、退赃退赔情况、自首、坦白、从犯、初犯等情节，以及犯罪的性质、数额、社会危害性等因素。认罪认罚从宽制度贯穿刑事诉讼全过程，适用于侦查、起诉、审判各个阶段，但适用时应确保认罪认罚的自愿性和真实性，且需严格审查事实基础，不能降低证据标准。\n\n### 核心法条\n- **《中华人民共和国刑事诉讼法》第15条**：犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理。\n- **《中华人民共和国刑法》第一百七十六条第一款**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚的自愿性和真实性**：法院需审查被告人认罪认罚是否出于自愿，是否受到利诱、威胁或强制，以及认罪认罚具结书是否有辩护人或值班律师在场见证签署。例如，【（2019）京03刑终534号】中，法院审查了被告人认罪认罚的自愿性和真实性，确认了认罪认罚从宽制度的适用。\n- **退赃退赔情况**：被告人是否积极退赃退赔，是否取得被害人谅解，是法院考虑从宽处罚的重要因素。如【（2020）粤0204刑初273号】中，被告人陈某英在案发后退还了大部分资金，并取得被害人谅解，法院据此对其从轻处罚。\n- **自首、坦白、从犯、初犯等情节**：这些情节均是法院考虑从宽处罚的因素。例如，【（2019）津0105刑初396号】中，法院考虑了被告人杜杰、贺娅的自首、坦白情节，对其从宽处罚。\n- **犯罪的性质、数额、社会危害性**：即使被告人认罪认罚，对于犯罪性质恶劣、数额巨大、社会危害严重的案件，法院也可能不予从宽处罚或从宽幅度较小。如【（2019）京03刑终534号】中，法院对主犯的从宽幅度小于从犯，且对主犯耿某未适用缓刑。\n\n综上，非法吸收公众存款案件中认罪认罚从宽制度的适用需综合考量被告人的认罪态度、退赃退赔情况、自首、坦白、从犯、初犯等情节，以及犯罪的性质、数额、社会危害性等因素，确保认罪认罚的自愿性和真实性，同时严格审查事实基础，不能降低证据标准。\n\n#####\n类似案件为：\n【（2019）京03刑终534号】：法院生效裁判认为，被告人耿某、前某、李某甲等八人违反国家金融管理法律规定，向社会公众吸收资金，扰乱金融秩序，数额巨大，其行为均已构成非法吸收公众存款罪，依法应予惩处。一审法院在控辩双方未建议适用认罪认罚从宽制度的情况下，依据普通程序进行审理, 程序合法、适当，根据前某、叶某、夏某等人具有的自首、如实供述、积极退缴违法所得等法定、酌定从轻、减轻情节，及其当庭认罪、悔罪态度，依据《中华人民共和国刑事诉讼法》第15条“犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理”的规定，予以从宽处罚，于法有据。前某、李某甲、耿某在仁某甲等公司非法吸收公众存款活动中均起次要或辅助作用，系从犯，一审法院根据三人从事的工作内容与公司非法吸收公众存款活动的紧密程度、到案情况、悔罪态度、退赃数额等因素，分别对前某作出从轻处罚，对李某甲、耿某作出减轻处罚的判罚，量刑适当，耿某虽经民警电话通知到案，但到案后未能如实供述犯罪事实，依法不构成自首；二审期间，前某、李某甲、耿某均无新的从轻处罚情节，不能对其再予从轻处罚，耿某不符合缓刑适用条件，依法不能对其适用缓刑。遂作出如上裁判。\n【（2020）粤0204刑初273号】：法院认为，被告黄高峰的行为构成非法吸收公众存款罪，鉴于其认罪认罚、自首、退赃并取得谅解，依法予以从宽处理。被告人黄高峰犯非法吸收公众存款罪，判处有期徒刑二年，缓刑三年，并处罚金人民币二万元。\n缓刑考验期限，从判决确定之日起计算。罚金限于本判决发生法律效力之日起十日内向本院缴交，上缴国库。\n【（2019）津0105刑初396号】：法院认为，被告人杜杰、贺娅非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪。二被告人系坦白，自愿认罪认罚，依法从宽处罚，但吸收存款数额巨大，造成损失严重，从宽幅度从严掌握。一、被告人杜杰犯非法吸收公众存款罪，判处有期徒刑五年六个月，并处罚金人民币二十五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月24日起至2025年1月23日止；罚金于判决生效后一个月内缴纳。）\n被告人贺娅犯非法吸收公众存款罪，判处有期徒刑四年六个月，并处罚金人民币二十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月11日起至2023年12月10日止；罚金于判决生效后一个月内缴纳。）\n二、责令被告人杜杰、贺娅退赔集资参与人损失，并按比例分别发还。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述确认其明知公司无金融业务许可仍开展吸储业务，主观故意明显。2.强调被告人作为法定代表人直接批准宣传方案和利率标准，在犯罪中起主要作用。3.指出资金流向显示被告人将大部分资金(250万)借给个人朋友牟利，而非用于正常生产经营。4.根据司法解释，单位非法吸储290万、造成276万损失、涉及55人，已达到\"数额巨大\"标准。\n\n防御策略：1.工商登记、审计报告等书证均经合法程序调取，证据来源合法。2.55名被害人陈述与员工证言相互印证，形成完整证据链。3.被告人供述稳定，与客观证据吻合，不存在刑讯逼供等违法取证情形。4.审计报告由专业机构出具，程序合法，结论客观。5.前科调查证实被告人无犯罪记录，但不影响本案定罪量刑。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条": "非法吸收或者变相吸收公众存款，具有下列情形之一的，应当依法追究刑事责任：（一）个人非法吸收或者变相吸收公众存款，数额在20万元以上的，单位非法吸收或者变相吸收公众存款，数额在100万元以上的；（二）个人非法吸收或者变相吸收公众存款对象30人以上的，单位非法吸收或者变相吸收公众存款对象150人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在10万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的；（四）造成恶劣社会影响或者其他严重后果的。具有下列情形之一的，属于刑法第一百七十六条规定的“数额巨大或者有其他严重情节”：（一）个人非法吸收或者变相吸收公众存款，数额在100万元以上的，单位非法吸收或者变相吸收公众存款，数额在500万元以上的；（二）个人非法吸收或者变相吸收公众存款对象100人以上的，单位非法吸收或者变相吸收公众存款对象500人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在250万元以上的；（四）造成特别恶劣社会影响或者其他特别严重后果的。非法吸收或者变相吸收公众存款的数额，以行为人所吸收的资金全额计算。案发前后已归还的数额，可以作为量刑情节酌情考虑。非法吸收或者变相吸收公众存款，主要用于正常的生产经营活动，能够及时清退所吸收资金，可以免予刑事处罚；情节显著轻微的，不作为犯罪处理。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中单位犯罪与个人犯罪的区别",
+              "非法吸收公众存款案件中被告人认罪认罚但无力退赔的量刑考量"
+            ],
+            "非法吸收公众存款罪中单位犯罪与个人犯罪的区别": "### 结论\n非法吸收公众存款罪中单位犯罪与个人犯罪的区别主要在于犯罪行为是否体现单位意志、违法所得是否归单位所有、以及犯罪行为是否以单位名义实施。如果犯罪行为体现单位意志、违法所得归单位所有、且以单位名义实施，则认定为单位犯罪；反之，如果犯罪行为主要由个人决策、违法所得归个人所有、未体现单位意志或未以单位名义实施，则认定为个人犯罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：规定了单位犯罪的主体包括公司、企业、事业单位、机关、团体。\n- **《中华人民共和国刑法》第三十一条**：规定了单位犯罪的处罚原则，即对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员判处刑罚。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：明确了单位犯罪的主体范围，包括具有法人资格的独资、私营等公司、企业和事业单位。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪行为是否体现单位意志**：如果犯罪行为是经过单位决策机构按照单位的决策程序决定实施的，体现了单位的意志，那么认定为单位犯罪。例如，【（2022）鲁刑终360号】中，法院认为阿某担保公司的非法集资行为并未体现单位意志，因为相关担保事宜由鞠某个人决定，没有经过单位集体决策，且其他股东代表对担保事项并不知情，因此不构成单位犯罪。\n- **违法所得是否归单位所有**：如果违法所得归单位所有，那么认定为单位犯罪。例如，【（2019）京0106刑初1820号】中，法院认为石家庄源恒精密机械有限公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪。\n- **犯罪行为是否以单位名义实施**：如果犯罪行为以单位名义实施，那么倾向于认定为单位犯罪。例如，【（2017）粤0785刑初176号】中，法院认为被告人李才敏虽然是恩平市精通农业机械装备有限公司的主管人员，但其对外吸收公众存款是以个人名义实施，单位亦无在借据上盖章，所吸收款项亦未转入公司账户，故不构成单位犯罪。\n\n综上，非法吸收公众存款罪中单位犯罪与个人犯罪的认定，关键在于犯罪行为是否体现单位意志、违法所得是否归单位所有、以及犯罪行为是否以单位名义实施。如果犯罪行为主要由个人决策、违法所得归个人所有、未体现单位意志或未以单位名义实施，则倾向于认定为个人犯罪。反之，如果犯罪行为体现单位意志、违法所得归单位所有、且以单位名义实施，则倾向于认定为单位犯罪。在具体案件中，法院会综合考虑上述因素，结合案件的具体情况作出判断。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）京0106刑初1820号】：法院认为，被告人连悦伙同他人无视国家法律，未经国家许可，以高额回报为诱饵，变相非法吸收公众存款，其行为已构成非法吸收公众存款罪，应予处罚。鉴于连悦到案后如实供述犯罪事实，认罪态度较好，且自愿认罪认罚，依法对其予以从轻处罚。辩护人提出本案系单位犯罪的意见，经查，源恒公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪，辩护人意见不予采纳。一、被告人连悦犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币十万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月4日起至2021年4月3日止。罚金于判决生效后一个月内缴纳）。\n二、继续追缴被告人连悦违法所得，发还各投资人（详见清单）。\n三、在案扣押人民币一万五千元，由扣押机关依法处理。\n【（2017）粤0785刑初176号】：法院认为，精通公司及李才敏在签订、履行合同过程中骗取财物，构成合同诈骗罪；李才敏非法吸收公众存款，扰乱金融秩序，构成非法吸收公众存款罪。李才敏以个人名义实施的非法吸收公众存款行为，不应认定为单位犯罪。精通公司犯合同诈骗罪，判处罚金五万；李才敏犯合同诈骗罪，判处有期徒刑一年三个月，并处罚金二千元；犯非法吸收公众存款罪，判处有期徒刑三年三个月，并处罚金三千元，决定执行有期徒刑四年，并处罚金五千元。责令精通公司及李才敏退赔被害人损失，没收扣押的假证件。",
+            "非法吸收公众存款案件中被告人认罪认罚但无力退赔的量刑考量": "### 结论\n在非法吸收公众存款案件中，被告人认罪认罚但无力退赔的情况，法院在量刑时会综合考虑犯罪数额、认罪态度、退赔情况、社会危害性、是否初犯、是否从犯、是否自首、是否协助退赔、是否适用缓刑等多个因素。认罪认罚态度和退赔情况是影响量刑的重要因素，但无力退赔并不必然导致从重量刑，法院会根据案件具体情况酌情考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：规定非法吸收公众存款罪的构成要件和量刑标准。\n- **《中华人民共和国刑事诉讼法》第十五条**：规定认罪认罚从宽制度的基本原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚态度**：认罪认罚是法院从轻处罚的重要考量因素。例如，【（2020）沪0110刑初277号】中，被告人叶钦浩如实供述自己罪行，依法可以从轻处罚。【（2020）苏1323刑初45号】中，被告人胡亮归案后，如实供述犯罪事实，认罪认罚，归还大部分集资款项，故对其从轻处罚。\n- **退赔情况**：退赔情况是法院量刑时的重要考量因素。例如，【（2020）苏1323刑初45号】中，被告人胡亮归还大部分集资款项，故对其从轻处罚。【（2020）沪0115刑初5165号】中，被告人刘某能积极退赔犯罪所得，可酌情从轻处罚。\n- **社会危害性**：社会危害性是量刑时的重要考量因素。例如，【（2020）苏0302刑初169号】中，被告人周某非法吸收存款数额巨大，且大部分未返还，并非社会危害性较小，故不宜适用缓刑。\n- **是否初犯**：初犯与否是量刑时的考量因素。例如，【（2020）苏0302刑初169号】中，辩护人提出被告人是初犯的辩护意见，但法院认为被告人并非初犯，故对该辩护意见不予采纳。\n- **是否从犯**：是否从犯是量刑时的重要考量因素。例如，【（2020）沪0115刑初5165号】中，被告人在共同犯罪中起次要作用，系从犯，应当从轻处罚。\n- **是否自首**：自首是量刑时的重要考量因素。例如，【（2020）沪0115刑初5165号】中，被告人到案后能作如实供述，可以从轻处罚。\n- **是否协助退赔**：是否协助退赔是量刑时的考量因素。例如，【（2020）粤0305刑初500号】中，被告人高欣虽未到案，但积极筹措资金协助殷丰生家属进行退赔，故在量刑时酌情考虑。\n- **是否适用缓刑**：是否适用缓刑是量刑时的重要考量因素。例如，【（2020）沪0115刑初5165号】中，被告人刘某可以适用缓刑。\n\n综上，认罪认罚态度、退赔情况、社会危害性、是否初犯、是否从犯、是否自首、是否协助退赔、是否适用缓刑等因素都会影响非法吸收公众存款案件中被告人的量刑。法院在量刑时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2020）沪0110刑初277号】：法院认为，叶钦浩伙同他人违反金融管理法律规定，未经依法批准，以投资名义非法向社会公众变相吸收资金，扰乱金融秩序，数额巨大，构成非法吸收公众存款罪。叶钦浩如实供述罪行，可从轻处罚，但不适用缓刑。一、被告人叶钦浩犯非法吸收公众存款罪，判处有期徒刑四年六个月，罚金人民币十万元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月11日起至2024年4月10日止。罚金于本判决发生法律效力之日起十日内缴纳。)\n二、违法所得予以追缴。\n【（2020）苏1323刑初45号】：法院认为，被告人胡亮违反国家金融管理法规，以口口相传的方式向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。胡亮归案后，如实供述犯罪事实，认罪认罚，且归还大部分集资款项，故对其从轻处罚。本案中存在集资参与人收回本金或获得回报后又重复出借的情况，量刑时酌情从轻处罚。一、被告人胡亮犯非法吸收公众存款罪，判处有期徒刑三年二个月，并处罚金五万元。\n (刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年9月3日起至2022年11月2日止。罚金于判决生效后十日内缴纳)。\n 二、责令被告人胡亮退还所吸收存款。\n （尚未归还的，于判决生效之后十日内退还）。\n【（2020）苏1323刑初45号】：法院认为，被告人胡亮违反国家金融管理法规，以口口相传的方式向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。胡亮归案后，如实供述犯罪事实，认罪认罚，且归还大部分集资款项，故对其从轻处罚。本案中存在集资参与人收回本金或获得回报后又重复出借的情况，量刑时酌情从轻处罚。一、被告人胡亮犯非法吸收公众存款罪，判处有期徒刑三年二个月，并处罚金五万元。\n (刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年9月3日起至2022年11月2日止。罚金于判决生效后十日内缴纳)。\n 二、责令被告人胡亮退还所吸收存款。\n （尚未归还的，于判决生效之后十日内退还）。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.审计报告未明确区分公司合法经营资金与非法吸收资金的具体流向，证据链条不完整2.部分被害人陈述存在重复计算损失的情况，实际损失金额存疑3.河南伊川重腾耐火材料有限公司工商登记资料与本案指控的非法吸收公众存款行为无直接关联，不能证明被告人的犯罪事实\n\n防御策略：1.被告人系初犯且无前科，主观恶性较小2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低3.被告人认罪态度良好，愿意积极退赔，并已对李某甲提起诉讼追讨借款",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款案件中，如何认定实际损失金额？",
+              "非法吸收公众存款案件中，被告人将大部分资金用于出借并办理抵押担保，是否影响量刑？"
+            ],
+            "非法吸收公众存款案件中，如何认定实际损失金额？": "### 结论\n非法吸收公众存款案件中，实际损失金额的认定通常涉及集资参与人的投资总额、已返还的本金和利息、以及非法集资行为造成的直接经济损失。法院在认定实际损失时，会考虑已退赃数额、集资参与人实际损失的准确具体金额、以及非法集资行为是否造成经济损失的证据充分性。\n\n### 核心法条\n- **《中华人民共和国刑法》第176条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **已退赃数额**：法院通常会从实际损失数额中扣除被告人已退赃的数额。例如，【（2020）陕0112刑初154号】中，法院采纳了辩护人提出的在司法审计的实际损失数额中扣除二被告人已退赃数额的辩护意见，实际损失数额应认定为4227011.52元。\n- **集资参与人实际损失的准确具体金额**：在【（2020）闽0481刑初33号】中，由于在案证据不能证明各集资参与人损失的准确具体金额，法院对被告人谢锦斌造成经济损失的指控不予支持。\n- **非法集资行为是否造成经济损失的证据充分性**：在【（2019）闽0825刑初286号】中，法院认为被告人黄乃青在烂会后仍支付给会员81300元，可以酌情从轻处罚，但辩护人关于黄乃青案发后已归还10多万元的意见，未向本院提供证据予以佐证，法院不予采纳。\n\n综上，非法吸收公众存款案件中实际损失金额的认定，法院会综合考虑已退赃数额、集资参与人实际损失的准确具体金额以及非法集资行为是否造成经济损失的证据充分性。在证据充分的情况下，法院会从实际损失中扣除已退赃数额，而对于集资参与人实际损失的准确具体金额，如果证据不足，法院可能不会支持指控的经济损失。\n\n#####\n类似案件为：\n【（2020）陕0112刑初154号】：法院认为，李某、丁某某违反国家金融管理法规，非法吸收公众存款，数额巨大，构成非法吸收公众存款罪。某某公司自成立后以非法吸收公众存款为主要活动，属于自然人犯罪，不应以单位犯罪论处。丁某某全程积极参与犯罪活动，与李某均系主犯。二被告人均构成自首，认罪、悔罪态度好，积极退赃，可以从轻处罚。一、被告人李某犯非法吸收公众存款罪，判处有期徒刑三年，宣告缓刑三年，并处罚金5万元。（缓刑考验期限，从判决确定之日起计算；罚金限判决生效后一个月内缴纳）。\n 二、被告人丁某某犯非法吸收公众存款罪，判处有期徒刑三年，宣告缓刑四年，并处罚金5万元。（缓刑考验期限，从判决确定之日起计算；罚金限判决生效后一个月内缴纳）。\n 三、扣押在案赃款152万元按比例发还集资参与人，其余违法所得4227011.52元依法继续追缴。\n【（2020）闽0481刑初33号】：法院认为，谢锦斌违反国家金融管理规定，非法吸收公众存款，扰乱金融秩序，数额巨大，其行为构成非法吸收公众存款罪。鉴于谢锦斌归案后如实供述犯罪事实，且在犯罪期间已向部分集资参与人返还部分款项，自愿认罪认罚，可以从轻处罚。被告人谢锦斌犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币五万元；与前犯虚假诉讼罪、挪用资金罪、虚开发票罪，判处有期徒刑五年六个月，并处罚金人民币五万元，数罪并罚，决定执行有期徒刑七年，并处罚金人民币十万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，从羁押之日起计算刑期，即自2015年11月18日起至2022年11月17日止。罚金应于本判决发生法律效力之次日起十日内缴纳。）\n【（2019）闽0825刑初286号】：法院认为，被告人黄乃青变相非法吸收公众存款达7578934元，造成会员损失1512468元，数额巨大，其行为已构成非法吸收公众存款罪。黄乃青到案后如实供述主要犯罪事实，可从轻处罚。在烂会后支付给会员81300元，可酌情从轻处罚。辩护人提出的退赔义务、未牟利、自愿认罪悔罪等量刑情节予以采纳。综合量刑情节，对黄乃青判处有期徒刑三年十个月，并处罚金人民币六万元，继续追缴犯罪所得，用于返还被害人。一、被告人黄乃青犯非法吸收公众存款罪，判处有期徒刑三年十个月，并处罚金人民币六万元；\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2019年1月17日起至2022年11月16日止。罚金应在判决生效后一个月内缴纳。）\n 二、继续追缴被告人黄乃青犯罪所得，用于返还被害人。",
+            "非法吸收公众存款案件中，被告人将大部分资金用于出借并办理抵押担保，是否影响量刑？": "### 结论\n在非法吸收公众存款案件中，被告人将大部分资金用于出借并办理抵押担保，不影响非法吸收公众存款罪的成立，但可能影响量刑的轻重。法院在量刑时会考虑资金的使用是否用于正常的生产经营活动、是否已部分偿还、是否造成重大损失、被告人的认罪态度、自首情况、退赔情况以及社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n- **《中华人民共和国刑法》第六十七条**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **资金的使用是否用于正常的生产经营活动**：如果资金用于正常的生产经营活动，法院可能会从轻处罚。例如，【（2019）鲁1502刑初157号】中，法院认为被告人潘某甲所吸收资金用于正常的生产经营活动，案发后能够清退所吸收资金，对其依法可从轻处罚。\n- **是否已部分偿还**：如果被告人已部分偿还，法院可能会从轻处罚。例如，【（2019）浙03刑终1867号】中，法院认为原判鉴于娄益松归案后能如实供述自己的罪行，已部分偿还，已予以从轻处罚。\n- **是否造成重大损失**：如果造成重大损失，法院可能会从重处罚。例如，【（2017）豫04刑初38号】中，法院认为被告人方硕的行为造成了2亿余元集资款无法追回的巨大损失，应依法对其从重处罚。\n- **被告人的认罪态度和自首情况**：如果被告人有自首情节，法院可能会从轻或减轻处罚。例如，【（2020）苏1323刑初45号】中，法院认为被告人胡亮归案后，如实供述犯罪事实，认罪认罚，归还大部分集资款项，故对其从轻处罚。\n- **退赔情况**：如果被告人积极退赔，法院可能会从轻处罚。例如，【（2019）鲁09刑终323号】中，法院认为上诉人王继杭一审期间退赔存款人20000元，上诉人王文文二审期间退赔存款人20000元，均可酌情对其从轻处罚。\n- **社会危害性**：如果社会危害性较小，法院可能会从轻处罚。例如，【（2019）鲁1502刑初157号】中，法院认为被告人潘某甲所吸收资金用于正常的生产经营活动，社会危害性较小，对其依法可从轻处罚。\n\n综上，被告人将大部分资金用于出借并办理抵押担保，不影响非法吸收公众存款罪的成立，但法院在量刑时会综合考虑上述因素，以确定最终的刑罚。\n\n#####\n类似案件为：\n【（2019）鲁1502刑初157号】：法院认为，潘某甲非法吸收公众存款，扰乱金融秩序，数额巨大，行为构成非法吸收公众存款罪。鉴于其归案后如实供述犯罪事实，认罪态度较好，吸收资金用于正常生产经营，且案发后清退全部资金，依法可从轻处罚。被告人潘某甲犯非法吸收公众存款罪，判处有期徒刑三年，缓刑五年，并处罚金人民币70000元。\n\n（缓刑考验期限，从判决确定之日起计算。）\n【（2019）浙03刑终1867号】：法院认为，被告人娄益松非法吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。资金来源不影响犯罪行为构成，银行贷款资金仍应计入非法吸收金额。鉴于娄益松归案后如实供述，已部分偿还，原判已予以从轻处罚，二审虽查明非吸金额和未归还金额增加，但原判量刑适当，且上诉不加刑原则下，不宜调整加重刑期。一、维持瑞安市人民法院（2019）浙0381刑初255号刑事判决第一项，即被告人娄益松犯非法吸收公众存款罪，判处有期徒刑四年，并处罚金人民币150000元。\n二、撤销瑞安市人民法院（2019）浙0381刑初255号刑事判决第二项，即责令被告人娄益松退赔人民币5609627元，返还各被害人。\n三、责令被告人娄益松退赔人民币7246027元，返还各被害人（详见附件）。款限本判决生效之日起十日内支付。\n【（2017）豫04刑初38号】：法院认为，方硕以非法占有为目的，使用诈骗方法非法集资，数额特别巨大，行为构成集资诈骗罪，给集资参与人造成特别重大损失，犯罪情节严重，应依法从重处罚。方硕及其辩护人关于罪名的辩解和辩护意见不能成立。融宜捷公司吸收公众存款作为主要业务，资金由方硕个人决策支配，应按自然人犯罪处理。集资款项来源与去向已由在案证据证实，不影响定罪量刑。被告人方硕犯集资诈骗罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；已追缴的或可直接追缴的涉案财物由融宜捷公司工作组依法追缴，予以处置；可在投资权利内予以追缴及已被冻结过户或他人借款抵押的涉案财物，由融宜捷公司工作组依法处置；责令方硕继续退赔集资参与人损失的不足部分。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人系初犯且无前科，主观恶性较小，应酌情从轻处罚 2.吸收资金主要用于出借给他人，未用于个人挥霍，社会危害性相对较低 3.被告人愿意积极退赔，但因资金被他人占用暂未履行，具有悔罪表现 4.审计报告未明确区分公司经营资金与非法吸收资金的具体流向，证据链条存在瑕疵 5.部分被害人陈述存在重复计算损失的情况，实际损失金额需要进一步核实",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲的行为是否构成非法吸收公众存款罪。查明情况：被告人已当庭认罪，承认公司未经批准从事吸收存款业务，并通过高息承诺向社会不特定公众吸收资金。公诉人通过工商登记材料、审计报告等证据充分证明犯罪事实。审判长认为犯罪事实清楚，符合非法吸收公众存款罪的构成要件。\n\n2.本案应认定为单位犯罪还是个人犯罪。查明情况：被告人作为公司法定代表人，个人决定资金使用并从中获利，公司设立后主要从事非法吸收存款活动。公诉人通过证人证言、资金流向等证据证明系个人犯罪。审判长倾向于认定为个人犯罪，但需进一步审查公司决策程序和资金流向。\n\n3.犯罪数额的认定问题。查明情况：审计报告显示吸收存款290万元，支付利息13.35万元，造成实际损失276.646万元。辩护人对审计报告部分内容提出异议，认为存在重复计算。审判长认为数额认定基本准确，但需核实辩护人提出的异议。\n\n4.被告人主观故意认定。查明情况：被告人承认明知公司无相关金融业务许可仍开展吸收存款业务。公诉人通过被告人供述、证人证言证明其具有直接故意。审判长认为主观故意明确。\n\n5.量刑情节认定。查明情况：被告人认罪悔罪，但未主动投案，目前无力全额退赔。辩护人提出其系初犯、认罪态度良好等从轻情节。审判长认为需综合考虑其认罪态度和退赔意愿，但缺乏自首等从轻情节。\n\n6.资金去向及追赃挽损情况。查明情况：250万元借给李某甲，40万元用于公司运营，被告人已对李某甲提起诉讼但尚未执行到位。审判长认为需进一步核实追偿可能性和具体退赔计划。\n\n7.审计报告的证明效力问题。查明情况：辩护人对审计报告提出异议，认为未区分合法与非法资金流向。公诉人认为审计程序合法合规。审判长认为需进一步审查审计方法是否科学合理。\n\n8.被害人损失计算准确性。查明情况：辩护人提出部分被害人陈述存在重复计算。公诉人认为损失计算已扣除已支付利息。审判长认为需核实具体计算方法和依据。\n\n9.被告人退赔意愿及能力评估。查明情况：被告人表示愿意退赔但无力一次性偿还，已制定分期还款计划。审判长认为需进一步核实其还款计划的可行性及担保措施。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释第三条": "非法吸收或者变相吸收公众存款，具有下列情形之一的，应当依法追究刑事责任：（一）个人非法吸收或者变相吸收公众存款，数额在20万元以上的，单位非法吸收或者变相吸收公众存款，数额在100万元以上的；（二）个人非法吸收或者变相吸收公众存款对象30人以上的，单位非法吸收或者变相吸收公众存款对象150人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在10万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的；（四）造成恶劣社会影响或者其他严重后果的。具有下列情形之一的，属于刑法第一百七十六条规定的“数额巨大或者有其他严重情节”：（一）个人非法吸收或者变相吸收公众存款，数额在100万元以上的，单位非法吸收或者变相吸收公众存款，数额在500万元以上的；（二）个人非法吸收或者变相吸收公众存款对象100人以上的，单位非法吸收或者变相吸收公众存款对象500人以上的；（三）个人非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在50万元以上的，单位非法吸收或者变相吸收公众存款，给存款人造成直接经济损失数额在250万元以上的；（四）造成特别恶劣社会影响或者其他特别严重后果的。非法吸收或者变相吸收公众存款的数额，以行为人所吸收的资金全额计算。案发前后已归还的数额，可以作为量刑情节酌情考虑。非法吸收或者变相吸收公众存款，主要用于正常的生产经营活动，能够及时清退所吸收资金，可以免予刑事处罚；情节显著轻微的，不作为犯罪处理。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准",
+              "非法吸收公众存款案件中资金用途对量刑的影响"
+            ],
+            "非法吸收公众存款罪中单位犯罪与个人犯罪的区分标准": "### 结论\n非法吸收公众存款罪中单位犯罪与个人犯罪的区分主要依据是否以单位名义实施犯罪、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否以单位名义实施犯罪**：如果犯罪行为是以单位名义实施的，但并非经过单位集体决策，或者违法所得并没有归单位所有，不能认定为单位犯罪。例如，【（2022）鲁刑终360号】中，阿某担保公司虽被用于非法集资，但因未经过单位集体决策，且资金未归单位所有，故不构成单位犯罪。\n- **是否体现单位意志**：如果犯罪行为体现单位意志，即经过单位决策机构按照单位的决策程序决定实施，且为单位谋取非法利益，可认定为单位犯罪。例如，【（2019）京0106刑初1820号】中，石家庄源恒精密机械有限公司自成立后以非法吸收公众存款为主要活动，故依法应认定为个人犯罪而非单位犯罪。\n- **违法所得是否归单位所有**：如果单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。例如，【（2019）沪0113刑初1700号】中，鼎高公司、申禄公司成立后从事的主要业务系犯罪行为，故各被告人的行为应认定为个人犯罪。\n- **单位是否以实施非法集资犯罪活动为主要活动**：如果单位设立后，以实施非法集资犯罪活动为主要活动的，不以单位犯罪论处。例如，【（2015）泉刑初字第195号】中，被告人杨力权出于非法集资的目的而成立徐州金保利担保有限公司，且公司设立后主要实施非法集资犯罪活动，显然不能认定为单位犯罪。\n\n综上，非法吸收公众存款罪中单位犯罪与个人犯罪的区分需综合考虑犯罪行为是否以单位名义实施、是否体现单位意志、违法所得是否归单位所有以及单位是否以实施非法集资犯罪活动为主要活动。如果上述条件中任一不满足，应按照个人犯罪处理。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）京0106刑初1820号】：法院认为，被告人连悦伙同他人无视国家法律，未经国家许可，以高额回报为诱饵，变相非法吸收公众存款，其行为已构成非法吸收公众存款罪，应予处罚。鉴于连悦到案后如实供述犯罪事实，认罪态度较好，且自愿认罪认罚，依法对其予以从轻处罚。辩护人提出本案系单位犯罪的意见，经查，源恒公司自成立后以非法吸收公众存款为主要活动，故本案依法应认定为个人犯罪而非单位犯罪，辩护人意见不予采纳。一、被告人连悦犯非法吸收公众存款罪，判处有期徒刑二年，并处罚金人民币十万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年4月4日起至2021年4月3日止。罚金于判决生效后一个月内缴纳）。\n二、继续追缴被告人连悦违法所得，发还各投资人（详见清单）。\n三、在案扣押人民币一万五千元，由扣押机关依法处理。\n【（2019）沪0113刑初1700号】：法院认为，被告人方1等人的行为构成非法吸收公众存款罪，方1系主犯，谢某某等人系从犯，应依法从轻或减轻处罚。方1等被告人的行为应认定为个人犯罪，而非单位犯罪。谢某某等被告人具有自首情节，方1具有坦白情节，均依法从轻处罚。但各被告人不宜适用缓刑。一、被告人方1犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月9日起至2022年2月8日止；上述罚金款于本判决生效之日起十日内缴纳。)\n二、被告人谢某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n三、被告人余某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年8月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n四、被告人方某2犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n五、被告人聂某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月3日起至2020年9月2日止；上述罚金款于本判决生效之日起十日内缴纳。)\n六、被告人王某犯非法吸收公众存款罪，判处有期徒刑一年，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年4月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n七、被告人叶某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n八、被告人黄某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n九、被告人魏某某犯非法吸收公众存款罪，判处有期徒刑八个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年1月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n十、责令被告人方1、谢某某、余某、方某2、聂某某、王某、叶某某、黄某某、魏某某退赔各名投资人的经济损失。",
+            "非法吸收公众存款案件中资金用途对量刑的影响": "### 结论\n在非法吸收公众存款案件中，资金用途对量刑有显著影响。如果资金主要用于经营活动或部分偿还，法院可能考虑从轻处罚；但如果资金用于个人消费、挥霍或导致巨大损失，法院将从重处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第176条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **资金用途**：如果资金主要用于经营活动，法院可能认为主观恶性较小，从而从轻处罚。例如，【（2019）京0106刑初1207号】中，虽然被告人**在非法吸收公众存款的犯罪活动中并未控制、支配吸收资金，法院在量刑时从轻处罚。然而，如果资金用于个人消费、挥霍或导致巨大损失，法院将从重处罚。如【（2017）豫04刑初38号】中，方硕将集资款任意投资、挥霍，造成了2亿余元集资款无法追回的巨大损失，被认定为集资诈骗罪。\n- **自首与认罪态度**：自首和认罪态度好，可以作为从轻处罚的情节。如【（2019）苏0281刑初2005号】中，单强主动投案，归案后如实供述自己的罪行，系自首，依法予以从轻处罚。\n- **退赃情况**：已归还部分集资款，可以作为量刑情节酌情考虑。如【（2019）沪0106刑初688号】中，被告人的犯罪金额、到案后的退缴情况在量刑时一并考虑。\n\n综上，资金用途、自首与认罪态度、退赃情况是非法吸收公众存款案件中影响量刑的关键因素。其中，资金用途对量刑的影响尤为显著，法院会根据资金的使用情况来判断被告人的主观恶性大小，从而决定量刑的轻重。\n\n#####\n类似案件为：\n【（2019）京0106刑初1207号】：法院认为，被告人**伙同他人违反国家金融管理法律法规，向社会公众吸收资金，数额巨大，其行为已构成非法吸收公众存款罪。**在中宏利公司吸收社会公众资金的犯罪行为中产生了巨大的推动作用，致使多名投资人遭受巨大经济损失，不宜认定其为从犯及情节较轻，但考虑到**在非法吸收公众存款的犯罪活动中并未控制、支配吸收资金，在量刑时予以从轻处罚。鉴于**到案后能够如实供述犯罪事实，当庭认罪态度好，家属代为退缴部分违法所得，在量刑时予以从轻处罚。一、被告人**犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币五万元。\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，自2017年11月23日至2017年12月29日先行羁押的37日予以折抵刑期，即自2019年1月11日起至2021年12月4日止。罚金于本判决生效后一个月内缴纳）。\n二、责令被告人**在其违法所得范围内承担退赔责任。\n三、被告人**名下的中国工商银行账户（6222000200123296519）内的资金并入本判决第二项执行。\n四、被告人**家属代为退缴的人民币六千元并入本判决第二项执行。\n【（2017）豫04刑初38号】：法院认为，方硕以非法占有为目的，使用诈骗方法非法集资，数额特别巨大，行为构成集资诈骗罪，给集资参与人造成特别重大损失，犯罪情节严重，应依法从重处罚。方硕及其辩护人关于罪名的辩解和辩护意见不能成立。融宜捷公司吸收公众存款作为主要业务，资金由方硕个人决策支配，应按自然人犯罪处理。集资款项来源与去向已由在案证据证实，不影响定罪量刑。被告人方硕犯集资诈骗罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；已追缴的或可直接追缴的涉案财物由融宜捷公司工作组依法追缴，予以处置；可在投资权利内予以追缴及已被冻结过户或他人借款抵押的涉案财物，由融宜捷公司工作组依法处置；责令方硕继续退赔集资参与人损失的不足部分。\n【（2019）苏0281刑初2005号】：法院认为，被告人单强违反国家金融管理法律规定，向社会公众吸收资金，扰乱金融秩序，数额巨大，构成非法吸收公众存款罪。单强主动投案，并如实供述罪行，系自首，依法从轻处罚。鉴于单强非法吸收资金除还本付息外，用于个人消费，家庭困难不成为不退赃的理由，量刑建议适当。一、被告人单强犯非法吸收公众存款罪，判处有期徒刑六年（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，自2018年12月1日起至2024年11月30日止），并处罚金人民币十万元（罚金于本判决发生法律效力之日起十日内一次性缴纳）。\n二、扣押于公安机关的人民币59360元及苏Ｂ3××××宝马轿车依法处理后所得的资金，由扣押机关按比例发还集资参与人；责令被告人单强继续退赔给集资参与人造成的经济损失。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲的行为是否构成非法吸收公众存款罪。查明情况：被告人已当庭认罪，承认公司未经批准从事吸收存款业务，并通过高息承诺向社会不特定公众吸收资金。公诉人通过工商登记材料、审计报告等证据充分证明犯罪事实。审判长认为犯罪事实清楚，符合非法吸收公众存款罪的构成要件。\n\n2.本案应认定为单位犯罪还是个人犯罪。查明情况：被告人作为公司法定代表人，个人决定资金使用并从中获利，公司设立后主要从事非法吸收存款活动。公诉人通过证人证言、资金流向等证据证明系个人犯罪。审判长倾向于认定为个人犯罪，但需进一步审查公司决策程序和资金流向。\n\n3.犯罪数额的认定问题。查明情况：审计报告显示吸收存款290万元，支付利息13.35万元，造成实际损失276.646万元。辩护人对审计报告部分内容提出异议，认为存在重复计算。审判长认为数额认定基本准确，但需核实辩护人提出的异议。\n\n4.被告人主观故意认定。查明情况：被告人承认明知公司无相关金融业务许可仍开展吸收存款业务。公诉人通过被告人供述、证人证言证明其具有直接故意。审判长认为主观故意明确。\n\n5.量刑情节认定。查明情况：被告人认罪悔罪，但未主动投案，目前无力全额退赔。辩护人提出其系初犯、认罪态度良好等从轻情节。审判长认为需综合考虑其认罪态度和退赔意愿，但缺乏自首等从轻情节。\n\n6.资金去向及追赃挽损情况。查明情况：250万元借给李某甲，40万元用于公司运营，被告人已对李某甲提起诉讼但尚未执行到位。审判长认为需进一步核实追偿可能性和具体退赔计划。\n\n7.审计报告的证明效力问题。查明情况：辩护人对审计报告提出异议，认为未区分合法与非法资金流向。公诉人认为审计程序合法合规。审判长认为需进一步审查审计方法是否科学合理。\n\n8.被害人损失计算准确性。查明情况：辩护人提出部分被害人陈述存在重复计算。公诉人认为损失计算已扣除已支付利息。审判长认为需核实具体计算方法和依据。\n\n9.被告人退赔意愿及能力评估。查明情况：被告人表示愿意退赔但无力一次性偿还，已制定分期还款计划。审判长认为需进一步核实其还款计划的可行性及担保措施。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百七十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百七十六条": "非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。有前两款行为，在提起公诉前积极退赃退赔，减少损害结果发生的，可以从轻或者减轻处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "非法吸收公众存款罪290万元量刑标准",
+              "非法吸收公众存款罪个人犯罪与单位犯罪区分",
+              "非法吸收公众存款罪认罪认罚从宽处理案例"
+            ],
+            "非法吸收公众存款罪290万元量刑标准": "### 结论\n非法吸收公众存款罪的量刑标准受到多个因素的影响，包括犯罪数额、是否认罪、退赔情况、社会危害程度、从犯或主犯地位、自首或立功表现等。对于非法吸收公众存款290万元的案件，量刑可能在三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金，具体量刑需根据上述因素综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百七十六条**：非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的，处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：数额巨大是量刑的重要依据。例如，【（2019）浙03刑终1087号】中，上诉人杨章赵非法吸收公众存款290万元，属于数额巨大，构成非法吸收公众存款罪。\n- **是否认罪**：自愿认罪可以从轻处罚。【（2019）浙03刑终1087号】中，杨章赵自愿认罪，一审已予从轻处罚。\n- **退赔情况**：退赔部分损失并取得被害人谅解，可改判从轻处罚并适用缓刑。【（2019）浙03刑终1087号】中，杨章赵家属与被害人达成和解协议，退赔部分损失并取得谅解，二审改判从轻处罚并适用缓刑。\n- **社会危害程度**：社会危害程度减少，可改判从轻处罚。【（2019）浙03刑终1087号】中，杨章赵的行为造成的社会危害有所减少，二审改判从轻处罚。\n- **从犯或主犯地位**：从犯可依法从轻或减轻处罚。【（2021）津0104刑初40号】中，被告人李德军、王静系共同犯罪，但因具有从犯、自首、认罪认罚等情节，依法予以减轻处罚并适用缓刑。\n- **自首或立功表现**：自首或立功可以从轻或减轻处罚。【（2018）浙10刑终145号】中，钱某、陈某自首，钱某有立功表现，依法分别予以减轻处罚。\n\n综上，非法吸收公众存款罪的量刑需综合考虑犯罪数额、认罪态度、退赔情况、社会危害程度、从犯或主犯地位、自首或立功表现等多方面因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2019）浙03刑终1087号】：法院认为，杨章赵违反金融管理法规，非法吸收公众存款290万元，扰乱金融秩序，其行为构成非法吸收公众存款罪，属于数额巨大。鉴于杨章赵认罪，家属已与部分被害人达成和解，退赔损失并获谅解，其余应退赔款项已扣押，社会危害有所减少，可从轻处罚并适用缓刑。一、维持浙江省苍南县人民法院（2019）浙0327刑初382号刑事判决第一项对上诉人杨章赵的定罪部分。\n二、撤销浙江省苍南县人民法院（2019）浙0327刑初382号刑事判决第一项对上诉人杨章赵的量刑部分和第二项。\n三、上诉人杨章赵犯非法吸收公众存款罪，判处有期徒刑三年，缓刑四年，并处罚金4万元。\n（缓刑考验期限，从判决确定之日起计算。罚金限判决生效之日起十日内缴纳）。\n五、责令上诉人杨章赵退赔违法所得2.01万元，返还李某10.3万元、陈某10.11万元、杨某10.6万元、谢某1万元（款项已扣押在案）。\n【（2019）浙03刑终1087号】：法院认为，杨章赵违反金融管理法规，非法吸收公众存款290万元，扰乱金融秩序，其行为构成非法吸收公众存款罪，属于数额巨大。鉴于杨章赵认罪，家属已与部分被害人达成和解，退赔损失并获谅解，其余应退赔款项已扣押，社会危害有所减少，可从轻处罚并适用缓刑。一、维持浙江省苍南县人民法院（2019）浙0327刑初382号刑事判决第一项对上诉人杨章赵的定罪部分。\n二、撤销浙江省苍南县人民法院（2019）浙0327刑初382号刑事判决第一项对上诉人杨章赵的量刑部分和第二项。\n三、上诉人杨章赵犯非法吸收公众存款罪，判处有期徒刑三年，缓刑四年，并处罚金4万元。\n（缓刑考验期限，从判决确定之日起计算。罚金限判决生效之日起十日内缴纳）。\n五、责令上诉人杨章赵退赔违法所得2.01万元，返还李某10.3万元、陈某10.11万元、杨某10.6万元、谢某1万元（款项已扣押在案）。\n【（2019）浙03刑终1087号】：法院认为，杨章赵违反金融管理法规，非法吸收公众存款290万元，扰乱金融秩序，其行为构成非法吸收公众存款罪，属于数额巨大。鉴于杨章赵认罪，家属已与部分被害人达成和解，退赔损失并获谅解，其余应退赔款项已扣押，社会危害有所减少，可从轻处罚并适用缓刑。一、维持浙江省苍南县人民法院（2019）浙0327刑初382号刑事判决第一项对上诉人杨章赵的定罪部分。\n二、撤销浙江省苍南县人民法院（2019）浙0327刑初382号刑事判决第一项对上诉人杨章赵的量刑部分和第二项。\n三、上诉人杨章赵犯非法吸收公众存款罪，判处有期徒刑三年，缓刑四年，并处罚金4万元。\n（缓刑考验期限，从判决确定之日起计算。罚金限判决生效之日起十日内缴纳）。\n五、责令上诉人杨章赵退赔违法所得2.01万元，返还李某10.3万元、陈某10.11万元、杨某10.6万元、谢某1万元（款项已扣押在案）。",
+            "非法吸收公众存款罪个人犯罪与单位犯罪区分": "### 结论\n非法吸收公众存款罪的个人犯罪与单位犯罪的区分主要取决于犯罪行为是否体现单位意志、违法所得是否归单位所有、以及单位是否主要以实施非法集资犯罪活动为主要活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第三十条**：公司、企业、事业单位、机关、团体实施的危害社会的行为，法律规定为单位犯罪的，应当负刑事责任。\n- **《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》**：个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪行为是否体现单位意志**：如果犯罪行为是由单位的决策机构按照单位的决策程序决定实施的，体现了单位的意志，那么可能构成单位犯罪。例如，【（2022）鲁刑终360号】中，法院认为阿某担保公司并未体现单位意志，因此不构成单位犯罪。\n- **违法所得是否归单位所有**：如果违法所得主要归单位所有，那么可能构成单位犯罪。例如，【（2022）鲁刑终360号】中，法院认为阿某担保公司并未实际收取担保费用，不能认定为单位犯罪。\n- **单位是否主要以实施非法集资犯罪活动为主要活动**：如果单位设立后，主要活动是实施非法集资犯罪，那么不以单位犯罪论处。例如，【（2019）沪0113刑初1700号】中，法院认为鼎高公司、申禄公司成立后从事的主要业务系犯罪行为，故各被告人的行为应认定为个人犯罪。\n\n综上，非法吸收公众存款罪的个人犯罪与单位犯罪的区分，主要看犯罪行为是否体现单位意志、违法所得是否归单位所有、以及单位是否主要以实施非法集资犯罪活动为主要活动。如果犯罪行为体现单位意志、违法所得归单位所有、单位主要活动是非法集资，则可能构成单位犯罪；反之，则可能构成个人犯罪。\n\n#####\n类似案件为：\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2022）鲁刑终360号】：法院生效裁判认为：单位实施非法集资犯罪活动，全部或者大部分违法所得归单位所有的，应当认定为单位犯罪。被告人鞠某进行非法集资活动过程中，以阿某担保公司名义为其融资行为提供担保，主观上系为了个人利益，相关担保事宜亦由鞠某个人决定，没有按照公司法和公司章程规定经过单位董事会、股东大会等集体决策，且其他股东代表对担保事项并不知情，阿某担保公司并未实际收取担保费用，不能认定阿某担保公司具有为非法集资犯罪提供帮助的单位意志；在案证据证实非法集资所得资金均由鞠某个人支配使用，审计报告显示阿某担保公司账户与涉案资金池之间的资金流动记载为应收应付款，不能证明上述款项系阿某担保公司的违法所得，更不能证实涉案的大部分违法所得归阿某担保公司所有，故公诉机关指控阿某担保公司构成集资诈骗罪的证据不足，不予支持。\n被告人鞠某在已无力偿还到期大额债务的情况下，实施非法集资行为，集资后用于生产经营活动的资金与其筹集资金规模明显不成比例，致使巨额集资款不能返还，依法应认定鞠某主观上具有非法占有的故意，鞠某系采取欺骗手段非法吸收公众存款，依法应以集资诈骗罪追究刑事责任。\n【（2019）沪0113刑初1700号】：法院认为，被告人方1等人的行为构成非法吸收公众存款罪，方1系主犯，谢某某等人系从犯，应依法从轻或减轻处罚。方1等被告人的行为应认定为个人犯罪，而非单位犯罪。谢某某等被告人具有自首情节，方1具有坦白情节，均依法从轻处罚。但各被告人不宜适用缓刑。一、被告人方1犯非法吸收公众存款罪，判处有期徒刑三年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月9日起至2022年2月8日止；上述罚金款于本判决生效之日起十日内缴纳。)\n二、被告人谢某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n三、被告人余某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年8月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n四、被告人方某2犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年7月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n五、被告人聂某某犯非法吸收公众存款罪，判处有期徒刑一年三个月，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月3日起至2020年9月2日止；上述罚金款于本判决生效之日起十日内缴纳。)\n六、被告人王某犯非法吸收公众存款罪，判处有期徒刑一年，并处罚金人民币五万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2020年4月28日止；上述罚金款于本判决生效之日起十日内缴纳。)\n七、被告人叶某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n八、被告人黄某某犯非法吸收公众存款罪，判处有期徒刑九个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年2月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n九、被告人魏某某犯非法吸收公众存款罪，判处有期徒刑八个月，并处罚金人民币二万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月23日起至2020年1月22日止；上述罚金款于本判决生效之日起十日内缴纳。)\n十、责令被告人方1、谢某某、余某、方某2、聂某某、王某、叶某某、黄某某、魏某某退赔各名投资人的经济损失。",
+            "非法吸收公众存款罪认罪认罚从宽处理案例": "### 结论\n非法吸收公众存款罪的认罪认罚从宽处理，法院在量刑时会综合考虑被告人的认罪态度、自首、退赃、取得谅解、从犯地位、犯罪数额、社会危害性以及是否在二审阶段认罪认罚等因素。认罪认罚的阶段越早，从宽幅度越大，但即使在二审阶段认罪认罚，也可能获得从宽处理，只是从宽幅度会小于一审阶段。\n\n### 核心法条\n- **《中华人民共和国刑事诉讼法》第15条**：规定犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理。\n- **《中华人民共和国刑法》第一百七十六条第一款**：规定非法吸收公众存款罪的构成要件和处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚态度**：法院会根据被告人在侦查、审查起诉、审判各阶段的认罪认罚表现，决定是否从宽处理。例如，【（2019）京03刑终534号】中，法院认为即使未签署认罪认罚具结书，只要被告人表示愿意接受处罚，仍可基于认罚表现从宽处理。\n- **自首与退赃**：自首和积极退赃是法院考虑从轻或减轻处罚的重要因素。如【（2024）鲁0213刑初34号】中，被告人郝某某主动投案，如实供述犯罪事实，且在案件审理期间主动退缴违法所得，积极缴纳罚金，法院因此决定对其从轻处罚并宣告缓刑。\n- **从犯地位**：在共同犯罪中，从犯地位的被告人通常会获得从轻或减轻处罚。例如，【（2023）沪0116刑初923号】中，乔某在共同犯罪中起次要作用，法院因此决定对其减轻处罚。\n- **二审阶段认罪认罚**：二审阶段认罪认罚的被告人，虽然可以获得从宽处理，但其从宽幅度通常小于一审阶段认罪认罚的幅度。例如，案例中未直接提及二审阶段认罪认罚的案例，但根据相关观点，二审阶段认罪认罚的从宽幅度应当更小。\n\n综上，非法吸收公众存款罪的认罪认罚从宽处理，法院会综合考虑被告人的认罪态度、自首、退赃、取得谅解、从犯地位、犯罪数额、社会危害性以及是否在二审阶段认罪认罚等因素，其中认罪认罚的阶段越早，从宽幅度越大。\n\n#####\n类似案件为：\n【（2019）京03刑终534号】：法院生效裁判认为，被告人耿某、前某、李某甲等八人违反国家金融管理法律规定，向社会公众吸收资金，扰乱金融秩序，数额巨大，其行为均已构成非法吸收公众存款罪，依法应予惩处。一审法院在控辩双方未建议适用认罪认罚从宽制度的情况下，依据普通程序进行审理, 程序合法、适当，根据前某、叶某、夏某等人具有的自首、如实供述、积极退缴违法所得等法定、酌定从轻、减轻情节，及其当庭认罪、悔罪态度，依据《中华人民共和国刑事诉讼法》第15条“犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理”的规定，予以从宽处罚，于法有据。前某、李某甲、耿某在仁某甲等公司非法吸收公众存款活动中均起次要或辅助作用，系从犯，一审法院根据三人从事的工作内容与公司非法吸收公众存款活动的紧密程度、到案情况、悔罪态度、退赃数额等因素，分别对前某作出从轻处罚，对李某甲、耿某作出减轻处罚的判罚，量刑适当，耿某虽经民警电话通知到案，但到案后未能如实供述犯罪事实，依法不构成自首；二审期间，前某、李某甲、耿某均无新的从轻处罚情节，不能对其再予从轻处罚，耿某不符合缓刑适用条件，依法不能对其适用缓刑。遂作出如上裁判。\n【（2024）鲁0213刑初34号】：法院认为，郝某某、张某某非法吸收公众存款，扰乱金融秩序，构成非法吸收公众存款罪，均系从犯，郝某某系自首，张某某如实供述，二人均认罪认罚，郝某某部分退赃，张某某全部退赃，决定对二人从轻处罚，并适用缓刑。一、被告人郝某某犯非法吸收公众存款罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币五万元。\n（缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）\n被告人张某某犯非法吸收公众存款罪，判处拘役五个月，缓刑十个月，并处罚金人民币五万元。\n（缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）\n二、对被告人郝某某退缴的违法所得人民币五万元、被告人张某某退缴的违法所得人民币二万元，按比例发还集资参与人。\n【（2023）沪0116刑初923号】：法院认为，乔某为牟取非法利益，在未获得国家金融主管部门许可的情况下，帮助他人变相吸收公众存款，数额巨大，其行为构成非法吸收公众存款罪，系共同犯罪中的从犯，应当减轻处罚。乔某到案后如实供述，认罪认罚，有退赃表现，可从宽处理。一、被告人乔某犯非法吸收公众存款罪，判处有期徒刑二年四个月，并处罚金人民币二十万元。\n（刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2023年5月23日起至2025年9月22日止；罚金于判决生效之日起一个月内缴纳。）\n二、被告人乔某退缴的款项人民币5万元发还投资人，违法所得继续追缴并发还投资人，不足部分责令继续退赔。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 50000.0,
+    "reprieve": 0.0
+  }
+]

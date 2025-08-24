@@ -1,0 +1,1533 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人漆某，性别男，民族XXX，文化程度XXX，户籍XXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "会宁县人民检察院  \n起 诉 书  \n\n会检公诉刑诉〔2018〕195号  \n\n被告人漆某，男，民族XXX，文化程度XXX，户籍XXX。因涉嫌非法制造、储存爆炸物罪，于案发后主动投案自首。  \n\n本案由会宁县公安局侦查终结，以被告人漆某涉嫌非法制造、储存爆炸物罪，于2018年9月13日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年11月，被告人漆某与＊＊＊＊公司签订合同并向该公司购买生产烟花爆竹设备，该公司承诺为漆某办理生产经营许可证、提供烟花爆竹生产技术。漆某从长沙烟花爆竹市场购买原料若干、导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克，储存于距离居民区较远的会宁县郭城驿镇＊＊＊砖厂内。后该公司技术人员为漆某调试生产设备，提供技术指导，帮助实验制作烟花绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克。经国家民用爆破器材质量监督检验中心（西安）检验，导火索、导火线、引燃药、表皮药、升空药、绿光、红光、白光、金菊、黄光、杨柳为烟火药。漆某在长沙催办烟花爆竹生产经营许可证时，被他人举报。次日，其返回会宁，主动到侦查机关投案自首。  \n\n认定上述事实的证据如下：  \n1.书证：会检公诉刑诉（2018）195号起诉书；  \n2.书证：＊＊＊＊公司的营业执照；  \n3.书证：证人吕某的银行账户明细；  \n4.书证：扣押物品清单；  \n5.书证：合同书及补充条款；  \n6.书证：新型鞭炮配方、鞭炮烟花配方及工艺流程；  \n7.书证：到案经过、办案说明；  \n8.证人证言：证人吕某、盛某、李某、姜某甲、汶某、姜某乙的证言；  \n9.鉴定意见：国家民用爆破器材质量监督检验中心（西安）检验报告；  \n10.勘验检查笔录：现场勘验检查笔录及照片、现场检查笔录及照片；  \n11.物证：扣押的原材料、导火索、导火线、引燃药等物品；  \n12.物证：扣押的烟花样品；  \n13.书证：被告人漆某的户籍证明；  \n14.书证：社区调查评估意见；  \n15.书证：公安局出具的漆某投案情况说明。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人漆某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人漆某违反国家有关爆炸物管理法规，擅自制造、储存爆炸物，危害公共安全，其行为触犯了《中华人民共和国刑法》第一百二十五条第一款之规定，犯罪事实清楚，证据确实、充分，应当以非法制造、储存爆炸物罪追究其刑事责任。被告人漆某具有自首情节，依法可以从轻或者减轻处罚。鉴于其生产的烟花爆竹属于娱乐产品，且只在试验阶段，存放地点距离居民区较远，没有造成严重社会危害后果，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n会宁县人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人漆某，你购买这些烟花爆竹生产设备和原料的具体目的是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "为了合法生产烟花爆竹，已经与公司签订合同，正在等待办理生产经营许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买的导火索、导火线等物品的具体数量是否与起诉书所列一致？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "与起诉书所列一致。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买的这些原料和设备存放在砖厂期间，是否采取了相应的安全防护措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "存放地点是废弃砖厂，距离居民区较远，我按照技术人员指导进行了基本的安全存放。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与＊＊＊＊公司签订合同时，该公司是否明确告知你需要取得相关许可证才能开始生产？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，公司明确告知需要取得许可证后才能正式生产，目前只是在技术人员指导下进行试验性生产。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与＊＊＊＊公司签订合同后，是否收到过该公司关于生产许可证办理进展的通知？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "收到过几次口头通知，说正在办理中，但一直没有收到正式的许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买的这些原料和设备具体存放在砖厂的哪个位置？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "存放在砖厂西侧的独立仓库内，那里是专门用来存放生产材料的区域。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买的这些原料和设备具体存放在砖厂仓库的哪个位置？仓库是否采取了防火、防爆等安全措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "仓库西侧单独隔出的区域存放原料和设备。按照技术人员要求配备了灭火器，仓库是砖混结构，远离火源。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与＊＊＊＊公司签订合同时，该公司是否明确承诺会为你办理生产经营许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，合同明确约定由公司负责办理生产经营许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产的具体时间持续了多久？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "试验性生产持续了约两周时间。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否有专业技术人员在场指导？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有专业技术人员在场指导。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时制作的具体产品数量是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "试验性生产制作了绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你存放原料的仓库距离最近的居民区有多远？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "距离最近的居民区约500米。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否严格按照技术人员的指导操作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我完全按照技术人员的指导进行操作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否采取了必要的安全防护措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我完全按照技术人员的指导采取了安全防护措施，包括穿戴防护装备、控制生产规模、保持安全距离等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与＊＊＊＊公司签订合同后，是否按照合同约定支付了相关费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我按照合同约定支付了设备款和技术服务费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否产生过任何安全事故或意外情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有发生过任何安全事故或意外情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否曾向当地相关部门报备或申请临时许可？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向当地相关部门报备或申请临时许可。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否曾向＊＊＊＊公司咨询过许可证办理进度？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我多次向公司询问许可证办理进度，公司回复说正在办理中。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否有其他人员参与或在场？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "试验性生产时只有我和公司技术人员在场，没有其他人员参与。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你进行试验性生产时是否曾向＊＊＊＊公司提出过关于许可证办理进度的书面询问？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提出过书面询问。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与＊＊＊＊公司签订合同后，是否收到过该公司提供的任何关于生产许可证办理进度的书面材料？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收到过书面材料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你进行试验性生产时是否曾向当地安监部门咨询过相关许可要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向当地安监部门咨询过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你进行试验性生产时是否曾向＊＊＊＊公司支付过办理许可证的相关费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有支付过办理许可证的相关费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你进行试验性生产时是否曾向当地公安机关报备过？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向当地公安机关报备过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你进行试验性生产时是否曾向＊＊＊＊公司索要过办理许可证的书面证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有索要过办理许可证的书面证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年11月，我与＊＊＊＊公司签订合同，购买生产烟花爆竹设备。该公司承诺为我办理生产经营许可证并提供生产技术。我从长沙烟花爆竹市场购买原料、导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克，储存于会宁县郭城驿镇＊某内。该公司技术人员调试设备并指导我实验制作烟花绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克。后经检验，上述物品被认定为烟火药。我在长沙催办许可证时被举报，次日返回会宁并主动向侦查机关投案。  \n\n（2）犯案动机  \n我购买设备和原料的目的是为了合法生产烟花爆竹，并已与公司签订合同，等待办理生产经营许可证。  \n\n（3）案发之后的处理  \n我在被举报后主动到侦查机关投案，如实供述了犯罪事实。目前没有提及赔偿或达成谅解的情况。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：会检公诉刑诉（2018）195号起诉书，指控被告人漆某犯非法制造、储存爆炸物罪",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：＊＊＊＊公司的营业执照（颁发机构：XX市工商行政管理局，有效期：2016年1月1日至2021年12月31日），证明该公司具有相关生产经营资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：证人吕某的银行账户明细（经XX银行依法提取并加盖公章），显示与被告人漆某的资金往来情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：扣押物品清单（由办案民警张某、李某制作，见证人王某签字确认），列明扣押的原材料、导火索、导火线、引燃药等物品",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：合同书及补充条款（经双方签字盖章并经公证处公证），证明被告人漆某与＊＊＊＊公司签订的生产烟花爆竹设备购买合同",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：新型鞭炮配方、鞭炮烟花配方及工艺流程（来源：＊＊＊＊公司技术部门提供并加盖公章），显示被告人漆某获取的相关技术资料",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：到案经过、办案说明（由办案民警张某记录，经法制部门审核），记录被告人漆某的投案自首过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人吕某说：“我与漆某有业务往来，他曾向我咨询过烟花爆竹生产的相关事宜。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人盛某说：“漆某曾向我购买过生产烟花爆竹的原料。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人李某说：“我看到漆某在砖厂内储存了一些疑似烟花爆竹原料的物品。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人姜某甲说：“漆某曾向我展示过他制作的烟花样品。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人汶某说：“漆某告诉我他正在办理烟花爆竹生产经营许可证。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人姜某乙说：“漆某曾向我询问过烟花爆竹市场的销售情况。”（经办案民警核实并制作询问笔录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.鉴定意见：国家民用爆破器材质量监督检验中心（西安）检验报告（鉴定机构资质证书编号：XXXXX，鉴定程序符合《公安机关鉴定规则》），确认导火索、导火线、引燃药、表皮药、升空药、绿光、红光、白光、金菊、黄光、杨柳为烟火药",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.勘验检查笔录：现场勘验检查笔录及照片（由办案民警张某、李某制作，见证人王某签字确认），记录被告人漆某储存爆炸物的现场情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.勘验检查笔录：现场检查笔录及照片（由办案民警张某、李某制作，见证人王某签字确认），显示被告人漆某制作烟花的实验场所",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.物证：扣押的原材料、导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克等物品（保管链条完整，由办案民警张某、李某负责保管并制作保管清单）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.物证：扣押的烟花样品，包括绿光68克、红光106克、白光108克、金菊92克、黄光3千克、杨柳5千克（保管链条完整，由办案民警张某、李某负责保管并制作保管清单）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：被告人漆某的户籍证明，证实其身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：社区调查评估意见（由X某通过走访调查、社会调查等方式形成），证明对其适用缓刑的可行性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：公安局出具的漆某投案情况说明（由办案民警张某记录，经法制部门审核），内容为‘犯罪嫌疑人漆某于案发后主动到公安机关投案自首’",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第一百二十五条第一款规定，非法制造、储存爆炸物罪是指违反国家有关爆炸物管理法规，擅自制造、储存爆炸物的行为。本案中，被告人漆某在未取得相关许可证的情况下，擅自购买、储存大量烟花爆竹原料并进行试验性生产，其行为已构成该罪。\n\n虽然被告人辩称其行为系为合法生产做准备，但根据《烟花爆竹安全管理条例》第三条、第二十一条规定，生产烟花爆竹必须取得安全生产许可证。被告人既未取得许可证，也未向有关部门报备，其行为具有明显的违法性。\n\n关于量刑情节，本院注意到以下三点：第一，被告人具有自首情节，根据刑法第六十七条规定可以从轻或减轻处罚；第二，涉案物品系用于生产娱乐性烟花爆竹，且存放地点远离居民区，社会危害性相对较小；第三，被告人系初犯，认罪态度较好。\n\n综上，建议法庭在三年以下有期徒刑幅度内量刑，并考虑适用缓刑。同时根据刑法第六十四条规定，对涉案物品应予没收。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人认为本案应从以下几个方面考虑从轻处罚：\n\n首先，被告人具有明显的自首情节。根据《刑法》第六十七条，犯罪以后自动投案，如实供述自己的罪行的，是自首。本案中被告人在被举报后主动到侦查机关投案，如实供述全部犯罪事实，依法应当从轻或减轻处罚。\n\n其次，被告人的主观恶性较小。其行为目的是为了合法生产经营，已与正规公司签订合同并支付费用，相信公司会办理相关许可证。虽然客观上存在违法行为，但主观上并非故意违法。\n\n第三，被告人的行为社会危害性较低。涉案物品系用于生产娱乐性烟花爆竹，存放地点距离居民区500米以上，采取了基本安全措施，且试验性生产时有专业技术人员指导，未造成任何安全事故。\n\n第四，被告人认罪态度良好。在侦查、审查起诉及庭审阶段均如实供述，对指控事实和证据均无异议，表现出真诚悔罪态度。\n\n综上，辩护人建议法庭充分考虑被告人的自首情节、主观恶性较小、社会危害性较低以及良好认罪态度等从轻处罚情节，采纳公诉机关关于适用缓刑的量刑建议。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的主观恶性较小问题，公诉人需要指出：根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第一条，非法制造、储存烟火药三千克以上即构成犯罪。被告人储存的烟火药总量已达7.045千克，远超入罪标准。其虽与公司签订合同，但未采取有效措施确保许可证办理，放任违法状态持续存在，主观上具有明显过错。\n\n对于社会危害性问题，公诉人补充说明：虽然存放地点距离居民区500米，但根据《烟花爆竹安全管理条例》规定，生产场所必须符合国家标准的安全距离。被告人未经专业评估擅自选址，存在安全隐患。且试验性生产行为本身即具有危险性，不能因未发生事故而否定其违法性。\n\n关于认罪态度，公诉人认可被告人如实供述的情节，但需要强调：根据《刑法》第六十七条，自首是\"可以\"而非\"应当\"从轻的情节。法庭在量刑时还需综合考量犯罪事实、性质及对社会的危害程度。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的主观过错问题，辩护人需要指出：根据《刑法》第十六条，行为在客观上虽然造成了损害结果，但是不是出于故意或者过失，而是由于不能抗拒或者不能预见的原因所引起的，不是犯罪。本案被告人基于对正规公司的合理信赖，有理由相信许可证正在办理中，其主观上不存在放任违法状态的故意。\n\n关于社会危害性，辩护人补充：根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条，因生产、生活需要非法制造、买卖、运输爆炸物，没有造成严重社会危害，确有悔改表现的，可依法从轻处罚。本案系为合法生产经营做准备，且采取了基本安全措施，符合从轻处罚条件。\n\n对于自首情节，辩护人强调：根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条，自动投案并如实供述的，应当认定为自首。被告人的行为完全符合该规定，依法应当从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的合理信赖问题，公诉人需要指出：根据《烟花爆竹安全管理条例》第二十一条规定，任何单位或个人未取得安全生产许可证，不得从事烟花爆竹生产活动。被告人作为完全民事行为能力人，应当知晓生产烟花爆竹必须取得许可证这一基本法律要求。其仅凭公司口头承诺就擅自进行生产活动，未尽到合理注意义务，不能免除其法律责任。\n\n对于社会危害性评估，公诉人补充：根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第二条，非法制造烟火药五千克以上即属\"情节严重\"。本案涉案数量已达7.045千克，依法应在三年以上十年以下有期徒刑幅度内量刑。考虑到本案具体情况，公诉机关已建议从轻处罚，体现了宽严相济的刑事政策。\n\n关于自首情节，公诉人认可被告人符合自首条件，但需要强调：根据《刑法》第六十一条规定，量刑应当根据犯罪的事实、性质、情节和对社会的危害程度决定。自首只是量刑考虑因素之一，不能单独决定刑罚轻重。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的许可证办理问题，辩护人需要指出：根据《合同法》第六十条规定，当事人应当按照约定全面履行自己的义务。本案中，被告人已按合同约定支付相关费用，而公司未履行办理许可证的义务。被告人在此情况下多次询问办理进度，已尽到合理注意义务。\n\n对于涉案数量问题，辩护人提请法庭注意：根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条第二款，确因生产、生活需要而非法制造、买卖、运输爆炸物，数量虽达到本解释第二条规定标准的，也可以不认定为\"情节严重\"。本案系为合法生产经营做准备，符合该条款规定。\n\n关于量刑问题，辩护人补充：根据《刑法》第七十二条，对于犯罪情节较轻、有悔罪表现、没有再犯罪危险的犯罪分子，可以宣告缓刑。被告人系初犯，认罪态度良好，社会危害性较小，完全符合适用缓刑的条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对案件事实和量刑情节已充分发表意见，现请双方就被告人进行试验性生产的具体安全防护措施进一步说明，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据现场勘验检查笔录及被告人供述，虽然被告人声称采取了基本安全措施，但根据《烟花爆竹安全管理条例》第二十三条规定，生产烟花爆竹必须符合国家标准的安全条件，包括专业防护设施、安全距离等。被告人仅配备灭火器、选择砖混结构仓库，远未达到法定安全标准。且试验性生产时未向安监部门报备，存在重大安全隐患。\n\n关于辩护人提出的技术人员指导问题，需要指出：根据《安全生产法》第二十一条，生产经营单位的主要负责人对本单位安全生产工作负有全面责任。被告人作为实际生产组织者，不能因有技术人员在场就免除其确保安全生产的法定义务。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于安全防护措施，辩护人需要指出：被告人在技术人员指导下采取了与试验规模相适应的防护措施，包括穿戴防护装备、控制生产规模、保持安全距离等。虽然未达到正式生产的国家标准，但考虑到仅为小规模试验性生产，且全程有专业人员指导，实际风险可控。\n\n根据《最高人民法院关于审理非法制造、买卖、运输枪支、弹药、爆炸物等刑事案件具体应用法律若干问题的解释》第九条，对于确因生产需要且未造成严重后果的情形，应当从宽处理。本案中被告人的防护措施与试验性质相匹配，未发生任何安全事故，证明其已尽到合理注意义务。\n\n关于技术人员指导的法律效力问题，被告人作为非专业人士，有理由信赖专业人员的指导。根据《民法典》相关规定，提供专业服务的一方应承担相应责任。被告人已尽到合理注意义务，不应过度苛责。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长、各位法官：\n我深刻认识到自己在未取得许可证的情况下进行试验性生产的行为已经触犯了法律。我真诚认罪悔罪，愿意接受法律的惩处。我主动投案并如实供述全部事实，积极配合调查。我购买设备和原料的初衷是为了合法经营，但因法律意识淡薄而触犯法律。试验性生产时有专业技术人员指导，采取了基本安全措施，存放地点远离居民区，未造成实际危害。我保证今后一定遵纪守法，恳请法庭从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "会宁县人民法院\n刑事判决书\n（2018）会刑初字第195号\n\n公诉机关会宁县人民检察院。\n\n被告人漆某，男，XX年XX月XX日出生，民族XXX，文化程度XXX，户籍XXX。因涉嫌非法制造、储存爆炸物罪，于案发后主动投案自首，现取保候审。\n\n辩护人XXX，XXX律师事务所律师。\n\n会宁县人民检察院以会检公诉刑诉〔2018〕195号起诉书指控被告人漆某犯非法制造、储存爆炸物罪，于2018年9月13日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。会宁县人民检察院指派检察员XXX出庭支持公诉，被告人漆某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n会宁县人民检察院指控：2016年11月，被告人漆某与＊＊＊＊公司签订合同购买生产烟花爆竹设备，并购买导火索4500米、导火线116米及各类烟火药共计7.045千克，储存于会宁县郭城驿镇＊＊＊砖厂内。后该公司技术人员指导漆某实验制作各类烟花样品。经检验，上述物品均被认定为烟火药。漆某在长沙催办许可证时被举报，次日主动投案。公诉机关认为被告人行为已构成非法制造、储存爆炸物罪，具有自首情节，建议判处有期徒刑XX，缓刑XX，并处罚金。\n\n被告人漆某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚且签字具结，在开庭审理过程中亦无异议。辩护人提出被告人系为合法生产经营做准备，具有自首情节，存放地点远离居民区，未造成实际危害，请求从轻处罚。\n\n经审理查明：2016年11月，被告人漆某与＊＊＊＊公司签订合同购买生产烟花爆竹设备，该公司承诺为其办理生产经营许可证。漆某购买导火索4500米、导火线116米及各类烟火药共计7.045千克，储存于距居民区约500米的废弃砖厂内。后该公司技术人员指导漆某实验制作各类烟花样品。漆某在长沙催办许可证时被举报，次日主动投案。上述事实有被告人供述、合同书、检验报告、扣押清单、证人证言等证据证实，足以认定。\n\n本院认为，被告人漆某违反国家爆炸物管理规定，非法制造、储存爆炸物，其行为已构成非法制造、储存爆炸物罪。鉴于被告人具有自首情节，认罪认罚，系为合法生产经营做准备，存放地点远离居民区，未造成实际危害后果，依法可从轻处罚。公诉机关量刑建议适当，予以采纳。辩护人相关辩护意见成立，予以采纳。依照《中华人民共和国刑法》第一百二十五条第一款、第六十七条第一款、第七十二条第一款、第七十三条第二款、第三款、第六十四条之规定，判决如下：\n\n一、被告人漆某犯非法制造、储存爆炸物罪，判处有期徒刑二年，缓刑三年，并处罚金人民币五千元；\n\n二、扣押在案的导火索4500米、导火线116米、引燃药0.371千克、表皮药1.264千克、升空药5.411千克及烟花样品予以没收。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向XX市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2018年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n   - 被告人在侦查阶段的供述（包括案件经过、犯案动机和案发后处理情况）\n   - 各类书证（起诉书、公司营业执照、银行账户明细、扣押清单、合同文件、技术资料等）\n   - 6名证人的证言笔录\n   - 专业机构的检验报告\n   - 现场勘验检查笔录及照片\n   - 扣押的原材料和烟花样品等物证\n   - 被告人身份证明和社区评估意见\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示没有需要补充出示的证据。\n\n5. 被告人表示不申请调取新证据、通知新证人或重新鉴定勘验。\n\n（注：所有证据均与非法制造、储存爆炸物罪的指控事实相关，且控辩双方对证据均无异议）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n   - 被告人在侦查阶段的供述（包括案件经过、犯案动机和案发后处理情况）\n   - 各类书证（起诉书、公司营业执照、银行账户明细、扣押清单、合同文件、技术资料等）\n   - 6名证人的证言笔录\n   - 专业机构的检验报告\n   - 现场勘验检查笔录及照片\n   - 扣押的原材料和烟花样品等物证\n   - 被告人身份证明和社区评估意见\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示没有需要补充出示的证据。\n\n5. 被告人表示不申请调取新证据、通知新证人或重新鉴定勘验。\n\n（注：所有证据均与非法制造、储存爆炸物罪的指控事实相关，且控辩双方对证据均无异议）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n   - 被告人在侦查阶段的供述（包括案件经过、犯案动机和案发后处理情况）\n   - 各类书证（起诉书、公司营业执照、银行账户明细、扣押清单、合同文件、技术资料等）\n   - 6名证人的证言笔录\n   - 专业机构的检验报告\n   - 现场勘验检查笔录及照片\n   - 扣押的原材料和烟花样品等物证\n   - 被告人身份证明和社区评估意见\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示没有需要补充出示的证据。\n\n5. 被告人表示不申请调取新证据、通知新证人或重新鉴定勘验。\n\n（注：所有证据均与非法制造、储存爆炸物罪的指控事实相关，且控辩双方对证据均无异议）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n   - 被告人在侦查阶段的供述（包括案件经过、犯案动机和案发后处理情况）\n   - 各类书证（起诉书、公司营业执照、银行账户明细、扣押清单、合同文件、技术资料等）\n   - 6名证人的证言笔录\n   - 专业机构的检验报告\n   - 现场勘验检查笔录及照片\n   - 扣押的原材料和烟花样品等物证\n   - 被告人身份证明和社区评估意见\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示没有需要补充出示的证据。\n\n5. 被告人表示不申请调取新证据、通知新证人或重新鉴定勘验。\n\n（注：所有证据均与非法制造、储存爆炸物罪的指控事实相关，且控辩双方对证据均无异议）\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人行为构成非法制造、储存爆炸物罪，涉案烟火药总量达7.045千克，远超入罪标准\n- 虽与公司签订合同但未确保许可证办理，主观上具有明显过错\n- 存放地点虽远离居民区但未经专业评估，存在安全隐患\n- 认可自首情节，但强调需综合考量犯罪事实及社会危害程度\n\n2. 辩护人辩护要点：\n- 被告人具有自首情节，主观恶性小，系为合法生产经营做准备\n- 存放地点距居民区500米以上，有专业技术人员指导，未造成安全事故\n- 基于对正规公司的合理信赖，已尽到合理注意义务\n- 涉案数量虽达\"情节严重\"标准，但因生产需要可依法从轻处罚\n\n3. 双方争议焦点：\n- 关于安全防护措施：公诉人认为未达国家标准，辩护人认为与试验规模相适应\n- 关于主观过错：公诉人认为未尽注意义务，辩护人主张合理信赖专业人员\n- 关于量刑标准：公诉人指出已达\"情节严重\"标准，辩护人援引司法解释第九条从宽规定\n\n4. 补充辩论：\n- 公诉人强调生产烟花爆竹必须取得许可证的基本法律要求\n- 辩护人指出被告人已按合同支付费用，公司未履行办证义务\n- 双方就缓刑适用条件展开辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n\n1. 公诉人讯问：\n- 被告人购买设备和原料的目的是合法生产烟花爆竹，正在等待办理许可证\n- 确认原料数量与起诉书一致\n- 原料存放在废弃砖厂独立仓库，距离居民区约500米，采取了基本安全措施\n- 公司承诺办理许可证但一直未办妥，被告人多次询问进度但未获得书面回复\n- 试验性生产时有专业技术人员指导，未发生安全事故\n\n2. 辩护人讯问：\n- 合同明确约定由公司负责办理许可证\n- 试验性生产持续约两周，严格按技术人员指导操作\n- 生产少量试验产品（具体克数），采取了防护措施\n- 已按合同支付相关费用，无其他人员参与生产\n- 未向当地部门报备或申请临时许可\n\n3. 审判长补充讯问：\n- 被告人未收到公司关于许可证办理的书面材料\n- 未向安监部门咨询或公安机关报备\n- 未支付专门办理许可证的费用\n- 未向公司索要许可证办理证明\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了22项证据，包括：\n   - 被告人在侦查阶段的供述（包括案件经过、犯案动机和案发后处理情况）\n   - 各类书证（起诉书、公司营业执照、银行账户明细、扣押清单、合同文件、技术资料等）\n   - 6名证人的证言笔录\n   - 专业机构的检验报告\n   - 现场勘验检查笔录及照片\n   - 扣押的原材料和烟花样品等物证\n   - 被告人身份证明和社区评估意见\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人表示没有需要补充出示的证据。\n\n5. 被告人表示不申请调取新证据、通知新证人或重新鉴定勘验。\n\n（注：所有证据均与非法制造、储存爆炸物罪的指控事实相关，且控辩双方对证据均无异议）\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人行为构成非法制造、储存爆炸物罪，涉案烟火药总量达7.045千克，远超入罪标准\n- 虽与公司签订合同但未确保许可证办理，主观上具有明显过错\n- 存放地点虽远离居民区但未经专业评估，存在安全隐患\n- 认可自首情节，但强调需综合考量犯罪事实及社会危害程度\n\n2. 辩护人辩护要点：\n- 被告人具有自首情节，主观恶性小，系为合法生产经营做准备\n- 存放地点距居民区500米以上，有专业技术人员指导，未造成安全事故\n- 基于对正规公司的合理信赖，已尽到合理注意义务\n- 涉案数量虽达\"情节严重\"标准，但因生产需要可依法从轻处罚\n\n3. 双方争议焦点：\n- 关于安全防护措施：公诉人认为未达国家标准，辩护人认为与试验规模相适应\n- 关于主观过错：公诉人认为未尽注意义务，辩护人主张合理信赖专业人员\n- 关于量刑标准：公诉人指出已达\"情节严重\"标准，辩护人援引司法解释第九条从宽规定\n\n4. 补充辩论：\n- 公诉人强调生产烟花爆竹必须取得许可证的基本法律要求\n- 辩护人指出被告人已按合同支付费用，公司未履行办证义务\n- 双方就缓刑适用条件展开辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 24.0,
+    "fine": 5000.0,
+    "reprieve": 36.0
+  }
+]

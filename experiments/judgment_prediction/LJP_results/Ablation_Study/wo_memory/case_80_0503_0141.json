@@ -1,0 +1,1881 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人严某，性别男，户籍XXXXX，曾有行政处罚劣迹。因涉嫌犯开设赌场罪，于2017年8月18日被公安机关抓获。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我曾因赌博被公安机关行政处罚。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖南省长沙市天心区人民检察院  \n起 诉 书  \n\n长天检刑诉〔2017〕589号  \n\n被告人严某，男，户籍XXXXX，曾有行政处罚劣迹。因涉嫌犯开设赌场罪，于2017年8月18日被公安机关抓获。  \n\n本案由长沙市公安局天心分局侦查终结，以被告人严某涉嫌开设赌场罪，于2017年10月16日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2017年4月份以来，被告人严某在本市天心区黑石铺街道披塘安置小区一期8栋开设一无名电游室，内设1组打鱼机和1组熊猫机，并聘请李某甲、张某甲（均另案处理）为其负责管理运营。2017年6月21日23时许，赌博违法人员谢某、李某乙、李某丙、连某、王某、伍某在被告人严某开设的电游室进行赌博时被公安机关查获，公安机关依法扣押了赌博用的打鱼机、熊猫机的主板和赌资人民币2000元。截至该电游室被查获，被告人严某共非法获利约人民币12000元。经鉴定，被告人严某电游室所用的打鱼机和熊猫机均为具有赌博功能电子游戏设施设备，每组8台，均能独立供一人进行赌博活动操作。  \n\n认定上述事实的证据如下：  \n1.物证：赌博用的打鱼机、熊猫机的主板和赌资人民币2000元；  \n2.书证：赌博机器照片、归案情况说明、羁押证明、证据保全清单、收缴物品清单、微信交易记录截图、行政处罚决定书、户籍资料；  \n3.证人证言：证人李某甲、张某甲、谢某、李某乙、李某丙、连某、王某、伍某、童某、张某乙的证言；  \n4.被告人供述和辩解；  \n5.鉴定意见：打鱼机和熊猫机均为具有赌博功能电子游戏设施设备；  \n6.辨认笔录。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人严某对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人严某以营利为目的，开设电游赌博室赌博，设置十台以上赌博机，其行为已触犯《中华人民共和国刑法》第三百零三条第二款之规定，犯罪事实清楚，证据确实、充分，应当以开设赌场罪追究其刑事责任。被告人严某曾有行政处罚劣迹，具有酌定从重处罚情节。被告人严某归案后及法庭审理中均能如实供述自己的罪行，可以认定具有坦白情节，依法可以从轻处罚。建议判处被告人严某有期徒刑XX，缓刑XX，并处罚金XX。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n湖南省长沙市天心区人民法院  \n\n检 察 官 李某丁  \n2017年10月16日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人严某，你在2017年4月至6月期间是否在天心区黑石铺街道披塘安置小区一期8栋开设电游室？该电游室内是否设置了1组打鱼机和1组熊猫机，每组8台？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我在那里开设了电游室，放置了1组打鱼机和1组熊猫机，每组8台。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设该电游室的目的是什么？是否以营利为目的？截至被查获时，你通过该电游室共获利多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是为了营利。截至被查获时，共获利约12000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否聘请了李某甲和张某甲负责电游室的日常管理运营？他们具体负责哪些工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我聘请了他们。李某甲负责收银和机器维护，张某甲负责接待客人和日常管理。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "2017年6月21日被查获时，现场是否有谢某等6人在使用赌博机进行赌博？公安机关是否扣押了赌博机主板和赌资2000元？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，当时有6人在使用机器。公安机关确实扣押了主板和2000元赌资。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否知道打鱼机和熊猫机被鉴定为具有赌博功能的电子游戏设施设备？在经营期间，你是否清楚这些设备用于赌博活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道这些设备被鉴定为赌博机。经营期间我清楚这些设备可以用于赌博活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你之前是否曾因违法行为受到过行政处罚？具体是什么违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我曾因赌博被公安机关行政处罚过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在被公安机关抓获后，是否如实供述了自己的犯罪行为？是否有自首情节？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我被抓获后如实供述了犯罪行为。没有自首情节。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你通过电游室获得的12000元收入中，有多少是来自正常的游戏消费，有多少是来自赌博活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大部分收入来自赌博活动，具体比例我不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你聘请李某甲和张某甲负责管理时，是否明确告知他们这些机器具有赌博功能？他们具体负责哪些工作内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有明确告知他们这些机器具有赌博功能。李某甲主要负责收银和机器维护，张某甲负责接待客人和日常管理。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你开设的电游室中打鱼机和熊猫机的具体运营方式是怎样的？是否设置了兑换现金或实物奖励的机制？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "打鱼机和熊猫机都是投币上分，玩家赢了可以退分换钱。没有设置实物奖励，都是直接兑换现金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，在被查获前，你是否知道这些机器被认定为赌博机？是否收到过相关管理部门的警告或处罚？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道这些机器被认定为赌博机。在被查获前没有收到过管理部门的警告或处罚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你之前因赌博被行政处罚的具体时间是什么时候？与本次开设赌场行为之间相隔多久？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2015年3月被行政处罚过，与这次开设赌场相隔约2年。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你之前因赌博被行政处罚的具体金额是多少？与本次开设赌场行为在性质上有何区别？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2015年被处罚金额是3000元。上次是参与赌博，这次是开设赌场，性质更严重。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你开设的电游室每天营业时间是多少？平均每天有多少顾客光顾？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "营业时间一般是下午2点到晚上12点。平均每天有10-15个顾客。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你开设的电游室是否办理了营业执照？如果有，具体是什么性质的营业执照？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有办理营业执照。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你开设的电游室中打鱼机和熊猫机的具体上分和退分兑换比例是多少？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "打鱼机是1元上10分，退分是10分换1元。熊猫机是1元上5分，退分是5分换1元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否向顾客提供茶水、餐饮等额外服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供茶水、餐饮等额外服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否设置了监控设备？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有设置监控设备。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否设置了会员制度或积分制度？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有设置会员制度或积分制度。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否设置了专门的兑换现金的窗口或区域？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有设置专门的兑换现金窗口或区域。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2017年4月，我在长沙市天心区黑石铺街道披塘安置小区一期8栋开设了一家无名电游室，店内放置了1组打鱼机和1组熊猫机，每组8台。我聘请了李某甲和张某甲负责日常管理运营。2017年6月21日23时许，谢某、李某乙、李某丙、连某、王某、伍某在电游室内使用机器时被公安机关查获。公安机关扣押了赌博机主板和赌资2000元。截至被查获时，我通过电游室获利约12000元。2017年8月18日，我被公安机关抓获。  \n\n（2）犯案动机  \n我开设电游室的目的是为了营利。  \n\n（3）案发之后的处理  \n我在案发后没有自首，被公安机关抓获后如实供述了罪行。目前尚未进行赔偿，也未与相关人员达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人的供述仅能证明其开设电游室的事实，但无法直接证明所有收入均来自赌博活动。该证据与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在侦查阶段明确供述其开设电游室是为了营利，且承认大部分收入来自赌博活动。结合其他证据可以形成完整证据链，证明其违法所得均来自赌博活动。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分表达意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.物证：赌博用的打鱼机、熊猫机的主板和赌资人民币2000元，由公安机关依法扣押并经专业机构鉴定，出具了鉴定报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "物证仅能证明存在赌博机和赌资，但无法证明这些设备的使用频率和实际获利情况，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "物证经专业机构鉴定确认为具有赌博功能的电子游戏设施设备，结合被告人供述和证人证言，能够证明这些设备被用于赌博活动并产生违法所得。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就物证关联性充分表达意见，无需进一步辩论。请公诉人继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：赌博机器照片，拍摄时间为2021年X月X日，地点为涉案电游室，由办案民警依法拍摄",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "赌博机器照片仅能证明涉案场所存在相关设备，但无法证明这些设备的使用频率和实际获利情况，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "赌博机器照片与被告人供述、证人证言相互印证，能够证明涉案设备被用于赌博活动并产生违法所得，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：归案情况说明，由XX公安局制作，制作人王某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：羁押证明，由XX看守所出具，出具人李某戊具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：证据保全清单，由XX公安局制作，制作人张某丙具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：收缴物品清单，由XX公安局制作，制作人赵某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：微信交易记录截图，由办案民警依法提取并记录提取过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "微信交易记录截图仅能证明存在资金往来，但无法证明这些交易与赌博活动直接相关，不能证明所有收入均来自赌博活动。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "微信交易记录截图与被告人供述、证人证言相互印证，能够证明这些交易与赌博活动直接相关，形成完整证据链证明违法所得金额。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就微信交易记录截图的关联性充分表达意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：行政处罚决定书，由XX公安局制作，制作人刘某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：户籍资料",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人李某甲说：“我是被严某聘请来管理电游室的，主要负责日常运营和收钱。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明被告人与李某甲之间存在雇佣关系，但无法证明电游室内的具体经营行为与赌博活动直接相关，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人李某甲的证言与被告人供述、其他证人证言相互印证，能够证明电游室实际经营赌博活动并产生违法所得，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分表达意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人张某甲说：“我也是被严某聘请的，帮忙看店和接待客人。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明被告人与张某甲之间存在雇佣关系，但无法证明电游室内的具体经营行为与赌博活动直接相关，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人张某甲的证言与被告人供述、其他证人证言相互印证，能够证明电游室实际经营赌博活动并产生违法所得，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人谢某说：“我在电游室玩过打鱼机，输了钱。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明谢某个人在电游室的活动情况，但无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人谢某的证言与被告人供述、其他证人证言相互印证，能够证明电游室实际经营赌博活动并产生违法所得，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人谢某证言的关联性充分表达意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人李某乙说：“我去过那家电游室几次，主要是玩熊猫机。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明李某乙个人在电游室的活动情况，但无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人李某乙的证言与被告人供述、其他证人证言相互印证，能够证明电游室实际经营赌博活动并产生违法所得，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人李某乙证言的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人李某丙说：“我看到很多人在这里赌博，我也参与过。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明李某丙个人在电游室的活动情况，但无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人李某丙的证言与被告人供述、其他证人证言相互印证，能够证明电游室实际经营赌博活动并产生违法所得，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人李某丙证言的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人连某说：“我在电游室玩过，知道这里是赌博的地方。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明连某个人对电游室的主观判断，但缺乏客观证据支持其\"知道这里是赌博的地方\"的结论，无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人王某说：“我被朋友带去电游室玩过打鱼机。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明王某个人在电游室的活动情况，但无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人伍某说：“我在电游室赌博时被警察抓了。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明伍某个人在电游室的活动情况，但无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人童某说：“我看到电游室经常有人进出，感觉是在赌博。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明童某对电游室的主观感受，缺乏客观证据支持其\"感觉是在赌博\"的判断，无法证明电游室实际经营性质及收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人张某乙说：“我听说那家电游室可以赌博，就去玩过几次。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明张某乙个人对电游室的主观判断和活动情况，但无法证明电游室整体经营性质及全部收入来源，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.鉴定意见：经XX鉴定机构鉴定，打鱼机和熊猫机均为具有赌博功能电子游戏设施设备，每组8台，均能独立供一人进行赌博活动操作，鉴定人陈某具有合法资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "鉴定意见仅能证明涉案设备具有赌博功能，但未详细说明赌博功能的具体认定标准，无法证明所有机器均用于赌博活动，与公诉人主张的全部收入均为赌博所得的证明目的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.辨认笔录：XX公安机关对赌博机器和涉案人员进行了辨认和记录，制作人周某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第三百零三条第二款之规定，被告人严某以营利为目的，设置16台具有赌博功能的电子游戏设备，违法所得达12000元，已构成开设赌场罪。本案证据确实充分：1.被告人供述明确承认以营利为目的开设电游室并设置赌博机；2.鉴定意见证实涉案设备具有赌博功能；3.微信交易记录等书证证实违法所得金额；4.多名证人证言与被告人供述相互印证。被告人曾因赌博被行政处罚，具有从重处罚情节；但归案后如实供述，具有坦白情节，可从轻处罚。建议法庭综合考虑犯罪事实、情节及社会危害性，依法判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于证据方面。公诉人提供的微信交易记录截图未能明确显示与赌博活动的直接关联性，不能证明所有收入均来自赌博活动。部分证人证言仅凭主观感觉判断电游室为赌博场所，缺乏客观证据支持。鉴定意见未详细说明赌博功能的具体认定标准，无法证明所有机器均用于赌博活动。\n\n第二，关于量刑情节。根据《刑法》第六十七条第三款，被告人严某归案后如实供述罪行，具有坦白情节，依法可以从轻处罚。本案违法所得金额仅12000元，社会危害性较低。赌博机数量16台，刚达立案标准，情节较轻。被告人系初犯，此前仅有行政处罚劣迹，无刑事前科。\n\n第三，关于法律适用。建议法庭充分考虑被告人认罪态度良好、犯罪情节较轻等从轻情节，在法定刑幅度内从宽处罚。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于坦白情节可以减少基准刑的20%以下。\n\n综上，恳请法庭对被告人从轻处罚，给予改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的证据关联性问题，公诉人认为：1.微信交易记录与被告人供述、证人证言相互印证，能够形成完整证据链证明违法所得来源；2.鉴定机构具有合法性，鉴定意见明确认定涉案设备具有赌博功能，符合《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第一条之规定；3.16台赌博机已远超10台的立案标准，违法所得12000元远超5000元的追诉标准，社会危害性明显。根据《刑法》第三百零三条第二款，被告人行为已构成开设赌场罪。虽具有坦白情节可从轻处罚，但考虑到其曾有赌博行政处罚劣迹，应从重处罚。建议法庭依法判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的证据链问题，辩护人认为：1.微信交易记录与被告人供述之间仍存在合理怀疑，被告人仅承认\"大部分\"收入来自赌博活动，而非全部；2.16台赌博机数量虽达立案标准，但刚超过最低标准，且经营时间较短，社会危害性相对有限；3.被告人虽有赌博行政处罚劣迹，但与本次犯罪相隔2年，且性质不同，不应过度从重处罚。根据《刑法》第六十一条规定，量刑应当与犯罪事实、性质、情节和社会危害程度相适应。恳请法庭充分考虑被告人坦白情节和犯罪情节较轻的事实，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的合理怀疑问题，公诉人认为：1.被告人明确供述\"大部分收入来自赌博活动\"，结合16台赌博机的设置规模、微信交易记录及多名参赌人员证言，已形成完整证据链证明违法所得性质；2.根据《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第二条，设置10台以上赌博机即构成\"情节严重\"，本案16台已远超该标准；3.被告人虽与上次行政处罚相隔2年，但本次系开设赌场行为，主观恶性更大。根据《刑法》第六十二条，具有从重处罚情节的应当在法定刑幅度内从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的\"情节严重\"认定问题，辩护人认为：根据《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第二条，设置10台以上赌博机虽构成犯罪，但16台仅略超标准，且经营时间仅2个月，违法所得12000元远低于\"情节严重\"的5万元标准。被告人认罪态度良好，根据《刑法》第六十七条第三款，坦白情节应当从轻处罚。恳请法庭综合考虑犯罪情节轻微、社会危害性较小等因素，在量刑时予以从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，深刻认识到自己行为的违法性和社会危害性。我如实供述了全部犯罪事实，愿意接受法律制裁。恳请法庭考虑我是初犯，认罪态度良好，违法所得金额较小等情节，给予从轻处罚。我保证今后遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "湖南省长沙市天心区人民法院\n刑事判决书\n（2017）湘0103刑初589号\n\n公诉机关湖南省长沙市天心区人民检察院。\n被告人严某，男，1985年X月X日出生，汉族，户籍XXXXX，无业。因涉嫌犯开设赌场罪于2017年8月18日被刑事拘留，同年9月15日被逮捕。现羁押于长沙市天心区看守所。\n辩护人XXX，湖南XX律师事务所律师。\n\n长沙市天心区人民检察院以长天检刑诉〔2017〕589号起诉书指控被告人严某犯开设赌场罪，于2017年10月16日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。长沙市天心区人民检察院指派检察员李某丁出庭支持公诉，被告人严某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n长沙市天心区人民检察院指控：2017年4月以来，被告人严某在本市天心区黑石铺街道披塘安置小区一期8栋开设电游室，内设16台具有赌博功能的电子游戏设备，并聘请他人负责管理运营。2017年6月21日被公安机关查获，现场抓获参赌人员6名，扣押赌资2000元。截至被查获，被告人非法获利12000元。公诉机关认为被告人严某的行为已构成开设赌场罪，建议判处有期徒刑并适用缓刑，并处罚金。\n\n被告人严某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。\n\n经审理查明：2017年4月至6月间，被告人严某在本市天心区黑石铺街道披塘安置小区一期8栋开设电游室，内设打鱼机8台、熊猫机8台，并聘请李某甲、张某甲负责管理运营。经鉴定，上述设备均为具有赌博功能的电子游戏设施设备。2017年6月21日23时许，公安机关在该电游室查获谢某等6名参赌人员，扣押赌博机主板及赌资2000元。截至被查获，被告人严某共非法获利12000元。上述事实有被告人供述、证人证言、物证、书证、鉴定意见等证据证实，足以认定。\n\n本院认为，被告人严某以营利为目的，设置16台具有赌博功能的电子游戏设备组织赌博活动，其行为已构成开设赌场罪。公诉机关指控的罪名成立。被告人严某归案后如实供述自己的罪行，具有坦白情节，依法可以从轻处罚。被告人曾因赌博被行政处罚，酌情从重处罚。综合考虑被告人的犯罪事实、性质、情节及社会危害程度，依照《中华人民共和国刑法》第三百零三条第二款、第六十七条第三款、第七十二条第一款、第三款、第七十三条第二款、第三款、第六十四条之规定，判决如下：\n\n一、被告人严某犯开设赌场罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币四千元；\n二、扣押的赌博机主板、赌资人民币2000元及被告人严某的违法所得人民币12000元予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖南省长沙市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n\n审判长 XXX\n人民陪审员 XXX\n人民陪审员 XXX\n二〇一七年十一月十五日\n\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人严某开设的电游室是否构成开设赌场罪。需要查明电游室内设置的打鱼机和熊猫机是否属于具有赌博功能的电子游戏设施设备，以及被告人是否以营利为目的组织赌博活动。\n\n2.被告人严某的违法所得金额认定。需要核实起诉书指控的12000元非法获利是否准确，相关微信交易记录等证据是否充分。\n\n3.被告人严某是否具有坦白情节。需要审查被告人在侦查阶段和法庭审理中的供述是否一致、完整，是否符合刑法关于坦白从宽的规定。\n\n4.被告人严某的行政处罚劣迹是否构成酌定从重处罚情节。需要核实其前科的具体情况以及对本案量刑的影响。\n\n5.本案的量刑建议是否适当。需要综合考虑赌博机数量(16台)、违法所得金额、坦白情节等因素，评估公诉机关建议的有期徒刑、缓刑及罚金是否与罪责相适应。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量的认定标准",
+              "开设赌场罪中坦白情节的认定标准"
+            ],
+            "开设赌场罪中赌博机数量的认定标准": "### 结论\n开设赌场罪中赌博机数量的认定标准是判断行为是否构成犯罪及情节严重程度的重要依据。赌博机数量的多少直接影响罪名的成立和量刑的轻重，通常10台以上即构成开设赌场罪，60台以上则可能被认定为情节严重。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪及情节严重的重要标准。例如，【（2020）苏0602刑初420号】中，被告人设置赌博机28个独立机位，违法所得达104700元，被认定为情节严重。【（2020）浙0483刑初398号】中，被告人设置赌博机13台，累计赌资47万余元，也被认定为情节严重。\n- **违法所得**：违法所得的多少也是判断情节是否严重的关键因素。【（2019）闽0322刑初533号】中，虽然未明确赌博机数量，但强调了被告人能如实供述主要犯罪事实，系坦白，可予从轻处罚。\n- **自首与认罪态度**：自首和认罪态度对量刑有重要影响。【（2018）内25刑终8号】中，上诉人梅某某在接到侦查机关电话传唤后自动投案，被认定为自首，获得从轻处罚。【（2019）津0104刑初89号】中，被告人李德欣犯罪后自动投案，如实供述自己的罪行，被认定为自首，依法可以从轻处罚。\n\n综上，开设赌场罪的认定和量刑不仅取决于赌博机数量，还涉及违法所得、自首与认罪态度等多方面因素。其中，赌博机数量和违法所得是判断情节是否严重的直接依据，而自首与认罪态度则可能影响量刑的轻重。\n\n#####\n类似案件为：\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2020）浙0483刑初398号】：法院认为，被告人林培明以营利为目的，设置赌博机13台供他人赌博，累计赌资47万余元，情节严重，其行为构成开设赌场罪。对辩护人关于涉案赌资异议的辩护意见予以采纳，但关于以赌博机数量认定犯罪情节的辩护意见与事实及司法解释规定不符，不予采纳。被告人林培明庭审中认罪态度较好，酌情从轻处罚。一、被告人林培明犯开设赌场罪，判处有期徒刑三年四个月，并处罚金十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年1月15日起至2023年5月14日止，罚金限于判决生效后十日内缴纳）。\n 二、扣押在案的用于犯罪的赌博机13台（其中捕鱼机8台、斗地主机2台、苹果机2台、金银鲨机1台）、监控主机1台予以没收（由扣押机关桐乡市公安局依法办理）。\n【（2019）闽0322刑初533号】：法院认为，被告人潘维坚、陈建业以营利为目的，利用具有赌博功能的电子游戏设备开设赌场，游戏设备认定为16台赌博机，其行为构成开设赌场罪。陈建业有前科，应酌情从重处罚；两被告如实供述主要犯罪事实，可从轻处罚。被告人潘维坚及其辩护人关于赌资不清的辩护意见有理。一、被告人陈建业犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 二、被告人潘维坚犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 三、扣押在仙游县公安局的大型八人座捕鱼游戏机两台、五张厨留香代金券，予以没收，由扣押机关依法处理。",
+            "开设赌场罪中坦白情节的认定标准": "### 结论\n开设赌场罪中坦白情节的认定标准涉及坦白的时间、程度、价值以及罪行的轻重，这些因素共同影响着是否从宽处罚以及从宽处罚的幅度。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：规定犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间**：坦白的时间早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2020）沪0115刑初4677号】中，被告人到案后如实供述自己开设赌场的罪行，自愿认罪认罚，依法从轻处罚。\n- **坦白的程度**：犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。坦白程度不同，反映犯罪分子是真心悔改还是想蒙混过关。例如，【（2020）沪0115刑初4677号】中，被告人对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，酌情从轻处罚。\n- **坦白的价值**：即犯罪分子的坦白交代在全案中的证据作用如何，是一般证据、重要证据还是关键证据。坦白的价值和作用不同，客观上影响司法机关认定和处理案件。例如，【（2020）沪0115刑初4677号】中，被告人如实供述有助于收集定案证据，依法从轻处罚。\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2020）沪0115刑初4677号】中，被告人刘2在刑满释放后五年内，再犯应当判处有期徒刑以上之罪，是累犯，对其所犯两罪均依法从重处罚。\n\n综上，坦白情节的认定标准在开设赌场罪中，需要综合考虑坦白的时间、程度、价值以及罪行的轻重，这些因素共同决定着是否给予从宽处罚以及从宽处罚的幅度。\n\n#####\n类似案件为：\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述、证人证言及物证证实严某以营利为目的开设电游室，设置16台赌博机，符合开设赌场罪的构成要件。2.鉴定意见明确涉案设备具有赌博功能，且违法所得达12000元，达到刑事追诉标准。3.被告人曾有行政处罚劣迹，应从重处罚；但归案后如实供述，具有坦白情节，可从轻处罚。4.参考类似案例（2020）苏0602刑初420号，建议判处有期徒刑一年并处罚金。\n防御策略：1.物证扣押程序合法，鉴定机构具有资质，证据保全清单完整。2.证人证言相互印证，与被告人供述一致，形成完整证据链。3.微信交易记录截图经依法提取，证明违法所得金额。4.行政处罚决定书证实被告人劣迹，可作为酌定从重处罚依据。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑事诉讼法第一百七十六条"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量的认定标准",
+              "开设赌场罪中坦白情节的认定标准"
+            ],
+            "开设赌场罪中赌博机数量的认定标准": "### 结论\n开设赌场罪中赌博机数量的认定标准是判断行为是否构成犯罪及情节严重程度的重要依据。赌博机数量的多少直接影响罪名的成立和量刑的轻重，通常10台以上即构成开设赌场罪，60台以上则可能被认定为情节严重。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪及情节严重的重要标准。例如，【（2020）苏0602刑初420号】中，被告人设置赌博机28个独立机位，违法所得达104700元，被认定为情节严重。【（2020）浙0483刑初398号】中，被告人设置赌博机13台，累计赌资47万余元，也被认定为情节严重。\n- **违法所得**：违法所得的多少也是判断情节是否严重的关键因素。【（2019）闽0322刑初533号】中，虽然未明确赌博机数量，但强调了被告人能如实供述主要犯罪事实，系坦白，可予从轻处罚。\n- **自首与认罪态度**：自首和认罪态度对量刑有重要影响。【（2018）内25刑终8号】中，上诉人梅某某在接到侦查机关电话传唤后自动投案，被认定为自首，获得从轻处罚。【（2019）津0104刑初89号】中，被告人李德欣犯罪后自动投案，如实供述自己的罪行，被认定为自首，依法可以从轻处罚。\n\n综上，开设赌场罪的认定和量刑不仅取决于赌博机数量，还涉及违法所得、自首与认罪态度等多方面因素。其中，赌博机数量和违法所得是判断情节是否严重的直接依据，而自首与认罪态度则可能影响量刑的轻重。\n\n#####\n类似案件为：\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2020）浙0483刑初398号】：法院认为，被告人林培明以营利为目的，设置赌博机13台供他人赌博，累计赌资47万余元，情节严重，其行为构成开设赌场罪。对辩护人关于涉案赌资异议的辩护意见予以采纳，但关于以赌博机数量认定犯罪情节的辩护意见与事实及司法解释规定不符，不予采纳。被告人林培明庭审中认罪态度较好，酌情从轻处罚。一、被告人林培明犯开设赌场罪，判处有期徒刑三年四个月，并处罚金十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年1月15日起至2023年5月14日止，罚金限于判决生效后十日内缴纳）。\n 二、扣押在案的用于犯罪的赌博机13台（其中捕鱼机8台、斗地主机2台、苹果机2台、金银鲨机1台）、监控主机1台予以没收（由扣押机关桐乡市公安局依法办理）。\n【（2019）闽0322刑初533号】：法院认为，被告人潘维坚、陈建业以营利为目的，利用具有赌博功能的电子游戏设备开设赌场，游戏设备认定为16台赌博机，其行为构成开设赌场罪。陈建业有前科，应酌情从重处罚；两被告如实供述主要犯罪事实，可从轻处罚。被告人潘维坚及其辩护人关于赌资不清的辩护意见有理。一、被告人陈建业犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 二、被告人潘维坚犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 三、扣押在仙游县公安局的大型八人座捕鱼游戏机两台、五张厨留香代金券，予以没收，由扣押机关依法处理。",
+            "开设赌场罪中坦白情节的认定标准": "### 结论\n开设赌场罪中坦白情节的认定标准涉及坦白的时间、程度、价值以及罪行的轻重，这些因素共同影响着是否从宽处罚以及从宽处罚的幅度。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：规定犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间**：坦白的时间早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2020）沪0115刑初4677号】中，被告人到案后如实供述自己开设赌场的罪行，自愿认罪认罚，依法从轻处罚。\n- **坦白的程度**：犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。坦白程度不同，反映犯罪分子是真心悔改还是想蒙混过关。例如，【（2020）沪0115刑初4677号】中，被告人对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，酌情从轻处罚。\n- **坦白的价值**：即犯罪分子的坦白交代在全案中的证据作用如何，是一般证据、重要证据还是关键证据。坦白的价值和作用不同，客观上影响司法机关认定和处理案件。例如，【（2020）沪0115刑初4677号】中，被告人如实供述有助于收集定案证据，依法从轻处罚。\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2020）沪0115刑初4677号】中，被告人刘2在刑满释放后五年内，再犯应当判处有期徒刑以上之罪，是累犯，对其所犯两罪均依法从重处罚。\n\n综上，坦白情节的认定标准在开设赌场罪中，需要综合考虑坦白的时间、程度、价值以及罪行的轻重，这些因素共同决定着是否给予从宽处罚以及从宽处罚的幅度。\n\n#####\n类似案件为：\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。"
+          }
+        },
+        "目标": "请求法院判处被告人严某开设赌场罪，有期徒刑一年，缓刑一年，并处罚金人民币一万元",
+        "询问": "1.被告人严某，你在2017年4月至6月期间是否在天心区黑石铺街道披塘安置小区一期8栋开设电游室？该电游室内是否设置了1组打鱼机和1组熊猫机，每组8台？\n\n2.你开设该电游室的目的是什么？是否以营利为目的？截至被查获时，你通过该电游室共获利多少？\n\n3.你是否聘请了李某甲和张某甲负责电游室的日常管理运营？他们具体负责哪些工作？\n\n4.2017年6月21日被查获时，现场是否有谢某等6人在使用赌博机进行赌博？公安机关是否扣押了赌博机主板和赌资2000元？\n\n5.你是否知道打鱼机和熊猫机被鉴定为具有赌博功能的电子游戏设施设备？在经营期间，你是否清楚这些设备用于赌博活动？\n\n6.你之前是否曾因违法行为受到过行政处罚？具体是什么违法行为？\n\n7.你在被公安机关抓获后，是否如实供述了自己的犯罪行为？是否有自首情节？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的微信交易记录截图未明确显示与赌博活动的直接关联性 2.证人证言中部分证人仅凭感觉判断电游室为赌博场所，缺乏客观证据支持 3.鉴定意见未详细说明赌博功能的具体认定标准\n防御策略：1.被告人严某如实供述罪行，具有坦白情节 2.违法所得金额较小，社会危害性较低 3.被告人系初犯，此前仅有行政处罚劣迹 4.赌博机数量刚达立案标准，情节较轻",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量认定标准",
+              "开设赌场罪中坦白情节的认定标准"
+            ],
+            "开设赌场罪中赌博机数量认定标准": "### 结论\n开设赌场罪中赌博机数量的认定标准，主要依据最高人民法院、最高人民检察院、公安部《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》的规定，即设置赌博机10台以上或者违法所得累计达到5000元以上等情形的，应当以开设赌场罪定罪处罚；设置赌博机60台以上或者违法所得累计达到30000元以上等情形的，应当认定为开设赌场情节严重。\n\n### 核心法条\n- **《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》**：规定了利用赌博机开设赌场的定罪量刑标准，包括赌博机数量、违法所得金额等。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪的重要标准之一。例如，【（2020）苏0602刑初420号】中，被告人设置赌博机共计28个独立机位供他人赌博使用，违法所得达104700元，被认定为开设赌场罪且属情节严重。\n- **违法所得金额**：违法所得金额也是认定开设赌场罪情节严重的重要因素。【（2020）苏0602刑初420号】中，违法所得达104700元，被认定为情节严重。\n- **自首与坦白**：自首和坦白是量刑时考虑的重要因素。【（2018）内25刑终8号】中，上诉人梅某某在接到侦查机关电话传唤后自动投案，被认定为自首，予以从轻处罚。\n- **共同犯罪中的作用**：在共同犯罪中，主犯与从犯的区分对量刑有重要影响。【（2020）苏0602刑初420号】中，被告人舒长军是主犯，而肖书林是从犯，因此肖书林被减轻处罚。\n\n综上，开设赌场罪的认定和量刑，主要依据赌博机数量、违法所得金额、自首与坦白、以及在共同犯罪中的作用等因素。其中，赌博机数量和违法所得金额是定罪量刑的关键，而自首、坦白以及在共同犯罪中的作用则影响量刑的轻重。\n\n#####\n类似案件为：\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2018）内25刑终8号】：法院认为，梅某某以非法营利为目的，开设赌场聚众赌博，其行为构成开设赌场罪。梅某某在接到侦查机关电话传唤后前往公安机关，途中被抓获，视为自动投案，构成自首。十人台赌博机系梅某某用于开设赌场进行生产、经营之用，应计入赌博机数量。一、撤销西乌珠穆沁旗人民法院（2017）内2526刑初80号刑事判决的第一项，即被告人梅某某犯开设赌场罪，判处有期徒刑四年，并处罚金20000元。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年12月31日起至2020年12月30日止）\n 二、维持西乌珠穆沁旗人民法院（2017）内2526刑初80号刑事判决的第二项，即扣押机关移送的电子捕鱼机3台、大白鲨机1台、奔驰宝马机1台、龙机1台、暴子机16台、建设银行pos机1台（型号为G3000512549）、记账日记3本依法没收。\n 三、维持西乌珠穆沁旗人民法院（2017）内2526刑初80号刑事判决的第三项、即赌资人民币1500元依法没收，上缴国库。\n 四、上诉人（原审被告人）梅某某犯开设赌场罪，判处有期徒刑二年，并处罚金人民币10000元。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年12月31日起至2018年12月30日止）",
+            "开设赌场罪中坦白情节的认定标准": "### 结论\n开设赌场罪中坦白情节的认定标准涉及坦白的时间、程度、价值以及罪行的轻重，这些因素共同影响着是否从宽处罚以及从宽处罚的幅度。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：规定犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间**：坦白的时间早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2020）沪0115刑初4677号】中，被告人到案后如实供述自己开设赌场的罪行，自愿认罪认罚，依法从轻处罚。\n- **坦白的程度**：犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。坦白程度不同，反映犯罪分子是真心悔改还是想蒙混过关。例如，【（2020）沪0115刑初4677号】中，被告人对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，酌情从轻处罚。\n- **坦白的价值**：即犯罪分子的坦白交代在全案中的证据作用如何，是一般证据、重要证据还是关键证据。坦白的价值和作用不同，客观上影响司法机关认定和处理案件。例如，【（2020）沪0115刑初4677号】中，被告人如实供述有助于收集定案证据，依法从轻处罚。\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2020）沪0115刑初4677号】中，被告人刘2在刑满释放后五年内，再犯应当判处有期徒刑以上之罪，是累犯，对其所犯两罪均依法从重处罚。\n\n综上，坦白情节的认定标准在开设赌场罪中，需要综合考虑坦白的时间、程度、价值以及罪行的轻重，这些因素共同决定着是否给予从宽处罚以及从宽处罚的幅度。\n\n#####\n类似案件为：\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。"
+          }
+        },
+        "目标": "请求法院判处被告人严某缓刑并减轻罚金",
+        "询问": "1. 被告人，你开设的电游室中打鱼机和熊猫机的具体运营方式是怎样的？是否设置了兑换现金或实物奖励的机制？（针对开设赌场罪的客观行为要件）\n\n2. 你聘请李某甲和张某甲负责管理时，是否明确告知他们这些机器具有赌博功能？他们具体负责哪些工作内容？（针对共同犯罪的主观明知要件）\n\n3. 你通过电游室获得的12000元收入中，有多少是来自正常的游戏消费，有多少是来自赌博活动？（针对违法所得金额的认定）\n\n4. 在被查获前，你是否知道这些机器被认定为赌博机？是否收到过相关管理部门的警告或处罚？（针对违法性认识要件）\n\n5. 你之前受到的行政处罚具体是什么性质的？与本次被指控的犯罪行为是否存在关联？（针对劣迹情节的认定）\n\n6. 被抓获后，你是否主动向公安机关交代了全部犯罪事实？是否有检举揭发他人犯罪行为？（针对坦白情节的认定）"
+      },
+      "被告人": {
+        "策略": "防御策略：1.如实供述罪行，具有坦白情节，依法可以从轻处罚 2.违法所得金额仅12000元，社会危害性较低 3.被告人虽曾有行政处罚劣迹，但系初犯，主观恶性较小 4.赌博机数量16台刚达立案标准，未达到情节严重标准 5.微信交易记录截图未明确显示与赌博活动的直接关联性 6.部分证人证言仅凭主观判断，缺乏客观证据支持 7.鉴定意见未详细说明赌博功能的具体认定标准",
+        "记忆": "",
+        "目标": "请求法院判处被告人严某缓刑并减轻罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人严某开设的电游室是否构成开设赌场罪。查明情况：公诉人已通过赌博机鉴定意见、证人证言等证据证实电游室内设置的16台机器均为赌博机，且被告人承认以营利为目的组织赌博活动。辩护人未对此提出实质性质疑。审判长认为该焦点已查明，构成开设赌场罪。\n\n2.被告人严某的违法所得金额认定。查明情况：起诉书指控获利12000元，被告人当庭确认该金额。辩护人询问了收入来源但未提出具体异议。审判长认为需结合微信交易记录等书证进一步核实。\n\n3.被告人严某是否具有坦白情节。查明情况：公诉人指出被告人在侦查和庭审中均如实供述，辩护人未提出异议。审判长认为符合坦白情节认定标准。\n\n4.行政处罚劣迹是否构成酌定从重情节。查明情况：被告人承认2015年因赌博被行政处罚，与本次犯罪间隔2年。审判长认为该前科情节轻微，从重幅度应有限。\n\n5.量刑建议是否适当。查明情况：公诉人建议适用缓刑，但需结合16台赌博机数量（已达入罪标准）、12000元违法所得等情节综合考量。审判长认为需进一步审查是否符合缓刑适用条件。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑事诉讼法第一百七十六条"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量的认定标准",
+              "开设赌场罪中坦白情节的认定标准"
+            ],
+            "开设赌场罪中赌博机数量的认定标准": "### 结论\n开设赌场罪中赌博机数量的认定标准是判断行为是否构成犯罪及情节严重程度的重要依据。赌博机数量的多少直接影响罪名的成立和量刑的轻重，通常10台以上即构成开设赌场罪，60台以上则可能被认定为情节严重。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪及情节严重的重要标准。例如，【（2020）苏0602刑初420号】中，被告人设置赌博机28个独立机位，违法所得达104700元，被认定为情节严重。【（2020）浙0483刑初398号】中，被告人设置赌博机13台，累计赌资47万余元，也被认定为情节严重。\n- **违法所得**：违法所得的多少也是判断情节是否严重的关键因素。【（2019）闽0322刑初533号】中，虽然未明确赌博机数量，但强调了被告人能如实供述主要犯罪事实，系坦白，可予从轻处罚。\n- **自首与认罪态度**：自首和认罪态度对量刑有重要影响。【（2018）内25刑终8号】中，上诉人梅某某在接到侦查机关电话传唤后自动投案，被认定为自首，获得从轻处罚。【（2019）津0104刑初89号】中，被告人李德欣犯罪后自动投案，如实供述自己的罪行，被认定为自首，依法可以从轻处罚。\n\n综上，开设赌场罪的认定和量刑不仅取决于赌博机数量，还涉及违法所得、自首与认罪态度等多方面因素。其中，赌博机数量和违法所得是判断情节是否严重的直接依据，而自首与认罪态度则可能影响量刑的轻重。\n\n#####\n类似案件为：\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2020）浙0483刑初398号】：法院认为，被告人林培明以营利为目的，设置赌博机13台供他人赌博，累计赌资47万余元，情节严重，其行为构成开设赌场罪。对辩护人关于涉案赌资异议的辩护意见予以采纳，但关于以赌博机数量认定犯罪情节的辩护意见与事实及司法解释规定不符，不予采纳。被告人林培明庭审中认罪态度较好，酌情从轻处罚。一、被告人林培明犯开设赌场罪，判处有期徒刑三年四个月，并处罚金十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年1月15日起至2023年5月14日止，罚金限于判决生效后十日内缴纳）。\n 二、扣押在案的用于犯罪的赌博机13台（其中捕鱼机8台、斗地主机2台、苹果机2台、金银鲨机1台）、监控主机1台予以没收（由扣押机关桐乡市公安局依法办理）。\n【（2019）闽0322刑初533号】：法院认为，被告人潘维坚、陈建业以营利为目的，利用具有赌博功能的电子游戏设备开设赌场，游戏设备认定为16台赌博机，其行为构成开设赌场罪。陈建业有前科，应酌情从重处罚；两被告如实供述主要犯罪事实，可从轻处罚。被告人潘维坚及其辩护人关于赌资不清的辩护意见有理。一、被告人陈建业犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 二、被告人潘维坚犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 三、扣押在仙游县公安局的大型八人座捕鱼游戏机两台、五张厨留香代金券，予以没收，由扣押机关依法处理。",
+            "开设赌场罪中坦白情节的认定标准": "### 结论\n开设赌场罪中坦白情节的认定标准涉及坦白的时间、程度、价值以及罪行的轻重，这些因素共同影响着是否从宽处罚以及从宽处罚的幅度。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：规定犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白的时间**：坦白的时间早晚和背景的不同，不仅说明了犯罪分子对自己所犯罪行悔悟的早晚，反映其人身危险性程度，还可能直接影响司法资源效益和刑事诉讼效率。例如，【（2020）沪0115刑初4677号】中，被告人到案后如实供述自己开设赌场的罪行，自愿认罪认罚，依法从轻处罚。\n- **坦白的程度**：犯罪分子是彻底交代全部罪行还是只交代主要罪行，每交代一件罪行是较全面客观地交代主要事实和情节还是避重就轻。坦白程度不同，反映犯罪分子是真心悔改还是想蒙混过关。例如，【（2020）沪0115刑初4677号】中，被告人对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，酌情从轻处罚。\n- **坦白的价值**：即犯罪分子的坦白交代在全案中的证据作用如何，是一般证据、重要证据还是关键证据。坦白的价值和作用不同，客观上影响司法机关认定和处理案件。例如，【（2020）沪0115刑初4677号】中，被告人如实供述有助于收集定案证据，依法从轻处罚。\n- **罪行的轻重**：罪行轻重是决定坦白是否从宽处罚以及从宽处罚幅度的根本因素。例如，【（2020）沪0115刑初4677号】中，被告人刘2在刑满释放后五年内，再犯应当判处有期徒刑以上之罪，是累犯，对其所犯两罪均依法从重处罚。\n\n综上，坦白情节的认定标准在开设赌场罪中，需要综合考虑坦白的时间、程度、价值以及罪行的轻重，这些因素共同决定着是否给予从宽处罚以及从宽处罚的幅度。\n\n#####\n类似案件为：\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。\n【（2020）沪0115刑初4677号】：法院认为，被告人李某2、周某某、杨某2、刘2的行为均已构成开设赌场罪和寻衅滋事罪，均应予两罪并罚。刘2系累犯，对其所犯两罪均依法从重处罚；四被告人均能如实供述自己开设赌场的罪行，自愿认罪认罚，均依法从轻处罚；对寻衅滋事的事实均未作供认，至庭审时才予以如实供述，均酌情从轻处罚；案发后，被害人获得了一定的赔偿，对四被告人再酌情从轻处罚。一、被告人李某2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年一个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年5月23日止。罚金于本判决生效后一个月内缴纳。)\n二、被告人周某某犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年二个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年6月23日止。罚金于本判决生效后一个月内缴纳。)\n三、被告人杨某2犯开设赌场罪，判处有期徒刑七个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑七个月，决定执行有期徒刑一年，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年4月23日止。罚金于本判决生效后一个月内缴纳。)\n四、被告人刘2犯开设赌场罪，判处有期徒刑八个月，罚金人民币五千元；犯寻衅滋事罪，判处有期徒刑九个月，决定执行有期徒刑一年三个月，罚金人民币五千元。\n(刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年4月24日起至2021年7月23日止。罚金于本判决生效后一个月内缴纳。)\n五、扣押在案的作案工具移动电话四部予以没收。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述、证人证言及物证完整证实严某以营利为目的开设电游室，设置16台赌博机，符合开设赌场罪的构成要件。2.鉴定意见明确涉案设备具有赌博功能，且违法所得达12000元，远超5000元的刑事追诉标准。3.被告人曾有赌博行政处罚劣迹，应从重处罚；但归案后如实供述，具有坦白情节，可从轻处罚。\n\n防御策略：1.物证扣押程序合法，鉴定机构具有资质，证据保全清单完整，可证明证据来源合法。2.证人证言相互印证，与被告人供述一致，形成完整证据链。3.微信交易记录截图经依法提取，证明违法所得金额确为12000元。4.行政处罚决定书证实被告人劣迹，可作为酌定从重处罚依据。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释第二条"
+            ],
+            "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释第二条": "以营利为目的，在计算机网络上建立赌博网站，或者为赌博网站担任代理，接受投注的，属于刑法第三百零三条规定的“开设赌场”。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中设置10台以上赌博机的量刑标准",
+              "有赌博行政处罚劣迹的开设赌场案件从重处罚幅度"
+            ],
+            "开设赌场罪中设置10台以上赌博机的量刑标准": "### 结论\n开设赌场罪中设置10台以上赌博机的量刑标准，主要依据《中华人民共和国刑法》第三百零三条第二款，结合最高人民法院、最高人民检察院、公安部《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》的规定，设置赌博机10台以上或违法所得累计达到5000元以上的，应当以开设赌场罪定罪处罚；设置赌博机60台以上或违法所得累计达到30000元以上的，应当认定为开设赌场情节严重。量刑时，法院会综合考虑犯罪情节、认罪态度、悔罪表现、是否自首、是否累犯、是否从犯等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：设置赌博机的数量是判断是否构成开设赌场罪的重要标准。例如，【（2020）苏0602刑初420号】中，被告人设置赌博机28个独立机位，违法所得达104700元，构成开设赌场罪且属情节严重。\n- **违法所得**：违法所得的数额也是量刑的重要考量因素。如【（2020）苏0602刑初420号】中，违法所得达104700元，被认定为情节严重。\n- **自首与坦白**：被告人是否自动投案并如实供述自己的罪行，是量刑时的重要考量因素。如【（2019）苏0413刑初564号】中，被告人沈庆海自动投案并如实供述，被认定为自首，依法从轻处罚。\n- **认罪认罚**：被告人是否认罪认罚，是否愿意接受处罚，也是量刑时的考量因素。如【（2020）苏1081刑初125号】中，被告人周洪兵、兰森俤归案后如实供述并愿意接受处罚，依法从轻处罚。\n- **累犯与从犯**：被告人是否累犯，以及在共同犯罪中是否从犯，也会影响量刑。如【（2021）粤0114刑初1366号】中，被告人孟庆周系累犯，应当从重处罚；被告人陈亚重是从犯，应当从轻处罚。\n\n综上，开设赌场罪的量刑标准不仅考虑赌博机数量和违法所得，还综合考量被告人的自首、坦白、认罪认罚、累犯、从犯等情节，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2019）苏0413刑初564号】：法院认为，被告人沈庆海以营利为目的，设置赌博机10台以上，构成开设赌场罪。鉴于沈庆海自首、认罪认罚、预缴罚金，依法可以从轻处罚。根据沈庆海的犯罪情节、认罪态度和悔罪表现，对其宣告缓刑。一、被告人沈庆海犯开设赌场罪，判处拘役五个月，缓刑八个月，并处罚金人民币五万元（缓刑考验期从判决确定之日起计算。罚金已缴纳）。\n二、禁止被告人沈庆海在缓刑考验期内从事游戏室经营。",
+            "有赌博行政处罚劣迹的开设赌场案件从重处罚幅度": "### 结论\n开设赌场罪的从重处罚幅度受赌博行政处罚劣迹的影响，法院在量刑时会考虑被告人的前科劣迹、认罪态度、是否自首、是否退缴违法所得、是否适用缓刑等因素，但具体从重处罚的幅度未在案例中明确量化，通常表现为在量刑建议中酌情从重。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博行政处罚劣迹**：法院在量刑时会考虑被告人的赌博劣迹，作为从重处罚的依据。例如，【（2020）闽0582刑初1139号】、【（2020）浙1003刑初320号】、【（2020）闽0582刑初1752号】中，被告人均有赌博行政处罚劣迹，法院在量刑时均酌情予以从重处罚。\n- **认罪态度和自首情节**：被告人归案后如实供述罪行，愿意接受处罚，法院会依法从轻处罚。如【（2020）浙1003刑初320号】中，被告人有自首情节，自愿认罪认罚，法院依法予以从轻处罚。\n- **退缴违法所得**：被告人退缴非法获利，法院会酌情从轻处罚。如【（2023）浙0603刑初720号】中，被告人俞百仁退缴非法获利，法院酌情从轻处罚。\n- **是否适用缓刑**：根据被告人的犯罪情节和认罪悔罪态度，法院可以考虑是否适用缓刑。如【（2023）浙0603刑初720号】中，被告人俞百仁的犯罪情节和认罪悔罪态度良好，法院认为可以适用缓刑。\n\n综上，赌博行政处罚劣迹是影响开设赌场罪量刑的重要因素之一，法院在量刑时会综合考虑被告人的前科劣迹、认罪态度、是否自首、是否退缴违法所得等情节，以确定从重处罚的幅度。\n\n#####\n类似案件为：\n【（2020）闽0582刑初1139号】：法院认为，林建榕利用地下“六合彩”组织竞猜对赌，扰乱社会管理秩序，其行为构成开设赌场罪。鉴于林建榕有坦白、认罪认罚情节，依法予以从轻处罚；其有赌博行政处罚劣迹，酌情从重处罚。一、被告人林建榕犯开设赌场罪，判处有期徒刑六个月，并处罚金人民币五千元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年8月31日起至2021年2月12日止。罚金应在判决生效之日起十日内向本院缴纳。）\n 二、扣押的作案工具OPPO牌手机1部（未随案移送），予以没收，上缴国库。\n 三、继续追缴被告人林建榕的违法所得人民币725元，予以没收，上缴国库。\n【（2020）浙1003刑初320号】：法院认为，被告人林贤华以营利为目的开设赌场，从中抽头获利，其行为已构成开设赌场罪。被告人有赌博、拒不执行紧急状态下的决定、命令的行政处罚劣迹，酌情从重处罚。鉴于自首，认罪认罚，退缴违法所得，依法从轻处罚。一、被告人林贤华犯开设赌场罪，判处有期徒刑九个月，缓刑一年，并处罚金人民币三万六千元。\n （缓刑考验期限，从判决确定之日起计算；罚金已缴纳）。\n 二、被告人林贤华退缴的违法所得人民币一万二千元，予以没收，上缴国库。\n【（2020）闽0582刑初1752号】：法院认为，陈玉椿利用地下“六合彩”特码组织竞猜对赌活动，扰乱社会管理秩序，其行为已构成开设赌场罪，其归案后如实供述自己的罪行，愿意接受处罚，依法予以从轻处罚；有赌博行政处罚劣迹，酌情予以从重处罚。一、被告人陈玉椿犯开设赌场罪，判处有期徒刑六个月，并处罚金人民币一万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年11月17日起至2021年4月15日止。罚金应在判决生效之日起十日内向本院缴纳。）\n 二、扣押的作案工具手机及电脑主机各1部（均未随案移送），均予以没收，上缴国库。\n 三、继续追缴被告人陈玉椿的违法所得人民币5000元，予以没收，上缴国库。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的微信交易记录截图未明确显示与赌博活动的直接关联性，不能证明所有收入均来自赌博活动 2.证人证言中部分证人仅凭感觉判断电游室为赌博场所，缺乏客观证据支持 3.鉴定意见未详细说明赌博功能的具体认定标准，无法证明所有机器均用于赌博活动\n防御策略：1.被告人严某如实供述罪行，具有坦白情节，依法可以从轻处罚 2.违法所得金额较小(12000元)，社会危害性较低 3.赌博机数量刚达立案标准(16台)，情节较轻 4.被告人系初犯，此前仅有行政处罚劣迹",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "最高人民法院、最高人民检察院、公安部关于办理利用赌博机开设赌场案件适用法律若干问题的意见"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量刚达立案标准的量刑案例",
+              "有坦白情节且违法所得较小的开设赌场罪量刑案例"
+            ],
+            "开设赌场罪中赌博机数量刚达立案标准的量刑案例": "### 结论\n开设赌场罪中，赌博机数量刚达立案标准的量刑案例中，法院通常会考虑被告人的自首、坦白、认罪态度、退赃、社会危害性等因素进行量刑。对于赌博机数量的认定，法院会依据最高人民法院、最高人民检察院、公安部《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》的规定，按照能够独立供一人进行赌博活动的操作基本单元数量来认定。对于情节显著轻微、危害不大的赌场劳务、服务人员，法院可能不认定为犯罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：规定开设赌场罪的构成要件。\n- **最高人民法院、最高人民检察院、公安部《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》**：规定了开设赌场罪中赌博机数量的认定标准，以及情节严重的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪的重要标准，如【（2019）苏0611刑初150号】中，被告人何某设置赌博机共计14个独立机位供他人赌博使用，达到开设赌场罪的立案标准。\n- **自首与坦白**：被告人主动投案并如实供述自己的罪行，系自首，依法可以从轻处罚。例如，【（2019）鲁0684刑初258号】中，被告人李心朋被口头传唤后主动投案，如实供述自己的罪行，系自首，依法从轻处罚。\n- **认罪态度与退赃**：被告人认罪态度良好，主动退赃，可以酌情从轻处罚。如【（2019）津0104刑初89号】中，被告人李德欣自动投案，如实供述自己的罪行，对指控的犯罪事实没有异议，同意量刑建议并签字具结，系自首、认罪认罚，依法可以从轻处罚。\n- **社会危害性**：对于社会危害性较小的赌场劳务、服务人员，法院可能不认定为犯罪。如【（2011）镇经刑初字第0056号】中，冯某某、周某某、张某甲、张某乙、纪某等虽参与赌场经营活动，但不参与经营决策，仅获得劳务报酬，法院认为其行为情节显著轻微危害不大，依法不应认定为犯罪。\n\n综上，开设赌场罪的量刑受到赌博机数量、自首、坦白、认罪态度、退赃、社会危害性等因素的影响。法院在量刑时会综合考虑这些因素，对于赌博机数量刚达立案标准的案件，自首、坦白、认罪态度、退赃等积极因素可能会导致从轻处罚。\n\n#####\n类似案件为：\n【（2019）苏0611刑初150号】：法院认为，何某设置赌博机共计14个独立机位供他人赌博使用，构成开设赌场罪。何某到案后如实供述犯罪事实，承认指控并愿意接受处罚，依法予以从轻处罚。但其有劣迹，酌情从重处罚。鉴于开设赌场时间不长，量刑时予以考虑，未采纳缓刑建议。一、被告人何某犯开设赌场罪，判处有期徒刑七个月，并处罚金人民币一万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月24日起至2019年11月23日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n 二、扣押在案的赌资人民币200元予以没收，上缴国库（该款暂扣于江苏省南通市公安局港闸分局）。\n 三、“幸运之狮”押分机一台及无名捕鱼机一台，予以没收（上述物品暂扣于江苏省南通市公安局港闸分局）。\n【（2019）鲁0684刑初258号】：法院认为，被告人李心朋以营利为目的，设置赌博机组织赌博活动，赌博机数量达22台，其行为构成开设赌场罪。被告人被口头传唤后主动投案，如实供述自己的罪行，系自首，依法对被告人李心朋从轻处罚。被告人李心朋犯开设赌场罪，判处有期徒刑六个月，并处罚金二万元。\n （刑期自判决执行之日起计算。判决以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月7日起至2019年12月6日止。罚金已缴纳。）\n【（2019）津0104刑初89号】：法院认为，被告人李德欣利用赌博机开设赌场，设置赌博机数量达104台，其行为已构成开设赌场罪，且属情节严重。鉴于李德欣系自首、认罪认罚，依法可以从轻处罚。一、被告人李德欣犯开设赌场罪，判处有期徒刑四年，并处罚金人民币二万元。\n二、公安机关扣押的赌博机依法予以没收。",
+            "有坦白情节且违法所得较小的开设赌场罪量刑案例": "### 结论\n在开设赌场罪的量刑中，坦白情节和违法所得的大小是影响判决的关键因素。坦白可以从轻处罚，而违法所得较小则可能影响量刑的轻重。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白情节**：坦白可以从轻处罚。例如，【（2019）粤0804刑初25号】中，被告人黄日瑞到案后如实供述自己的罪行，依法可以从轻处罚。\n- **违法所得的大小**：违法所得较小可能影响量刑的轻重。虽然案例中没有直接提及违法所得的具体数额，但根据量刑建议和判决结果，可以推断违法所得较小的被告人可能获得较轻的量刑。\n\n综上，开设赌场罪的量刑受到坦白情节和违法所得大小的影响。被告人如果能够坦白认罪，且违法所得较小，法院在量刑时会予以考虑，给予较轻的处罚。例如，【（2019）粤0804刑初25号】中，被告人黄日瑞因坦白情节，法院采纳了“一年以下有期徒刑，并处罚金”的量刑建议。\n\n### 注意\n在提供的案例中，没有直接提及违法所得的具体数额及其对量刑的具体影响，因此，违法所得的大小对量刑的影响是基于一般法律原则和量刑建议的推断。在实际案件中，违法所得的具体数额及其对量刑的影响需要根据具体案情和法院判决来确定。\n\n#####\n类似案件为：\n【（2019）粤0804刑初25号】：法院认为，被告人黄日瑞的行为构成开设赌场罪，鉴于其坦白的情节，决定从轻处罚。依照《中华人民共和国刑法》相关规定，判决如下：\n一、被告人黄日瑞犯开设赌场罪，判处有期徒刑六个月，并处罚金一万元。\n二、公安机关扣押的作案工具手机一台，予以没收。一、被告人黄日瑞犯开设赌场罪，判处有期徒刑六个月，并处罚金一万元，罚金限本判决生效后十日内一次性向本院缴纳。\n\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2018年10月30日起至2019年4月29日止。）\n\n二、公安机关扣押的作案工具黑色iphone7手机一台，予以没收，由扣押机关依法处理。\n【（2019）粤0804刑初25号】：法院认为，被告人黄日瑞的行为构成开设赌场罪，鉴于其坦白的情节，决定从轻处罚。依照《中华人民共和国刑法》相关规定，判决如下：\n一、被告人黄日瑞犯开设赌场罪，判处有期徒刑六个月，并处罚金一万元。\n二、公安机关扣押的作案工具手机一台，予以没收。一、被告人黄日瑞犯开设赌场罪，判处有期徒刑六个月，并处罚金一万元，罚金限本判决生效后十日内一次性向本院缴纳。\n\n（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2018年10月30日起至2019年4月29日止。）\n\n二、公安机关扣押的作案工具黑色iphone7手机一台，予以没收，由扣押机关依法处理。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.如实供述罪行，具有坦白情节，依法可以从轻处罚 2.违法所得金额仅12000元，社会危害性较低 3.被告人虽曾有行政处罚劣迹，但系初犯，主观恶性较小 4.赌博机数量16台刚达立案标准，未达到情节严重标准 5.微信交易记录截图未明确显示与赌博活动的直接关联性 6.部分证人证言仅凭主观判断，缺乏客观证据支持 7.鉴定意见未详细说明赌博功能的具体认定标准",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人严某开设的电游室是否构成开设赌场罪。查明情况：公诉人已通过赌博机鉴定意见、证人证言等证据证实电游室内设置的16台机器均为赌博机，且被告人承认以营利为目的组织赌博活动。辩护人未对此提出实质性质疑。审判长认为该焦点已查明，构成开设赌场罪。\n\n2.被告人严某的违法所得金额认定。查明情况：起诉书指控获利12000元，被告人当庭确认该金额。辩护人询问了收入来源但未提出具体异议。审判长认为需结合微信交易记录等书证进一步核实。\n\n3.被告人严某是否具有坦白情节。查明情况：公诉人指出被告人在侦查和庭审中均如实供述，辩护人未提出异议。审判长认为符合坦白情节认定标准。\n\n4.行政处罚劣迹是否构成酌定从重情节。查明情况：被告人承认2015年因赌博被行政处罚，与本次犯罪间隔2年。审判长认为该前科情节轻微，从重幅度应有限。\n\n5.量刑建议是否适当。查明情况：公诉人建议适用缓刑，但需结合16台赌博机数量（已达入罪标准）、12000元违法所得等情节综合考量。审判长认为需进一步审查是否符合缓刑适用条件。\n\n6.电游室经营模式是否具有组织性。查明情况：被告人聘请2名员工负责管理，但未设置会员制度等组织化特征。审判长认为经营模式相对简单，社会危害性一般。\n\n7.被告人是否明知设备用于赌博活动。查明情况：被告人明确承认知道设备被鉴定为赌博机且用于赌博活动。审判长认为主观故意明显。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中16台赌博机的量刑标准",
+              "有赌博行政处罚前科对开设赌场罪量刑的影响"
+            ],
+            "开设赌场罪中16台赌博机的量刑标准": "### 结论\n开设赌场罪中涉及16台赌博机的量刑标准，法院会综合考虑犯罪情节、自首、坦白、前科、悔罪表现、违法所得追缴、社会危害性等因素，对于自首、坦白、主动上缴违法所得、认罪认罚的被告人，依法从轻或减轻处罚；对于有前科、社会危害性大的被告人，酌情从重处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与坦白**：自首的被告人依法可以从轻或减轻处罚，如【（2019）闽0603刑初70号】、【（2019）闽0583刑初1665号】、【（2019）闽0622刑初89号】、【（2020）闽0803刑初86号】中，被告人主动投案并如实供述犯罪事实，法院依法从轻处罚。\n- **前科**：有犯罪前科的被告人，酌情从重处罚，如【（2019）闽0322刑初533号】、【（2019）闽0622刑初89号】、【（2021）粤0114刑初1366号】中，被告人曾因犯罪被判刑或有开设赌场前科，法院酌情从重处罚。\n- **悔罪表现**：主动上缴违法所得、认罪认罚的被告人，酌情从轻处罚，如【（2019）闽0583刑初1665号】、【（2019）鲁1422刑初25号】、【（2020）闽0803刑初86号】中，被告人主动上缴违法所得，法院酌情从轻处罚。\n- **社会危害性**：在中小学附近设置赌博机或有其他严重社会危害性的行为，酌情从重处罚，如【（2019）苏0706刑初621号】中，被告人金海洋、范黎明在中小学附近设置赌博机，法院认定其行为情节严重，依法从重处罚。\n\n综上，开设赌场罪的量刑不仅考虑赌博机的数量，还综合考虑被告人的自首、坦白、前科、悔罪表现、社会危害性等因素，法院在量刑时会根据具体案情，依法从轻、从重或减轻处罚。\n\n#####\n类似案件为：\n【（2019）闽0603刑初70号】：法院认为，被告人郑新旺设置赌博机16台组织赌博，构成开设赌场罪。鉴于郑新旺自动投案，如实供述犯罪事实，构成自首，可以从轻处罚；向法院缴交相关款项，具有一定悔罪表现，酌情从轻处罚。根据郑新旺的犯罪情节和悔罪表现，依法可以宣告缓刑。一、被告人郑新旺犯开设赌场罪，判处有期徒刑九个月，缓刑一年，并处罚金人民币一万元（已缴交）。\n （缓刑考验期限从判决确定之日起计算）。\n 二、被告人郑新旺的违法所得人民六百二十元，予以追缴；扣押的赌博机（每台可独立供8人进行赌博）二台，予以没收。\n【（2019）闽0583刑初1665号】：法院认为，被告人叶恭贵以营利为目的，设置赌博游戏机计16台供不特定人员赌博，其行为构成开设赌场罪。鉴于叶恭贵有自首情节，已预交罚金，可以从轻处罚。但叶恭贵有犯罪前科，可酌情从重处罚。一、被告人叶恭贵犯开设赌场罪，判处有期徒刑一年，并处罚金人民币20000元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。)\n 二、已保全扣押的赌博游戏机八人型钓鱼机一台、二人型苹果机四台，予以没收，由扣押机关南安市公安局依法处理。\n【（2019）闽0622刑初89号】：法院认为，被告人王平华以营利为目的，利用固定场所设置多人机型赌博机，共16台独立操作单元，供不特定人员赌博，其行为构成开设赌场罪。王平华具有犯罪前科，酌情从重处罚。王平华主动投案并如实供述，是自首，依法可从轻处罚。鉴于其认罪认罚，积极缴纳罚金，具有悔罪表现，可从轻处罚。一、被告人王平华犯开设赌场罪，判处拘役六个月，并处罚金人民币一万元（罚金已缴；刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年3月1日至2019年7月31日止）；\n\n二、扣押在案的“大金鲨”和“捕鱼”两台大型赌博机，予以没收。",
+            "有赌博行政处罚前科对开设赌场罪量刑的影响": "### 结论\n有赌博行政处罚前科的被告人，在开设赌场罪的量刑中，通常会被视为具有较深的主观恶性，法院会酌情从重处罚，但认罪态度、自首、从犯地位、犯罪情节等其他因素也会影响最终的量刑结果。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博行政处罚前科**：有赌博行政处罚前科的被告人，在开设赌场罪的量刑中会被视为具有较深的主观恶性，法院会酌情从重处罚。例如，【（2021）鲁0685刑初182号】、【（2019）浙1003刑初328号】、【（2021）渝0101刑初249号】中，法院均认为被告人有赌博行政处罚前科，因此在量刑时予以从重处罚。\n- **认罪态度**：被告人认罪态度良好，如实供述犯罪事实，可以从轻处罚。例如，【（2019）粤0305刑初1661号】、【（2020）渝0151刑初148号】中，法院认为被告人归案后如实供述罪行，可以从轻处罚。\n- **自首**：被告人犯罪后主动投案并如实供述罪行，是自首，可以从轻或者减轻处罚。例如，【（2020）渝0151刑初148号】中，雷春梅犯罪后主动投案并如实供述罪行，法院决定对其从轻处罚。\n- **从犯地位**：在共同犯罪中，从犯地位的被告人可以从轻或减轻处罚。例如，【（2019）云23刑终110号】中，法院认为被告人王某某系从犯，可从轻或减轻处罚。\n- **犯罪情节**：犯罪情节的严重程度也会影响量刑。例如，【（2021）闽0125刑初25号】中，法院认为被告人有开设赌场犯罪前科，可以酌情从重处罚。\n\n综上，有赌博行政处罚前科的被告人，在开设赌场罪的量刑中，通常会被视为具有较深的主观恶性，法院会酌情从重处罚，但认罪态度、自首、从犯地位、犯罪情节等其他因素也会影响最终的量刑结果。在具体案件中，法院会综合考虑上述因素，以确定最合适的量刑。\n\n#####\n类似案件为：\n【（2021）鲁0685刑初182号】：法院认为，被告人李平、盛站稳、谢少将以牟利为目的，提供场所聚集多人进行赌博活动，并从中抽头渔利，其行为构成赌博罪。三被告人均自愿认罪认罚，依法可从宽处罚，均上缴非法所得，可酌予从轻处罚。被告人李平、盛站稳有赌博、开设赌场的行政处罚前科，可酌予从重处罚。一、被告人李平犯赌博罪，判处有期徒刑七个月，并处罚金人民币一万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日；罚金已缴纳。)\n二、被告人盛站稳犯赌博罪，判处有期徒刑七个月，并处罚金人民币一万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日；罚金已缴纳。)\n三、被告人谢少将犯赌博罪，判处有期徒刑六个月，并处罚金人民币一万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日；罚金已缴纳。)\n【（2019）浙1003刑初328号】：法院认为，被告人王胜禹明知他人开设赌场而提供帮助，妨害社会管理秩序，其行为已构成开设赌场罪。王胜禹有前科，曾因赌博被行政处罚，现又犯开设赌场罪，酌情从重处罚。在共同犯罪中起辅助作用，系从犯，且如实供述犯罪事实，认罪态度较好，依法予以从轻处罚。被告人王胜禹犯开设赌场罪，判处拘役二个月，并处罚金人民币二千元。\n （刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日。即刑期自2019年6月3日起至2019年7月4日止。罚金已缴纳）。\n【（2021）渝0101刑初249号】：法院认为，被告人许长锋伙同他人开设赌场，其行为已构成开设赌场罪。许长锋在赌场中作为庄家与赌客对赌，具有积极的实行行为，并参与赌场违法所得的分配，故其在共同犯罪中并非起次要或者辅助作用，不能认定为从犯。许长锋主动投案，如实供述犯罪事实，系自首，可以从轻处罚；自愿认罪认罚，可以从宽处罚。许长锋具有抢劫犯罪前科，在本案开设赌场的犯罪事实之外还因赌博被公安机关给予行政处罚，故其不符合适用缓刑的条件。被告人许长锋犯开设赌场罪，判处有期徒刑八个月，并处罚金人民币20000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年4月9日起至2021年12月8日止。罚金自本判决发生法律效力后的第二日起十日内向本院缴纳。）"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人供述、证人证言及物证完整证实严某以营利为目的开设电游室，设置16台赌博机，符合开设赌场罪的构成要件。2.鉴定意见明确涉案设备具有赌博功能，且违法所得达12000元，远超5000元的刑事追诉标准。3.被告人曾有赌博行政处罚劣迹，应从重处罚；但归案后如实供述，具有坦白情节，可从轻处罚。\n\n防御策略：1.物证扣押程序合法，鉴定机构具有资质，证据保全清单完整，可证明证据来源合法。2.证人证言相互印证，与被告人供述一致，形成完整证据链。3.微信交易记录截图经依法提取，证明违法所得金额确为12000元。4.行政处罚决定书证实被告人劣迹，可作为酌定从重处罚依据。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释第二条"
+            ],
+            "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释第二条": "以营利为目的，在计算机网络上建立赌博网站，或者为赌博网站担任代理，接受投注的，属于刑法第三百零三条规定的“开设赌场”。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量的认定标准",
+              "开设赌场罪中违法所得金额的认定标准"
+            ],
+            "开设赌场罪中赌博机数量的认定标准": "### 结论\n开设赌场罪中赌博机数量的认定标准是判断行为是否构成犯罪及情节严重程度的重要依据。赌博机数量的多少直接影响罪名的成立和量刑的轻重，通常10台以上即构成开设赌场罪，60台以上则可能被认定为情节严重。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪及情节严重的重要标准。例如，【（2020）苏0602刑初420号】中，被告人设置赌博机28个独立机位，违法所得达104700元，被认定为情节严重。【（2020）浙0483刑初398号】中，被告人设置赌博机13台，累计赌资47万余元，也被认定为情节严重。\n- **违法所得**：违法所得的多少也是判断情节是否严重的关键因素。【（2019）闽0322刑初533号】中，虽然未明确赌博机数量，但强调了被告人能如实供述主要犯罪事实，系坦白，可予从轻处罚。\n- **自首与认罪态度**：自首和认罪态度对量刑有重要影响。【（2018）内25刑终8号】中，上诉人梅某某在接到侦查机关电话传唤后自动投案，被认定为自首，获得从轻处罚。【（2019）津0104刑初89号】中，被告人李德欣犯罪后自动投案，如实供述自己的罪行，被认定为自首，依法可以从轻处罚。\n\n综上，开设赌场罪的认定和量刑不仅取决于赌博机数量，还涉及违法所得、自首与认罪态度等多方面因素。其中，赌博机数量和违法所得是判断情节是否严重的直接依据，而自首与认罪态度则可能影响量刑的轻重。\n\n#####\n类似案件为：\n【（2020）苏0602刑初420号】：法院认为，开设赌场罪是指为赌博提供场所、设定赌博方式、提供赌具等组织赌博的行为。根据相关司法解释，设置赌博机10台以上或违法所得累计达到5000元以上应定罪处罚；设置赌博机60台以上或违法所得累计达30000元以上，属情节严重。舒长军、肖书林伙同他人设置赌博机共计28个独立机位供他人赌博，违法所得超过104700元，情节严重，构成开设赌场罪。一、被告人舒长军犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除2017年9月12日至2017年9月17日行政拘留折抵的刑期，即自2020年6月22日起至2023年12月15日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n被告人肖书林犯开设赌场罪，判处有期徒刑一年六个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月22日起至2021年12月21日止。罚款五百元折抵罚金五百元，剩余罚金一万九千五百元限于判决发生法律效力的第二日起十日内缴纳）\n二、追缴被告人舒长军、肖书林与朱红平共同违法所得人民币104700元（其中人民币10000元已被原江苏省南通市公安局港闸分局收缴）。\n【（2020）浙0483刑初398号】：法院认为，被告人林培明以营利为目的，设置赌博机13台供他人赌博，累计赌资47万余元，情节严重，其行为构成开设赌场罪。对辩护人关于涉案赌资异议的辩护意见予以采纳，但关于以赌博机数量认定犯罪情节的辩护意见与事实及司法解释规定不符，不予采纳。被告人林培明庭审中认罪态度较好，酌情从轻处罚。一、被告人林培明犯开设赌场罪，判处有期徒刑三年四个月，并处罚金十万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年1月15日起至2023年5月14日止，罚金限于判决生效后十日内缴纳）。\n 二、扣押在案的用于犯罪的赌博机13台（其中捕鱼机8台、斗地主机2台、苹果机2台、金银鲨机1台）、监控主机1台予以没收（由扣押机关桐乡市公安局依法办理）。\n【（2019）闽0322刑初533号】：法院认为，被告人潘维坚、陈建业以营利为目的，利用具有赌博功能的电子游戏设备开设赌场，游戏设备认定为16台赌博机，其行为构成开设赌场罪。陈建业有前科，应酌情从重处罚；两被告如实供述主要犯罪事实，可从轻处罚。被告人潘维坚及其辩护人关于赌资不清的辩护意见有理。一、被告人陈建业犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 二、被告人潘维坚犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币三万元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一八年十月二十一日起至二0二0年六月二十日止）。\n 三、扣押在仙游县公安局的大型八人座捕鱼游戏机两台、五张厨留香代金券，予以没收，由扣押机关依法处理。",
+            "开设赌场罪中违法所得金额的认定标准": "### 结论\n开设赌场罪中违法所得金额的认定需综合考虑抽头渔利数额、赌资数额、参赌人数和社会影响等客观情况，不应仅以单一的“赌资数额”或“渔利数额”作为入罪标准。在认定违法所得时，应考虑赌场的运营时长、日均数额、是否构成“情节严重”等因素，确保罪责刑相适应。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：规定以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。开设赌场的，处五年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌场的运营时长和日均数额**：法院在认定违法所得时，会考虑赌场的运营时长和日均抽头渔利数额，以判断是否构成“情节严重”。例如，【（2019）闽0205刑初179号】中，法院根据赌场的运营时长和分红款计算出违法所得总额在100万元以上，认定为情节严重。\n- **抽头渔利数额**：抽头渔利数额是认定违法所得的重要依据。如【（2019）浙0111刑初738号】中，法院根据账单和聊天记录证实违法所得为95万余元。\n- **赌资数额**：赌资数额也是认定违法所得的重要因素。如【（2020）沪0117刑初434号】中，法院考虑了赌资数额累计的计算方法，坚持“主客观一致”的原则。\n- **参赌人数和社会影响**：参赌人数和社会影响是评估犯罪严重性的因素。如【（2020）沪01刑终1701号】中，法院综合考虑抽头渔利数额、赌资数额、参赌人数和社会影响等客观情况，审慎认定“情节严重”。\n\n综上，开设赌场罪中违法所得金额的认定是一个综合考量的过程，需要全面分析赌场的运营情况、抽头渔利数额、赌资数额、参赌人数以及社会影响，以确保判决的公正性和合理性。\n\n#####\n类似案件为：\n【（2019）浙0111刑初738号】：法院认为，被告人吴大淦、潘萍莲以营利为目的，伙同他人设置赌博机供不特定人员进行赌博，违法所得数额累计95万元以上，情节严重，其行为已构成开设赌场罪。两被告人在共同犯罪中的地位、作用不宜认定为从犯，潘萍莲虽自动投案，但未如实供述主要犯罪事实，不能认定为自首。一、被告人吴大淦犯开设赌场罪，判处有期徒刑三年九个月，并处罚金人民币70000元；\n （刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即刑期自2019年5月7日至2023年2月6日。罚金限于本判决生效之日起十日内缴纳）。\n 二、被告人潘萍莲犯开设赌场罪，判处有期徒刑三年三个月，并处罚金人民币50000元；\n （刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即刑期自2019年5月13日至2022年8月12日。罚金限于本判决生效之日起十日内缴纳）。\n 三、责令被告人吴大淦、潘萍莲与同案犯共同退缴违法所得人民币950000元。\n【（2020）沪0117刑初434号】：法院认为，被告人李**鹏参与赌博网站利润分成，违法所得数额达到5万余元，情节严重，其行为构成开设赌场罪。李**鹏单独推广赌博网站，违法所得归个人所有，不认定为从犯。鉴于李**鹏如实供述罪行，当庭自愿认罪，依法从轻处罚。但其行为不符合适用缓刑条件。一、被告人李**鹏犯开设赌场罪，判处有期徒刑三年六个月，并处罚金人民币八千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年12月27日起至2023年6月26日止。罚金于本判决生效后十日内向本院缴纳。)\n二、扣押在案的手机，予以没收。\n三、被告人李**鹏未退出的违法所得，继续予以追缴。\n【（2020）沪01刑终1701号】：法院生效裁判认为：被告人唐某、王某以营利为目的，通过邀请人员加入网络聊天群组的方式招揽赌客，依托正规棋牌软件的输赢规则，设定赌博项目和积分兑换规则，并利用聊天群组进行控制管理，在一定时间内持续组织网络赌博活动，符合开设赌场经营性和管理性特征，属于刑法规定的开设赌场行为，其行为已构成开设赌场罪。考虑两名被告人在设置赌博项目时依托网络棋牌软件，每局赌资不大且由赌客自行结算，而且两名被告人到案后均能如实供述罪行，退缴违法所得等，本院综合两名被告人的主观恶性及其行为的社会危害性等裁量刑罚。故法院依法作出如上裁判。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的微信交易记录截图未明确显示与赌博活动的直接关联性，不能证明所有收入均来自赌博活动 2.证人证言中部分证人仅凭感觉判断电游室为赌博场所，缺乏客观证据支持 3.鉴定意见未详细说明赌博功能的具体认定标准，无法证明所有机器均用于赌博活动\n\n防御策略：1.被告人严某如实供述罪行，具有坦白情节，依法可以从轻处罚 2.违法所得金额较小(12000元)，社会危害性较低 3.赌博机数量刚达立案标准(16台)，情节较轻 4.被告人系初犯，此前仅有行政处罚劣迹",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释第二条"
+            ],
+            "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释第二条": "以营利为目的，在计算机网络上建立赌博网站，或者为赌博网站担任代理，接受投注的，属于刑法第三百零三条规定的“开设赌场”。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中赌博机数量刚达立案标准的量刑案例",
+              "开设赌场罪中坦白情节对量刑的影响案例"
+            ],
+            "开设赌场罪中赌博机数量刚达立案标准的量刑案例": "### 结论\n开设赌场罪中，赌博机数量刚达立案标准的量刑案例中，法院通常会考虑被告人的自首、坦白、认罪态度、退赃、社会危害性等因素进行量刑。对于赌博机数量的认定，法院会依据最高人民法院、最高人民检察院、公安部《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》的规定，按照能够独立供一人进行赌博活动的操作基本单元数量来认定。对于情节显著轻微、危害不大的赌场劳务、服务人员，法院可能不认定为犯罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：规定开设赌场罪的构成要件。\n- **最高人民法院、最高人民检察院、公安部《关于办理利用赌博机开设赌场案件适用法律若干问题的意见》**：规定了开设赌场罪中赌博机数量的认定标准，以及情节严重的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量**：赌博机数量是认定开设赌场罪的重要标准，如【（2019）苏0611刑初150号】中，被告人何某设置赌博机共计14个独立机位供他人赌博使用，达到开设赌场罪的立案标准。\n- **自首与坦白**：被告人主动投案并如实供述自己的罪行，系自首，依法可以从轻处罚。例如，【（2019）鲁0684刑初258号】中，被告人李心朋被口头传唤后主动投案，如实供述自己的罪行，系自首，依法从轻处罚。\n- **认罪态度与退赃**：被告人认罪态度良好，主动退赃，可以酌情从轻处罚。如【（2019）津0104刑初89号】中，被告人李德欣自动投案，如实供述自己的罪行，对指控的犯罪事实没有异议，同意量刑建议并签字具结，系自首、认罪认罚，依法可以从轻处罚。\n- **社会危害性**：对于社会危害性较小的赌场劳务、服务人员，法院可能不认定为犯罪。如【（2011）镇经刑初字第0056号】中，冯某某、周某某、张某甲、张某乙、纪某等虽参与赌场经营活动，但不参与经营决策，仅获得劳务报酬，法院认为其行为情节显著轻微危害不大，依法不应认定为犯罪。\n\n综上，开设赌场罪的量刑受到赌博机数量、自首、坦白、认罪态度、退赃、社会危害性等因素的影响。法院在量刑时会综合考虑这些因素，对于赌博机数量刚达立案标准的案件，自首、坦白、认罪态度、退赃等积极因素可能会导致从轻处罚。\n\n#####\n类似案件为：\n【（2019）苏0611刑初150号】：法院认为，何某设置赌博机共计14个独立机位供他人赌博使用，构成开设赌场罪。何某到案后如实供述犯罪事实，承认指控并愿意接受处罚，依法予以从轻处罚。但其有劣迹，酌情从重处罚。鉴于开设赌场时间不长，量刑时予以考虑，未采纳缓刑建议。一、被告人何某犯开设赌场罪，判处有期徒刑七个月，并处罚金人民币一万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月24日起至2019年11月23日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n 二、扣押在案的赌资人民币200元予以没收，上缴国库（该款暂扣于江苏省南通市公安局港闸分局）。\n 三、“幸运之狮”押分机一台及无名捕鱼机一台，予以没收（上述物品暂扣于江苏省南通市公安局港闸分局）。\n【（2019）鲁0684刑初258号】：法院认为，被告人李心朋以营利为目的，设置赌博机组织赌博活动，赌博机数量达22台，其行为构成开设赌场罪。被告人被口头传唤后主动投案，如实供述自己的罪行，系自首，依法对被告人李心朋从轻处罚。被告人李心朋犯开设赌场罪，判处有期徒刑六个月，并处罚金二万元。\n （刑期自判决执行之日起计算。判决以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月7日起至2019年12月6日止。罚金已缴纳。）\n【（2019）津0104刑初89号】：法院认为，被告人李德欣利用赌博机开设赌场，设置赌博机数量达104台，其行为已构成开设赌场罪，且属情节严重。鉴于李德欣系自首、认罪认罚，依法可以从轻处罚。一、被告人李德欣犯开设赌场罪，判处有期徒刑四年，并处罚金人民币二万元。\n二、公安机关扣押的赌博机依法予以没收。",
+            "开设赌场罪中坦白情节对量刑的影响案例": "### 结论\n在开设赌场罪中，坦白情节对量刑有显著影响，法院通常会考虑被告人的坦白态度，以及是否自愿认罪认罚，从而在量刑时给予从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白情节**：法院通常会考虑被告人的坦白态度，以及是否自愿认罪认罚，从而在量刑时给予从轻或减轻处罚。例如，【（2020）沪0112刑初689号】中，法院采纳了辩护人以被告人系初犯、具有坦白情节且自愿认罪认罚为由，请求对被告人葛祥林从宽处罚的辩护意见。【（2020）苏0281刑初1822号】中，被告人翁敏君能如实供述，愿意接受处罚，法院予以从轻处罚。\n- **共同犯罪中的作用**：在共同犯罪中，被告人的作用大小也会影响量刑。例如，【（2020）苏0281刑初1822号】中，被告人翁敏君在共同犯罪中起次要作用，是从犯，法院因此予以从轻处罚。\n\n综上，坦白情节和在共同犯罪中的作用是影响开设赌场罪量刑的关键因素。法院在量刑时会综合考虑这些因素，对被告人给予适当的从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2020）沪0112刑初689号】：法院认为，被告人葛林祥犯开设赌场罪，具有坦白情节且自愿认罪认罚，建议量刑适当。一、被告人葛林祥犯开设赌场罪，判处有期徒刑六个月，并处罚金人民币二千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年12月26日起至2020年6月25日止。罚金自本判决生效之日起三十日内如数缴纳。)\n二、扣押在案的作案工具予以没收；违法所得予以追缴。\n【（2020）苏0281刑初1822号】：法院认为，翁敏君构成开设赌场罪，系共同犯罪中的从犯，具有坦白、认罪认罚情节，建议量刑适当，考虑其悔罪表现和再犯风险，适用缓刑。一、被告人翁敏君犯开设赌场罪，判处拘役五个月，缓刑七个月（缓刑考验期限，从判决确定之日起计算），并处罚金人民币四千元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n二、扣押在公安机关的被告人翁敏君的违法所得人民币3681.29元，由公安机关予以没收，上缴国库。扣押的手机1部，由公安机关依法处理。\n【（2020）苏0281刑初1822号】：法院认为，翁敏君构成开设赌场罪，系共同犯罪中的从犯，具有坦白、认罪认罚情节，建议量刑适当，考虑其悔罪表现和再犯风险，适用缓刑。一、被告人翁敏君犯开设赌场罪，判处拘役五个月，缓刑七个月（缓刑考验期限，从判决确定之日起计算），并处罚金人民币四千元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n二、扣押在公安机关的被告人翁敏君的违法所得人民币3681.29元，由公安机关予以没收，上缴国库。扣押的手机1部，由公安机关依法处理。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.如实供述罪行，具有坦白情节，依法可以从轻处罚 2.违法所得金额仅12000元，社会危害性较低 3.被告人虽曾有行政处罚劣迹，但系初犯，主观恶性较小 4.赌博机数量16台刚达立案标准，未达到情节严重标准 5.微信交易记录截图未明确显示与赌博活动的直接关联性 6.部分证人证言仅凭主观判断，缺乏客观证据支持 7.鉴定意见未详细说明赌博功能的具体认定标准",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人严某开设的电游室是否构成开设赌场罪。查明情况：公诉人通过赌博机鉴定意见、证人证言等证据证实电游室内设置的16台机器均为赌博机，且被告人承认以营利为目的组织赌博活动。辩护人未对此提出实质性质疑。审判长认为该焦点已查明，构成开设赌场罪。\n\n2.被告人严某的违法所得金额认定。查明情况：起诉书指控获利12000元，被告人当庭确认该金额。辩护人询问了收入来源但未提出具体异议。审判长认为需结合微信交易记录等书证进一步核实。\n\n3.被告人严某是否具有坦白情节。查明情况：公诉人指出被告人在侦查和庭审中均如实供述，辩护人未提出异议。审判长认为符合坦白情节认定标准。\n\n4.行政处罚劣迹是否构成酌定从重情节。查明情况：被告人承认2015年因赌博被行政处罚，与本次犯罪间隔2年。审判长认为该前科情节轻微，从重幅度应有限。\n\n5.量刑建议是否适当。查明情况：公诉人建议适用缓刑，但需结合16台赌博机数量（已达入罪标准）、12000元违法所得等情节综合考量。审判长认为需进一步审查是否符合缓刑适用条件。\n\n6.电游室经营模式是否具有组织性。查明情况：被告人聘请2名员工负责管理，但未设置会员制度等组织化特征。审判长认为经营模式相对简单，社会危害性一般。\n\n7.被告人是否明知设备用于赌博活动。查明情况：被告人明确承认知道设备被鉴定为赌博机且用于赌博活动。审判长认为主观故意明显。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪中16台赌博机的量刑标准",
+              "赌博行政处罚劣迹对开设赌场罪量刑的影响"
+            ],
+            "开设赌场罪中16台赌博机的量刑标准": "### 结论\n开设赌场罪中涉及16台赌博机的量刑标准，法院会综合考虑犯罪情节、自首、坦白、前科、悔罪表现、违法所得追缴、社会危害性等因素，对于自首、坦白、主动上缴违法所得、认罪认罚的被告人，依法从轻或减轻处罚；对于有前科、社会危害性大的被告人，酌情从重处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与坦白**：自首的被告人依法可以从轻或减轻处罚，如【（2019）闽0603刑初70号】、【（2019）闽0583刑初1665号】、【（2019）闽0622刑初89号】、【（2020）闽0803刑初86号】中，被告人主动投案并如实供述犯罪事实，法院依法从轻处罚。\n- **前科**：有犯罪前科的被告人，酌情从重处罚，如【（2019）闽0322刑初533号】、【（2019）闽0622刑初89号】、【（2021）粤0114刑初1366号】中，被告人曾因犯罪被判刑或有开设赌场前科，法院酌情从重处罚。\n- **悔罪表现**：主动上缴违法所得、认罪认罚的被告人，酌情从轻处罚，如【（2019）闽0583刑初1665号】、【（2019）鲁1422刑初25号】、【（2020）闽0803刑初86号】中，被告人主动上缴违法所得，法院酌情从轻处罚。\n- **社会危害性**：在中小学附近设置赌博机或有其他严重社会危害性的行为，酌情从重处罚，如【（2019）苏0706刑初621号】中，被告人金海洋、范黎明在中小学附近设置赌博机，法院认定其行为情节严重，依法从重处罚。\n\n综上，开设赌场罪的量刑不仅考虑赌博机的数量，还综合考虑被告人的自首、坦白、前科、悔罪表现、社会危害性等因素，法院在量刑时会根据具体案情，依法从轻、从重或减轻处罚。\n\n#####\n类似案件为：\n【（2019）闽0603刑初70号】：法院认为，被告人郑新旺设置赌博机16台组织赌博，构成开设赌场罪。鉴于郑新旺自动投案，如实供述犯罪事实，构成自首，可以从轻处罚；向法院缴交相关款项，具有一定悔罪表现，酌情从轻处罚。根据郑新旺的犯罪情节和悔罪表现，依法可以宣告缓刑。一、被告人郑新旺犯开设赌场罪，判处有期徒刑九个月，缓刑一年，并处罚金人民币一万元（已缴交）。\n （缓刑考验期限从判决确定之日起计算）。\n 二、被告人郑新旺的违法所得人民六百二十元，予以追缴；扣押的赌博机（每台可独立供8人进行赌博）二台，予以没收。\n【（2019）闽0583刑初1665号】：法院认为，被告人叶恭贵以营利为目的，设置赌博游戏机计16台供不特定人员赌博，其行为构成开设赌场罪。鉴于叶恭贵有自首情节，已预交罚金，可以从轻处罚。但叶恭贵有犯罪前科，可酌情从重处罚。一、被告人叶恭贵犯开设赌场罪，判处有期徒刑一年，并处罚金人民币20000元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。)\n 二、已保全扣押的赌博游戏机八人型钓鱼机一台、二人型苹果机四台，予以没收，由扣押机关南安市公安局依法处理。\n【（2019）闽0622刑初89号】：法院认为，被告人王平华以营利为目的，利用固定场所设置多人机型赌博机，共16台独立操作单元，供不特定人员赌博，其行为构成开设赌场罪。王平华具有犯罪前科，酌情从重处罚。王平华主动投案并如实供述，是自首，依法可从轻处罚。鉴于其认罪认罚，积极缴纳罚金，具有悔罪表现，可从轻处罚。一、被告人王平华犯开设赌场罪，判处拘役六个月，并处罚金人民币一万元（罚金已缴；刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年3月1日至2019年7月31日止）；\n\n二、扣押在案的“大金鲨”和“捕鱼”两台大型赌博机，予以没收。",
+            "赌博行政处罚劣迹对开设赌场罪量刑的影响": "### 结论\n赌博行政处罚劣迹在开设赌场罪的量刑中通常作为从重处罚的情节，法院会根据被告人的劣迹情况、犯罪情节、认罪态度、是否退赃等因素综合考量，劣迹的存在会使得量刑时倾向于更严厉的处罚，但也会考虑被告人的自首、坦白、认罪认罚等从轻情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博行政处罚劣迹**：法院通常会将赌博行政处罚劣迹作为从重处罚的情节，认为被告人有劣迹表明其对法律的漠视和对社会秩序的破坏，应当予以更严厉的处罚。例如，【（2020）闽0582刑初1752号】、【（2020）浙1003刑初112号】、【（2019）苏0611刑初150号】中，法院均因被告人有赌博劣迹而从重处罚。\n- **自首、坦白、认罪认罚**：尽管有劣迹，但被告人如果能够自首、坦白、认罪认罚，法院会依法从轻处罚。例如，【（2020）浙0303刑初144号】中，被告人汪小江有自首情节，法院从轻处罚并适用缓刑。\n- **犯罪情节和认罪悔罪态度**：法院会根据犯罪的具体情节和被告人的认罪悔罪态度来决定量刑。例如，【（2020）浙1003刑初79号】中，被告人项治连有自首情节，认罪认罚，法院依法从轻处罚。\n\n综上，赌博行政处罚劣迹在开设赌场罪的量刑中是一个重要的考量因素，但法院也会综合考虑被告人的自首、坦白、认罪认罚等情节，以及犯罪的具体情节和认罪悔罪态度，以实现公正量刑。\n\n#####\n类似案件为：\n【（2020）闽0582刑初1752号】：法院认为，陈玉椿利用地下“六合彩”特码组织竞猜对赌活动，扰乱社会管理秩序，其行为已构成开设赌场罪，其归案后如实供述自己的罪行，愿意接受处罚，依法予以从轻处罚；有赌博行政处罚劣迹，酌情予以从重处罚。一、被告人陈玉椿犯开设赌场罪，判处有期徒刑六个月，并处罚金人民币一万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年11月17日起至2021年4月15日止。罚金应在判决生效之日起十日内向本院缴纳。）\n 二、扣押的作案工具手机及电脑主机各1部（均未随案移送），均予以没收，上缴国库。\n 三、继续追缴被告人陈玉椿的违法所得人民币5000元，予以没收，上缴国库。\n【（2020）浙1003刑初112号】：法院认为，被告人叶文敏以营利为目的，开设赌场，组织、招揽他人进行赌博活动，并从中非法获利，妨害社会管理秩序；被告人俞春花、鲍灵丹明知他人开设赌场仍为其提供帮助，并从中获利，其行为均已构成开设赌场罪。叶文敏曾因犯赌博罪、开设赌场罪被判处刑罚，现又犯开设赌场罪，酌情予以从重处罚。叶文敏在前罪刑罚执行完毕以前，又犯开设赌场罪，应当对新犯的罪作出判决，对前罪没有执行的刑罚和后罪所判处的刑罚实行数罪并罚。俞春花有因赌博、殴打他人被行政处罚的劣迹，现又犯开设赌场罪，酌情予以从重处罚。叶文敏归案后如实供述犯罪事实，自愿认罪认罚，在庭审中认罪态度较好，依法并酌情予以从轻处罚。俞春花、鲍灵丹在共同犯罪中起次要作用，系从犯，且自愿认罪认罚，认罪、悔罪态度较好，并退缴了违法所得，依法并酌情予以从轻处罚。一、被告人叶文敏犯开设赌场罪，判处有期徒刑一年五个月，并处罚金人民币六万元；与前罪尚未执行完毕的有期徒刑十个月零三日，并处罚金人民币三十万元并罚，决定执行有期徒刑二年，并处罚金人民币三十六万元。\n （刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日。罚金限在判决生效后的一个月内缴清）。\n 二、被告人俞春花犯开设赌场罪，判处有期徒刑九个月，缓刑一年三个月，并处罚金人民币六千元。\n （缓刑考验期限，从判决确定之日起计算；罚金已缴纳）。\n 三、被告人鲍灵丹犯开设赌场罪，判处拘役六个月，缓刑九个月，并处罚金人民币三千元。\n （缓刑考验期限，从判决确定之日起计算；罚金已缴纳）。\n 四、被告人叶文敏的违法所得人民币二万元，予以追缴，上缴国库。\n 五、被告人俞春花、鲍灵丹分别退缴的违法所得人民币一千元、五百元，予以没收，上缴国库。\n【（2019）苏0611刑初150号】：法院认为，何某设置赌博机共计14个独立机位供他人赌博使用，构成开设赌场罪。何某到案后如实供述犯罪事实，承认指控并愿意接受处罚，依法予以从轻处罚。但其有劣迹，酌情从重处罚。鉴于开设赌场时间不长，量刑时予以考虑，未采纳缓刑建议。一、被告人何某犯开设赌场罪，判处有期徒刑七个月，并处罚金人民币一万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月24日起至2019年11月23日止。罚金限于判决发生法律效力的第二日起十日内缴纳）\n 二、扣押在案的赌资人民币200元予以没收，上缴国库（该款暂扣于江苏省南通市公安局港闸分局）。\n 三、“幸运之狮”押分机一台及无名捕鱼机一台，予以没收（上述物品暂扣于江苏省南通市公安局港闸分局）。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人严某开设的电游室是否构成开设赌场罪。查明情况：公诉人通过赌博机鉴定意见、证人证言等证据证实电游室内设置的16台机器均为赌博机，且被告人承认以营利为目的组织赌博活动。辩护人未对此提出实质性质疑。审判长认为该焦点已查明，构成开设赌场罪。\n\n2.被告人严某的违法所得金额认定。查明情况：起诉书指控获利12000元，被告人当庭确认该金额。辩护人询问了收入来源但未提出具体异议。审判长认为需结合微信交易记录等书证进一步核实。\n\n3.被告人严某是否具有坦白情节。查明情况：公诉人指出被告人在侦查和庭审中均如实供述，辩护人未提出异议。审判长认为符合坦白情节认定标准。\n\n4.行政处罚劣迹是否构成酌定从重情节。查明情况：被告人承认2015年因赌博被行政处罚，与本次犯罪间隔2年。审判长认为该前科情节轻微，从重幅度应有限。\n\n5.量刑建议是否适当。查明情况：公诉人建议适用缓刑，但需结合16台赌博机数量（已达入罪标准）、12000元违法所得等情节综合考量。审判长认为需进一步审查是否符合缓刑适用条件。\n\n6.电游室经营模式是否具有组织性。查明情况：被告人聘请2名员工负责管理，但未设置会员制度等组织化特征。审判长认为经营模式相对简单，社会危害性一般。\n\n7.被告人是否明知设备用于赌博活动。查明情况：被告人明确承认知道设备被鉴定为赌博机且用于赌博活动。审判长认为主观故意明显。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第二款",
+              "中华人民共和国刑法第六十七条第三款"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "开设赌场罪16台赌博机违法所得12000元量刑案例",
+              "开设赌场罪有坦白情节和轻微前科如何量刑",
+              "开设赌场罪适用缓刑的条件和标准"
+            ],
+            "开设赌场罪16台赌博机违法所得12000元量刑案例": "### 结论\n开设赌场罪的量刑受赌博机数量、违法所得金额、自首、坦白、认罪态度、退赃、缓刑适用条件等因素影响。对于16台赌博机违法所得12000元的案例，法院可能考虑从轻或减轻处罚，尤其是如果被告人有自首、坦白、退赃等情节，且符合缓刑条件。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **赌博机数量和违法所得**：法院认为，设置赌博机数量和违法所得是判断开设赌场罪情节轻重的重要因素。例如，【（2020）闽0803刑初86号】中，被告人设置16台赌博机，违法所得未提及，但法院认为构成开设赌场罪，且因自首、认罪认罚、退赃等情节从轻处罚。\n- **自首和坦白**：【（2020）沪0113刑初773号】中，被告人未如实供述主要犯罪事实，不具有坦白情节，法院未予从轻处罚。相反，【（2020）闽0112刑初323号】中，被告人自首并如实供述，依法从轻处罚。\n- **认罪态度和退赃**：【（2021）闽0104刑初761号】中，被告人认罪认罚，如实供述，且退赃，法院酌情从轻处罚。\n- **缓刑适用条件**：【（2019）闽0402刑初63号】中，被告人犯罪情节较轻，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响，因此对其宣告缓刑。\n\n综上，开设赌场罪的量刑受多种因素影响，其中赌博机数量、违法所得、自首、坦白、认罪态度、退赃、缓刑适用条件等是关键因素。法院在量刑时会综合考虑这些因素，对于有自首、坦白、退赃等情节的被告人，可能从轻或减轻处罚，且在符合缓刑条件时，可能宣告缓刑。\n\n#####\n类似案件为：\n【（2020）闽0803刑初86号】：法院认为，刘仁德以营利为目的，在固定场所设置多人型赌博机16台供他人赌博，其行为构成开设赌场罪，鉴于刘仁德的自首、认罪认罚、违法所得上缴等情节，决定从轻处罚。一、被告人刘仁德犯开设赌场罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币四千元（已缴纳），上缴国库。\n （缓刑考验期限，从判决确定之日起计算）。\n 二、扣押的赌资3450元、赌博机2台、移动电话1部及被告人刘仁德上缴的违法所得3500元，予以没收，其中赌资及违法所得由龙岩市公安局永定分局上缴国库，赌博机及移动电话由龙岩市公安局永定分局依法处理。\n【（2020）沪0113刑初773号】：法院认为，陈某某利用赌博机开设赌场，设置16台赌博机，违法所得数额巨大，情节严重，其行为构成开设赌场罪。相关证据证实陈某某为赌博场所的实际经营者，且未如实供述主要犯罪事实，不构成坦白。一、被告人陈某某犯开设赌场罪，判处有期徒刑五年，并处罚金人民币十万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年3月23日起至2025年3月22日止。罚金自本判决生效之日起十日内付清。)\n二、扣押在案的犯罪工具依法没收。\n三、追缴被告人陈某某的违法所得，依法没收。\n【（2020）闽0112刑初323号】：法院认为，被告人王瑞文伙同他人利用赌博机组织赌博，违法所得累计12620元，构成开设赌场罪。鉴于王瑞文自首、主动退赃、缴纳罚金，可从轻处罚并适用缓刑。一、被告人王瑞文犯开设赌场罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币一万元。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、被告人王瑞文主动退出的犯罪所得人民币6310元，予以没收，上缴国库。",
+            "开设赌场罪有坦白情节和轻微前科如何量刑": "### 结论\n开设赌场罪的量刑在有坦白情节和轻微前科的情况下，法院会综合考虑犯罪事实、性质、情节、坦白的时间、程度和价值，以及前科的性质和影响，通常会从轻处罚，但具体从宽幅度需根据案件具体情况确定。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白情节**：坦白有助于收集定案证据，坦白司法机关尚未掌握的同种罪行，或者交代同案犯共同犯罪事实的，一般应当从轻处罚。例如，【（2019）沪0117刑初1453号】中，法院认为被告人杨某某的坦白有助于收集定案证据，因此从轻处罚。\n- **轻微前科**：轻微前科可能会影响量刑，但其影响程度需根据前科的性质和对当前犯罪的影响来判断。例如，【（2020）沪0113刑初448号】中，虽然被告人杨某某有轻微前科，但法院综合考虑其犯罪事实和情节，未对其宣告缓刑。\n- **犯罪情节**：犯罪情节的严重程度是决定量刑的重要因素。例如，【（2020）沪0116刑初754号】中，法院认为被告人孙某的犯罪情节，结合其坦白情节，量刑建议适当，应予采纳。\n\n综上，开设赌场罪的量刑在有坦白情节和轻微前科的情况下，法院会综合考虑犯罪事实、性质、情节、坦白的时间、程度和价值，以及前科的性质和影响，通常会从轻处罚，但具体从宽幅度需根据案件具体情况确定。坦白情节和轻微前科在量刑中起到积极作用，但犯罪情节的严重性是决定量刑幅度的关键因素。\n\n#####\n类似案件为：\n【（2019）沪0117刑初1453号】：法院认为，被告人杨某某的行为构成开设赌场罪，鉴于其具有坦白情节，依法可以从轻处罚。公诉机关的量刑建议适当，应予采纳。一、被告人杨某某犯开设赌场罪，判处有期徒刑六个月，并处罚金人民币一千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月25日起至2020年1月24日止。罚金于本判决生效后十日内向本院缴纳。)\n二、扣押在案的手机一部，予以没收。\n三、被告人杨某某未退出的违法所得，继续予以追缴。\n【（2020）沪0113刑初448号】：法院认为，被告人杨某某开设赌场，其行为构成开设赌场罪，鉴于其具有坦白及认罪认罚的从轻处罚情节，量刑建议适当，应予采纳。但综合考虑其犯罪事实和情节，不宜宣告缓刑。一、被告人杨某某犯开设赌场罪，判处有期徒刑一年，并处罚金人民币二万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2020年3月25日起至2021年3月24日止。罚金于本判决生效后十日内缴纳。)\n二、追缴被告人杨某某的违法所得依法没收；扣押在案的作案工具依法没收。\n【（2020）沪0116刑初754号】：法院认为，被告人孙某的行为构成开设赌场罪，具有坦白情节，建议判处被告人孙某有期徒刑六个月，并处罚金人民币六千元，可以适用缓刑。一、被告人孙某犯开设赌场罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币六千元。\n孙某回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。\n(缓刑考验期限自判决确定之日起计算；罚金于判决生效之日起一个月内缴纳。)\n二、扣押的作案工具予以没收；被告人孙某退缴的违法所得予以没收。如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向上海市第一中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。",
+            "开设赌场罪适用缓刑的条件和标准": "### 结论\n开设赌场罪适用缓刑的条件和标准主要包括：犯罪情节较轻、有悔罪表现、没有再犯罪的危险、宣告缓刑对所居住社区没有重大不良影响。法院在决定是否适用缓刑时，会综合考虑被告人的犯罪性质、情节、社会危害程度、是否为从犯、是否自首、是否认罪认罚、是否有犯罪前科、是否退交违法所得等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪情节**：犯罪情节较轻是适用缓刑的重要条件。例如，【（2020）粤0515刑初254号】中，被告人张细伍犯罪情节较轻，有悔罪表现，所在村委会反映对被告人宣告缓刑对社区没有重大不良影响，因此适用了缓刑。\n- **悔罪表现**：被告人有悔罪表现是适用缓刑的必要条件。如【（2022）沪0109刑初668号】中，被告人张某系初犯，且自愿认罪认罚，并缴纳罚金和退出部分违法所得，有悔罪表现，因此适用了缓刑。\n- **社会危害性**：社会危害性大或人身危险性大的被告人，通常不适用缓刑。如【（2021）苏0382刑初801号】中，被告人厉毓刚再次犯开设赌场罪，社会危害性和人身危险性大，不符合缓刑的适用条件。\n- **是否为从犯**：从犯在共同犯罪中起次要作用，适用缓刑的可能性较大。如【（2020）苏0582刑初654号】中，被告人孙某、郭某均系主犯，但鉴于其如实供述、自愿认罪认罚、退出违法所得等情节，均适用了缓刑。\n- **是否自首**：自首是适用缓刑的有利条件。如【（2021）粤0402刑初5号】中，被告人李可、于海悦有自首情节，依法可以从轻处罚，但李可因犯罪数额大、社会危害较大，且有犯罪前科，不适用缓刑。\n\n综上，开设赌场罪适用缓刑需综合考虑被告人的犯罪情节、悔罪表现、社会危害性、是否为从犯、是否自首等因素，法院在判决时会根据具体案情审慎决定是否适用缓刑。\n\n#####\n类似案件为：\n【（2020）粤0515刑初254号】：法院认为，被告人张细伍为非法牟利，为他人开设赌场提供场地，构成开设赌场罪，属从犯，且有自首情节，犯罪情节较轻，悔罪表现明显，所在社区反映宣告缓刑对社区无重大不良影响，符合适用缓刑条件。被告人张细伍犯开设赌场罪，判处拘役四个月，缓刑六个月，并处罚金人民币一千元。\n（缓刑考验期限，从判决确定之日起计算。罚金于本判决生效之日起十日内缴纳。）\n【（2022）沪0109刑初668号】：法院认为，被告人张某的行为已构成开设赌场罪，鉴于其如实供述犯罪事实，系初犯，且自愿认罪认罚，有悔罪表现，决定对其从轻处罚并适用缓刑。一、被告人张某犯开设赌场罪，判处拘役四个月，缓刑四个月，并处罚金人民币四千元。\n（缓刑考验期限，从判决确定之日起计算。）\n二、退缴的违法所得、犯罪工具手机一部予以没收。\n【（2021）苏0382刑初801号】：法院认为，被告人厉毓刚为赌博网站担任代理并接受投注，其行为构成开设赌场罪。厉毓刚在共同犯罪中起次要作用，系从犯，应当从轻、减轻处罚；曾因犯罪被判处刑罚，仍不思悔改，酌定从重处罚；自愿认罪认罚，退交违法所得，可从宽处理。厉毓刚曾因赌博犯罪被判处刑罚，又再次犯开设赌场罪，社会危害性和人身危险性大，不符合缓刑的适用条件。一、被告人厉毓刚犯开设赌场罪，判处有期徒刑九个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。罚金于判决生效之日起十日内缴纳。）\n二、对被告人厉毓刚的涉案赌资予以追缴；违法所得予以没收。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 6.0,
+    "fine": 4000.0,
+    "reprieve": 12.0
+  }
+]

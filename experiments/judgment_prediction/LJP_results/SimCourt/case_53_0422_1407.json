@@ -1,0 +1,2184 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人张某甲，男，汉族，文化程度XXX，户籍XXX。因涉嫌犯诈骗罪于2016年12月20日被抓获，次日被刑事拘留。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "江西省宜春市人民检察院  \n起 诉 书  \n\n赣宜检刑诉〔2017〕45号  \n\n被告人张某甲，男，汉族，文化程度XXX，户籍XXX。因涉嫌犯诈骗罪于2016年12月20日被抓获，次日被刑事拘留。  \n\n本案由江西省宜春市公安局侦查终结，以被告人张某甲涉嫌诈骗罪，于2017年11月22日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2014年，熊某向被害人付某甲借款数千万元，与祁某合伙投资开发湖北省红某县金沙世纪城项目，约定借期两个月。2015年底，因该项目未完工，项目资金未清算，熊某未归还借款。期间被告人张某甲认识被害人付某甲后，谎称自己有纪委关系可帮助追债。2016年1月，付某甲委托张某甲追账。张某甲在无能力追债的情况下，通过宋某（另案处理）找到李某、江某等人，虚构宋某为检察院工作人员、中纪委已派员调查等事实骗取付某甲信任。2016年5月，在江某等人明确告知无法追账后，张某甲仍隐瞒真相，谎称祁某同意还债、项目资金已结算等，与宋某合谋发送虚假短信欺骗付某甲。2016年1月至5月，张某甲骗取付某甲102万余元。  \n\n2016年5月后，张某甲继续以疏通关系为由骗取付某甲585万余元。同年8月，张某甲虚构能通过中纪委关系为付某甲堂哥调动工作，骗取360万元。综上，张某甲共诈骗付某甲1047万余元，所得款项用于赌博、挥霍。  \n\n认定上述事实的证据如下：  \n1. 书证：付某甲转账明细、银行回单、短信照片、股权转让协议、委托书、伪造支票照片等；  \n2. 物证：扣押的银行卡、POS机消费回执等；  \n3. 证人证言：江某、李某、祁某、熊某等29名证人的证言；  \n4. 被害人陈述：付某甲关于被骗过程的陈述；  \n5. 同案人供述：宋某关于参与诈骗的供述；  \n6. 视听资料、电子数据：讯问张某甲的录音录像；  \n7. 其他书证：人口信息、退赃收条等。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人张某甲以非法占有为目的，虚构事实、隐瞒真相，骗取他人财物1047万余元，数额特别巨大，其行为触犯《中华人民共和国刑法》第二百六十六条，犯罪事实清楚，证据确实、充分，应当以诈骗罪追究其刑事责任。根据《中华人民共和国刑事诉讼法》第一百七十二条的规定，提起公诉，建议判处被告人张某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元，依法追缴犯罪所得发还被害人。  \n\n此致  \n江西省宜春市中级人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2017年11月22日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对基本事实没有异议，但部分金额的诈骗故意需要说明。我认罪认罚，愿意接受法律制裁。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人张某甲，你在2016年1月至8月期间，是否向被害人付某甲谎称自己具有纪委关系可以帮助追讨债务？具体是如何虚构这些关系的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的。我向付某甲谎称认识纪委工作人员，并虚构了\"肖某甲\"这个检察院工作人员的身份。1月份我让宋某冒充\"肖某甲\"与付某甲见面，还编造了中纪委已派人到红安县调查的谎言。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你明知宋某并非检察院工作人员，为何要向付某甲介绍其为\"肖某甲\"？这一行为是否是为了获取付某甲的信任？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我让宋某冒充\"肖某甲\"就是为了让付某甲相信我有纪委关系，从而获取他的信任。当时我知道这样做不对，但因为债务压力还是选择了欺骗。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "在2016年5月江某等人明确告知无法追账后，你为何仍继续向付某甲谎称祁某同意还债、项目资金已结算？当时是基于什么考虑？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我赌博欠债压力很大，害怕付某甲发现真相后会追讨之前给的钱，所以就继续编造谎言拖延时间。我知道这样做不对，但一时糊涂想不出其他办法。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你收取的1047万余元款项具体用于哪些用途？请详细说明资金流向。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些钱大部分用于赌博和偿还个人债务，还有部分用于日常挥霍。具体来说：\n1. 赌博输掉了约600万元\n2. 偿还个人债务约300万元\n3. 其他用于个人消费和维持生活开支\n\n我没有将这些钱用于实际追债或疏通关系，因为从一开始我就没有这个能力。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在2016年8月虚构能为付某甲堂哥调动工作时，是否明知自己并无此能力？当时收取360万元的动机是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我明知自己没有这个能力。当时收取360万元主要是为了继续填补赌博和债务的窟窿。我知道这样做是违法的，但当时已经深陷赌博和债务危机，丧失了理智。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否有主动退赔被害人损失的意愿和行为？为何至今未与被害人达成和解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有主动退赔被害人损失的能力。因为赌博和挥霍已经花光了所有钱，目前没有经济能力进行赔偿。我确实没有与被害人达成和解，主要是因为无法偿还被骗款项。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在侦查阶段的供述是否属实？是否存在被刑讯逼供等非法取证情形？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我的供述都是属实的，没有被刑讯逼供的情况。在侦查阶段我如实交代了全部犯罪事实。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与宋某在实施诈骗过程中是如何分工的？各自具体负责哪些环节？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "宋某主要负责冒充\"肖某甲\"与付某甲见面，并配合我编造中纪委调查的谎言。我负责与付某甲直接联系，编造各种虚假进展，骗取资金。5月后宋某退出，我独自继续实施诈骗。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人付某甲之间是否存在其他经济往来？这些往来是否与本案指控的诈骗行为有关？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我和付某甲之间没有其他经济往来，所有资金往来都是基于本案指控的诈骗行为产生的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人张某甲，关于你与付某甲之间的资金往来，除起诉书列明的1047万元外，是否还存在其他未被记录的资金往来？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有其他未被记录的资金往来，所有资金往来都已经在起诉书中列明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人张某甲，关于你用于赌博的600万元资金，是否能够提供具体的赌博场所、时间及相关证人？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "具体的赌博场所和时间我记不太清楚了，主要是在一些地下赌场和私人场所。没有固定的赌博地点，也没有相关的证人可以证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否有精神疾病史或服用过影响认知能力的药物？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有精神疾病史，也没有服用过影响认知能力的药物。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与宋某在2016年5月后是否还有联系？具体联系内容是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年5月后与宋某基本没有联系，仅偶尔通过电话，主要是询问他是否还有追债的可能，没有其他具体内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与被害人付某甲之间是否存在真实的债务关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有真实的债务关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否有向被害人出示过伪造的支票、授权书等文件？具体是如何伪造的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有出示过伪造的支票或授权书等文件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2014年年初，熊某向付某甲借款数千万元投资湖北省红安县金沙世纪城项目。2015年底，因项目未完工且熊某与祁某产生分歧，借款未归还。2015年底至2016年初，熊某多次邀付某甲到红安县追债未果。期间，我（张某甲）认识付某甲，并提及可通过纪委关系追债。  \n\n2016年1月，付某甲同意让我追债。我找到宋某帮忙，宋某联系李某、江某等人。1月21日，我约付某甲与宋某在峡江县见面，介绍宋某为“肖某甲”（吉安市检察院工作人员）。1月底，我谎称中纪委已派员到红安县调查，付某甲前往红安但未见到人。  \n\n2016年5月，江某等人明确告知追债无果，但我仍隐瞒真相，谎称祁某同意还债、项目资金已结算等。1月至5月，我骗取付某甲102万余元。5月后，宋某退出，我继续以疏通关系为由骗取付某甲585万余元。  \n\n2016年8月，付某甲请我帮忙找中纪委关系为其堂哥调动工作，我明知无能力仍答应，收取360万元未办成。总计骗取1047万余元，用于赌博、还债及挥霍。  \n\n（2）犯案动机  \n我因赌博和债务压力，虚构关系骗取付某甲钱财。起初认为可通过关系追债，后因无实际能力，继续隐瞒真相骗取资金。  \n\n（3）案发之后的处理  \n我于2016年12月20日被抓获，未自首。宋某退赃12万元，江某退赃3万元，李某退赃2.5万元，已发还付某甲。我未主动赔偿，未与付某甲达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：付某甲转账给张某甲的八笔汇款明细、银行电子回单八页，证实付某甲于2016年5月25日、6月8日、7月2日、7月26日、7月27日、8月1日、8月5日、8月18日分别转账30万、5万、100万、50万、50万、200万、360万、150万（共计945万）至张某甲指定账户",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该转账记录仅能证明资金往来事实，无法直接证明被告人具有非法占有的主观故意，与诈骗罪的构成要件缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "转账记录与被告人在侦查阶段的供述相互印证，证实被告人虚构纪委关系骗取被害人钱款的事实。被告人在明知无能力办理相关事项的情况下，仍持续收取大额款项，其非法占有的主观故意明显。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：付某甲持有的宋某发给付某甲的短信照片、股权转让协议和委托书照片、中国银行转账支票照片，证实（1）2016年4月4日宋某给付某甲发短信，内容是建议付某甲晚几天拿钱；（2）张某甲要求付某甲发给其的股权转让协议，内容是熊某转让湖北红某金沙世纪城项目的全部股权；（3）2016年8月18日，付某甲发给张某甲的授权委托书，委托张某甲全权处理红某项目结算事宜，并将结算款转入刘某是个人账号；（4）张某甲发给付某甲的中国银行转账支票照片（金额1000万）（伪造）。上述证据由付某甲提供，经公安机关依法提取并核实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组证据仅能证明双方存在经济往来和文件传递，无法直接证明被告人具有诈骗的主观故意。特别是短信内容仅显示建议延迟收款，与诈骗罪的构成要件无直接关联。股权转让协议和委托书仅反映正常的商业往来，不能证明被告人的非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组证据中伪造的1000万元转账支票照片直接证明被告人实施欺诈行为，结合被告人在侦查阶段的供述，证实其通过伪造金融票证的方式骗取被害人信任，具有明显的非法占有目的。股权转让协议和委托书系被告人实施诈骗的手段工具，与诈骗行为具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.物证：从张某甲钱包内扣押的银行卡照片，证实从张某甲钱包内扣押了毛某农商银行卡一张工商银行卡一张；张某甲工行卡一张、农业银行卡一张；张某乙工行卡一张等，可以证实张某甲实际控制这些银行卡。扣押程序符合《刑事诉讼法》相关规定，由侦查人员依法进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：扣押清单，包括宋某持有的熊某写给付某甲的委托书、张某甲冒充付某甲签名与江某的授权协议，证实熊某因为事务繁忙，委托付某甲处理金沙世纪城项目清算；张某甲冒充付某甲签名与江某的授权协议。上述文件由公安机关依法扣押，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组证据中关于熊某委托付某甲处理清算事宜的文件与本案指控的诈骗行为无直接关联。而张某甲冒充签名的授权协议虽能证明其存在不当行为，但无法单独证明其具有非法占有目的，需结合其他证据综合判断。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组证据中张某甲冒充付某甲签名的授权协议直接证明其实施欺诈行为，与被告人在侦查阶段的供述相互印证，证实其通过伪造文件的方式骗取被害人信任。该证据与诈骗行为具有直接关联性，能够证明被告人的非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：扣押清单，包括金某持有的张某甲转账给金某邮政银行卡上的转账短信照片，证实金某2016年9月18日收到转账一万元、9月22日收到两笔9300、9900元的转账。照片由金某提供，经公安机关依法提取",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：扣押清单，包括王某持有的，王某与廖某微信记录，证实廖某让王某在北京农商银行开户，并分两笔8月17日13万、8月18日150万转入该卡。微信记录由王某提供，经公安机关依法提取",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：扣押清单，包括熊某与刘某借款协议、熊某与付某甲借款合同、刘某打款凭证回单三张、熊某应收利息汇总表、瑞和小额贷款公司给张某甲的授权委托书八张、熊某写给付某甲的委托书、熊某与祁某项目合作协议、情况说明，证实（1）2014年1月27日，熊某向刘某借款3000万，借期两个月；2014年9月28日，熊某向付某甲借款1432万元，借期三个月；刘某于2014年1月27日分三笔518万、1482万、820万打款给祁某、祁某、熊某。（2）收回熊某本金1000万，根据计算，熊某应收回本息为5883.2617万元。（3）刘某委托张某甲处理红某项目结算事宜。（4）2016年2月1日，熊某委托付某甲处理红某项目清算事宜。（5）熊某和祁某合作开发红某县金沙世纪城项目。上述文件由公安机关依法扣押，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组证据主要反映熊某与付某甲、刘某等人之间的借贷关系和项目合作情况，与本案指控的诈骗行为无直接关联性。这些文件仅能证明相关主体之间存在经济往来，但无法证明被告人张某甲具有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组证据虽主要反映借贷关系，但其中熊某委托付某甲处理项目清算事宜的文件，与被告人冒充付某甲签名的授权协议形成关联，证实被告人利用项目清算事宜实施诈骗的事实。这些文件是被告人实施诈骗所依托的背景材料，与案件具有关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：扣押清单，包括银行转账记录两份、借条、欠条各一张、张某甲银行卡ｐｏｓ机消费回执三张，证实张某甲自2016年8月4日至8日向罗某转账303.59万余元；2016年9月11日，张某甲借肖某乙人民币360万元；2016年9月1日，欠姚某146万元；2016.8.3，张某甲银行卡在华昌珠宝店、罗朗厨具销售中心刷卡49.778万、48.954万、51.268万的刷卡记录。上述文件由公安机关依法扣押，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组证据仅能证明被告人的资金流向和消费情况，无法直接证明其具有非法占有的主观故意。特别是借条和欠条反映的是正常的民间借贷关系，与诈骗罪的构成要件无直接关联。POS机消费记录仅能证明消费行为，不能证明资金来源的非法性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组证据中被告人大额消费记录与诈骗所得资金流向直接相关，结合被告人在侦查阶段的供述，证实其将诈骗所得用于个人挥霍和偿还债务，具有明显的非法占有目的。POS机消费记录显示被告人在短时间内进行多笔大额奢侈品消费，与其经济状况不符，印证了其非法占有并挥霍诈骗款项的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：公安机关调取的张某甲尾号940工商银行卡、张某乙尾号197银行卡交易记录；毛某尾号631农商卡、尾号992工商银行卡交易记录；陈某尾号053农商卡、尾号094工商银行卡交易记录；罗某尾号501建设银行卡交易记录；钟某尾号182工商银行卡、宋某尾号2239建设银行卡交易记录，证实（1）2016年7月26日、27日张某甲分别收到付某甲转账50万、50万；2016年8月1日张某甲收到付某甲转账200万；2016年8月5日张某甲收到付某甲转账360万；2016年7月2日张某乙卡收到付某甲转账100万；（2）毛某农商银行卡接到王某转账163万余元，2016年8月19日向陈某大额转账73万；钟某2016年8月6日至8月7日收到张某甲转账共160万。（3）付某甲3月23日打款5万元、4月9日打款6万元、7月1日打款3万元到宋某建设银行卡上，4月9日宋某转5万到支付宝账户。调取程序符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组银行交易记录仅能证明资金流转情况，无法直接证明被告人具有非法占有的主观故意。特别是宋某银行卡的交易记录与本案指控的诈骗行为无直接关联性。资金流向本身不能等同于诈骗行为，需要结合其他证据综合判断。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组银行交易记录与被害人付某甲的转账记录相互印证，证实被告人张某甲实际收取并控制诈骗款项。特别是资金流向显示被告人将大额款项转入他人账户，与其供述将诈骗所得用于赌博和偿还债务的情节吻合，能够证明其非法占有的主观故意。宋某银行卡的交易记录与被告人在侦查阶段的供述一致，证实其伙同他人共同实施诈骗的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：收条证实2016年12月21日付某甲收到宋某人民币12万元（退赃）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：扣押、发还清单证实江某退赃3万元；李某退赃2.5万元；扣押罗某4千元（以上几笔退赃款已发还付某甲）。扣押和发还程序符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：办案说明证实被告人张某甲系2016年12月20日被抓获后传唤到案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：被告人张某甲、被害人付某甲人口信息证实张某甲、付某甲二人的基本身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：扣押清单，包括宋某的支付宝、微信转账照片，证实2016年2月7日支付宝转账给张某甲5000元；3月24日支付宝转账给张某甲6000元；4月9日支付宝转账给张某甲3.8万、转给黄某甲1.2万、微信转账给张某甲3000元；10月18日微信转账给张某甲300元。2016年4月5日微信收到张某甲2000元；6月7日微信收到张某甲1000元；8月1日、2日、3日微信收到张某甲5000元、3000元、2000元；8月19日、21日微信收到张某甲10000元、10000元；10月14日、18日微信收到张某甲3000元、1500元。2016年4月1日、9日宋某转账10000元、10000元给江某。照片由公安机关依法提取",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该组支付宝、微信转账记录仅能证明宋某与张某甲之间存在资金往来，无法直接证明被告人张某甲具有诈骗的主观故意。特别是部分转账发生在2016年10月，与本案指控的诈骗时间段存在间隔，与诈骗行为缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该组支付宝、微信转账记录与被告人在侦查阶段的供述相互印证，证实其与宋某共同实施诈骗并分赃的事实。特别是2016年8月的多笔大额转账，与被害人付某甲转账给被告人的时间吻合，能够证明被告人将诈骗所得款项进行分配和挥霍，具有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.视听资料、电子数据：证明侦查机关讯问被告人张某甲的情况。讯问过程符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人江某说：“宋某请我帮忙办湖北红某一个工程结账的事。2016年3月份，李某带‘小宋’跟我到南昌市万达广场21楼喝茶，小宋问能不能找关系把钱追回来，我说可以，但要正规的手续。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明宋某曾寻求帮助处理工程结账事宜，无法直接证明被告人张某甲具有诈骗的主观故意。证言中提到的\"小宋\"身份不明，与本案被告人的关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言与被告人在侦查阶段的供述相互印证，证实被告人伙同宋某等人以追讨工程款为名实施诈骗的事实。证言中提到的\"小宋\"即被告人张某甲，与案件具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人李某说：“我认识张某甲，但他向我们介绍他是叫付某乙，是付某甲的弟弟。2016年元月份的一天，宋某问我说能不能找到湖北红某的领导的关系，帮他朋友付某甲追帐。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明被告人曾使用过\"付某乙\"的称呼，无法直接证明其具有诈骗的主观故意。证言中关于宋某询问追账事宜的内容与本案被告人的行为缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言证实被告人使用虚假身份\"付某乙\"进行活动，与其在侦查阶段供述的虚构身份实施诈骗的情节相互印证。证言中关于追账事宜的内容与被告人供述的诈骗手段一致，能够证明被告人实施诈骗的主观故意和行为方式。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人祁某说：“2013年我、熊某、魏某签订了开发金沙世纪城项目的合作协议。我没有见过付某甲这个人，但是2016年4月份有一个姓江的江西人带着三个人来找我，说是付某甲委托找我清算项目资金。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人熊某说：“我认识张某甲，他是我叫来我房地产公司帮忙的，平时跟着我一起吃玩。2014年我借了付某甲小额信贷公司3000万投入到红某金沙世纪城项目当中去，借款期限是两个月。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人毛某说：“我从2015年11、12月开始给张某甲开车，我估算最多得他3万块钱（包括我借他的5000元，打了欠条）。张某甲的工商银行卡转账10万、20万到我名字的账号上，我不知道。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人陈某说：“我从2016年7月份开始帮张某甲开车，一直到9月底就没开了。我帮张某甲开车就是去湖北（去过四次），每次张某甲会拿两三千元钱给我。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人廖某说：“我和张某甲是情人关系，张某甲替我还了7000元分期贷款。张某甲转账给我一两万，每次转两三千给我，让我替他充值游戏账号。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人王某说：“我开完卡后，当天下午这张卡就有13万的进账。第二天这张卡又有150万的进账，显示转入用户名是付某甲。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人金某说：“2016年9月20多号，张某甲叫我帮他找关系做事。我说找关系要费用，张某甲就拿了3000元现金给我。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人付某丙说：“我是高安市瑞和小额信贷公司的会计。2016年9月19日，我陪同张某甲在高安市农商银行和中国银行办了两张银行卡，户名是张某甲。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人胡某说：“华昌珠宝店我开的，我家里陆续开过罗朗厨具店、燕某屋店、华昌珠宝店和现在的吻爱钻石珠宝店。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人罗某说：“2016年8月初，我们还在文山路开华昌珠宝店，我到我店里来买东西，买完东西后，我就拿一张工商银行的储蓄卡出来，要我老公帮忙多刷点钱出来，刷出来的钱再转到我的账上去。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人肖某丙说：“我和张某甲是夫妻关系，我大伯的儿子叫肖某甲，在吉安检察院上班。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.证人证言：证人黄某乙说：“我和付某甲是合伙人关系，张某甲骗付某甲钱的时候我基本上都在场。张某甲骗付某甲100万的事我清楚，当时张某甲讲要给中纪委的赵某在老家建房子，要付某甲打100万。”证言采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明张某甲曾向付某甲提出资金需求，但无法直接证明\"给中纪委赵某建房子\"这一说法的真实性，也无法单独证明被告人具有诈骗的主观故意。需要结合其他证据综合判断。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言直接证实被告人虚构\"中纪委赵某\"这一不存在的人物骗取被害人钱款的事实，与被告人在侦查阶段的供述相互印证，能够证明被告人实施诈骗的主观故意和行为方式。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.被害人陈述：被害人付某甲说：“2014年1月27日，樟树人熊某、蔡某夫妻向我借款3000万元用于资金周转，连同2014年1月份之前熊某欠我的1547万元，熊某夫妻欠我的本金4547万元，2015年4月27日熊某归还了ｌＯＯＯ万，到现在熊某还有3547万元未归还，利息也分文未付。”陈述采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.同案人供述：同案人宋某说：“2015年11、12月份的时候，张某甲找到我说在湖北省黄冈市红某县有个朋友有经济纠纷，要找纪委方面的领导出面解决问题，问我能不能找到关系，我就打电话问了我的一个朋友李某。”供述采集程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人宋某的供述存在利害关系，其证明力不足。该供述仅能证明宋某与张某甲之间存在联系，但无法单独证明被告人具有诈骗的主观故意。需要结合其他证据综合判断。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人宋某的供述与被告人在侦查阶段的供述相互印证，证实二人共同虚构纪委关系实施诈骗的事实。宋某关于找关系解决问题的供述与被告人虚构中纪委工作人员的情节一致，能够证明被告人实施诈骗的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就同案人供述的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第二百六十六条之规定，被告人以非法占有为目的，虚构纪委工作人员身份，通过伪造支票等手段骗取被害人1047万余元，犯罪事实清楚，证据确实充分。本案中，银行转账记录、伪造支票等物证与29名证人证言相互印证，形成完整证据链。被告人诈骗数额特别巨大，且赃款主要用于赌博挥霍，社会危害性严重。根据《刑法》第二百七十九条，冒充国家机关工作人员招摇撞骗的，应从重处罚。建议法庭依法严惩。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于定罪方面。现有证据中银行转账记录仅能证明资金往来，无法直接证明被告人具有非法占有目的。同案人宋某的供述因其与本案存在直接利害关系，证明力存疑。部分证人证言与诈骗行为缺乏直接关联性，部分书证仅反映正常商业往来。\n\n第二，关于量刑方面。被告人在侦查阶段如实供述犯罪事实，根据《刑法》第六十七条第三款，具有坦白情节。被告人认罪认罚，愿意接受法律制裁，悔罪态度良好。\n\n综上，请法庭充分考虑上述情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的非法占有目的问题，银行转账记录与伪造支票相互印证，结合29名证人证言，足以证实被告人虚构纪委关系实施诈骗的主观故意。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第二条，以虚假身份实施诈骗的，应当认定为具有非法占有目的。关于同案人宋某的供述，其供述与书证、物证相互印证，证明力充分。被告人虽认罪认罚，但诈骗金额特别巨大且赃款已挥霍殆尽，社会危害性严重，应从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的非法占有目的认定问题，辩护人认为需要特别指出：根据《刑法》第二百六十六条及相关司法解释，认定诈骗罪必须同时具备非法占有目的和虚构事实、隐瞒真相的行为要件。本案中，现有证据仅能证明资金往来和身份虚构，但无法充分证明被告人自始即具有非法占有目的。特别是部分资金往来存在合理商业背景，这与典型诈骗案件中的资金流向特征存在明显区别。恳请法庭严格把握诈骗罪的构成要件标准。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于非法占有目的的认定，根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第二条第二款，行为人将诈骗财物用于赌博、挥霍等违法犯罪活动或高消费的，应当认定为具有非法占有目的。本案中，被告人将1047万余元赃款用于赌博和挥霍，且伪造支票、虚构纪委工作人员身份的行为已充分证明其主观上具有非法占有的直接故意。辩护人提出的所谓\"合理商业背景\"与本案大量客观证据相矛盾，不能成立。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于赃款用途问题，辩护人提请法庭注意：根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，认定案件事实必须达到证据确实、充分的标准。现有证据中关于资金用途的证明链条存在断裂，不能排除部分资金用于正常经营的可能性。同时，被告人虽认罪认罚，但根据《关于适用认罪认罚从宽制度的指导意见》第二十五条，对认罪认罚案件仍应坚持证据裁判原则。恳请法庭严格审查证据的证明力。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对非法占有目的问题已经充分发表了意见，接下来的辩论请围绕被告人是否实施了伪造支票等行为进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第一百七十七条之规定，伪造金融票证罪是指伪造、变造汇票、本票、支票等金融票证的行为。本案中，公安机关依法提取的伪造支票与银行流水记录相互印证，证实被告人实施了伪造支票的犯罪行为。该伪造行为与虚构纪委工作人员身份相互配合，共同构成诈骗犯罪的客观要件。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第五条，伪造金融票证实施诈骗的，应当从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于伪造支票行为的定性问题，辩护人认为需要指出三点：\n\n第一，现有证据中关于支票伪造的直接证据不足，缺乏被告人实施伪造行为的直接物证或鉴定意见。根据《刑事诉讼法》第五十五条，对被告人定罪应当达到证据确实、充分的标准。\n\n第二，即使存在伪造支票的事实，也需要区分是被告人亲自实施还是他人所为。根据《刑法》第二十五条关于共同犯罪的规定，必须查明被告人在伪造行为中的具体作用和地位。\n\n第三，关于从重处罚问题，辩护人提请法庭注意，根据《最高人民法院关于常见犯罪的量刑指导意见》，对于具有多个量刑情节的案件，应当综合考量。被告人具有坦白、认罪认罚等从宽情节，应当依法予以体现。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我对自己的犯罪行为深感悔恨。我承认通过虚构关系骗取付某甲钱财的事实，愿意认罪认罚。在侦查阶段我已如实供述全部犯罪事实，具有坦白情节。部分赃款已由同案人退赔，减轻了社会危害性。我因赌博和债务压力走上犯罪道路，现在深刻认识到错误，愿意接受法律制裁。恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "江西省宜春市中级人民法院  \n刑事判决书  \n（2017）赣09刑初45号  \n\n公诉机关江西省宜春市人民检察院。  \n被告人张某甲，男，汉族，XX年XX月XX日出生，文化程度XXX，户籍XXX。因涉嫌犯诈骗罪于2016年12月20日被抓获，次日被刑事拘留。  \n辩护人XXX，XXX律师事务所律师。  \n\n江西省宜春市人民检察院以赣宜检刑诉〔2017〕45号起诉书指控被告人张某甲犯诈骗罪，于2017年11月22日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。宜春市人民检察院指派检察员XXX出庭支持公诉，被告人张某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。  \n\n公诉机关指控：2016年1月至8月期间，被告人张某甲虚构纪委工作人员身份，通过伪造支票等手段，以帮助追债、调动工作为由，骗取被害人付某甲共计1047万余元，所得款项用于赌博、偿还债务及个人挥霍。公诉机关认为被告人张某甲的行为构成诈骗罪，数额特别巨大，应依法追究刑事责任。  \n\n被告人张某甲对指控的基本事实无异议，当庭自愿认罪认罚。辩护人提出被告人具有坦白、认罪认罚等从宽情节，但对部分证据的关联性及非法占有目的的直接证据提出异议。  \n\n经审理查明：2016年1月至8月，被告人张某甲在明知无能力帮助追债的情况下，虚构纪委工作人员身份，通过宋某冒充\"肖某甲\"等方式取得被害人信任，以疏通关系为由骗取付某甲共计1047万元。其中：  \n1.2016年1月至5月，以追债为由骗取102万余元；  \n2.2016年5月至8月，以继续疏通关系为由骗取585万余元；  \n3.2016年8月，以为被害人堂哥调动工作为由骗取360万元。  \n上述事实有被告人供述、被害人陈述、银行转账记录、伪造支票照片、证人证言等证据证实，证据间相互印证，形成完整证据链。  \n\n本院认为，被告人张某甲以非法占有为目的，虚构事实、隐瞒真相，骗取他人财物1047万元，数额特别巨大，其行为已构成诈骗罪。公诉机关指控的罪名成立。被告人虽认罪认罚，但诈骗数额特别巨大，且未退赔被害人损失，依法应予严惩。辩护人关于从宽处理的意见部分采纳。  \n\n依照《中华人民共和国刑法》第二百六十六条、第五十二条、第五十三条、第六十四条之规定，判决如下：  \n\n一、被告人张某甲犯诈骗罪，判处有期徒刑十四年，并处罚金人民币五十万元；  \n二、追缴被告人张某甲违法所得人民币一千零四十七万元，发还被害人付某甲。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向江西省高级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长 XXX  \nXXX年XX月XX日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人张某甲是否具有非法占有的主观故意。需要查明其虚构纪委关系、伪造文件等行为是否出于非法占有目的，以及其将骗取资金用于赌博、挥霍等事实。\n\n2.诈骗金额的认定问题。需要核实起诉书指控的1047万余元诈骗金额是否准确，包括各笔转账的具体用途和性质，是否存在部分资金用于实际追债活动的情况。\n\n3.被告人行为的违法性认定。需要审查其虚构纪委关系、伪造文件等行为是否具有正当性依据，是否存在紧急避险等违法阻却事由。\n\n4.被告人的责任能力认定。需要确认其是否具有完全刑事责任能力，是否存在精神障碍等影响责任能力的情形。\n\n5.量刑情节的认定。包括被告人是否具有自首情节、是否积极退赃、是否取得被害人谅解等从轻或从重处罚情节。\n\n6.共同犯罪的认定。需要查明宋某等其他涉案人员在犯罪中的地位和作用，是否构成共同犯罪。\n\n7.涉案财物的处理。需要明确追缴犯罪所得的具体金额和发还方案，包括已退赃部分和尚未退赃部分。\n\n8.伪造文件行为的定性。需要审查伪造支票、授权书等行为是否构成其他犯罪，是否应当数罪并罚。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "虚构纪委关系骗取他人财物是否构成诈骗罪？",
+              "诈骗金额特别巨大的量刑标准是什么？"
+            ],
+            "虚构纪委关系骗取他人财物是否构成诈骗罪？": "### 结论\n虚构纪委关系骗取他人财物构成诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **虚构事实**：虚构自己与纪委有关系，以此骗取他人财物。例如，【（2020）冀01刑终149号】中，高立潮虚构与北京及中纪委的高官有关系的事实，以非法占有为目的，骗取他人钱财，构成诈骗罪。\n- **非法占有目的**：行为人虚构事实的目的是为了非法占有他人财物。如【（2020）冀01刑终149号】中，高立潮虽以借款或报销费用之名取得他人钱款，但皆是以协调关系已花销或用于花销作借口，后拒不返还，表明其已具备非法占有之目的。\n- **数额较大**：骗取的财物数额达到较大的标准。如【（2020）冀01刑终149号】中，高立潮骗取的财物数额较大，构成诈骗罪。\n\n综上，虚构纪委关系骗取他人财物，当行为人具备非法占有目的，且骗取的财物数额较大时，构成诈骗罪。案例中，法院均支持了这一观点，没有发现不支持的关键因素。\n\n#####\n类似案件为：\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。",
+            "诈骗金额特别巨大的量刑标准是什么？": "### 结论\n诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗金额的认定**：在【（2023）沪02刑终1116号】中，法院认为即使被告人被抓获时，与部分被害人约定的事项未到期，所得钱款仍应计入诈骗数额，因为被告人已因相同手法被采取刑事强制措施，且将所得钱款用于个人挥霍，反映出非法占有的故意。\n- **诈骗罪的构成要件**：在【（2015）广法刑终字第53号】中，法院认定被告人唐春以非法占有为目的，采取虚构事实的手段，骗取他人财物，数额特别巨大，构成诈骗罪，依法判处十年以上有期徒刑。\n- **从犯和量刑**：在【（2019）粤08刑终220号】中，被告人邓某某、林某某受雇参与电信网络诈骗，虽为从犯，但因诈骗数额特别巨大，仍被判处五年和三年八个月有期徒刑，体现了对从犯的量刑考虑。\n- **合同诈骗的认定**：在【（2018）黔26刑终56号】中，法院详细分析了合同诈骗罪的构成要件，特别是非法占有目的的认定，最终认定被告人王国庆的行为构成合同诈骗罪，但由于适用法律不当，原判量刑被改判。\n\n综上，诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产，这一标准在多个案例中得到体现，且在考虑从犯、量刑、合同诈骗等具体情节时，法院均依据《中华人民共和国刑法》第二百六十六条的规定进行判决。\n\n#####\n类似案件为：\n【（2023）沪02刑终1116号】：《中华人民共和国刑法》第二百六十六条规定“诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。”本案中，被告人曹某以非法占有为目的，虚构事实，骗取他人钱款，数额特别巨大，其行为已构成诈骗罪。本案争议焦点为：被告人曹某被抓获时，其与其中两名被害人谢某、汤某约定的入学时间未到，所得钱款是否应计入诈骗数额。\n经查，被告人曹某虚构有能力帮助两名被害人办理子女入学事宜在先，骗取钱款在后，其与被害人约定入学的时间本质上是骗取他人财物的理由，这与其被抓获到案时请托办理事项是否到期、请托事项最终能否实现没有内在的必然联系，不影响对其行为性质的认定。且期间曹某已因采用相同手法诈骗王某一节被采取刑事强制措施，后将所骗钱款用于归还其他欠款和个人挥霍等，无任何向两名被害人还款的行为，明显反映出其主观上非法占有的故意，故相关金额应当一并计入其诈骗犯罪数额。\n【（2015）广法刑终字第53号】：法院认为，被告人唐春以非法占有为目的，虚构事实骗取他人财物，数额特别巨大，构成诈骗罪。唐春到案后如实供述犯罪事实，依法可以从轻处罚。唐春诈骗金额为213.5万元，属于数额特别巨大，应在十年以上有期徒刑量刑。原判量刑适当，唐春的上诉理由不成立。四川省广安市中级人民法院维持原判，被告人唐春犯诈骗罪，判处有期徒刑十三年，并处罚金人民币3万元，责令唐春退赔各被害人损失。本判决为终审判决。\n【（2018）黔26刑终56号】：法院认为，王国庆在签订、履行合同的过程中，采取隐瞒真相等欺骗手段，骗取陈某1的100万元财物，具有非法占有的目的，其行为构成合同诈骗罪。王国庆诈骗金额特别巨大，依法应处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。贵州省黔东南苗族侗族自治州中级人民法院判决，王国庆犯合同诈骗罪，判处有期徒刑四年，并处罚金五万元，责令王国庆退还陈某1100万元保证金。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.证据显示张某甲虚构纪委关系、伪造文件，通过宋某等人实施诈骗，骗取被害人1047万余元，符合诈骗罪构成要件。2.银行转账记录、短信照片等书证与证人证言形成完整证据链，证实张某甲非法占有目的明确。3.诈骗金额特别巨大，且赃款用于赌博挥霍，社会危害性严重，应从重处罚。\n防御策略：1.所有书证、物证均经公安机关依法提取，程序合法有效。2.证人证言与被害人陈述相互印证，不存在矛盾。3.被告人在侦查阶段供述与客观证据高度吻合，可排除刑讯逼供可能。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑事诉讼法第一百七十二条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "虚构纪委关系骗取他人财物是否构成诈骗罪？",
+              "诈骗金额特别巨大的量刑标准是什么？"
+            ],
+            "虚构纪委关系骗取他人财物是否构成诈骗罪？": "### 结论\n虚构纪委关系骗取他人财物构成诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **虚构事实**：虚构自己与纪委有关系，以此骗取他人财物。例如，【（2020）冀01刑终149号】中，高立潮虚构与北京及中纪委的高官有关系的事实，以非法占有为目的，骗取他人钱财，构成诈骗罪。\n- **非法占有目的**：行为人虚构事实的目的是为了非法占有他人财物。如【（2020）冀01刑终149号】中，高立潮虽以借款或报销费用之名取得他人钱款，但皆是以协调关系已花销或用于花销作借口，后拒不返还，表明其已具备非法占有之目的。\n- **数额较大**：骗取的财物数额达到较大的标准。如【（2020）冀01刑终149号】中，高立潮骗取的财物数额较大，构成诈骗罪。\n\n综上，虚构纪委关系骗取他人财物，当行为人具备非法占有目的，且骗取的财物数额较大时，构成诈骗罪。案例中，法院均支持了这一观点，没有发现不支持的关键因素。\n\n#####\n类似案件为：\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。",
+            "诈骗金额特别巨大的量刑标准是什么？": "### 结论\n诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗金额的认定**：在【（2023）沪02刑终1116号】中，法院认为即使被告人被抓获时，与部分被害人约定的事项未到期，所得钱款仍应计入诈骗数额，因为被告人已因相同手法被采取刑事强制措施，且将所得钱款用于个人挥霍，反映出非法占有的故意。\n- **诈骗罪的构成要件**：在【（2015）广法刑终字第53号】中，法院认定被告人唐春以非法占有为目的，采取虚构事实的手段，骗取他人财物，数额特别巨大，构成诈骗罪，依法判处十年以上有期徒刑。\n- **从犯和量刑**：在【（2019）粤08刑终220号】中，被告人邓某某、林某某受雇参与电信网络诈骗，虽为从犯，但因诈骗数额特别巨大，仍被判处五年和三年八个月有期徒刑，体现了对从犯的量刑考虑。\n- **合同诈骗的认定**：在【（2018）黔26刑终56号】中，法院详细分析了合同诈骗罪的构成要件，特别是非法占有目的的认定，最终认定被告人王国庆的行为构成合同诈骗罪，但由于适用法律不当，原判量刑被改判。\n\n综上，诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产，这一标准在多个案例中得到体现，且在考虑从犯、量刑、合同诈骗等具体情节时，法院均依据《中华人民共和国刑法》第二百六十六条的规定进行判决。\n\n#####\n类似案件为：\n【（2023）沪02刑终1116号】：《中华人民共和国刑法》第二百六十六条规定“诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。”本案中，被告人曹某以非法占有为目的，虚构事实，骗取他人钱款，数额特别巨大，其行为已构成诈骗罪。本案争议焦点为：被告人曹某被抓获时，其与其中两名被害人谢某、汤某约定的入学时间未到，所得钱款是否应计入诈骗数额。\n经查，被告人曹某虚构有能力帮助两名被害人办理子女入学事宜在先，骗取钱款在后，其与被害人约定入学的时间本质上是骗取他人财物的理由，这与其被抓获到案时请托办理事项是否到期、请托事项最终能否实现没有内在的必然联系，不影响对其行为性质的认定。且期间曹某已因采用相同手法诈骗王某一节被采取刑事强制措施，后将所骗钱款用于归还其他欠款和个人挥霍等，无任何向两名被害人还款的行为，明显反映出其主观上非法占有的故意，故相关金额应当一并计入其诈骗犯罪数额。\n【（2015）广法刑终字第53号】：法院认为，被告人唐春以非法占有为目的，虚构事实骗取他人财物，数额特别巨大，构成诈骗罪。唐春到案后如实供述犯罪事实，依法可以从轻处罚。唐春诈骗金额为213.5万元，属于数额特别巨大，应在十年以上有期徒刑量刑。原判量刑适当，唐春的上诉理由不成立。四川省广安市中级人民法院维持原判，被告人唐春犯诈骗罪，判处有期徒刑十三年，并处罚金人民币3万元，责令唐春退赔各被害人损失。本判决为终审判决。\n【（2018）黔26刑终56号】：法院认为，王国庆在签订、履行合同的过程中，采取隐瞒真相等欺骗手段，骗取陈某1的100万元财物，具有非法占有的目的，其行为构成合同诈骗罪。王国庆诈骗金额特别巨大，依法应处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。贵州省黔东南苗族侗族自治州中级人民法院判决，王国庆犯合同诈骗罪，判处有期徒刑四年，并处罚金五万元，责令王国庆退还陈某1100万元保证金。"
+          }
+        },
+        "目标": "请求法院判处被告人张某甲诈骗罪，处十年以上有期徒刑，并处罚金，追缴犯罪所得",
+        "询问": "1. 被告人张某甲，你在2016年1月至8月期间，是否向被害人付某甲谎称自己具有纪委关系可以帮助追讨债务？具体是如何虚构这些关系的？（针对诈骗罪的虚构事实要件）\n\n2. 你明知宋某并非检察院工作人员，为何要向付某甲介绍其为\"肖某甲\"？这一行为是否是为了获取付某甲的信任？（针对诈骗罪的欺骗手段）\n\n3. 在2016年5月江某等人明确告知无法追账后，你为何仍继续向付某甲谎称祁某同意还债、项目资金已结算？当时是基于什么考虑？（针对非法占有目的）\n\n4. 你收取的1047万余元款项具体用于哪些用途？请详细说明资金流向。（针对赃款去向及挥霍情节）\n\n5. 你在2016年8月虚构能为付某甲堂哥调动工作时，是否明知自己并无此能力？当时收取360万元的动机是什么？（针对主观故意）\n\n6. 你是否有主动退赔被害人损失的意愿和行为？为何至今未与被害人达成和解？（针对认罪悔罪态度）\n\n7. 你在侦查阶段的供述是否属实？是否存在被刑讯逼供等非法取证情形？（针对证据合法性）"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的转账记录仅能证明资金往来，无法直接证明被告人具有非法占有目的2.同案人宋某的供述存在利害关系，证明力不足3.被害人付某甲的部分陈述与客观证据存在矛盾\n防御策略：1.被告人在侦查阶段如实供述犯罪事实，具有坦白情节2.部分赃款已由同案人退赔，减轻了社会危害3.被告人因赌博和债务压力实施犯罪，主观恶性相对较小",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "诈骗罪中虚构事实与非法占有目的的认定标准",
+              "诈骗金额特别巨大的量刑标准"
+            ],
+            "诈骗罪中虚构事实与非法占有目的的认定标准": "### 结论\n在诈骗罪中，认定虚构事实与非法占有目的的关键在于行为人是否通过欺骗手段使被害人陷入错误认识并处分财产，以及行为人是否具有将他人财物非法占为己有的主观意图。即使在双方表面上形成借贷关系的情况下，如果行为人通过虚构事实或隐瞒真相的方式获取财物，且有证据表明行为人没有归还能力或意图，仍可认定为诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗罪是指以非法占有为目的，用虚构事实或者隐瞒真相的方法，骗取数额较大的公私财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的的认定**：在【（2019）京02刑终214号】中，法院认为，即使部分钱款采用了借款形式给付，也不影响非法占有目的的认定，因为被告人收款前不具有归还能力，收款后无归还行为。在【（2020）浙10刑终454号】中，法院认定被告人以提供兼职工作为名骗取会员费，其对会员的返利行为是为了使加入的会员发展更多的会员参与，使自己能骗取更大的财产，具有非法占有目的。\n- **虚构事实的认定**：在【（2018）浙06刑终741号】中，法院认为，被告人通过虚构老师指导能力强，在老师指导下投资可以赚钱获利等方式骗取客户信任，隐瞒公司不产生利润、公司与客户系对赌关系、费用被杠杆放大等事实真相，构成诈骗罪。在【（2021）浙0481刑初734号】中，法院认定被告人采用虚构事实、隐瞒真相等方式骗取他人财物，构成诈骗罪。\n- **共同犯罪中的作用与责任**：在【（2019）渝01刑终378号】中，法院根据各被告人在共同犯罪中的作用，区分了主犯与从犯，并依法对从犯减轻处罚。在【（2014）甬海刑抗再字第3号】中，法院认定原审被告人黄某甲策划并积极实施犯罪，系主犯，应当按照其参与的全部犯罪处罚。\n- **立功与自首**：在【（2014）甬海刑抗再字第3号】中，法院认定原审被告人黄某甲在取保候审期间，劝说并陪同同案犯向某归案，应认定有立功表现，可从轻处罚。\n\n综上，非法占有目的与虚构事实是认定诈骗罪的关键因素，法院在判断时会综合考虑行为人的归还能力、行为性质、共同犯罪中的作用以及是否有立功、自首等情节。\n\n#####\n类似案件为：\n【（2019）京02刑终214号】：法院生效裁判认为，被告人陈某平以非法占有为目的，虚构事实骗取他人财物，其行为已构成诈骗罪，且诈骗数额巨大，依法应予惩处。被害人谭某栋、杨某蓉因陈某平虚构事实、谎称能够帮助二人承揽项目而分多笔给付陈某平共计13.95万元。关于部分钱款给付的具体名目，供证之间存在差异，但考虑到陈某平收款前不具有归还能力，收款后无归还行为，即便部分钱款采用了借款形式给付，也不影响其非法占有目的以及诈骗数额的认定。故法院依法作出如上裁判。\n【（2020）浙10刑终454号】：被告人姚某涛、周某、向某以非法占有为目的，结伙虚构事实，骗取他人财物，其中被告人姚某涛、周某诈骗数额特别巨大，被告人向某诈骗数额巨大，其行为均已构成诈骗罪。\n关于被告人姚某涛及其辩护人提出本案应定组织、领导传销活动罪的理由。经查，被告人以招聘网络兼职为名，虚构兼职工作或设置难以完成的工作，使被害人陷入错误认识认为真实存在可获取相应报酬的兼职工作而交纳会员费，同时不允许会员退费，对于不愿意继续拉人的会员予以拉黑处理，其行为实际是以提供兼职工作为名骗取会员费，其对会员的返利行为是为了使加入的会员发展更多的会员参与，使自己能骗取更大的财产，其实施的传销式经营模式是实施诈骗的一种手段，其行为符合诈骗罪的构成特征，故应当以诈骗罪定罪处罚。\n关于被告人姚某涛辩护人提出本案兼职工作实际存在，不应认定为虚构事实的理由。经查，在案同案犯的供述、被害人的陈述均可证实兼职工作实际无法完成或不存在，除部分被害人被骗后选择加入诈骗集团获利外，其余被害人基本无法从兼职工作中获得合理报酬，诈骗组织宣传的工作和报酬与实际情况并不相符，且不准许会员退费，同时让对外宣传不断推广继续吸收会员之行为，足以证实其仅是以提供兼职工作为名骗取会员费。因此，被告人姚某涛及其辩护人所提辩护意见，不能成立。\n综上，在共同犯罪中，被告人姚某涛系组织、领导犯罪集团的首要分子，系主犯，应当按照集团所犯的全部罪行处罚。被告人周某、向某在共同犯罪中起次要作用，系从犯，且归案后如实供述主要犯罪事实，退缴违法所得，应当减轻处罚。被告人向某认罪认罚，应当从宽处罚。\n【（2021）浙0481刑初734号】：法院认为，各被告人以非法占有为目的，采用虚构事实、隐瞒真相方式骗取他人财物，数额分别达到特别巨大或巨大，构成诈骗罪。1系主犯，按集团全部罪行处罚；2至8为从犯，依法从轻或减轻处罚。2系累犯，从重处罚。3、8有立功表现，从轻处罚。4有自首情节，从轻处罚。2至8坦白，从轻处罚。各被告人犯罪情节、罪后表现不同，对2至8从轻处罚。法院判决被告人1至8犯诈骗罪，根据各人犯罪情节和从重、从轻、减轻处罚情节，分别判处有期徒刑十年三个月至二年不等，剥夺政治权利一年至缓刑考验期不等，并处罚金十万元至一万元不等，责令退赔被害人损失。\n法院认为被告人1的辩解和辩护人意见不予采纳，因其否认有诈骗故意，未如实供述，且在犯罪集团中起组织、领导作用，不构成从犯和坦白，且有完全刑事责任能力。针对婺城店部分被害人认定依据不足，相应金额从指控诈骗金额中扣除。\n法院判决各被告人犯诈骗罪，根据犯罪情节、退赃情况等，分别判处有期徒刑并处罚金，对部分被告人适用缓刑，责令退赔被害人损失。\n如不服判决，可在接到判决书第二日起十日内，通过本院或直接向浙江省嘉兴市中级人民法院提出上诉。",
+            "诈骗金额特别巨大的量刑标准": "### 结论\n诈骗金额特别巨大的量刑标准，根据《中华人民共和国刑法》第二百六十六条的规定，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。具体量刑时，法院会考虑犯罪数额、犯罪手段、犯罪后果、被告人的主观恶性、退赃情况、认罪态度、从犯或主犯身份、自首情节、社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：诈骗数额特别巨大是量刑的重要依据。例如，【（2023）沪02刑终1116号】、【（2019）粤08刑终220号】、【（2018）豫13刑终531号】等案例中，法院均根据诈骗数额特别巨大的事实，依法判处十年以上有期徒刑。\n- **犯罪手段**：犯罪手段的恶劣程度也会影响量刑。如【（2018）黔26刑终56号】中，上诉人王国庆隐瞒真相，骗取他人财物，法院认定其行为构成合同诈骗罪，量刑时考虑了其手段的恶劣性。\n- **退赃情况**：被告人的退赃情况是量刑时的重要考量因素。如【（2019）粤08刑终220号】中，两被告人归案后主动向部分被害人退赔经济损失，法院认为具有悔罪表现，可以从轻处罚。\n- **认罪态度**：被告人的认罪态度也会影响量刑。如【（2016）黑0203刑初275号】中，贾悦主动投案并如实供述犯罪事实，法院认定其有自首情节，可对其减轻处罚。\n- **从犯或主犯身份**：在共同犯罪中，从犯与主犯的量刑会有区别。如【（2019）粤08刑终220号】中，两被告人系从犯，法院认为应当减轻处罚。\n\n综上，诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产，但具体量刑会根据犯罪的具体情节和被告人的个人情况综合考量。\n\n#####\n类似案件为：\n【（2023）沪02刑终1116号】：《中华人民共和国刑法》第二百六十六条规定“诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。”本案中，被告人曹某以非法占有为目的，虚构事实，骗取他人钱款，数额特别巨大，其行为已构成诈骗罪。本案争议焦点为：被告人曹某被抓获时，其与其中两名被害人谢某、汤某约定的入学时间未到，所得钱款是否应计入诈骗数额。\n经查，被告人曹某虚构有能力帮助两名被害人办理子女入学事宜在先，骗取钱款在后，其与被害人约定入学的时间本质上是骗取他人财物的理由，这与其被抓获到案时请托办理事项是否到期、请托事项最终能否实现没有内在的必然联系，不影响对其行为性质的认定。且期间曹某已因采用相同手法诈骗王某一节被采取刑事强制措施，后将所骗钱款用于归还其他欠款和个人挥霍等，无任何向两名被害人还款的行为，明显反映出其主观上非法占有的故意，故相关金额应当一并计入其诈骗犯罪数额。\n【（2018）豫13刑终531号】：法院认为，庞冉、黄林中、孙成军、刘学堂以非法占有为目的，虚构事实，诈骗公私财物，数额巨大，其行为均已构成诈骗罪。庞冉、黄林中、孙成军、刘学堂在实施犯罪过程中，因意志以外的原因而未得逞，是犯罪未遂，可比照既遂犯减轻处罚；庞冉、黄林中、孙成军二审期间能主动缴纳罚金，可酌情从轻处罚。原判认定事实清楚，证据确实充分，审判程序合法，定罪准确。原审被告人刘学堂犯诈骗罪，判处有期徒刑七个月，并处罚金人民币5000元；上诉人（原审被告人）庞冉犯诈骗罪，判处有期徒刑二年，并处罚金人民币一万元；上诉人（原审被告人）黄林中犯诈骗罪，判处有期徒刑二年零六个月，并处罚金人民币一万元；上诉人（原审被告人）孙成军犯诈骗罪，判处有期徒刑一年，并处罚金人民币五千元。判决为终审判决。\n【（2018）黔26刑终56号】：法院认为，王国庆在签订、履行合同的过程中，采取隐瞒真相等欺骗手段，骗取陈某1的100万元财物，具有非法占有的目的，其行为构成合同诈骗罪。王国庆诈骗金额特别巨大，依法应处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。贵州省黔东南苗族侗族自治州中级人民法院判决，王国庆犯合同诈骗罪，判处有期徒刑四年，并处罚金五万元，责令王国庆退还陈某1100万元保证金。"
+          }
+        },
+        "目标": "请求法院判处被告人张某甲减轻处罚",
+        "询问": "1. 被告人张某甲，你在与付某甲接触时，是否确实认为自己有能力通过纪委关系帮助其追回债务？请具体说明你当时的真实想法和依据。\n\n2. 关于你收取的102万元款项，这些资金的具体用途是什么？是否如起诉书所称全部用于赌博和个人挥霍？请详细说明资金流向。\n\n3. 你与宋某等人的合作过程中，是否存在真实的追债行为或努力？请具体说明你们采取了哪些实际行动来帮助付某甲追讨债务。\n\n4. 在2016年5月得知无法追回债务后，你为何继续向付某甲收取款项？当时是基于何种考虑？\n\n5. 关于360万元的堂哥工作调动款项，你是否有过任何实质性的操作或努力？请说明具体情况。\n\n6. 你在侦查阶段是否如实供述了全部犯罪事实？是否有任何隐瞒或虚假陈述？\n\n7. 你对自己行为的性质是如何认识的？是否意识到这可能构成违法犯罪？\n\n8. 你是否有任何证据可以证明，部分款项确实用于了追债相关的正当开支？\n\n9. 关于同案人宋某等人的证言，你认为其中是否存在不实之处？请具体说明。\n\n10. 你是否有意愿和能力对被害人进行赔偿？目前已经采取了哪些措施来弥补被害人的损失？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人在侦查阶段如实供述犯罪事实，具有坦白情节，可依法从轻处罚 2.部分赃款已由同案人宋某等人退赔，减轻了社会危害性 3.被告人因赌博和债务压力实施犯罪，主观恶性相对较小 4.对指控的基本事实认罪认罚，但需澄清部分金额的诈骗故意 5.强调被告人在后期未继续实施新的诈骗行为，犯罪情节相对可控",
+        "记忆": "",
+        "目标": "请求法院对被告人张某甲从轻处罚"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人张某甲是否具有非法占有的主观故意。查明情况：被告人已承认虚构纪委关系、伪造身份等行为，并供述将骗取资金用于赌博和挥霍。公诉人通过讯问确认了其非法占有目的，辩护人未提出异议。审判长认为该焦点已查明清楚。\n\n2.诈骗金额的准确认定问题。查明情况：被告人确认起诉书指控的1047万元金额无误，并详细说明了资金去向。公诉人提供了转账记录等书证佐证，辩护人未对金额提出质疑。审判长认为该焦点已基本查明。\n\n3.共同犯罪中宋某的责任认定。查明情况：被告人供述了与宋某的分工情况，宋某主要负责冒充\"肖某甲\"身份。公诉人确认宋某另案处理，辩护人未就此提出辩护意见。审判长认为需要结合宋某案件进一步核实。\n\n4.量刑情节的认定。查明情况：被告人认罪认罚但未退赃，未取得被害人谅解。公诉人建议从重处罚，辩护人未提出从轻情节。审判长认为需要结合全案证据综合考量量刑。\n\n5.伪造文件行为的定性。查明情况：被告人否认出示过伪造支票等文件，与起诉书指控存在矛盾。公诉人需进一步举证，辩护人未就此发表意见。审判长认为该焦点需要进一步查明。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "诈骗罪中非法占有目的的认定标准",
+              "诈骗金额特别巨大的量刑标准"
+            ],
+            "诈骗罪中非法占有目的的认定标准": "### 结论\n在诈骗罪中，认定行为人是否具有非法占有目的，法院通常会综合考虑多个因素，包括但不限于行为人的履约能力、履约行为、事后态度、资金的去向和用途、是否具有挥霍、转移、隐匿财产的行为，以及行为人是否采取了欺诈手段等。在具体案件中，法院会根据案件的具体情况，全面分析行为人无法偿还集资款或履行合同的原因，以判断其是否具有非法占有的目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十二条**：规定了集资诈骗罪的构成要件，包括以非法占有为目的，采取虚构集资用途，以虚假的证明文件和高回报率为诱饵，未经有权机关批准，向社会公众非法募集资金，骗取集资款的行为。\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：法院会审查行为人在签订合同时是否具有履行合同的能力。例如，【（2019）沪二中刑终字第145号】中，法院认为被告人陆某在签订合同时缺乏履约能力，且无实际履约行为，事后也无承担违约责任的表现，认定其具有非法占有目的。\n- **履约行为**：法院会关注行为人在签订合同后是否采取了实际的履约行为。如【（2019）冀刑再5号】中，法院认为李某胜具有积极的履约行为，未认定其具有非法占有目的。\n- **事后态度**：行为人事后是否采取积极措施补救，如【（2019）京02刑终214号】中，法院认为被告人陈某平在收款后无归还行为，认定其具有非法占有目的。\n- **资金去向和用途**：如【（2020）鲁1524刑初148号】中，法院认为陈某某将资金用于发放高额服务费、趴点费，肆意挥霍，且转移大量资金购买虚拟币且拒不交代虚拟币下落，符合非法占有目的的认定。\n- **欺诈手段**：如【（2019）渝01刑终378号】中，法院认为被告人通过虚构事实、隐瞒真相的方法骗取他人钱财，认定其具有非法占有目的。\n\n综上，法院在认定非法占有目的时，会全面分析行为人的履约能力、履约行为、事后态度、资金去向和用途，以及是否采取了欺诈手段等，以判断行为人是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2019）京02刑终214号】：法院生效裁判认为，被告人陈某平以非法占有为目的，虚构事实骗取他人财物，其行为已构成诈骗罪，且诈骗数额巨大，依法应予惩处。被害人谭某栋、杨某蓉因陈某平虚构事实、谎称能够帮助二人承揽项目而分多笔给付陈某平共计13.95万元。关于部分钱款给付的具体名目，供证之间存在差异，但考虑到陈某平收款前不具有归还能力，收款后无归还行为，即便部分钱款采用了借款形式给付，也不影响其非法占有目的以及诈骗数额的认定。故法院依法作出如上裁判。\n【（2020）鲁1524刑初148号】：法院生效裁判认为，被告人陈某某以非法占有为目的，使用诈骗方法非法集资，数额巨大，其行为构成集资诈骗罪。关于被告人陈某某的辩护人提出“陈某某不构成集资诈骗罪，构成非法吸收公众存款罪”的辩护意见。经查，陈某某利用虚假或夸大宣传某某实业运作阿胶产业、腐殖酸产业、“洗码”业务等方式欺骗公众，在公司无任何盈利的情况下，用吸收的资金发放高额服务费、趴点费，肆意挥霍，在资金链断裂后转移大量资金购买虚拟币且拒不交代虚拟币下落，致使巨额集资款无法返还。陈某某的行为符合《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第四条第二款的规定，具有非法占有的目的，应当以集资诈骗罪定罪处罚。故法院依法作出如上裁判。",
+            "诈骗金额特别巨大的量刑标准": "### 结论\n诈骗金额特别巨大的量刑标准，根据《中华人民共和国刑法》第二百六十六条的规定，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。具体量刑时，法院会考虑犯罪数额、犯罪手段、犯罪后果、被告人的主观恶性、退赃情况、认罪态度、从犯或主犯身份、自首情节、社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：诈骗数额特别巨大是量刑的重要依据。例如，【（2023）沪02刑终1116号】、【（2019）粤08刑终220号】、【（2018）豫13刑终531号】等案例中，法院均根据诈骗数额特别巨大的事实，依法判处十年以上有期徒刑。\n- **犯罪手段**：犯罪手段的恶劣程度也会影响量刑。如【（2018）黔26刑终56号】中，上诉人王国庆隐瞒真相，骗取他人财物，法院认定其行为构成合同诈骗罪，量刑时考虑了其手段的恶劣性。\n- **退赃情况**：被告人的退赃情况是量刑时的重要考量因素。如【（2019）粤08刑终220号】中，两被告人归案后主动向部分被害人退赔经济损失，法院认为具有悔罪表现，可以从轻处罚。\n- **认罪态度**：被告人的认罪态度也会影响量刑。如【（2016）黑0203刑初275号】中，贾悦主动投案并如实供述犯罪事实，法院认定其有自首情节，可对其减轻处罚。\n- **从犯或主犯身份**：在共同犯罪中，从犯与主犯的量刑会有区别。如【（2019）粤08刑终220号】中，两被告人系从犯，法院认为应当减轻处罚。\n\n综上，诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产，但具体量刑会根据犯罪的具体情节和被告人的个人情况综合考量。\n\n#####\n类似案件为：\n【（2023）沪02刑终1116号】：《中华人民共和国刑法》第二百六十六条规定“诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。”本案中，被告人曹某以非法占有为目的，虚构事实，骗取他人钱款，数额特别巨大，其行为已构成诈骗罪。本案争议焦点为：被告人曹某被抓获时，其与其中两名被害人谢某、汤某约定的入学时间未到，所得钱款是否应计入诈骗数额。\n经查，被告人曹某虚构有能力帮助两名被害人办理子女入学事宜在先，骗取钱款在后，其与被害人约定入学的时间本质上是骗取他人财物的理由，这与其被抓获到案时请托办理事项是否到期、请托事项最终能否实现没有内在的必然联系，不影响对其行为性质的认定。且期间曹某已因采用相同手法诈骗王某一节被采取刑事强制措施，后将所骗钱款用于归还其他欠款和个人挥霍等，无任何向两名被害人还款的行为，明显反映出其主观上非法占有的故意，故相关金额应当一并计入其诈骗犯罪数额。\n【（2018）豫13刑终531号】：法院认为，庞冉、黄林中、孙成军、刘学堂以非法占有为目的，虚构事实，诈骗公私财物，数额巨大，其行为均已构成诈骗罪。庞冉、黄林中、孙成军、刘学堂在实施犯罪过程中，因意志以外的原因而未得逞，是犯罪未遂，可比照既遂犯减轻处罚；庞冉、黄林中、孙成军二审期间能主动缴纳罚金，可酌情从轻处罚。原判认定事实清楚，证据确实充分，审判程序合法，定罪准确。原审被告人刘学堂犯诈骗罪，判处有期徒刑七个月，并处罚金人民币5000元；上诉人（原审被告人）庞冉犯诈骗罪，判处有期徒刑二年，并处罚金人民币一万元；上诉人（原审被告人）黄林中犯诈骗罪，判处有期徒刑二年零六个月，并处罚金人民币一万元；上诉人（原审被告人）孙成军犯诈骗罪，判处有期徒刑一年，并处罚金人民币五千元。判决为终审判决。\n【（2018）黔26刑终56号】：法院认为，王国庆在签订、履行合同的过程中，采取隐瞒真相等欺骗手段，骗取陈某1的100万元财物，具有非法占有的目的，其行为构成合同诈骗罪。王国庆诈骗金额特别巨大，依法应处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。贵州省黔东南苗族侗族自治州中级人民法院判决，王国庆犯合同诈骗罪，判处有期徒刑四年，并处罚金五万元，责令王国庆退还陈某1100万元保证金。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.通过银行转账记录、短信照片等客观证据证实被告人张某甲虚构纪委关系实施诈骗的犯罪事实，形成完整证据链。\n2.强调诈骗金额特别巨大达1047万余元，且赃款主要用于赌博和挥霍，社会危害性严重。\n3.指出被告人冒充国家机关工作人员身份实施诈骗，属于从重处罚情节。\n\n防御策略：\n1.所有书证、物证均经公安机关依法提取，程序合法有效。\n2.29名证人证言与被害人陈述相互印证，不存在矛盾。\n3.被告人在侦查阶段供述与客观证据高度吻合，可排除刑讯逼供可能。\n4.视听资料、电子数据等证据证实被告人实施诈骗的主观故意明确。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "诈骗金额特别巨大的量刑标准",
+              "虚构国家机关工作人员身份实施诈骗的加重情节"
+            ],
+            "诈骗金额特别巨大的量刑标准": "### 结论\n诈骗金额特别巨大的量刑标准，根据《中华人民共和国刑法》第二百六十六条的规定，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。具体量刑时，法院会考虑犯罪数额、犯罪手段、犯罪后果、被告人的主观恶性、退赃情况、认罪态度、从犯或主犯身份、自首情节、社会危害性等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：诈骗数额特别巨大是量刑的重要依据。例如，【（2023）沪02刑终1116号】、【（2019）粤08刑终220号】、【（2018）豫13刑终531号】等案例中，法院均根据诈骗数额特别巨大的事实，依法判处十年以上有期徒刑。\n- **犯罪手段**：犯罪手段的恶劣程度也会影响量刑。如【（2018）黔26刑终56号】中，上诉人王国庆隐瞒真相，骗取他人财物，法院认定其行为构成合同诈骗罪，量刑时考虑了其手段的恶劣性。\n- **退赃情况**：被告人的退赃情况是量刑时的重要考量因素。如【（2019）粤08刑终220号】中，两被告人归案后主动向部分被害人退赔经济损失，法院认为具有悔罪表现，可以从轻处罚。\n- **认罪态度**：被告人的认罪态度也会影响量刑。如【（2016）黑0203刑初275号】中，贾悦主动投案并如实供述犯罪事实，法院认定其有自首情节，可对其减轻处罚。\n- **从犯或主犯身份**：在共同犯罪中，从犯与主犯的量刑会有区别。如【（2019）粤08刑终220号】中，两被告人系从犯，法院认为应当减轻处罚。\n\n综上，诈骗金额特别巨大的量刑标准为十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产，但具体量刑会根据犯罪的具体情节和被告人的个人情况综合考量。\n\n#####\n类似案件为：\n【（2023）沪02刑终1116号】：《中华人民共和国刑法》第二百六十六条规定“诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。”本案中，被告人曹某以非法占有为目的，虚构事实，骗取他人钱款，数额特别巨大，其行为已构成诈骗罪。本案争议焦点为：被告人曹某被抓获时，其与其中两名被害人谢某、汤某约定的入学时间未到，所得钱款是否应计入诈骗数额。\n经查，被告人曹某虚构有能力帮助两名被害人办理子女入学事宜在先，骗取钱款在后，其与被害人约定入学的时间本质上是骗取他人财物的理由，这与其被抓获到案时请托办理事项是否到期、请托事项最终能否实现没有内在的必然联系，不影响对其行为性质的认定。且期间曹某已因采用相同手法诈骗王某一节被采取刑事强制措施，后将所骗钱款用于归还其他欠款和个人挥霍等，无任何向两名被害人还款的行为，明显反映出其主观上非法占有的故意，故相关金额应当一并计入其诈骗犯罪数额。\n【（2018）豫13刑终531号】：法院认为，庞冉、黄林中、孙成军、刘学堂以非法占有为目的，虚构事实，诈骗公私财物，数额巨大，其行为均已构成诈骗罪。庞冉、黄林中、孙成军、刘学堂在实施犯罪过程中，因意志以外的原因而未得逞，是犯罪未遂，可比照既遂犯减轻处罚；庞冉、黄林中、孙成军二审期间能主动缴纳罚金，可酌情从轻处罚。原判认定事实清楚，证据确实充分，审判程序合法，定罪准确。原审被告人刘学堂犯诈骗罪，判处有期徒刑七个月，并处罚金人民币5000元；上诉人（原审被告人）庞冉犯诈骗罪，判处有期徒刑二年，并处罚金人民币一万元；上诉人（原审被告人）黄林中犯诈骗罪，判处有期徒刑二年零六个月，并处罚金人民币一万元；上诉人（原审被告人）孙成军犯诈骗罪，判处有期徒刑一年，并处罚金人民币五千元。判决为终审判决。\n【（2018）黔26刑终56号】：法院认为，王国庆在签订、履行合同的过程中，采取隐瞒真相等欺骗手段，骗取陈某1的100万元财物，具有非法占有的目的，其行为构成合同诈骗罪。王国庆诈骗金额特别巨大，依法应处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。贵州省黔东南苗族侗族自治州中级人民法院判决，王国庆犯合同诈骗罪，判处有期徒刑四年，并处罚金五万元，责令王国庆退还陈某1100万元保证金。",
+            "虚构国家机关工作人员身份实施诈骗的加重情节": "### 结论\n虚构国家机关工作人员身份实施诈骗，构成诈骗罪，且在量刑时作为从重处罚的情节。若行为同时构成招摇撞骗罪，应根据具体案情选择处罚较重的罪名定罪处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第二百七十九条**：冒充国家机关工作人员招摇撞骗的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节严重的，处三年以上十年以下有期徒刑。冒充人民警察招摇撞骗的，依照前款的规定从重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **冒充国家机关工作人员**：冒充国家机关工作人员实施诈骗，会从重处罚。例如，【（2021）甘1022刑再3号】中，原审被告人王某某冒充国家机关工作人员，骗取他人财物，损害国家机关的威信和正常活动，情节严重，构成诈骗罪，应当依法惩处。\n- **诈骗数额**：诈骗数额巨大或特别巨大，将影响量刑。例如，【（2020）豫12刑初8号】中，被告人刘朝繁、黄秀灿、罗宝喜等人诈骗数额特别巨大，除被侦查机关扣押车辆及现金18.5万元外，被骗款项基本未追回，对三被告人应予严惩。\n- **认罪态度**：如实供述、认罪认罚可以从轻处罚。例如，【（2021）京03刑终357号】中，被告人陈某科、吴某到案后能如实供述犯罪主要事实，系坦白，自愿认罪认罚，依法可以从轻处罚。\n- **退赃情况**：退赔被害人损失可以酌情从轻处罚。例如，【（2018）鄂01刑终705号】中，上诉人余思源的亲属代为退赔了被害人的全部经济损失并获得谅解，可酌情从轻处罚。\n\n综上，虚构国家机关工作人员身份实施诈骗，构成诈骗罪，且在量刑时作为从重处罚的情节。若行为同时构成招摇撞骗罪，应根据具体案情选择处罚较重的罪名定罪处罚。冒充国家机关工作人员、诈骗数额、认罪态度、退赃情况等都是影响判决的关键因素。\n\n#####\n类似案件为：\n【（2021）甘1022刑再3号】：法院认为，王某某冒充国家机关工作人员身份，骗取他人财物，情节严重，构成某某罪；以非法占有为目的，虚构事实、隐瞒真相，骗取他人财物，数额较大，构成诈骗罪。王某某是累犯，应从重处罚，但其自愿认罪认罚，可从宽处理。撤销原诈骗罪判决，改判王某某犯某某罪，判处有期徒刑三年，并处罚金4000元；犯诈骗罪，判处有期徒刑六个月，并处罚金2000元，决定执行有期徒刑三年三个月，并处罚金6000元。退赔各被害人相应款项，没收作案工具手机一部，发还被告人工商银行卡两张。如不服判决，可向上级法院上诉。\n【（2020）豫12刑初8号】：法院认为，刘朝繁、黄秀灿、罗宝喜等人以非法占有为目的，虚构事实，骗取他人财物，构成诈骗罪，数额特别巨大。在共同犯罪中，三人均为主犯，冒充国家机关工作人员实施诈骗，应从重处罚。鉴于罗宝喜有坦白情节，但不足以从轻处罚。被告人刘朝繁、黄秀灿、罗宝喜犯诈骗罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；责令退赔违法所得，返还被害人；扣押车辆及现金抵缴违法所得；捷豹牌轿车由扣押机关查清权属后依法处理。\n【（2021）京03刑终357号】：法院生效裁判认为：被告人陈某科、吴某冒充国家机关工作人员招摇撞骗，其二人行为已构成招摇撞骗罪，依法应予惩处。北京市朝阳区人民检察院指控被告人陈某科、吴某犯招摇撞骗罪的事实清楚，证据确实、充分，指控的罪名成立。对被告人陈某科、吴某的无罪辩解及二被告人的相关辩护意见，综合回应如下：\n1.关于“相关机构”是否为虚构。被告人陈某科、吴某及二被告人的辩护人均称“相关机构”是中国管理科学研究院金融管理战略研究中心经过合法文件设立的，故二被告人不存在虚构“相关机构”的行为。经查，在案田某强的证言及相关书证明确证实，辩方所称的“合法文件”经民警向田某强出示，田某强明确否认相关文件系中管院印发，且称中管院对此并不知情。虽然中管院授权成立了金融管理战略研究中心，但中管院并没有授权中管院金融管理战略研究中心成立国家一带一路项目运营办公室、国家金融稳定政策研究办公室、国家一带一路政策研究办公室等单位，中管院金融管理战略研究中心亦没有权力成立下属单位、办公室等机构，且陈某科于2018年6月11日被中管院解聘了在中管院的名誉秘书长及一切职务。国家发展和改革委员会的相关复函亦称该委经批准设立的带有“一带一路”字样的机构只有两家，不包括“相关机构”，陈某科等人不是国家发展和改革委员会“一带一路”相关工作机构的工作人员。故法院认定被告人陈某科、吴某虚构了“相关机构”。\n2.关于二被告人是否冒充国家机关工作人员。关于二被告人否认自己冒充国家机关工作人员及相关辩护人称“相关机构”的名称不足以使公众认为是国家机关的辩护意见，经查，在案的物证、书证及证人证言均能证明，被告人陈某科、吴某在外国人员出入密集的外交公寓租赁房屋作为办公场地，除了在办公场地门口悬挂数个“相关机构”的牌匾，还在办公室客厅、房门、内墙上多处悬挂中国共产党党旗，楼道内悬挂牌匾、客厅东墙等多处均悬挂相关牌匾。相关证人的证言和起获的名片显示，陈某科、吴某印有多种虚假身份的名片，且陈某科在社交场合亦将印有“相关机构”职位的名片给予他人，向他人介绍自己为一带一路办公室等“相关机构”的领导。陈某科在招聘职员时明确告知对方其系一带一路办公室主任，其单位属于事业单位，是发改委下属机构；吴某系一带一路办公室处长，且陈某科、吴某二人以一带一路办公室主任、秘书的身份出访他国。\n公诉机关指控的时间段，正值我国大力推进一带一路建设的时期，国家亦有“推进一带一路建设工作领导小组办公室”等真实机构，被告人陈某科、吴某在上述时间段虚构与真实机构名称类似的“国家一带一路政策研究办公室”“一带一路项目运营协调工作领导小组”等“相关机构”，冒充“相关机构”工作人员，使用名片、牌匾、相关文件的行为，侵犯了国家机关的信誉，会对相关真实国家机关对社会的正常管理活动造成侵害，降低国家及代表国家行使管理职能的国家机关在社会公众中的威信。\n3.关于是否实施招摇撞骗行为。在案证据证明被告人陈某科、吴某基于冒充的国家机关工作人员身份，对外进行社交时使用特殊证件、进行不实宣传，使得他人基于对其二人身份的信任，欲谋求经济上的合作，他人亦系基于上述诉求向被告人吴某进行转款，后被告人陈某科、吴某将所得钱款支配使用。二被告人的行为属于冒充国家机关工作人员招摇撞骗。\n综上，对二被告人的无罪辩解及辩护人的无罪辩护意见，不予采纳。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的转账记录仅能证明资金往来，无法直接证明被告人具有非法占有目的2.同案人宋某的供述存在利害关系，证明力不足\n防御策略：1.被告人在侦查阶段如实供述犯罪事实，具有坦白情节2.被告人认罪认罚，愿意接受法律制裁",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "诈骗罪中非法占有目的的认定标准",
+              "赌博债务是否可以作为减轻处罚的情节"
+            ],
+            "诈骗罪中非法占有目的的认定标准": "### 结论\n在诈骗罪中，认定行为人是否具有非法占有目的，法院通常会综合考虑多个因素，包括但不限于行为人的履约能力、履约行为、事后态度、资金的去向和用途、是否具有挥霍、转移、隐匿财产的行为，以及行为人是否采取了欺诈手段等。在具体案件中，法院会根据案件的具体情况，全面分析行为人无法偿还集资款或履行合同的原因，以判断其是否具有非法占有的目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十二条**：规定了集资诈骗罪的构成要件，包括以非法占有为目的，采取虚构集资用途，以虚假的证明文件和高回报率为诱饵，未经有权机关批准，向社会公众非法募集资金，骗取集资款的行为。\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：法院会审查行为人在签订合同时是否具有履行合同的能力。例如，【（2019）沪二中刑终字第145号】中，法院认为被告人陆某在签订合同时缺乏履约能力，且无实际履约行为，事后也无承担违约责任的表现，认定其具有非法占有目的。\n- **履约行为**：法院会关注行为人在签订合同后是否采取了实际的履约行为。如【（2019）冀刑再5号】中，法院认为李某胜具有积极的履约行为，未认定其具有非法占有目的。\n- **事后态度**：行为人事后是否采取积极措施补救，如【（2019）京02刑终214号】中，法院认为被告人陈某平在收款后无归还行为，认定其具有非法占有目的。\n- **资金去向和用途**：如【（2020）鲁1524刑初148号】中，法院认为陈某某将资金用于发放高额服务费、趴点费，肆意挥霍，且转移大量资金购买虚拟币且拒不交代虚拟币下落，符合非法占有目的的认定。\n- **欺诈手段**：如【（2019）渝01刑终378号】中，法院认为被告人通过虚构事实、隐瞒真相的方法骗取他人钱财，认定其具有非法占有目的。\n\n综上，法院在认定非法占有目的时，会全面分析行为人的履约能力、履约行为、事后态度、资金去向和用途，以及是否采取了欺诈手段等，以判断行为人是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2019）京02刑终214号】：法院生效裁判认为，被告人陈某平以非法占有为目的，虚构事实骗取他人财物，其行为已构成诈骗罪，且诈骗数额巨大，依法应予惩处。被害人谭某栋、杨某蓉因陈某平虚构事实、谎称能够帮助二人承揽项目而分多笔给付陈某平共计13.95万元。关于部分钱款给付的具体名目，供证之间存在差异，但考虑到陈某平收款前不具有归还能力，收款后无归还行为，即便部分钱款采用了借款形式给付，也不影响其非法占有目的以及诈骗数额的认定。故法院依法作出如上裁判。\n【（2020）鲁1524刑初148号】：法院生效裁判认为，被告人陈某某以非法占有为目的，使用诈骗方法非法集资，数额巨大，其行为构成集资诈骗罪。关于被告人陈某某的辩护人提出“陈某某不构成集资诈骗罪，构成非法吸收公众存款罪”的辩护意见。经查，陈某某利用虚假或夸大宣传某某实业运作阿胶产业、腐殖酸产业、“洗码”业务等方式欺骗公众，在公司无任何盈利的情况下，用吸收的资金发放高额服务费、趴点费，肆意挥霍，在资金链断裂后转移大量资金购买虚拟币且拒不交代虚拟币下落，致使巨额集资款无法返还。陈某某的行为符合《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第四条第二款的规定，具有非法占有的目的，应当以集资诈骗罪定罪处罚。故法院依法作出如上裁判。",
+            "赌博债务是否可以作为减轻处罚的情节": "### 结论\n赌博债务本身并不作为减轻处罚的情节，但被告人将诈骗所得用于偿还赌博债务或进行赌博，可能会影响量刑，通常不会因此减轻处罚，但在被告人具有自首、认罪认罚、退赔等其他从轻或减轻处罚情节时，法院可能会综合考虑这些因素，对被告人予以从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第六十七条**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与认罪认罚**：被告人如果在案发后自动投案，如实供述自己的罪行，构成自首，依法可以从轻或减轻处罚。例如，【（2024）鄂1182刑初210号】、【（2020）粤0113刑初955号】、【（2023）陕0725刑初121号】中，被告人因自首和认罪认罚而获得从轻或减轻处罚。\n- **退赔与谅解**：被告人如果在案发后主动退赔被害人损失，并取得被害人谅解，可以酌情从轻处罚。例如，【（2023）陕0725刑初121号】、【（2022）鲁1721刑初97号】中，被告人因退赔和取得谅解而获得从轻处罚。\n- **赌博债务的性质**：将诈骗所得用于偿还赌博债务或进行赌博，通常不会作为减轻处罚的情节，但可能会影响量刑的考量。例如，【（2024）鄂1182刑初210号】中，被告人将骗取的资金用于网络赌博和偿还个人债务，法院认为不宜减轻处罚，但考虑到自首和认罪认罚情节，予以从轻处罚。\n\n综上，赌博债务本身不构成减轻处罚的理由，但在被告人具有自首、认罪认罚、退赔等其他从轻或减轻处罚情节时，法院会综合考虑这些因素，对被告人予以从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2024）鄂1182刑初210号】：法院认为，田某以非法占有为目的，虚构事实，骗取他人财物，数额特别巨大，其行为构成诈骗罪。田某虽有自首情节，但将骗取的资金用于网络赌博和偿还个人债务，不宜减轻处罚，予以从轻处罚。其认罪认罚，可以从宽处理。田某犯诈骗罪，判处有期徒刑十二年，并处罚金人民币十万元，责令田某退赔被害人于某、李某甲、刘某娟经济损失共计1346.5653万元。\n【（2023）陕0725刑初121号】：法院认为，邹某某以非法占有为目的，隐瞒真相，虚构事实，诈骗他人资金，数额巨大，其行为构成诈骗罪。鉴于邹某某有自首情节，积极退赔损失，取得被害人谅解，且自愿认罪认罚，依法可以减轻处罚。辩护人关于减轻处罚的建议予以采纳，但不适用缓刑。勉县人民法院判决邹某某犯诈骗罪，判处有期徒刑二年六个月，并处罚金20000元。作案工具手机及银行卡依法没收。判决生效后，邹某某若不服，可在规定期限内上诉。\n【（2023）陕0725刑初121号】：法院认为，邹某某以非法占有为目的，隐瞒真相，虚构事实，诈骗他人资金，数额巨大，其行为构成诈骗罪。鉴于邹某某有自首情节，积极退赔损失，取得被害人谅解，且自愿认罪认罚，依法可以减轻处罚。辩护人关于减轻处罚的建议予以采纳，但不适用缓刑。勉县人民法院判决邹某某犯诈骗罪，判处有期徒刑二年六个月，并处罚金20000元。作案工具手机及银行卡依法没收。判决生效后，邹某某若不服，可在规定期限内上诉。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人在侦查阶段如实供述犯罪事实，具有坦白情节，可依法从轻处罚 2.部分赃款已由同案人宋某等人退赔，减轻了社会危害性 3.被告人因赌博和债务压力实施犯罪，主观恶性相对较小 4.对指控的基本事实认罪认罚，但需澄清部分金额的诈骗故意 5.强调被告人在后期未继续实施新的诈骗行为，犯罪情节相对可控",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人张某甲是否具有非法占有的主观故意。查明情况：被告人已承认虚构纪委关系、伪造身份等行为，并供述将骗取资金用于赌博和挥霍。公诉人通过讯问确认了其非法占有目的，辩护人虽对部分证据关联性提出异议但未否认基本事实。审判长认为该焦点已查明清楚。\n\n2.诈骗金额的准确认定问题。查明情况：被告人确认起诉书指控的1047万元金额无误，并详细说明了资金去向。公诉人提供了转账记录等书证佐证，辩护人未对金额提出实质性质疑。审判长认为该焦点已基本查明。\n\n3.共同犯罪中宋某的责任认定。查明情况：被告人供述了与宋某的分工情况，宋某主要负责冒充\"肖某甲\"身份。公诉人确认宋某另案处理，辩护人未就此提出辩护意见。审判长认为需要结合宋某案件进一步核实共同犯罪的具体分工和收益分配情况。\n\n4.量刑情节的认定。查明情况：被告人认罪认罚但未退赃，未取得被害人谅解。公诉人建议从重处罚，辩护人未提出从轻情节。审判长认为需要进一步查明被告人是否有自首、坦白等法定从轻情节。\n\n5.伪造金融票证行为的定性。查明情况：被告人否认出示过伪造支票等文件，与起诉书指控存在矛盾。公诉人需进一步举证证明被告人伪造支票的具体情况，辩护人未就此发表意见。审判长认为该焦点需要进一步查明。\n\n6.资金用途的查证情况。查明情况：被告人供述将资金用于赌博和偿还债务，但赌博部分缺乏直接证据。公诉人提供了部分消费记录佐证，辩护人对证据关联性提出异议。审判长认为需要进一步核实资金具体流向。\n\n7.被害人经济损失的挽回情况。查明情况：同案人宋某等人已退赔部分款项，但被告人未退赃且未与被害人达成和解。公诉人强调该情节应从重处罚，辩护人未提出异议。审判长认为该焦点已基本查明。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证实被告人虚构纪委关系骗取被害人1047万余元的事实。被告人和辩护人均无异议。\n\n2. 公诉人出示付某甲转账给张某甲的八笔汇款明细（共计945万），辩护人提出异议，认为转账记录无法直接证明被告人具有非法占有的主观故意。公诉人回应称转账记录与被告人的供述相互印证。\n\n3. 公诉人出示宋某发给付某甲的短信照片、股权转让协议等书证，辩护人提出异议，认为无法直接证明被告人具有诈骗的主观故意。公诉人指出伪造的1000万元转账支票照片直接证明被告人实施欺诈行为。\n\n4. 公诉人出示张某甲冒充付某甲签名的授权协议等书证，辩护人提出异议。公诉人回应该证据直接证明被告人实施欺诈行为。\n\n5. 公诉人出示张某甲银行卡POS机消费记录等书证，辩护人提出异议。公诉人指出大额消费记录与诈骗所得资金流向直接相关。\n\n6. 公诉人出示多组银行交易记录，辩护人提出异议。公诉人回应交易记录与被害人转账记录相互印证。\n\n7. 公诉人出示宋某的支付宝、微信转账记录，辩护人提出异议。公诉人指出转账记录与被告人供述相互印证。\n\n8. 公诉人出示证人江某、李某的证言，辩护人提出异议。公诉人回应证言与被告人供述相互印证。\n\n9. 公诉人出示证人黄某乙的证言，辩护人提出异议。公诉人指出该证言证实被告人虚构\"中纪委赵某\"骗取钱款。\n\n10. 公诉人出示同案人宋某的供述，辩护人提出异议。公诉人回应供述与被告人供述相互印证。\n\n11. 辩护人表示没有证据需要出示，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "虚构纪委关系骗取钱财的诈骗案件量刑标准",
+              "共同诈骗犯罪中主从犯的认定标准"
+            ],
+            "虚构纪委关系骗取钱财的诈骗案件量刑标准": "### 结论\n虚构纪委关系骗取钱财的诈骗案件量刑标准，主要依据《中华人民共和国刑法》第二百六十六条，诈骗罪的量刑根据诈骗数额的大小、是否构成累犯、被告人的认罪态度、退赃情况以及对被害人的赔偿情况等因素综合考量。数额巨大或特别巨大，以及有其他严重情节的，将面临更重的刑罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：诈骗数额的大小直接影响量刑的轻重。例如，【（2017）苏02刑终453号】中，被告人钟嘉宝因诈骗数额巨大，被判处有期徒刑四年六个月，并处罚金人民币50000元。\n- **是否构成累犯**：如果被告人在前罪刑罚执行完毕后五年内再犯应当判处有期徒刑以上刑罚之罪，将被认定为累犯，依法应当从重处罚。例如，【（2016）京02刑终78号】中，被告人李鹏因系累犯，被从重处罚。\n- **认罪态度**：被告人的认罪态度也是量刑时考虑的因素之一。例如，【（2023）湘3123刑初102号】中，被告人杨某因自首并如实供述犯罪事实，可以从轻处罚。\n- **退赃情况**：被告人是否退赔被害人的经济损失，以及退赔的数额，也会影响量刑。例如，【（2020）冀01刑终149号】中，上诉人高立潮在立案前退回的13000元人民币，应从犯罪数额中扣除，量刑时予以考虑。\n- **对被害人的赔偿情况**：被告人是否赔偿被害人损失，以及是否取得被害人的谅解，也会影响量刑。例如，【（2024）浙0783刑初391号】中，被告人吕某1因已退赔被害人损失并取得部分被害人的谅解，予以从轻处罚。\n\n综上，虚构纪委关系骗取钱财的诈骗案件量刑，法院会综合考虑诈骗数额、是否构成累犯、被告人的认罪态度、退赃情况以及对被害人的赔偿情况等因素，依法作出判决。\n\n#####\n类似案件为：\n【（2023）湘3123刑初102号】：法院认为，被告人杨某虚构事实，骗取他人财物，数额巨大，其行为构成诈骗罪。鉴于杨某主动投案并如实供述，系自首，且自愿认罪认罚，可以从轻处罚和从宽处理。公诉机关量刑建议适当。凤凰县人民法院判决被告人杨某犯诈骗罪，判处有期徒刑四年，并处罚金人民币50000元，违法所得176903.66元依法追缴，发还被害人田某1。\n【（2020）冀01刑终149号】：法院认为，被告人高立潮虚构事实，以非法占有为目的，骗取他人钱财，其行为已构成诈骗罪。虽辩称未实施诈骗行为，但其虚构关系、拒不返还的行为，符合诈骗罪的构成要件。对退还朱某的1.3万元予以认定，从犯罪数额中扣除。被告人高立潮犯诈骗罪，判处有期徒刑三年零三个月，并处罚金人民币二万元；责令高立潮退赔违法所得人民币八万七千元，其中任某五万元，朱某三万七千元，发还被害人。\n【（2024）浙0783刑初391号】：法院认为，被告人吕某1以非法占有为目的，采用虚构事实、隐瞒真相的手段骗取他人财物，数额巨大，其行为已构成诈骗罪。鉴于吕某1自愿认罪认罚，系坦白，已退赔被害人损失并取得部分被害人谅解，可以从轻处罚。东阳市人民法院判决被告人吕某1犯诈骗罪，判处有期徒刑四年三个月，并处罚金人民币二万元。扣押在案的手机一部，发还被告人。如不服本判决，可在接到判决书的第二日起十日内通过本院或者直接向浙江省金华市中级人民法院提出上诉。",
+            "共同诈骗犯罪中主从犯的认定标准": "### 结论\n在共同诈骗犯罪中，主从犯的认定需综合考虑各被告人在犯罪中的地位、作用、参与程度、犯罪收益分配、犯罪行为的主导性以及对犯罪结果的贡献度。直接实施诈骗行为、提出犯意、策划、组织、指挥或在犯罪中起主要作用的，通常认定为主犯；而仅参与部分犯罪环节、起次要或辅助作用、获益较小的，通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十六条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪行为的主导性**：直接实施诈骗行为、提出犯意、策划、组织、指挥的，通常认定为主犯。例如，【（2017）青0122刑初225号】中，李某某虽未直接实施盗割电缆线的行为，但因事前共谋、纠集人员，对犯罪的顺利实施起到主要作用，被认定为主犯。\n- **犯罪收益的分配**：犯罪收益的主要获取者通常认定为主犯。例如，【（2019）鄂08刑终65号】中，曾亚洲因负责公司日常管理、指挥他人实施违法活动并占有公司盈利的四成收益，被认定为主犯。\n- **犯罪行为的参与程度**：参与了犯罪的全过程或关键环节的，通常认定为主犯。例如，【（2014）穗中法刑二终字第576号】中，叶某、翁某虽未实际控制或分得赃款，但因让被害人将款项转至指定账户并主动到公安机关说明情况，配合侦破案件，被认定为从犯。\n- **犯罪行为的次要或辅助作用**：仅参与部分犯罪环节、起次要或辅助作用、获益较小的，通常认定为从犯。例如，【（2017）粤17刑终51号】中，赖进杰、陈冠安、邵雄星、邵日生、邵珠源、邵嘉伟、刘雄添、梁兴隆在诈骗犯罪中，根据各自拨打诈骗电话的次数和诈骗金额，分别被认定为主犯或从犯。\n\n综上，共同诈骗犯罪中主从犯的认定需综合考虑各被告人在犯罪中的地位、作用、参与程度、犯罪收益分配以及对犯罪结果的贡献度，以确保罚当其罪。\n\n#####\n类似案件为：\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2019）鄂08刑终65号】：法院认为，曾亚洲、李昂、敖群利等被告人以非法占有为目的，虚构事实或隐瞒真相，实施电信网络诈骗，情节严重或特别严重，构成诈骗罪。曾亚洲在共同犯罪中起主要作用，系主犯，犯诈骗罪情节特别严重，应在十年以上量刑，但归案后认罪认罚，可从轻处罚。李昂情节特别严重，认定为从犯，可减轻处罚。敖群利等人在共同犯罪中起次要作用，认定为从犯，可减轻处罚。敖群利、李**、胡娇、陈玲、邹红、陆燕娥、熊兵、张兵、施李伟归案后如实供述，可从轻处罚，且积极退缴违法所得、缴纳罚金，可酌情从轻处罚。曾亚洲犯诈骗罪，判处有期徒刑十年，并处罚金人民币15万元；李昂犯诈骗罪，判处有期徒刑四年六个月，并处罚金人民币10万元；敖群利等其他被告人分别被判处有期徒刑缓刑及相应罚金。对违法所得49.0392万元予以追缴，对犯罪工具予以没收。\n【（2014）穗中法刑二终字第576号】：法院认为，叶某、翁某结伙诈骗公民财物，数额巨大，其行为均已构成诈骗罪。在共同诈骗犯罪中，二人让被害人将款项转至指定账户，并未实际控制或分得赃款，且主动到案，配合侦破案件，可认定为从犯，依法应当减轻处罚。广州市中级人民法院判决，叶某犯诈骗罪，判处有期徒刑二年三个月，并处罚金人民币一万元；翁某犯诈骗罪，判处有期徒刑二年一个月，并处罚金人民币一万元；责令叶某、翁某退赔被害人郭惠燕经济损失13万元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人在侦查阶段的供述、银行转账记录、伪造支票等客观证据，形成完整证据链证实被告人虚构纪委关系实施诈骗的犯罪事实。2.强调诈骗金额达1047万余元，且赃款主要用于赌博和挥霍，社会危害性严重，符合\"数额特别巨大\"标准。3.指出被告人冒充国家机关工作人员身份实施诈骗，属于从重处罚情节，应依法严惩。\n\n防御策略：1.所有书证、物证均经公安机关依法提取，程序合法有效，证据来源可靠。2.29名证人证言与被害人陈述相互印证，不存在矛盾，证明力充分。3.被告人在侦查阶段供述与客观证据高度吻合，可排除刑讯逼供可能，供述真实可信。4.视听资料、电子数据等证据证实被告人实施诈骗的主观故意明确，证据关联性强。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证实被告人虚构纪委关系骗取被害人1047万余元的事实。被告人和辩护人均无异议。\n\n2. 公诉人出示付某甲转账给张某甲的八笔汇款明细（共计945万），辩护人提出异议，认为转账记录无法直接证明被告人具有非法占有的主观故意。公诉人回应称转账记录与被告人的供述相互印证。\n\n3. 公诉人出示宋某发给付某甲的短信照片、股权转让协议等书证，辩护人提出异议，认为无法直接证明被告人具有诈骗的主观故意。公诉人指出伪造的1000万元转账支票照片直接证明被告人实施欺诈行为。\n\n4. 公诉人出示张某甲冒充付某甲签名的授权协议等书证，辩护人提出异议。公诉人回应该证据直接证明被告人实施欺诈行为。\n\n5. 公诉人出示张某甲银行卡POS机消费记录等书证，辩护人提出异议。公诉人指出大额消费记录与诈骗所得资金流向直接相关。\n\n6. 公诉人出示多组银行交易记录，辩护人提出异议。公诉人回应交易记录与被害人转账记录相互印证。\n\n7. 公诉人出示宋某的支付宝、微信转账记录，辩护人提出异议。公诉人指出转账记录与被告人供述相互印证。\n\n8. 公诉人出示证人江某、李某的证言，辩护人提出异议。公诉人回应证言与被告人供述相互印证。\n\n9. 公诉人出示证人黄某乙的证言，辩护人提出异议。公诉人指出该证言证实被告人虚构\"中纪委赵某\"骗取钱款。\n\n10. 公诉人出示同案人宋某的供述，辩护人提出异议。公诉人回应供述与被告人供述相互印证。\n\n11. 辩护人表示没有证据需要出示，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "虚构国家机关工作人员身份实施诈骗的典型案例及量刑标准",
+              "诈骗金额特别巨大的认定标准及量刑指导意见"
+            ],
+            "虚构国家机关工作人员身份实施诈骗的典型案例及量刑标准": "### 结论\n虚构国家机关工作人员身份实施诈骗，构成诈骗罪，量刑标准根据诈骗数额的大小而定，数额较大处三年以下有期徒刑、拘役或者管制，并处或单处罚金；数额巨大处三年以上十年以下有期徒刑，并处罚金；数额特别巨大处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。冒充国家机关工作人员实施诈骗，还可能构成招摇撞骗罪，择一重罪处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第二百七十九条**：冒充国家机关工作人员招摇撞骗的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节严重的，处三年以上十年以下有期徒刑。冒充人民警察招摇撞骗的，依照前款的规定从重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：诈骗数额的大小直接影响量刑标准。例如，【（2016）兵08刑终26号】中，上诉人马国新诈骗27万元，数额巨大，构成诈骗罪。【（2019）鄂28刑终186号】中，上诉人向云贵诈骗51600元，数额巨大，构成诈骗罪。\n- **冒充国家机关工作人员**：冒充国家机关工作人员实施诈骗，可能同时构成诈骗罪和招摇撞骗罪，择一重罪处罚。例如，【（2018）川0114刑初479号】中，被告人唐云某等九人冒充人民警察，骗取他人财物16万余元，构成招摇撞骗罪，且属情节严重。\n- **诈骗手段**：诈骗手段的恶劣程度也会影响量刑。例如，【（2018）鄂01刑终705号】中，上诉人余思源冒充国家机关工作人员，通过拨打电话对不特定老年人多次实施诈骗，从重处罚。\n\n综上，虚构国家机关工作人员身份实施诈骗，构成诈骗罪，量刑标准根据诈骗数额的大小而定，同时考虑冒充国家机关工作人员的情节和诈骗手段的恶劣程度，可能构成招摇撞骗罪，择一重罪处罚。\n\n#####\n类似案件为：\n【（2016）兵08刑终26号】：法院认为，马国新以非法占有为目的，通过虚构事实骗取他人财物，数额巨大，其行为构成诈骗罪。虽马国新出具了借条，但事后拒不退还，表明其有非法占有的目的。马国新是否将款项转交他人不影响对其诈骗行为的定性。马国新亲属支付的4万元应视为部分退赃。马国新犯诈骗罪，判处有期徒刑六年，并处罚金人民币二万元，责令马国新给被害人李××退赔人民币二十三万元。\n【（2019）鄂28刑终186号】：法院认为，被告人向云贵以非法占有为目的，虚构事实，冒充国家机关工作人员骗取他人钱款共计人民币51600元，数额巨大，其行为构成诈骗罪。向云贵冒充国家机关工作人员实施诈骗，诈骗老年人财物，多次实施诈骗，依法从重处罚；到案后如实供述犯罪事实，可从轻处罚；因治病而实施诈骗，可酌情从轻处罚。原审判决认定事实清楚，审判程序合法，但量刑不当，一审虽认定向云贵如实供述犯罪事实情节，但在量刑时未按量刑规范化标准适当减少刑罚量。二审纠正一审量刑不当，考虑向云贵的犯罪事实、性质、情节及社会危害性，判决向云贵犯诈骗罪，判处有期徒刑五年，并处罚金人民币10000元，追缴违法所得人民币51600元发还各被害人，手机和卡由公安机关处理。\n【（2018）鄂01刑终705号】：法院认为，被告人余思源以非法占有为目的，冒充国家机关工作人员，采取虚构事实的方式，多次骗取他人钱财，数额巨大，其行为构成诈骗罪。鉴于余思源具有坦白情节，亲属代为退赔并获谅解，依法从轻处罚。但冒充国家机关工作人员，针对老年人多次实施诈骗，社会危害性较大，需从重处罚。法院判决被告人余思源犯诈骗罪，判处有期徒刑五年三个月，并处罚金人民币五万元。",
+            "诈骗金额特别巨大的认定标准及量刑指导意见": "### 结论\n诈骗金额特别巨大的认定标准及量刑指导意见主要依据最高人民法院、最高人民检察院的相关解释，诈骗公私财物价值五十万元以上的，应当认定为刑法第二百六十六条规定的“数额特别巨大”。对于诈骗数额特别巨大的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。在量刑时，法院会综合考虑犯罪手段、情节、造成的实际损失以及被告人的认罪态度、退赔情况等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定了诈骗罪的构成要件及量刑标准，其中“数额特别巨大”对应的是十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产的刑罚。\n- **最高人民法院、最高人民检察院《关于办理诈骗刑事案件具体应用法律若干问题的解释》第一条**：明确了诈骗公私财物价值五十万元以上的，应当认定为“数额特别巨大”。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额的认定**：在【（2020）川01刑终767号】中，法院强调了诈骗数额的认定应当以行为人实际骗取的数额为准，同时考虑被害人的实际损失。在【（2020）粤0304刑初1297号】中，法院也指出诈骗数额特别巨大是构成诈骗罪的重要因素。\n- **量刑时的考量因素**：在【（2020）粤09刑终148号】中，法院在量刑时考虑了被告人的地位、作用、认罪态度以及参与诈骗的时间和金额。在【（2019）粤08刑终220号】中，法院也提到了量刑时会考虑被告人的具体犯罪情节、作用、社会危害性以及是否主动退赔等因素。\n- **诈骗手段和情节**：在【（2018）渝01刑终85号】中，法院认为诈骗手段和情节是量刑的重要考量因素，尤其是诈骗数额特别巨大时，即使有自首情节，也可能不减轻处罚。\n\n综上，诈骗金额特别巨大的认定和量刑是一个综合考量的过程，不仅要看诈骗的数额，还要考虑犯罪手段、情节、造成的实际损失以及被告人的认罪态度、退赔情况等多方面因素。\n\n#####\n类似案件为：\n【（2020）川01刑终767号】：法院认为，蒲希以非法占有为目的，虚构事实，骗取他人财物，数额特别巨大，构成诈骗罪。蒲希在无偿还能力情况下，虚构事实，骗取被害人的款项均计入诈骗数额。蒲希供述与客观证据证实其未实际履行购销合同，且钱款用于归还个人欠款。蒲希的诈骗数额特别巨大，综合考虑犯罪手段、情节和实际损失，原判量刑适当。维持成都市龙泉驿区人民法院对蒲希犯诈骗罪，判处有期徒刑十一年，并处罚金人民币二万元的判决；撤销原判关于退赔数额的部分，改判对蒲希的违法所得予以追缴，发还被害人，不足部分责令退赔，其中陈某1、周某损失847151.09元，廖某、陈某2损失381868.8元。\n【（2020）粤0304刑初1297号】：法院认为，被告人麦日贵无视国家法律，诈骗他人财物，数额特别巨大，其行为构成诈骗罪。鉴于被告人认罪认罚，可从轻处罚。公诉机关量刑建议合理，予以采纳。被告人诈骗数额特别巨大，应依法严惩，但考虑其认罪态度及年龄因素，酌情从轻。被告人麦日贵犯诈骗罪，判处有期徒刑十年，并处罚金人民币五万元；责令被告人麦日贵向被害人刘某深退赔港币105万元；公安机关扣押的物品发还被告人。如不服判决，可在规定期限内向深圳市中级人民法院上诉。\n【（2020）粤09刑终148号】：法院认为，黄某发、韦某吉诈骗数额特别巨大；孙某双、吴某祥、邓某浩、郭某太子、张某勇、石某聪、李某萍、朱某镇、李某倩、黄某志、郭某锋、梁某威、刘某才、郭某大诈骗数额巨大。各被告人均是从犯，应从轻或减轻处罚；均如实供述犯罪行为，可从轻处罚；结合各被告人在团伙中的职位、入职时间和参与的诈骗金额综合量刑。孙某双退赔损失并取得谅解，可酌情从轻处罚。李某倩参与犯罪时未成年，应从轻或减轻处罚。刘某才系累犯，应从重处罚。法院判决黄某发犯诈骗罪，判处有期徒刑十年，并处罚金人民币二万元；韦某吉、孙某双、吴某祥、邓某浩、郭某太子、张某勇、石某聪、李某萍、朱某镇、黄某志、郭某锋、梁某威、刘某才、郭某大分别犯诈骗罪，判处有期徒刑九年至二年三个月，并处罚金；继续追缴诈骗所得1090773.13元。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.强调转账记录仅能证明资金往来，无法直接证明被告人具有非法占有目的2.指出同案人宋某的供述存在利害关系，证明力不足3.质疑部分证人证言与诈骗行为的直接关联性不足4.指出部分书证仅反映正常商业往来，不能证明诈骗故意\n\n防御策略：1.强调被告人在侦查阶段如实供述犯罪事实，具有坦白情节2.指出被告人认罪认罚，愿意接受法律制裁",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证实被告人虚构纪委关系骗取被害人1047万余元的事实。被告人和辩护人均无异议。\n\n2. 公诉人出示付某甲转账给张某甲的八笔汇款明细（共计945万），辩护人提出异议，认为转账记录无法直接证明被告人具有非法占有的主观故意。公诉人回应称转账记录与被告人的供述相互印证。\n\n3. 公诉人出示宋某发给付某甲的短信照片、股权转让协议等书证，辩护人提出异议，认为无法直接证明被告人具有诈骗的主观故意。公诉人指出伪造的1000万元转账支票照片直接证明被告人实施欺诈行为。\n\n4. 公诉人出示张某甲冒充付某甲签名的授权协议等书证，辩护人提出异议。公诉人回应该证据直接证明被告人实施欺诈行为。\n\n5. 公诉人出示张某甲银行卡POS机消费记录等书证，辩护人提出异议。公诉人指出大额消费记录与诈骗所得资金流向直接相关。\n\n6. 公诉人出示多组银行交易记录，辩护人提出异议。公诉人回应交易记录与被害人转账记录相互印证。\n\n7. 公诉人出示宋某的支付宝、微信转账记录，辩护人提出异议。公诉人指出转账记录与被告人供述相互印证。\n\n8. 公诉人出示证人江某、李某的证言，辩护人提出异议。公诉人回应证言与被告人供述相互印证。\n\n9. 公诉人出示证人黄某乙的证言，辩护人提出异议。公诉人指出该证言证实被告人虚构\"中纪委赵某\"骗取钱款。\n\n10. 公诉人出示同案人宋某的供述，辩护人提出异议。公诉人回应供述与被告人供述相互印证。\n\n11. 辩护人表示没有证据需要出示，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第六十七条第三款",
+              "中华人民共和国刑法第六十二条"
+            ],
+            "中华人民共和国刑法第六十二条": "犯罪分子具有本法规定的从重处罚、从轻处罚情节的，应当在法定刑的限度以内判处刑罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "诈骗罪中如何认定非法占有目的",
+              "认罪认罚从宽制度在诈骗案件中的适用"
+            ],
+            "诈骗罪中如何认定非法占有目的": "### 结论\n在诈骗罪中，认定非法占有目的需要综合考虑行为人的履约能力、履约行为、事后态度、资金去向和用途、是否隐匿或挥霍财产、以及行为人事后是否积极采取补救措施等因素。行为人使用真实身份签订合同，客观上具备履约能力，并有积极履行合同的行为，即使未全额支付货款，但不能排除其抗辩理由的正当性，且不存在挥霍、隐匿财产等情形的，不能轻易认定其具有非法占有目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）冀刑再5号】中，法院认为原审被告人李某胜作为实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份，且有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n- **履约行为**：行为人在签订合同后是否采取了积极的履约行为。例如，【（2019）冀刑再5号】中，李某胜在收到焦炭后，均用于公司生产，且在争议发生后，与对方协商并支付了部分款项，显示了积极的履约行为。\n- **事后态度**：行为人在合同不能履行后是否采取了积极的补救措施。例如，【（2020）冀刑再3号】中，肖军在借款后仍从事经营活动，未携款潜逃，且客观上有一定还款行为，原判认定肖军以非法占有为目的实施诈骗行为的事实不清，证据不充分。\n- **资金去向和用途**：行为人取得的财物是否用于正当用途，如生产经营，还是用于非法活动、个人挥霍等。例如，【（2019）渝01刑终378号】中，法院认为被告人将大部分资金用于投资或生产经营活动，而将少量资金用于个人消费或者挥霍的，不应仅以此便认定具有非法占有的目的。\n- **是否隐匿或挥霍财产**：行为人是否将取得的财物隐匿、转移或挥霍。例如，【（2019）京02刑终214号】中，法院认为被告人陈某平在公司无任何盈利的情况下，用吸收的资金发放高额服务费、趴点费，肆意挥霍，在资金链断裂后转移大量资金购买虚拟币且拒不交代虚拟币下落，致使巨额集资款无法返还，符合非法占有的目的。\n\n综上，认定非法占有目的需要全面分析行为人在签订、履行合同过程中的行为，以及合同不能履行后的行为，不能仅凭结果推定，而应结合行为人的主观意图和客观行为综合判断。\n\n#####\n类似案件为：\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2020）冀刑再3号】：河北高院认为，诈骗罪是指以非法占有为目的，采用虚构事实或隐瞒真相的方法，骗取数额较大的公私财物的行为。本罪与民事纠纷区别的根本点在于行为人主观上是否有非法占有的目的。在本案中，肖军向张进军借款300万元未全部清偿的事实清楚。虽然肖军在向张进军借款时公司确实存在资金缺口，但其在借款时以真实身份出具了借条；肖军在借款时的资产状况侦查机关未进行审计，其在借款时是否具有履约能力的事实不清；肖军在借款后仍从事经营活动，未携款潜逃，且客观上有一定还款行为，原判认定肖军以非法占有为目的实施诈骗行为的事实不清，证据不充分。对肖军及辩护人所提认定其犯诈骗罪事实不清、证据不足的辩护意见与检察机关所提肖军具有非法占有目的证据不足的出庭意见予以采纳。经河北高院审判委员会讨论决定，依照《中华人民共和国刑法》第二百六十六条、《中华人民共和国刑事诉讼法》第二百五十六条第一款及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第三百八十九条第二款之规定，判决：一、撤销沧州中院（2018）冀09刑终462号刑事裁定与沧州市运河区人民法院（2018）冀0903刑初49号刑事判决；二、原审被告人肖军无罪。\n根据刑法第263条规定，诈骗罪是指以非法占有为目的，采用虚构事实、隐瞒真相的方法骗取他人财物，数额较大的行为。\n（一）关于被告人采用的欺诈手段\n在本案中，肖军供称其系因资金周转向张进军借款，未虚构“踢走小股东”等借款理由，但根据被害人张进军陈述、证人胡旭阳证言，被告人肖军称因公司想上新项目，但有个小股东不同意，所以想把这个小股东的股权收回来，顺利推进新项目为由向张进军借款，虽然肖军为张进军出具的借条未写明借款事由等内容，但根据相关证据可以认定被告人肖军虚构借款事由的基本事实。虽然肖军虚构了借款事由，但对于借款行为整体而言并非具有绝对否定性作用，对还款行为不存在根本性影响，应属于民事欺诈。\n（二）关于主观上以非法占有为目的\n民间借贷行为中，行为人虚构借款事由向他人借款，但以真实身份出具借条，具有一定履约能力，亦未携款逃匿，虽未如约还款，但原判未对被告人履约能力等相关证据查清，认定被告人以非法占有为目的证据不充分，不应认定为刑事犯罪。\n在本案中，根据本案相关证据，肖军在向张进军借款300万元时，其任咖喱盒子公司董事长，该公司正在运营中，侦查机关未对该公司的市值进行审计；其辩称房产抵押后的残值以及其它资产、对外债权足以还清300万元借款，侦查机关亦未对其资产总体情况进行审计，肖军在向张进军借款时是否具有履约能力的事实不清。肖军向张进军借款后，仍在从事经营活动，并未携款潜逃。肖军与张进军签订的股权转让协议书证实，其在借款到期后，将其拥有的清大餐研商务俱乐部（北京）有限公司全部出资转让给张进军，客观上有一定的还款行为。虽然在借款用途上肖军存在虚构的行为，但综合本案分析，原判认定肖军以非法占有为目的实施诈骗行为的事实不清，证据不充分。\n（三）关于被告人行为的社会危害性\n犯罪行为不仅应具有刑事违法性，还应具有社会危害性。在刑法上将某种行为认定为违法，必须具备一定严重程度值得处罚的违法性。刑法之所以把诈骗行为规定为犯罪，是因为这种行为严重侵犯他人财产权益，犯罪分子骗取他人财产或者隐匿了身份、住址，或者没有留下被害人主张权利的证据，或者将骗取的财产挥霍、藏匿等，被害人无法通过正常的民事救济途径维护其权益，不采用刑事手段制裁不足以维护正常的社会秩序。根据刑法谦抑性原则，欺骗行为造成的损失能够通过民事途径进行救济的，一般不宜认定为诈骗罪。\n在本案中，肖军未如约还款后，张进军向沧州市运河区人民法院起诉肖军民间借贷纠纷一案，判决肖军偿还原告张进军借款本金300万元及相应利息。判决生效后该案进入执行程序，该院已扣划肖军执行款331161.17元。肖军主张其现有资产足以清偿该债务，但需变现时间，其造成的损失可以通过民事诉讼予以救济，社会关系亦能予以修复，不按照犯罪处理符合刑法谦抑性原则。\n综上，河北高院再审对肖军改判无罪。沧州市运河区人民法院审理沧州市运河区人民检察院指控原审被告人肖军犯诈骗罪一案，于2017年9月15日作出（2017）冀0903刑初185号刑事判决书，判决被告人肖军犯诈骗罪，判处有期徒刑十二年。肖军不服，提出上诉，沧州市中级人民法院于2017年12月4日以（2017）冀09刑终562号刑事裁定书，撤销原判，发回沧州市运河区人民法院重新审判。该院另行组成合议庭于2018年7月4日作出（2018）冀0903刑初49号刑事判决，判决被告人肖军犯诈骗罪，判处有期徒刑十二年。肖军不服，提起上诉，沧州市中级人民法院于2018年9月19日作出（2018）冀09刑终462号刑事裁定，驳回上诉，维持原判。裁判发生法律效力后，肖军之母王菊芬不服，提出申诉。沧州市中级人民法院于2019年1月24日以（2019）冀09刑申14号驳回申诉通知书，驳回其申诉。王菊芬仍不服，向河北省高级人民法院提出申诉。该院于2019年11月26日作出（2019）冀刑申90号再审决定书，提审本案。2020年10月30日，该院作出（2020）冀刑再3号刑事判决，对肖军改判无罪。",
+            "认罪认罚从宽制度在诈骗案件中的适用": "### 结论\n认罪认罚从宽制度在诈骗案件中的适用，关键在于被告人的认罪态度、是否如实供述、是否愿意接受处罚、是否赔偿被害人损失以及取得谅解等因素。法院在量刑时会综合考虑这些因素，对被告人依法从轻或从宽处罚。\n\n### 核心法条\n- **《中华人民共和国刑事诉讼法》第174条**：规定犯罪嫌疑人认罪认罚的，应当在辩护人或者值班律师在场的情况下签署认罪认罚具结书。\n- **《中华人民共和国刑事诉讼法》第288条**：规定被告人认罪认罚的，审判长应当告知被告人享有的诉讼权利和认罪认罚的法律后果，审查认罪认罚的自愿性和认罪认罚具结书内容的真实性、合法性。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪态度**：被告人是否自愿认罪，是否在侦查、审查起诉或审判阶段主动认罪。例如，【（2021）粤0105刑初756号】、【（2020）粤0105刑初554号】、【（2021）鲁0502刑初104号】中，法院均认为被告人自愿认罪认罚，依法从轻或从宽处罚。\n- **如实供述**：被告人是否如实供述自己的罪行，是否承认指控的主要犯罪事实。如【（2017）粤0105刑初910号】、【（2019）粤0105刑初488号】中，法院认为被告人有坦白情节，依法从轻处罚。\n- **赔偿与谅解**：被告人是否赔偿被害人损失，是否取得被害人谅解。如【（2018）辽0115刑初113号】、【（2018）津0111刑初179号】中，法院认为被告人积极赔偿并取得谅解，酌情从轻处罚。\n- **认罚态度**：被告人是否愿意接受处罚，包括主刑和附加刑。如【（2021）辽0211刑初527号】中，法院认为被告人自愿适用认罪认罚从宽制度，依法从宽处理。\n\n综上，认罪认罚从宽制度在诈骗案件中的适用，关键在于被告人的认罪态度、是否如实供述、是否愿意接受处罚、是否赔偿被害人损失以及取得谅解等因素。法院在量刑时会综合考虑这些因素，对被告人依法从轻或从宽处罚。\n\n#####\n类似案件为：\n【（2021）粤0105刑初756号】：法院认为，被告人郭芝明的行为已构成合同诈骗罪，鉴于其自首和认罪认罚，决定从轻处罚，依法适用认罪认罚从宽制度。法院判决被告人郭芝明犯合同诈骗罪，判处有期徒刑一年，扣除之前羁押日数，罚金2000元；并责令郭芝明退赔广州神洲汽车租赁有限公司的经济损失71478.22元，与同案人互负连带责任。\n【（2020）粤0105刑初554号】：法院认为，被告人吴文军的行为已构成合同诈骗罪，鉴于其当庭自愿认罪认罚，依法适用认罪认罚从宽制度，在公诉机关的量刑建议幅度内从宽处罚。被告人吴文军犯合同诈骗罪，判处有期徒刑四年，并处罚金人民币五万元；责令吴文军退赔被害人林某428008.88元。\n【（2021）鲁0502刑初104号】：法院认为，魏新芸以非法占有为目的，虚构事实、隐瞒真相，骗取他人钱款23.9085万元，数额巨大，构成诈骗罪。鉴于其归案后如实供述犯罪事实，自愿认罪，适用认罪认罚从宽制度，故从轻、从宽处罚。魏新芸被判处有期徒刑四年五个月，并处罚金人民币五万元，继续追缴或责令退赔冯某经济损失23.9085万元。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人在侦查阶段如实供述犯罪事实，具有坦白情节，可依法从轻处罚 2.部分赃款已由同案人宋某等人退赔，减轻了社会危害性 3.被告人因赌博和债务压力实施犯罪，主观恶性相对较小 4.对指控的基本事实认罪认罚，但需澄清部分金额的诈骗故意 5.强调被告人在后期未继续实施新的诈骗行为，犯罪情节相对可控",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人张某甲是否具有非法占有的主观故意。查明情况：被告人已承认虚构纪委关系、伪造身份等行为，并供述将骗取资金用于赌博和挥霍。公诉人通过讯问确认了其非法占有目的，辩护人虽对部分证据关联性提出异议但未否认基本事实。审判长认为该焦点已查明清楚。\n\n2.诈骗金额的准确认定问题。查明情况：被告人确认起诉书指控的1047万元金额无误，并详细说明了资金去向。公诉人提供了转账记录等书证佐证，辩护人未对金额提出实质性质疑。审判长认为该焦点已基本查明。\n\n3.共同犯罪中宋某的责任认定。查明情况：被告人供述了与宋某的分工情况，宋某主要负责冒充\"肖某甲\"身份。公诉人确认宋某另案处理，辩护人未就此提出辩护意见。审判长认为需要结合宋某案件进一步核实共同犯罪的具体分工和收益分配情况。\n\n4.量刑情节的认定。查明情况：被告人认罪认罚但未退赃，未取得被害人谅解。公诉人建议从重处罚，辩护人提出坦白、认罪认罚等从轻情节。审判长认为需要进一步查明被告人是否有自首等法定从轻情节。\n\n5.伪造金融票证行为的定性。查明情况：被告人否认出示过伪造支票等文件，与起诉书指控存在矛盾。公诉人需进一步举证证明被告人伪造支票的具体情况，辩护人未就此发表意见。审判长认为该焦点需要进一步查明。\n\n6.资金用途的查证情况。查明情况：被告人供述将资金用于赌博和偿还债务，但赌博部分缺乏直接证据。公诉人提供了部分消费记录佐证，辩护人对证据关联性提出异议。审判长认为需要进一步核实资金具体流向。\n\n7.被害人经济损失的挽回情况。查明情况：同案人宋某等人已退赔部分款项，但被告人未退赃且未与被害人达成和解。公诉人强调该情节应从重处罚，辩护人未提出异议。审判长认为该焦点已基本查明。\n\n8.冒充国家机关工作人员身份的从重情节认定。查明情况：被告人承认虚构纪委工作人员身份，公诉人认为应从重处罚，辩护人未就此提出辩护意见。审判长认为该焦点已基本查明。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证实被告人虚构纪委关系骗取被害人1047万余元的事实。被告人和辩护人均无异议。\n\n2. 公诉人出示付某甲转账给张某甲的八笔汇款明细（共计945万），辩护人提出异议，认为转账记录无法直接证明被告人具有非法占有的主观故意。公诉人回应称转账记录与被告人的供述相互印证。\n\n3. 公诉人出示宋某发给付某甲的短信照片、股权转让协议等书证，辩护人提出异议，认为无法直接证明被告人具有诈骗的主观故意。公诉人指出伪造的1000万元转账支票照片直接证明被告人实施欺诈行为。\n\n4. 公诉人出示张某甲冒充付某甲签名的授权协议等书证，辩护人提出异议。公诉人回应该证据直接证明被告人实施欺诈行为。\n\n5. 公诉人出示张某甲银行卡POS机消费记录等书证，辩护人提出异议。公诉人指出大额消费记录与诈骗所得资金流向直接相关。\n\n6. 公诉人出示多组银行交易记录，辩护人提出异议。公诉人回应交易记录与被害人转账记录相互印证。\n\n7. 公诉人出示宋某的支付宝、微信转账记录，辩护人提出异议。公诉人指出转账记录与被告人供述相互印证。\n\n8. 公诉人出示证人江某、李某的证言，辩护人提出异议。公诉人回应证言与被告人供述相互印证。\n\n9. 公诉人出示证人黄某乙的证言，辩护人提出异议。公诉人指出该证言证实被告人虚构\"中纪委赵某\"骗取钱款。\n\n10. 公诉人出示同案人宋某的供述，辩护人提出异议。公诉人回应供述与被告人供述相互印证。\n\n11. 辩护人表示没有证据需要出示，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控：\n- 被告人虚构纪委工作人员身份，通过伪造支票等手段诈骗1047万余元\n- 银行转账记录、伪造支票等物证与29名证人证言形成完整证据链\n- 赃款主要用于赌博挥霍，社会危害性严重\n- 依据《刑法》第266条、第279条建议从重处罚\n\n2. 辩护人主要辩护意见：\n- 质疑非法占有目的的直接证据不足\n- 同案人供述证明力存疑\n- 部分资金可能存在合理商业用途\n- 被告人具有坦白、认罪认罚等从宽情节\n\n3. 争议焦点：\n- 非法占有目的的认定标准\n- 伪造支票行为的直接证据充分性\n- 赃款用途的证明链条完整性\n- 从重与从宽量刑情节的权衡\n\n4. 双方援引法律依据：\n- 《刑法》第266条诈骗罪、第177条伪造金融票证罪\n- 《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》\n- 《关于适用认罪认罚从宽制度的指导意见》",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第一百七十七条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第一百七十七条": "有下列情形之一，伪造、变造金融票证的，处五年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金；情节严重的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；情节特别严重的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）伪造、变造汇票、本票、支票的；（二）伪造、变造委托收款凭证、汇款凭证、银行存单等其他银行结算凭证的；（三）伪造、变造信用证或者附随的单据、文件的；（四）伪造信用卡的。单位犯前款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照前款的规定处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "虚构国家机关工作人员身份实施诈骗的司法认定标准",
+              "诈骗罪中非法占有目的的证明标准",
+              "共同诈骗犯罪中主从犯的认定标准"
+            ],
+            "虚构国家机关工作人员身份实施诈骗的司法认定标准": "### 结论\n虚构国家机关工作人员身份实施诈骗的司法认定标准主要涉及行为人是否冒充国家机关工作人员身份，是否利用该身份骗取他人信任，以及是否造成国家机关信誉损害或非法获利。关键在于行为人是否足以使一般人信以为真，是否侵犯了国家机关的信誉，以及是否对国家机关的正常活动造成影响。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金。\n- **《中华人民共和国刑法》第二百七十九条**：规定冒充国家机关工作人员招摇撞骗的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节严重的，处三年以上十年以下有期徒刑。冒充人民警察招摇撞骗的，依照前款的规定从重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **冒充国家机关工作人员身份**：行为人是否虚构或冒充国家机关工作人员身份，以欺骗他人。例如，【（2021）京03刑终357号】中，被告人陈某科、吴某冒充国家机关工作人员招摇撞骗，虚构“相关机构”，并使用名片、牌匾、相关文件等手段，使他人信以为真，构成招摇撞骗罪。\n- **非法获利**：行为人是否通过冒充国家机关工作人员身份非法获利。例如，【（2018）京刑终25号】中，被告人张某闵等人冒充司法机关工作人员在境外实施电信网络诈骗，构成犯罪集团，一线话务员明知二线或三线话务员冒充国家机关工作人员，仍诱骗、引导被害人与之联系，为后续诈骗行为提供信息，具有冒充国家机关工作人员的从重处罚情节。\n- **国家机关信誉损害**：行为人的行为是否对国家机关的信誉造成损害。例如，【（2021）京03刑终357号】中，被告人陈某科、吴某的行为侵犯了国家机关的信誉，会对相关真实国家机关对社会的正常管理活动造成侵害，降低国家及代表国家行使管理职能的国家机关在社会公众中的威信。\n\n综上，虚构国家机关工作人员身份实施诈骗的司法认定，关键在于行为人是否冒充国家机关工作人员身份，是否利用该身份非法获利，以及是否对国家机关的信誉和正常活动造成损害。法院在认定时会综合考虑行为人的行为是否足以使一般人信以为真，是否侵犯了国家机关的信誉，以及是否对国家机关的正常活动造成影响。\n\n#####\n类似案件为：\n【（2021）京03刑终357号】：法院生效裁判认为：被告人陈某科、吴某冒充国家机关工作人员招摇撞骗，其二人行为已构成招摇撞骗罪，依法应予惩处。北京市朝阳区人民检察院指控被告人陈某科、吴某犯招摇撞骗罪的事实清楚，证据确实、充分，指控的罪名成立。对被告人陈某科、吴某的无罪辩解及二被告人的相关辩护意见，综合回应如下：\n1.关于“相关机构”是否为虚构。被告人陈某科、吴某及二被告人的辩护人均称“相关机构”是中国管理科学研究院金融管理战略研究中心经过合法文件设立的，故二被告人不存在虚构“相关机构”的行为。经查，在案田某强的证言及相关书证明确证实，辩方所称的“合法文件”经民警向田某强出示，田某强明确否认相关文件系中管院印发，且称中管院对此并不知情。虽然中管院授权成立了金融管理战略研究中心，但中管院并没有授权中管院金融管理战略研究中心成立国家一带一路项目运营办公室、国家金融稳定政策研究办公室、国家一带一路政策研究办公室等单位，中管院金融管理战略研究中心亦没有权力成立下属单位、办公室等机构，且陈某科于2018年6月11日被中管院解聘了在中管院的名誉秘书长及一切职务。国家发展和改革委员会的相关复函亦称该委经批准设立的带有“一带一路”字样的机构只有两家，不包括“相关机构”，陈某科等人不是国家发展和改革委员会“一带一路”相关工作机构的工作人员。故法院认定被告人陈某科、吴某虚构了“相关机构”。\n2.关于二被告人是否冒充国家机关工作人员。关于二被告人否认自己冒充国家机关工作人员及相关辩护人称“相关机构”的名称不足以使公众认为是国家机关的辩护意见，经查，在案的物证、书证及证人证言均能证明，被告人陈某科、吴某在外国人员出入密集的外交公寓租赁房屋作为办公场地，除了在办公场地门口悬挂数个“相关机构”的牌匾，还在办公室客厅、房门、内墙上多处悬挂中国共产党党旗，楼道内悬挂牌匾、客厅东墙等多处均悬挂相关牌匾。相关证人的证言和起获的名片显示，陈某科、吴某印有多种虚假身份的名片，且陈某科在社交场合亦将印有“相关机构”职位的名片给予他人，向他人介绍自己为一带一路办公室等“相关机构”的领导。陈某科在招聘职员时明确告知对方其系一带一路办公室主任，其单位属于事业单位，是发改委下属机构；吴某系一带一路办公室处长，且陈某科、吴某二人以一带一路办公室主任、秘书的身份出访他国。\n公诉机关指控的时间段，正值我国大力推进一带一路建设的时期，国家亦有“推进一带一路建设工作领导小组办公室”等真实机构，被告人陈某科、吴某在上述时间段虚构与真实机构名称类似的“国家一带一路政策研究办公室”“一带一路项目运营协调工作领导小组”等“相关机构”，冒充“相关机构”工作人员，使用名片、牌匾、相关文件的行为，侵犯了国家机关的信誉，会对相关真实国家机关对社会的正常管理活动造成侵害，降低国家及代表国家行使管理职能的国家机关在社会公众中的威信。\n3.关于是否实施招摇撞骗行为。在案证据证明被告人陈某科、吴某基于冒充的国家机关工作人员身份，对外进行社交时使用特殊证件、进行不实宣传，使得他人基于对其二人身份的信任，欲谋求经济上的合作，他人亦系基于上述诉求向被告人吴某进行转款，后被告人陈某科、吴某将所得钱款支配使用。二被告人的行为属于冒充国家机关工作人员招摇撞骗。\n综上，对二被告人的无罪辩解及辩护人的无罪辩护意见，不予采纳。\n【（2018）京刑终25号】：法院生效裁判认为，本案焦点是被告人张某闵、潘某威、等多人冒充司法机关工作人员在境外实施电信网络诈骗，是否构成犯罪集团；被告人李某、马某阳等被告人是否系胁从犯；二三线话务员是否具有冒充国家工作人员的从重情节。\n一、关于犯罪集团的认定。被告人张某闵等人，为实施电信网络诈骗犯罪而组成较为固定的犯罪组织，且该犯罪组织核心成员稳定，分工严密，实行公司化管理，有明显且相对固定的人员负责电信网络诈骗窝点的组建、人员召集、培训、管理等，符合刑法规定的犯罪集团的认定标准，应当认定为犯罪集团。在诈骗犯罪集团中，首要分子明确，主要成员固定，虽然部分从事一线诈骗行为的被告人具有一定流动性，但不影响对诈骗犯罪集团性质的认定。\n二、关于集体成员犯罪数额的认定。对于电信诈骗犯罪集团，从其组建成立时实施诈骗犯罪开始，该集团作为一个整体即完成犯罪着手，被告人新加入犯罪集团只是进一步增强了犯罪集团的犯罪能力和社会危害性，此时新加入被告人已经进入犯罪实行阶段，故应当将被告人加入犯罪集团的时间认定为着手实施犯罪的时间。同理，基于电信网络诈骗犯罪集团的上述特点，电信诈骗犯罪集团在运转或实施犯罪过程中，被告人只要加入该犯罪集团，就成为该集团继续运转的一部分，该被告人应当对自己参与或者组织的诈骗行为承担刑事责任。\n三、关于冒充国家机关工作人员等从重情节的认定。作为诈骗活动一线话务员的被告人具有冒充国家机关工作人员情节：根据话术单及诈骗流程，该诈骗犯罪集团中从事一线话务诈骗的被告人明知二线或三线话务人员会冒充公安局、检察院等公安、司法机关等国家机关工作人员，仍诱骗、引导被害人与二线或三线话务人员联系，为后续诈骗行为提供信息、创造条件，故从事诈骗活动的一线话务员的被告人与从事二线、三线话务活动的被告人具有共同冒充国家机关工作人员的情节，应当依法从重处罚。\n四、关于主从犯的认定。对于在本案诈骗犯罪集团中从事窝点筹备、组建、人员分工、管理、培训等行为，或者从事二线、三线话务活动，以及电脑操作、人员招募等核心成员，因其职责较为固定，加入时间相对较长，且均积极参加犯罪，在共同诈骗犯罪及各自所在环节中均起主要作用，依法应当认定为主犯。对于在诈骗犯罪中虽从事一线话务诈骗活动，但参与两次以上，积极参加犯罪，在各自所在环节中亦起主要作用，依法认定为主犯。对于在诈骗犯罪中从事一线话务诈骗活动，但仅参与一次诈骗犯罪活动，考虑到其犯罪行为具有一定随机性和从属性，人员流动性较大，参与时间相对较短，实际获利较少，可依法认定为从犯，并予以减轻处罚。\n五、关于胁从犯的认定。被告人李某、马某阳等人提出自己系胁从犯，应当减轻处罚的意见，经查，该意见不成立。李某、马某阳等人虽是出于找工作赚钱等目的，受高薪诱惑被招募到诈骗犯罪集团，虽存在护照、手机被统一收走保管的情况，但各被告人在印度尼西亚、肯尼亚期间均可以定期与家人通话，根据在案证据及查明的事实，如明确表示不想实施诈骗行为，在支付交通费用的情况下，可自由退出。而各被告人对实施诈骗行为，并未明确表示拒绝，亦未表现出任何反抗举动，反而均自主接听被害人回电，并根据话术单对被害人实施诈骗，且均有非法获利。李某、马某阳等人的上述行为与胁从犯系受他人胁迫而被动实施犯罪的特征不符，不应认定为胁从犯。故法院依法作出如上裁判。\n【（2021）京03刑终357号】：法院生效裁判认为：被告人陈某科、吴某冒充国家机关工作人员招摇撞骗，其二人行为已构成招摇撞骗罪，依法应予惩处。北京市朝阳区人民检察院指控被告人陈某科、吴某犯招摇撞骗罪的事实清楚，证据确实、充分，指控的罪名成立。对被告人陈某科、吴某的无罪辩解及二被告人的相关辩护意见，综合回应如下：\n1.关于“相关机构”是否为虚构。被告人陈某科、吴某及二被告人的辩护人均称“相关机构”是中国管理科学研究院金融管理战略研究中心经过合法文件设立的，故二被告人不存在虚构“相关机构”的行为。经查，在案田某强的证言及相关书证明确证实，辩方所称的“合法文件”经民警向田某强出示，田某强明确否认相关文件系中管院印发，且称中管院对此并不知情。虽然中管院授权成立了金融管理战略研究中心，但中管院并没有授权中管院金融管理战略研究中心成立国家一带一路项目运营办公室、国家金融稳定政策研究办公室、国家一带一路政策研究办公室等单位，中管院金融管理战略研究中心亦没有权力成立下属单位、办公室等机构，且陈某科于2018年6月11日被中管院解聘了在中管院的名誉秘书长及一切职务。国家发展和改革委员会的相关复函亦称该委经批准设立的带有“一带一路”字样的机构只有两家，不包括“相关机构”，陈某科等人不是国家发展和改革委员会“一带一路”相关工作机构的工作人员。故法院认定被告人陈某科、吴某虚构了“相关机构”。\n2.关于二被告人是否冒充国家机关工作人员。关于二被告人否认自己冒充国家机关工作人员及相关辩护人称“相关机构”的名称不足以使公众认为是国家机关的辩护意见，经查，在案的物证、书证及证人证言均能证明，被告人陈某科、吴某在外国人员出入密集的外交公寓租赁房屋作为办公场地，除了在办公场地门口悬挂数个“相关机构”的牌匾，还在办公室客厅、房门、内墙上多处悬挂中国共产党党旗，楼道内悬挂牌匾、客厅东墙等多处均悬挂相关牌匾。相关证人的证言和起获的名片显示，陈某科、吴某印有多种虚假身份的名片，且陈某科在社交场合亦将印有“相关机构”职位的名片给予他人，向他人介绍自己为一带一路办公室等“相关机构”的领导。陈某科在招聘职员时明确告知对方其系一带一路办公室主任，其单位属于事业单位，是发改委下属机构；吴某系一带一路办公室处长，且陈某科、吴某二人以一带一路办公室主任、秘书的身份出访他国。\n公诉机关指控的时间段，正值我国大力推进一带一路建设的时期，国家亦有“推进一带一路建设工作领导小组办公室”等真实机构，被告人陈某科、吴某在上述时间段虚构与真实机构名称类似的“国家一带一路政策研究办公室”“一带一路项目运营协调工作领导小组”等“相关机构”，冒充“相关机构”工作人员，使用名片、牌匾、相关文件的行为，侵犯了国家机关的信誉，会对相关真实国家机关对社会的正常管理活动造成侵害，降低国家及代表国家行使管理职能的国家机关在社会公众中的威信。\n3.关于是否实施招摇撞骗行为。在案证据证明被告人陈某科、吴某基于冒充的国家机关工作人员身份，对外进行社交时使用特殊证件、进行不实宣传，使得他人基于对其二人身份的信任，欲谋求经济上的合作，他人亦系基于上述诉求向被告人吴某进行转款，后被告人陈某科、吴某将所得钱款支配使用。二被告人的行为属于冒充国家机关工作人员招摇撞骗。\n综上，对二被告人的无罪辩解及辩护人的无罪辩护意见，不予采纳。",
+            "诈骗罪中非法占有目的的证明标准": "### 结论\n诈骗罪中非法占有目的的证明标准应当坚持主客观相统一的原则，既要避免单纯根据损失结果客观归罪，也不能仅凭被告人自己的供述，而应根据案件具体情况全面分析行为人无法偿还集资款或履行合同的原因，综合判断行为人是否具有非法占有的目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十二条**：规定了集资诈骗罪的构成要件，其中非法占有目的的认定是关键。\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，其中非法占有目的的认定同样重要。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人签订合同时是否具有履行合同的能力，是判断非法占有目的的重要因素。例如，【（2019）京02刑终214号】中，法院认为被告人陈某平在收款前不具有归还能力，收款后无归还行为，认定其具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为，是判断非法占有目的的另一个关键因素。例如，【（2019）京02刑终214号】中，陈某平收款后无任何归还行为，表明其非法占有目的。\n- **事后态度**：行为人在合同不能履行后的事后态度，是否积极采取补救措施，也是判断非法占有目的的重要依据。例如，【（2019）冀刑再5号】中，李某胜在合同不能履行后，与对方协商并支付了部分款项，显示其有积极的履约态度。\n- **资金流向**：行为人取得款项后的资金流向，是否用于个人挥霍或非法活动，是判断非法占有目的的关键。例如，【（2018）内0204刑初409号】中，国敏将钱款用于个人消费，表明其非法占有目的。\n- **合同诈骗罪与民事欺诈的区分**：合同诈骗罪保护的是财产权，而非交易中的诚实信用。例如，【（2019）冀刑再5号】中，法院认为肖军的行为属于民事欺诈，而非合同诈骗罪，因为其行为虽有欺诈，但未达到非法占有的程度。\n\n综上，非法占有目的的认定需要综合考虑行为人的履约能力、履约行为、事后态度以及资金流向等多方面因素，不能仅凭单一因素作出判断。\n\n#####\n类似案件为：\n【（2019）京02刑终214号】：法院生效裁判认为，被告人陈某平以非法占有为目的，虚构事实骗取他人财物，其行为已构成诈骗罪，且诈骗数额巨大，依法应予惩处。被害人谭某栋、杨某蓉因陈某平虚构事实、谎称能够帮助二人承揽项目而分多笔给付陈某平共计13.95万元。关于部分钱款给付的具体名目，供证之间存在差异，但考虑到陈某平收款前不具有归还能力，收款后无归还行为，即便部分钱款采用了借款形式给付，也不影响其非法占有目的以及诈骗数额的认定。故法院依法作出如上裁判。\n【（2019）京02刑终214号】：法院生效裁判认为，被告人陈某平以非法占有为目的，虚构事实骗取他人财物，其行为已构成诈骗罪，且诈骗数额巨大，依法应予惩处。被害人谭某栋、杨某蓉因陈某平虚构事实、谎称能够帮助二人承揽项目而分多笔给付陈某平共计13.95万元。关于部分钱款给付的具体名目，供证之间存在差异，但考虑到陈某平收款前不具有归还能力，收款后无归还行为，即便部分钱款采用了借款形式给付，也不影响其非法占有目的以及诈骗数额的认定。故法院依法作出如上裁判。\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。",
+            "共同诈骗犯罪中主从犯的认定标准": "### 结论\n在共同诈骗犯罪中，主从犯的认定需综合考虑各被告人在犯罪中的地位、作用、参与程度、犯罪收益分配、犯罪行为的主导性以及对犯罪结果的贡献度。直接实施诈骗行为、提出犯意、策划、组织、指挥或在犯罪中起主要作用的，通常认定为主犯；而仅参与部分犯罪环节、起次要或辅助作用、获益较小的，通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十六条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪行为的主导性**：直接实施诈骗行为、提出犯意、策划、组织、指挥的，通常认定为主犯。例如，【（2017）青0122刑初225号】中，李某某虽未直接实施盗割电缆线的行为，但因事前共谋、纠集人员，对犯罪的顺利实施起到主要作用，被认定为主犯。\n- **犯罪收益的分配**：犯罪收益的主要获取者通常认定为主犯。例如，【（2019）鄂08刑终65号】中，曾亚洲因负责公司日常管理、指挥他人实施违法活动并占有公司盈利的四成收益，被认定为主犯。\n- **犯罪行为的参与程度**：参与了犯罪的全过程或关键环节的，通常认定为主犯。例如，【（2014）穗中法刑二终字第576号】中，叶某、翁某虽未实际控制或分得赃款，但因让被害人将款项转至指定账户并主动到公安机关说明情况，配合侦破案件，被认定为从犯。\n- **犯罪行为的次要或辅助作用**：仅参与部分犯罪环节、起次要或辅助作用、获益较小的，通常认定为从犯。例如，【（2017）粤17刑终51号】中，赖进杰、陈冠安、邵雄星、邵日生、邵珠源、邵嘉伟、刘雄添、梁兴隆在诈骗犯罪中，根据各自拨打诈骗电话的次数和诈骗金额，分别被认定为主犯或从犯。\n\n综上，共同诈骗犯罪中主从犯的认定需综合考虑各被告人在犯罪中的地位、作用、参与程度、犯罪收益分配以及对犯罪结果的贡献度，以确保罚当其罪。\n\n#####\n类似案件为：\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2019）鄂08刑终65号】：法院认为，曾亚洲、李昂、敖群利等被告人以非法占有为目的，虚构事实或隐瞒真相，实施电信网络诈骗，情节严重或特别严重，构成诈骗罪。曾亚洲在共同犯罪中起主要作用，系主犯，犯诈骗罪情节特别严重，应在十年以上量刑，但归案后认罪认罚，可从轻处罚。李昂情节特别严重，认定为从犯，可减轻处罚。敖群利等人在共同犯罪中起次要作用，认定为从犯，可减轻处罚。敖群利、李**、胡娇、陈玲、邹红、陆燕娥、熊兵、张兵、施李伟归案后如实供述，可从轻处罚，且积极退缴违法所得、缴纳罚金，可酌情从轻处罚。曾亚洲犯诈骗罪，判处有期徒刑十年，并处罚金人民币15万元；李昂犯诈骗罪，判处有期徒刑四年六个月，并处罚金人民币10万元；敖群利等其他被告人分别被判处有期徒刑缓刑及相应罚金。对违法所得49.0392万元予以追缴，对犯罪工具予以没收。\n【（2014）穗中法刑二终字第576号】：法院认为，叶某、翁某结伙诈骗公民财物，数额巨大，其行为均已构成诈骗罪。在共同诈骗犯罪中，二人让被害人将款项转至指定账户，并未实际控制或分得赃款，且主动到案，配合侦破案件，可认定为从犯，依法应当减轻处罚。广州市中级人民法院判决，叶某犯诈骗罪，判处有期徒刑二年三个月，并处罚金人民币一万元；翁某犯诈骗罪，判处有期徒刑二年一个月，并处罚金人民币一万元；责令叶某、翁某退赔被害人郭惠燕经济损失13万元。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人张某甲是否具有非法占有的主观故意。查明情况：被告人已承认虚构纪委关系、伪造身份等行为，并供述将骗取资金用于赌博和挥霍。公诉人通过讯问确认了其非法占有目的，辩护人虽对部分证据关联性提出异议但未否认基本事实。审判长认为该焦点已查明清楚。\n\n2.诈骗金额的准确认定问题。查明情况：被告人确认起诉书指控的1047万元金额无误，并详细说明了资金去向。公诉人提供了转账记录等书证佐证，辩护人未对金额提出实质性质疑。审判长认为该焦点已基本查明。\n\n3.共同犯罪中宋某的责任认定。查明情况：被告人供述了与宋某的分工情况，宋某主要负责冒充\"肖某甲\"身份。公诉人确认宋某另案处理，辩护人未就此提出辩护意见。审判长认为需要结合宋某案件进一步核实共同犯罪的具体分工和收益分配情况。\n\n4.量刑情节的认定。查明情况：被告人认罪认罚但未退赃，未取得被害人谅解。公诉人建议从重处罚，辩护人提出坦白、认罪认罚等从轻情节。审判长认为需要进一步查明被告人是否有自首等法定从轻情节。\n\n5.伪造金融票证行为的定性。查明情况：被告人否认出示过伪造支票等文件，与起诉书指控存在矛盾。公诉人需进一步举证证明被告人伪造支票的具体情况，辩护人未就此发表意见。审判长认为该焦点需要进一步查明。\n\n6.资金用途的查证情况。查明情况：被告人供述将资金用于赌博和偿还债务，但赌博部分缺乏直接证据。公诉人提供了部分消费记录佐证，辩护人对证据关联性提出异议。审判长认为需要进一步核实资金具体流向。\n\n7.被害人经济损失的挽回情况。查明情况：同案人宋某等人已退赔部分款项，但被告人未退赃且未与被害人达成和解。公诉人强调该情节应从重处罚，辩护人未提出异议。审判长认为该焦点已基本查明。\n\n8.冒充国家机关工作人员身份的从重情节认定。查明情况：被告人承认虚构纪委工作人员身份，公诉人认为应从重处罚，辩护人未就此提出辩护意见。审判长认为该焦点已基本查明。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人张某甲对起诉书指控的基本事实无异议，但就部分金额的诈骗故意提出说明，并表示认罪认罚。\n2. 公诉人重点讯问：\n   - 被告人承认虚构纪委关系，安排宋某冒充\"肖某甲\"骗取被害人信任\n   - 被告人在明知无法追债后仍继续编造谎言拖延\n   - 诈骗所得1047万元主要用于赌博(约600万)、偿还个人债务(约300万)及个人挥霍\n   - 承认虚构为被害人堂哥调动工作的事实，收取360万元\n   - 无能力退赔被害人损失\n3. 辩护人询问确认无其他未被记录的资金往来\n4. 审判长补充询问：\n   - 确认赌博资金无具体证据\n   - 无精神疾病史\n   - 与同案人宋某后期无实质联系\n   - 与被害人无真实债务关系\n   - 未伪造支票等文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证实被告人虚构纪委关系骗取被害人1047万余元的事实。被告人和辩护人均无异议。\n\n2. 公诉人出示付某甲转账给张某甲的八笔汇款明细（共计945万），辩护人提出异议，认为转账记录无法直接证明被告人具有非法占有的主观故意。公诉人回应称转账记录与被告人的供述相互印证。\n\n3. 公诉人出示宋某发给付某甲的短信照片、股权转让协议等书证，辩护人提出异议，认为无法直接证明被告人具有诈骗的主观故意。公诉人指出伪造的1000万元转账支票照片直接证明被告人实施欺诈行为。\n\n4. 公诉人出示张某甲冒充付某甲签名的授权协议等书证，辩护人提出异议。公诉人回应该证据直接证明被告人实施欺诈行为。\n\n5. 公诉人出示张某甲银行卡POS机消费记录等书证，辩护人提出异议。公诉人指出大额消费记录与诈骗所得资金流向直接相关。\n\n6. 公诉人出示多组银行交易记录，辩护人提出异议。公诉人回应交易记录与被害人转账记录相互印证。\n\n7. 公诉人出示宋某的支付宝、微信转账记录，辩护人提出异议。公诉人指出转账记录与被告人供述相互印证。\n\n8. 公诉人出示证人江某、李某的证言，辩护人提出异议。公诉人回应证言与被告人供述相互印证。\n\n9. 公诉人出示证人黄某乙的证言，辩护人提出异议。公诉人指出该证言证实被告人虚构\"中纪委赵某\"骗取钱款。\n\n10. 公诉人出示同案人宋某的供述，辩护人提出异议。公诉人回应供述与被告人供述相互印证。\n\n11. 辩护人表示没有证据需要出示，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控：\n- 被告人虚构纪委工作人员身份，通过伪造支票等手段诈骗1047万余元\n- 银行转账记录、伪造支票等物证与29名证人证言形成完整证据链\n- 赃款主要用于赌博挥霍，社会危害性严重\n- 依据《刑法》第266条、第279条建议从重处罚\n\n2. 辩护人主要辩护意见：\n- 质疑非法占有目的的直接证据不足\n- 同案人供述证明力存疑\n- 部分资金可能存在合理商业用途\n- 被告人具有坦白、认罪认罚等从宽情节\n\n3. 争议焦点：\n- 非法占有目的的认定标准\n- 伪造支票行为的直接证据充分性\n- 赃款用途的证明链条完整性\n- 从重与从宽量刑情节的权衡\n\n4. 双方援引法律依据：\n- 《刑法》第266条诈骗罪、第177条伪造金融票证罪\n- 《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》\n- 《关于适用认罪认罚从宽制度的指导意见》",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "诈骗金额特别巨大的类似案件判决情况",
+              "诈骗罪中冒充国家机关工作人员身份的从重处罚案例",
+              "诈骗罪中未退赃的刑期考量"
+            ],
+            "诈骗金额特别巨大的类似案件判决情况": "### 结论\n诈骗金额特别巨大的案件，法院通常会判处十年以上有期徒刑，并处罚金或没收财产，且在共同犯罪中区分主从犯，对主犯从重处罚，对从犯减轻处罚。对于自首、坦白、认罪认罚、退赔等情节，法院会依法从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第二十五条第一款**：共同犯罪是指二人以上共同故意犯罪。\n- **《中华人民共和国刑法》第二十六条第一款和第四款**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。对于第三款规定以外的主犯，应当按照其所参与的或者组织、指挥的全部犯罪处罚。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗金额**：诈骗金额特别巨大是影响判决的关键因素。例如，【（2022）浙02刑终27号】中，被告人江某、黄某、李某诈骗数额特别巨大，分别被判处十年六个月、三年十个月、三年有期徒刑，并处罚金。\n- **共同犯罪中的作用**：在共同犯罪中，区分主从犯对量刑有重大影响。【（2022）浙02刑终27号】中，江某被认定为主犯，其他被告人为从犯，主犯受到更严厉的处罚。\n- **自首、坦白、认罪认罚**：这些情节可以作为从轻或减轻处罚的依据。【（2020）湘0281刑初111号】中，被告人袁斌因自首、坦白、认罪认罚，依法从轻处罚。\n- **退赔**：退赔被害人的损失可以作为酌情从轻处罚的依据。【（2023）沪0115刑初4396号】中，各名被告人均退出全部违法所得，酌情从轻处罚。\n\n综上，诈骗金额特别巨大的案件中，法院会根据诈骗金额、共同犯罪中的作用、自首、坦白、认罪认罚、退赔等情节综合量刑，对主犯从重处罚，对从犯减轻处罚，对自首、坦白、认罪认罚、退赔等情节依法从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2020）湘0281刑初111号】：法院认为，袁斌以非法占有为目的，虚构事实，隐瞒真相，骗取他人财物，数额特别巨大，构成诈骗罪；伙同他人故意伤害致人轻伤一级，构成故意伤害罪。虽有自首、坦白、认罪认罚情节，但诈骗数额特别巨大，应数罪并罚。法院判决袁斌犯诈骗罪，判处有期徒刑十三年，并处罚金十万元；犯故意伤害罪，判处有期徒刑一年二个月；数罪并罚，决定执行有期徒刑十三年六个月，并处罚金十万元。对袁斌违法所得228.43万元继续追缴，退赔被害人。\n【（2023）沪0115刑初4396号】：法院认为，被告人黄某、何某1、周某、吴某的行为均已构成诈骗罪，数额特别巨大。各被告人系从犯，依法减轻处罚；有坦白情节，依法从轻处罚；自愿认罪认罚，依法从宽处理；退出全部违法所得，酌情从轻处罚。判决如下：\n1. 被告人黄某、何某1、周某、吴某犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金人民币四万元。\n2. 违法所得予以追缴或责令退赔；扣押在案的作案工具予以没收。\n3. 被告人应遵守法律、法规，服从监督管理，完成公益劳动，成为有益社会的公民。\n4. 如不服判决，可向上诉，书面上诉的，应当提交上诉状正本一份，副本五份。",
+            "诈骗罪中冒充国家机关工作人员身份的从重处罚案例": "### 结论\n在诈骗罪中，冒充国家机关工作人员身份进行诈骗的行为，根据《中华人民共和国刑法》及相关司法解释，会被从重处罚。关键因素包括冒充身份的真实性、诈骗数额的大小、是否造成严重后果、是否退赃、认罪态度等。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第二百七十九条**：冒充国家机关工作人员招摇撞骗的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节严重的，处三年以上十年以下有期徒刑。冒充人民警察招摇撞骗的，依照前款的规定从重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **冒充身份的真实性**：冒充不存在的国家机关工作人员或国家机关内部不存在的具体部门的工作人员，足以让一般人信以为真，可以成立招摇撞骗罪。例如，【（2016）兵08刑终26号】中，马国新虚构自己是国家机关工作人员，骗取他人信任，构成诈骗罪。\n- **诈骗数额的大小**：诈骗数额巨大或特别巨大，将面临更重的刑罚。例如，【（2021）赣1128刑初80号】中，张勤诈骗数额巨大，构成诈骗罪。\n- **是否造成严重后果**：诈骗行为是否对被害人的财产权、国家机关形象以及公共秩序造成严重损害，将影响量刑。例如，【（2018）川0114刑初479号】中，唐云某等人冒充人民警察，诈骗数额巨大，对被害人的财产权、国家机关形象以及公共秩序均造成严重损害，被认定为情节严重。\n- **是否退赃**：案发后是否退赔被害人的经济损失，可酌情从轻处罚。例如，【（2018）鄂01刑终705号】中，余思源的亲属代为退赔了被害人的全部经济损失并获得谅解，法院酌情从轻处罚。\n- **认罪态度**：归案后是否如实供述自己的罪行，具有坦白情节，可以从轻处罚。例如，【（2019）鄂28刑终186号】中，向云贵到案后如实供述犯罪事实，法院作为从轻处罚的情节予以考虑。\n\n综上，冒充国家机关工作人员进行诈骗的行为，根据诈骗数额、是否退赃、认罪态度等因素，将面临从重处罚。\n\n#####\n类似案件为：\n【（2016）兵08刑终26号】：法院认为，马国新以非法占有为目的，通过虚构事实骗取他人财物，数额巨大，其行为构成诈骗罪。虽马国新出具了借条，但事后拒不退还，表明其有非法占有的目的。马国新是否将款项转交他人不影响对其诈骗行为的定性。马国新亲属支付的4万元应视为部分退赃。马国新犯诈骗罪，判处有期徒刑六年，并处罚金人民币二万元，责令马国新给被害人李××退赔人民币二十三万元。\n【（2021）赣1128刑初80号】：法院认为，被告人张勤以非法占有为目的，冒充国家工作人员身份诈骗他人钱财，数额巨大，其行为构成诈骗罪。张勤具有自愿认罪认罚、坦白、退赔并获谅解的情节，依法可从轻处罚。但其有多次违法前科，酌情从重处罚。依照相关法律规定，判决被告人张勤犯诈骗罪，判处有期徒刑三年二个月，并处罚金人民币一万元。\n【（2018）鄂01刑终705号】：法院认为，被告人余思源以非法占有为目的，冒充国家机关工作人员，采取虚构事实的方式，多次骗取他人钱财，数额巨大，其行为构成诈骗罪。鉴于余思源具有坦白情节，亲属代为退赔并获谅解，依法从轻处罚。但冒充国家机关工作人员，针对老年人多次实施诈骗，社会危害性较大，需从重处罚。法院判决被告人余思源犯诈骗罪，判处有期徒刑五年三个月，并处罚金人民币五万元。",
+            "诈骗罪中未退赃的刑期考量": "### 结论\n在诈骗罪中，未退赃是影响刑期的重要因素，法院通常会从严考量，尤其是对于金融诈骗类犯罪，未积极退赔、拒不交代赃款去向的罪犯，很难认定为确有悔改表现，从而影响减刑条件，不予减刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃情况**：未退赃或未全部退赃的罪犯，法院在量刑时会从严考量。例如，【（2015）洛刑初字第276号】中，被告人王高坝至今没有退赔被害人的经济损失，量刑时予以一并考虑。【（2015）常刑二终字第38号】中，周长红虽如实供述，但未退还赃款，综合考虑其犯罪事实与量刑情节，不宜适用缓刑。\n- **认罪态度**：认罪态度良好，如实供述自己的罪行，可以从轻处罚。例如，【（2021）粤0781刑初87号】中，被告人容志峰犯罪后如实供述自己的罪行且自愿认罪认罚，可以从轻处罚。\n- **社会危害性**：犯罪行为的社会危害性也是量刑的重要考量因素。例如，【（2014）姑苏刑二初字第0122号】中，被告人陈简犯罪行为的社会危害性及案发后未退赔被害人的损失，影响了量刑。\n\n综上，退赃情况是影响诈骗罪刑期的关键因素，法院在量刑时会根据退赃情况、认罪态度和社会危害性等综合考量，未退赃的罪犯在量刑时会受到更严厉的处罚。\n\n#####\n类似案件为：\n【（2015）洛刑初字第276号】：法院认为，被告人王高坝以非法占有为目的，伙同他人采用虚构事实的方式，骗取他人信用卡资料并使用信用卡取得财物，数额较大，其行为已构成信用卡诈骗罪。王高坝在缓刑考验期内犯新罪，应撤销缓刑，实行数罪并罚。鉴于王高坝多次诈骗，至今未退赔被害人经济损失，量刑时予以考虑，但认罪态度较好。法院判决王高坝犯信用卡诈骗罪，判处有期徒刑三年六个月，并处罚金人民币二万元；与原犯诈骗罪判处的有期徒刑三年并罚，决定执行有期徒刑六年，并处罚金人民币二万元；撤销前案缓刑部分，责令王高坝分别退赔各被害人损失。\n【（2015）常刑二终字第38号】：法院认为，周长红以非法占有为目的，虚构事实，隐瞒真相，骗取他人财物，数额巨大，其行为已构成诈骗罪。鉴于周长红如实供述自己的罪行，依法可以从轻处罚，但多次诈骗，主观恶性较大，未退还赃款，不宜适用缓刑。周长红犯诈骗罪，判处有期徒刑三年，并处罚金人民币八千元。\n法院认定事实清楚，证据确实、充分，审判程序合法，但对部分诈骗犯罪金额认定有误，导致量刑不当，依法予以改判。\n【（2021）粤0781刑初87号】：法院认为，被告人容志峰以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物价值254446.76元，其行为构成合同诈骗罪。鉴于容志峰犯罪后如实供述自己的罪行且自愿认罪认罚，可以从轻处罚。但考虑到其尚未退赔，且综合犯罪事实、情节、社会危害程度，不宜适用缓刑。法院判决被告人容志峰犯合同诈骗罪，判处有期徒刑三年一个月，并处罚金人民币40000元，责令退赔被害人梁某人民币254446.76元。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 168.0,
+    "fine": 500000.0,
+    "reprieve": 0.0
+  }
+]

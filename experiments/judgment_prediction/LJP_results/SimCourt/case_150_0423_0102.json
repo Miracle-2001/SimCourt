@@ -1,0 +1,2492 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人俸某，男，1993年1月10日出生，汉族，出生地广西壮族自治区桂林市，文化程度高中，住桂林市临桂县。因本案于2019年1月5日被羁押并于次日被刑事拘留，同年2月2日被逮捕。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "广东省广州市白云区人民检察院  \n起 诉 书  \n\n穗云检公诉刑诉〔2019〕1105号  \n\n被告人俸某，男，1993年1月10日出生，汉某，出生地广某甲，文化程度高中，住桂某（以上身份情况均自报）。因本案于2019年1月5日被羁押并于次日被刑事拘留，同年2月2日被逮捕。现羁押于广某乙。  \n\n本案由广某丙侦查终结，以被告人俸某涉嫌赌博罪，于2019年x月x日向本院移送起诉。本院受理后，已依法告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n同案人赵某甲、盛某在同案人周某（均另案起诉）提供的位于本市白某内，以打“三公”的方式聚众赌博。被告人俸某与同案人刘某、宋某、彭某、周某（均另案起诉）从事相关辅助工作。2019年1月5日2时许，公安机关在上址抓获赵某甲、盛某、刘某、宋某等共26人，在上址楼下抓获彭某、周某、俸某，当场查获赌具扑克牌一副及赌资人民币27300元。  \n\n认定上述事实的证据如下：  \n1. 同案人赵某甲、刘某、宋某、彭某、周某的供述及辨认材料，证实被告人俸某在赌博现场负责望风的事实；  \n2. 证人邹某、吴某、郎某等26名参赌人员的证言，证实参与赌博被查获的事实；  \n3. 现场照片、勘验检查笔录，证实案发现场特征；  \n4. 涉案手机、赌资、扑克牌照片，证实作案工具及赃款情况；  \n5. 行政处罚决定书，证实参赌人员被行政处罚；  \n6. 视频资料及审讯录像；  \n7. 扣押决定书、清单及证据保全决定书，证实作案工具和赌资扣押情况；  \n8. 到案经过、立案决定书、受案登记表，证实案发经过及被告人到案情况。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人俸某结伙聚众赌博，其行为触犯了《中华人民共和国刑法》第三百零三条第一款之规定，犯罪事实清楚，证据确实、充分，应当以赌博罪追究其刑事责任。被告人俸某拒不供述犯罪事实，无认罪悔罪表现，依法应予惩处。建议判处被告人俸某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n广东省广州市白云区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2019年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的犯罪事实有异议。我确实在楼下望风，但没有直接参与赌博活动，也没有从中获利。我只是按照他人安排做事，在共同犯罪中起辅助作用。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人俸某，你在2019年1月5日凌晨2时许是否在广州市白云区永平街东平宋屋街永福巷9-1号703房楼下？当时你在该处从事什么具体活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我当时在楼下。按照安排负责望风，观察周围情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据同案人赵某甲、刘某等人的供述，你被安排在该赌博场所负责望风工作。对此你有何辩解？你是否承认参与了该赌博活动的组织工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我只是按照安排望风，没有参与赌博活动的组织工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在望风期间是否知晓楼上正在进行赌博活动？你是否清楚望风行为对赌博活动的顺利进行起到什么作用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我知道楼上在赌博。望风是为了防止被公安机关发现。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在参与该赌博活动期间是否获得任何报酬或利益？具体金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有获得报酬或利益。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与同案人赵某甲、刘某等人是如何认识的？是谁安排你负责望风工作？你们之间是否存在雇佣关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是通过朋友介绍认识的。是赵某甲安排我望风。没有雇佣关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在公安机关的供述中称\"未从中获利\"，但为何在侦查阶段拒不承认参与望风的事实？你现在是否愿意如实供述全部犯罪事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我只是按照安排望风，没有参与赌博活动的组织工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否认识到望风行为已经构成赌博罪的共犯？你现在对参与赌博活动有何认识？是否愿意认罪悔罪？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到望风行为是错误的。我愿意如实供述事实，但确实没有直接参与赌博活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你是否主动向公安机关投案？是否积极退赃或赔偿？是否取得相关人员的谅解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动投案。没有退赃赔偿。没有取得谅解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你具体是通过哪个朋友介绍认识赵某甲等人的？这个朋友是否也参与了本案赌博活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是通过朋友王某认识的。王某没有参与这次赌博活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人俸某，你在案发当日是否仅负责在楼下望风？具体望风的内容是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我只是在楼下望风。具体就是观察周围有没有警察过来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "公安机关查获的27300元赌资和赌具扑克牌是否与你有关？你是否接触或管理过这些物品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有接触过这些赌资和赌具。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在侦查阶段是否如实供述了自己望风的事实？对于公诉人指控的其他事实是否存在异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在侦查阶段我承认了望风的事实。对公诉人指控我参与赌博组织的事实有异议，我只是负责望风。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有前科？是否曾因类似行为受过行政处罚？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有前科，也没有受过行政处罚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你对于参与此次赌博活动是否有悔罪表现？是否愿意退缴违法所得？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到参与望风是错误的。我没有获得违法所得，所以不存在退缴的问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与同案人赵某甲等人是如何商定望风事宜的？是否签订了任何书面协议或口头约定报酬？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有签订任何协议，也没有约定报酬。就是赵某甲临时叫我帮忙望风。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人俸某，你在楼下望风期间是否与楼上赌博场所保持通讯联系？具体通过什么方式进行联系？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有通讯联系，是通过手机通话联系的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与楼上赌博场所保持通讯联系的频率如何？具体是谁与你进行联系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大概每隔半小时左右联系一次。主要是赵某甲跟我联系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与赵某甲等人认识多久了？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "认识大概三个月左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你望风的具体时间段是从几点到几点？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "从凌晨1点到2点被抓获。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你望风的具体位置距离赌博场所多远？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大概在楼下20米左右的位置。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。  \n2019年1月5日凌晨2时许，我在广州市白云区永平街东平宋屋街永福巷9-1号703房楼下。同案人赵某甲、盛某等人在该房内以打三公的方式聚众赌博。我被安排与其他两人在楼下望风。公安机关在现场抓获房内赌博的26人，并在楼下抓获我和同案人彭某、周某，当场查获赌具扑克牌一副及赌资人民币27300元。  \n\n（2）犯案动机。  \n我未直接参与赌博活动，仅按照他人安排在楼下望风，未从中获利。  \n\n（3）案发之后的处理。  \n我在案发后被公安机关当场抓获，没有自首行为。目前尚未进行赔偿，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人的供述仅能证明其在现场望风的事实，但无法证明其实际参与赌博活动或从中获利。该证据与指控的赌博罪构成要件中的\"以营利为目的\"缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人虽未直接参与赌博，但其望风行为为赌博活动提供了直接帮助，构成共同犯罪。根据刑法规定，共同犯罪不以实际获利为要件，只要明知是犯罪活动仍提供帮助即构成共犯。被告人的供述已明确承认其明知是赌博活动仍参与望风的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就被告人供述的证据效力充分表达了各自观点，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：同案人赵某甲供述：“该赌博场地是同案人周某提供，案发当日我与‘小某’纠集约20名赌客在该处进行赌博。约到凌晨2时，被警察现场查获。赌场内发牌、抽水的人、保管水箱钱的人及楼下看风的人均是由我和‘小某’负责安排。”并辨认被告人俸某就是在楼下看风的其中之一人。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明被告人在现场望风的事实，但无法证明被告人实际参与赌博活动的组织或从中获利。且该证言属于同案人供述，缺乏其他客观证据佐证，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人赵某甲的证言与被告人的供述能够相互印证，证实被告人明知是赌博活动仍参与望风的事实。根据刑事诉讼法规定，同案人供述经查证属实可以作为定案依据。本案中该证言与现场查获的赌资、赌具等物证形成完整证据链，足以证明被告人的共犯地位。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：同案人刘某供述：“2019年1月5日2时许，我在广州市白云区东平村宋屋街永福巷1号703内负责收取三公赌博的水钱时，被公安人员抓获。此处由赵某甲负责，他是老板，有三人在楼下望风。”并辨认出被告人俸某就是在楼下望风的人之一。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言与之前同案人赵某甲的证言内容高度重复，均仅能证明被告人在现场望风的事实，无法证明被告人实际参与赌博活动的组织或从中获利。且该证言同样属于同案人供述，缺乏其他客观证据佐证，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人刘某的证言与赵某甲证言、被告人供述相互印证，形成完整证据链。根据刑事诉讼法规定，多个同案人供述能够相互印证且与其他证据吻合的，可以作为定案依据。本案中被告人的望风行为已为赌博活动提供实质性帮助，符合赌博罪共犯的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：同案人宋某供述：“我与赵某甲、刘某等人一起在涉案场所参与赌博活动，楼下有三个人望风。”并辨认出被告人俸某就是在楼下望风的人之一。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言与前两条同案人证言内容高度一致，均仅能证明被告人在现场望风的事实，无法证明被告人实际参与赌博活动的组织或从中获利。且该证言同样属于同案人供述，缺乏其他客观证据佐证，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人宋某的证言与前两份同案人证言形成相互印证关系，且与被告人供述、现场查获的赌资赌具等物证相吻合。根据《刑事诉讼法》第五十三条，多个同案人供述能够相互印证且与其他证据吻合的，可以作为定案依据。本案中被告人的望风行为已为赌博活动提供实质性帮助，符合赌博罪共犯的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就同案人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：同案人彭某供述：“我与赵某甲、刘某等人一起在涉案场所参与赌博活动，楼下有三个人望风。”并辨认出被告人俸某就是在楼下望风的人之一。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言与前几条同案人证言内容完全重复，均仅能证明被告人在现场望风的事实，无法证明被告人实际参与赌博活动的组织或从中获利。且该证言同样属于同案人供述，缺乏其他客观证据佐证，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人彭某的证言与其他同案人证言、被告人供述形成完整证据链，且与现场查获的赌资、赌具等物证相互印证。根据《刑事诉讼法》第五十三条，多个同案人供述能够相互印证且与其他证据吻合的，可以作为定案依据。被告人的望风行为已为赌博活动提供实质性帮助，符合赌博罪共犯的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就同案人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：同案人周某供述：“该涉案场所由我提供给赵某甲聚众赌博使用，采用打‘三公’的形式进行赌博。楼下望风的共计三个人。”并辨认出被告人俸某就是与其一起被抓的一同望风的人。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言与前几条同案人证言内容高度一致，均仅能证明被告人在现场望风的事实，无法证明被告人实际参与赌博活动的组织或从中获利。且该证言同样属于同案人供述，缺乏其他客观证据佐证，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人周某作为赌博场所提供者，其证言具有特殊证明价值。该证言不仅证实被告人参与望风的事实，还明确了赌博活动的组织架构和运作模式。结合其他同案人证言和物证，已形成完整证据链，足以证明被告人的共犯地位。根据《刑事诉讼法》第五十三条，多个同案人供述能够相互印证且与其他证据吻合的，可以作为定案依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就同案人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人邹某证言：“该房屋由我出租给他人使用的，但不知道是用来进行赌博的，没有签订合同。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人吴某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人郎某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人龙某甲证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人杨某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人田某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人赵某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人阳某甲证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人黄某甲证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人张某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人胡某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人阳某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人王某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人耿某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人孔某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人郑某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人陈某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人黄某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人龙某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人曾某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人赵某丙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人邓某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人谢某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.物证：现场照片，证实了案发现场的特征情况。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.勘验、检查笔录：现场勘验、检查笔录，证实了案发现场的特征情况。该笔录由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.物证：涉案手机照片，证实了现场查获的作案工具。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.物证：赌资照片，证实了现场查获的赃款情况。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.物证：扑克牌照片，证实了现场查获的赌具。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.书证：公安机关出具的对参赌人员的行政处罚决定书，证实了查获的参赌人员被行政处罚的情况。该决定书由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.视听资料：视频资料制作说明及视听资料，涉案的光碟为公安机关审讯录像。该视频资料由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.书证：扣押决定书，证实查获的作案工具和赌资的扣押情况。该决定书由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.书证：扣押清单，证实查获的作案工具和赌资的扣押情况。该清单由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "39.书证：证据保全决定书，证实查获的作案工具和赌资的扣押情况。该决定书由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "40.书证：公安机关出具的到案经过，证实了本案的案发经过、被告人的到案情况。该到案经过由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "41.书证：立案决定书，证实了本案的立案情况。该决定书由公某依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "42.书证：受案登记表，证实了本案的受案情况。该登记表由公某依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "公诉人认为，本案证据确实充分。根据被告人供述及六名同案人证言，已形成完整证据链，证实被告人明知是赌博活动仍参与望风。其与赌博场所保持半小时一次的手机通讯联系，充分证明望风行为与赌博活动的直接关联性和主观故意。\n\n虽然被告人未直接获利，但其望风行为为赌博活动提供了重要保障，社会危害性不容忽视。根据刑法第303条关于赌博罪的规定，以及《最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释》第一条，组织三人以上赌博，抽头渔利数额累计达到5000元以上的，构成赌博罪。\n\n参考(2018)陕04刑终162号案例，望风人员应认定为从犯。但被告人拒不认罪，依法应从重处罚。综合考虑本案情节，建议判处有期徒刑六个月，缓刑一年，并处罚金5000元。该量刑建议符合法律规定，且(2020)浙0303刑初235号案例对类似望风人员判处缓刑具有先例支持。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人认为，公诉机关指控被告人构成赌博罪的证据链条存在重大瑕疵。首先，同案人供述虽相互印证，但缺乏客观物证佐证，根据《刑事诉讼法》第五十五条，仅有被告人供述没有其他证据的，不能认定被告人有罪。其次，现场查获的赌资、赌具与被告人无直接关联，不能证明其参与赌博活动。\n\n关于量刑问题，辩护人提请法庭注意三点：第一，根据刑法第二十七条，被告人在共同犯罪中仅负责望风，起辅助作用，应认定为从犯；第二，被告人在侦查阶段已如实供述望风事实，具有坦白情节，依法可以从轻处罚；第三，参考(2018)陕04刑终162号案例，单纯望风行为通常认定为从犯并减轻处罚。\n\n综上，辩护人建议法庭充分考虑被告人的从犯地位和坦白情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "针对辩护人提出的证据瑕疵问题，公诉人需要指出：本案不仅有同案人供述相互印证，还有被告人的通讯记录作为客观证据佐证。根据《刑事诉讼法》第五十三条，证据确实、充分的认定标准包括证据之间相互印证、形成完整证明体系。本案证据已达到这一标准。\n\n关于从犯认定问题，公诉人认同辩护人关于从犯认定的观点，但必须强调：根据《刑法》第二十七条第二款，对于从犯应当从轻、减轻或者免除处罚。然而，被告人拒不认罪，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，拒不认罪的不适用从宽处罚。\n\n量刑建议已充分考虑被告人的从犯地位，但拒不认罪情节必须予以体现。参考案例(2020)浙0303刑初235号中对望风人员的处罚，本案量刑建议完全适当。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人认罪态度问题，辩护人需要澄清：被告人在侦查阶段已如实供述望风事实，仅对赌博罪名的认定存在异议，这不应认定为\"拒不认罪\"。根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条，如实供述主要犯罪事实，仅对行为性质提出辩解不影响坦白认定。\n\n公诉人提出的通讯记录仅能证明被告人与场所存在联系，不能直接证明其参与赌博活动。根据《刑事诉讼法》第五十三条，定罪证据必须排除合理怀疑，现有证据尚未达到这一标准。\n\n量刑建议中缓刑适用具有合理性，但罚金数额应考虑被告人仅负责望风的实际作用和经济状况。参考(2018)陕04刑终162号案例中对望风人员的处罚标准，建议适当降低罚金数额。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人认罪态度问题，需要明确区分事实供述与法律定性。被告人虽承认望风事实，但对参与赌博活动的性质予以否认，这属于对犯罪构成的根本性否定。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第7款，对基本犯罪构成事实予以否认的，不构成坦白。\n\n通讯记录显示被告人与赌博场所保持规律性联系，结合同案人指认其负责望风的事实，已形成完整的证明体系。根据《刑事诉讼法》第五十五条，证据确实充分的标准是排除合理怀疑，而非排除一切怀疑。本案证据已达到定罪标准。\n\n关于罚金数额，根据《最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释》第八条，罚金数额应当与犯罪情节相适应。被告人虽为从犯，但其行为对赌博活动的持续进行起到关键作用，5000元罚金符合其犯罪情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于认罪态度问题，辩护人需要强调：被告人对望风事实供认不讳，仅对行为性质提出辩解，这符合《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条的规定，应当认定为坦白情节。被告人的辩解属于对法律适用的正常抗辩权，不应影响坦白认定。\n\n针对证据问题，现有通讯记录仅能证明存在联系，不能证明联系内容与赌博活动相关。根据《刑事诉讼法》第五十五条，定罪证据必须形成唯一性结论，而本案证据尚存合理怀疑。\n\n关于罚金数额，被告人作为从犯且经济困难，5000元罚金明显过重。参照(2018)陕04刑终162号案例中对望风人员的处罚标准，建议将罚金降至3000元以下，以体现罪责刑相适应原则。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "审判长，我认罪认罚。我确实参与了望风行为，但我没有直接参与赌博活动，也没有从中获利。我在共同犯罪中只起到辅助作用，恳请法庭考虑我的从犯地位和认罪态度，给予从轻处罚。我没有其他需要陈述的了。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "广东省广州市白云区人民法院  \n刑事判决书  \n（2019）粤0111刑初1105号  \n\n公诉机关广东省广州市白云区人民检察院。  \n被告人俸某，男，1993年1月10日出生，汉族，高中文化，户籍地广西壮族自治区桂林市临桂县。因涉嫌赌博罪于2019年1月5日被羁押，次日被刑事拘留，同年2月2日被逮捕。现羁押于广州市白云区看守所。  \n辩护人×××，××律师事务所律师。  \n\n广州市白云区人民检察院以穗云检公诉刑诉〔2019〕1105号起诉书指控被告人俸某犯赌博罪，于2019年×月×日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。公诉机关指派检察员×××出庭支持公诉，被告人俸某及其辩护人×××到庭参加诉讼。本案现已审理终结。  \n\n公诉机关指控：2019年1月5日凌晨，同案人赵某甲、盛某等人在广州市白云区永平街东平宋屋街永福巷9-1号703房以打\"三公\"方式聚众赌博。被告人俸某受同案人安排，在赌博场所楼下负责望风。公安机关现场查获赌资27300元及赌具扑克牌一副，抓获参赌人员26人及望风人员俸某等3人。公诉机关认为被告人俸某的行为构成赌博罪，建议判处有期徒刑六个月，缓刑一年，并处罚金5000元。  \n\n被告人俸某对指控的望风事实无异议，但辩称未直接参与赌博活动且未获利。辩护人提出：1.被告人仅实施望风行为，应认定为从犯；2.被告人如实供述望风事实，构成坦白；3.建议从轻处罚并降低罚金数额。  \n\n经审理查明：2019年1月5日凌晨1时至2时许，被告人俸某在明知同案人组织赌博活动的情况下，受指使在赌博场所楼下20米处负责望风，期间与赌博场所保持半小时一次的手机联系。公安机关现场查获赌资27300元及赌具扑克牌一副，抓获包括被告人在内的29人。上述事实有下列证据证实：  \n1.被告人俸某关于望风事实的稳定供述；  \n2.同案人赵某甲等6人关于被告人参与望风的指认证言；  \n3.22名参赌人员的证言及行政处罚决定书；  \n4.现场照片、赌资赌具照片、勘验检查笔录等物证；  \n5.扣押清单、到案经过等书证。  \n\n本院认为，被告人俸某明知他人实施赌博犯罪仍提供望风帮助，其行为已构成赌博罪。在共同犯罪中，被告人起次要作用，系从犯，依法应当从轻处罚。被告人到案后如实供述主要犯罪事实，虽对行为性质提出辩解但不影响坦白认定，依法可以从轻处罚。公诉机关指控罪名成立，但量刑建议偏重。辩护人关于从犯、坦白及从轻处罚的辩护意见予以采纳。  \n\n依照《中华人民共和国刑法》第三百零三条第一款、第二十七条、第六十七条第三款、第七十二条、第七十三条、第五十二条、第五十三条、第六十四条之规定，判决如下：  \n一、被告人俸某犯赌博罪，判处拘役五个月，缓刑六个月，并处罚金人民币3000元；  \n二、扣押在案的作案工具予以没收。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或直接向广州市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。  \n\n审判长 ×××  \n2019年×月×日  \n书记员 ×××",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人俸某是否构成赌博罪。需要查明其在赌博活动中是否实际参与望风行为，以及该行为是否属于赌博罪的构成要件。\n\n2.被告人在共同犯罪中的地位和作用。需要认定其是主犯还是从犯，主要依据其在犯罪活动中的参与程度、作用大小以及对犯罪结果的影响。\n\n3.被告人是否有从轻或减轻处罚的情节。包括但不限于是否如实供述、是否有自首情节、是否认罪悔罪、是否有前科等。\n\n4.被告人是否具有刑事责任能力。需要确认其年龄、精神状态等是否符合承担刑事责任的条件。\n\n5.被告人的主观故意。需要查明其是否明知自己的行为是在为赌博活动提供帮助，以及是否有从中获利的意图。\n\n6.量刑建议的合理性。需要评估公诉机关提出的量刑建议是否符合法律规定和本案的具体情况。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第一款",
+              "中华人民共和国刑法第十七条"
+            ],
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的刑事责任认定标准",
+              "共同犯罪中从犯的认定标准及量刑考量"
+            ],
+            "赌博罪中望风行为的刑事责任认定标准": "### 结论\n在赌博罪中，望风行为的刑事责任认定标准主要取决于行为人在犯罪中的作用和地位。单纯的望风行为通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等行为，对犯罪的实施起到主要作用，则可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件和处罚标准。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的刑事责任。\n- **《中华人民共和国刑法》第二十六条**：规定了主犯的刑事责任。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在犯罪中的作用**：单纯的望风行为通常被认定为从犯，如【（2020）青22刑终11号】、【（2019）闽0681刑初378号】、【（2020）浙0303刑初235号】中，被告人因仅负责望风而被认定为从犯。但如果行为人还参与了事前共谋、纠集人员等行为，对犯罪的实施起到主要作用，则可能被认定为主犯，如【（2017）青0122刑初225号】中，被告人李某某因不仅负责望风，还参与了事前共谋和纠集人员，被认定为主犯。\n- **行为人的主观意图和犯罪前科**：如【（2021）粤1971刑初2210号】中，被告人王波虽仅负责看风，但因其行为对赌场的运营起到辅助作用，被认定为开设赌场罪的共犯。而【（2019）粤1704刑初65号】中，被告人黄小明因有犯罪前科，即使有自首情节，仍被认定不宜适用缓刑。\n- **行为人的认罪态度和退赃情况**：如【（2017）晋05刑终176号】中，被告人陈X因认罪悔罪，退还了被害人被骗款项，取得了被害人谅解，主动缴纳了全部罚金，从而被从轻处罚并适用缓刑。\n\n综上，望风行为在赌博罪中的刑事责任认定，主要取决于行为人在犯罪中的作用、主观意图、犯罪前科、认罪态度和退赃情况等因素。\n\n#####\n类似案件为：\n【（2020）青22刑终11号】：法院认为，各被告人无视国家法律，明知孔繁亮开设赌场，仍为其提供帮助，构成开设赌场罪，情节严重。鉴于各被告人在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。部分被告人能如实供述自己的罪行，可酌情从轻处罚。各被告人开设赌场的行为社会危害性较大，不宜适用缓刑。一、维持门源县人民法院（2020）青2221刑初22号刑事判决书中对上诉人（原审被告人）白某1、魏某定罪部分及罚金部分，即被告人白某1犯开设赌场罪，并处罚金20000元，被告人魏某犯开设赌场罪，并处罚金20000元和对原审被告人贺某1、马某1、张某、白某2的定罪、量刑、罚金。即被告人贺某1犯开设赌场罪,判处有期徒刑二年，并处罚金20000元（已缴纳）；被告人马某1犯开设赌场罪,判处有期徒刑二年，并处罚金20000元（已缴纳）；被告人张某犯开设赌场罪,判处有期徒刑二年，并处罚金4000元；被告人白某2犯开设赌场罪,判处有期徒刑一年零六个月，并处罚金4000元（已缴纳）。\n  二、对上诉人（原审被告人）郭某驳回上诉，维持原判，即被告人郭某犯开设赌场罪,判处有期徒刑二年，并处罚金4000元（已缴纳）。\n  三、撤销门源县人民法院（2020）青2221刑初22号刑事判决对被告人白某1、魏某的量刑部分，即被告人白某1犯开设赌场罪，判处有期徒刑二年零六个月，被告人魏某犯开设赌场罪，判处有期徒刑二年零六个月。\n  四、上诉人（原审被告人）白某1犯开设赌场罪，判处有期徒刑二年零二个月，并处罚金20000元（已缴纳）。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月29日起至2021年12月28日止）\n  上诉人（原审被告人）魏某犯开设赌场罪，判处有期徒刑二年零二个月，并处罚金20000元（已缴纳）。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月29日起至2021年12月28日止）\n【（2019）闽0681刑初378号】：法院认为，被告人钱惠敏以营利为目的，受雇在他人开设赌场中负责望风，其行为已构成开设赌场罪。钱惠敏在共同犯罪中起次要作用，是从犯，应当从轻处罚。钱惠敏曾因故意犯罪被判处有期徒刑，刑罚执行完毕后五年内再犯应当判处有期徒刑以上刑罚之罪，是累犯，应当从重处罚。钱惠敏归案后能如实供述自己罪行，可以从轻处罚。一、被告人钱惠敏犯开设赌场罪，判处有期徒刑七个月，并处罚金一万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押三十一日折抵刑期三十一日，即自2019年3月18日起至2019年9月16日止。罚金限本判决生效之日起十日内交纳。）\n 二、继续追缴被告人钱惠敏的违法所得。\n【（2020）浙0303刑初235号】：法院认为，被告人龙元社以营利为目的，受雇为他人开设的赌场负责望风，其行为已构成开设赌场罪，属情节严重。龙元社在共同犯罪中起辅助作用，系从犯，且归案后能如实供述自己的罪行，自愿认罪认罚，故予减轻处罚。鉴于龙元社已退出全部违法所得，可酌情从轻处罚。一、被告人龙元社犯开设赌场罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币15000元。\n （缓刑考验期限，从判决确定之日起计算。在缓刑考验期限内，应接受社区矫正，服从社区矫正机构的监督管理。罚金刑保证金已缴纳。）\n 二、被告人龙元社退至本院的违法所得人民币10000元，予以没收，上缴国库。",
+            "共同犯罪中从犯的认定标准及量刑考量": "### 结论\n在共同犯罪中，从犯的认定主要基于其在犯罪过程中的作用、地位以及对犯罪结果的贡献程度。量刑时，法院会考虑从犯的参与程度、犯罪活动中的地位、作用以及犯罪结果与其实行行为的关联程度，通常给予从犯比主犯更轻的处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪活动中的地位和作用**：法院会根据行为人在犯罪中的地位和作用来判断是否为从犯。例如，【（2021）黑0725刑初41号】中，戴某、沈某、赵某作为企业经营者，在共同犯罪中起主要作用，被认定为主犯；而余某、薛某作为被雇佣工人，只承担特定工作，被认定为从犯。\n- **犯罪参与程度**：从犯通常参与程度较低，如【（2021）鲁0211刑初1557号】中，被告人殷某在共同犯罪中起辅助作用，被认定为从犯。\n- **犯罪行为的关键程度**：如果行为人的行为对犯罪结果的原因力较小，可能被认定为从犯。如【（2018）川07刑终340号】中，宁某某经鉴定属于限定刑事责任能力人，与完全刑事责任能力人肖从佶相比，其作用较小，量刑时有所区别。\n- **犯罪后的表现**：如自首、立功、认罪悔罪、积极赔偿、主动施救、取得被害人谅解等，可以作为从轻处罚的考量因素。如【（2019）闽08刑终474号】中，部分上诉人因在二审期间缴纳罚金或退出部分违法所得，法院决定对其量刑予以适当调整。\n\n综上，从犯的认定和量刑考量是一个综合判断过程，需要全面分析行为人在犯罪中的地位、作用、参与程度以及犯罪后的表现，以实现罚当其罪的原则。\n\n#####\n类似案件为：\n【（2021）黑0725刑初41号】：法院生效裁判认为：被告人戴某、沈某、赵某、余某、薛某违反国家规定，采取逃避监管的方式，通过暗管排放有毒物质，严重污染环境，其行为均已构成污染环境罪，应予依法惩处。\n本案中五名被告人系共同犯罪。戴某、沈某、赵某应在共同犯罪中应认定为主犯。基于以下理由：戴某、沈某、赵某三人为企业经营者，在企业经营过程中，由戴某负责技术管理、设备安装及原材料采购；沈某负责提供并管理资金、支付货款、记录账目；赵某负责工厂日常管理及后勤保障工作。戴某等三人作为策划、指挥者，各自活动地位相当。戴某等三人一起商量生产石墨碳素制品并架设暗管排放工业废水，均为犯意和犯罪行为的主要实施者，在共同犯罪中均起主要作用。\n余某、薛某在共同犯罪中应认定为从犯。基于以下理由：从参与程度来看，余某、薛某作为被雇佣工人，只承担石墨碳素制品重要生产环节工作，该环节产生工业废水含有重金属铬。从犯罪活动地位来看，余某、薛某作为被动接受任务、服从指挥者。从犯罪作用来看，余某、薛某起到次要作用。\n本案考虑到戴某等三人犯罪活动地位相当，犯意和犯罪作用相当，给予戴某等三人一样的量刑处罚。余某、薛某作为从犯，犯罪参与程度、活动地位和作用相当，给予余某、薛某比照主犯从轻或减轻的处罚。故一审法院依法作出如上裁判。\n【（2021）鲁0211刑初1557号】：法院认为，被告人殷某以非法占有为目的，伙同他人多次窃取他人财物，数额较大，其行为构成盗窃罪。殷某在共同犯罪中起辅助作用，可认定为从犯，可对其从轻处罚；其到案后如实供述其罪行，依法可对其从轻处罚；其退缴赃款及退赔被害单位损失，并取得被害单位谅解，本院在量刑时酌情予以考虑；其自愿认罪认罚，可以依法从宽处理。一、被告人殷某犯盗窃罪，判处拘役五个月，缓刑十个月，并处罚金人民币四千元。\n（缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）\n（缓刑考验期内依法实行社区矫正。）\n二、暂扣于青岛市黄岛分局的被告人殷某退缴的违法所得人民币二千一百元，依法没收，上缴国库。\n【（2018）川07刑终340号】：法院认为，肖从佶、宁某某以非法占有为目的，多次秘密窃取他人财物，数额较大，构成盗窃罪。在共同犯罪中，肖从佶、宁某某共同参与，不宜划分主从犯，但考虑宁某某的刑事责任能力，依法承担相应责任。肖从佶系累犯，应从重处罚；在判决宣告后发现漏罪，应数罪并罚。肖从佶自愿认罪，可酌定从轻处罚。宁某某如实供述罪行，可从轻处罚。一、维持江油市人民法院（2018）川0781刑初147号刑事判决第一项、第三项。即：被告人肖从佶犯盗窃罪，判处有期徒刑一年，并处罚金人民币四千元，原犯盗窃罪，判处有期徒刑七个月，并处罚金人民币一千元，数罪并罚，总和刑期有期徒刑一年七个月，并处罚金人民币五千元，决定执行有期徒刑一年六个月，并处罚金人民币五千元；责令被告人肖从佶、宁某某共同退赔被害人损失二千五百四十二元；\n 二、撤销江油市人民法院（2018）川0781刑初147号刑事判决第二项。即：被告人宁某某犯盗窃罪，判处拘役五个月，并处罚金人民币二千元；\n 三、被告人宁某某犯盗窃罪，免予刑事处罚。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.同案人赵某甲、刘某、宋某、彭某、周某的供述及辨认材料一致证实俸某在赌博现场负责望风，构成赌博罪的共犯。2.现场查获的赌资27300元及赌具扑克牌证实赌博活动的客观存在。3.26名参赌人员证言与现场勘验笔录相互印证，形成完整证据链。4.被告人拒不认罪，无悔罪表现，应从重处罚。5.望风行为在赌博犯罪中起重要作用，参考(2018)陕04刑终162号案例应认定从犯责任。\n防御策略：1.所有证人证言均经公安机关依法收集并由办案人员签字确认，程序合法。2.物证照片、勘验笔录等客观证据与言词证据相互印证。3.同案人辨认程序规范，能够准确指认被告人参与望风的事实。4.量刑建议符合《刑法》第303条及司法解释对赌博罪从犯的处罚标准。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第一款",
+              "中华人民共和国刑事诉讼法第一百七十六条"
+            ]
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的司法认定标准",
+              "赌博罪中拒不认罪的量刑考量因素"
+            ],
+            "赌博罪中望风行为的司法认定标准": "### 结论\n在赌博罪中，望风行为的司法认定标准主要取决于行为人在犯罪中的作用和参与程度。单纯的望风行为通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等关键行为，可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件，即以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：行为人是否仅负责望风，还是参与了赌博犯罪的预谋、组织等关键环节。例如，【（2018）陕04刑终162号】中，董攀、董天乐仅负责望风和提供服务，未参与预谋，被认定为从犯；而【（2017）青0122刑初225号】中，李某某不仅望风，还参与了事前共谋和纠集人员，被认定为主犯。\n- **获利情况**：行为人是否从赌博中直接获利，以及获利的多少。例如，【（2018）陕04刑终162号】中，董攀、董天乐未按赌博收入分成，未领取高额固定工资，这影响了他们被认定为从犯。\n- **自首和悔罪表现**：行为人是否自动投案，是否积极退赃，是否有悔罪表现。例如，【（2018）陕04刑终162号】中，董涛自动投案，积极退交违法所得，被认定为从犯并从轻处罚；【（2020）渝0112刑初211号】中，徐传中虽有累犯情节，但如实供述，获得从轻处罚。\n\n综上，望风行为在赌博罪中的司法认定，关键在于行为人在犯罪中的具体作用、获利情况以及自首悔罪表现。单纯望风通常认定为从犯，但若参与预谋、组织等关键环节，则可能被认定为主犯。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。",
+            "赌博罪中拒不认罪的量刑考量因素": "### 结论\n在赌博罪中，被告人拒不认罪是量刑时的一个重要考量因素，但并非决定性因素。法院在量刑时还会综合考虑犯罪情节、社会危害性、是否构成累犯、是否有自首或立功表现、是否退赃、是否取得被害人谅解、是否认罪认罚、是否有悔罪表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪和开设赌场罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：规定了立功可以从轻或减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪态度**：被告人是否认罪是量刑时的重要考量因素。例如，【（2024）云0125刑初85号】中，张某不具备坦白情节，没有偿还能力，亦不认罪认罚，法院在量刑时予以考虑。【（2021）吉0203刑初40号】中，李泽洋系如实供述且认罪认罚，法院认为其赔偿被害人经济损失并取得谅解，具有从轻处罚情节。\n- **犯罪情节**：犯罪的情节严重性也是量刑的重要考量因素。例如，【（2024）云0125刑初85号】中，张某有赌博恶习且诈骗对象为老年人，法院酌情从重处罚。\n- **社会危害性**：犯罪行为对社会的危害程度也是量刑时的考量因素。例如，【（2015）承刑终字第00167号】中，李某丁在判决宣告以前，一人犯数罪，依法应当数罪并罚，体现了对社会危害性的考量。\n- **是否退赃**：被告人是否退还赃款也是量刑时的考量因素。例如，【（2021）豫1702刑初498号】中，许某将诈骗所得用于赌博挥霍，至今未能退出赃款，法院在量刑时予以考虑。\n- **是否取得被害人谅解**：被告人是否取得被害人的谅解也是量刑时的考量因素。例如，【（2021）吉0203刑初40号】中，李泽洋赔偿被害人经济损失并取得谅解，法院认为具有从轻处罚情节。\n\n综上，法院在量刑时会综合考虑被告人的认罪态度、犯罪情节、社会危害性、是否退赃、是否取得被害人谅解等多方面因素，其中认罪态度是重要考量因素之一，但并非决定性因素。\n\n#####\n类似案件为：\n【（2024）云0125刑初85号】：法院认为，被告人张某以非法占有为目的，采取虚构事实、隐瞒真相的方式骗取他人现金，致被害人实际损失数额巨大，构成诈骗罪；张某授权他人伪造国家机关证件，构成伪造国家机关证件罪。张某有赌博恶习且诈骗对象为老年人，应酌情从重处罚。张某不具备坦白情节，没有偿还能力，亦不认罪认罚，应在量刑时予以考虑。被告人张某犯诈骗罪，判处有期徒刑四年，并处罚金30000元；犯伪造国家机关证件罪，判处有期徒刑八个月，并处罚金5000元。决定执行有期徒刑四年六个月，并处罚金35000元。违法所得共计100850元，责令退赔被害人舒某彩、沈某滨。\n【（2021）吉0203刑初40号】：法院认为，被告人李泽洋以非法占有为目的，虚构事实，骗取公私财物，数额较大，其行为已构成诈骗罪。李泽洋系如实供述且认罪认罚，其赔偿被害人经济损失并取得谅解，具有从轻处罚情节。鉴于李泽洋为赌博而诈骗，应在量刑时予以考虑，且在审理期间主动缴纳财产刑担保，具有悔罪表现。根据李泽洋的犯罪情节及悔罪表现，对其适用缓刑，对所居住社区无重大不良影响。被告人李泽洋犯诈骗罪，判处拘役六个月，缓刑八个月，并处罚金人民币五千元。\n法院判决反映了对被告人李泽洋诈骗行为的定罪与量刑，充分考虑了其认罪态度、赔偿情况及悔罪表现，决定适用缓刑，体现了宽严相济的刑事政策。\n【（2024）云0125刑初85号】：法院认为，被告人张某以非法占有为目的，采取虚构事实、隐瞒真相的方式骗取他人现金，致被害人实际损失数额巨大，构成诈骗罪；张某授权他人伪造国家机关证件，构成伪造国家机关证件罪。张某有赌博恶习且诈骗对象为老年人，应酌情从重处罚。张某不具备坦白情节，没有偿还能力，亦不认罪认罚，应在量刑时予以考虑。被告人张某犯诈骗罪，判处有期徒刑四年，并处罚金30000元；犯伪造国家机关证件罪，判处有期徒刑八个月，并处罚金5000元。决定执行有期徒刑四年六个月，并处罚金35000元。违法所得共计100850元，责令退赔被害人舒某彩、沈某滨。"
+          }
+        },
+        "目标": "请求法院判处被告人俸某赌博罪，有期徒刑六个月，缓刑一年，并处罚金人民币5000元",
+        "询问": "1. 被告人俸某，你在2019年1月5日凌晨2时许是否在广州市白云区永平街东平宋屋街永福巷9-1号703房楼下？当时你在该处从事什么具体活动？\n\n2. 根据同案人赵某甲、刘某等人的供述，你被安排在该赌博场所负责望风工作。对此你有何辩解？你是否承认参与了该赌博活动的组织工作？\n\n3. 你在望风期间是否知晓楼上正在进行赌博活动？你是否清楚望风行为对赌博活动的顺利进行起到什么作用？\n\n4. 你在参与该赌博活动期间是否获得任何报酬或利益？具体金额是多少？\n\n5. 你与同案人赵某甲、刘某等人是如何认识的？是谁安排你负责望风工作？你们之间是否存在雇佣关系？\n\n6. 你在公安机关的供述中称\"未从中获利\"，但为何在侦查阶段拒不承认参与望风的事实？你现在是否愿意如实供述全部犯罪事实？\n\n7. 你是否认识到望风行为已经构成赌博罪的共犯？你现在对参与赌博活动有何认识？是否愿意认罪悔罪？\n\n8. 案发后你是否主动向公安机关投案？是否积极退赃或赔偿？是否取得相关人员的谅解？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的同案人供述存在相互印证但缺乏客观证据佐证，证明力不足2.现场查获的赌资和赌具与被告人俸某无直接关联，不能证明其参与赌博活动3.被告人仅负责望风，未实际参与赌博组织或获利，作用较小\n防御策略：1.根据刑法第27条，被告人在共同犯罪中起辅助作用，应认定为从犯2.被告人在侦查阶段如实供述望风事实，具有坦白情节3.参考类似案例(2018)陕04刑终162号，单纯望风行为通常认定为从犯并减轻处罚",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第一款",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的司法认定标准",
+              "赌博罪从犯的从轻处罚案例"
+            ],
+            "赌博罪中望风行为的司法认定标准": "### 结论\n在赌博罪中，望风行为的司法认定标准主要取决于行为人在犯罪中的作用和参与程度。单纯的望风行为通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等关键行为，可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件，即以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：行为人是否仅负责望风，还是参与了赌博犯罪的预谋、组织等关键环节。例如，【（2018）陕04刑终162号】中，董攀、董天乐仅负责望风和提供服务，未参与预谋，被认定为从犯；而【（2017）青0122刑初225号】中，李某某不仅望风，还参与了事前共谋和纠集人员，被认定为主犯。\n- **获利情况**：行为人是否从赌博中直接获利，以及获利的多少。例如，【（2018）陕04刑终162号】中，董攀、董天乐未按赌博收入分成，未领取高额固定工资，这影响了他们被认定为从犯。\n- **自首和悔罪表现**：行为人是否自动投案，是否积极退赃，是否有悔罪表现。例如，【（2018）陕04刑终162号】中，董涛自动投案，积极退交违法所得，被认定为从犯并从轻处罚；【（2020）渝0112刑初211号】中，徐传中虽有累犯情节，但如实供述，获得从轻处罚。\n\n综上，望风行为在赌博罪中的司法认定，关键在于行为人在犯罪中的具体作用、获利情况以及自首悔罪表现。单纯望风通常认定为从犯，但若参与预谋、组织等关键环节，则可能被认定为主犯。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。",
+            "赌博罪从犯的从轻处罚案例": "### 结论\n在赌博罪中，从犯的从轻处罚主要基于其在犯罪中所起的辅助或次要作用，以及是否具有自首、坦白、认罪认罚等情节。法院在量刑时会综合考虑犯罪的情节、性质、社会危害程度以及被告人的认罪态度和悔罪表现。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **从犯的认定**：在共同犯罪中，从犯通常是指在犯罪活动中起次要或辅助作用的参与者。例如，【（2021）桂01刑终630号】中，法院认定黄某等十七人虽为赌博网站提供软件开发和维护服务，但未参与赌场运营及利润分成，因此认定为从犯，依法从轻或减轻处罚。\n- **自首、坦白、认罪认罚**：被告人如果能够主动投案自首，或者在归案后能够如实供述自己的罪行，认罪认罚，法院通常会从轻处罚。如【（2018）粤5202刑初274号】中，苏某钦因自首和当庭自愿认罪，获得从轻处罚。\n- **犯罪情节和性质**：犯罪的情节和性质，包括是否情节严重、是否造成严重后果等，也会影响量刑。例如，【（2019）粤1426刑初65号】中，林某兰虽为赌博网站担任代理，但因其在赌博网站中属于最低层级的代理，发挥的作用较小，被认定为从犯，依法从轻处罚。\n- **社会危害程度**：犯罪行为对社会的危害程度也是量刑时考虑的重要因素。如【（2020）鄂0902刑初408号】中，张某某、陈某某开设赌场，组织众多人员进行赌博活动，情节严重，但因当庭自愿认罪，认罪认罚，获得从宽处罚。\n\n综上，从犯的从轻处罚在赌博罪案件中主要基于其在犯罪中的作用、是否自首、坦白、认罪认罚，以及犯罪的情节、性质和社会危害程度。法院在量刑时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2018）粤5202刑初274号】：法院认为，被告人苏某钦、苏某勇无视国家法律，开设赌场，其行为构成开设赌场罪。苏某钦在共同犯罪中起主要作用，是主犯；苏某勇提供赌博场所从中牟利，是从犯，应从轻处罚。苏某钦自动投案，如实供述，是自首，可从轻处罚；苏某勇归案后如实供述，可从轻处罚。一、被告人苏某钦犯开设赌场罪，判处有期徒刑七个月，并处罚金人民币三万元（已缴纳人民币八千元）。未缴纳罚金应于判决生效之日起十日内缴纳。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年12月24日起至2018年7月23日止）。\n二、被告人苏某勇犯开设赌场罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币三万元。罚金应于判决生效之日起十日内缴纳。\n缓刑考验期限，从判决确定之日起计算。\n【（2019）粤1426刑初65号】：法院认为，被告人林某兰为赌博网站担任代理并接受他人投注，其行为构成开设赌场罪。林某兰在赌博网站中属于最低层级的代理，起次要作用，可认定为从犯，依法可以从轻处罚；被告人到案后能如实供述，认罪态度较好，构成坦白，系初犯、偶犯，依法可以从轻处罚。一、被告人林某兰犯开设赌场罪，判处有期徒刑一年二个月，并处罚金15000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月23日起至2020年8月22日止。罚金于判决生效之日起一个月内缴纳。）\n二、被告人林某兰持有的作案工具iphoneX手机（序列号为354********5288）一部及台式电脑主机一台，均予以没收。\n【（2020）鄂0902刑初408号】：法院认为，张某某、陈某某以营利为目的开设赌场，组织众多人员进行赌博活动，情节严重，构成开设赌场罪。张某某、陈某某当庭认罪认罚，张某某系主犯，陈某某系从犯，依法从轻、减轻处罚。一、被告人张某某犯开设赌场罪，判处有期徒刑三年，并处罚金人民币10000元（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年7月31日起至2023年7月30日止，罚金已缴纳）。\n二、被告人陈某某犯开设赌场罪，判处有期徒刑二年，并处罚金人民币10000元（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年10月15日起至2022年10月14日止，罚金已缴纳）。\n三、对被告人张某某退出的违法所得人民币10000元,被告人陈某某退出的违法所得人民币1000元，予以没收，上缴国库。"
+          }
+        },
+        "目标": "请求法院认定被告人俸某为从犯并减轻处罚",
+        "询问": "1. 被告人俸某，你在案发当日是否仅负责在楼下望风？具体望风的内容是什么？是否参与过赌博活动的组织、抽水或直接赌博行为？（重点核实被告人在共同犯罪中的具体作用和参与程度）\n\n2. 你与同案人赵某甲等人是如何认识的？他们是如何安排你进行望风工作的？你是否从中获得报酬或分成？（核实犯罪动机和获利情况，证明其辅助性地位）\n\n3. 公安机关查获的27300元赌资和赌具扑克牌是否与你有关？你是否接触或管理过这些物品？（切断被告人与核心犯罪证据的直接关联）\n\n4. 你在侦查阶段是否如实供述了自己望风的事实？对于公诉人指控的其他事实是否存在异议？（确认坦白情节）\n\n5. 你是否有前科？是否曾因类似行为受过行政处罚？（核实量刑情节）\n\n6. 你对于参与此次赌博活动是否有悔罪表现？是否愿意退缴违法所得？（为从轻处罚创造条件）"
+      },
+      "被告人": {
+        "策略": "防御策略：1.如实供述仅负责望风的事实，表明未实际参与赌博组织或获利 2.强调在共同犯罪中起辅助作用，应认定为从犯 3.参考类似案例(2018)陕04刑终162号，说明单纯望风行为通常从轻处罚 4.指出现场赌资赌具与被告人无直接关联，不能证明其参与赌博活动",
+        "记忆": "",
+        "目标": "请求法院认定被告人俸某为从犯并减轻处罚"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人俸某是否构成赌博罪。查明情况：公诉人通过同案人供述、证人证言等证据证明被告人在赌博现场负责望风；被告人承认望风行为但否认参与赌博组织。审判长认为被告人客观上为赌博活动提供了帮助，主观上明知是赌博活动，符合赌博罪构成要件。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：公诉人指控被告人参与赌博活动组织工作；辩护人主张被告人仅负责望风，起辅助作用。审判长认为根据现有证据，被告人仅负责望风工作，未参与赌博组织策划，应认定为从犯。\n\n3.被告人是否有从轻或减轻处罚情节。查明情况：被告人无前科，但未主动投案、未退赃赔偿、未取得谅解；辩护人强调被告人如实供述望风事实。审判长认为被告人虽认罪态度较好但无悔罪表现，无自首情节，从轻处罚情节有限。\n\n4.量刑建议的合理性。查明情况：公诉人建议判处有期徒刑并处罚金；辩护人未提出具体量刑意见。审判长认为需结合被告人从犯地位、参与程度等因素综合考量量刑建议的适当性。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第一款",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的法律定性",
+              "赌博罪从犯的认定标准"
+            ],
+            "赌博罪中望风行为的法律定性": "### 结论\n在赌博罪中，望风行为通常被认定为从犯，但若行为人还参与了事前共谋、纠集人员等行为，对犯罪起到主要作用，则可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：如果行为人仅负责望风，未参与赌博犯罪预谋，未按赌博收入进行利润分成，亦未领取高额固定工资，则通常被认定为从犯。例如，【（2018）陕04刑终162号】中，董攀、董天乐因中途加入，仅从事端茶送水等服务及望风，未参与预谋，被认定为从犯。\n- **自首与悔罪表现**：自动投案，如实供述犯罪事实，有自首情节，且积极退交违法所得，可从轻处罚。例如，【（2018）陕04刑终162号】中，董涛因自首、退交违法所得，原判量刑被确认为适当。\n- **犯罪情节**：犯罪情节较轻，如未造成严重后果，可从轻处罚。例如，【（2020）浙0303刑初235号】中，龙元社因系从犯，归案后如实供述，自愿认罪认罚，且退出全部违法所得，被减轻处罚。\n- **主从犯认定**：如果行为人不仅在具体实施犯罪过程中负责望风，还参与了事前共谋和纠集人员等行为，对危害后果的发生起到主要作用，则可能被认定为主犯。例如，【（2017）青0122刑初225号】中，李某某因参与事前共谋和纠集人员，被认定为主犯。\n\n综上，望风行为在赌博罪中的法律定性主要取决于行为人的参与程度、是否自首、犯罪情节以及是否参与事前共谋等因素。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2020）浙0303刑初235号】：法院认为，被告人龙元社以营利为目的，受雇为他人开设的赌场负责望风，其行为已构成开设赌场罪，属情节严重。龙元社在共同犯罪中起辅助作用，系从犯，且归案后能如实供述自己的罪行，自愿认罪认罚，故予减轻处罚。鉴于龙元社已退出全部违法所得，可酌情从轻处罚。一、被告人龙元社犯开设赌场罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币15000元。\n （缓刑考验期限，从判决确定之日起计算。在缓刑考验期限内，应接受社区矫正，服从社区矫正机构的监督管理。罚金刑保证金已缴纳。）\n 二、被告人龙元社退至本院的违法所得人民币10000元，予以没收，上缴国库。",
+            "赌博罪从犯的认定标准": "### 结论\n赌博罪从犯的认定标准主要考虑行为人在共同犯罪中的作用、地位，以及对犯罪结果的原因力大小。从犯通常是指在共同犯罪中起次要作用或辅助作用的参与者，其行为对犯罪结果的影响较小，且在犯罪的起因、实施阶段以及犯罪收益的分配中所起的作用相对较小。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中的作用**：法院会审查行为人在犯罪中的具体职责，如是否负责日常管理、收取赌资等工作，以及是否参与了犯罪的预谋和组织。例如，【（2018）苏0312刑初258号】中，法院认为李某某虽未参与前期放置赌博机及违法所得分配的预谋，但负责日常管理赌博机、收取赌资等工作，其行为不属于作用较小，不能认定为从犯。\n- **行为人在共同犯罪中的地位**：法院会评估行为人是否是起意者、主要实行者，以及其行为对犯罪结果的原因力大小。例如，【（2020）渝0153刑初240号】中，法院认为张杰、曾荣游在整个犯罪过程中的地位、作用相对轻于黄健、许体淘，但并非起次要或者辅助作用，因此不认定为从犯。\n- **犯罪收益的分配情况**：法院会审查行为人是否从犯罪中获取了非法利益，以及其在犯罪收益分配中的地位。例如，【（2018）浙0702刑初424号】中，法院认为郑新帮多次提供赌博场所，且从中获利，不宜认定为从犯。\n\n综上，赌博罪从犯的认定需综合考虑行为人在犯罪中的作用、地位以及对犯罪结果的影响，尤其是其是否在犯罪中起到关键作用，以及是否从犯罪中直接获利。法院在判断时会具体分析行为人在犯罪过程中的具体行为和作用，以及其在犯罪收益分配中的地位，以确定是否构成从犯。\n\n#####\n类似案件为：\n【（2018）苏0312刑初258号】：法院认为，曹某某、李某某、张某某结伙利用赌博机开设赌场，构成开设赌场罪。曹某某、张某某自首，可从轻处罚。李某某虽未参与前期预谋，但负责日常管理赌博机、收取赌资，作用不小，不能认定为从犯，但当庭自愿认罪，可酌情从轻处罚。三被告犯罪情节较轻，认罪态度好，已退缴违法所得，可宣告缓刑。一、被告人曹某某犯开设赌场罪，判处拘役四个月，缓刑五个月，并处罚金人民币五千元（已预缴）。\n（缓刑考验期从判决确定之日起计算）。\n二、被告人李某某犯开设赌场罪，判处拘役四个月，缓刑五个月，并处罚金人民币五千元（已预缴）。\n（缓刑考验期从判决确定之日起计算）。\n三、被告人张某某犯开设赌场罪，判处拘役三个月，缓刑四个月，并处罚金人民币二千元（已预缴）。\n（缓刑考验期从判决确定之日起计算）。\n四、扣押的赌博机及机器内赌资人民币一千三百七十七元予以没收，由扣押机关徐州市铜山区公安局依法处置；退缴的违法所得予以没收，上缴国库。\n【（2020）渝0153刑初240号】：法院认为，被告人黄健、许体淘、张杰、曾荣游以营利为目的，共谋为他人赌博提供场所及赌具等条件，并从中抽头渔利十万余元，情节严重，其行为构成开设赌场罪。黄健、许体淘有犯罪前科，许体淘自首，黄健、张杰、曾荣游坦白，张杰、曾荣游退出违法所得，许体淘、张杰、曾荣游自愿认罪认罚，依法可从轻处罚。一、被告人黄健犯开设赌场罪，判处有期徒刑三年八个月，并处罚金三万元；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，具体刑期起止详见执行通知书。罚金限本判决生效后三十日内向本院缴纳。）\n二、被告人许体淘犯开设赌场罪，判处有期徒刑三年，并处罚金三万元；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年9月29日起至2023年9月28日止。罚金限本判决生效后三十日内向本院缴纳。）\n三、被告人张杰犯开设赌场罪，判处有期徒刑三年，并处罚金三万元；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年9月29日起至2023年9月26日止。罚金限本判决生效后三十日内向本院缴纳。）\n四、被告人曾荣游犯开设赌场罪，判处有期徒刑三年，并处罚金三万元；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年9月29日起至2023年9月26日止。罚金限本判决生效后三十日内向本院缴纳。）\n五、对被告人黄健、许体淘、张杰、曾荣游的违法所得予以追缴（张杰已退赃20000元，曾荣游已退赃10000元）；对扣押在案的作案工具赌具扑克牌、麻将、木箱等予以没收（扣押物品未随案移送，由扣押机关重庆市荣昌区公安局负责处理）。\n【（2018）浙0702刑初424号】：法院认为，被告人郑新帮伙同他人开设赌场，其行为已构成开设赌场罪，系共同犯罪。郑新帮多次提供赌博场所，且从中获利，不宜认定为从犯。鉴于郑新帮自愿认罪，对其从轻处罚。一、被告人郑新帮犯开设赌场罪，判处有期徒刑十一个月，并处罚金人民币五千元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年9月5日起至2018年8月4日止）。\n 二、违法所得予以追缴，上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.同案人供述及辨认材料形成完整证据链，证实被告人明知是赌博活动仍参与望风，构成赌博罪共犯。\n2.被告人通过手机与赌博场所保持通讯联系，证明其望风行为与赌博活动具有直接关联性。\n3.被告人虽未直接获利，但其行为为赌博活动提供重要保障，社会危害性不容忽视。\n4.参考(2018)陕04刑终162号案例，望风行为应认定为从犯责任，但被告人拒不认罪，应从重处罚。\n5.量刑建议符合刑法第303条及司法解释标准，建议判处有期徒刑六个月，缓刑一年，罚金5000元。\n\n防御策略：\n1.所有证人证言均经合法程序收集，与物证、勘验笔录相互印证。\n2.同案人辨认程序规范，能够准确指认被告人参与望风的事实。\n3.被告人通讯记录证明其与赌博活动的直接关联，不存在证据瑕疵。\n4.量刑建议已充分考虑被告人从犯地位及拒不认罪情节，符合法律规定。\n5.参考(2020)浙0303刑初235号案例，对望风人员判处缓刑具有先例支持。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第一款",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的法律定性",
+              "赌博罪从犯的认定标准及量刑参考"
+            ],
+            "赌博罪中望风行为的法律定性": "### 结论\n在赌博罪中，望风行为通常被认定为从犯，但若行为人还参与了事前共谋、纠集人员等行为，对犯罪起到主要作用，则可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：如果行为人仅负责望风，未参与赌博犯罪预谋，未按赌博收入进行利润分成，亦未领取高额固定工资，则通常被认定为从犯。例如，【（2018）陕04刑终162号】中，董攀、董天乐因中途加入，仅从事端茶送水等服务及望风，未参与预谋，被认定为从犯。\n- **自首与悔罪表现**：自动投案，如实供述犯罪事实，有自首情节，且积极退交违法所得，可从轻处罚。例如，【（2018）陕04刑终162号】中，董涛因自首、退交违法所得，原判量刑被确认为适当。\n- **犯罪情节**：犯罪情节较轻，如未造成严重后果，可从轻处罚。例如，【（2020）浙0303刑初235号】中，龙元社因系从犯，归案后如实供述，自愿认罪认罚，且退出全部违法所得，被减轻处罚。\n- **主从犯认定**：如果行为人不仅在具体实施犯罪过程中负责望风，还参与了事前共谋和纠集人员等行为，对危害后果的发生起到主要作用，则可能被认定为主犯。例如，【（2017）青0122刑初225号】中，李某某因参与事前共谋和纠集人员，被认定为主犯。\n\n综上，望风行为在赌博罪中的法律定性主要取决于行为人的参与程度、是否自首、犯罪情节以及是否参与事前共谋等因素。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2020）浙0303刑初235号】：法院认为，被告人龙元社以营利为目的，受雇为他人开设的赌场负责望风，其行为已构成开设赌场罪，属情节严重。龙元社在共同犯罪中起辅助作用，系从犯，且归案后能如实供述自己的罪行，自愿认罪认罚，故予减轻处罚。鉴于龙元社已退出全部违法所得，可酌情从轻处罚。一、被告人龙元社犯开设赌场罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币15000元。\n （缓刑考验期限，从判决确定之日起计算。在缓刑考验期限内，应接受社区矫正，服从社区矫正机构的监督管理。罚金刑保证金已缴纳。）\n 二、被告人龙元社退至本院的违法所得人民币10000元，予以没收，上缴国库。",
+            "赌博罪从犯的认定标准及量刑参考": "### 结论\n赌博罪从犯的认定标准主要依据行为人在共同犯罪中所起的作用大小，量刑时会考虑从犯的犯罪情节、是否如实供述、是否退出违法所得、是否有前科等因素，依法应当从轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人在共同犯罪中所起的作用**：如果行为人起次要作用，如【（2018）苏0412刑初529号】中的徐某、贾某，法院认定为从犯，依法从轻处罚。\n- **是否如实供述自己的罪行**：如实供述的，如【（2018）苏0412刑初529号】中的艾某甲等人，依法可以从轻处罚。\n- **是否退出违法所得**：已退出违法所得的，如【（2018）苏0412刑初529号】中的艾某甲、徐某、贾某，可酌情从轻处罚。\n- **是否有犯罪前科**：有犯罪前科的，如【（2018）苏0412刑初529号】中的杨某，应酌情从重处罚。\n\n综上，赌博罪从犯的认定和量刑，主要依据行为人在共同犯罪中所起的作用大小，以及是否如实供述、是否退出违法所得、是否有前科等情节，法院会依法从轻处罚从犯，但对主犯则会根据其犯罪情节进行相应的处罚。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：\n1.公诉人提供的同案人供述虽相互印证但缺乏客观证据佐证，证明力不足\n2.现场查获的赌资和赌具与被告人俸某无直接关联，不能证明其参与赌博活动\n3.被告人仅负责望风，未实际参与赌博组织或获利，作用较小\n\n防御策略：\n1.根据刑法第27条，被告人在共同犯罪中起辅助作用，应认定为从犯\n2.被告人在侦查阶段如实供述望风事实，具有坦白情节\n3.参考类似案例(2018)陕04刑终162号，单纯望风行为通常认定为从犯并减轻处罚",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第三百零三条第一款"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中单纯望风行为如何认定犯罪地位？",
+              "赌博罪从犯认定的相关案例"
+            ],
+            "赌博罪中单纯望风行为如何认定犯罪地位？": "### 结论\n在赌博罪中，单纯望风行为通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等行为，对犯罪起到主要作用，则可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十六条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：如果行为人仅负责望风，未参与赌博犯罪预谋，未按赌博收入进行利润分成，亦未领取高额固定工资，则通常被认定为从犯。例如，【（2018）陕04刑终162号】中，董攀、董天乐因仅从事端茶送水等单纯服务及望风看场工作，未参与赌博犯罪预谋，被认定为从犯。\n- **事前共谋**：如果行为人不仅在具体实施犯罪过程中负责望风，还参与了事前共谋和纠集人员等行为，对危害后果的发生起到主要作用，则可能被认定为主犯。例如，【（2017）青0122刑初225号】中，李某某因参与事前共谋破坏电力设备，并为盗割电缆线联系他人帮忙，被认定为主犯。\n- **犯罪作用**：行为人在犯罪中的作用大小也是判断主从犯的重要因素。例如，【（2021）粤1971刑初2210号】中，王波虽负责为赌场看风，但因其在共同犯罪中起次要、辅助作用，被认定为从犯。\n\n综上，单纯望风行为在赌博罪中通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等行为，对犯罪起到主要作用，则可能被认定为主犯。法院在判断时会综合考虑行为人的参与程度、事前共谋情况以及在犯罪中的作用大小。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2021）粤1971刑初2210号】：法院认为，被告人王波无视国法，以营利为目的，参与开设赌场，其行为已构成开设赌场罪。鉴于王波仅负责为赌场看风，在共同犯罪中起次要、辅助作用，是从犯，依法应当从轻处罚。被告人王波犯开设赌场罪，判处有期徒刑一年四个月，并处罚金人民币10000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年7月13日起至2022年11月12日止；罚金自判决生效后一个月内一次性向本院缴纳，上缴国库。）",
+            "赌博罪从犯认定的相关案例": "### 结论\n在赌博罪的共同犯罪中，从犯的认定主要取决于被告人在犯罪中的作用和地位，包括是否参与犯罪预谋、是否直接参与赌博活动的组织和管理、是否获取高额利益等。法院通常会根据被告人的具体行为和作用来判断其是否属于从犯，从而影响量刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件和量刑标准，其中对于从犯的处罚有从轻或减轻的规定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与犯罪预谋和组织管理**：如果被告人参与了赌博犯罪的预谋和组织管理，通常不会被认定为从犯。例如，【（2018）陕04刑终162号】中，董攀、董天乐未参与赌博犯罪预谋，在多次实施赌博犯罪后中途加入，从事单纯服务工作，未按赌博收入进行利润分成，因此被认定为从犯。\n- **获取高额利益**：如果被告人从赌博犯罪中获取了高额利益，通常不会被认定为从犯。例如，【（2018）苏0312刑初258号】中，李某某虽未参与前期放置赌博机及违法所得分配的预谋，但负责日常管理赌博机、收取赌资等工作，因此未被认定为从犯。\n- **犯罪中的具体作用**：被告人在犯罪中的具体作用也是判断是否为从犯的重要因素。例如，【（2018）浙06刑终636号】中，唐平平担任赌博网站的下级代理人，通过开设和发放赌博账号，发展下级代理人或会员参赌，虽然作用较其上线相对较小，但因其在开设赌场共同犯罪中起到主要作用，未被认定为从犯。\n\n综上，被告人在赌博罪共同犯罪中是否被认定为从犯，主要取决于其在犯罪中的作用和地位，包括是否参与预谋、是否直接参与组织管理、是否获取高额利益等。法院在判决时会综合考虑这些因素，以确定被告人的具体责任和量刑。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）苏0312刑初258号】：法院认为，曹某某、李某某、张某某结伙利用赌博机开设赌场，构成开设赌场罪。曹某某、张某某自首，可从轻处罚。李某某虽未参与前期预谋，但负责日常管理赌博机、收取赌资，作用不小，不能认定为从犯，但当庭自愿认罪，可酌情从轻处罚。三被告犯罪情节较轻，认罪态度好，已退缴违法所得，可宣告缓刑。一、被告人曹某某犯开设赌场罪，判处拘役四个月，缓刑五个月，并处罚金人民币五千元（已预缴）。\n（缓刑考验期从判决确定之日起计算）。\n二、被告人李某某犯开设赌场罪，判处拘役四个月，缓刑五个月，并处罚金人民币五千元（已预缴）。\n（缓刑考验期从判决确定之日起计算）。\n三、被告人张某某犯开设赌场罪，判处拘役三个月，缓刑四个月，并处罚金人民币二千元（已预缴）。\n（缓刑考验期从判决确定之日起计算）。\n四、扣押的赌博机及机器内赌资人民币一千三百七十七元予以没收，由扣押机关徐州市铜山区公安局依法处置；退缴的违法所得予以没收，上缴国库。\n【（2018）浙06刑终636号】：法院认为，唐平平利用互联网组织赌博活动，为赌博网站担任代理并接受投注，其行为已构成开设赌场罪，且属情节严重。唐平平担任赌博网站的下级代理人，通过开设和发放赌博账号，发展下级代理人或会员参赌，开设网络赌场，并从有效投注额中按提成等方法获取非法利益。唐平平虽不能认定为从犯，但在开设赌场共同犯罪中，作用较其上线韩路路相对较小，二审期间又退缴了部分赃款，有一定悔罪表现。（一）维持浙江省诸暨市人民法院（2018）浙0681刑初707号刑事判决第二项，撤销第一项；\n （二）原审被告人唐平平犯开设赌场罪，判处有期徒刑四年，并处罚金人民币十五万元（刑期从判决生效之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一八年三月七日起至二○二二年三月六日止。罚金限在判决生效后十日内缴纳）。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.如实供述仅负责望风的事实，表明未实际参与赌博组织或获利 2.强调在共同犯罪中起辅助作用，应认定为从犯 3.参考类似案例(2018)陕04刑终162号，说明单纯望风行为通常从轻处罚 4.指出现场赌资赌具与被告人无直接关联，不能证明其参与赌博活动",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人俸某是否构成赌博罪。查明情况：公诉人通过同案人供述、证人证言等证据证明被告人在赌博现场负责望风；被告人承认望风行为但否认参与赌博组织。审判长认为被告人客观上为赌博活动提供了帮助，主观上明知是赌博活动，符合赌博罪构成要件。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：公诉人指控被告人参与赌博活动组织工作；辩护人主张被告人仅负责望风，起辅助作用。审判长认为根据现有证据，被告人仅负责望风工作，未参与赌博组织策划，应认定为从犯。\n\n3.被告人是否有从轻或减轻处罚情节。查明情况：被告人无前科，但未主动投案、未退赃赔偿、未取得谅解；辩护人强调被告人如实供述望风事实。审判长认为被告人虽认罪态度较好但无悔罪表现，无自首情节，从轻处罚情节有限。\n\n4.量刑建议的适当性。查明情况：公诉人建议判处有期徒刑并处罚金；辩护人未提出具体量刑意见。审判长认为需结合被告人从犯地位、参与程度等因素综合考量量刑建议的适当性。\n\n5.望风行为在赌博罪中的法律定性。查明情况：控辩双方对望风行为的法律性质存在争议。审判长认为根据刑法规定和司法实践，望风行为属于为赌博活动提供帮助的从犯行为，但需结合具体参与程度进行认定。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，证明被告人在赌博现场望风的事实。辩护人提出异议，认为该证据无法证明被告人实际参与赌博或从中获利。公诉人反驳指出望风行为构成共同犯罪。\n\n2. 公诉人连续出示6份同案人证言（赵某甲、刘某、宋某、彭某、周某等），均证明被告人在赌博现场望风的事实。辩护人对每份证言均提出相同异议，认为仅能证明望风事实，无法证明获利或组织赌博，且属于同案人供述证明力有限。公诉人逐一反驳，强调多份证言相互印证形成完整证据链。\n\n3. 公诉人出示22名参赌人员证言（邹某至赵某丙等），均证明参与赌博被查获的事实。被告人和辩护人对这些证据均无异议。\n\n4. 公诉人出示物证（现场照片、手机照片、赌资照片、扑克牌照片）及勘验检查笔录，证明案发现场情况和查获物品。被告人和辩护人均无异议。\n\n5. 公诉人出示书证（行政处罚决定书、扣押文书、立案文书等）和视听资料（审讯录像），证明案件办理程序合法性。被告人和辩护人均无异议。\n\n6. 辩护人表示无需举证，被告人表示不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第三百零三条": "以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。开设赌场的，处五年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金。组织中华人民共和国公民参与国（境）外赌博，数额巨大或者有其他严重情节的，依照前款的规定处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的法律定性",
+              "共同犯罪中从犯的认定标准"
+            ],
+            "赌博罪中望风行为的法律定性": "### 结论\n在赌博罪中，望风行为通常被认定为从犯，但若行为人还参与了事前共谋、纠集人员等行为，对犯罪起到主要作用，则可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：如果行为人仅负责望风，未参与赌博犯罪预谋，未按赌博收入进行利润分成，亦未领取高额固定工资，则通常被认定为从犯。例如，【（2018）陕04刑终162号】中，董攀、董天乐因中途加入，仅从事端茶送水等服务及望风，未参与预谋，被认定为从犯。\n- **自首与悔罪表现**：自动投案，如实供述犯罪事实，有自首情节，且积极退交违法所得，可从轻处罚。例如，【（2018）陕04刑终162号】中，董涛因自首、退交违法所得，原判量刑被确认为适当。\n- **犯罪情节**：犯罪情节较轻，如未造成严重后果，可从轻处罚。例如，【（2020）浙0303刑初235号】中，龙元社因系从犯，归案后如实供述，自愿认罪认罚，且退出全部违法所得，被减轻处罚。\n- **主从犯认定**：如果行为人不仅在具体实施犯罪过程中负责望风，还参与了事前共谋和纠集人员等行为，对危害后果的发生起到主要作用，则可能被认定为主犯。例如，【（2017）青0122刑初225号】中，李某某因参与事前共谋和纠集人员，被认定为主犯。\n\n综上，望风行为在赌博罪中的法律定性主要取决于行为人的参与程度、是否自首、犯罪情节以及是否参与事前共谋等因素。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2020）浙0303刑初235号】：法院认为，被告人龙元社以营利为目的，受雇为他人开设的赌场负责望风，其行为已构成开设赌场罪，属情节严重。龙元社在共同犯罪中起辅助作用，系从犯，且归案后能如实供述自己的罪行，自愿认罪认罚，故予减轻处罚。鉴于龙元社已退出全部违法所得，可酌情从轻处罚。一、被告人龙元社犯开设赌场罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币15000元。\n （缓刑考验期限，从判决确定之日起计算。在缓刑考验期限内，应接受社区矫正，服从社区矫正机构的监督管理。罚金刑保证金已缴纳。）\n 二、被告人龙元社退至本院的违法所得人民币10000元，予以没收，上缴国库。",
+            "共同犯罪中从犯的认定标准": "### 结论\n在共同犯罪中，从犯的认定主要依据行为人在犯罪中的地位、作用、参与程度、犯罪活动中的地位和作用、犯罪收益的分配情况等因素。从犯通常是指在共同犯罪中起次要或辅助作用的行为人，其行为对犯罪结果的影响较小，且通常是在主犯的指挥或影响下参与犯罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪起因和犯意的形成**：如果行为人只是被动接受任务，服从指挥，没有参与犯罪的策划和决策，通常会被认定为从犯。例如，【（2021）黑0725刑初41号】中，余某、薛某作为被雇佣工人，只承担生产环节工作，被认定为从犯。\n- **犯罪实施阶段和实行行为**：行为人是否实施了犯罪的主要实行行为，以及其行为对犯罪结果的原因力大小。如果行为人仅负责望风、后勤等辅助性工作，通常会被认定为从犯。例如，【（2017）晋10刑终424号】中，陈丽容仅负责烧水做饭等后勤工作，被认定为从犯。\n- **犯罪收益的分配情况**：从犯通常在犯罪收益中所占比例较小，或者没有直接参与犯罪收益的分配。例如，【（2014）绥中法刑一终字第26号】中，王某某在犯罪收益分配中地位较低，被认定为从犯。\n- **犯罪活动中的地位和作用**：如果行为人在犯罪活动中起到的是次要或辅助作用，如提供帮助、协助等，通常会被认定为从犯。例如，【（2019）鲁0104刑初301号】中，高静、姜华建虽积极参与，但未起主要作用，未被认定为从犯。\n\n综上，从犯的认定需要综合考虑行为人在犯罪中的地位、作用、参与程度、犯罪收益的分配情况等因素，以判断其在共同犯罪中的实际作用和地位。\n\n#####\n类似案件为：\n【（2021）黑0725刑初41号】：法院生效裁判认为：被告人戴某、沈某、赵某、余某、薛某违反国家规定，采取逃避监管的方式，通过暗管排放有毒物质，严重污染环境，其行为均已构成污染环境罪，应予依法惩处。\n本案中五名被告人系共同犯罪。戴某、沈某、赵某应在共同犯罪中应认定为主犯。基于以下理由：戴某、沈某、赵某三人为企业经营者，在企业经营过程中，由戴某负责技术管理、设备安装及原材料采购；沈某负责提供并管理资金、支付货款、记录账目；赵某负责工厂日常管理及后勤保障工作。戴某等三人作为策划、指挥者，各自活动地位相当。戴某等三人一起商量生产石墨碳素制品并架设暗管排放工业废水，均为犯意和犯罪行为的主要实施者，在共同犯罪中均起主要作用。\n余某、薛某在共同犯罪中应认定为从犯。基于以下理由：从参与程度来看，余某、薛某作为被雇佣工人，只承担石墨碳素制品重要生产环节工作，该环节产生工业废水含有重金属铬。从犯罪活动地位来看，余某、薛某作为被动接受任务、服从指挥者。从犯罪作用来看，余某、薛某起到次要作用。\n本案考虑到戴某等三人犯罪活动地位相当，犯意和犯罪作用相当，给予戴某等三人一样的量刑处罚。余某、薛某作为从犯，犯罪参与程度、活动地位和作用相当，给予余某、薛某比照主犯从轻或减轻的处罚。故一审法院依法作出如上裁判。\n【（2017）晋10刑终424号】：法院认为，廖乃新、陈丽容虚构事实使被害人陷入错误认识而自愿处分财产，骗取人民币32万元，数额巨大，构成诈骗罪。陈丽容在共同犯罪中仅负责后勤工作，起次要、辅助作用，应认定为从犯。临汾市尧都区人民法院判决廖乃新犯诈骗罪，判处有期徒刑五年十一个月，并处罚金八万元；陈丽容犯诈骗罪，判处有期徒刑三年，并处罚金三万元。判决为终审判决。\n【（2014）绥中法刑一终字第26号】：法院认为，王某某为帮助他人索取债务，受指使参与非法限制公民人身自由，其行为构成非法拘禁罪。王某某在共同犯罪中起到次要和辅助的作用，应认定为从犯，应当从轻或减轻处罚。王某某归案后如实供述罪行，且获被害人谅解，可以从轻处罚。王某某犯非法拘禁罪，鉴于其从犯地位和认罪态度，判处有期徒刑一年。原审判决认定王某某为主犯不妥，二审予以纠正。判决为终审判决。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.通过被告人的供述和六名同案人的证言形成完整证据链，证实被告人明知是赌博活动仍参与望风，构成赌博罪共犯。\n2.强调被告人与赌博场所保持半小时一次的手机通讯联系，证明其望风行为与赌博活动具有直接关联性和主观故意。\n3.指出被告人虽未直接获利，但其望风行为为赌博活动提供重要保障，社会危害性不容忽视。\n4.参考(2018)陕04刑终162号案例，望风行为应认定为从犯责任，但被告人拒不认罪，应从重处罚。\n5.量刑建议符合刑法第303条及司法解释标准，建议判处有期徒刑六个月，缓刑一年，罚金5000元。\n\n防御策略：\n1.所有证人证言均经合法程序收集，与物证、勘验笔录相互印证，证据链完整。\n2.同案人辨认程序规范，能够准确指认被告人参与望风的事实，不存在证据瑕疵。\n3.被告人通讯记录证明其与赌博活动的直接关联，证据关联性明确。\n4.量刑建议已充分考虑被告人从犯地位及拒不认罪情节，符合法律规定。\n5.参考(2020)浙0303刑初235号案例，对望风人员判处缓刑具有先例支持。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，证明被告人在赌博现场望风的事实。辩护人提出异议，认为该证据无法证明被告人实际参与赌博或从中获利。公诉人反驳指出望风行为构成共同犯罪。\n\n2. 公诉人连续出示6份同案人证言（赵某甲、刘某、宋某、彭某、周某等），均证明被告人在赌博现场望风的事实。辩护人对每份证言均提出相同异议，认为仅能证明望风事实，无法证明获利或组织赌博，且属于同案人供述证明力有限。公诉人逐一反驳，强调多份证言相互印证形成完整证据链。\n\n3. 公诉人出示22名参赌人员证言（邹某至赵某丙等），均证明参与赌博被查获的事实。被告人和辩护人对这些证据均无异议。\n\n4. 公诉人出示物证（现场照片、手机照片、赌资照片、扑克牌照片）及勘验检查笔录，证明案发现场情况和查获物品。被告人和辩护人均无异议。\n\n5. 公诉人出示书证（行政处罚决定书、扣押文书、立案文书等）和视听资料（审讯录像），证明案件办理程序合法性。被告人和辩护人均无异议。\n\n6. 辩护人表示无需举证，被告人表示不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第三百零三条": "以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。开设赌场的，处五年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金。组织中华人民共和国公民参与国（境）外赌博，数额巨大或者有其他严重情节的，依照前款的规定处罚。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的司法认定标准",
+              "赌博罪从犯的量刑标准"
+            ],
+            "赌博罪中望风行为的司法认定标准": "### 结论\n在赌博罪中，望风行为的司法认定标准主要取决于行为人在犯罪中的作用和参与程度。单纯的望风行为通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等关键行为，可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件，即以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：行为人是否仅负责望风，还是参与了赌博犯罪的预谋、组织等关键环节。例如，【（2018）陕04刑终162号】中，董攀、董天乐仅负责望风和提供服务，未参与预谋，被认定为从犯；而【（2017）青0122刑初225号】中，李某某不仅望风，还参与了事前共谋和纠集人员，被认定为主犯。\n- **获利情况**：行为人是否从赌博中直接获利，以及获利的多少。例如，【（2018）陕04刑终162号】中，董攀、董天乐未按赌博收入分成，未领取高额固定工资，这影响了他们被认定为从犯。\n- **自首和悔罪表现**：行为人是否自动投案，是否积极退赃，是否有悔罪表现。例如，【（2018）陕04刑终162号】中，董涛自动投案，积极退交违法所得，被认定为从犯并从轻处罚；【（2020）渝0112刑初211号】中，徐传中虽有累犯情节，但如实供述，获得从轻处罚。\n\n综上，望风行为在赌博罪中的司法认定，关键在于行为人在犯罪中的具体作用、获利情况以及自首悔罪表现。单纯望风通常认定为从犯，但若参与预谋、组织等关键环节，则可能被认定为主犯。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。",
+            "赌博罪从犯的量刑标准": "### 结论\n赌博罪从犯的量刑标准受到多个因素的影响，包括但不限于：犯罪行为的性质、犯罪情节的严重程度、犯罪人的作用大小、是否具有自首、坦白、退赃等情节、以及犯罪行为的社会危害性。从犯相较于主犯，依法应当从轻处罚，但具体量刑需综合考虑上述因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪行为的性质**：如【（2018）苏0412刑初529号】中，法院认为被告人艾某甲、杨某起主要作用，系主犯；被告人徐某、贾某等起次要作用，系从犯，依法应当从轻处罚。\n- **犯罪情节的严重程度**：如【（2019）赣04刑终210号】中，法院认为陈某甲、陈某乙虽为从犯，但因犯罪情节严重，原审适用减轻处罚，在下一个量刑档次内量刑并不违反法律规定。\n- **犯罪人的作用大小**：如【（2018）陕04刑终162号】中，法院认为董攀、董天乐虽为赌博犯罪提供直接帮助，但作用较小，原判量刑过重，应予纠正。\n- **是否具有自首、坦白、退赃等情节**：如【（2018）苏0412刑初529号】中，五被告人归案后均能如实供述自己的罪行，依法均可从轻处罚；被告人艾某甲、徐某、贾某已退出违法所得，可酌情从轻处罚。\n- **犯罪行为的社会危害性**：如【（2012）沪二中刑终字第558号】中，法院认为被告人陈甲、陈乙开设赌场的社会危害性与犯罪的组织性，均未达到“情节严重”的程度。\n\n综上，赌博罪从犯的量刑需综合考虑犯罪行为的性质、情节的严重程度、犯罪人的作用大小、是否具有自首、坦白、退赃等情节以及犯罪行为的社会危害性。从犯的量刑应当从轻，但具体从轻的幅度需根据案件的具体情况而定。\n\n#####\n类似案件为：\n【（2019）赣04刑终210号】：法院生效裁判认为：被告人梁某甲、陈某甲、陈某乙、梁某、桂某、王某、梁某乙、邓某、朱某某、梁某丙明知赌博网站，而为其提供资金支付结算服务，并收取服务费用，情节严重，构成开设赌场罪。梁某甲明知是境外赌博网站，而为赌博网站提供资金支付结算服务，属于开设赌场罪的共同犯罪。在共同犯罪中，梁某甲起组织、领导作用，系主犯。原审认定其为从犯有误。但因瑞昌市人民检察院提出抗诉并未针对梁某甲，依法不能加重其刑罚。关于原审对陈某甲、陈某乙判处有期徒刑一年四个月，缓刑二年，并处罚金5万元，是否属量刑畸轻的问题，经查，本案被告人为境外赌博网站结算赌博资金3400余万元，收取服务费40余万元，属于情节严重，应当在有期徒刑三年至十年内判处刑罚。因陈某甲、陈某乙均为从犯，且具有坦白情节，原审适用减轻处罚，在下一个量刑档次内量刑并不违反法律规定，不宜认定量刑畸轻。原审认定事实清楚，证据确实、充分，审判程序合法，但对梁某甲适用法律有误，法院予以纠正，因抗诉机关并未对其提出抗诉，故不得加重其处罚。故法院依法作出如上裁判。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的同案人供述虽相互印证但缺乏客观证据佐证，证明力不足2.现场查获的赌资和赌具与被告人俸某无直接关联，不能证明其参与赌博活动3.被告人仅负责望风，未实际参与赌博组织或获利，作用较小\n\n防御策略：1.根据刑法第27条，被告人在共同犯罪中起辅助作用，应认定为从犯2.被告人在侦查阶段如实供述望风事实，具有坦白情节3.参考类似案例(2018)陕04刑终162号，单纯望风行为通常认定为从犯并减轻处罚",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，证明被告人在赌博现场望风的事实。辩护人提出异议，认为该证据无法证明被告人实际参与赌博或从中获利。公诉人反驳指出望风行为构成共同犯罪。\n\n2. 公诉人连续出示6份同案人证言（赵某甲、刘某、宋某、彭某、周某等），均证明被告人在赌博现场望风的事实。辩护人对每份证言均提出相同异议，认为仅能证明望风事实，无法证明获利或组织赌博，且属于同案人供述证明力有限。公诉人逐一反驳，强调多份证言相互印证形成完整证据链。\n\n3. 公诉人出示22名参赌人员证言（邹某至赵某丙等），均证明参与赌博被查获的事实。被告人和辩护人对这些证据均无异议。\n\n4. 公诉人出示物证（现场照片、手机照片、赌资照片、扑克牌照片）及勘验检查笔录，证明案发现场情况和查获物品。被告人和辩护人均无异议。\n\n5. 公诉人出示书证（行政处罚决定书、扣押文书、立案文书等）和视听资料（审讯录像），证明案件办理程序合法性。被告人和辩护人均无异议。\n\n6. 辩护人表示无需举证，被告人表示不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "单纯望风行为在赌博罪中的量刑标准",
+              "赌博罪中从犯认定的司法实践标准"
+            ],
+            "单纯望风行为在赌博罪中的量刑标准": "### 结论\n单纯望风行为在赌博罪中通常被认定为从犯，量刑时会考虑行为人在犯罪中的作用、是否参与犯罪预谋、是否自动投案、是否积极退赃、犯罪情节以及悔罪表现等因素，量刑一般较轻，但具体量刑需根据案件具体情况而定。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第二款**：以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否参与犯罪预谋**：如果行为人仅负责望风，未参与赌博犯罪预谋，量刑时会考虑其从犯地位，如【（2018）陕04刑终162号】中董攀、董天乐因未参与预谋，量刑被认定过重，予以纠正。\n- **是否自动投案和自首**：自动投案并如实供述犯罪事实的，可以从轻或减轻处罚，如【（2018）陕04刑终162号】中董攀因自首、退缴违法所得、有悔罪表现，依法可从轻处罚。\n- **犯罪情节和悔罪表现**：犯罪情节较轻、有悔罪表现的，量刑时会予以考虑，如【（2018）粤1322刑初439号】中叶德成因归案后如实供述、自愿认罪，依法可从轻处罚。\n- **是否参与其他犯罪行为**：如果行为人不仅望风，还参与了其他犯罪行为，如共谋、纠集人员等，可能被认定为主犯，如【（2017）青0122刑初225号】中李某某因参与事前共谋和纠集人员，被认定为主犯。\n\n综上，单纯望风行为在赌博罪中通常认定为从犯，量刑较轻，但具体量刑需综合考虑行为人在犯罪中的作用、是否自首、犯罪情节以及悔罪表现等因素。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）粤1322刑初439号】：法院认为，叶德成为赌博提供场所、赌具，其行为已构成开设赌场罪。鉴于叶德成归案后如实供述犯罪事实，当庭认罪，依法可从轻处罚。辩护人提出从轻处罚的辩护意见予以采纳，根据叶德成的犯罪情节、认罪态度和社会危害后果，决定适用缓刑。被告人叶德成犯开设赌场罪，判处有期徒刑十个月，缓刑一年，并处罚金人民币2000元（缓刑考验期限，从判决确定之日起计算。罚金限在本判决发生法律效力后30日内向本院交纳，上缴国库）。",
+            "赌博罪中从犯认定的司法实践标准": "### 结论\n在赌博罪中，从犯的认定主要依据被告人在共同犯罪中的作用大小、是否参与主要犯罪行为、是否直接实施犯罪活动以及获利情况。对于参与时间较短、未直接实施犯罪行为或获利较少的被告人，法院倾向于认定为从犯，从而从轻、减轻或免除处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **被告人在共同犯罪中的作用**：如果被告人在犯罪中起到关键作用，如直接参与组织、管理或实施犯罪活动，法院通常不认定为从犯。例如，【（2019）鄂0281刑初280号】中，被告人刘松华、刘林华、刘海枫、刘明家、石冬宝在赌博犯罪中起主要作用，被认定为主犯。相反，【（2019）粤1426刑初65号】中，被告人林某兰在赌博网站中属于最低层级的代理，发挥的作用较小，被认定为从犯。\n- **是否直接实施犯罪行为**：未直接实施犯罪行为的被告人，如仅提供赌博场地或担任赌博网站的低层级代理，更可能被认定为从犯。例如，【（2019）浙0411刑初203号】中，被告人李伟伟虽利用互联网开设赌场，但因其能如实供述罪行、主动退出违法所得，法院在量刑时考虑其从犯地位。\n- **获利情况**：获利较少或未获利的被告人，法院倾向于认定为从犯。例如，【（2019）京0102刑初393号】中，被告人燕卫光虽在组织赌博活动中负责点注并收钱，但其辩解称是受雇佣参与，法院未采纳其从犯辩护，但考虑其当庭认罪，酌情从轻处罚。\n\n综上，被告人在赌博罪中是否被认定为从犯，主要取决于其在共同犯罪中的作用、是否直接实施犯罪行为以及获利情况。法院在判罚时会综合考虑这些因素，以确保罪责刑相适应。\n\n#####\n类似案件为：\n【（2019）鄂0281刑初280号】：法院认为，被告人刘松华、刘林华、刘海枫、刘明家、石冬宝、卢朝伟、刘信的行为构成诈骗罪；被告人刘松华、刘林华、刘海枫、刘明家、石冬宝的行为构成赌博罪；被告人刘松华、刘林华、刘海枫、刘康、叶家连、李名志、尹冬喜的行为构成开设赌场罪。在诈骗共同犯罪中，均为主犯；在开设赌场犯罪中，刘松华、刘林华、刘海枫、刘康为主犯，尹冬喜、李名志为从犯。部分被告有自首、坦白、取得被害人谅解等情节，依法可从轻或减轻处罚。法院对各被告人分别判处有期徒刑并处罚金，对追缴的赌资及非法所得予以没收，上缴国库。\n【（2019）粤1426刑初65号】：法院认为，被告人林某兰为赌博网站担任代理并接受他人投注，其行为构成开设赌场罪。林某兰在赌博网站中属于最低层级的代理，起次要作用，可认定为从犯，依法可以从轻处罚；被告人到案后能如实供述，认罪态度较好，构成坦白，系初犯、偶犯，依法可以从轻处罚。一、被告人林某兰犯开设赌场罪，判处有期徒刑一年二个月，并处罚金15000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月23日起至2020年8月22日止。罚金于判决生效之日起一个月内缴纳。）\n二、被告人林某兰持有的作案工具iphoneX手机（序列号为354********5288）一部及台式电脑主机一台，均予以没收。\n【（2019）浙0411刑初203号】：法院认为，被告人李伟伟利用互联网、移动通讯终端等传输赌博视频、数据，为赌博网站担任代理并接受投注，涉案赌资52万余元，属情节严重，其行为已构成开设赌场罪。李伟伟能如实供述罪行，可以从轻处罚；其能主动退出违法所得，亦可酌情从轻处罚。李伟伟有赌博劣迹，应酌情从重处罚。一、被告人李伟伟犯开设赌场罪，判处有期徒刑三年，缓刑四年，并处罚金七万元（罚金限在判决生效后三日内缴纳）。\n缓刑考验期限，从判决确定之日起计算。\n二、扣押在案的作案工具手机一部、银行卡一张，由扣押机关依法予以没收；违法所得予以没收，上缴国库。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.如实供述仅负责望风的事实，表明未实际参与赌博组织或获利 2.强调在共同犯罪中起辅助作用，应认定为从犯 3.参考类似案例(2018)陕04刑终162号，说明单纯望风行为通常从轻处罚 4.指出现场赌资赌具与被告人无直接关联，不能证明其参与赌博活动",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人俸某是否构成赌博罪。查明情况：公诉人通过同案人供述、证人证言及通讯记录证明被告人参与赌博活动望风；辩护人认为证据仅能证明望风事实，不能证明参与赌博。审判长认为被告人客观上为赌博活动提供帮助，主观上明知是赌博活动，符合赌博罪构成要件。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：公诉人指控被告人参与赌博组织工作；辩护人主张被告人仅负责望风，起辅助作用。审判长根据现有证据认定被告人仅负责望风工作，未参与赌博组织策划，应认定为从犯。\n\n3.被告人认罪态度是否构成坦白情节。查明情况：公诉人认为被告人对犯罪构成事实予以否认，不构成坦白；辩护人主张被告人如实供述望风事实应认定为坦白。审判长认为被告人虽承认望风事实但对行为性质提出辩解，属于对法律适用的抗辩权行使，不影响坦白认定。\n\n4.量刑建议的适当性。查明情况：公诉人建议判处有期徒刑六个月缓刑一年并处罚金5000元；辩护人认为罚金过高建议降至3000元以下。审判长认为需结合被告人从犯地位、坦白情节及经济状况综合考量罚金数额的合理性。\n\n5.望风行为与赌博活动的关联性证明程度。查明情况：公诉人认为通讯记录与同案人证言已形成完整证据链；辩护人主张通讯记录不能直接证明联系内容与赌博相关。审判长认为现有证据已形成相互印证，但需进一步评估证据证明力是否达到排除合理怀疑标准。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，证明被告人在赌博现场望风的事实。辩护人提出异议，认为该证据无法证明被告人实际参与赌博或从中获利。公诉人反驳指出望风行为构成共同犯罪。\n\n2. 公诉人连续出示6份同案人证言（赵某甲、刘某、宋某、彭某、周某等），均证明被告人在赌博现场望风的事实。辩护人对每份证言均提出相同异议，认为仅能证明望风事实，无法证明获利或组织赌博，且属于同案人供述证明力有限。公诉人逐一反驳，强调多份证言相互印证形成完整证据链。\n\n3. 公诉人出示22名参赌人员证言（邹某至赵某丙等），均证明参与赌博被查获的事实。被告人和辩护人对这些证据均无异议。\n\n4. 公诉人出示物证（现场照片、手机照片、赌资照片、扑克牌照片）及勘验检查笔录，证明案发现场情况和查获物品。被告人和辩护人均无异议。\n\n5. 公诉人出示书证（行政处罚决定书、扣押文书、立案文书等）和视听资料（审讯录像），证明案件办理程序合法性。被告人和辩护人均无异议。\n\n6. 辩护人表示无需举证，被告人表示不申请调取新证据。\n\n法庭辩论阶段总结：\n1. 公诉人指控被告人构成赌博罪，认为证据确实充分，包括被告人供述、六名同案人证言及通讯记录，建议判处有期徒刑六个月，缓刑一年，并处罚金5000元。\n\n2. 辩护人提出证据链存在瑕疵，缺乏客观物证，认为被告人仅负责望风应认定为从犯，且具有坦白情节，建议从轻处罚并降低罚金数额。\n\n3. 公诉人反驳称通讯记录与同案人供述已形成完整证据链，虽认同从犯认定，但认为被告人拒不认罪不应从宽处罚。\n\n4. 辩护人澄清被告人仅对罪名认定有异议而非否认事实，应认定为坦白，并再次强调证据不足证明参与赌博活动，建议罚金降至3000元以下。\n\n5. 公诉人坚持认为被告人对犯罪构成的否认影响坦白认定，通讯记录与同案人指认已排除合理怀疑，5000元罚金与犯罪情节相适应。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条",
+              "中华人民共和国刑法第二十七条",
+              "最高人民法院关于处理自首和立功具体应用法律若干问题的解释第一条"
+            ],
+            "中华人民共和国刑法第三百零三条": "以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。开设赌场的，处五年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金。组织中华人民共和国公民参与国（境）外赌博，数额巨大或者有其他严重情节的，依照前款的规定处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。",
+            "最高人民法院关于处理自首和立功具体应用法律若干问题的解释第一条": "根据刑法第六十七条第一款的规定，犯罪以后自动投案，如实供述自己的罪行的，是自首。（一）自动投案，是指犯罪事实或者犯罪嫌疑人未被司法机关发觉，或者虽被发觉，但犯罪嫌疑人尚未受到讯问、未被采取强制措施时，主动、直接向公安机关、人民检察院或者人民法院投案。犯罪嫌疑人向其所在单位、城乡基层组织或者其他有关负责人员投案的；犯罪嫌疑人因病、伤或者为了减轻犯罪后果，委托他人先代为投案，或者先以信电投案的；罪行尚未被司法机关发觉，仅因形迹可疑，被有关组织或者司法机关盘问、教育后，主动交代自己的罪行的；犯罪后逃跑，在被通缉、追捕过程中，主动投案的；经查实确已准备去投案，或者正在投案途中，被公安机关捕获的，应当视为自动投案。并非出于犯罪嫌疑人主动，而是经亲友规劝、陪同投案的；公安机关通知犯罪嫌疑人的亲友，或者亲友主动报案后，将犯罪嫌疑人送去投案的，也应当视为自动投案。犯罪嫌疑人自动投案后又逃跑的，不能认定为自首。（二）如实供述自己的罪行，是指犯罪嫌疑人自动投案后，如实交代自己的主要犯罪事实。犯有数罪的犯罪嫌疑人仅如实供述所犯数罪中部分犯罪的，只对如实供述部分犯罪的行为，认定为自首。共同犯罪案件中的犯罪嫌疑人，除如实供述自己的罪行，还应当供述所知的同案犯，主犯则应当供述所知其他同案犯的共同犯罪事实，才能认定为自首。犯罪嫌疑人自动投案并如实供述自己的罪行后又翻供的，不能认定为自首；但在一审判决前又能如实供述的，应当认定为自首。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪中望风行为的司法认定标准",
+              "赌博罪从犯的量刑标准",
+              "望风人员是否构成赌博罪的司法实践"
+            ],
+            "赌博罪中望风行为的司法认定标准": "### 结论\n在赌博罪中，望风行为的司法认定标准主要取决于行为人在犯罪中的作用和参与程度。单纯的望风行为通常被认定为从犯，但如果行为人还参与了事前共谋、纠集人员等关键行为，可能被认定为主犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件，即以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与程度**：行为人是否仅负责望风，还是参与了赌博犯罪的预谋、组织等关键环节。例如，【（2018）陕04刑终162号】中，董攀、董天乐仅负责望风和提供服务，未参与预谋，被认定为从犯；而【（2017）青0122刑初225号】中，李某某不仅望风，还参与了事前共谋和纠集人员，被认定为主犯。\n- **获利情况**：行为人是否从赌博中直接获利，以及获利的多少。例如，【（2018）陕04刑终162号】中，董攀、董天乐未按赌博收入分成，未领取高额固定工资，这影响了他们被认定为从犯。\n- **自首和悔罪表现**：行为人是否自动投案，是否积极退赃，是否有悔罪表现。例如，【（2018）陕04刑终162号】中，董涛自动投案，积极退交违法所得，被认定为从犯并从轻处罚；【（2020）渝0112刑初211号】中，徐传中虽有累犯情节，但如实供述，获得从轻处罚。\n\n综上，望风行为在赌博罪中的司法认定，关键在于行为人在犯罪中的具体作用、获利情况以及自首悔罪表现。单纯望风通常认定为从犯，但若参与预谋、组织等关键环节，则可能被认定为主犯。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。",
+            "赌博罪从犯的量刑标准": "### 结论\n赌博罪从犯的量刑标准受到多个因素的影响，包括但不限于：犯罪行为的性质、犯罪情节的严重程度、犯罪人的作用大小、是否具有自首、坦白、退赃等情节、以及犯罪行为的社会危害性。从犯相较于主犯，依法应当从轻处罚，但具体量刑需综合考虑上述因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪行为的性质**：如【（2018）苏0412刑初529号】中，法院认为被告人艾某甲、杨某起主要作用，系主犯；被告人徐某、贾某等起次要作用，系从犯，依法应当从轻处罚。\n- **犯罪情节的严重程度**：如【（2019）赣04刑终210号】中，法院认为陈某甲、陈某乙虽为从犯，但因犯罪情节严重，原审适用减轻处罚，在下一个量刑档次内量刑并不违反法律规定。\n- **犯罪人的作用大小**：如【（2018）陕04刑终162号】中，法院认为董攀、董天乐虽为赌博犯罪提供直接帮助，但作用较小，原判量刑过重，应予纠正。\n- **是否具有自首、坦白、退赃等情节**：如【（2018）苏0412刑初529号】中，五被告人归案后均能如实供述自己的罪行，依法均可从轻处罚；被告人艾某甲、徐某、贾某已退出违法所得，可酌情从轻处罚。\n- **犯罪行为的社会危害性**：如【（2012）沪二中刑终字第558号】中，法院认为被告人陈甲、陈乙开设赌场的社会危害性与犯罪的组织性，均未达到“情节严重”的程度。\n\n综上，赌博罪从犯的量刑需综合考虑犯罪行为的性质、情节的严重程度、犯罪人的作用大小、是否具有自首、坦白、退赃等情节以及犯罪行为的社会危害性。从犯的量刑应当从轻，但具体从轻的幅度需根据案件的具体情况而定。\n\n#####\n类似案件为：\n【（2019）赣04刑终210号】：法院生效裁判认为：被告人梁某甲、陈某甲、陈某乙、梁某、桂某、王某、梁某乙、邓某、朱某某、梁某丙明知赌博网站，而为其提供资金支付结算服务，并收取服务费用，情节严重，构成开设赌场罪。梁某甲明知是境外赌博网站，而为赌博网站提供资金支付结算服务，属于开设赌场罪的共同犯罪。在共同犯罪中，梁某甲起组织、领导作用，系主犯。原审认定其为从犯有误。但因瑞昌市人民检察院提出抗诉并未针对梁某甲，依法不能加重其刑罚。关于原审对陈某甲、陈某乙判处有期徒刑一年四个月，缓刑二年，并处罚金5万元，是否属量刑畸轻的问题，经查，本案被告人为境外赌博网站结算赌博资金3400余万元，收取服务费40余万元，属于情节严重，应当在有期徒刑三年至十年内判处刑罚。因陈某甲、陈某乙均为从犯，且具有坦白情节，原审适用减轻处罚，在下一个量刑档次内量刑并不违反法律规定，不宜认定量刑畸轻。原审认定事实清楚，证据确实、充分，审判程序合法，但对梁某甲适用法律有误，法院予以纠正，因抗诉机关并未对其提出抗诉，故不得加重其处罚。故法院依法作出如上裁判。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。",
+            "望风人员是否构成赌博罪的司法实践": "### 结论\n在司法实践中，望风人员是否构成赌博罪，主要取决于其在赌博犯罪中的作用、参与程度以及是否从中获利。如果望风人员仅为赌博犯罪提供直接帮助，未参与预谋，未按赌博收入分成，未领取高额固定工资，且作用相对较小，法院可能认定其为从犯，量刑时会考虑其具体情节，包括自首、退赃、认罪态度等，可能从轻处罚或适用缓刑。但如果望风人员在赌博犯罪中起重要作用，如多次参与、获利丰厚，法院则会认定其构成开设赌场罪，且可能判处较重刑罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。开设赌场的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **参与赌博犯罪的预谋和作用**：如果望风人员未参与预谋，仅从事望风、端茶送水等辅助工作，法院可能认定其为从犯，量刑时会考虑其具体情节。例如，【（2018）陕04刑终162号】中，董攀、董天乐未参与赌博犯罪预谋，仅从事辅助工作，法院认定其为从犯，量刑时考虑了具体情节。\n- **获利情况**：是否按赌博收入分成或领取高额固定工资，是判断望风人员作用大小的重要因素。例如，【（2018）陕04刑终162号】中，董攀、董天乐未按赌博收入分成，亦未领取高额固定工资，法院认为其作用较小。\n- **自首、退赃、认罪态度**：这些因素在量刑时会被考虑。例如，【（2018）陕04刑终162号】中，董攀、董天乐有自首情节，董攀退缴全部违法所得，法院因此从轻处罚。\n- **犯罪情节和危害程度**：如果望风人员参与的赌博犯罪规模大、人员众多、赌资金额大，社会影响恶劣，法院可能不会认定为犯罪情节较轻。例如，【（2021）粤1971刑初2210号】中，王波参与的赌场规模大，社会影响恶劣，法院未认定为犯罪情节较轻。\n\n综上，望风人员是否构成赌博罪，以及量刑的轻重，主要取决于其在赌博犯罪中的作用、获利情况、自首、退赃、认罪态度以及犯罪情节和危害程度。法院在判决时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人俸某是否构成赌博罪。查明情况：公诉人通过同案人供述、证人证言及通讯记录证明被告人参与赌博活动望风；辩护人认为证据仅能证明望风事实，不能证明参与赌博。审判长认为被告人客观上为赌博活动提供帮助，主观上明知是赌博活动，符合赌博罪构成要件。\n\n2.被告人在共同犯罪中的地位和作用。查明情况：公诉人指控被告人参与赌博组织工作；辩护人主张被告人仅负责望风，起辅助作用。审判长根据现有证据认定被告人仅负责望风工作，未参与赌博组织策划，应认定为从犯。\n\n3.被告人认罪态度是否构成坦白情节。查明情况：公诉人认为被告人对犯罪构成事实予以否认，不构成坦白；辩护人主张被告人如实供述望风事实应认定为坦白。审判长认为被告人虽承认望风事实但对行为性质提出辩解，属于对法律适用的抗辩权行使，不影响坦白认定。\n\n4.量刑建议的适当性。查明情况：公诉人建议判处有期徒刑六个月缓刑一年并处罚金5000元；辩护人认为罚金过高建议降至3000元以下。审判长认为需结合被告人从犯地位、坦白情节及经济状况综合考量罚金数额的合理性。\n\n5.望风行为与赌博活动的关联性证明程度。查明情况：公诉人认为通讯记录与同案人证言已形成完整证据链；辩护人主张通讯记录不能直接证明联系内容与赌博相关。审判长认为现有证据已形成相互印证，但需进一步评估证据证明力是否达到排除合理怀疑标准。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人对起诉指控的犯罪事实提出异议，承认负责望风但否认直接参与赌博活动或从中获利\n2. 公诉人讯问确认：\n   - 被告人在案发时确实在赌博场所楼下望风\n   - 被告人知晓楼上进行赌博活动且望风目的是防止公安机关发现\n   - 被告人与同案人赵某甲等人认识三个月，由赵某甲安排望风工作\n   - 被告人未获得报酬，未主动投案，未退赃赔偿或取得谅解\n3. 辩护人讯问确认：\n   - 被告人未接触或管理赌资赌具\n   - 被告人在侦查阶段已承认望风事实\n   - 被告人无前科及行政处罚记录\n   - 被告人与同案人无书面协议或报酬约定\n4. 审判长补充讯问确认：\n   - 被告人与赌博场所保持半小时一次的手机通讯联系\n   - 望风时间段为凌晨1点至2点\n   - 望风位置距离赌博场所约20米\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，证明被告人在赌博现场望风的事实。辩护人提出异议，认为该证据无法证明被告人实际参与赌博或从中获利。公诉人反驳指出望风行为构成共同犯罪。\n\n2. 公诉人连续出示6份同案人证言（赵某甲、刘某、宋某、彭某、周某等），均证明被告人在赌博现场望风的事实。辩护人对每份证言均提出相同异议，认为仅能证明望风事实，无法证明获利或组织赌博，且属于同案人供述证明力有限。公诉人逐一反驳，强调多份证言相互印证形成完整证据链。\n\n3. 公诉人出示22名参赌人员证言（邹某至赵某丙等），均证明参与赌博被查获的事实。被告人和辩护人对这些证据均无异议。\n\n4. 公诉人出示物证（现场照片、手机照片、赌资照片、扑克牌照片）及勘验检查笔录，证明案发现场情况和查获物品。被告人和辩护人均无异议。\n\n5. 公诉人出示书证（行政处罚决定书、扣押文书、立案文书等）和视听资料（审讯录像），证明案件办理程序合法性。被告人和辩护人均无异议。\n\n6. 辩护人表示无需举证，被告人表示不申请调取新证据。\n\n法庭辩论阶段总结：\n1. 公诉人指控被告人构成赌博罪，认为证据确实充分，包括被告人供述、六名同案人证言及通讯记录，建议判处有期徒刑六个月，缓刑一年，并处罚金5000元。\n\n2. 辩护人提出证据链存在瑕疵，缺乏客观物证，认为被告人仅负责望风应认定为从犯，且具有坦白情节，建议从轻处罚并降低罚金数额。\n\n3. 公诉人反驳称通讯记录与同案人供述已形成完整证据链，虽认同从犯认定，但认为被告人拒不认罪不应从宽处罚。\n\n4. 辩护人澄清被告人仅对罪名认定有异议而非否认事实，应认定为坦白，并再次强调证据不足证明参与赌博活动，建议罚金降至3000元以下。\n\n5. 公诉人坚持认为被告人对犯罪构成的否认影响坦白认定，通讯记录与同案人指认已排除合理怀疑，5000元罚金与犯罪情节相适应。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百零三条第一款",
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "赌博罪望风人员量刑案例",
+              "赌博罪从犯缓刑适用案例",
+              "赌博罪罚金数额参考"
+            ],
+            "赌博罪望风人员量刑案例": "### 结论\n在赌博罪中，望风人员的量刑受到其在犯罪中的作用、是否自首、退赃情况、有无前科以及是否适用缓刑等因素的影响。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条**：规定了赌博罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十五条**：规定了累犯应当从重处罚。\n- **《中华人民共和国刑法》第七十二条**：规定了缓刑的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **在犯罪中的作用**：从犯相较于主犯量刑更轻。例如，【（2018）陕04刑终162号】中，董攀、董天乐因未参与赌博犯罪预谋，仅从事服务性工作，被认定为从犯，量刑较主犯轻。\n- **自首情况**：自首可以从轻或减轻处罚。如【（2019）粤1704刑初65号】中，黄小明自动投案，如实供述犯罪事实，被认定为自首，依法从轻处罚。\n- **退赃情况**：积极退赃的，量刑时可酌情从轻。如【（2018）陕04刑终162号】中，董涛积极退交违法所得，量刑时予以考虑。\n- **有无前科**：有前科的，量刑时酌情从重。如【（2018）苏0412刑初529号】中，杨某有犯罪前科，量刑时被酌情从重。\n- **是否适用缓刑**：根据犯罪情节和悔罪表现，部分从犯可能适用缓刑。如【（2018）苏0412刑初529号】中，徐某、贾某因犯罪情节较轻，适用缓刑。\n\n综上，望风人员在赌博罪中的量刑，主要受其在犯罪中的作用、是否自首、退赃情况、有无前科以及是否适用缓刑等因素的影响。法院在量刑时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。\n【（2019）粤1704刑初65号】：法院认为，被告人黄小明受雇为赌场望风，其行为构成开设赌场罪。黄小明在共同犯罪中起次要作用，系从犯，且有自首情节，依法应从轻处罚。鉴于黄小明有犯罪前科，不宜适用缓刑。一、被告人黄小明犯开设赌场罪，判处拘役五个月，并处罚金人民币1000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年11月23日起至2019年4月22日止。罚金限在判决生效之日起十日内缴纳。）\n二、依法追缴被告人黄小明的违法所得人民币400元。\n【（2018）陕04刑终162号】：法院认为，董团伟、牛红侠、董涛、郭冲、董天乐、董攀的行为构成赌博罪；董团伟、董天乐、董攀、巩军舰的行为构成非法拘禁罪。在赌博罪中，董团伟、牛红侠系主犯，董涛、郭冲、董天乐、董攀系从犯；董攀、董天乐有自首情节，积极退赔和认罪；董团伟、牛红侠、董涛、郭冲有坦白情节；董团伟、巩军舰系累犯；董团伟、董天乐赔偿被害人并获谅解；郭冲适用缓刑。法院对董团伟、牛红侠、郭冲、巩军舰、董涛的赌博罪和非法拘禁罪分别判处有期徒刑并处罚金，对董攀、董天乐的赌博罪和非法拘禁罪重新评估量刑，董攀适用缓刑。\n二审法院认定，董攀、董天乐在赌博罪中所起作用较小，董攀有自首情节，退缴全部违法所得，原判量刑过重，董攀可适用缓刑；董天乐量刑亦过重，予以纠正。\n综上，二审法院维持对董团伟、牛红侠、郭冲、巩军舰、董涛的原判，改判董攀、董天乐量刑，并对董攀适用缓刑。",
+            "赌博罪从犯缓刑适用案例": "### 结论\n赌博罪从犯适用缓刑的关键因素包括：从犯地位、如实供述、退赃、初犯、无前科、社会危害性评估。从犯在共同犯罪中起次要作用，如实供述自己的罪行，积极退赃，且为初犯、无前科劣迹，社会危害性相对较小的情况下，法院倾向于适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **从犯地位**：从犯在共同犯罪中起次要作用，是适用缓刑的重要条件。例如，【（2019）浙0105刑初338号】中，被告人李某某虽构成开设赌场罪，但因其自动投案并如实供述，法院考虑其从犯地位，虽未适用缓刑，但体现了从犯地位对量刑的影响。\n- **如实供述**：被告人归案后能如实供述自己的罪行，是适用缓刑的法定条件之一。如【（2019）浙0327刑初755号】中，被告人林全云主动投案并如实供述犯罪事实，系自首，且已退出违法所得，法院予以从轻处罚并适用缓刑。\n- **退赃**：被告人积极退赃，可酌情从轻处罚，是适用缓刑的考量因素。如【（2020）沪0116刑初604号】中，被告人薛某、朱某某、王某积极退赃，法院酌情从轻处罚。\n- **初犯、无前科**：被告人是初犯、无前科劣迹，法院在量刑时会予以考虑。如【（2019）浙0213刑初427号】中，被告人周晶是初犯，无前科劣迹，法院在决定是否适用缓刑时予以考虑。\n- **社会危害性评估**：法院会评估被告人的行为对社会的危害性，如参赌人数、开设赌场的方法等，以决定是否适用缓刑。如【（2019）浙0327刑初755号】中，法院认为被告人林全云的行为社会危害性较小，适用缓刑。\n\n综上，从犯在共同犯罪中所起的作用、是否如实供述、是否积极退赃、是否为初犯、无前科劣迹以及行为的社会危害性评估，是法院决定是否适用缓刑的关键因素。\n\n#####\n类似案件为：\n【（2019）浙0105刑初338号】：法院认为，被告人李某某伙同他人以营利为目的，为赌博网站担任代理并接受投注，情节严重，其行为已构成开设赌场罪。李某某自动投案，如实供述主要罪行，系自首，予以从轻处罚。但辩护人请求判处三年以下有期徒刑并适用缓刑的辩护意见与李某某的罪行及法律规定不符，不予采纳。被告人李某某犯开设赌场罪，判处有期徒刑三年二个月，并处罚金人民币30000元（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年11月12日起至2023年1月11日止。罚金限判决生效后一个月内缴纳）。\n【（2019）浙0327刑初755号】：法院认为，被告人林全云以营利为目的，受雇参与开设赌场，其行为已构成开设赌场罪。林全云系从犯，有自首情节，且已退出违法所得，予以从轻处罚并适用缓刑。一、被告人林全云犯开设赌场罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币5000元。\n（缓刑考验期限从判决确定之日起计算。罚金限于本判决生效后十日内缴纳）。\n二、暂存于本院的赃款人民币1200元，予以没收，上缴国库。\n【（2020）沪0116刑初604号】：法院认为，被告人薛某、朱某某、杨某某、王某以营利为目的，伙同他人利用互联网开设赌场，其中薛某、朱某某、杨某某系情节严重，其行为均已构成开设赌场罪。薛某、朱某某、杨某某、王某均系从犯，对薛某、朱某某、杨某某减轻处罚，对王某从轻处罚。薛某、朱某某、杨某某、王某到案后如实供述自己的罪行，可以从轻处罚。薛某、朱某某、王某积极退赃，可酌情从轻处罚。一、被告人薛某犯开设赌场罪，判处有期徒刑二年，并处罚金人民币二万元。\n(刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年12月17日起至2021年12月16日止；罚金于判决生效之日起一个月内缴纳。)\n二、被告人朱某某犯开设赌场罪，判处有期徒刑一年八个月，并处罚金人民币一万八千元。\n(刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年12月17日起至2021年8月16日止；罚金于判决生效之日起一个月内缴纳。)\n三、被告人杨某某犯开设赌场罪，判处有期徒刑一年四个月，并处罚金人民币一万四千元。\n(刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2020年7月22日起至2021年11月20日止；罚金于判决生效之日起一个月内缴纳。)\n四、被告人王某犯开设赌场罪，判处有期徒刑一年，并处罚金人民币一万元。\n(刑期自判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2020年7月22日起至2021年6月15日止；罚金于判决生效之日起一个月内缴纳。)\n五、扣押的作案工具予以没收；被告人薛某、朱某某、杨某某、王某的违法所得予以追缴并没收。如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向上海市第一中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。",
+            "赌博罪罚金数额参考": "### 结论\n赌博罪的罚金数额通常与犯罪情节的严重性、违法所得的金额、被告人的认罪态度、退赃情况以及是否为初犯等因素相关。罚金数额从人民币几千元到几万元不等，具体数额需根据个案的具体情况确定。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百零三条第一款**：规定以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n- **《中华人民共和国刑法》第五十二条**：规定判处罚金，应当根据犯罪情节决定罚金数额。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪情节的严重性**：犯罪情节越严重，罚金数额越高。例如，【（2018）苏0412刑初529号】中，主犯艾某甲被判处有期徒刑一年，缓刑二年，并处罚金人民币五万元，而从犯徐某被判处有期徒刑八个月，缓刑一年，并处罚金人民币二万元。\n- **违法所得的金额**：违法所得越多，罚金数额越高。例如，【（2018）闽0212刑初635号】中，赵某某因召集他人进行“六合彩”赌博活动，被判处拘役二个月，并处罚金人民币二千元。\n- **被告人的认罪态度**：认罪态度好，罚金数额可能较低。例如，【（2018）苏0412刑初529号】中，艾某甲等人因归案后能如实供述自己的罪行，依法均可从轻处罚。\n- **退赃情况**：已退出违法所得的，罚金数额可能较低。例如，【（2018）苏0412刑初529号】中，艾某甲、徐某、贾某已退出违法所得，可酌情从轻处罚。\n- **是否为初犯**：初犯的罚金数额可能较低。例如，【（2020）闽0622刑初12号】中，方进德因系初犯，法院在量刑时予以考虑。\n\n综上，赌博罪的罚金数额受到多种因素的影响，法院在量刑时会综合考虑上述因素，以确定合理的罚金数额。\n\n#####\n类似案件为：\n【（2020）闽0622刑初12号】：法院认为，方进德为赌博网站担任代理并接受投注，赌资数额累计436.7542万元，情节严重，其行为已构成开设赌场罪。方进德具有坦白、自愿认罪、积极缴纳罚金等情节，依法可从轻处罚。但根据方进德的犯罪情节、悔罪表现，不宜减轻处罚和适用缓刑。一、被告人方进德犯开设赌场罪，判处有期徒刑三年六个月；并处罚金人民币五万元（已缴纳二万），除已缴纳的外，限于判决生效之日起一个月内缴纳（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月14日至2022年11月13日止）。\n 二、扣押在案的作案工具苹果iphone6s手机一部，予以没收。\n 三、继续追缴被告人方进德的违法所得。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 5.0,
+    "fine": 3000.0,
+    "reprieve": 6.0
+  }
+]

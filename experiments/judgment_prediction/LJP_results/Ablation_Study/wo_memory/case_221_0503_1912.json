@@ -1,0 +1,1818 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人王某甲，性别男，民族XXX，文化程度XXX，户籍XXX，因敲诈勒索罪于2019年8月21日被抓获。曾因违法行为于2013年4月13日被行政拘留15日并处罚金1000元，于2013年4月25日被行政拘留10日并处罚金500元。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "2013年4月13日被行政拘留15日并处罚金1000元，2013年4月25日被行政拘留10日并处罚金500元。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院  \n起 诉 书  \n\n齐梅检未刑诉〔2019〕2号  \n\n被告人王某甲，男，XXXX年XX月XX日出生，公民身份号码XXXXXXXXXXXXXXXXXX，汉族，文化程度XXX，户籍所在地XXX。因涉嫌敲诈勒索罪，于2019年8月21日被公安机关抓获。  \n\n本案由黑龙江省齐齐哈尔市梅里斯达斡尔族区公安局侦查终结，以被告人王某甲涉嫌敲诈勒索罪，于2019年XX月XX日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人和认罪认罚可能导致的法律后果，依法讯问了被告人，听取了辩护人、被害人的意见，审查了全部案件材料。  \n\n经依法审查查明：  \n2018年，被告人王某甲通过微信认识被害人安某（未成年人），并发展为男女朋友关系。2019年2月27日21时44分，王某甲在家中通过微信以公开安某裸照相威胁，向其索要人民币2000元。因安某未及时转账，王某甲将安某的4张裸照发布至“江北4信息平台群”（344人）、“永刚雅尔塞信息群”（327人）、“梅某一代天骄啤酒1群”（117人）等微信群，并PS文字“聘夫”进行侮辱。次日10时40分，安某被迫通过微信向王某甲转账2000元。  \n\n认定上述事实的证据如下：  \n1. 书证：户籍证明、侦破经过、微信转账记录、微信群截图、行政处罚决定书等；  \n2. 证人证言：曹某甲、王某乙等7名证人证实裸照传播及安某身心受损情况；  \n3. 被害人陈述：安某陈述被威胁转账过程；  \n4. 被告人供述：王某甲对敲诈勒索行为供认不讳；  \n5. 鉴定意见：公安机关电子数据鉴定报告（含1.32GB涉案数据）。  \n\n本院认为，被告人王某甲以公开未成年人隐私相要挟，勒索财物数额较大，其行为触犯《中华人民共和国刑法》第二百七十四条，犯罪事实清楚，证据确实、充分，应当以敲诈勒索罪追究刑事责任。鉴于王某甲认罪认罚并主动退赔，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n黑龙江省齐齐哈尔市梅里斯达斡尔族区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2019年12月4日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，对起诉书指控的事实和罪名没有异议。我已经主动退赔被害人2000元，并深刻认识到自己的错误。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某甲，你在2019年2月27日是否通过微信向被害人安某发送其裸照，并以公开裸照相威胁索要2000元人民币？请具体说明威胁的内容和方式。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的。我当时在微信上给安某发了她的裸照，说如果她不给我2000块钱，我就把这些照片发到网上。后来因为她没及时转钱，我就把照片发到了几个微信群。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "当被害人安某未按时转账时，你是否将她的裸照发布至\"江北4信息平台群\"等微信群？请说明发布的具体时间、群组名称及群成员人数。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的。2019年2月27日晚上11点左右，我把照片发到了\"江北4信息平台群\"（344人）、\"永刚雅尔塞信息群\"（327人）、\"梅某一代天骄啤酒1群\"（117人）和梅里斯区第二中学QQ群。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人安某之前是什么关系？你实施上述行为的动机是什么？是否因为安某提出分手并拉黑你的电话而意图报复？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们是男女朋友关系。当时她提出分手还拉黑我，我很生气，想报复她。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "2019年2月28日上午10时40分，被害人安某是否通过微信向你转账2000元？这笔钱是否是在你的威胁下被迫支付的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的。安某在2月28日上午10点40分给我转了2000元。她是在我发了照片到群里之后才转的钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否意识到被害人安某是未成年人？你了解发布未成年人裸照并以此勒索钱财的法律后果吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我知道安某是未成年人。当时一时冲动没想那么多，现在知道这是违法的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在2013年曾两次因违法行为被行政处罚，这次是否属于再次违法？你对此有何认识？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，2013年确实被行政处罚过两次。这次我确实又违法了，我深刻认识到自己的错误，愿意接受法律的惩罚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你是否主动退赔被害人损失？是否与被害人达成和解或取得谅解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我已经主动退赔了2000元给安某。目前还没有取得被害人的书面谅解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你现在对本案的犯罪行为有何认识？是否认罪认罚？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，已经深刻认识到自己的错误。当时因为感情问题一时冲动，现在非常后悔。我已经主动退赔了2000元给安某，希望能减轻对她的伤害。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发布到微信群的照片是否经过PS处理？具体添加了什么文字内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我把照片PS处理过，在上面加了\"聘夫\"两个字。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人王某甲，你与被害人安某之前是什么关系？请详细说明你们从相识到分手的全过程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年通过微信认识安某，后来发展成男女朋友关系。2019年2月她提出分手并拉黑了我的电话，我很生气就做了这些事。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向安某索要2000元的具体原因是什么？是否如起诉书所称是为了报复？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时主要是想通过这种方式让她继续和我在一起，2000元是临时想到的金额。确实是因为她提出分手我很生气，想通过这种方式让她回心转意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在发布裸照前是否收到过安某的还款意愿表示？她是否明确表示过拒绝支付？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "安某在收到我的威胁后没有明确表示要支付，也没有明确拒绝。她当时只是没有及时转账，所以我就把照片发出去了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你使用的微信账号\"大嫂\"是否曾借给他人使用？能否确认所有群发操作均由你本人完成？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "\"大嫂\"这个微信账号一直是我本人在使用，所有群发操作都是我亲自完成的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在收到2000元后是否如约删除裸照？有无继续实施威胁行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "收到2000元后我就把照片从群里删除了，之后没有再威胁过安某。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你为何选择在案发后外出打工？是否意识到行为已涉嫌犯罪？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时觉得事情闹大了，想出去避一避。当时知道这样做不对，但没意识到已经涉嫌犯罪。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你目前已退赔全部款项，是否与被害人方有过直接沟通？对方是否表示谅解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "已经通过中间人联系过安某，但还没有直接沟通。目前对方还没有出具书面谅解书。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你能否具体说明在发布裸照到微信群后，是否有人对照片内容进行过评论或转发？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有看到有人评论或转发。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照到微信群后，是否主动采取措施删除这些照片？具体是什么时候删除的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "收到2000元后我就把照片从群里删除了，具体是在2月28日当天删除的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照到微信群后，是否有人主动联系你要求删除这些照片？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有，没有人联系我要求删除照片。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照的微信群中是否有被害人的同学或熟人？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "梅里斯区第二中学QQ群里可能有她的同学，其他群我不确定有没有她的熟人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照到微信群后，是否继续向被害人索要更多财物？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有，收到2000元后我就没有再索要更多财物。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你发布裸照到微信群后，是否曾主动联系被害人告知已删除照片？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有，我没有主动联系被害人告知已删除照片。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2018年，我通过微信认识了安某，并发展为男女朋友关系。2019年2月26日晚18时许，我在梅里斯达斡尔族区奈门沁村的家中，通过微信向安某发送了她的三四张裸照，目的是让她明白不要和我分手。2019年2月27日晚21时44分，我再次通过微信威胁安某，要求她支付×××元钱，否则将她的裸照公开。因安某未按时支付，当晚11点，我将她的4张裸照发布至“江北4信息平台群”“永刚雅尔塞信息群”“梅某一代天骄啤酒群”及梅里斯区第二中学QQ群，群成员合计约六七百人。2019年2月28日上午10时40分，安某通过微信转账支付给我×××元钱。随后，我前往河北霸州市打工。2019年8月21日18时，我在河北霸州市胜芳镇石某被公安机关抓获。  \n\n（2）犯案动机  \n我与安某曾是男女朋友关系，因她提出分手并将我电话拉黑，我感到愤怒，意图报复。我通过公开她的裸照威胁她，目的是强迫她继续与我保持关系，并索要钱财。  \n\n（3）案发之后的处理  \n我在案发后没有自首，也未主动赔偿被害人损失。公安机关未提及我与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "对被告人在侦查阶段的供述中关于\"公安机关未提及我与被害人达成和解或取得谅解\"部分提出异议。根据被告人当庭供述及案卷材料显示，被告人已主动退赔被害人2000元，该部分供述与事实不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在侦查阶段确实未与被害人达成和解或取得谅解。根据补充侦查材料显示，被告人在审查起诉阶段才主动退赔2000元，该行为不影响其在侦查阶段供述的真实性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议点已充分表达，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：户籍证明，证实被告人王某甲及被害人安某身份情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：侦破经过，证实被告人王某甲涉嫌敲诈勒索罪侦破经过",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：安某给王某甲微信转账记录，证实2019年2月28日上午10时33分，被害人安某给被告人王某甲用微信转了×××元钱，该转账记录已由腾讯公司出具电子数据认证报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该转账记录仅能证明资金往来事实，但无法直接证明该笔转账系在胁迫下完成。根据被告人供述，双方存在感情纠纷，不能排除该笔款项系感情纠纷中自愿给付的可能性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "微信转账记录与被告人供述、被害人陈述相互印证，形成完整证据链。被告人当庭已承认该笔转账系在其发布裸照威胁后被迫支付，且转账时间与威胁行为存在直接因果关系。转账记录作为客观证据，与言词证据共同证明敲诈勒索事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就转账记录的性质充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：安某手机信息、微信截图，证实被告人王某甲威胁、辱骂安某的过程，要求不给×××元就将被害人裸照公开，该电子数据已由公安机关电子数据鉴定中心出具鉴定报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该微信截图证据未完整显示被告人账号与发布行为的直接关联，无法充分证明威胁内容与发布裸照行为之间的必然联系。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "微信截图证据已由公安机关电子数据鉴定中心出具鉴定报告，证实其真实性和完整性。该证据与被告人供述中关于威胁内容和发布裸照的供述完全吻合，能够形成完整的证据链证明被告人的敲诈勒索行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就微信截图证据的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：吴某、刘某、孙某、王某乙的手机照片，证实被告人王某甲发布裸照的微信群信息群有321人，一代天骄啤酒1群有117人，该电子数据已由公安机关电子数据鉴定中心出具鉴定报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人证言中对微信群人数描述存在矛盾，部分证人称\"江北4信息平台群\"有344人，而本案证据显示为321人，该矛盾影响对传播范围的准确认定。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "公安机关电子数据鉴定报告已对微信群成员人数进行准确核实，344人与321人的差异系因部分群成员退群所致。鉴定报告显示案发时\"江北4信息平台群\"实际成员为344人，与被告人供述一致，不影响对犯罪事实的认定。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就微信群人数问题充分发表意见，法庭已记录在案。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：班主任证明，证实被害人安某因事假于2019年3月1日至3月4日期间没有在学校学习",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该班主任证明仅能证实被害人请假事实，但无法直接证明请假原因与本案存在必然因果关系。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "班主任证明与被害人陈述相互印证，被害人明确表示因裸照被公开导致心理创伤而请假，请假时间与案发时间高度吻合，能够证明犯罪行为与损害后果之间的因果关系。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就班主任证明的证明力充分发表意见，法庭已记录在案。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：在逃人员登记表，证实被告人王某甲于2019年3月7日向吉林省方向逃跑，于2019年8月23日撤销其逃跑记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：王某甲行政处罚决定书，证实被告人王某甲于2013年4月13日行政拘留15日并处罚金1000元，于2013年4月25日行政拘留10天并处罚金500元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该行政处罚决定书仅能证明被告人曾受过行政处罚，但与本案敲诈勒索行为无直接关联，且前科记录距今已超过5年，不应作为加重处罚的依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某甲曾两次因违法行为被行政处罚，虽与本案无直接关联，但能够证明其具有违法前科，主观恶性较大，对量刑具有参考价值。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于有前科的被告人，在量刑时应酌情从重处罚。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就前科记录对量刑的影响充分发表意见，法庭已记录在案。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人曹某甲证言证实：“2019年2月27日知道我女儿被人用她的裸体照片威胁，敲诈，我在3月1日那天从浙江省坐高铁回到家了。是王某甲的威胁，敲诈我女儿。王某甲把我女儿的裸体照片发到卧牛吐和雅尔赛两个微信群中，群友达到800人左右并且向我女儿要钱，不给钱就继续发图片，后来我女儿就逼无奈微信给王某甲两千元钱。自从我回来之后，我女儿就始终哭泣，并且不敢去上学，我现在每天都给她请假，并且始终把自己关在自己的屋子里，不出门，我们现在都不知道和她说什么好，我们怕她想不开，都不敢离开她。现在我女儿就是不去上学了，我们现在也不知道怎么办好，不行只能转学了。学校挺多人都知道，没法上学了。我女儿现在的学习成绩排在中上等。挺多人知道这件事了，因为我同学和朋友有在雅尔赛和卧牛吐的微信群里，看见我女儿的照片后，都纷纷给我打电话。我家在外地跑车的生意因为我不在了，不敢接远的活了。就我爱人自己太危险。他根本出不了车，基本就停运了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人曹某甲证言中对微信群人数描述为\"800人左右\"，与公安机关电子数据鉴定报告确认的344人、327人、117人等具体人数存在明显矛盾，影响对传播范围及社会危害性的准确认定。且证言中关于\"挺多人知道这件事了\"的表述缺乏具体数据支持，属于主观判断。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人曹某甲作为被害人母亲，其证言中关于微信群人数的描述系基于当时的主观判断，与公安机关后期通过电子数据鉴定确认的具体人数存在差异属正常现象。该差异不影响对被告人实施敲诈勒索行为基本事实的认定。证人证言真实反映了被害人遭受的心理创伤及家庭生活受到严重影响的情况，与被害人陈述相互印证，具有证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言与电子数据鉴定报告在微信群人数描述上的差异充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人王某乙证言证实：“我姐是雅尔塞镇红星村的安某。发我姐裸照的俩个微信群一个是江北4信息平台，另一个是梅某一代天骄啤酒1群。是一个微信名字叫做大嫂的人，现实名字我就知道叫‘王某丙’应该也是小名。王某丙跟安某之前他俩是男女朋友关系，但是我姐跟王某丙已经分手好久了。这个王某丙每个群都发了四张我姐的裸照。这俩个群发的照片都是一个内容。其中三张就是我姐的裸照，还有一张ＰＳ写着哈喽你好我是来自红星村我姓安，聘夫如有钟意者联系我。都是2019年2月27日凌晨1点38发的。其中江北4信息平台的微信群有344个群友，另一个梅某区一代天娇啤酒1群有117人。王某丙的微信号是×××，微信名字叫做大嫂。我姐安某看到照片之后，就变得不愿意说话了，精神也高度紧张，天天闷闷不乐、郁郁寡欢，现在也不去上学了，我感觉我姐现在应该都有心理障碍了，发照片的人恳请你们相关部门给予严惩。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人王某乙证言中关于\"2019年2月27日凌晨1点38分\"发布照片的时间与被告人供述及微信截图证据显示的\"2019年2月27日晚11点左右\"存在明显矛盾，影响对犯罪事实发生时间的准确认定。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人王某乙证言中关于发布时间的描述存在笔误，经核实应为2019年2月27日晚11点左右，与微信截图证据及被告人供述一致。该时间差异不影响对犯罪事实的认定。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就时间差异问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人张某证言证实：“我在永刚雅尔塞信息群看见我村小孩安某裸照了。我看见图片的时间是2019年2月28日早上的事。我跟安某就是认识的关系。永刚雅尔塞信息群就是一个普通微信群，有321个人，都是雅尔塞周边的村民。具体是谁往雅尔塞微信群发的安某的裸照我不知道，我看微信群里的名字叫做大嫂，后来听村里朋友说的这个人是王某甲。当时我记得发了四张裸照。这个微信叫大嫂说这个安某是红兴的，还说发的照片人的名字叫做安某。当时永刚雅尔塞信息群的聊天记录我没有了，这个照片也不太好，我就给删除了。现在手机里面没有记录了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人张某证言仅能证明其在微信群中看到照片，但无法证明照片发布者确为被告人，且证人明确表示\"具体是谁往雅尔塞微信群发的安某的裸照我不知道\"，该证言对证明被告人实施犯罪行为缺乏直接证明力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人张某证言与被告人供述、微信截图证据相互印证，证实\"大嫂\"微信账号发布裸照的事实。被告人当庭已承认\"大嫂\"账号系其本人使用，该证言作为证据链的重要组成部分，能够证明被告人实施敲诈勒索行为的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人张某证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人吴某证言证实：“我在微信群看见有人发我同村村民安某裸照的事。我是在永刚雅尔塞信息交流群，在2019年2月28日早上看见的，但是我看信息是2019年2月28日早上凌晨发的。是一个微信名字叫大嫂的人发的，当时发了四张。四张全是安某的裸照，我记得有一张ＰＳ过写着哈喽你好我是来自红星村我姓安，聘夫和有钟意的请联系我。永刚雅尔塞信息交流群有321个人。我感觉发照片的人心理应该扭曲，这个女孩才多大，这样发裸照，安某这辈子都得活在阴影之中。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人吴某证言中关于\"2019年2月28日早上凌晨\"发布照片的时间与被告人供述及微信截图证据显示的\"2019年2月27日晚11点左右\"存在明显矛盾，影响对犯罪事实发生时间的准确认定。且证言中关于\"安某这辈子都得活在阴影之中\"的表述属于主观判断，缺乏专业心理评估报告支持。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人吴某证言中关于发布时间的描述存在记忆误差，经核实应为2019年2月27日晚11点左右，与微信截图证据及被告人供述一致。该时间差异不影响对犯罪事实的认定。证人关于被害人心理影响的描述虽为主观判断，但与被害人陈述、其他证人证言相互印证，能够反映犯罪行为造成的实际损害后果。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就时间差异及心理影响问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人李某证言证实：“安某是我同班同学，还是我的同座。安某最近几天没有上学，安某已经4天没有上学了，我们是2019年3月1日开的学。我俩是同座，安某什么事基本上都跟我说了，我问安某了，安某跟我说她之前处的对象王某甲给安某拍了裸照，并把安某的裸照发到了网上，安某说她没法见同学和老师了，就一直没有上学，好像要不念了。安某平时挺外向的，也爱说说笑笑的。我这几天一直跟安某微信聊天了，安某比较‘蔫’。平时说说笑笑的劲头也没了，还说不上学了，我感觉安某对生活挺无望的，我现在就是开导安某，不希望安某就此沉沦下去，她现在也没有成家，我俩还是好朋友，我不想看到她就此就对生活无望了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人李某证言仅能证明被害人安某未上学及情绪状态，但无法直接证明该状态与被告人行为存在必然因果关系。且证言中关于\"对生活无望\"等描述属于主观判断，缺乏专业心理评估报告支持。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人李某证言与被害人陈述、班主任证明相互印证，能够证明被害人因裸照被公开导致心理创伤而请假的事实。虽然缺乏专业心理评估报告，但多名证人一致证实被害人情绪状态明显异常，与案发时间高度吻合，能够证明犯罪行为与损害后果之间的因果关系。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人刘某证言证实：“有人在微信群里面发安某的裸体照片，我看见了，具体什么时间发的我没注意，我是2019年2月27号上午11点多钟看见的。安某也是我们雅尔塞红星村的，我和安某的父母都非常熟悉。所以我也认识安某。我在永刚雅尔塞信息群里面看见安某的裸体照片。这个群群主是谁我不知道，都是雅尔塞的百姓，雅尔塞的百姓知道啥事就在这个群里面说一下。这个群里面一共有300多人。2019年2月27号上午11点多钟，我没啥事看手机微信群里面的信息，有一个微信名叫‘大嫂’的人在微信群里面发了4张裸照，我点开一看，是安某，这四张图片都是安某没穿衣服的裸照，其中一张照片上还有文字，写着：‘哈喽你好我是来自红星村我姓安，聘夫如有中意者联系我。’我看了之后就把这个照片删除了。安某还是个小孩，正在上学，发生这个事之后肯定对安某影响不好，安某心里都得有阴影，我听说安某因为这事都不上学了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人刘某证言中关于\"2019年2月27号上午11点多钟\"看到照片的时间与被告人供述及微信截图证据显示的\"2019年2月27日晚11点左右\"发布照片时间存在明显矛盾，影响对犯罪事实发生时间的准确认定。且证言中关于\"安某心里都得有阴影\"的表述属于主观判断，缺乏专业心理评估报告支持。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人刘某证言中关于看到照片的时间系其个人查看时间，与被告人发布照片时间存在合理时间差，不影响对犯罪事实的认定。该证言与被害人陈述、其他证人证言相互印证，能够证明被告人实施犯罪行为及造成的损害后果。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就时间差异及心理影响问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人孙某证言证实：“有人在微信群里面发安某的裸体照片，我看见了，一共发过两次，我记得是2019年2月26号和27号的事，具体时间好像都是下半夜。安某是雅尔塞镇红星村的，她和我女儿是同学，所以我认识安某。我在永刚雅尔塞信息群里面看见安某的裸体照片这个群群主是谁我不知道，是朋友把我拽到这个群里面的，都是雅尔塞的百姓，谁有啥农业信息或者农副产品信息就在这个群里面共享一下。这个群里面一共有300多人。我记着这个群里面一共发过2次安某的裸照，时间是2019年2月26号和2月27号这两天，都是下半夜的事，我是第二天早上看见的，有一个微信名叫‘大嫂’的人在群里面发安某的裸体照片，每次都发四张，都是没穿衣服的裸照，有一张上面还Ｐ上的字：‘哈喽，你好，我是来自红星村我姓安，聘夫如有中意者联系我。’这个人第二次发完后，群主在群里面跟微信名叫‘大嫂’的这个人说：‘这个群是信息群，不准你在群里面发这些东西。’之后群主就把微信名叫‘大嫂’的这个人删除了。这个发裸照的人挺招人恨，这么做的话，对安某影响太不好了，心理上都得有阴影，安某本身就是个学生。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人孙某证言中关于\"2019年2月26号和27号\"两次发布照片的陈述与被告人供述及微信截图证据显示的仅于2月27日晚发布一次存在明显矛盾。且证言中关于\"心理上都得有阴影\"的表述属于主观判断，缺乏专业心理评估报告支持。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人孙某证言中关于发布时间的记忆存在误差，经核实被告人仅于2019年2月27日晚发布一次裸照，与微信截图证据及被告人供述一致。该时间差异不影响对犯罪事实的认定。证人关于心理影响的描述虽为主观判断，但与其他证据相互印证，能够反映犯罪行为造成的损害后果。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就时间差异及心理影响问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.被害人陈述：被害人安某陈述称：“2019年2月27日晚上我已经报案说王某甲用我的裸照威胁我并且管我要钱，今天上午我给了王某甲×××元钱。2019年2月27日晚上21时44分，我在家中，王某甲通过微信跟我说的要钱的事。王某甲就是用我的裸照威胁我，说如果我给他×××元钱，他就把我的裸照删了，并且不会往其他的群里面发。当天晚上九点多钟的时候，我通过微信问王某甲，我怎么做才能把我的裸照删了，王某甲跟我说咱们谈点现实的，让我给他×××元钱，他就把我所有的裸照都删了，并且也不会再继续往其他的网络渠道扩散，而且跟我断绝联系，但是我昨天晚上根本也没有钱，我就一直求王某甲让他给我一晚上时间，让我凑钱，王某甲一直不依不饶的威胁我，说如果晚上十一点之前不把钱给他，他就把我的裸照发到梅某区第二中学的ＱＱ群里面，我就一直求他容我一晚上时间，王某甲在微信就给我倒数时间，说还有最后3分钟，最后1分钟啥的，我跟王某甲商量先给他200行不行，王某甲说最少先给他一半，也就是1000元，我说等到明天行不行，王某甲说不好使，如果晚上十一点之前不给他钱，就要我的裸照发到各大群里，等到晚上十一点准时的时候，王某甲就把我的裸照发的好几个微信群里面了，并且还给我截图了，一共发到了三个群里，一个叫‘影视拉人十人免踢’的群，群里有53人，一个叫‘卧牛吐镇微信息生活’群，群里有493人，一个叫‘永刚雅尔赛信息群’，群里有327人，每个群都发了我四张裸照，并且还跟我说不给钱就把照片发到梅某区二中的群里去，最后我俩商量说第二天中午十二点之前给他×××元钱，他把我的裸照删除，并且不会往群里发。我是2019年2月28日上午10点40分，通过微信转账的形式给的王某甲×××元钱，地点就是在梅某区区里。2019年2月28日上午九点多钟的时候，王某甲给我发微信，问我拖了一晚上了，啥时候给他钱，我说不说好的十二点之前吗，然后王某甲就说让我赶紧把钱给他，不然就把我的裸照继续留着并且往外发，然后我就管我大姨曹某乙要了×××元红包，我把这×××元转账给王某甲了。他用我的裸照威胁我，如果不给他就要把裸照往出发，而且他已经发到好几个群里了。我给他×××元钱，不是自愿的，是王某甲逼我的。”该陈述已由公安机关心理评估专家出具心理评估报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被害人陈述中关于\"影视拉人十人免踢\"群和\"卧牛吐镇微信息生活\"群的描述与被告人供述及微信截图证据中确认的群组名称存在明显矛盾，影响对传播范围的准确认定。且被害人陈述中关于\"2019年2月27日晚上我已经报案\"的内容与案卷材料显示的实际报案时间不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述中关于微信群名称的描述差异系因记忆误差所致，经核实应为\"江北4信息平台群\"、\"永刚雅尔塞信息群\"和\"梅某一代天骄啤酒1群\"，与微信截图证据及被告人供述一致。关于报案时间，被害人陈述中\"2019年2月27日晚上我已经报案\"系其主观认知，实际报案时间为2019年3月1日，该差异不影响对敲诈勒索事实的认定。被害人陈述与被告人供述、微信转账记录等证据相互印证，形成完整证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就微信群名称差异及报案时间问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.鉴定意见：（齐）公（刑技）鉴（电）字【2019】154号鉴定，证实检验结果检出符合鉴定要求的数据3745个，大小共计1.32ＧＢ，该鉴定由齐齐哈尔市公安局刑事技术支队依法出具，鉴定程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面。被告人王某甲以非法占有为目的，采用发布未成年人裸照相威胁的手段，强行索要财物2000元，其行为完全符合《刑法》第二百七十四条关于敲诈勒索罪的构成要件。被告人当庭供述与被害人陈述、证人证言、微信转账记录等证据相互印证，形成完整证据链，足以认定犯罪事实。\n\n二、关于量刑情节。首先，根据《刑法》第二百七十四条及《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条，被告人针对未成年人实施犯罪，依法应从重处罚。其次，被告人曾两次因违法行为被行政处罚，具有违法前科，主观恶性较大。第三，被告人实际取得2000元财物，犯罪既遂，且造成被害人严重心理创伤，社会危害性较大。\n\n三、关于从宽情节。被告人虽认罪认罚并主动退赔，但系在案发后外出打工逃避侦查，直至被抓获归案，不具有自首情节。且至今未取得被害人谅解，从宽幅度应从严把握。\n\n综上，建议法庭综合考虑被告人的犯罪事实、性质、情节和社会危害程度，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于证据方面\n1.微信截图证据未完整显示被告人账号与发布行为的直接关联，无法充分证明威胁内容与发布裸照行为之间的必然联系。根据《刑事诉讼法》第五十五条，证据必须经过查证属实才能作为定案依据。\n\n2.转账记录仅能证明资金往来事实，但无法直接证明该笔转账系在胁迫下完成。双方存在感情纠纷，不能排除该笔款项系感情纠纷中自愿给付的可能性。\n\n二、关于量刑情节\n1.被告人已认罪认罚并主动退赔全部款项2000元，根据《刑法》第六十七条第三款，可以从宽处理。\n\n2.本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别。根据《最高人民法院关于常见犯罪的量刑指导意见》，因婚恋纠纷引发的犯罪可酌情从轻处罚。\n\n3.被告人已采取补救措施删除照片，社会危害性已得到有效控制。\n\n4.被告人前科仅为行政违法记录，不构成累犯加重情节，且前科距今已超过5年，根据《刑法》第六十五条，不应作为从重处罚依据。\n\n三、关于被害人影响\n1.证人证言中对微信群人数描述存在矛盾，部分证人对微信群人数描述不一致，影响对传播范围的准确认定。\n\n2.部分证人证言中关于心理影响的描述属于主观判断，缺乏专业心理评估报告支持。\n\n综上，恳请法庭充分考虑被告人认罪态度良好、主动退赔、案件系感情纠纷引发等情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于证据方面。微信截图证据已由公安机关电子数据鉴定中心出具鉴定报告，证实其真实性和完整性。被告人当庭供述与微信截图内容完全吻合，能够形成完整证据链证明敲诈勒索行为。转账记录与被害人陈述、被告人供述相互印证，证实2000元系在胁迫下支付，并非自愿给付。\n\n二、关于量刑情节。本案被害人系未成年人，根据《刑法》第二百七十四条及《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条，应当从重处罚。被告人虽认罪认罚并退赔，但系被抓获归案，不具有自首情节，且至今未取得被害人谅解，从宽幅度应从严把握。\n\n三、关于社会危害性。被告人将被害人裸照发布至多个数百人微信群，并PS侮辱性文字，造成被害人严重心理创伤，社会影响恶劣。虽事后删除照片，但损害后果已经造成，社会危害性较大。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于证据链完整性。公诉人主张的电子数据鉴定仅能证明数据真实性，但根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十四条，电子数据应当重点审查收集程序、方法是否符合技术标准。辩护人注意到，鉴定报告未对微信截图是否经过篡改进行专门说明，存在合理怀疑空间。\n\n二、关于未成年人特殊保护。辩护人认可对未成年人应特殊保护，但根据《最高人民法院关于审理未成年人刑事案件具体应用法律若干问题的解释》第十六条，对未成年人犯罪案件应坚持\"教育为主、惩罚为辅\"原则。本案被告人年仅22岁，同样属于青年群体，其因感情纠纷一时冲动犯罪，与针对不特定未成年人的恶性犯罪存在本质区别。\n\n三、关于社会危害性评估。公诉人提及的\"数百人微信群\"传播，经核实实际有效传播范围应为三个群组，且被告人收到款项后立即删除照片，未出现二次传播。根据《刑法》第六十一条，量刑应当与犯罪行为的社会危害性相适应，本案实际造成的负面影响应客观评估。\n\n四、关于退赔情节。被告人虽系被抓获归案，但在审查起诉阶段即主动退赔全部款项，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于退赃退赔的，应当综合考虑犯罪性质及悔罪表现等情况确定从宽幅度。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于电子数据鉴定问题。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十三条，电子数据应当着重审查收集提取程序是否符合相关技术标准。本案公安机关出具的电子数据鉴定报告已对数据完整性、真实性进行专业验证，且与被告人供述高度吻合，不存在合理怀疑空间。\n\n二、关于未成年人保护问题。被告人明知被害人系未成年人仍实施犯罪，根据《刑法》第二百七十四条及《未成年人保护法》相关规定，应当从重处罚。被告人的年龄不能成为减轻其针对未成年人犯罪责任的依据。\n\n三、关于社会危害性问题。被告人将PS处理的裸照发布至三个合计近800人的微信群，传播范围广、影响恶劣。根据《最高人民法院关于办理敲诈勒索刑事案件适用法律若干问题的解释》第二条，造成被害人精神失常等严重后果的，应当认定为\"其他严重情节\"。\n\n四、关于退赔情节。被告人在案发后外逃打工，直至被抓获归案，其退赔行为发生在侦查终结后，不能改变其逃避侦查的主观恶性。且至今未取得被害人谅解，社会矛盾未完全化解。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于电子数据鉴定问题。公诉人强调鉴定报告已对数据完整性进行验证，但根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第九十四条，电子数据应当重点审查收集程序是否符合技术标准。本案中，微信截图未完整显示发布账号与被告人的直接关联，且未对截图是否经过篡改进行专门说明，存在合理怀疑。\n\n二、关于未成年人保护问题。辩护人注意到被害人确系未成年人，但根据被告人供述，双方原为恋爱关系，犯罪动机系感情纠纷引发，与针对不特定未成年人的恶性犯罪存在本质区别。根据《最高人民法院关于常见犯罪的量刑指导意见》，因婚恋纠纷引发的犯罪可酌情从轻处罚。\n\n三、关于社会危害性评估。公诉人提及的\"近800人微信群\"传播范围，经核实实际为三个群组，且被告人收到款项后立即删除照片，未出现二次传播。根据证人证言，未发现有人对照片进行评论或转发，实际影响范围应客观评估。\n\n四、关于退赔情节。虽然被告人在案发后外出打工，但根据案卷材料显示，其在审查起诉阶段即主动退赔全部款项2000元，表明其确有悔罪表现。根据《刑法》第六十七条第三款，可以从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，对给被害人安某造成的伤害深感后悔。我已经主动退赔了2000元，希望能减轻对她的伤害。我深刻认识到自己的错误，愿意接受法律的惩罚，今后一定遵纪守法。恳请法庭能从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "黑龙江省齐齐哈尔市梅里斯达斡尔族区人民法院\n刑事判决书\n（2019）齐梅刑初字第XX号\n\n公诉机关黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院。\n\n被告人王某甲，男，XXXX年XX月XX日出生，汉族，文化程度XXX，户籍所在地XXX，因涉嫌敲诈勒索罪于2019年8月21日被抓获，现羁押于XX看守所。\n\n辩护人XXX，XX律师事务所律师。\n\n黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院以齐梅检未刑诉〔2019〕2号起诉书指控被告人王某甲犯敲诈勒索罪，于2019年XX月XX日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院指派检察员XXX出庭支持公诉，被告人王某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n黑龙江省齐齐哈尔市梅里斯达斡尔族区人民检察院指控：2018年，被告人王某甲通过微信认识被害人安某（未成年人），并发展为男女朋友关系。2019年2月27日21时44分，王某甲在家中通过微信以公开安某裸照相威胁，向其索要人民币2000元。因安某未及时转账，王某甲将安某的4张裸照发布至\"江北4信息平台群\"（344人）、\"永刚雅尔塞信息群\"（327人）、\"梅某一代天骄啤酒1群\"（117人）等微信群，并PS文字\"聘夫\"进行侮辱。次日10时40分，安某被迫通过微信向王某甲转账2000元。公诉机关认为，被告人王某甲的行为已构成敲诈勒索罪，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。\n\n被告人王某甲对指控的犯罪事实及罪名无异议，自愿认罪认罚。辩护人提出被告人系因感情纠纷引发犯罪，已主动退赔，认罪态度良好，请求从轻处罚。\n\n经审理查明：2018年，被告人王某甲通过微信认识被害人安某（未成年人），并发展为男女朋友关系。2019年2月27日21时44分，王某甲在家中通过微信以公开安某裸照相威胁，向其索要人民币2000元。因安某未及时转账，王某甲将安某的4张裸照发布至\"江北4信息平台群\"（344人）、\"永刚雅尔塞信息群\"（327人）、\"梅某一代天骄啤酒1群\"（117人）等微信群，并PS文字\"聘夫\"进行侮辱。次日10时40分，安某被迫通过微信向王某甲转账2000元。案发后，被告人王某甲已主动退赔被害人2000元。\n\n上述事实，有被告人王某甲的供述，被害人安某的陈述，证人曹某甲、王某乙等人的证言，微信转账记录、微信群截图等电子数据，公安机关电子数据鉴定报告等证据证实，足以认定。\n\n本院认为，被告人王某甲以非法占有为目的，采用威胁手段强行索要他人财物，数额较大，其行为已构成敲诈勒索罪。公诉机关指控的罪名成立。被告人王某甲针对未成年人实施犯罪，依法应从重处罚；其曾因违法行为被行政处罚，可酌情从重处罚；其认罪认罚并主动退赔，可依法从宽处理。辩护人关于被告人系因感情纠纷引发犯罪、认罪态度良好的辩护意见予以采纳。综合考虑被告人的犯罪事实、性质、情节和社会危害程度，依照《中华人民共和国刑法》第二百七十四条、第六十四条、第六十七条第三款之规定，判决如下：\n\n一、被告人王某甲犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币三千元；\n二、责令被告人王某甲退赔被害人安某人民币二千元；\n三、随案移送的作案工具手机一部予以没收。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向黑龙江省齐齐哈尔市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2019年12月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲是否构成敲诈勒索罪。需查明其是否以公开裸照相威胁的方式强行索要财物，以及该行为与被害人转账2000元之间是否存在直接因果关系。\n\n2.被告人主观上是否具有非法占有的故意。需结合其威胁内容、索要财物的具体过程以及事后行为，判断其主观故意内容。\n\n3.被害人安某系未成年人，被告人发布其裸照至多个微信群的行为是否构成从重处罚情节。需评估该行为对未成年人造成的实际损害程度。\n\n4.被告人是否具有坦白情节。需查明其在侦查阶段是否如实供述犯罪事实，以及供述的完整性和真实性。\n\n5.被告人曾因违法行为被行政处罚，是否构成累犯或前科劣迹情节。需查明前次违法行为与本次犯罪的时间间隔及性质差异。\n\n6.被告人认罪认罚的真实性及自愿性。需审查其认罪过程是否存在被迫或诱导情形。\n\n7.被告人的退赔行为是否足以减轻其罪责。需评估退赔金额与犯罪所得的比例关系及退赔的及时性。\n\n8.本案量刑建议是否适当。需综合考虑犯罪数额、手段、后果及被告人认罪态度等因素。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第十七条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "未成年人裸照威胁索要钱财的敲诈勒索罪量刑标准",
+              "敲诈勒索罪中认罪认罚并主动退赔对量刑的影响",
+              "发布未成年人裸照在多个微信群是否构成从重处罚情节"
+            ],
+            "未成年人裸照威胁索要钱财的敲诈勒索罪量刑标准": "### 结论\n未成年人以裸照威胁索要钱财构成敲诈勒索罪，量刑时会考虑犯罪数额、犯罪未遂、自首、坦白、认罪认罚、退赔、取得谅解、累犯、犯罪对象为未成年人等因素，其中犯罪数额较大、累犯、犯罪对象为未成年人等情节会从重处罚，而犯罪未遂、自首、坦白、认罪认罚、退赔、取得谅解等情节则会从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十五条**：规定累犯的从重处罚原则。\n- **《中华人民共和国刑法》第二十三条**：规定犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十七条**：规定自首和坦白的从轻或减轻处罚原则。\n- **《中华人民共和国刑法》第六十八条**：规定立功的从轻或减轻处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：数额较大是构成敲诈勒索罪的重要条件，如【（2019）苏1081刑初258号】、【（2019）粤2071刑初2647号】、【（2019）苏0612刑初553号】等案例中，犯罪数额较大是量刑的重要依据。\n- **犯罪未遂**：如【（2019）粤2071刑初2647号】、【（2020）沪0116刑初5号】、【（2020）鲁1302刑初292号】等案例中，犯罪未遂是量刑时从轻或减轻处罚的考量因素。\n- **自首和坦白**：如【（2019）苏1081刑初258号】、【（2020）粤0823刑初271号】、【（2019）鲁1302刑初2147号】等案例中，自首和坦白是量刑时从轻或减轻处罚的重要因素。\n- **认罪认罚**：如【（2019）鲁1302刑初2147号】、【（2020）苏1002刑初183号】、【（2019）粤2071刑初2647号】等案例中，认罪认罚是量刑时从轻或减轻处罚的考量因素。\n- **退赔和取得谅解**：如【（2020）粤0823刑初271号】、【（2020）苏1002刑初183号】、【（2019）苏0612刑初553号】等案例中，退赔和取得谅解是量刑时从轻或减轻处罚的考量因素。\n- **累犯**：如【（2019）苏1081刑初258号】、【（2019）粤5222刑初181号】等案例中，累犯是量刑时从重处罚的重要因素。\n- **犯罪对象为未成年人**：如【（2019）苏0582刑初283号】、【（2020）沪0116刑初5号】、【（2020）苏1002刑初183号】等案例中，犯罪对象为未成年人是量刑时从重处罚的考量因素。\n\n综上，未成年人以裸照威胁索要钱财构成敲诈勒索罪，量刑时会综合考虑犯罪数额、犯罪未遂、自首、坦白、认罪认罚、退赔、取得谅解、累犯、犯罪对象为未成年人等因素，其中犯罪数额较大、累犯、犯罪对象为未成年人等情节会从重处罚，而犯罪未遂、自首、坦白、认罪认罚、退赔、取得谅解等情节则会从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2019）苏1081刑初258号】：法院认为，被告人殷健、李晓青、潘学龙、肖某、包云以非法占有为目的，对被害人使用威胁或要挟的方法，强行索要财物，数额较大，构成敲诈勒索罪，应依法在“三年以下有期徒刑、拘役或者管制，并处或者单处罚金”的量刑幅度内处罚。被告人肖某、殷健构成聚众斗殴罪，应依法在“三年以上十年以下有期徒刑”的量刑幅度内处罚。被告人殷健、李晓青系累犯，应从重处罚。被告人肖某犯罪时不满十八周岁，应从轻或者减轻处罚。被告人肖某在被宣告缓刑后发现判决宣告以前还有其他罪没有判决，应撤销缓刑，数罪并罚。被告人殷健、李晓青、潘学龙在敲诈勒索犯罪中起主要作用，是主犯；被告人肖某、包云是从犯，应从轻、减轻或者免除处罚。被告人李晓青、殷健、潘学龙、肖某、包云有自首或坦白情节，可从轻处罚。一、被告人殷健犯敲诈勒索罪，判处有期徒刑二年六个月，并处罚金人民币一万五千元；犯聚众斗殴罪，判处有期徒刑三年六个月，与前罪所判决的有期徒刑十个月并罚，决定执行有期徒刑五年六个月，并处罚金人民币一万五千元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，折抵刑期6日，即自2018年8月24日起至2024年2月17日止。罚金于判决生效后十日内缴纳。）\n二、被告人肖某犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元；犯聚众斗殴罪，判处有期徒刑三年，撤销本院（2018）苏1081刑初239号刑事判决中对其缓刑二年的部分，与原判有期徒刑二年并罚，决定执行有期徒刑五年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，折抵刑期14日，即自2019年5月8日起至2024年4月23日止。罚金于判决生效后十日内缴纳。）\n三、被告人潘学龙犯敲诈勒索罪，判处有期徒刑二年，并处罚金人民币一万五千元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月4日起至2021年6月3日止。罚金于判决生效后十日内缴纳。）\n四、被告人李晓青犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月17日起至2020年10月16日止。罚金于判决生效后十日内缴纳。）\n五、被告人包云犯敲诈勒索罪，判处拘役三个月，并处罚金人民币二千元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，折抵刑期22日，即自2019年11月20日起至2020年1月28日止。罚金于判决生效后十日内缴纳。）\n六、被告人李晓青、潘学龙退出的违法所得，发还被害人。责令被告人殷健、肖某、李晓青、包云退赔被害人的经济损失。\n【（2019）粤2071刑初2647号】：法院认为，林照峰无视国家法律，以非法占有为目的，结伙采取威胁方法强行索取他人财物，数额较大，其行为已构成敲诈勒索罪。林照峰具有坦白情节，依法可以从轻处罚。犯罪未遂部分在量刑时作为酌情从重情节考虑。林照峰实施敲诈勒索6次且作案对象均系在校未成年人，上述情节在量刑时予以考虑。一、被告人林照峰犯敲诈勒索罪，判处有期徒刑二年，并处罚金人民币三千元；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2021年3月27日止。罚金于本判决发生法律效力之日起三十日内向本院缴纳。期满不缴纳的，强制缴纳。）\n二、责令被告人林照峰退赔被害人梁绮昊人民币200元，退赔被害人陈柏燃人民币200元，退赔被害人罗焯熙人民币200元，退赔被害人陈嘉俊人民币2300元，退赔被害人马韦缘人民币200元，退赔被害人林俊轩人民币500元，退赔被害人苏子贺人民币500元。\n【（2019）苏0612刑初553号】：法院认为，被告人纪腾飞以非法占有为目的，先以诱骗方式获取他人裸照和钱财，再使用威胁手段勒索财物，数额巨大，其行为构成敲诈勒索罪。纪腾飞归案后坦白，认罪认罚，积极退赃并取得谅解，可从轻处罚。鉴于其敲诈数额巨大，通过网络实施，主观恶性及社会危害性大，不宜适用缓刑。一、被告人纪腾飞犯敲诈勒索罪，判处有期徒刑三年三个月，并处罚金人民币三万元（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2022年7月28日止；罚金已缴纳）。\n 二、对被告人纪腾飞主动退出的赃款人民币87717元，发还被害人张某某。\n 三、对已扣押在案的作案工具：华为牌手机1部，予以没收，上缴国库。",
+            "敲诈勒索罪中认罪认罚并主动退赔对量刑的影响": "### 结论\n在敲诈勒索罪中，认罪认罚并主动退赔对量刑有显著影响，通常可作为从轻或从宽处罚的情节，但其影响程度需结合犯罪性质、情节、社会危害性及被告人的主观恶性、人身危险性等综合考量。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第三款**：犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n- **《中华人民共和国刑法》第七十二条第一款和第三款**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n- **《中华人民共和国刑事诉讼法》第十五条**：犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚**：认罪认罚是量刑时的重要考量因素，表明被告人有悔罪表现，可依法从轻或从宽处罚。例如，【（2021）浙0281刑初96号】中，两被告人自首并认罪认罚，依法从轻处罚并适用缓刑。\n- **主动退赔**：主动退赔被害人的经济损失，可视为认罪悔罪的体现，通常会酌情从轻处罚。如【（2019）苏0585刑初125号】中，三被告人已赔偿敲诈勒索被害人相关经济损失，得到被害人的谅解，法院据此从宽处罚。\n- **犯罪性质和情节**：即使被告人认罪认罚并主动退赔，但若犯罪性质恶劣、社会危害性大，法院在量刑时仍会从严考虑。【（2019）京0102刑初314号】中，被告人赵杰虽认罪认罚，但因犯罪性质和情节，法院仍依法量刑。\n- **被害人的谅解**：被害人的谅解是量刑时的酌定从轻情节，但不是决定性因素。【（2022）辽0781刑初145号】中，被告人孙凯迪主动退赔并取得谅解，法院据此酌情从轻处罚并适用缓刑。\n\n综上，认罪认罚并主动退赔在敲诈勒索罪的量刑中具有积极影响，但其作用需结合案件的具体情况综合判断。法院在量刑时会全面考虑犯罪的性质、情节、社会危害性以及被告人的主观恶性、人身危险性等因素，以实现罪责刑相适应。\n\n#####\n类似案件为：\n【（2021）浙0281刑初96号】：法院认为，被告人金迪辉、金维萍以非法占有为目的，单独或结伙强索公民财物，数额较大，其行为均已构成敲诈勒索罪。鉴于两被告人自首，退赔并取得谅解，认罪认罚，依法可以从轻处罚，适用缓刑。被告人金维萍犯敲诈勒索罪，判处有期徒刑九个月，缓刑一年，并处罚金人民币六千元（缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n 被告人金迪辉犯敲诈勒索罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币四千元（缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n【（2019）苏0585刑初125号】：法院认为，肖立兵、顾开辉、潘德华以非法占有为目的，共同敲诈勒索他人财物，数额较大；肖立兵又故意毁坏他人财物，数额较大。肖立兵犯数罪，应数罪并罚。肖立兵、顾开辉、潘德华均为主犯。肖立兵、顾开辉如实供述罪行，认罪认罚；潘德华认罪认罚。三被告人预谋利用他人酒驾敲诈，主观恶性较深，社会危害较大，不宜适用缓刑。一、被告人肖立兵犯敲诈勒索罪，判处有期徒刑一年五个月，并处罚金人民币五千元；犯故意毁坏财物罪，判处有期徒刑二年，并处罚金人民币五千元。决定合并执行有期徒刑三年二个月，并处罚金人民币一万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年11月13日起至2022年1月12日止。罚金在本判决生效后一个月内交付本院，上缴国库）。\n 二、被告人顾开辉犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年11月2日起至2020年5月1日止。罚金在本判决生效后一个月内交付本院，上缴国库）。\n 三、被告人潘德华犯敲诈勒索罪，判处有期徒刑一年七个月，并处罚金人民币五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年11月2日起至2020年6月1日止。罚金在本判决生效后一个月内交付本院，上缴国库）。\n 四、责令被告人肖立兵在本判决生效后一个月内退出赔偿款人民币39600元，发还被害人陈良金。\n【（2019）京0102刑初314号】：法院认为，被告人赵杰的行为构成敲诈勒索罪，鉴于其如实供述、退赃、认罪认罚，量刑时予以考虑。一、被告人赵杰犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币三千元。\n（刑期自2019年1月19日起至2019年9月18日止；罚金已缴纳。）\n二、退赃款人民币三千元发还被害人喻某。\n三、在案扣押的苹果牌手机一部予以没收。",
+            "发布未成年人裸照在多个微信群是否构成从重处罚情节": "### 结论\n发布未成年人裸照在多个微信群构成从重处罚情节，尤其是在“隔空猥亵”案件中，考虑到未成年人的特殊保护需求，以及网络空间中传播裸照对未成年人身心健康造成的严重伤害，法院会根据具体情节，如发送次数、手段、造成的后果等，综合评判是否构成加重处罚情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百三十七条**：规定猥亵儿童罪，以及在特定情况下（如多次猥亵、造成严重后果等）的加重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非接触性“隔空猥亵”**：【（2022）粤0115刑初602号】、【（2022）赣09刑终74号】等案例中，法院认为“隔空猥亵”虽非直接接触，但对未成年人的伤害同样严重，需根据发送裸照或视频的次数、手段、后果等综合评判是否构成加重处罚情节。\n- **网络传播的严重性**：【（2022）赣09刑终74号】中，邱某某将裸聊视频及暴露照片发到多个未成年人网络群，群总人数达三四百人，严重侵害了未成年人的身体自由权、隐私权和名誉权，构成强制猥亵罪的其他恶劣情节，法院从重处罚。\n- **未成年人的特殊保护**：【（2022）粤0115刑初602号】、【（2022）赣09刑终74号】等案例中，法院强调在信息网络空间针对未成年人实施的“隔空猥亵”，需体现对未成年人的特殊、优先保护，审慎认定罪与非罪及是否构成加重情节。\n\n综上，发布未成年人裸照在多个微信群构成从重处罚情节，法院会根据“隔空猥亵”的非接触性特点，未成年人的特殊保护需求，以及网络传播对未成年人造成的严重伤害，综合评判是否构成加重处罚情节。在具体案件中，法院会考虑发送次数、手段、造成的后果等多方面因素，以确保罪责刑相适应。\n\n#####\n类似案件为：\n【（2022）粤0115刑初602号】：法院生效判决认为，本案的争议焦点为被告人柴某殿是否构成多次猥亵儿童。柴某殿为了满足个人性刺激，通过引诱、威胁等方式，诱骗二名被害人向其发送裸照或淫秽视频供其观看，属于“隔空猥亵”行为，其行为已构成猥亵儿童罪。“隔空猥亵”具有非接触性，虽然是对儿童的人格尊严和心理健康造成了严重的侵害，但其危害性与接触性猥亵行为还是有所区别，故在认定是否属于“猥亵儿童多次”这一加重情节时，不能机械简单地将被害人3次以上发送裸照或淫秽视频认定为“猥亵儿童多次”，还应结合具体方式、手段、造成的危害后果等多方面综合评判，避免导致罪责刑不相适应。现有证据证明二被害人共计向柴某殿发送裸照或视频10次，但总体猥亵情节、手段、后果一般，在五年以下量刑足以做到罪责刑相适应。故法院依法作出如上判决。\n【（2022）粤0115刑初602号】：法院生效判决认为，本案的争议焦点为被告人柴某殿是否构成多次猥亵儿童。柴某殿为了满足个人性刺激，通过引诱、威胁等方式，诱骗二名被害人向其发送裸照或淫秽视频供其观看，属于“隔空猥亵”行为，其行为已构成猥亵儿童罪。“隔空猥亵”具有非接触性，虽然是对儿童的人格尊严和心理健康造成了严重的侵害，但其危害性与接触性猥亵行为还是有所区别，故在认定是否属于“猥亵儿童多次”这一加重情节时，不能机械简单地将被害人3次以上发送裸照或淫秽视频认定为“猥亵儿童多次”，还应结合具体方式、手段、造成的危害后果等多方面综合评判，避免导致罪责刑不相适应。现有证据证明二被害人共计向柴某殿发送裸照或视频10次，但总体猥亵情节、手段、后果一般，在五年以下量刑足以做到罪责刑相适应。故法院依法作出如上判决。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.被告人王某甲在侦查阶段对敲诈勒索行为供认不讳，明确承认以公开裸照相威胁索要2000元的事实 2.微信转账记录、微信群截图等电子数据鉴定报告证实被告人实施了威胁行为和实际取得财物 3.多名证人证言证实被害人因该事件遭受严重心理创伤，影响正常学习和生活 4.被告人曾两次因违法行为被行政处罚，具有不良行为记录 5.本案被害人系未成年人，应从重处罚\n防御策略：1.所有电子数据均经公安机关依法提取并出具鉴定报告，程序合法 2.证人证言与被害人陈述相互印证，形成完整证据链 3.被告人供述系在侦查阶段依法取得，不存在刑讯逼供等违法情形",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第十七条",
+              "中华人民共和国刑法第十八条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。",
+            "中华人民共和国刑法第十八条": "精神病人在不能辨认或者不能控制自己行为的时候造成危害结果，经法定程序鉴定确认的，不负刑事责任，但是应当责令他的家属或者监护人严加看管和医疗；在必要的时候，由政府强制医疗。间歇性的精神病人在精神正常的时候犯罪，应当负刑事责任。尚未完全丧失辨认或者控制自己行为能力的精神病人犯罪的，应当负刑事责任，但是可以从轻或者减轻处罚。醉酒的人犯罪，应当负刑事责任。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "以公开裸照为手段实施敲诈勒索的典型案例及量刑标准",
+              "未成年人遭受网络敲诈勒索的心理损害评估在量刑中的考量"
+            ],
+            "以公开裸照为手段实施敲诈勒索的典型案例及量刑标准": "### 结论\n以公开裸照为手段实施敲诈勒索的犯罪行为，法院在量刑时会考虑犯罪既遂与未遂、犯罪数额、累犯情况、自首、坦白、退赔、取得被害人谅解、以及对未成年人的保护等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪既遂与未遂**：如果犯罪因意志以外的原因未得逞，法院会认定为犯罪未遂，依法可以从轻处罚。例如，【（2019）粤5222刑初181号】、【（2019）浙0702刑初691号】、【（2019）鲁0982刑初315号】、【（2020）津0116刑初424号】、【最高人民法院发布利用互联网侵害未成年人权益的典型案例：二、施某通过裸贷敲诈勒索案】、【（2019）鲁0785刑初539号】、【（2020）津0111刑初588号】、【（2019）鲁1522刑初402号】、【（2019）粤0891刑初246号】中，法院均考虑了犯罪未遂的情节。\n- **犯罪数额**：数额较大的，构成敲诈勒索罪。例如，【（2019）粤5222刑初181号】、【（2019）浙0702刑初691号】、【（2019）鲁0982刑初315号】、【（2020）津0116刑初424号】、【（2019）鲁0785刑初539号】、【（2020）津0111刑初588号】、【（2019）鲁1522刑初402号】、【（2019）粤0891刑初246号】中，法院均考虑了犯罪数额。\n- **累犯情况**：如果被告人曾因犯罪被判处有期徒刑，在刑满释放后五年内再犯本罪，属累犯，依法应当从重处罚。例如，【（2019）粤5222刑初181号】中，法院考虑了累犯情节。\n- **自首与坦白**：被告人自动投案、如实供述自己的罪行，属自首，依法可从轻处罚。例如，【（2019）粤0106刑初1089号】、【（2019）鲁1522刑初402号】、【（2019）粤0891刑初246号】中，法院考虑了自首情节。\n- **退赔与取得被害人谅解**：被告人积极赔偿被害人损失并取得谅解，可酌情从轻处罚。例如，【（2019）鲁0982刑初315号】、【（2019）鲁0785刑初539号】、【（2019）鲁1522刑初402号】中，法院考虑了退赔与谅解情节。\n- **对未成年人的保护**：如果敲诈勒索的对象是未成年人，法院会从重处罚。例如，【最高人民法院发布利用互联网侵害未成年人权益的典型案例：二、施某通过裸贷敲诈勒索案】中，法院考虑了对未成年人的保护。\n\n综上，法院在量刑时会综合考虑犯罪既遂与未遂、犯罪数额、累犯情况、自首、坦白、退赔、取得被害人谅解、以及对未成年人的保护等因素，以实现公正裁判。\n\n#####\n类似案件为：\n【（2019）粤5222刑初181号】：法院认为，张建村以非法占有为目的，采用非法手段拍摄被害人的裸照，并以此为由向被害人强行索要财物，数额较大，构成敲诈勒索罪。张建村系累犯，应从重处罚；犯罪未遂，可从轻处罚。一、被告人张建村犯敲诈勒索罪，判处有期徒刑一年三个月，并处罚金人民币三万元。罚金应于本判决生效之日起一个月内缴纳。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月22日起至2020年6月21日止。）\n二、涉案的作案工具苹果6S手机一部、微型摄像机一部（无实物移送），予以没收；责令被告人张建村将违法所得人民币5000元于本判决生效后一个月内退赔给被害人韩某。\n【（2019）浙0702刑初691号】：法院认为，何清梅、姚某以曝光裸照威胁索要财物，数额较大，构成敲诈勒索罪。何清梅起主要作用系主犯，姚某起辅助作用系从犯，本案因意志外原因未遂，二被告均坦白认罪，对何清梅、姚某从轻处罚。一、被告人何清梅犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年9月30日止）。\n 二、被告人姚某犯敲诈勒索罪，判处有期徒刑一年，并处罚金人民币七千元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年3月30日止）。\n 三、没收被扣押的犯罪工具手机、照片等物，由金华市公安局婺城分局依法处理。\n【（2019）鲁0982刑初315号】：法院认为，肖春朝以非法占有为目的，以发布裸照及视频的方式要挟方某，强行索取财物，构成敲诈勒索罪。肖春朝因意志以外的原因未能得逞，是犯罪未遂，比照既遂犯从轻处罚；其具有坦白情节，并取得谅解，可从轻处罚并适用缓刑。一、被告人肖春朝犯敲诈勒索罪，判处有期徒刑一年，缓刑二年，并处罚金20000元。\n （缓刑考验期限自判决确定之日起计算。罚金限判决生效之日起十日内缴纳。）\n 二、作案工具充电宝式秘录设备一台、秘录设备内存卡二张、手机二部、读卡器三个、U盘一个由扣押机关新泰市公安局予以没收，上缴国库。",
+            "未成年人遭受网络敲诈勒索的心理损害评估在量刑中的考量": "### 结论\n未成年人遭受网络敲诈勒索的心理损害评估在量刑中被法院视为重要考量因素，尤其是当未成年人作为犯罪行为的受害者时，其心理损害的严重程度可能影响对犯罪者的量刑。法院在量刑时会综合考虑犯罪行为的性质、情节、社会危害性以及犯罪者的态度，尤其是对未成年人的保护和帮教措施。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定了敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十三条**：规定了犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了坦白从宽的量刑原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **未成年人作为受害者**：当未成年人成为敲诈勒索的受害者时，法院会特别关注其心理损害程度，这可能作为从重处罚的考量因素。例如，【（2021）苏1012刑初30号】中，法院认为被告人华某敲诈勒索未成年人财物，对未成年人实施敲诈勒索，酌情从重处罚。\n- **犯罪行为的性质和情节**：犯罪行为的性质、情节、社会危害性以及犯罪者的态度也是量刑时的重要考量因素。例如，【（2019）京0109刑初178号】中，法院认为被告人朱宁的敲诈勒索行为数额特别巨大，且属犯罪未遂，依法对其减轻处罚。\n- **犯罪者的坦白和认罪态度**：犯罪者的坦白和认罪态度对量刑有直接影响。例如，【（2019）京0114刑初998号】中，法院认为被告人卢洪凯自愿认罪，建议对其从轻处罚。\n\n综上，未成年人遭受网络敲诈勒索的心理损害评估在量刑中被法院视为重要考量因素，尤其是当未成年人作为犯罪行为的受害者时，其心理损害的严重程度可能影响对犯罪者的量刑。法院在量刑时会综合考虑犯罪行为的性质、情节、社会危害性以及犯罪者的态度，尤其是对未成年人的保护和帮教措施。\n\n#####\n类似案件为：\n【（2021）苏1012刑初30号】：法院认为，华某敲诈勒索未成年人财物，数额较大，构成敲诈勒索罪。华某系从犯，自首，认罪认罚，退出赃物并发还被害人，依法从轻处罚，适用缓刑。被告人华某犯敲诈勒索罪，判处拘役三个月，缓刑五个月，并处罚金人民币二千元。\n(缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）\n【（2019）京0109刑初178号】：法院认为，朱宁以偿还借款为借口向李某1索要70万元遭拒后，进行威胁、敲诈，构成敲诈勒索罪，属数额特别巨大。朱宁敲诈的70万元尚未实际取得，属犯罪未遂，依法对其减轻处罚；朱宁到案后如实供述犯罪事实，可依法从轻处罚。被告人朱宁犯敲诈勒索罪，判处有期徒刑五年，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月17日起至2024年2月16日止。罚金于判决生效之日起10日内缴纳）。\n【（2019）京0114刑初998号】：法院认为，被告人卢洪凯多次敲诈勒索他人财物，其行为已构成敲诈勒索罪。卢洪凯自愿认罪，可从轻处罚；第二、三起敲诈勒索未获得财物及涉案金额较少，量刑时酌予考虑。但卢洪凯在侦查阶段未如实供述第一起指控事实和同案犯，不具备减轻处罚的情节。一、被告人卢洪凯犯敲诈勒索罪，判处有期徒刑九个月，并处罚金人民币三千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年6月16日起至2020年3月15日止。罚金于本判决生效后十日内缴纳）。\n二、责令被告人卢洪凯退赔被害人刘某人民币二千元。\n三、在案扣押未随案移送作案工具手机一部，予以没收；其他物品由扣押机关依法处理。"
+          }
+        },
+        "目标": "请求法院判处被告人王某甲敲诈勒索罪，有期徒刑XX，缓刑XX，并处罚金XX元",
+        "询问": "1. 被告人王某甲，你在2019年2月27日是否通过微信向被害人安某发送其裸照，并以公开裸照相威胁索要2000元人民币？请具体说明威胁的内容和方式。\n\n2. 当被害人安某未按时转账时，你是否将她的裸照发布至\"江北4信息平台群\"等微信群？请说明发布的具体时间、群组名称及群成员人数。\n\n3. 你与被害人安某之前是什么关系？你实施上述行为的动机是什么？是否因为安某提出分手并拉黑你的电话而意图报复？\n\n4. 2019年2月28日上午10时40分，被害人安某是否通过微信向你转账2000元？这笔钱是否是在你的威胁下被迫支付的？\n\n5. 你是否意识到被害人安某是未成年人？你了解发布未成年人裸照并以此勒索钱财的法律后果吗？\n\n6. 你在2013年曾两次因违法行为被行政处罚，这次是否属于再次违法？你对此有何认识？\n\n7. 案发后你是否主动退赔被害人损失？是否与被害人达成和解或取得谅解？\n\n8. 你现在对本案的犯罪行为有何认识？是否认罪认罚？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的微信群截图证据未明确显示被告人王某甲的直接操作，存在他人冒用账号的可能性2.被害人安某的转账记录未充分证明是在胁迫下完成，可能存在自愿给付的情节3.证人证言中对裸照传播范围的描述存在矛盾，部分证人对微信群人数描述不一致\n防御策略：1.被告人王某甲已认罪认罚并主动退赔，表明其悔罪态度良好2.本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别3.被告人已取得被害人谅解，社会危害性已得到有效弥补4.被告人系初犯，前科仅为行政违法记录，不构成累犯加重情节",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "以公开裸照威胁索要钱财的案例判决",
+              "敲诈勒索罪中认罪认罚对量刑的影响"
+            ],
+            "以公开裸照威胁索要钱财的案例判决": "### 结论\n以公开裸照威胁索要钱财的行为构成敲诈勒索罪，但行为人若为不法行为的受害人，且无证据证明其有非法占有目的，则不构成敲诈勒索罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪未遂**：如果敲诈勒索行为因行为人意志以外的原因未得逞，构成犯罪未遂，依法可以从轻或减轻处罚。例如，【（2019）浙0702刑初691号】、【（2019）粤0891刑初246号】、【（2020）粤0823刑初271号】，这些案例中被告人的敲诈勒索行为未完全得逞，被认定为犯罪未遂，依法从轻处罚。\n- **自首与坦白**：被告人自动投案、如实供述自己的罪行，属自首，依法可以从轻处罚。例如，【（2019）鲁1522刑初402号】、【（2020）沪0115刑初4803号】、【（2020）鲁1302刑初292号】，这些案例中被告人具有自首或坦白情节，依法从轻处罚。\n- **认罪认罚与赔偿谅解**：被告人认罪认罚，积极赔偿被害人损失并取得谅解，依法可以从轻处罚。例如，【（2019）粤0891刑初246号】、【（2020）粤0823刑初271号】、【（2020）鲁1302刑初292号】，这些案例中被告人认罪认罚，积极赔偿，依法从轻处罚。\n- **非法占有目的**：如果行为人作为不法行为的受害人，现有证据不足以证明其具有非法占有他人财物的目的，其行为不构成敲诈勒索罪。例如，【行为人以曝光不法行为为条件向他人索要钱财，其作为不法行为的受害人，在现有证据不足以证明其具有非法占有他人财物的目的的情况下，其行为不构成敲诈勒索罪】，这一观点强调了非法占有目的在敲诈勒索罪构成中的重要性。\n\n综上，敲诈勒索罪的构成需考虑犯罪未遂、自首与坦白、认罪认罚与赔偿谅解等情节，同时非法占有目的的证明对于罪名的成立至关重要。\n\n#####\n类似案件为：\n【（2019）浙0702刑初691号】：法院认为，何清梅、姚某以曝光裸照威胁索要财物，数额较大，构成敲诈勒索罪。何清梅起主要作用系主犯，姚某起辅助作用系从犯，本案因意志外原因未遂，二被告均坦白认罪，对何清梅、姚某从轻处罚。一、被告人何清梅犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年9月30日止）。\n 二、被告人姚某犯敲诈勒索罪，判处有期徒刑一年，并处罚金人民币七千元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年3月30日止）。\n 三、没收被扣押的犯罪工具手机、照片等物，由金华市公安局婺城分局依法处理。\n【（2019）粤0891刑初246号】：法院认为，被告人吴耀坚以非法占有为目的，以公开被害人的私照为由威胁被害人，索取钱财，数额较大，其行为已构成敲诈勒索罪。鉴于吴耀坚归案后能如实供述自己的犯罪事实，且部分犯罪未遂，依法可从轻处罚。被告人的家属已代被告人赔偿了被害人的损失，并取得了被害人谅解，可酌情从轻处罚。被告人吴耀坚犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月16日起至2019年8月15日止。罚金限在本判决生效后三十日内本院缴纳，由本院上缴国库）。\n【（2020）粤0823刑初271号】：法院认为，被告人陆剑锋通过散布裸照威胁，一人分饰多角要求与被害人发生性关系或索要钱财，数额较大，其行为已构成敲诈勒索罪。鉴于陆剑锋敲诈勒索未遂，有自首情节，认罪认罚，积极赔偿并取得被害人谅解，依法可以从轻处罚，并适用缓刑。一、被告人陆剑锋犯敲诈勒索罪，判处有期徒刑一年，缓刑二年，并处罚金人民币五千元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于本判决发生法律效力之日起五日内缴纳。）\n二、扣押在案的作案工具黑色苹果11手机壹台，予以没收，上缴国库，由扣押机关执行。",
+            "敲诈勒索罪中认罪认罚对量刑的影响": "### 结论\n在敲诈勒索罪中，认罪认罚对量刑的影响主要体现在以下几个方面：认罪认罚的自愿性、案件事实的清晰度、证据的充分性、指控罪名的准确性、量刑建议的适当性以及被告人的主观恶性、社会危害性、退赔情况和认罪悔罪态度。法院在认罪认罚案件中，一般应当采纳量刑建议，但当量刑建议明显不当或存在其他影响公正审判的情形时，法院有权不采纳量刑建议并依法作出判决。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定了敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑事诉讼法》第二百零一条**：规定了人民法院在认罪认罚案件中对量刑建议的采纳原则，即一般应当采纳，但存在法定情形时可以不采纳。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚的自愿性**：法院在审理认罪认罚案件时，会审查被告人认罪认罚的自愿性，确保被告人是在充分理解认罪认罚后果的基础上作出的决定。例如，【（2019）粤0306刑初37号】中，被告人池泽海归案后如实供述自己罪行，自愿认罪认罚，依法可从轻处罚。\n- **案件事实的清晰度和证据的充分性**：法院会审查案件事实是否清楚，证据是否确实、充分。例如，【（2019）津0115刑初458号】中，法院认为公诉机关指控被告人张国忠、张海燕犯敲诈勒索罪的事实清楚，证据确实、充分，指控罪名成立。\n- **量刑建议的适当性**：法院会审查量刑建议是否适当，是否考虑了被告人的主观恶性、社会危害性、退赔情况和认罪悔罪态度。例如，【（2021）粤1973刑初213号】中，法院认为被告人谢文强多次敲诈勒索，既遂金额达19000元，其主观恶性和社会危害性大，公诉机关的量刑建议偏轻，不予采纳。\n- **退赔情况**：被告人是否退赔被害人经济损失，是量刑时的重要考量因素。例如，【（2019）津0115刑初458号】中，张国忠的辩护人提出被告人已经退缴了赃款，张海燕的辩护人提出张海燕已对被害人做了退赔，法院在量刑时予以从轻考虑。\n- **认罪悔罪态度**：被告人的认罪悔罪态度也是量刑时的重要考量因素。例如，【（2019）粤0306刑初37号】中，被告人池泽海归案后如实供述自己罪行，自愿认罪认罚，依法可从轻处罚。\n\n综上，认罪认罚在敲诈勒索罪的量刑中具有重要作用，但其效果受到自愿性、案件事实、证据、量刑建议、退赔情况和认罪悔罪态度等多方面因素的影响。法院在认罪认罚案件中，既要尊重控辩双方的合意，也要确保案件的公正处理，量刑建议的采纳与否需综合考量上述因素。\n\n#####\n类似案件为：\n【（2019）粤0306刑初37号】：法院认为，被告人池泽海的行为构成敲诈勒索罪，鉴于其归案后如实供述罪行，认罪认罚，依法可从轻处罚，但未退赔被害人经济损失，在量刑时酌情考量。被告人池泽海犯敲诈勒索罪，判处有期徒刑一年二个月，并处罚金人民币一万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，刑期自2018年8月22日起至2019年10月21日止；罚金限于本判决生效后立即缴纳）。\n【（2019）津0115刑初458号】：法院认为，被告人张国忠、张海燕的行为构成敲诈勒索罪，但具有坦白、自愿认罪认罚的从轻处罚情节。考虑到被害人有过错，被告人已退赔，法院在量刑时予以从轻考虑。一、被告人张国忠犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币二千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月15日起至2019年10月14日止。罚金于判决生效后十日内缴纳。）\n二、被告人张海燕犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币二千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月15日起至2019年10月14日止。罚金于判决生效后十日内缴纳。）\n三、责令被告人张国忠、张海燕退赔被害人王某1人民币25000元（已退赔）。\n【（2021）粤1973刑初213号】：法院认为，被告人谢文强多次敲诈勒索他人财物，数额较大，其行为构成敲诈勒索罪。鉴于谢文强在审查起诉阶段自愿认罪认罚，承认指控的犯罪事实，但考虑其多次敲诈勒索，主观恶性和社会危害性大，量刑建议偏轻，不予采纳。一、被告人谢文强犯敲诈勒索罪，判处有期徒刑一年，并处罚金5000元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日，折抵刑期一日，即自2020年9月6日起至2021年9月5日止；罚金从本判决生效之日起三十日内向本院缴纳，上缴国库）。\n二、责令被告人谢文强于本判决生效之日起三十日内退赔被害人崔正国人民币9000元、退赔被害人杨晓帆人民币10000元。"
+          }
+        },
+        "目标": "请求法院对被告人王某甲从轻处罚，判处缓刑并减少罚金",
+        "询问": "1. 被告人王某甲，你与被害人安某之前是什么关系？请详细说明你们从相识到分手的全过程。  \n（目的：了解案件背景，确认是否因感情纠纷引发，为\"主观恶性较小\"的辩护策略提供依据）\n\n2. 你当时向安某索要2000元的具体原因是什么？是否如起诉书所称是为了报复？  \n（目的：查明犯罪动机，区分是一时冲动还是蓄意勒索，影响主观恶性认定）\n\n3. 你在发布裸照前是否收到过安某的还款意愿表示？她是否明确表示过拒绝支付？  \n（目的：质疑胁迫情节的即时性，为\"可能存在自愿给付情节\"的辩护点铺垫）\n\n4. 你使用的微信账号\"大嫂\"是否曾借给他人使用？能否确认所有群发操作均由你本人完成？  \n（目的：针对证据薄弱环节，质疑微信群操作主体身份，动摇关键证据的排他性）\n\n5. 你在收到2000元后是否如约删除裸照？有无继续实施威胁行为？  \n（目的：确认危害后果的延续性，评估社会危害程度）\n\n6. 你为何选择在案发后外出打工？是否意识到行为已涉嫌犯罪？  \n（目的：考察主观认知状态，为认罪态度评价提供依据）\n\n7. 你目前已退赔全部款项，是否与被害人方有过直接沟通？对方是否表示谅解？  \n（目的：强调悔罪表现和危害弥补情况，为从轻量刑建立事实基础）  \n\n（问题设计遵循：1-2题还原事实背景→3-4题质疑关键证据→5-7题突出从轻情节，形成完整的辩护逻辑链）"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人王某甲已认罪认罚并主动退赔，表明其悔罪态度良好 2.本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别 3.被告人已取得被害人谅解，社会危害性已得到有效弥补 4.被告人虽有两项行政违法记录但不构成累犯加重情节",
+        "记忆": "",
+        "目标": "请求法院对被告人王某甲从轻处罚，判处缓刑并减少罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲是否构成敲诈勒索罪。查明情况：被告人已当庭认罪，对以公开裸照相威胁索要2000元的事实供认不讳，且被害人转账行为与威胁行为存在直接因果关系。审判长认为犯罪事实清楚，构成敲诈勒索罪。\n\n2.被告人主观上是否具有非法占有的故意。查明情况：被告人明确承认出于报复和索财目的实施威胁行为，且实际取得2000元。审判长认为其主观上具有明确的非法占有故意。\n\n3.针对未成年人实施犯罪是否构成从重处罚情节。查明情况：被告人明知被害人为未成年人仍实施犯罪行为，并将裸照发布至包含被害人同学在内的多个群组。审判长认为该情节应当作为从重处罚考量因素。\n\n4.被告人认罪认罚的真实性及自愿性。查明情况：被告人全程配合调查，当庭表示认罪认罚，并已主动退赔。审判长认为其认罪认罚具有真实性和自愿性。\n\n5.被告人的前科劣迹是否影响量刑。查明情况：被告人曾两次被行政处罚，但与本次犯罪性质不同且间隔时间较长。审判长认为可酌情考虑但不构成累犯。\n\n6.量刑建议是否适当。查明情况：公诉人建议适用缓刑，被告人已退赔但未取得书面谅解。审判长认为需结合犯罪情节和社会危害性综合考量量刑。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第十七条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "以公开裸照相威胁索要财物的行为如何定性？",
+              "未成年人作为被害人的敲诈勒索案件量刑考量因素",
+              "认罪认罚从宽制度在敲诈勒索案件中的适用"
+            ],
+            "以公开裸照相威胁索要财物的行为如何定性？": "### 结论\n以公开裸照相威胁索要财物的行为构成敲诈勒索罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪是指以非法占有为目的，对被害人使用威胁或要挟的方法，强行索要公私财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为目的**：行为人以非法占有为目的，通过威胁手段索要财物。例如，【（2019）鲁1302刑初2147号】、【（2019）鲁1522刑初402号】、【（2019）浙0702刑初691号】、【（2019）粤0891刑初246号】、【（2020）鲁1302刑初292号】、【（2020）粤0823刑初271号】、【（2019）鲁0982刑初315号】、【（2019）粤5222刑初181号】、【（2019）鲁1202刑初60号】均涉及行为人以非法占有为目的，以公开裸照相威胁，强行索要财物，构成敲诈勒索罪。\n- **犯罪未遂**：在部分案例中，行为人因意志以外的原因未能得逞，构成犯罪未遂，依法可从轻处罚。例如，【（2019）鲁1302刑初2147号】、【（2019）鲁1522刑初402号】、【（2019）浙0702刑初691号】、【（2019）粤0891刑初246号】、【（2020）鲁1302刑初292号】、【（2019）鲁0982刑初315号】、【（2019）粤5222刑初181号】、【（2019）鲁1202刑初60号】中，行为人虽有敲诈勒索行为，但因未能完全得逞，构成犯罪未遂。\n- **自首与认罪态度**：行为人自动投案、如实供述自己的罪行，属自首，且自愿认罪认罚，依法可从轻处罚。例如，【（2019）鲁1522刑初402号】、【（2020）粤0823刑初271号】中，行为人自首并认罪，依法从轻处罚。\n- **退赔与谅解**：行为人或其家属代为赔偿被害人损失，并取得被害人谅解，可酌情从轻处罚。例如，【（2019）粤0891刑初246号】、【（2020）粤0823刑初271号】中，行为人赔偿被害人损失并取得谅解，依法从轻处罚。\n\n综上，以公开裸照相威胁索要财物的行为，构成敲诈勒索罪，行为人的犯罪目的、犯罪未遂、自首与认罪态度、退赔与谅解等因素均会影响判罚的轻重。\n\n#####\n类似案件为：\n【（2019）鲁1302刑初2147号】：法院认为，被告人穆晓龙以拍摄裸照相威胁，强行索要数额较大的财物，其行为已构成敲诈勒索罪。鉴于穆晓龙无犯罪前科，归案后如实供述罪行，自愿认罪认罚，依法可从轻处罚。一、被告人穆晓龙犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即2019年8月23日起至2020年4月22日止。罚金限于本判决生效后十日内缴纳）。\n 二、被告人穆晓龙退赔被害人叶某某人民币3000元。\n【（2019）鲁1522刑初402号】：法院认为，被告人郭洪聚以非法占有为目的，以发布裸照相威胁，强行索取他人财物，数额较大，其行为已构成敲诈勒索罪。郭洪聚自动投案、如实供述自己的罪行，属自首，且自愿认罪认罚，通过退赔经济损失取得了被害人的谅解，依法可从轻处罚。被告人郭洪聚犯敲诈勒索罪，判处有期徒刑六个月，并处罚金10000元。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年7月29日起，至2020年1月28日止；罚金自判决生效之日起十日内向本院缴纳。）\n【（2019）浙0702刑初691号】：法院认为，何清梅、姚某以曝光裸照威胁索要财物，数额较大，构成敲诈勒索罪。何清梅起主要作用系主犯，姚某起辅助作用系从犯，本案因意志外原因未遂，二被告均坦白认罪，对何清梅、姚某从轻处罚。一、被告人何清梅犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年9月30日止）。\n 二、被告人姚某犯敲诈勒索罪，判处有期徒刑一年，并处罚金人民币七千元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年3月30日止）。\n 三、没收被扣押的犯罪工具手机、照片等物，由金华市公安局婺城分局依法处理。",
+            "未成年人作为被害人的敲诈勒索案件量刑考量因素": "### 结论\n未成年人作为被害人的敲诈勒索案件量刑考量因素主要包括：犯罪数额、犯罪手段、犯罪对象的特殊性（未成年人）、犯罪未遂、犯罪人的坦白与认罪态度、犯罪人的累犯情况、犯罪人的主从犯地位、犯罪人的退赔情况、犯罪人的悔罪表现以及是否适用缓刑的可能性。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定了敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十三条**：规定了犯罪未遂的量刑原则。\n- **《中华人民共和国刑法》第六十七条**：规定了自首和坦白的量刑情节。\n- **《中华人民共和国刑法》第六十五条**：规定了累犯的加重处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额的大小是量刑的重要依据，数额较大或特别巨大将影响量刑的轻重。例如，【（2019）粤2071刑初2647号】中，林照峰敲诈勒索数额较大，构成敲诈勒索罪。\n- **犯罪手段**：使用暴力、威胁等手段将影响量刑。例如，【（2019）京0109刑初178号】中，朱宁以威胁手段勒索钱款，构成敲诈勒索罪。\n- **犯罪对象的特殊性（未成年人）**：针对未成年人的犯罪将从重处罚。例如，【（2020）苏1283刑初845号】中，谢某敲诈未成年人，酌情从重处罚。\n- **犯罪未遂**：犯罪未遂是量刑时的酌情从轻情节。例如，【（2019）粤0306刑初2345号】中，吴志宏等人的敲诈勒索行为未遂，量刑时予以考虑。\n- **犯罪人的坦白与认罪态度**：坦白和认罪将从轻处罚。例如，【（2019）苏0723刑初192号】中，徐某、史玉兵、张某甲归案后如实供述，系坦白，并认罪认罚，可酌情从宽处罚。\n- **犯罪人的累犯情况**：累犯将加重处罚。例如，【（2019）苏0723刑初192号】中，徐某、史玉兵构成累犯，依法应当从重处罚。\n- **犯罪人的主从犯地位**：主犯与从犯在量刑上有区别。例如，【（2019）粤0306刑初2345号】中，吴志宏为主犯，文菊、赵庆敏为从犯，量刑时予以区别。\n- **犯罪人的退赔情况**：退赔将作为从轻处罚的依据。例如，【（2020）苏1002刑初183号】中，陆某某、赵某积极退赔被害人的损失，取得了被害人的谅解，可酌情从轻处罚。\n- **犯罪人的悔罪表现**：悔罪表现良好将作为从轻处罚的依据。例如，【（2020）苏1283刑初845号】中，谢某有悔罪表现，宣告缓刑对所居住社区没有重大不良影响，可给予一定的考验期限。\n\n综上，未成年人作为被害人的敲诈勒索案件量刑时，法院会综合考虑犯罪的性质、手段、数额、犯罪人的态度、累犯情况、退赔情况、悔罪表现以及犯罪对象的特殊性，以实现公正量刑。\n\n#####\n类似案件为：\n【（2019）粤2071刑初2647号】：法院认为，林照峰无视国家法律，以非法占有为目的，结伙采取威胁方法强行索取他人财物，数额较大，其行为已构成敲诈勒索罪。林照峰具有坦白情节，依法可以从轻处罚。犯罪未遂部分在量刑时作为酌情从重情节考虑。林照峰实施敲诈勒索6次且作案对象均系在校未成年人，上述情节在量刑时予以考虑。一、被告人林照峰犯敲诈勒索罪，判处有期徒刑二年，并处罚金人民币三千元；\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2021年3月27日止。罚金于本判决发生法律效力之日起三十日内向本院缴纳。期满不缴纳的，强制缴纳。）\n二、责令被告人林照峰退赔被害人梁绮昊人民币200元，退赔被害人陈柏燃人民币200元，退赔被害人罗焯熙人民币200元，退赔被害人陈嘉俊人民币2300元，退赔被害人马韦缘人民币200元，退赔被害人林俊轩人民币500元，退赔被害人苏子贺人民币500元。\n【（2019）京0109刑初178号】：法院认为，朱宁以偿还借款为借口向李某1索要70万元遭拒后，进行威胁、敲诈，构成敲诈勒索罪，属数额特别巨大。朱宁敲诈的70万元尚未实际取得，属犯罪未遂，依法对其减轻处罚；朱宁到案后如实供述犯罪事实，可依法从轻处罚。被告人朱宁犯敲诈勒索罪，判处有期徒刑五年，并处罚金人民币五万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月17日起至2024年2月16日止。罚金于判决生效之日起10日内缴纳）。\n【（2020）苏1283刑初845号】：法院认为，被告人谢某以非法占有为目的，使用威胁手段敲诈勒索他人财物，数额较大，其行为已构成敲诈勒索罪，系共同犯罪，应依法惩处。鉴于谢某归案后如实供述、自愿认罪认罚、敲诈未成年人、退出赃款、取得被害人谅解、积极缴纳罚金等因素，决定从轻处罚并适用缓刑。公诉机关的量刑建议适当。被告人谢某犯敲诈勒索罪，判处拘役五个月，缓刑五个月，并处罚金人民币五千元。\n （缓刑考验期限，从判决确定之日起计算）。",
+            "认罪认罚从宽制度在敲诈勒索案件中的适用": "### 结论\n认罪认罚从宽制度在敲诈勒索案件中的适用，主要考虑被告人的认罪态度、是否自愿认罪认罚、是否取得被害人谅解、犯罪数额、犯罪情节、社会危害性、是否属于累犯、是否属于从犯、是否具有未遂情节、是否如实供述、是否退赃退赔、是否造成恶劣社会影响等因素。法院在量刑时会综合考量这些因素，对自愿认罪认罚的被告人依法从宽处罚，但宽严相济，对于犯罪性质恶劣、手段残忍、社会危害严重的案件，即使被告人认罪认罚，也可能不予从宽或从宽幅度较小。\n\n### 核心法条\n- **《中华人民共和国刑事诉讼法》第174条**：规定犯罪嫌疑人认罪认罚的，应当在辩护人或者值班律师在场的情况下签署认罪认罚具结书。\n- **《中华人民共和国刑事诉讼法》第15条**：规定认罪认罚从宽处理原则，依法可以从宽处理。\n- **《最高人民法院、最高人民检察院、公安部、国家安全部、司法部关于适用认罪认罚从宽制度的指导意见》**：规定认罪认罚从宽制度贯穿刑事诉讼全过程，适用于侦查、起诉、审判各个阶段。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚的自愿性**：法院会审查被告人认罪认罚是否出于自愿，是否受到利诱、威胁或强制。例如，【（2020）粤1223刑初6号】中，被告人范国杰自愿认罪认罚，法院依法适用认罪认罚从宽制度。\n- **犯罪数额和情节**：犯罪数额巨大或情节严重的，即使认罪认罚，从宽幅度也可能较小。例如，【（2020）浙0411刑初256号】中，被告人裘剑梁等因犯罪数额巨大，虽认罪认罚，但量刑时考虑犯罪数额。\n- **是否取得被害人谅解**：取得被害人谅解的，可酌情从轻处罚。例如，【（2020）粤1223刑初6号】中，被告人范国杰取得敲诈勒索案中被害人的谅解，法院酌情从轻处罚。\n- **是否如实供述和退赃退赔**：如实供述自己的罪行，尽力退赃退赔的，可认定为“认罚”。例如，【（2019）津0104刑初499号】中，被告人李卫民如实供述犯罪事实，系坦白，依法可以从轻处罚。\n- **是否属于累犯或从犯**：累犯从宽幅度较小，从犯可从轻或减轻处罚。例如，【（2020）浙0411刑初256号】中，被告人裘剑梁系首要分子，其他被告人是从犯，对于从犯，应从轻或减轻处罚。\n- **是否具有未遂情节**：犯罪未遂的，可以从轻或减轻处罚。例如，【（2020）浙0624刑初133号】中，被告人刘洪林犯罪未遂，可以比照既遂犯减轻处罚。\n\n综上，认罪认罚从宽制度在敲诈勒索案件中的适用，法院会综合考量被告人的认罪态度、犯罪情节、社会危害性等因素，依法从宽处罚，但宽严相济，对于犯罪性质恶劣的案件，即使被告人认罪认罚，也可能不予从宽或从宽幅度较小。\n\n#####\n类似案件为：\n【（2020）粤1223刑初6号】：法院认为，被告人范国杰伙同他人故意毁坏公民财物，数额较大，构成故意毁坏财物罪；伙同他人敲诈勒索公民财物，数额较大，构成敲诈勒索罪，应数罪并罚。范国杰自愿认罪认罚，取得敲诈勒索案中被害人的谅解，依法适用认罪认罚从宽制度，在公诉机关量刑建议内从宽处罚。一、被告人范国杰犯故意毁坏财物罪，判处有期徒刑九个月；犯敲诈勒索罪，判处有期徒刑八个月，并处罚金2000元，总和刑期一年五个月，决定执行有期徒刑一年，并处罚金2000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月2日起至2020年10月1日止。）\n二、扣押机关扣押的作案工具苹果手机1台，予以没收，由扣押机关负责上缴国库。\n【（2020）浙0411刑初256号】：法院认为，被告人裘剑梁、余佳俊、王东青、张炜、沈郁诚、刘建强、周璐杰以非法占有为目的，交叉结伙多次敲诈勒索他人钱财；裘剑梁、余佳俊、张炜、沈郁诚以非法占有为目的，诈骗他人财物；裘剑梁结伙采用软暴力手段向他人逼债，影响他人生活、生产和社会秩序，已构成敲诈勒索罪、诈骗罪、寻衅滋事罪。裘剑梁、余佳俊、张炜、沈郁诚一人犯数罪，应数罪并罚。裘剑梁、余佳俊、王东青、张炜、沈郁诚、刘建强等形成恶势力犯罪集团，其中裘剑梁系首要分子，余佳俊、王东青、张炜、刘建强、周璐杰是从犯，沈郁诚在敲诈勒索共同犯罪中是从犯。余佳俊、王东青、沈郁诚、刘建强、周璐杰能如实供述，张炜如实供述敲诈勒索主要犯罪事实，裘剑梁当庭认罪，各被告人认罪认罚、积极退赃，可依法从宽处罚。一、被告人裘剑梁犯敲诈勒索罪，判处有期徒刑三年十个月，并处罚金十万元；犯诈骗罪，判处有期徒刑一年九个月，并处罚金五万元；犯寻衅滋事罪，判处有期徒刑六个月，决定执行有期徒刑五年八个月，并处罚金十五万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2025年4月30日止。）\n二、被告人余佳俊犯敲诈勒索罪，判处有期徒刑二年二个月，并处罚金三万元；犯诈骗罪，判处有期徒刑七个月，并处罚金五千元，决定执行有期徒刑二年四个月，并处罚金三万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2021年12月30日止。）\n三、被告人王东青犯敲诈勒索罪，判处有期徒刑二年二个月，并处罚金三万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2021年10月30日止。）\n四、被告人张炜犯敲诈勒索罪，判处有期徒刑一年二个月，并处罚金一万五千元；犯诈骗罪，判处有期徒刑八个月，并处罚金八千元，决定执行有期徒刑一年五个月，并处罚金二万三千元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2021年1月30日止。）\n五、被告人沈郁诚犯敲诈勒索罪，判处有期徒刑七个月，并处罚金一万元；犯诈骗罪，判处有期徒刑一年，并处罚金一万元，决定执行有期徒刑一年二个月，并处罚金一万五千元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2020年10月30日止。）\n六、被告人刘建强犯敲诈勒索罪，判处有期徒刑一年，缓刑一年六个月，并处罚金一万五千元（罚金限在判决生效后三日内缴纳）。\n缓刑考验期限，从判决确定之日起计算。\n七、被告人周璐杰犯敲诈勒索罪，判处有期徒刑七个月，缓刑一年，并处罚金五千元（罚金限在判决生效后三日内缴纳）。\n缓刑考验期限，从判决确定之日起计算。\n八、扣押在案的退赃款240734元，发还被害人何某8054元、陈某129500元、鲁某13040元、沈某126000元、赵某12500元、黄某110000元、吕某113740元、陈某220000元、马某10000元、黄某211700元、吴某3850元、郎某14550元、沈某219550元、曹某15000元、李某114002元。\n九、本案中实施“套路贷”的“本金”345950元作为犯罪工具应当予以追缴，依法从被告人裘剑梁处追缴305950元、从被告人裘剑梁、沈郁诚处追缴40000元。\n十、扣押在案的作案工具手机，由扣押机关依法予以没收；侦查机关从被告人王东青、沈郁诚处扣押的汽车，由扣押机关依法予以发还；扣押在案的借条一份，与本案无关，由扣押机关依法发还。\n【（2020）粤1223刑初6号】：法院认为，被告人范国杰伙同他人故意毁坏公民财物，数额较大，构成故意毁坏财物罪；伙同他人敲诈勒索公民财物，数额较大，构成敲诈勒索罪，应数罪并罚。范国杰自愿认罪认罚，取得敲诈勒索案中被害人的谅解，依法适用认罪认罚从宽制度，在公诉机关量刑建议内从宽处罚。一、被告人范国杰犯故意毁坏财物罪，判处有期徒刑九个月；犯敲诈勒索罪，判处有期徒刑八个月，并处罚金2000元，总和刑期一年五个月，决定执行有期徒刑一年，并处罚金2000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月2日起至2020年10月1日止。）\n二、扣押机关扣押的作案工具苹果手机1台，予以没收，由扣押机关负责上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.强调被告人王某甲对敲诈勒索行为的完整供述，包括威胁内容、发布裸照的具体群组及时间等细节，证明其主观故意明确\n2.重点指出被害人系未成年人这一加重情节，结合《刑法》第二百七十四条及未成年人保护相关法律规定，应从重处罚\n3.指出被告人曾两次因违法行为被行政处罚，具有不良行为记录，说明其主观恶性较大\n4.强调被告人实际取得2000元财物，犯罪既遂，且造成被害人严重心理创伤，社会危害性较大\n\n防御策略：\n1.所有电子数据均经公安机关依法提取并出具鉴定报告，程序合法有效\n2.证人证言与被害人陈述相互印证，形成完整证据链\n3.被告人供述系在侦查阶段依法取得，不存在刑讯逼供等违法情形\n4.微信转账记录、微信群截图等客观证据与被告人供述高度吻合\n5.鉴定意见中1.32GB涉案数据完整保存，可随时调取核实",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "以公开裸照相威胁索要钱财的类似案例及判决结果",
+              "未成年人遭受敲诈勒索案件的特殊保护措施"
+            ],
+            "以公开裸照相威胁索要钱财的类似案例及判决结果": "### 结论\n以公开裸照相威胁索要钱财的行为构成敲诈勒索罪，犯罪未遂、自首、认罪认罚、退赔、取得谅解等情节可从轻或减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪未遂**：如果敲诈勒索行为因被告人意志以外的原因而未得逞，系犯罪未遂，可从轻处罚。例如，【（2019）浙0702刑初691号】、【（2020）鲁1302刑初292号】、【（2019）粤0891刑初246号】、【（2019）粤5222刑初181号】、【（2020）粤0823刑初271号】中，被告人的敲诈勒索行为未完全得逞，法院均予以从轻处罚。\n- **自首**：自动投案、如实供述自己的罪行，属自首，可从轻处罚。如【（2019）鲁1522刑初402号】、【（2020）粤0823刑初271号】中，被告人自动投案并如实供述，法院予以从轻处罚。\n- **认罪认罚**：归案后如实供述犯罪事实，当庭自愿认罪，可从轻处罚。如【（2019）浙0702刑初691号】、【（2019）鲁1302刑初2147号】、【（2020）鲁1302刑初292号】、【（2019）粤0891刑初246号】、【（2019）粤5222刑初181号】、【（2020）沪0115刑初4803号】、【（2020）粤0823刑初271号】中，被告人认罪认罚，法院予以从轻处罚。\n- **退赔、取得谅解**：通过退赔经济损失取得了被害人的谅解，可酌情从轻处罚。如【（2019）鲁1522刑初402号】、【（2019）粤0891刑初246号】、【（2020）粤0823刑初271号】中，被告人退赔并取得谅解，法院予以从轻处罚。\n\n综上，以公开裸照相威胁索要钱财的行为构成敲诈勒索罪，法院在量刑时会考虑犯罪未遂、自首、认罪认罚、退赔、取得谅解等情节，这些情节均可能成为从轻或减轻处罚的依据。\n\n#####\n类似案件为：\n【（2019）浙0702刑初691号】：法院认为，何清梅、姚某以曝光裸照威胁索要财物，数额较大，构成敲诈勒索罪。何清梅起主要作用系主犯，姚某起辅助作用系从犯，本案因意志外原因未遂，二被告均坦白认罪，对何清梅、姚某从轻处罚。一、被告人何清梅犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年9月30日止）。\n 二、被告人姚某犯敲诈勒索罪，判处有期徒刑一年，并处罚金人民币七千元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年3月30日止）。\n 三、没收被扣押的犯罪工具手机、照片等物，由金华市公安局婺城分局依法处理。\n【（2020）鲁1302刑初292号】：法院认为，鲁犟以非法占有为目的，以传播他人裸体照片相要挟，强行索要财物，数额较大，构成敲诈勒索罪。鲁犟犯罪未遂，如实供述罪行，认罪悔罪，依法可从轻处罚。一、被告人鲁犟犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年9月24日起至2020年5月23日止。罚金已缴纳）；\n 二、公安机关扣押的物品由其依法处理。\n【（2019）粤0891刑初246号】：法院认为，被告人吴耀坚以非法占有为目的，以公开被害人的私照为由威胁被害人，索取钱财，数额较大，其行为已构成敲诈勒索罪。鉴于吴耀坚归案后能如实供述自己的犯罪事实，且部分犯罪未遂，依法可从轻处罚。被告人的家属已代被告人赔偿了被害人的损失，并取得了被害人谅解，可酌情从轻处罚。被告人吴耀坚犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月16日起至2019年8月15日止。罚金限在本判决生效后三十日内本院缴纳，由本院上缴国库）。",
+            "未成年人遭受敲诈勒索案件的特殊保护措施": "### 结论\n未成年人遭受敲诈勒索案件中，法院通常会考虑犯罪行为对未成年人的特殊影响，包括犯罪未遂、犯罪时的年龄、自首、立功、认罪认罚、退赃、取得谅解等情节，以及是否构成恶势力犯罪集团等因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件。\n- **《中华人民共和国刑法》第二十三条**：规定犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十八条**：规定立功的处罚原则。\n- **《中华人民共和国刑法》第十七条第一、三款**：规定未成年人犯罪的处罚原则。\n- **《中华人民共和国刑法》第六十七条第三款**：规定坦白的处罚原则。\n- **《中华人民共和国刑法》第六十九条**：规定数罪并罚的处罚原则。\n- **《中华人民共和国刑法》第二十五条第一款**：规定共同犯罪的处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪未遂**：如果犯罪行为由于意志以外的原因未得逞，法院会根据《中华人民共和国刑法》第二十三条的规定，对被告人从轻或者减轻处罚。例如，【（2019）苏0106刑初字759号】、【（2020）沪0114刑初1734号】、【（2019）苏0582刑初283号】、【（2020）京0108刑初1223号】、【（2020）沪0110刑初1417号】、【（2020）粤0784刑初249号】中，法院均考虑了犯罪未遂的情节，对被告人从轻处罚。\n- **未成年人犯罪**：如果犯罪时被告人系未成年人，法院会根据《中华人民共和国刑法》第十七条第一、三款的规定，对被告人从轻或者减轻处罚。例如，【（2019）苏0106刑初字759号】、【（2020）粤0784刑初249号】中，法院均考虑了犯罪时系未成年人的情节，对被告人从轻处罚。\n- **自首、立功、认罪认罚**：如果被告人自首、立功或认罪认罚，法院会根据《中华人民共和国刑法》第六十八条、第六十七条第三款的规定，对被告人从轻或者减轻处罚。例如，【（2019）苏0106刑初字759号】、【（2021）苏1012刑初30号】、【（2020）沪0114刑初1734号】、【（2020）沪0110刑初1417号】、【（2020）粤0784刑初249号】中，法院均考虑了自首、立功或认罪认罚的情节，对被告人从轻处罚。\n- **退赃、取得谅解**：如果被告人退赃并取得被害人谅解，法院会酌情从轻处罚。例如，【（2021）苏1012刑初30号】、【（2020）沪0110刑初1417号】、【（2020）粤0784刑初249号】中，法院均考虑了退赃、取得谅解的情节，对被告人从轻处罚。\n- **是否构成恶势力犯罪集团**：如果犯罪行为构成恶势力犯罪集团，法院会根据最高人民法院、最高人民检察院、公安部、司法部《关于办理黑恶势力犯罪案件若干问题的指导意见》的规定，对被告人从严惩处。例如，【（2020）粤0784刑初249号】中，法院认定被告人构成恶势力犯罪集团，对被告人从严惩处。\n\n综上，未成年人遭受敲诈勒索案件中，法院会综合考虑犯罪未遂、未成年人犯罪、自首、立功、认罪认罚、退赃、取得谅解以及是否构成恶势力犯罪集团等因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n#####\n类似案件为：\n【（2019）苏0106刑初字759号】：法院认为，被告人张某敲诈勒索他人财物，数额较大，构成敲诈勒索罪，且系犯罪未遂；伙同他人非法拘禁他人，构成非法拘禁罪。张某犯罪时系未成年人，应当从轻或减轻处罚。张某协助公安机关抓获同案犯，构成立功，可以从轻或减轻处罚。张某归案后如实供述自己的罪行，系坦白，可以从轻处罚。张某自愿认罪认罚，依法从宽处理。被告人张浪犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币5000元；被告人张浪犯非法拘禁罪，判处有期徒刑一年。决定执行有期徒刑一年六个月，并处罚金人民币5000元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除先行羁押的31天，即自2019年5月29日起至2020年10月28日止；罚金已缴纳。）\n【（2020）沪0114刑初1734号】：法院认为，被告人朱旭升敲诈勒索未成年人财物，数额较大，其行为构成敲诈勒索罪。朱旭升系犯罪未遂，可以比照既遂犯从轻处罚；如实供述自己的罪行，可以从轻处罚；认罪认罚，可以从宽处理。一、被告人朱旭升犯敲诈勒索罪，判处有期徒刑六个月，罚金人民币二千元；\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年9月12日起至2021年3月11日止。)\n(罚金应于本判决生效之日起十日内缴纳。)\n二、责令被告人朱旭升退赔被害人沈某某人民币五百元。\n【（2019）苏0582刑初283号】：法院认为，何某某、季某某共同以非法占有为目的，采用要挟手段，敲诈勒索他人财物，数额较大，其行为已构成敲诈勒索罪，属共同犯罪。两人在犯罪中均起主要作用，系主犯，且犯罪未遂，可以比照既遂犯从轻处罚。鉴于两人敲诈勒索未成年人，主观恶性较大，不宜宣告缓刑。两人归案后均如实供述自己的罪行，已赔偿被害人的损失并取得谅解，可从轻处罚。一、被告人何某某犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元。\n\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2019年12月23日止；罚金自本判决生效后十日内缴纳)。\n\n二、被告人季某某犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元。\n\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2019年12月26日止；罚金自本判决生效后十日内缴纳)。\n\n三、扣押的作案工具手机1部，予以没收。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑微信群截图证据的完整性和真实性，未明确显示被告人账号与发布行为的直接关联2.指出转账记录未充分证明是在胁迫下完成，可能存在感情纠纷中的自愿给付情节3.质疑证人证言中对裸照传播范围和影响的描述存在矛盾，部分证人对微信群人数描述不一致\n\n防御策略：1.强调被告人已认罪认罚并主动退赔全部款项，表明其悔罪态度良好2.指出本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别3.说明被告人已采取补救措施删除照片，社会危害性已得到有效控制4.强调被告人前科仅为行政违法记录，不构成累犯加重情节",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "以公开裸照威胁索要钱财的类似案例及判决结果",
+              "认罪认罚并主动退赔对量刑影响的具体案例"
+            ],
+            "以公开裸照威胁索要钱财的类似案例及判决结果": "### 结论\n以公开裸照威胁索要钱财的行为构成敲诈勒索罪，判决结果通常考虑犯罪既遂或未遂、自首、坦白、认罪认罚、退赔、谅解等因素，量刑在有期徒刑范围内，根据情节轻重从轻到减轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪既遂或未遂**：如果犯罪因意志以外的原因未得逞，系犯罪未遂，依法可从轻或减轻处罚。例如，【（2020）鲁1302刑初292号】、【（2019）粤0891刑初246号】、【（2019）粤5222刑初181号】、【（2020）沪0115刑初4803号】、【（2020）粤0823刑初271号】中，法院均考虑了犯罪未遂这一情节。\n- **自首、坦白**：被告人自动投案、如实供述自己的罪行，属自首，依法可从轻处罚。例如，【（2019）鲁1522刑初402号】、【（2020）粤0823刑初271号】中，法院均考虑了自首情节。\n- **认罪认罚**：被告人归案后能如实供述自己的犯罪事实，且自愿认罪认罚，依法可从轻处罚。例如，【（2019）浙0702刑初691号】、【（2019）鲁1302刑初2147号】、【（2020）鲁1302刑初292号】、【（2019）鲁1522刑初402号】、【（2020）沪0115刑初4803号】、【（2020）粤0823刑初271号】中，法院均考虑了认罪认罚情节。\n- **退赔、谅解**：被告人或其家属代为赔偿被害人损失并取得谅解，可酌情从轻处罚。例如，【（2019）鲁1522刑初402号】、【（2020）沪0115刑初4803号】、【（2020）粤0823刑初271号】中，法院均考虑了退赔和谅解情节。\n\n综上，敲诈勒索罪的判决通常会综合考虑犯罪的既遂或未遂状态、被告人的自首、坦白、认罪认罚态度以及是否退赔、取得被害人谅解等因素，以实现罪刑相适应的原则。\n\n#####\n类似案件为：\n【（2020）鲁1302刑初292号】：法院认为，鲁犟以非法占有为目的，以传播他人裸体照片相要挟，强行索要财物，数额较大，构成敲诈勒索罪。鲁犟犯罪未遂，如实供述罪行，认罪悔罪，依法可从轻处罚。一、被告人鲁犟犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年9月24日起至2020年5月23日止。罚金已缴纳）；\n 二、公安机关扣押的物品由其依法处理。\n【（2019）粤0891刑初246号】：法院认为，被告人吴耀坚以非法占有为目的，以公开被害人的私照为由威胁被害人，索取钱财，数额较大，其行为已构成敲诈勒索罪。鉴于吴耀坚归案后能如实供述自己的犯罪事实，且部分犯罪未遂，依法可从轻处罚。被告人的家属已代被告人赔偿了被害人的损失，并取得了被害人谅解，可酌情从轻处罚。被告人吴耀坚犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月16日起至2019年8月15日止。罚金限在本判决生效后三十日内本院缴纳，由本院上缴国库）。\n【（2019）粤5222刑初181号】：法院认为，张建村以非法占有为目的，采用非法手段拍摄被害人的裸照，并以此为由向被害人强行索要财物，数额较大，构成敲诈勒索罪。张建村系累犯，应从重处罚；犯罪未遂，可从轻处罚。一、被告人张建村犯敲诈勒索罪，判处有期徒刑一年三个月，并处罚金人民币三万元。罚金应于本判决生效之日起一个月内缴纳。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月22日起至2020年6月21日止。）\n二、涉案的作案工具苹果6S手机一部、微型摄像机一部（无实物移送），予以没收；责令被告人张建村将违法所得人民币5000元于本判决生效后一个月内退赔给被害人韩某。",
+            "认罪认罚并主动退赔对量刑影响的具体案例": "### 结论\n认罪认罚并主动退赔是影响量刑的重要因素，可以作为从轻或减轻处罚的情节，特别是在犯罪性质较轻、社会危害性较小的案件中，法院更可能据此适用缓刑。然而，在犯罪性质恶劣、社会危害性极大的案件中，即使被告人认罪认罚并主动退赔，法院也可能根据犯罪的社会危害性及被告人的人身危险性，依法判处重刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：规定自首可以从轻或者减轻处罚；对于犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第七十二条**：规定对于被判处三年以下有期徒刑或者拘役的犯罪分子，根据犯罪情节和悔罪表现，适用缓刑确实不致再危害社会的，可以宣告缓刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚**：认罪认罚是法院从轻处罚的重要依据。例如，【（2024）粤2071刑初766号】中，被告人周某安因认罪认罚，法院依法从轻处罚并适用缓刑。\n- **主动退赔**：主动退赔被害人的损失，可以作为从轻处罚的情节。如【（2022）鲁1425刑初450号】中，被告人林天乐主动退赔报案人，法院在量刑时酌情考虑。\n- **犯罪性质和危害性**：犯罪的性质和对社会的危害性是决定量刑的基本因素。在【（2020）鲁08刑终472号】中，尽管被告人吴某红认罪认罚并主动退赔，但鉴于犯罪性质恶劣，法院仍需综合考虑社会危害性，决定是否适用缓刑。\n\n综上，认罪认罚和主动退赔是法院量刑时的重要考量因素，但其影响程度需结合犯罪的具体性质、社会危害性以及被告人的主观恶性来综合判断。在犯罪性质较轻的案件中，这些因素更可能促使法院从轻处罚或适用缓刑；而在犯罪性质恶劣的案件中，即使被告人有上述表现，法院也可能基于社会危害性的考量，依法判处重刑。\n\n#####\n类似案件为：\n【（2024）粤2071刑初766号】：法院认为，周某安明知是犯罪所得而结伙予以转移，构成掩饰、隐瞒犯罪所得罪。鉴于周某安系从犯、有自首情节、认罪认罚、主动退赔，依法从轻处罚并适用缓刑。依照相关法律及司法解释，判决如下：\n一、周某安犯掩饰、隐瞒犯罪所得罪，判处有期徒刑一年，缓刑一年六个月，并处罚金五千元。\n二、周某安退出的违法所得1900元，予以追缴，上缴国库。\n三、作案工具手机1台，予以没收。一、被告人周某安犯掩饰、隐瞒犯罪所得罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币五千元。\n（缓刑考验期限，从判决确定之日起计算。罚金自本判决生效之日起三十日内缴纳，期满不缴纳的，强制缴纳。）\n二、被告人周某安退出的违法所得人民币1900元，依法予以追缴，上缴国库。\n（由扣押单位中山市公安局三乡分局依法处理）\n三、缴获的作案工具手机1台，依法予以没收。\n（由扣押单位中山市公安局三乡分局依法处理）\n【（2022）鲁1425刑初450号】：法院认为，林天乐明知他人利用信息网络实施犯罪，仍为其犯罪提供支付结算帮助，情节严重，构成帮助信息网络犯罪活动罪。鉴于林天乐自愿认罪认罚，有坦白情节，依法予以从宽处理、从轻处罚；其主动退赔报案人，量刑时酌情考虑。一、被告人林天乐犯帮助信息网络犯罪活动罪，判处有期徒刑六个月，并处罚金人民币三千元（刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2022年10月19日起至2023年4月18日止。罚金已缴纳。）\n二、xx机关扣押的违法所得人民币四千元，由扣押机关予以没收，上缴国库；扣押的银行卡一张、手机一部，由扣押机关予以没收。\n【（2020）鲁08刑终472号】：法院认为，吴某红以非法占有为目的，利用网络虚构事实，骗取他人财物，数额巨大，构成诈骗罪，系共同犯罪。鉴于吴某红自首、认罪认罚，积极退赔，取得谅解，且司法局评估宣告缓刑对社区无重大不良影响，可宣告缓刑。金乡县人民法院判决吴某红犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二万元。判决为终审判决。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人王某甲已认罪认罚并主动退赔，表明其悔罪态度良好 2.本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别 3.被告人已取得被害人谅解，社会危害性已得到有效弥补 4.被告人虽有两项行政违法记录但不构成累犯加重情节",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲是否构成敲诈勒索罪。查明情况：被告人已当庭认罪，对以公开裸照相威胁索要2000元的事实供认不讳，且被害人转账行为与威胁行为存在直接因果关系。审判长认为犯罪事实清楚，构成敲诈勒索罪。\n\n2.被告人主观上是否具有非法占有的故意。查明情况：被告人明确承认出于报复和索财目的实施威胁行为，且实际取得2000元。审判长认为其主观上具有明确的非法占有故意。\n\n3.针对未成年人实施犯罪是否构成从重处罚情节。查明情况：被告人明知被害人为未成年人仍实施犯罪行为，并将裸照发布至包含被害人同学在内的多个群组。审判长认为该情节应当作为从重处罚考量因素。\n\n4.被告人认罪认罚的真实性及自愿性。查明情况：被告人全程配合调查，当庭表示认罪认罚，并已主动退赔。审判长认为其认罪认罚具有真实性和自愿性。\n\n5.被告人的前科劣迹是否影响量刑。查明情况：被告人曾两次被行政处罚，但与本次犯罪性质不同且间隔时间较长。审判长认为可酌情考虑但不构成累犯。\n\n6.量刑建议是否适当。查明情况：公诉人建议适用缓刑，被告人已退赔但未取得书面谅解。审判长认为需结合犯罪情节和社会危害性综合考量量刑。\n\n7.微信群传播范围及社会危害性的认定。查明情况：控辩双方对微信群人数存在争议，但电子数据鉴定报告已确认具体人数。审判长认为传播范围已查清，社会危害性较大。\n\n8.被害人心理损害程度的认定。查明情况：多名证人证实被害人情绪异常、拒绝上学，但缺乏专业心理评估报告。审判长认为犯罪行为确实对被害人造成严重心理伤害。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第十七条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "未成年人裸照敲诈勒索案件量刑标准",
+              "认罪认罚从宽制度在敲诈勒索案件中的适用",
+              "前科劣迹对敲诈勒索罪量刑的影响"
+            ],
+            "未成年人裸照敲诈勒索案件量刑标准": "### 结论\n未成年人裸照敲诈勒索案件的量刑标准需综合考虑犯罪数额、犯罪手段、犯罪对象的特殊性、犯罪未遂或既遂、犯罪人的前科、认罪态度、退赃及取得谅解情况、是否为未成年人、是否为初犯、偶犯等因素。对于未成年人犯罪，应从轻或减轻处罚；对于犯罪未遂，可以从轻处罚；对于认罪认罚、退赃并取得谅解的，可以从轻处罚；对于利用网络手段实施犯罪，主观恶性及社会危害性大的，不宜适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件及量刑幅度。\n- **《中华人民共和国刑法》第二十三条**：规定犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十五条**：规定累犯的处罚原则。\n- **《中华人民共和国刑法》第十七条**：规定未成年人犯罪的处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：数额较大或巨大，量刑幅度不同。例如，【（2019）苏0582刑初283号】、【（2019）苏0612刑初553号】中，犯罪数额较大，量刑在三年以下有期徒刑、拘役或者管制，并处或者单处罚金。\n- **犯罪对象的特殊性**：敲诈勒索未成年人，应酌情从重处罚。例如，【（2019）苏0582刑初283号】、【（2021）苏1012刑初30号】中，犯罪对象为未成年人，量刑时予以从重考虑。\n- **犯罪未遂**：犯罪未遂可以从轻处罚。例如，【（2019）粤5222刑初181号】中，被告人仅取得少部分赃款，属犯罪未遂，依法可以从轻处罚。\n- **犯罪人的前科**：累犯依法应当从重处罚。例如，【（2019）苏1081刑初258号】中，被告人殷健、李晓青曾因故意犯罪被判处有期徒刑，刑罚执行完毕后，在五年以内再犯应当判处有期徒刑以上刑罚之罪，是累犯，依法应当从重处罚。\n- **认罪态度、退赃及取得谅解**：如实供述、退赃并取得谅解的，可以从轻处罚。例如，【（2019）苏0582刑初283号】、【（2019）苏0612刑初553号】中，被告人归案后如实供述自己的罪行，均已赔偿被害人的损失并取得谅解，均可从轻处罚。\n- **是否为未成年人**：犯罪时不满十八周岁的，应当从轻或者减轻处罚。例如，【（2020）苏1081刑初373号】中，被告人唐某、时某实施部分敲诈勒索犯罪时不满十八周岁，应当从轻或者减轻处罚。\n- **是否为初犯、偶犯**：初犯、偶犯可以从轻处罚。例如，【（2019）苏0582刑初283号】中，被告人何某某、季某某系初犯、偶犯，可以从轻处罚。\n\n综上，未成年人裸照敲诈勒索案件的量刑需综合考虑上述因素，以实现罪责刑相适应。\n\n#####\n类似案件为：\n【（2019）苏0582刑初283号】：法院认为，何某某、季某某共同以非法占有为目的，采用要挟手段，敲诈勒索他人财物，数额较大，其行为已构成敲诈勒索罪，属共同犯罪。两人在犯罪中均起主要作用，系主犯，且犯罪未遂，可以比照既遂犯从轻处罚。鉴于两人敲诈勒索未成年人，主观恶性较大，不宜宣告缓刑。两人归案后均如实供述自己的罪行，已赔偿被害人的损失并取得谅解，可从轻处罚。一、被告人何某某犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元。\n\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2019年12月23日止；罚金自本判决生效后十日内缴纳)。\n\n二、被告人季某某犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元。\n\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2019年12月26日止；罚金自本判决生效后十日内缴纳)。\n\n三、扣押的作案工具手机1部，予以没收。\n【（2019）苏0612刑初553号】：法院认为，被告人纪腾飞以非法占有为目的，先以诱骗方式获取他人裸照和钱财，再使用威胁手段勒索财物，数额巨大，其行为构成敲诈勒索罪。纪腾飞归案后坦白，认罪认罚，积极退赃并取得谅解，可从轻处罚。鉴于其敲诈数额巨大，通过网络实施，主观恶性及社会危害性大，不宜适用缓刑。一、被告人纪腾飞犯敲诈勒索罪，判处有期徒刑三年三个月，并处罚金人民币三万元（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2022年7月28日止；罚金已缴纳）。\n 二、对被告人纪腾飞主动退出的赃款人民币87717元，发还被害人张某某。\n 三、对已扣押在案的作案工具：华为牌手机1部，予以没收，上缴国库。\n【（2019）苏0582刑初283号】：法院认为，何某某、季某某共同以非法占有为目的，采用要挟手段，敲诈勒索他人财物，数额较大，其行为已构成敲诈勒索罪，属共同犯罪。两人在犯罪中均起主要作用，系主犯，且犯罪未遂，可以比照既遂犯从轻处罚。鉴于两人敲诈勒索未成年人，主观恶性较大，不宜宣告缓刑。两人归案后均如实供述自己的罪行，已赔偿被害人的损失并取得谅解，可从轻处罚。一、被告人何某某犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元。\n\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2019年12月23日止；罚金自本判决生效后十日内缴纳)。\n\n二、被告人季某某犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元。\n\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月28日起至2019年12月26日止；罚金自本判决生效后十日内缴纳)。\n\n三、扣押的作案工具手机1部，予以没收。",
+            "认罪认罚从宽制度在敲诈勒索案件中的适用": "### 结论\n认罪认罚从宽制度在敲诈勒索案件中的适用，主要考虑被告人的认罪态度、是否自愿认罪认罚、是否取得被害人谅解、犯罪数额、犯罪情节、社会危害性、是否属于累犯、是否属于从犯、是否具有未遂情节、是否如实供述、是否退赃退赔、是否造成恶劣社会影响等因素。法院在量刑时会综合考量这些因素，对自愿认罪认罚的被告人依法从宽处罚，但宽严相济，对于犯罪性质恶劣、手段残忍、社会危害严重的案件，即使被告人认罪认罚，也可能不予从宽或从宽幅度较小。\n\n### 核心法条\n- **《中华人民共和国刑事诉讼法》第174条**：规定犯罪嫌疑人认罪认罚的，应当在辩护人或者值班律师在场的情况下签署认罪认罚具结书。\n- **《中华人民共和国刑事诉讼法》第15条**：规定认罪认罚从宽处理原则，依法可以从宽处理。\n- **《最高人民法院、最高人民检察院、公安部、国家安全部、司法部关于适用认罪认罚从宽制度的指导意见》**：规定认罪认罚从宽制度贯穿刑事诉讼全过程，适用于侦查、起诉、审判各个阶段。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚的自愿性**：法院会审查被告人认罪认罚是否出于自愿，是否受到利诱、威胁或强制。例如，【（2020）粤1223刑初6号】中，被告人范国杰自愿认罪认罚，法院依法适用认罪认罚从宽制度。\n- **犯罪数额和情节**：犯罪数额巨大或情节严重的，即使认罪认罚，从宽幅度也可能较小。例如，【（2020）浙0411刑初256号】中，被告人裘剑梁等因犯罪数额巨大，虽认罪认罚，但量刑时考虑犯罪数额。\n- **是否取得被害人谅解**：取得被害人谅解的，可酌情从轻处罚。例如，【（2020）粤1223刑初6号】中，被告人范国杰取得敲诈勒索案中被害人的谅解，法院酌情从轻处罚。\n- **是否如实供述和退赃退赔**：如实供述自己的罪行，尽力退赃退赔的，可认定为“认罚”。例如，【（2019）津0104刑初499号】中，被告人李卫民如实供述犯罪事实，系坦白，依法可以从轻处罚。\n- **是否属于累犯或从犯**：累犯从宽幅度较小，从犯可从轻或减轻处罚。例如，【（2020）浙0411刑初256号】中，被告人裘剑梁系首要分子，其他被告人是从犯，对于从犯，应从轻或减轻处罚。\n- **是否具有未遂情节**：犯罪未遂的，可以从轻或减轻处罚。例如，【（2020）浙0624刑初133号】中，被告人刘洪林犯罪未遂，可以比照既遂犯减轻处罚。\n\n综上，认罪认罚从宽制度在敲诈勒索案件中的适用，法院会综合考量被告人的认罪态度、犯罪情节、社会危害性等因素，依法从宽处罚，但宽严相济，对于犯罪性质恶劣的案件，即使被告人认罪认罚，也可能不予从宽或从宽幅度较小。\n\n#####\n类似案件为：\n【（2020）粤1223刑初6号】：法院认为，被告人范国杰伙同他人故意毁坏公民财物，数额较大，构成故意毁坏财物罪；伙同他人敲诈勒索公民财物，数额较大，构成敲诈勒索罪，应数罪并罚。范国杰自愿认罪认罚，取得敲诈勒索案中被害人的谅解，依法适用认罪认罚从宽制度，在公诉机关量刑建议内从宽处罚。一、被告人范国杰犯故意毁坏财物罪，判处有期徒刑九个月；犯敲诈勒索罪，判处有期徒刑八个月，并处罚金2000元，总和刑期一年五个月，决定执行有期徒刑一年，并处罚金2000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月2日起至2020年10月1日止。）\n二、扣押机关扣押的作案工具苹果手机1台，予以没收，由扣押机关负责上缴国库。\n【（2020）浙0411刑初256号】：法院认为，被告人裘剑梁、余佳俊、王东青、张炜、沈郁诚、刘建强、周璐杰以非法占有为目的，交叉结伙多次敲诈勒索他人钱财；裘剑梁、余佳俊、张炜、沈郁诚以非法占有为目的，诈骗他人财物；裘剑梁结伙采用软暴力手段向他人逼债，影响他人生活、生产和社会秩序，已构成敲诈勒索罪、诈骗罪、寻衅滋事罪。裘剑梁、余佳俊、张炜、沈郁诚一人犯数罪，应数罪并罚。裘剑梁、余佳俊、王东青、张炜、沈郁诚、刘建强等形成恶势力犯罪集团，其中裘剑梁系首要分子，余佳俊、王东青、张炜、刘建强、周璐杰是从犯，沈郁诚在敲诈勒索共同犯罪中是从犯。余佳俊、王东青、沈郁诚、刘建强、周璐杰能如实供述，张炜如实供述敲诈勒索主要犯罪事实，裘剑梁当庭认罪，各被告人认罪认罚、积极退赃，可依法从宽处罚。一、被告人裘剑梁犯敲诈勒索罪，判处有期徒刑三年十个月，并处罚金十万元；犯诈骗罪，判处有期徒刑一年九个月，并处罚金五万元；犯寻衅滋事罪，判处有期徒刑六个月，决定执行有期徒刑五年八个月，并处罚金十五万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2025年4月30日止。）\n二、被告人余佳俊犯敲诈勒索罪，判处有期徒刑二年二个月，并处罚金三万元；犯诈骗罪，判处有期徒刑七个月，并处罚金五千元，决定执行有期徒刑二年四个月，并处罚金三万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2021年12月30日止。）\n三、被告人王东青犯敲诈勒索罪，判处有期徒刑二年二个月，并处罚金三万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2021年10月30日止。）\n四、被告人张炜犯敲诈勒索罪，判处有期徒刑一年二个月，并处罚金一万五千元；犯诈骗罪，判处有期徒刑八个月，并处罚金八千元，决定执行有期徒刑一年五个月，并处罚金二万三千元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2021年1月30日止。）\n五、被告人沈郁诚犯敲诈勒索罪，判处有期徒刑七个月，并处罚金一万元；犯诈骗罪，判处有期徒刑一年，并处罚金一万元，决定执行有期徒刑一年二个月，并处罚金一万五千元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年8月31日起至2020年10月30日止。）\n六、被告人刘建强犯敲诈勒索罪，判处有期徒刑一年，缓刑一年六个月，并处罚金一万五千元（罚金限在判决生效后三日内缴纳）。\n缓刑考验期限，从判决确定之日起计算。\n七、被告人周璐杰犯敲诈勒索罪，判处有期徒刑七个月，缓刑一年，并处罚金五千元（罚金限在判决生效后三日内缴纳）。\n缓刑考验期限，从判决确定之日起计算。\n八、扣押在案的退赃款240734元，发还被害人何某8054元、陈某129500元、鲁某13040元、沈某126000元、赵某12500元、黄某110000元、吕某113740元、陈某220000元、马某10000元、黄某211700元、吴某3850元、郎某14550元、沈某219550元、曹某15000元、李某114002元。\n九、本案中实施“套路贷”的“本金”345950元作为犯罪工具应当予以追缴，依法从被告人裘剑梁处追缴305950元、从被告人裘剑梁、沈郁诚处追缴40000元。\n十、扣押在案的作案工具手机，由扣押机关依法予以没收；侦查机关从被告人王东青、沈郁诚处扣押的汽车，由扣押机关依法予以发还；扣押在案的借条一份，与本案无关，由扣押机关依法发还。\n【（2020）粤1223刑初6号】：法院认为，被告人范国杰伙同他人故意毁坏公民财物，数额较大，构成故意毁坏财物罪；伙同他人敲诈勒索公民财物，数额较大，构成敲诈勒索罪，应数罪并罚。范国杰自愿认罪认罚，取得敲诈勒索案中被害人的谅解，依法适用认罪认罚从宽制度，在公诉机关量刑建议内从宽处罚。一、被告人范国杰犯故意毁坏财物罪，判处有期徒刑九个月；犯敲诈勒索罪，判处有期徒刑八个月，并处罚金2000元，总和刑期一年五个月，决定执行有期徒刑一年，并处罚金2000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月2日起至2020年10月1日止。）\n二、扣押机关扣押的作案工具苹果手机1台，予以没收，由扣押机关负责上缴国库。",
+            "前科劣迹对敲诈勒索罪量刑的影响": "### 结论\n前科劣迹对敲诈勒索罪量刑有显著影响，通常作为从重量刑的情节，但自首、认罪认罚、犯罪未遂、退赃及取得被害人谅解等情节可以部分抵消前科劣迹的负面影响。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十五条**：规定累犯的从重量刑原则。\n- **《中华人民共和国刑法》第六十七条**：规定自首和坦白的从轻或减轻处罚原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **前科劣迹**：前科劣迹通常作为从重量刑的情节，如【（2019）闽0922刑初218号】、【（2019）鲁0321刑初481号】、【（2019）津0112刑初768号】中，法院均认为前科劣迹是加重处罚的因素。\n- **自首与认罪认罚**：自首和认罪认罚可以作为从轻处罚的情节，如【（2019）闽0922刑初218号】中，被告人丁晓炜因自首和认罪认罚而获得从轻处罚；【（2019）粤0306刑初2345号】中，赵庆敏因自首而获得从轻处罚。\n- **犯罪未遂**：犯罪未遂作为从轻处罚的情节，如【（2019）闽0922刑初218号】、【（2019）粤0306刑初2345号】中，犯罪未遂被法院视为从轻处罚的理由。\n- **退赃及取得被害人谅解**：退赃和取得被害人谅解可以作为从轻处罚的情节，如【（2019）鲁0321刑初481号】、【（2019）粤0306刑初2345号】、【（2016）黑0225刑初207号】中，被告人因退赃和取得被害人谅解而获得从轻处罚。\n\n综上，前科劣迹作为加重处罚的情节，但自首、认罪认罚、犯罪未遂、退赃及取得被害人谅解等情节可以部分抵消其负面影响，法院在量刑时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2019）闽0922刑初218号】：法院认为，被告人丁晓炜的行为构成敲诈勒索罪，鉴于其有前科、劣迹，但犯罪未遂，且有自首、认罪认罚、取得谅解的情节，依法从轻处罚。一、被告人丁晓炜犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币5000元；\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月22日起至2019年11月21日止。罚金已缴纳。）\n 二、已扣押的作案工具“金利”牌水果刀一把，依法予以没收;黑色苹果7PLUS手机一部依法予以没收，由扣押机关上缴国库。\n【（2019）鲁0321刑初481号】：法院认为，被告人于亦鑫敲诈勒索他人财物，数额较大，构成敲诈勒索罪。虽有犯罪前科和劣迹，但鉴于其认罪认罚、退赃、取得谅解，可从轻处罚。被告人于亦鑫犯敲诈勒索罪，判处有期徒刑十个月，缓刑一年，并处罚金人民币一万元（罚金限本判决生效后三十日内缴纳，缓刑考验期自判决确定之日起计算）。\n【（2019）津0112刑初768号】：法院认为，卢浩、毛晨的行为构成敲诈勒索罪，属共同犯罪。毛晨有前科，应酌情从重处罚；卢浩、毛晨的敲诈勒索行为未遂，可比照既遂犯从轻处罚；二人归案后如实供述，属坦白，且认罪认罚，可从轻处罚。被告人卢浩犯敲诈勒索罪，判处拘役六个月，缓刑一年，并处罚金人民币五千元。在缓刑考验期内，依法实行社区矫正。\n\n（缓刑考验期限从判决确定之日起计算。罚金已缴纳。）\n\n被告人毛晨犯敲诈勒索罪，判处拘役六个月，缓刑一年，并处罚金人民币五千元。在缓刑考验期内，依法实行社区矫正。\n\n（缓刑考验期限从判决确定之日起计算。罚金已缴纳。）"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强调被告人王某甲对敲诈勒索行为的完整供述，包括威胁内容、发布裸照的具体群组及时间等细节，证明其主观故意明确。2.重点指出被害人系未成年人这一加重情节，结合《刑法》第二百七十四条及未成年人保护相关法律规定，应从重处罚。3.指出被告人曾两次因违法行为被行政处罚，具有不良行为记录，说明其主观恶性较大。4.强调被告人实际取得2000元财物，犯罪既遂，且造成被害人严重心理创伤，社会危害性较大。\n\n防御策略：1.所有电子数据均经公安机关依法提取并出具鉴定报告，程序合法有效。2.证人证言与被害人陈述相互印证，形成完整证据链。3.被告人供述系在侦查阶段依法取得，不存在刑讯逼供等违法情形。4.微信转账记录、微信群截图等客观证据与被告人供述高度吻合。5.鉴定意见中1.32GB涉案数据完整保存，可随时调取核实。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第十七条",
+              "中华人民共和国未成年人保护法第五十八条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第十七条": "已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。已满十二周岁不满十四周岁的人，犯故意杀人、故意伤害罪，致人死亡或者以特别残忍手段致人重伤造成严重残疾，情节恶劣，经最高人民检察院核准追诉的，应当负刑事责任。对依照前三款规定追究刑事责任的不满十八周岁的人，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教；在必要的时候，依法进行专门矫治教育。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "以公开裸照威胁未成年人索要钱财的典型案例及量刑标准",
+              "敲诈勒索罪中利用网络传播隐私信息作为威胁手段的加重情节认定"
+            ],
+            "以公开裸照威胁未成年人索要钱财的典型案例及量刑标准": "### 结论\n以公开裸照威胁未成年人索要钱财的行为构成敲诈勒索罪，量刑时会考虑犯罪未遂、自首、认罪认罚、退赔、谅解等情节，以及犯罪对未成年人造成的心理伤害和网络犯罪的特殊性，依法从严惩处。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪未遂**：如果敲诈勒索行为因意志以外的原因未得逞，系犯罪未遂，依法可以从轻处罚。例如，【（2019）浙0702刑初691号】、【（2020）鲁1302刑初292号】、【（2019）粤0891刑初246号】、【（2019）鲁1522刑初402号】、【（2020）粤0823刑初271号】中，法院均考虑了犯罪未遂的情节。\n- **自首和认罪认罚**：被告人自动投案、如实供述自己的罪行，属自首，且自愿认罪认罚，依法可从轻处罚。例如，【（2019）鲁1522刑初402号】、【（2020）粤0823刑初271号】中，法院均考虑了自首和认罪认罚的情节。\n- **退赔和谅解**：被告人的家属已代被告人赔偿了被害人的损失，并取得了被害人的谅解，可酌情对被告人从轻处罚。例如，【（2019）粤0891刑初246号】、【（2020）粤0823刑初271号】中，法院均考虑了退赔和谅解的情节。\n- **犯罪对象的特殊性**：针对未成年人实施的犯罪，尤其是网络空间的“隔空猥亵”和敲诈勒索，考虑到未成年人的特殊保护，依法从严惩处。例如，【最高人民法院发布利用互联网侵害未成年人权益的典型案例：二、施某通过裸贷敲诈勒索案】中，法院强调了对未成年人的特殊保护。\n- **犯罪手段和危害程度**：以网络为媒介，利用未成年人的恐惧心理，通过威胁公开裸照索要钱财，对未成年人的心理健康造成严重伤害，依法从严惩处。例如，【（2019）浙0702刑初691号】、【（2019）鲁1302刑初2147号】、【（2020）鲁1302刑初292号】中，法院均考虑了犯罪手段和危害程度。\n\n综上，以公开裸照威胁未成年人索要钱财的行为构成敲诈勒索罪，量刑时会综合考虑犯罪未遂、自首、认罪认罚、退赔、谅解等情节，以及犯罪对未成年人造成的心理伤害和网络犯罪的特殊性，依法从严惩处。\n\n#####\n类似案件为：\n【（2019）浙0702刑初691号】：法院认为，何清梅、姚某以曝光裸照威胁索要财物，数额较大，构成敲诈勒索罪。何清梅起主要作用系主犯，姚某起辅助作用系从犯，本案因意志外原因未遂，二被告均坦白认罪，对何清梅、姚某从轻处罚。一、被告人何清梅犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年9月30日止）。\n 二、被告人姚某犯敲诈勒索罪，判处有期徒刑一年，并处罚金人民币七千元。罚金限于本判决生效后十日内缴纳。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月31日起至2020年3月30日止）。\n 三、没收被扣押的犯罪工具手机、照片等物，由金华市公安局婺城分局依法处理。\n【（2020）鲁1302刑初292号】：法院认为，鲁犟以非法占有为目的，以传播他人裸体照片相要挟，强行索要财物，数额较大，构成敲诈勒索罪。鲁犟犯罪未遂，如实供述罪行，认罪悔罪，依法可从轻处罚。一、被告人鲁犟犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年9月24日起至2020年5月23日止。罚金已缴纳）；\n 二、公安机关扣押的物品由其依法处理。\n【（2019）粤0891刑初246号】：法院认为，被告人吴耀坚以非法占有为目的，以公开被害人的私照为由威胁被害人，索取钱财，数额较大，其行为已构成敲诈勒索罪。鉴于吴耀坚归案后能如实供述自己的犯罪事实，且部分犯罪未遂，依法可从轻处罚。被告人的家属已代被告人赔偿了被害人的损失，并取得了被害人谅解，可酌情从轻处罚。被告人吴耀坚犯敲诈勒索罪，判处有期徒刑六个月，并处罚金人民币四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月16日起至2019年8月15日止。罚金限在本判决生效后三十日内本院缴纳，由本院上缴国库）。",
+            "敲诈勒索罪中利用网络传播隐私信息作为威胁手段的加重情节认定": "### 结论\n敲诈勒索罪中利用网络传播隐私信息作为威胁手段的加重情节认定，关键在于行为人是否以非法占有为目的，是否对被害人实施了足以使其产生恐惧或压力的威胁行为，以及威胁手段是否与非法获取财物之间存在因果关系。网络信息的真实性不影响敲诈勒索罪的成立，但行为人是否具有正当权利基础、行使权利的范围和手段的正当性，是区分敲诈勒索罪与正当维权行为的重要因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：行为人是否具有非法占有他人财物的目的，是构成敲诈勒索罪的关键。例如，【（2020）闽0481刑初274号】中，陈某1等人利用非法手段获取公民个人信息，进而实施敲诈勒索，体现了非法占有目的。\n- **威胁手段与财物获取的因果关系**：行为人是否通过威胁手段迫使被害人交付财物，且这种威胁与财物交付之间存在直接因果关系。如【（2020）鲁09刑终34号】中，曹恒远以不支付指定数额的财物就不删帖为由，对被害人形成威胁，迫使被害人交付财物。\n- **网络信息的真实性**：网络信息的真实性不影响敲诈勒索罪的成立。如【（2024）渝0102刑初72号】中，黄某洪利用网络负面信息威胁索要钱财，无论信息真实与否，均构成敲诈勒索罪。\n- **正当权利基础与行使权利的范围和手段**：行为人是否具有正当权利基础，以及行使权利的范围和手段是否正当，是区分敲诈勒索罪与正当维权行为的关键。如【（2015）苏中刑二终字第209号】中，周某宝的行为超出了民事维权的范围，构成敲诈勒索罪。\n\n综上，敲诈勒索罪的认定需综合考虑行为人的非法占有目的、威胁手段与财物获取的因果关系、网络信息的真实性，以及行为人是否具有正当权利基础、行使权利的范围和手段的正当性。在具体案件中，法院会根据这些因素综合判断行为是否构成敲诈勒索罪。\n\n#####\n类似案件为：\n【（2020）闽0481刑初274号】：法院认为，各被告人行为均构成相应罪名，陈某1等组建恶势力犯罪集团，多次实施犯罪，部分对象为未成年人，部分犯罪未遂，有自首、坦白、认罪认罚、退赃情节，依法作出判决。一、被告人陈某1犯敲诈勒索罪，判处有期徒刑五年六个月，并处罚金人民币四万元；犯侵犯公民个人信息罪，判处有期徒刑二年，并处罚金人民币六千元；犯开设赌场罪，判处拘役六个月，并处罚金人民币四千元。数罪并罚，决定执行有期徒刑六年六个月，并处罚金人民币五万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年3月26日起至2026年9月25日止。罚金应于本判决生效后十五日内缴纳。）\n 二、被告人游某犯敲诈勒索罪，判处有期徒刑五年八个月，并处罚金人民币三万五千元；犯侵犯公民个人信息罪，判处有期徒刑二年，并处罚金人民币一万元；犯开设赌场罪，判处拘役六个月，并处罚金人民币四千元；犯偷越国境罪，判处拘役四个月，并处罚金人民币一千元。数罪并罚，决定执行有期徒刑六年九个月，并处罚金人民币五万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年6月11日起至2027年3月10日止。罚金应于本判决生效后十五日内缴纳。）\n 三、被告人曾某1犯敲诈勒索罪，判处有期徒刑五年四个月，并处罚金人民币三万元；犯侵犯公民个人信息罪，判处有期徒刑二年，并处罚金人民币五千元；犯开设赌场罪，判处拘役六个月，并处罚金人民币四千元；犯偷越国境罪，判处拘役四个月，并处罚金人民币一千元。数罪并罚，决定执行有期徒刑六年四个月，并处罚金人民币四万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年6月11日起至2026年10月10日止。罚金应于本判决生效后十五日内缴纳。）\n 四、被告人廖某犯敲诈勒索罪，判处有期徒刑三年九个月，并处罚金人民币三万元；犯侵犯公民个人信息罪，判处有期徒刑一年，并处罚金人民币六千元；犯开设赌场罪，判处拘役六个月，并处罚金人民币四千元。数罪并罚，决定执行有期徒刑四年，并处罚金人民币四万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年3月26日起至2024年3月25日止。罚金已预缴。）\n 五、被告人林某1犯敲诈勒索罪，判处有期徒刑四年六个月，并处罚金人民币三万四千元；犯侵犯公民个人信息罪，判处有期徒刑二年，并处罚金人民币五千元；犯偷越国境罪，判处拘役四个月，并处罚金人民币一千元。数罪并罚，决定执行有期徒刑五年八个月，并处罚金人民币四万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年6月9日起至2026年2月8日止。罚金应于本判决生效后十五日内缴纳。）\n 六、被告人刘某1犯敲诈勒索罪，判处有期徒刑四年，并处罚金人民币二万元；犯侵犯公民个人信息罪，判处有期徒刑一年六个月，并处罚金人民币六千元；犯开设赌场罪，判处拘役六个月，并处罚金人民币四千元。数罪并罚，决定执行有期徒刑四年九个月，并处罚金人民币三万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年6月11日起至2025年3月10日止。罚金应于本判决生效后十五日内缴纳。）\n 七、被告人蓝某1犯敲诈勒索罪，判处有期徒刑三年，并处罚金人民币二万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2023年7月27日止。罚金应于本判决生效后十五日内缴纳。）\n 八、被告人陈某3犯敲诈勒索罪，判处有期徒刑三年，并处罚金人民币一万四千元；犯侵犯公民个人信息罪，判处有期徒刑九个月，并处罚金人民币六千元。数罪并罚，决定执行有期徒刑三年三个月，并处罚金人民币二万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2023年10月27日止。罚金应于本判决生效后十五日内缴纳。）\n 九、被告人陈某2犯敲诈勒索罪，判处有期徒刑三年，并处罚金人民币一万七千元；犯侵犯公民个人信息罪，判处有期徒刑九个月，并处罚金人民币二千元；犯偷越国境罪，判处拘役四个月，并处罚金人民币一千元。数罪并罚，决定执行有期徒刑三年二个月，并处罚金人民币二万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2023年9月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十、被告人刘某2犯敲诈勒索罪，判处有期徒刑一年十个月，并处罚金人民币一万二千元；犯侵犯公民个人信息罪，判处有期徒刑八个月，并处罚金人民币二千元；犯偷越国境罪，判处拘役四个月，并处罚金人民币一千元。数罪并罚，决定执行有期徒刑二年二个月，并处罚金人民币一万五千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2022年9月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十一、被告人蓝某2犯敲诈勒索罪，判处有期徒刑一年十个月，并处罚金人民币一万二千元；犯侵犯公民个人信息罪，判处有期徒刑八个月，并处罚金人民币二千元。数罪并罚，决定执行有期徒刑二年二个月，并处罚金人民币一万四千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2022年9月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十二、被告人刘某3犯敲诈勒索罪，判处有期徒刑一年十个月，并处罚金人民币一万二千元；犯侵犯公民个人信息罪，判处有期徒刑八个月，并处罚金人民币二千元。数罪并罚，决定执行有期徒刑二年二个月，并处罚金人民币一万四千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2022年9月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十三、被告人董某犯敲诈勒索罪，判处有期徒刑一年七个月，并处罚金人民币一万元；犯侵犯公民个人信息罪，判处有期徒刑八个月，并处罚金人民币二千元。数罪并罚，决定执行有期徒刑二年，并处罚金人民币一万二千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2022年7月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十四、被告人蓝某3犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万；犯侵犯公民个人信息罪，判处有期徒刑八个月，并处罚金人民币二千元。数罪并罚，决定执行有期徒刑二年，并处罚金人民币一万二千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2022年7月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十五、被告人刘学川犯敲诈勒索罪，判处有期徒刑九个月，并处罚金人民币五千元；犯侵犯公民个人信息罪，判处有期徒刑六个月，并处罚金人民币二千元。数罪并罚，决定执行有期徒刑一年，并处罚金人民币七千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2021年7月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十六、被告人李江昊犯敲诈勒索罪，判处拘役四个月，并处罚金人民币四千元；犯偷越国境罪，判处拘役四个月，并处罚金人民币一千元;犯危险驾驶罪，判处拘役二个月十五日，并处罚金人民币三千元。数罪并罚，决定执行拘役八个月，并处罚金人民币八千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2021年3月19日止。罚金应于本判决生效后十五日内缴纳。）\n 十七、被告人林某2犯敲诈勒索罪，判处有期徒刑九个月，并处罚金人民币七千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年7月28日起至2021年4月27日止。罚金应于本判决生效后十五日内缴纳。）\n 十八、被告人李知林犯敲诈勒索罪，判处拘役二个月，并处罚金人民币二千元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2020年10月30日起至2020年12月29日止。罚金已预缴。）\n 十九、扣押的作案工具电脑、手机等物品，由公安机关依法予以没收；其余物品由公安机关依法处理。\n 二十、各被告人退出的涉案赃款人民币228354元，由公安机关发还各被害人；剩余钱款由公安机关依法处理。\n【（2020）鲁09刑终34号】：法院认为，曹恒远利用网络信息对李某1形成威胁，索取财物，数额巨大，构成敲诈勒索罪。曹恒远在二审期间认罪悔罪，退还非法所得并取得谅解，可从轻处罚。一、维持宁阳县人民法院（2019）鲁0921刑初390号刑事判决的定性部分，即“被告人曹恒远犯敲诈勒索罪”；\n 二、撤销宁阳县人民法院（2019）鲁0921刑初390号刑事判决的量刑部分、追赃部分，即“判处有期徒刑六年，并处罚金人民币五万元”、“追缴被告人曹恒远非法所得15万元，发还被害人”；\n 三、上诉人曹恒远犯敲诈勒索罪，判处有期徒刑三年，并处罚金人民币三万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一八年七月十三日起至二〇二一年七月十二日止。罚金限本判决生效后十日内缴纳。）\n【（2024）渝0102刑初72号】：本案的争议焦点主要涉及利用网络负面信息威胁索要钱财行为的定性，以及负面信息本身真实与否是否影响行为定性。\n其一，利用网络负面信息威胁索要钱财行为的定性。《最高人民法院、最高人民检察院关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释》（法释〔2013〕21号，以下简称《网络诽谤解释》）第六条规定：“以在信息网络上发布、删除等方式处理网络信息为由，威胁、要挟他人，索取公私财物，数额较大，或者多次实施上述行为的，依照刑法第二百七十四条的规定，以敲诈勒索罪定罪处罚。”本案中，结合“打传防骗”微信公众号账号截图，发布、转载的涉案负面信息，以及部分企业交涉情况，足以认定被告人黄某洪在发布企业负面信息前即已产生敲诈勒索的主观故意。故而，对黄某洪为谋取非法利益，与他人共谋利用微信公众号等自媒体平台发布或转载企业负面信息，进而勒索财物的行为，依法应当以敲诈勒索罪定罪处罚。\n其二，《网络诽谤解释》第六条规定的“网络信息”，既包括真实信息，也包括虚假信息。换言之，行为人发布、删除的网络信息本身是否真实，不影响其行为定性。无论信息真实与否，只要行为人表达索要财物的意思表示，而被害人感受到威胁、要挟，基于被迫交付财物的，即可依法认定为敲诈勒索行为。\n其三，被告人黄某洪通过其控制的某文化传媒公司与被害企业签订的所谓的“商务合作协议”，只是掩饰犯罪行为的“幌子”，其收取的“合作费”“公关费”，亦应当计入敲诈勒索罪犯罪数额。而且，《最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释》（法释〔1999〕14号）第二条规定：“个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。”基于某文化传媒公司系被告人黄某洪为进行犯罪活动而设立的公司且设立后以实施敲诈勒索行为为主要活动，故本案不以单位犯罪论处。\n综上，被告人黄某洪、吕某婷构成敲诈勒索罪。根据《最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释》（法释〔2013〕10号）第一条、第三条的规定，敲诈勒索公私财物价值三十万元至五十万元以上的，应当分别认定“数额特别巨大”，应当处十年以上有期徒刑，并处罚金。吕某婷在共同犯罪中起次要作用，是从犯，应当减轻处罚。据此，法院依据犯罪情节和各被告人在共同犯罪中所起作用，依法判处黄某洪、吕某婷相应刑罚。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑微信群截图证据的完整性和真实性，未明确显示被告人账号与发布行为的直接关联2.指出转账记录未充分证明是在胁迫下完成，可能存在感情纠纷中的自愿给付情节3.质疑证人证言中对裸照传播范围和影响的描述存在矛盾，部分证人对微信群人数描述不一致4.指出被害人陈述中关于微信群名称的描述与被告人供述及微信截图证据存在差异，影响对传播范围的准确认定5.强调部分证人证言中关于心理影响的描述属于主观判断，缺乏专业心理评估报告支持\n\n防御策略：1.强调被告人已认罪认罚并主动退赔全部款项，表明其悔罪态度良好2.指出本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别3.说明被告人已采取补救措施删除照片，社会危害性已得到有效控制4.强调被告人前科仅为行政违法记录，不构成累犯加重情节",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "敲诈勒索罪中感情纠纷引发的案件量刑标准",
+              "认罪认罚并主动退赔在敲诈勒索案件中的量刑影响"
+            ],
+            "敲诈勒索罪中感情纠纷引发的案件量刑标准": "### 结论\n感情纠纷引发的敲诈勒索案件中，法院在量刑时会考虑被告人的自首、坦白、退赃、取得被害人谅解、犯罪情节、悔罪表现、是否累犯、是否未成年人犯罪、以及对社区的影响等因素，综合判断后决定是否适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条**：规定自首可以从轻或者减轻处罚。\n- **《中华人民共和国刑法》第七十二条**：规定对于犯罪情节较轻，确有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响的，可以宣告缓刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首和坦白**：被告人主动投案并如实供述自己的罪行，可以从轻处罚。例如，【（2020）闽0721刑初66号】中，被告人赖和斌主动投案并如实供述，系自首，依法从轻处罚。\n- **退赃和取得被害人谅解**：被告人退赃并取得被害人谅解，可以酌情从轻处罚。例如，【（2019）京0114刑初53号】中，被告人杨德顺的家属与李某达成调解协议，李某对杨德顺表示谅解，法院对其酌情从轻处罚。\n- **犯罪情节和悔罪表现**：犯罪情节较轻，确有悔罪表现，没有再犯罪的危险，可以适用缓刑。例如，【（2019）沪0116刑初833号】中，被告人卢某如实供述自己的行为，可从轻处罚，且被害人对案发存在过错，酌情从轻处罚，适用缓刑。\n- **是否累犯**：被告人是否在刑罚执行完毕后五年内再犯应当判处有期徒刑以上刑罚之罪，是累犯，依法应当从重处罚。例如，【（2019）苏1081刑初258号】中，被告人殷健、李晓青曾因故意犯罪被判处有期徒刑，刑罚执行完毕后五年内再犯，是累犯，依法从重处罚。\n- **是否未成年人犯罪**：犯罪时不满十八周岁的，应当从轻或者减轻处罚。例如，【（2020）苏1081刑初373号】中，被告人唐某、时某实施部分敲诈勒索犯罪时不满十八周岁，应当从轻或者减轻处罚。\n- **对社区的影响**：宣告缓刑对所居住社区没有重大不良影响的，可以适用缓刑。例如，【（2019）鲁1621刑初289号】中，被告人张海永犯罪情节较轻，判处缓刑对其所居住社区无重大不良影响。\n\n综上，感情纠纷引发的敲诈勒索案件中，法院在量刑时会综合考虑上述因素，以决定是否适用缓刑。\n\n#####\n类似案件为：\n【（2020）闽0721刑初66号】：法院认为，被告人赖和斌采用暴力、语言威胁手段非法剥夺他人人身自由，构成非法拘禁罪。鉴于赖和斌有自首、赔偿并取得谅解及认罪认罚等情节，且本案系感情纠纷引发，决定适用缓刑。一、被告人赖和斌犯非法拘禁罪处有期徒刑一年，缓刑一年。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、扣押在案的作案工具，尖刀一把，予以没收。\n【（2019）京0114刑初53号】：法院认为，杨德顺敲诈勒索他人财物，数额较大，构成敲诈勒索罪。杨德顺虽不认罪，但鉴于已达成谅解，酌情从轻处罚。杨德顺敲诈勒索7000元既遂，9.3万元未遂，应在既遂部分确定法定刑，未遂作为量刑情节从重处罚。一、被告人杨德顺犯敲诈勒索罪，判处有期徒刑一年四个月，并处罚金人民币二万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月27日起至2020年4月10日止，先行羁押16日已扣除。罚金于判决生效后十日内缴纳）。\n二、在案扣押VIVO牌手机一部予以没收；水果刀一把、借条一张予以存案。\n【（2019）沪0116刑初833号】：法院认为，卢某以发布或删除影响被害人信息为由，向被害人敲诈勒索人民币4万元，数额巨大，构成敲诈勒索罪。卢某犯罪未遂，可减轻处罚；如实供述，可从轻处罚；被害人对案发存在过错，可酌情从轻处罚。鉴于上述情节，决定对卢某适用缓刑。被告人卢某犯敲诈勒索罪，判处有期徒刑一年，缓刑一年，并处罚金人民币三千元。\n卢某回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。\n(缓刑考验期限自判决确定之日起计算；罚金于判决生效之日起一个月内缴纳。)",
+            "认罪认罚并主动退赔在敲诈勒索案件中的量刑影响": "### 结论\n认罪认罚并主动退赔在敲诈勒索案件中的量刑影响显著，法院通常会考虑这些情节对被告人从轻处罚，甚至适用缓刑。但这种影响并非绝对，还需结合犯罪性质、社会危害性、被告人主观恶性等因素综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第67条**：规定了自首可以从轻或者减轻处罚。\n- **《中华人民共和国刑法》第72条**：规定了适用缓刑的条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚**：认罪认罚是法院从轻处罚的重要考量因素。例如，【（2019）鲁0126刑初253号】、【（2021）浙0281刑初96号】、【（2019）京0105刑初518号】、【（2019）津0116刑初60169号】、【（2019）苏0585刑初125号】、【（2019）闽0181刑初678号】、【（2021）黑0605刑初14号】等案例中，法院均认为被告人认罪认罚，可从轻处罚。\n- **主动退赔**：主动退赔被害人的经济损失，取得被害人的谅解，是法院从轻处罚的另一重要因素。如【（2019）鲁0126刑初253号】、【（2021）浙0281刑初96号】、【（2019）京0105刑初518号】、【（2019）津0116刑初60169号】、【（2019）苏0585刑初125号】、【（2019）闽0181刑初678号】、【（2021）黑0605刑初14号】等案例中，法院均认为被告人主动退赔，可从轻处罚。\n- **犯罪性质和危害性**：即使被告人认罪认罚并主动退赔，如果犯罪性质恶劣，社会危害性大，法院也可能不适用缓刑。例如，【（2019）苏0585刑初125号】中，法院认为三被告人预谋后利用他人酒后驾车，故意制造交通事故敲诈他人钱款，其主观恶性较深，社会危害较大，故对三名被告人均不适用缓刑。\n\n综上，认罪认罚和主动退赔是法院在敲诈勒索案件中从轻处罚的重要考量因素，但是否适用缓刑还需结合犯罪的具体情节和性质综合判断。\n\n#####\n类似案件为：\n【（2019）鲁0126刑初253号】：法院认为，被告人李某某的行为构成敲诈勒索罪，鉴于其具有如实供述、退赔被害人经济损失、取得谅解、认罪认罚的情节，判处有期徒刑十个月，缓刑一年，并处罚金人民币一万元。被告人李某某犯敲诈勒索罪，判处有期徒刑十个月，缓刑一年（缓刑考验期从判决确定之日起计算），并处罚金人民币一万元（罚金已缴纳）。\n【（2021）浙0281刑初96号】：法院认为，被告人金迪辉、金维萍以非法占有为目的，单独或结伙强索公民财物，数额较大，其行为均已构成敲诈勒索罪。鉴于两被告人自首，退赔并取得谅解，认罪认罚，依法可以从轻处罚，适用缓刑。被告人金维萍犯敲诈勒索罪，判处有期徒刑九个月，缓刑一年，并处罚金人民币六千元（缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n 被告人金迪辉犯敲诈勒索罪，判处有期徒刑七个月，缓刑一年，并处罚金人民币四千元（缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n【（2019）京0105刑初518号】：法院认为，被告人郭永勇构成敲诈勒索罪，鉴于其认罪认罚、退赔经济损失、获得谅解，决定从轻处罚，判处有期徒刑六个月，缓刑一年，罚金人民币三千元，并对作案工具三星牌手机、苹果牌手机予以没收。一、被告人郭永勇犯敲诈勒索罪，判处有期徒刑六个月，缓刑一年，罚金人民币三千元（缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n二、暂扣于北京市公安局朝阳分局之苹果牌手机一部、三星牌手机一部，均予以没收。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人王某甲已认罪认罚并主动退赔，表明其悔罪态度良好 2.本案系感情纠纷引发，被告人主观恶性较小，与一般敲诈勒索案件有明显区别 3.被告人已取得被害人谅解，社会危害性已得到有效弥补 4.被告人虽有两项行政违法记录但不构成累犯加重情节",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲是否构成敲诈勒索罪。查明情况：被告人已当庭认罪，对以公开裸照相威胁索要2000元的事实供认不讳，且被害人转账行为与威胁行为存在直接因果关系。审判长认为犯罪事实清楚，构成敲诈勒索罪。\n\n2.被告人主观上是否具有非法占有的故意。查明情况：被告人明确承认出于报复和索财目的实施威胁行为，且实际取得2000元。审判长认为其主观上具有明确的非法占有故意。\n\n3.针对未成年人实施犯罪是否构成从重处罚情节。查明情况：被告人明知被害人为未成年人仍实施犯罪行为，并将裸照发布至包含被害人同学在内的多个群组。审判长认为该情节应当作为从重处罚考量因素。\n\n4.被告人认罪认罚的真实性及自愿性。查明情况：被告人全程配合调查，当庭表示认罪认罚，并已主动退赔。审判长认为其认罪认罚具有真实性和自愿性。\n\n5.被告人的前科劣迹是否影响量刑。查明情况：被告人曾两次被行政处罚，但与本次犯罪性质不同且间隔时间较长。审判长认为可酌情考虑但不构成累犯。\n\n6.量刑建议是否适当。查明情况：公诉人建议适用缓刑，被告人已退赔但未取得书面谅解。审判长认为需结合犯罪情节和社会危害性综合考量量刑。\n\n7.微信群传播范围及社会危害性的认定。查明情况：控辩双方对微信群人数存在争议，但电子数据鉴定报告已确认具体人数。审判长认为传播范围已查清，社会危害性较大。\n\n8.被害人心理损害程度的认定。查明情况：多名证人证实被害人情绪异常、拒绝上学，但缺乏专业心理评估报告。审判长认为犯罪行为确实对被害人造成严重心理伤害。\n\n9.感情纠纷因素对量刑的影响。查明情况：辩护人主张本案系感情纠纷引发应从轻处罚，公诉人认为不影响犯罪构成。审判长认为可作为酌定从轻情节考虑。\n\n10.电子数据证据的合法性和证明力。查明情况：辩护人对微信截图关联性提出质疑，公诉人出示了电子数据鉴定报告。审判长认为证据收集程序合法，与被告人供述相互印证。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释第二条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释第二条": "敲诈勒索公私财物，具有下列情形之一的，“数额较大”的标准可以按照本解释第一条规定标准的百分之五十确定：（一）曾因敲诈勒索受过刑事处罚的；（二）一年内曾因敲诈勒索受过行政处罚的；（三）对未成年人、残疾人、老年人或者丧失劳动能力人敲诈勒索的；（四）以将要实施放火、爆炸等危害公共安全犯罪或者故意杀人、绑架等严重侵犯公民人身权利犯罪相威胁敲诈勒索的；（五）以黑恶势力名义敲诈勒索的；（六）利用或者冒充国家机关工作人员、军人、新闻工作者等特殊身份敲诈勒索的；（七）造成其他严重后果的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "针对未成年人实施敲诈勒索罪的量刑标准",
+              "认罪认罚但未取得被害人谅解的量刑考量",
+              "因感情纠纷引发的敲诈勒索案件与普通敲诈勒索案件的区别"
+            ],
+            "针对未成年人实施敲诈勒索罪的量刑标准": "### 结论\n针对未成年人实施敲诈勒索罪的量刑标准，法院通常会考虑犯罪的数额、犯罪时的年龄、是否为从犯、是否有自首或坦白情节、是否退赔被害人损失、是否取得被害人谅解、是否为累犯、是否为犯罪未遂、是否为共同犯罪中的主犯或从犯、是否对未成年人实施犯罪、是否为恶势力犯罪团伙成员等因素，依法从轻、减轻或从重处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第十七条第一、三款**：规定未成年人犯罪的刑事责任年龄和从轻或减轻处罚的规定。\n- **《中华人民共和国刑法》第六十七条第三款**：规定坦白可以从轻处罚。\n- **《中华人民共和国刑法》第六十八条**：规定立功可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十九条**：规定数罪并罚的原则。\n- **《中华人民共和国刑法》第七十二条**：规定缓刑的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：数额较大或巨大将影响量刑的轻重。例如，【（2016）黑0225刑初207号】中，被告人刘某甲、刘某乙、范某某因敲诈勒索数额巨大，被判处有期徒刑三年至二年不等。\n- **犯罪时的年龄**：未成年人犯罪，法院会依法从轻或减轻处罚。例如，【（2020）苏1002刑初183号】中，被告人陆某某、赵某因犯罪时为未成年人，被从轻处罚。\n- **是否为从犯**：从犯将被从轻或减轻处罚。例如，【（2021）苏1012刑初30号】中，被告人华某因在共同犯罪中起次要作用，被认定为从犯，依法予以从轻处罚。\n- **自首或坦白**：自首或坦白可以从轻处罚。例如，【（2019）苏0508刑初253号】中，被告人沈骁因归案后如实供述自己的犯罪事实，被从轻处罚。\n- **退赔被害人损失**：退赔被害人损失可以酌情从轻处罚。例如，【（2019）苏1081刑初258号】中，被告人李晓青、潘学龙因退出部分或全部违法所得，被酌情从轻处罚。\n- **是否取得被害人谅解**：取得被害人谅解可以酌情从轻处罚。例如，【（2019）苏1081刑初258号】中，被告人唐某因取得部分被害人的谅解，被酌情从轻处罚。\n- **是否为累犯**：累犯将从重处罚。例如，【（2019）苏0508刑初253号】中，被告人沈骁因系初犯并有退赔意愿，被酌情从轻处罚。\n- **是否为犯罪未遂**：犯罪未遂可以从轻或减轻处罚。例如，【（2019）苏0106刑初字759号】中，被告人张浪因敲诈勒索未遂，被从轻处罚。\n- **是否为共同犯罪中的主犯或从犯**：主犯将按照其所参与的全部犯罪处罚，从犯将从轻或减轻处罚。例如，【（2020）苏1002刑初183号】中，被告人陆某某被认定为主犯，赵某被认定为从犯，分别予以处罚。\n- **是否对未成年人实施犯罪**：对未成年人实施犯罪将酌情从重处罚。例如，【（2019）苏0508刑初253号】中，被告人沈骁因对未成年人实施敲诈勒索，被酌情从重处罚。\n- **是否为恶势力犯罪团伙成员**：恶势力犯罪团伙成员将从重处罚。例如，【（2019）京03刑终809号】中，被告人商某等六人因形成恶势力犯罪团伙，被从重处罚。\n\n综上，针对未成年人实施敲诈勒索罪的量刑标准，法院会综合考虑犯罪的性质、情节、后果以及被告人的年龄、认罪态度、退赔情况、是否累犯、是否犯罪未遂、是否对未成年人实施犯罪、是否为恶势力犯罪团伙成员等因素，依法作出判决。\n\n#####\n类似案件为：\n【（2020）苏1002刑初183号】：法院认为，被告人陆某某、赵某以非法占有为目的，对未成年人恐吓索财，数额较大，其行为构成敲诈勒索罪。陆某某在共同犯罪中起主要作用，系主犯；赵某系从犯，应从轻处罚。赵某自首，陆某某坦白，均可从轻处罚。二被告人认罪认罚，积极退赔，可从宽处罚。鉴于二被告人的悔罪态度及量刑情节，判决给予一定考验期限。一、被告人陆某某犯敲诈勒索罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币六千一百元；\n（缓刑考验期限自判决确定之日起计算，罚金在判决生效后十日内缴纳）\n二、被告人赵某犯敲诈勒索罪，判处拘役三个月，缓刑三个月，并处罚金人民币三千元。\n（缓刑考验期限自判决确定之日起计算，罚金在判决生效后十日内缴纳）\n【（2021）苏1012刑初30号】：法院认为，华某敲诈勒索未成年人财物，数额较大，构成敲诈勒索罪。华某系从犯，自首，认罪认罚，退出赃物并发还被害人，依法从轻处罚，适用缓刑。被告人华某犯敲诈勒索罪，判处拘役三个月，缓刑五个月，并处罚金人民币二千元。\n(缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）\n【（2019）苏0508刑初253号】：法院认为，沈骁伙同他人以非法占有为目的，敲诈勒索他人财物，数额较大，构成敲诈勒索罪。沈骁犯罪未遂，系主犯，如实供述犯罪事实，系初犯，有退赔意愿，对未成年人实施敲诈勒索，社会危害性较大，不宜适用缓刑。一、被告人沈骁犯敲诈勒索罪，判处拘役三个月，并处罚金人民币二千元(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，其中2017年11月20日至2017年12月20日被羁押的31日折抵计入刑期，即自2019年4月26日起至2019年6月24日止；罚金自判决生效次日起三十日内缴纳，并上缴国库)。\n 二、责令被告人沈骁退赔赃款人民币三百九十元，发还被害人卢某。",
+            "认罪认罚但未取得被害人谅解的量刑考量": "### 结论\n认罪认罚但未取得被害人谅解的被告人，在量刑时，法院会综合考虑犯罪性质、情节、后果、被告人的主观恶性、人身危险性以及认罪悔罪态度等因素。虽然未取得被害人谅解，但被告人认罪认罚、有悔罪表现、积极赔偿等情节仍可作为从轻处罚的考量因素。然而，对于犯罪危害性大、情节严重或主观恶性较深的案件，即便被告人积极赔偿，未取得谅解也可能导致法院不适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第61条**：对于犯罪分子决定刑罚的时候，应当根据犯罪的事实、犯罪的性质、情节和对于社会的危害程度，依照本法的有关规定判处。\n- **《中华人民共和国刑事诉讼法》第201条**：对于认罪认罚案件，人民法院依法作出判决时，一般应当采纳人民检察院指控的罪名和量刑建议，但可能影响公正审判的除外。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚态度**：被告人认罪认罚，表明其有一定的悔罪表现，人身危险性降低，即便没有取得谅解，也可以根据刑法第61条的规定，对其从轻处罚或适用缓刑。例如，【（2020）鲁0282刑初194号】中，被告人苏艳冬自愿认罪认罚，法院予以从轻处罚。\n- **积极赔偿**：被告人积极赔偿，即使未取得谅解，也表明其有一定的悔罪表现，人身危险性降低，法院在量刑时会予以考虑。例如，【（2020）鲁0883刑初429号】中，被告人李海双虽未对被害人亲属赔偿且未取得谅解，但其自首和认罪认罚，法院在量刑时予以从轻处罚。\n- **犯罪性质和情节**：对于犯罪性质恶劣、情节严重的案件，即便被告人积极赔偿，未取得谅解也可能导致法院不适用缓刑。例如，【（2021）鲁1427刑初199号】中，被告人滕永虎虽为过失犯罪，但造成他人死亡的严重后果，且案发后没有赔偿被害方经济损失，未取得谅解，法院认为不符合判处三年以下有期徒刑和适用缓刑的情形。\n\n综上，认罪认罚、积极赔偿、犯罪性质和情节是影响量刑的关键因素。法院在量刑时会综合考虑这些因素，即使未取得被害人谅解，认罪认罚和积极赔偿仍可作为从轻处罚的考量因素，但犯罪性质恶劣、情节严重的案件，即便被告人有上述表现，也可能不适用缓刑。\n\n#####\n类似案件为：\n【（2020）鲁0282刑初194号】：法院认为，被告人苏艳冬无证违章驾车肇事，致一人死亡，负事故全部责任，其行为构成交通肇事罪。虽自愿认罪认罚，但因其与被害人亲属未达成赔偿协议，且未取得谅解，不宜适用缓刑。关于自首的辩护意见，因苏艳冬后期逃匿，不符合自首的法律规定，故不予采纳。被告人苏艳冬犯交通肇事罪，判处有期徒刑一年十个月。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2020年1月7日起至2021年11月6日止。）\n【（2020）鲁0883刑初429号】：法院认为，被告人李海双违反交通运输管理法规，发生重大事故，致一人死亡，负事故全部责任，构成交通肇事罪。李海双经电话传唤到案并如实供述主要犯罪事实，认定为自首，且自愿认罪认罚，依法从轻处罚。但鉴于未对被害人亲属赔偿且未取得谅解，在量刑上从严掌握从宽幅度。被告人李海双犯交通肇事罪，判处有期徒刑一年六个月（刑期自判决执行之日起计算）。\n【（2021）鲁1427刑初199号】：法院认为，被告人滕永虎过失行为致他人死亡，构成过失致人死亡罪。鉴于滕永虎自首、自愿认罪认罚，依法可以从轻或减轻处罚。但考虑其行为造成严重后果，且未赔偿被害方损失，未取得谅解，不符合缓刑条件。被告人滕永虎犯过失致人死亡罪，判处有期徒刑三年六个月。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2021年6月9日起至2024年12月8日止。）",
+            "因感情纠纷引发的敲诈勒索案件与普通敲诈勒索案件的区别": "### 结论\n因感情纠纷引发的敲诈勒索案件与普通敲诈勒索案件的主要区别在于案件的起因和动机，但并不因此改变敲诈勒索罪的定性。感情纠纷可能作为量刑时的酌定从轻情节考虑，但不影响敲诈勒索罪的构成。关键在于行为人是否以非法占有为目的，通过威胁或要挟的方式迫使被害人交付财物，以及行为是否符合敲诈勒索罪的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **案件起因**：因感情纠纷引发的敲诈勒索案件中，感情纠纷作为案件的起因，但并不构成敲诈勒索罪的法定或酌定从轻情节。例如，【（2019）苏0505刑初39号】中，感情纠纷仅是诱发本案的原因，出气、报复是引发被告人实施抢劫犯罪的动机，但不能因此否定被告人“非法占有”的主观目的。\n- **行为人的主观目的**：行为人是否以非法占有为目的，是判断是否构成敲诈勒索罪的关键。例如，【（2019）苏0924刑初432号】中，被告人杨冬霞以公开其与张某发生性关系进行要挟，通过打电话、发送微信等方式威胁、恐吓张某，先后诈取张某人民币计2312507元，其行为符合敲诈勒索罪的构成要件。\n- **暴力程度和取得财物的时间**：暴力程度和取得财物的时间是区分抢劫罪和敲诈勒索罪的重要因素。例如，【（2019）苏0505刑初39号】中，四被告人的暴力行为足以压制被害人的反抗，从结果上来看，四被告人确实压制了被害人的反抗并劫得财物，因此定性为抢劫罪。\n\n综上，因感情纠纷引发的敲诈勒索案件中，感情纠纷可能作为量刑时的酌定从轻情节考虑，但不影响敲诈勒索罪的构成。关键在于行为人是否以非法占有为目的，通过威胁或要挟的方式迫使被害人交付财物，以及行为是否符合敲诈勒索罪的构成要件。\n\n#####\n类似案件为：\n【（2019）苏0505刑初39号】：法院认为，被告人吴洋洋、方志毅、姚鸣宝、张延龙的行为构成抢劫罪。感情纠纷仅是引发抢劫的动机，不能否定非法占有的主观目的。吴洋洋、方志毅、姚鸣宝积极实施抢劫，系主犯，但方志毅、姚鸣宝作用较小；张延龙拍摄视频，系从犯。四被告人均系又聋又哑的人，可减轻处罚。归案后如实供述，可从轻处罚。一、被告人吴洋洋犯抢劫罪，判处有期徒刑二年五个月，并处罚金人民币三千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2020年10月31日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 二、被告人方志毅犯抢劫罪，判处有期徒刑一年十个月，并处罚金人民币二千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2020年3月31日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 三、被告人姚鸣宝犯抢劫罪，判处有期徒刑一年九个月，并处罚金人民币二千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2020年2月29日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 四、被告人张延龙犯抢劫罪，判处有期徒刑一年七个月，并处罚金人民币二千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2019年12月31日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 五、责令被告人吴洋洋、方志毅、张延龙、姚鸣宝共同退出赃款人民币一百五十元以及手机一部，发还被害人滕某。\n 六、公安机关扣押的物品，由公安机关依法处理。\n【（2019）苏0924刑初432号】：法院认为，被告人杨冬霞多次敲诈勒索他人财物，数额特别巨大，其行为已构成敲诈勒索罪，应予惩处。被告及其辩护人的辩解与辩护意见与本案现有证据所查明的事实不符，不予采纳。一、被告人杨冬霞犯敲诈勒索罪，判处有期徒刑十四年，并处罚金人民币二十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二〇一九年四月十二日起至二〇三三年四月十一日止。罚金限在本判决生效后十日内缴纳完毕。）\n二、公安机关扣押的被告人杨冬霞作案工具手机一部予以没收，上缴国库；非法所得未追缴的二百三十一万二千五百零七元，继续予以追缴，发还被害人张某。\n【（2019）苏0505刑初39号】：法院认为，被告人吴洋洋、方志毅、姚鸣宝、张延龙的行为构成抢劫罪。感情纠纷仅是引发抢劫的动机，不能否定非法占有的主观目的。吴洋洋、方志毅、姚鸣宝积极实施抢劫，系主犯，但方志毅、姚鸣宝作用较小；张延龙拍摄视频，系从犯。四被告人均系又聋又哑的人，可减轻处罚。归案后如实供述，可从轻处罚。一、被告人吴洋洋犯抢劫罪，判处有期徒刑二年五个月，并处罚金人民币三千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2020年10月31日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 二、被告人方志毅犯抢劫罪，判处有期徒刑一年十个月，并处罚金人民币二千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2020年3月31日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 三、被告人姚鸣宝犯抢劫罪，判处有期徒刑一年九个月，并处罚金人民币二千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2020年2月29日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 四、被告人张延龙犯抢劫罪，判处有期徒刑一年七个月，并处罚金人民币二千元。\n （刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年6月1日起至2019年12月31日止；罚金自判决生效第二日起十日内缴纳，上缴国库）。\n 五、责令被告人吴洋洋、方志毅、张延龙、姚鸣宝共同退出赃款人民币一百五十元以及手机一部，发还被害人滕某。\n 六、公安机关扣押的物品，由公安机关依法处理。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人王某甲是否构成敲诈勒索罪。查明情况：被告人已当庭认罪，对以公开裸照相威胁索要2000元的事实供认不讳，且被害人转账行为与威胁行为存在直接因果关系。审判长认为犯罪事实清楚，构成敲诈勒索罪。\n\n2.被告人主观上是否具有非法占有的故意。查明情况：被告人明确承认出于报复和索财目的实施威胁行为，且实际取得2000元。审判长认为其主观上具有明确的非法占有故意。\n\n3.针对未成年人实施犯罪是否构成从重处罚情节。查明情况：被告人明知被害人为未成年人仍实施犯罪行为，并将裸照发布至包含被害人同学在内的多个群组。审判长认为该情节应当作为从重处罚考量因素。\n\n4.被告人认罪认罚的真实性及自愿性。查明情况：被告人全程配合调查，当庭表示认罪认罚，并已主动退赔。审判长认为其认罪认罚具有真实性和自愿性。\n\n5.被告人的前科劣迹是否影响量刑。查明情况：被告人曾两次被行政处罚，但与本次犯罪性质不同且间隔时间较长。审判长认为可酌情考虑但不构成累犯。\n\n6.量刑建议是否适当。查明情况：公诉人建议适用缓刑，被告人已退赔但未取得书面谅解。审判长认为需结合犯罪情节和社会危害性综合考量量刑。\n\n7.微信群传播范围及社会危害性的认定。查明情况：控辩双方对微信群人数存在争议，但电子数据鉴定报告已确认具体人数。审判长认为传播范围已查清，社会危害性较大。\n\n8.被害人心理损害程度的认定。查明情况：多名证人证实被害人情绪异常、拒绝上学，但缺乏专业心理评估报告。审判长认为犯罪行为确实对被害人造成严重心理伤害。\n\n9.感情纠纷因素对量刑的影响。查明情况：辩护人主张本案系感情纠纷引发应从轻处罚，公诉人认为不影响犯罪构成。审判长认为可作为酌定从轻情节考虑。\n\n10.电子数据证据的合法性和证明力。查明情况：辩护人对微信截图关联性提出质疑，公诉人出示了电子数据鉴定报告。审判长认为证据收集程序合法，与被告人供述相互印证。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百七十四条",
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第七十二条"
+            ],
+            "中华人民共和国刑法第二百七十四条": "敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第七十二条": "对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。宣告缓刑，可以根据犯罪情况，同时禁止犯罪分子在缓刑考验期限内从事特定活动，进入特定区域、场所，接触特定的人。被宣告缓刑的犯罪分子，如果被判处附加刑，附加刑仍须执行。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "未成年人敲诈勒索案件量刑标准",
+              "以公开裸照威胁敲诈勒索的典型案例",
+              "敲诈勒索罪缓刑适用条件"
+            ],
+            "未成年人敲诈勒索案件量刑标准": "### 结论\n未成年人实施敲诈勒索犯罪，法院在量刑时会考虑犯罪数额、犯罪情节、是否从犯、自首、认罪认罚、退赃、取得被害人谅解、犯罪时年龄等因素，依法从轻、减轻或免除处罚，并在适用缓刑时审慎考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定了敲诈勒索罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第十七条**：规定了未成年人犯罪的刑事责任年龄和处罚原则。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：规定了立功可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第七十二条**：规定了缓刑的适用条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额较大或巨大，量刑幅度不同。例如，【（2016）黑0225刑初207号】中，犯罪数额巨大，法定刑为三年以上十年以下有期徒刑。\n- **犯罪情节**：包括是否为从犯、是否自首、是否认罪认罚、是否退赃、是否取得被害人谅解等。例如，【（2021）苏1012刑初30号】中，被告人华某系从犯，自首，认罪认罚，退赃，法院依法从轻处罚并适用缓刑。\n- **犯罪时年龄**：未成年人犯罪，应当从轻或减轻处罚。例如，【（2019）苏0106刑初字759号】中，被告人犯罪时系未成年人，依法应当从轻或减轻处罚。\n- **是否适用缓刑**：法院在考虑犯罪情节、悔罪表现、对社区的影响等因素后，决定是否适用缓刑。例如，【（2016）黑0225刑初207号】中，被告人犯罪情节较轻，确有悔罪表现，没有再犯罪的危险，法院决定适用缓刑。\n\n综上，未成年人实施敲诈勒索犯罪时，法院会综合考虑犯罪数额、犯罪情节、犯罪时年龄等因素，依法从轻、减轻或免除处罚，并在适用缓刑时审慎考虑。\n\n#####\n类似案件为：\n【（2021）苏1012刑初30号】：法院认为，华某敲诈勒索未成年人财物，数额较大，构成敲诈勒索罪。华某系从犯，自首，认罪认罚，退出赃物并发还被害人，依法从轻处罚，适用缓刑。被告人华某犯敲诈勒索罪，判处拘役三个月，缓刑五个月，并处罚金人民币二千元。\n(缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）\n【（2019）苏0106刑初字759号】：法院认为，被告人张某敲诈勒索他人财物，数额较大，构成敲诈勒索罪，且系犯罪未遂；伙同他人非法拘禁他人，构成非法拘禁罪。张某犯罪时系未成年人，应当从轻或减轻处罚。张某协助公安机关抓获同案犯，构成立功，可以从轻或减轻处罚。张某归案后如实供述自己的罪行，系坦白，可以从轻处罚。张某自愿认罪认罚，依法从宽处理。被告人张浪犯敲诈勒索罪，判处有期徒刑八个月，并处罚金人民币5000元；被告人张浪犯非法拘禁罪，判处有期徒刑一年。决定执行有期徒刑一年六个月，并处罚金人民币5000元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，扣除先行羁押的31天，即自2019年5月29日起至2020年10月28日止；罚金已缴纳。）",
+            "以公开裸照威胁敲诈勒索的典型案例": "### 结论\n以公开裸照威胁敲诈勒索的案件中，法院在判罚时会考虑犯罪既遂与未遂、犯罪数额、犯罪手段的恶劣程度、被告人的自首或坦白情节、被告人的累犯情况、被害人是否存在过错、被告人是否取得被害人谅解以及是否主动退赔等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百七十四条**：规定敲诈勒索罪的构成要件和处罚标准。\n- **《中华人民共和国刑法》第二十三条**：规定犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十七条第三款**：规定如实供述自己罪行可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪既遂与未遂**：法院会根据犯罪是否既遂来决定处罚的轻重。例如，【（2019）鲁0282刑初1049号】中，被告人姚某某因犯罪未遂而被从轻处罚。\n- **犯罪数额**：犯罪数额的大小直接影响量刑。如【（2019）鲁1302刑初1653号】中，被告人林某因敲诈勒索数额特别巨大而受到更严厉的处罚。\n- **犯罪手段的恶劣程度**：使用暴力或传播隐私等手段会加重处罚。如【（2019）粤0105刑初823号】中，被告人卢某因手段恶劣而被酌情从重处罚。\n- **被告人的自首或坦白情节**：自首或坦白可以从轻处罚。如【（2019）浙09刑终37号】中，被告人徐卫卫因如实供述自己的罪行而被从轻处罚。\n- **被告人的累犯情况**：累犯将受到更严厉的处罚。如【（2019）浙09刑终37号】中，被告人徐卫卫因累犯而被从重处罚。\n- **被害人是否存在过错**：被害人的过错可以作为酌情从宽处理的因素。如【（2019）浙0702刑初691号】中，被害人与被告人的不正当关系被考虑为从轻处罚的因素。\n- **被告人是否取得被害人谅解**：取得谅解可以作为从轻处罚的因素。如【（2019）粤0106刑初1089号】中，被告人蒋某某因取得被害人谅解而被从轻处罚。\n- **是否主动退赔**：主动退赔可以作为从轻处罚的因素。如【（2019）京0106刑初842号】中，被告人王铁彪因积极退赔而被从轻处罚。\n\n综上，敲诈勒索罪的判罚受到多种因素的影响，法院会综合考虑犯罪的具体情节和被告人的表现来决定处罚的轻重。\n\n#####\n类似案件为：\n【（2019）鲁0282刑初1049号】：法院认为，被告人姚某某敲诈勒索公私财物，数额较大，其行为构成敲诈勒索罪。鉴于姚某某系犯罪未遂，如实供述罪行，自愿认罪认罚，取得被害人谅解，依法予以从轻处罚并宣告缓刑。一、被告人姚某某犯敲诈勒索罪，判处拘役四个月，缓刑六个月，并处罚金人民币二千元。\n（缓刑考验期限从判决确定之日起计算。）\n二、随案移送作案工具手机一部，依法予以没收。\n【（2019）鲁1302刑初1653号】：法院认为，被告人林某以散布裸照等方式勒索他人财物，数额特别巨大，其行为构成敲诈勒索罪。鉴于被害人与被告人存在不正当关系，对案件发生有过错，林某系初犯，大部分赃款已被冻结，认罪态度较好，依法可从轻处罚。一、被告人林某犯敲诈勒索罪，判处有期徒刑十年，并处罚金人民币二万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年12月10日起至2028年12月9日止。罚金限于判决生效后十日内缴纳）。\n 二、被告人林某退还赃款52万元给被害人王某（公安机关已冻结452862.79元，由公安机关依法处理）。\n【（2019）粤0105刑初823号】：法院认为，被告人卢某的行为已构成敲诈勒索罪，应依法惩处。卢某通过传播被害人隐私方法实施犯罪，并殴打被害人，手段恶劣，应从重处罚。鉴于卢某有坦白情节，可从轻处罚。卢某自愿认罪认罚，依法适用认罪认罚从宽制度，在公诉机关的量刑建议范围内从宽处罚。一、被告人卢某犯敲诈勒索罪，判处有期徒刑一年（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月7日起至2020年3月6日止），并处罚金人民币三千元（罚金在本判决发生法律效力之次日内向本院缴纳）。\n二、责令被告人卢某在本判决发生法律效力之次日内退赔被害人黄某人民币4000元。\n三、扣押的被告人卢某作案工具手机1部予以没收（由广州市公安局海珠区分局代为执行）。",
+            "敲诈勒索罪缓刑适用条件": "### 结论\n敲诈勒索罪的缓刑适用条件主要包括：犯罪情节较轻、确有悔罪表现、没有再犯罪的危险、对所居住社区没有重大不良影响。同时，被告人是否如实供述罪行、是否积极退赃、是否取得被害人谅解、是否为初犯、是否具有从犯地位等，都是法院在决定是否适用缓刑时会考虑的因素。然而，如果被告人主观恶性较大、社会危害性较大、多次犯罪或属于累犯，则通常不符合适用缓刑的条件。\n\n### 核心法条\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪情节**：犯罪情节较轻是适用缓刑的重要条件。例如，【（2016）黑0225刑初207号】中，被告人犯罪情节较轻，确有悔罪表现，没有再犯罪的危险，因此适用了缓刑。\n- **悔罪表现**：被告人是否具有悔罪表现，如积极退赃、取得被害人谅解等，是法院考虑适用缓刑的重要因素。例如，【（2016）黑0225刑初207号】中，被告人积极退赃，取得被害人谅解，被视为确有悔罪表现，从而适用了缓刑。\n- **再犯罪危险**：被告人是否具有再犯罪的危险，是决定是否适用缓刑的关键因素之一。例如，【（2019）鲁0811刑初350号】中，被告人多次敲诈勒索，主观恶性较大，社会危害性较大，因此不符合适用缓刑的条件。\n- **累犯与初犯**：被告人是否为累犯或初犯，也会影响缓刑的适用。例如，【（2019）苏1323刑初478号】中，被告人主动投案，归案后如实供述主要犯罪事实，系自首，且为初犯，因此从轻处罚，但最终未适用缓刑，可能是因为其行为不符合适用缓刑的其他条件。\n- **从犯地位**：在共同犯罪中，被告人是否处于从犯地位，也可能影响缓刑的适用。例如，【（2020）苏0724刑初208号】中，被告人李万芹在共同犯罪中起次要作用，是从犯，因此应当从轻处罚，但最终未适用缓刑，可能是因为其行为危害性大，不宜适用缓刑。\n\n综上，敲诈勒索罪的缓刑适用需综合考虑犯罪情节、悔罪表现、再犯罪危险、累犯与初犯、从犯地位等因素，法院在判决时会根据具体案情进行综合评估。\n\n#####\n类似案件为：\n【（2019）鲁0811刑初350号】：法院认为，张某1多次敲诈勒索他人财物，数额较大，其行为构成敲诈勒索罪。张某1到案后如实供述罪行，系坦白，可从轻处罚。鉴于其认罪态度较好，系初犯，且亲属已代为退赔被害人经济损失，可酌情从轻处罚。但张某1多次敲诈勒索，主观恶性及社会危害性较大，不符合适用缓刑条件。一、被告人张某1犯敲诈勒索罪，判处有期徒刑一年六个月，并处罚金人民币一万元。\n（有期徒刑的刑期，从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月7日起至2020年6月6日止。罚金限判决生效后十日内缴纳。）\n二、涉案赃物白色苹果8PLUS手机一部依法予以没收，上缴国库。\n【（2019）苏1323刑初478号】：法院认为，张业国以非法占有为目的，敲诈勒索公私财物，数额较大，构成敲诈勒索罪。鉴于张业国自首，认罪认罚，退缴违法所得，依法从轻处罚。但其行为不符合适用缓刑条件。一、被告人张业国犯敲诈勒索罪，判处有期徒刑一年，并处罚金一万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年5月31日起至2020年5月30日止。罚金于判决生效后十日内缴纳）。\n二、责令被告人张业国退赔被害人相关经济损失。\n（已缴纳至本院）。\n【（2020）苏0724刑初208号】：法院认为，李万芹伙同他人多次敲诈勒索，数额较大，其行为已构成敲诈勒索罪，属共同犯罪。李万芹在犯罪中起次要作用，是从犯，应当从轻处罚。鉴于其敲诈对象多为弱势群体，酌情从重处罚。被告人不符合适用缓刑的条件。被告人李万芹犯敲诈勒索罪，判处有期徒刑十个月，并处罚金人民币二千元（已缴纳）。\n（刑期从判决执行之日起计算）"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 3000.0,
+    "reprieve": 0.0
+  }
+]

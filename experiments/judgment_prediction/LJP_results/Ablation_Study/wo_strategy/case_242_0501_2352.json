@@ -1,0 +1,2055 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人游某甲，于XXX年X月X日出生，男，汉族，XXX文化程度，户籍XXXX，永丰县鹿冈乡人民政府农业经济管理站站长。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是永丰县鹿冈乡人民政府农业经济管理站站长。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "永丰县人民检察院  \n起 诉 书  \n\n永丰检刑诉〔2018〕69号  \n\n被告人游某甲，男，XXX年X月X日出生，汉族，XXX文化程度，户籍XXXX，永丰县鹿冈乡人民政府农业经济管理站站长。  \n\n本案由永丰县监察委员会调查终结，以被告人游某甲涉嫌贪污罪，于2018年6月25日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2010年7月至案发前，被告人游某甲担任永丰县鹿冈乡人民政府农业经济管理站站长期间，利用职务便利，单独或伙同他人侵吞、骗取公共财产共计235653元，具体犯罪事实如下：  \n\n一、侵吞“以工代赈”项目资金60000元  \n2012年10月，永丰县发改委下达给鹿冈乡九都坑自然村“以工代赈”项目资金120000元。2014年3月4日，游某甲将120000元转入九都坑自然村理事会成员吴某甲账户后，指使吴某甲将其中60000元转入其个人账户并占为己有。  \n\n二、伙同张某骗取昌宁高速公路征地补偿款150653元  \n2013年8月至11月，游某甲与鹿冈乡常务副乡长张某（另案处理）共谋，通过虚报林地、田地面积，套取征地补偿款150653元，二人均分。游某甲负责提供虚开账户，张某编造虚假材料。  \n\n三、骗取公路奖补资金25000元  \n2012年底，游某甲发现罗家村委会未入账的30000元公路奖补资金后，谎称为村委会争取项目资金，骗取其中25000元。  \n\n认定上述事实的证据如下：  \n1. 书证：财政支付凭证、银行交易记录、虚假合同、完税材料等；  \n2. 证人证言：张某、吴某甲、凌某等23名证人证言；  \n3. 被告人供述：游某甲对犯罪事实供认不讳。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人游某甲身为国家工作人员，利用职务便利侵吞、骗取公共财物，数额巨大，其行为触犯《中华人民共和国刑法》第三百八十二条、第三百八十三条，犯罪事实清楚，证据确实、充分，应当以贪污罪追究其刑事责任。游某甲到案后如实供述，已退缴全部赃款，可酌情从轻处罚。根据《中华人民共和国刑事诉讼法》第一百七十二条规定，提起公诉，建议判处有期徒刑XX，缓刑XX，并处罚金XX。  \n\n此致  \n永丰县人民法院  \n\n检 察 员 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人游某甲，关于起诉书中指控的第一项犯罪事实，你承认在2014年3月4日将\"以工代赈\"项目资金中的6万元转入个人账户并占为己有吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "承认。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第二项犯罪事实，你与张某共谋套取征地补偿款150653元后，具体是如何进行分配的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "张某分得59194元，我分得60559元。另外在2014年1月1日，我们还私分了30900元水田补偿款，我分得14767.5元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第三项犯罪事实，你骗取公路奖补资金25000元的具体过程是怎样的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2012年底发现罗家村委会未入账的3万元公路奖补资金后，我向村支书黄某乙和报账员曾某谎称争取到项目资金，要求返还2.5万元。2013年6月24日通过虚假工程报账2.9万元，6月28日曾某将2.5万元现金交给我。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第二项犯罪事实中虚报林地、田地面积的具体操作过程，请你详细说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "张某负责虚报林地面积，我提供了父亲游某乙和姐夫黄某甲的银行账户。2013年11月21日，张某以游某乙名义虚报了7.612亩杉树林地，以黄某甲名义虚报了4.944亩油茶林地。11月29日，我按张某要求将59194元转入龚某甲账户。同日，张某还在征地面积发放表中虚报了游某乙1.03亩水田面积。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人游某甲，关于你与张某共同套取的150653元征地补偿款，你们是如何商议决定分配比例的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们没有事先商议具体分配比例。张某负责虚报面积和编制材料，我提供账户。款项到账后，张某直接要求我转给他59194元，剩余部分就留在我这里了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第一项犯罪事实中\"以工代赈\"项目资金，你指使吴某甲将6万元转入你个人账户的具体时间是什么时候？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2014年3月4日当天，吴某甲收到12万元后立即将6万元转入了我的个人账户。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第三项犯罪事实中虚假工程报账2.9万元的具体操作过程，请你详细说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2013年6月24日，我们以修建罗家村公路的名义制作了虚假工程合同和发票，金额为29000元。通过乡经管站报账程序后，6月28日曾某将25000元现金交给了我。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第一项犯罪事实中\"以工代赈\"项目资金，你指使吴某甲将6万元转入你个人账户后，这笔款项的具体用途是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这笔钱主要用于我个人日常开支，没有用于公务用途。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第二项犯罪事实中30900元水田补偿款，这笔款项的具体来源和虚报过程是怎样的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2013年11月29日，张某在《鹿冈乡洋垇村西屋高速征地面积发放表》中虚报了游某乙1.03亩水田面积，套取了30900元补偿款。2014年1月1日，我与张某私分了这笔款项，我分得14767.5元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第一项犯罪事实中\"以工代赈\"项目资金，你指使吴某甲将6万元转入你个人账户时，是否向吴某甲说明了这笔款项的真实用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向吴某甲说明真实用途，只是让他按照指示转账。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第二项犯罪事实中你与张某共同套取的150653元征地补偿款，你们在实施过程中是否还有其他共谋或商议的具体内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有其他共谋内容，就是张某负责虚报面积，我提供账户，事后按他要求转账。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第三项犯罪事实中剩余的5000元公路奖补资金去向如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "剩余的5000元留在罗家村委会账上，用于村务开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第二项犯罪事实中你提供的父亲游某乙和姐夫黄某甲的银行账户，他们是否知晓这些账户被用于套取征地补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "他们不知情。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第一项犯罪事实中\"以工代赈\"项目资金，你指使吴某甲转账时是否向其承诺过任何好处或利益？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向吴某甲承诺过任何好处或利益。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第二项犯罪事实中你与张某共同套取的150653元征地补偿款，你们在实施过程中是否曾讨论过如何应对可能被发现的后果？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有讨论过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于第三项犯罪事实中虚假工程报账2.9万元，你们是如何制作虚假工程合同和发票的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们使用了村委会的空白合同和发票，虚构了修建罗家村公路的项目内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就起诉书指控的三项犯罪事实进行了充分讯问，被告人对犯罪事实供认不讳，相关细节也已查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于第一项犯罪事实中的\"以工代赈\"项目资金，这12万元项目资金是否全部用于了九都坑自然村的建设项目？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "12万元中6万元确实用于了九都坑自然村的建设项目，另外6万元按照凌书记指示转入了我的个人账户。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于第二项犯罪事实中你与张某共同套取的150653元征地补偿款，张某作为常务副乡长，是否在实施过程中对你施加了职务上的压力或影响？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "张某作为常务副乡长确实在实施过程中起到了主导作用，但我没有受到明显的职务压力或影响。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就关键事实进行了充分询问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于第三项犯罪事实中虚假工程报账2.9万元，你们虚构的修建罗家村公路项目是否实际存在？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不存在实际修建罗家村公路的项目。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于第一项犯罪事实中\"以工代赈\"项目资金，凌书记指示你转入个人账户的6万元，是否出具过任何书面指示或凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有出具过书面指示或凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于第二项犯罪事实中虚报林地面积套取的补偿款，你父亲游某乙和姐夫黄某甲名下的银行账户是否由你实际控制？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，这两个账户都由我实际控制。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于第二项犯罪事实中30900元水田补偿款，你们私分这笔款项时是否留有书面记录或其他证据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有书面记录或其他证据。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于第三项犯罪事实中剩余的5000元公路奖补资金，罗家村委会是否知晓这笔款项的真实来源？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "罗家村委会不知情。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2010年7月至案发前，我担任永丰县鹿冈乡人民政府农业经济管理站站长。  \n2012年10月，永丰县发改委向鹿冈乡下达120000元“以工代赈”项目资金，用于九都坑自然村村道建设。2013年7月8日，该资金拨付至乡经管站账户。2014年3月4日，九都坑自然村理事会成员吴某甲、何某甲持虚假发票要求报销。原乡党委书记凌某指示将其中60000元返回乡政府，由我经办。当日，我将120000元转入吴某甲账户，吴某甲随后将60000元转入我的个人账户，我未上交乡财政，用于个人开支。  \n\n2013年8月，我参与昌宁高速公路征地拆迁工作，与常务副乡长张某商议套取补偿款。我提供父亲游某乙和姐夫黄某甲的银行账户，张某虚报林地、田地面积。2013年11月21日，张某以游某乙名义虚报7.612亩杉树林地（66605元）、以黄某甲名义虚报4.944亩油茶林地（53148元），共计骗取119753元。11月29日，我按张某要求将59194元转入龚某甲账户，剩余60559元由我占有。同日，张某在《鹿冈乡洋垇村西屋高速征地面积发放表》中虚报游某乙水田面积1.03亩，套取30900元。2014年1月1日，我与张某私分该款，我分得14767.5元。  \n\n2010年12月，永丰县县乡公路改建指挥部拨付30000元“公路奖补资金”至乡经管站，罗家村委会不知情。2012年12月，我发现该款未入账，向村支书黄某乙、报账员曾某谎称争取到30000元项目资金，要求返还25000元。2013年6月24日，我们以虚假工程名义报账29000元。6月28日，曾某将25000元现金交给我。  \n\n（2）犯案动机  \n侵吞“以工代赈”资金因凌某指示返回乡政府60000元，我未上交。套取征地补偿款因与张某合谋牟利。骗取公路奖补资金因发现未入账资金可支配。  \n\n（3）案发之后的处理  \n2018年4月12日，永丰县监察委员会根据群众举报通知我接受调查。我如实供述全部犯罪事实。5月10日和12日，家属向监察委退赃90000元和70326.5元。  \n我没有自首，未与被害人达成谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：从永丰县财政局调取的关于鹿冈乡九都坑申报12万元“以工代赈”项目资金的文件、财政资金支付凭证、领导审批表以及以吴某乙名义签发的12万元“以工代赈”工程发票、中标书、会议记录、建设合同、鹿冈乡经管站记账凭证，上述证据均经永丰县人民检察院依法调取，并由出具单位加盖公章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：从永丰县地税局调取的鹿冈乡村委会九都坑自然村缴纳其申报12万“以工代赈”扶贫项目完税材料及资金审计报告，上述材料由永丰县地税局依法出具，并附有税务部门专用章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：从永丰农商行鹿冈支行调取的鹿冈经管站2014年3月4日转账支票、吴某甲存款凭条、个人业务转账凭证，该证据由银行工作人员依法调取，并加盖银行业务专用章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：吴某甲、何某乙的记账本复印件，该复印件经与原件核对无误，并由提供人签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：龚某乙提供的银行交易明细，该明细由银行出具并加盖业务章，经龚某乙本人确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：从永丰县昌宁高速公路工程建设征地拆迁协调办调取的关于昌宁高速公路征地补偿相关文件及征地补偿发放表、银行凭证、鹿冈乡经管站记账凭证单据，上述材料由协调办依法提供，并加盖单位公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：2013年昌宁高速征地拆迁（林地）发放表、鹿冈乡洋垇村西屋昌宁高速征地面积发放表，该发放表由征地拆迁工作组制作，并经相关农户签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：游某乙账号为17×××84和黄某甲账号为17×××33在农商银行开户资料，该资料由银行依法提供，并加盖业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：从农商银行鹿冈支行调取的鹿冈乡经管站2013年11月23日和11月30日银行交易凭证、黄某甲账户17×××33流水清单及游某乙账户为17×××84的流水清单及交易凭证，该凭证由银行依法出具，并加盖业务专用章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：从游海军办公室扣押的黄某甲账号尾号为1433存折、游某乙提供其本人尾号为8517的一卡通存折交易明细，该扣押物品清单由办案人员依法制作，并经游某甲签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：游某甲账号为62×××63开户申请书及个人业务凭证、流水、吉水县八都兴龙房地产开发有限公司的收款依据、现金缴款单，上述材料由银行依法提供，并加盖业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：龚某丙提供的鹿冈乡青山村委会公路修建筹资款收款收据，该收据经龚某丙签字确认，并与村委会账目核对一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：游某丙、黄某丙提供的洋坳村委会西屋组集体分配昌宁高速补偿款的资料，该资料由村委会出具，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：永丰县昌宁高速公路工程建设征地拆迁协调办公室出具的证明及永丰县林业局沿陂林业工作站的证明，该证明由出具单位加盖公章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：从永丰县交通局调取的文件、拨款单、请款单以及收款收据等凭证，该凭证由交通局依法提供，并加盖单位公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：从永丰县经管站调取的乡经管站2011年12月31日1号记账凭证、罗家村委会2013年6月30日1号和2014年9月30日3号记账凭证、曾某提供一张税务发票、罗家村委会2017年6月30日4号记账凭证，该凭证由经管站依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：从永丰县农商银行鹿冈支行调取的曾某的转账、存款等业务凭证，该凭证由银行依法出具，并加盖业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：从永丰县农业经营管理站调取的相关文件、证明材料，该材料由管理站依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：从永丰县机构编制委员会调取的关于深化乡镇机构改革的实施意见，该意见由编委会依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：从鹿冈乡政府调取的有关历年乡政府干部分工通知文件以及证明材料，该材料由乡政府依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：从永丰县人力资源和社会保障局调取的有关游某甲个人履历表资料、常住人口登记表、无犯罪记录证明，该证明由人社局依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.书证：永丰县监察委扣押款物清单及现金缴款单，该清单由监察委依法制作，并经相关人员签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人张某说：“2013年8月，因昌宁高速途径鹿冈乡政府辖区，鹿冈乡政府根据县委县政府安排开展昌宁高速公路征地拆迁工作，我为鹿冈乡昌宁高速公路征地拆迁工作常务副组长，游某甲为工作组成员之一。游某甲向我提出套取征地补偿款予以私分的建议，经两人协商，由游某甲提供虚报人员银行账户，我编造虚增的林地、田地面积等材料用于骗取征地补偿款。共骗取资金150653元并进行平分。”该证言经办案人员依法询问，并由张某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人龚某甲说：“青山村委会因修路，在2012至2014年间，采取‘一事一议’修路集资，集资款由游某甲保管。在此期间，其个人挪用了该款项，之后又返还了。”该证言经办案人员依法询问，并由龚某甲签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人龚某乙说：“游某甲在2018年4月11日晚向我借款50000元，4月15日，由其妻子归还。”该证言经办案人员依法询问，并由龚某乙签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人游某乙、陈某说：“我家位于‘斜坑’有一块面积为4.427亩的自留山种植了人工杉幼林，还有0.2亩的水田和0.03亩的旱地，按标准已得到补偿。农商行尾号为9684的账户是游某甲拿我身份证开设的，我不知情，也从未使用该账号。”该证言经办案人员依法询问，并由游某乙、陈某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人黄某丁说：“游某乙在位于‘斜坑’有一块2分左右的水田和一块几厘左右的荒地。”该证言经办案人员依法询问，并由黄某丁签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人黄某甲、游某丁说：“我家150000元的征地补偿款已到位，至于25年人工油茶经济林4.944亩，金额53148元，不知情，也不知有农商行尾号为1433的账户。”该证言经办案人员依法询问，并由黄某甲、游某丁签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.证人证言：证人凌某说：“九都坑自然村的‘以工代赈’120000元项目资金是乡政府争取过来的，为此，我与游某甲和吴某甲当面说了，鹿冈乡政府要分得60000元。而且，还特别交代游某甲及时上交乡财政，之后，还问过游某甲是否已办妥该事。关于征地拆迁的事情，每次交由其签字时，都会询问户名和数额是否准确。”该证言经办案人员依法询问，并由凌某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.证人证言：证人何某甲（袂）、吴某甲、姜某说：“2013年向鹿某甲申请‘以工代赈’项目资金时，被告知鹿某甲要分得一半，在通过制造虚假建设等凭证后，将上述款项套取出来。然后按事前达成的协议，将60000元转账游某甲。”该证言经办案人员依法询问，并由何某甲（袂）、吴某甲、姜某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.证人证言：证人仇某说：“在2012年通过招投标的方式承包了九都坑外墙粉刷工程，2014年年底，工程款已全部结清。但在2014年的上半年，吴某甲、何某甲等人说，现支付我30000元工程款，九都坑另有一笔60000元款项需返回鹿某甲，要通过我工程款的名义过账，为此，就挂在我名下做开支。”该证言经办案人员依法询问，并由仇某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.证人证言：证人吴某乙说：“于2011年，我承包了九都坑自然村环城路面硬化工程，工程款总额10多万元。2012年10月27日没有承包该村的道路建设工程，该村道建设合同是虚假的。”该证言经办案人员依法询问，并由吴某乙签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.证人证言：证人黄某乙、曾某说：“2012年下半年，游某甲发现上级拨付款30000元尚未上罗某甲的账，便对我们说，其会拨付30000元资金到罗某甲，要村委会出账，游某甲从中拿25000元，村委会得5000元。曾某以丁某承包罗某乙至岭某公路铺设砂石路的名义开具税票，游某甲缴纳税款1200元，罗某甲缴纳税款513元，共计税款1713元。2013年6月24日，罗某甲通过报账，总开支91000元，其中包含上级拨付款30000元中的29000元。不久，曾某将25000元现金给了游某甲。”该证言经办案人员依法询问，并由黄某乙、曾某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.证人证言：证人邓某、熊某说：“在鹿某甲工作期间，游某甲未向我汇报过之前游某甲有保管乡政府账外资金的事情。且游某甲也未汇报过其之前有贪腐行为，赃款未上缴乡政府。”该证言经办案人员依法询问，并由邓某、熊某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.证人证言：证人罗某丙说：“2013年，因昌某途径鹿某乙辖区，需征地拆迁，征地拆迁测量的土地面积与农民实际被征收的土地面积有相差，征地拆迁款有结余。然后通过虚列人员补偿的方式截留，最后，截留的款项已上缴乡财政。”该证言经办案人员依法询问，并由罗某丙签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.证人证言：证人李某说：“我负责昌某鹿某丙段征收林地面积的测量及林分、林某、权属核定工作，不参与协议书的签订。经查阅原始资料，游某乙被征收的7.612亩杉树林地，黄某甲被征收的4.944亩油茶林都是虚假的。”该证言经办案人员依法询问，并由李某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.被告人的供述与辩解：被告人游某甲供述：“2014年3月4日，我收取九都坑自然村60000元返回款后，没有上交乡财政，将该款占为己有。2013年8月，因昌某途径鹿某乙辖区，需征地拆迁，我是征地拆迁组的成员，鉴于与征地拆迁组的副组长张某私交好，便提议在之后的征地过程中，虚列面积套取征地款。在共同犯罪中，张某负责虚列面积，我负责虚开账户，将套取款发放至虚开账户上，后均分赃款。2012年下半年，我发现2010年上级拨付的项目资金尚未上罗某甲的账目，便向该村村干部黄某乙、曾某谎称，我为罗某甲争取了30000元资金，我要拿25000元，村委会分得5000元。后通过虚列工程款的名义将款项取出，曾某在我办公室给了25000元现金。”该供述经办案人员依法讯问，并由游某甲签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人现就本案发表如下公诉意见：\n\n一、关于定罪问题。被告人游某甲身为国家工作人员，利用职务便利侵吞、骗取公共财物共计235653元，其行为完全符合《中华人民共和国刑法》第三百八十二条、第三百八十三条关于贪污罪的构成要件。三项犯罪事实清楚，证据确实充分，被告人供认不讳，应当以贪污罪追究其刑事责任。\n\n二、关于量刑情节。1.被告人贪污数额巨大，达到\"数额巨大\"标准；2.三项犯罪事实均系利用职务便利实施，主观恶性较深；3.虽未自首，但到案后如实供述全部犯罪事实，根据《刑法》第六十七条第三款规定，可以从轻处罚；4.已退缴全部赃款，可酌情从轻处罚；5.在共同犯罪中，第二项事实与张某共同实施，但张某起主要作用，被告人起次要作用。\n\n三、关于法律适用。根据《刑法》第三百八十三条第一款第（二）项规定，贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。结合本案具体情节，建议判处有期徒刑XX，缓刑XX，并处罚金XX。\n\n综上，被告人游某甲的行为已构成贪污罪，请法庭依法判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人现就本案发表如下辩护意见：\n\n一、关于量刑情节。根据《刑法》第六十七条第三款规定，被告人虽未自首，但到案后如实供述全部犯罪事实，认罪态度良好，依法可以从轻处罚。被告人积极配合调查，对全部犯罪事实供认不讳，且对公诉机关出示的所有证据均无异议，充分体现了其认罪悔罪态度。\n\n二、关于退赃情况。根据公诉机关出示的证据，被告人家属已向监察委退缴全部赃款共计160326.5元，最大程度挽回了国家经济损失，依法可以酌情从轻处罚。\n\n三、关于共同犯罪中的责任划分。在第二项犯罪事实中，被告人虽参与实施，但张某作为常务副乡长起主导作用，被告人处于从属地位，根据《刑法》第二十七条规定，应当认定为从犯，依法应当从轻、减轻处罚。\n\n四、关于社会危害性。被告人系初犯，此前无违法犯罪记录，且所涉款项已全部退缴，社会危害性相对较小。\n\n综上，恳请法庭充分考虑被告人认罪态度良好、积极退赃、在共同犯罪中起次要作用等从轻情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从犯认定问题，公诉人需要指出：虽然张某在共同犯罪中起主要作用，但被告人游某甲主动提供亲属账户、参与款项分配，其行为具有独立性和主动性，不宜简单认定为从犯。根据《刑法》第二十五条，共同犯罪是指二人以上共同故意犯罪，被告人与张某在共同犯罪中分工合作，均应承担相应责任。\n\n关于社会危害性问题，被告人利用国家工作人员身份多次实施贪污行为，涉案金额达23万余元，严重损害了国家工作人员职务廉洁性和公共财产权益，社会危害性不容忽视。\n\n关于量刑建议，公诉人已充分考虑被告人认罪态度、退赃情节，提出的量刑建议已体现从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于共同犯罪中的责任认定，辩护人需要补充说明：根据《刑法》第二十七条规定，在共同犯罪中起次要或者辅助作用的，是从犯。本案中，被告人虽提供账户，但虚报面积、编制虚假材料等关键环节均由张某主导实施，被告人的行为具有明显的从属性。且根据被告人供述，款项分配比例也由张某单方决定，这进一步印证了被告人的从犯地位。\n\n关于社会危害性，辩护人认可贪污行为本身具有社会危害性，但需要强调的是，被告人已全部退赃，未造成实际经济损失，且系初犯，其社会危害性已得到最大程度降低。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于退赃、退赔的，应当综合考虑犯罪性质及实际损害结果等情况确定从宽幅度。\n\n恳请法庭在量刑时充分考虑上述情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于从犯认定问题，需要强调被告人游某甲在共同犯罪中并非仅起辅助作用。其主动提议套取补偿款、提供亲属账户、实际控制赃款并参与分配，根据《刑法》第二十五条，已构成共同犯罪中的实行犯。虽张某起主要作用，但被告人的行为具有独立性和主动性，不宜简单认定为从犯。\n\n关于社会危害性，被告人作为基层干部，在三年内连续实施三起贪污行为，涉案金额达23万余元，严重损害了基层政府公信力。根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条，贪污数额在二十万元以上不满三百万元的，应当认定为刑法第三百八十三条第一款规定的\"数额巨大\"。\n\n关于量刑建议，公诉人已充分考虑被告人认罪态度、退赃情节，提出的量刑建议符合罪责刑相适应原则。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于共同犯罪中的责任认定，辩护人需要指出：根据《刑法》第二十七条，从犯的认定应当考察行为人在犯罪中的实际作用。本案中，被告人虽参与实施，但虚报面积、编制虚假材料等关键环节均由张某主导，被告人仅提供账户并按照指示操作，其行为明显处于从属地位。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于从犯应当依法从轻、减轻处罚。\n\n关于社会危害性，辩护人注意到被告人所涉款项已全部退缴，未造成实际经济损失。根据《最高人民法院关于适用认罪认罚从宽制度的指导意见》，对于认罪认罚、积极退赃的被告人，应当依法从宽处理。被告人系初犯，认罪态度良好，建议法庭在量刑时充分考虑这些从宽情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己作为国家工作人员，利用职务便利侵吞、骗取公共财物的行为严重违反了党纪国法，辜负了组织和人民的信任。我对自己的犯罪行为深感悔恨，愿意接受法律的制裁。在案发后，我已如实供述全部犯罪事实，并积极退缴全部赃款。恳请法庭考虑到我认罪态度良好、积极退赃等情节，给予从宽处理。我保证今后一定遵纪守法，重新做人。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "永丰县人民法院\n刑事判决书\n（2018）永刑初字第XX号\n\n公诉机关永丰县人民检察院。\n被告人游某甲，男，XXXX年X月X日出生，汉族，XXX文化程度，户籍XXXX，原永丰县鹿冈乡人民政府农业经济管理站站长。因涉嫌贪污罪于2018年4月12日被永丰县监察委员会调查，同年6月25日被移送审查起诉。\n辩护人XXX，XXX律师事务所律师。\n\n永丰县人民检察院以永检刑诉〔2018〕69号起诉书指控被告人游某甲犯贪污罪，于2018年XX月XX日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。永丰县人民检察院检察员XXX出庭支持公诉，被告人游某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n永丰县人民检察院指控：2010年7月至案发前，被告人游某甲在担任永丰县鹿冈乡人民政府农业经济管理站站长期间，利用职务便利，单独或伙同他人侵吞、骗取公共财产共计235653元。具体犯罪事实如下：1.侵吞\"以工代赈\"项目资金60000元；2.伙同张某骗取昌宁高速公路征地补偿款150653元；3.骗取公路奖补资金25000元。被告人游某甲对指控的犯罪事实供认不讳，自愿认罪认罚。\n\n经审理查明：\n一、2014年3月4日，被告人游某甲将\"以工代赈\"项目资金120000元转入九都坑自然村理事会成员吴某甲账户后，指使吴某甲将其中60000元转入其个人账户并占为己有。\n二、2013年8月至11月，游某甲与鹿冈乡常务副乡长张某共谋，通过虚报林地、田地面积，套取征地补偿款150653元，其中游某甲分得60559元，并私分30900元水田补偿款中的14767.5元。\n三、2012年底，游某甲发现罗家村委会未入账的30000元公路奖补资金后，谎称为村委会争取项目资金，骗取其中25000元。\n\n上述事实，有经庭审质证确认的下列证据证实：\n1.被告人供述与辩解；\n2.财政支付凭证、银行交易记录等书证；\n3.张某、吴某甲等23名证人证言；\n4.扣押款物清单等证据。\n\n本院认为，被告人游某甲身为国家工作人员，利用职务便利侵吞、骗取公共财物，数额巨大，其行为已构成贪污罪。公诉机关指控的罪名成立。被告人游某甲在共同犯罪中起次要作用，系从犯；到案后如实供述犯罪事实，认罪认罚，已退缴全部赃款，依法可以从轻处罚。辩护人关于从轻处罚的辩护意见予以采纳。\n\n依照《中华人民共和国刑法》第三百八十二条、第三百八十三条第一款第（二）项、第二十五条第一款、第二十七条、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第六十四条之规定，判决如下：\n\n一、被告人游某甲犯贪污罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二十万元；\n二、被告人游某甲退缴的违法所得人民币二十三万五千六百五十三元，依法予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向吉安市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\nXXXX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。\n\n举证质证阶段总结：\n\n1. 公诉人出示了38项证据，包括被告人在侦查阶段的供述、各类书证（财政支付凭证、银行交易记录、虚假合同等）、23名证人证言等，全面证明了被告人三项贪污犯罪事实。\n\n2. 被告人对所有证据均表示无异议，包括：\n- 承认将\"以工代赈\"项目资金转入个人账户\n- 承认与张某共谋虚报林地面积套取补偿款\n- 承认骗取公路奖补资金的事实\n- 承认使用亲属账户接收赃款\n- 承认制作虚假工程合同和发票\n\n3. 辩护人对所有证据均表示无异议，未提出任何质疑。\n\n4. 被告人未申请调取新证据或通知新证人到庭。\n\n5. 被告人对犯罪事实供认不讳，所有证据均得到被告人确认，证据链条完整。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。\n\n举证质证阶段总结：\n\n1. 公诉人出示了38项证据，包括被告人在侦查阶段的供述、各类书证（财政支付凭证、银行交易记录、虚假合同等）、23名证人证言等，全面证明了被告人三项贪污犯罪事实。\n\n2. 被告人对所有证据均表示无异议，包括：\n- 承认将\"以工代赈\"项目资金转入个人账户\n- 承认与张某共谋虚报林地面积套取补偿款\n- 承认骗取公路奖补资金的事实\n- 承认使用亲属账户接收赃款\n- 承认制作虚假工程合同和发票\n\n3. 辩护人对所有证据均表示无异议，未提出任何质疑。\n\n4. 被告人未申请调取新证据或通知新证人到庭。\n\n5. 被告人对犯罪事实供认不讳，所有证据均得到被告人确认，证据链条完整。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。\n\n举证质证阶段总结：\n\n1. 公诉人出示了38项证据，包括被告人在侦查阶段的供述、各类书证（财政支付凭证、银行交易记录、虚假合同等）、23名证人证言等，全面证明了被告人三项贪污犯罪事实。\n\n2. 被告人对所有证据均表示无异议，包括：\n- 承认将\"以工代赈\"项目资金转入个人账户\n- 承认与张某共谋虚报林地面积套取补偿款\n- 承认骗取公路奖补资金的事实\n- 承认使用亲属账户接收赃款\n- 承认制作虚假工程合同和发票\n\n3. 辩护人对所有证据均表示无异议，未提出任何质疑。\n\n4. 被告人未申请调取新证据或通知新证人到庭。\n\n5. 被告人对犯罪事实供认不讳，所有证据均得到被告人确认，证据链条完整。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。\n\n举证质证阶段总结：\n\n1. 公诉人出示了38项证据，包括被告人在侦查阶段的供述、各类书证（财政支付凭证、银行交易记录、虚假合同等）、23名证人证言等，全面证明了被告人三项贪污犯罪事实。\n\n2. 被告人对所有证据均表示无异议，包括：\n- 承认将\"以工代赈\"项目资金转入个人账户\n- 承认与张某共谋虚报林地面积套取补偿款\n- 承认骗取公路奖补资金的事实\n- 承认使用亲属账户接收赃款\n- 承认制作虚假工程合同和发票\n\n3. 辩护人对所有证据均表示无异议，未提出任何质疑。\n\n4. 被告人未申请调取新证据或通知新证人到庭。\n\n5. 被告人对犯罪事实供认不讳，所有证据均得到被告人确认，证据链条完整。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 认定被告人构成贪污罪，三项犯罪事实清楚，证据充分\n- 指出被告人贪污数额巨大，利用职务便利实施犯罪，主观恶性深\n- 认可被告人如实供述、退缴赃款等从轻情节\n- 建议判处有期徒刑XX，缓刑XX，并处罚金XX\n\n2. 辩护人发表辩护意见：\n- 强调被告人认罪态度良好，如实供述，应从轻处罚\n- 指出已全部退赃，挽回国家损失\n- 主张在共同犯罪中系从犯，应从轻、减轻处罚\n- 认为系初犯，社会危害性相对较小\n\n3. 控辩双方争议焦点：\n- 关于共同犯罪中被告人的责任认定（主犯/从犯）\n- 关于社会危害性的评估\n- 关于量刑建议的合理性\n\n4. 主要量刑情节：\n- 从重情节：贪污数额巨大（23万余元），多次实施，利用职务便利\n- 从轻情节：如实供述，认罪认罚，全部退赃，在共同犯罪中作用相对次要",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人游某甲对起诉书指控的三项贪污犯罪事实均供认不讳：\n   (1)承认2014年3月4日侵吞\"以工代赈\"项目资金6万元；\n   (2)承认与张某共同套取征地补偿款150653元，其中分得60559元，并私分30900元水田补偿款中的14767.5元；\n   (3)承认骗取公路奖补资金25000元。\n\n2. 具体犯罪细节：\n   - 第一项：指使吴某甲转账6万元至个人账户，未说明真实用途；\n   - 第二项：提供亲属账户虚报林地面积，张某主导操作，事后按张某要求分配款项；\n   - 第三项：虚构公路建设项目，通过虚假合同套取资金。\n\n3. 关键情节：\n   - 使用亲属账户但亲属不知情；\n   - 与张某共同犯罪中张某起主导作用；\n   - 部分款项（5000元）未私分但村委会不知情；\n   - 所有赃款均未用于公务。\n\n举证质证阶段总结：\n\n1. 公诉人出示了38项证据，包括被告人在侦查阶段的供述、各类书证（财政支付凭证、银行交易记录、虚假合同等）、23名证人证言等，全面证明了被告人三项贪污犯罪事实。\n\n2. 被告人对所有证据均表示无异议，包括：\n- 承认将\"以工代赈\"项目资金转入个人账户\n- 承认与张某共谋虚报林地面积套取补偿款\n- 承认骗取公路奖补资金的事实\n- 承认使用亲属账户接收赃款\n- 承认制作虚假工程合同和发票\n\n3. 辩护人对所有证据均表示无异议，未提出任何质疑。\n\n4. 被告人未申请调取新证据或通知新证人到庭。\n\n5. 被告人对犯罪事实供认不讳，所有证据均得到被告人确认，证据链条完整。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 认定被告人构成贪污罪，三项犯罪事实清楚，证据充分\n- 指出被告人贪污数额巨大，利用职务便利实施犯罪，主观恶性深\n- 认可被告人如实供述、退缴赃款等从轻情节\n- 建议判处有期徒刑XX，缓刑XX，并处罚金XX\n\n2. 辩护人发表辩护意见：\n- 强调被告人认罪态度良好，如实供述，应从轻处罚\n- 指出已全部退赃，挽回国家损失\n- 主张在共同犯罪中系从犯，应从轻、减轻处罚\n- 认为系初犯，社会危害性相对较小\n\n3. 控辩双方争议焦点：\n- 关于共同犯罪中被告人的责任认定（主犯/从犯）\n- 关于社会危害性的评估\n- 关于量刑建议的合理性\n\n4. 主要量刑情节：\n- 从重情节：贪污数额巨大（23万余元），多次实施，利用职务便利\n- 从轻情节：如实供述，认罪认罚，全部退赃，在共同犯罪中作用相对次要",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 200000.0,
+    "reprieve": 48.0
+  }
+]

@@ -1,0 +1,1467 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人王某，于XXXX年X月X日出生，男，汉族，XXX文化，户籍XXXXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖南省攸县人民检察院  \n起 诉 书  \n\n攸检刑诉〔2019〕258号  \n\n被告人王某，男，XXXX年X月X日出生，汉族，XXX文化，户籍XXXXX。因涉嫌容留他人吸毒罪，于2019年7月26日被攸县公安局刑事拘留。  \n\n本案由攸县公安局侦查终结，以被告人王某涉嫌容留他人吸毒罪，于2019年10月21日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人和认罪认罚可能导致的法律后果，依法讯问了被告人，听取了值班律师的意见，审查了全部案件材料。被告人王某同意本案适用速裁程序审理。  \n\n经依法审查查明：  \n2019年7月21日下午，阳某在攸县骏怡宾馆开了511房后，被告人王某与戴某相继来到该房内与阳某聊天。下午18时许，阳某离开该宾馆回家，随后王某将吸毒人员齐某叫到该房间。当晚，由王某联系贩毒人员占某（另案处理）购买毒品，由齐某支付300元毒资，当晚王某、戴某、齐某在该房间内一起吸食了毒品冰毒。  \n\n2019年7月22日14时许，被告人王某在骏怡宾馆内意图续房继续居住，因自己的钱不够支付房费，遂由戴某通过微信转账的方式转给王某50元，王某再通过微信转账的方式将续房的100元房费转给了该宾馆的服务员。当晚20时许，王某又打电话叫齐某过来，齐某遂购买了300元钱毒品冰毒，并叫来吸毒人员陈某、彭某一起来到骏怡宾馆511房，五人用自制的吸食工具在该房间内一起吸食了毒品冰毒。  \n\n2019年7月22日22时许，被告人王某及戴某、齐某、陈某、彭某在骏怡宾馆511房被公安机关查获。经提取王某、戴某、齐某、陈某、彭某的尿液进行甲基苯丙胺类毒品检测，结果均呈阳性。  \n\n认定上述事实的证据如下：  \n1. 证人证言：证人戴某、齐某、陈某、彭某的证言；  \n2. 书证：骏怡连锁湖南株洲攸县攸衡路店结账凭证、接报案登记表、受案登记表、公安行政处罚决定书、尿样采集经过、尿检照片、现场检测报告书、指认现场照片、手机截图照片、吸毒成瘾认定意见书、责令社区戒毒决定书、收缴物品清单、办案说明、口头传唤经过、户籍资料；  \n3. 鉴定意见：现场检测报告书；  \n4. 被告人供述：被告人王某的供述及辩解。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人王某对指控的犯罪事实和证据没有异议，并自愿认罪认罚。  \n\n本院认为，被告人王某违反国家有关毒品的管理规定，提供场所容留多人吸食毒品，其行为已触犯《中华人民共和国刑法》第三百五十四条之规定，犯罪事实清楚，证据确实、充分，应当以容留他人吸毒罪追究其刑事责任。被告人王某到案后如实供述自己的犯罪事实，且愿意接受处罚，依法可从轻处罚。建议判处被告人王某拘役XX，缓刑XX，并处罚金XX。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n湖南省攸县人民法院  \n\n检 察 官 罗某  \n检察官助理 XXX  \n2019年10月21日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，2019年7月21日晚在骏怡宾馆511房间内，你是否联系了贩毒人员占某购买毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我联系了占某购买毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "2019年7月22日晚在骏怡宾馆511房间内，你是否主动打电话叫齐某过来并一起吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我打电话叫齐某过来一起吸食毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "2019年7月22日续房时，你是否明知该房间将用于多人吸食毒品而仍参与支付房费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我知道房间会用来吸食毒品，我参与了支付部分房费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你是否知道在2019年7月22日晚吸食毒品的人员中，陈某和彭某是由谁叫来的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是齐某叫来的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你是否清楚容留他人吸毒是违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你是否知道在2019年7月21日和22日两天内，共有多少人在骏怡宾馆511房间吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "两天内共有五人在房间吸食毒品，包括我、戴某、齐某、陈某和彭某。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你与贩毒人员占某是如何认识的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是通过朋友介绍认识的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你与齐某、戴某、陈某、彭某等人是什么关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是朋友关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你与贩毒人员占某之间是否存在毒品买卖以外的其他经济往来？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有其他经济往来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人王某，你与齐某、戴某、陈某、彭某等人是否经常一起吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不经常。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人王某，2019年7月21日阳某离开宾馆后，511房间的实际控制人是谁？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是我。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月22日续房时，戴某转账给你的50元是否全部用于支付房费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，全部用于支付房费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月22日续房时，你是否主动提议继续使用该房间进行吸毒活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是我主动提议的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月22日当晚吸食毒品的毒品来源是谁提供的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是齐某提供的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月22日当晚，你是否知道齐某会叫来陈某和彭某一起吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月22日当晚，你是否从齐某、陈某或彭某处获得任何经济利益？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有获得任何经济利益。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月21日晚在511房间吸食毒品时，毒资300元是由谁支付的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是齐某支付的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月21日晚在511房间吸食毒品时，你是否从中获得任何经济利益？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有获得任何经济利益。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "2019年7月21日晚在511房间吸食毒品时，房间内是否有其他人主动提出要一起吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是齐某主动提出要一起吸食毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "2019年7月22日续房时，你是否明确知道当晚会有多人在该房间内吸食毒品？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "2019年7月21日晚在511房间吸食毒品时，房间内是否还有其他人主动提出要一起吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是齐某主动提出要一起吸食毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "2019年7月22日当晚，你是否主动参与了毒品的购买或提供？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动参与购买或提供毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "2019年7月21日晚在511房间吸食毒品时，你是否主动邀请齐某前来参与吸食？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是我主动邀请齐某前来参与吸食。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "2019年7月22日当晚，你是否知道齐某会带毒品来房间吸食？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2019年7月21日下午，阳某在攸县骏怡宾馆开了511房，我与戴某先后进入房间与阳某聊天。下午18时许阳某离开后，我联系齐某到该房间。当晚，我通过贩毒人员占某购买毒品，齐某支付300元毒资，我与戴某、齐某在房间内共同吸食冰毒。  \n7月22日14时许，因续住房费不足，戴某微信转账50元给我，我支付100元房费给宾馆服务员。当晚20时许，我再次联系齐某，齐某购买300元冰毒并带陈某、彭某进入511房，五人使用自制工具吸食冰毒。当日22时许，我与戴某、齐某、陈某、彭某在房间内被公安机关查获。  \n\n（2）案发之后的处理  \n我被公安机关传唤到案后如实供述犯罪事实，未提及自首、赔偿或达成谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述中关于\"我通过贩毒人员占某购买毒品\"的表述与法庭调查阶段被告人的供述存在矛盾。在法庭调查中，被告人明确表示2019年7月22日的毒品是由齐某提供，而非被告人购买。该证据中关于毒品购买过程的描述与案件事实存在部分不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在侦查阶段的供述与法庭调查阶段的供述并不矛盾。2019年7月21日的毒品确由被告人联系占某购买，而2019年7月22日的毒品由齐某提供，两份供述分别对应不同日期的毒品来源，均属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议点已经表达清楚，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：证人戴某说：“2019年7月21日下午，我和王某在攸县骏怡宾馆511房与阳某聊天，后来阳某离开，王某叫来了齐某，当晚我们一起在房间内吸食了冰毒。”该证言经公安机关依法询问并制作笔录，由戴某签字确认，且与其他证人证言相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人齐某说：“2019年7月21日晚，王某联系贩毒人员购买了毒品，我支付了300元毒资，当晚我和王某、戴某在骏怡宾馆511房一起吸食了冰毒。第二天晚上，王某又叫我过去，我买了300元冰毒，还叫了陈某和彭某一起在511房吸食。”该证言经公安机关依法询问并制作笔录，由齐某签字确认，且与其他证据形成完整证据链",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言中关于\"王某联系贩毒人员购买了毒品\"的表述与法庭调查阶段被告人的供述存在矛盾。在法庭调查中，被告人明确表示2019年7月22日的毒品是由齐某提供，而非被告人购买。该证据中关于毒品购买过程的描述与案件事实存在部分不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人齐某的证言与被告人在侦查阶段的供述一致，均证实2019年7月21日的毒品由被告人联系购买，而2019年7月22日的毒品由齐某提供。两份证据分别对应不同日期的毒品来源，不存在矛盾。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据争议点已充分表达，无需进一步辩论。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人陈某说：“2019年7月22日晚，齐某叫我和彭某一起去骏怡宾馆511房，我们五个人用自制的工具在房间内吸食了冰毒。”该证言经公安机关依法询问并制作笔录，由陈某签字确认，且与现场检测报告等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人彭某说：“2019年7月22日晚，我和陈某被齐某叫到骏怡宾馆511房，和王某、戴某、齐某一起吸食了冰毒。”该证言经公安机关依法询问并制作笔录，由彭某签字确认，且与其他证人证言一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：骏怡连锁湖南株洲攸县攸衡路店结账凭证，证明王某通过微信转账支付了100元房费续房",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：接报案登记表，记录公安机关接到举报后对骏怡宾馆511房进行检查的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：受案登记表，记录公安机关对王某等人涉嫌容留他人吸毒案的受理情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：公安行政处罚决定书，对王某等人吸毒行为作出行政处罚",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：尿样采集经过，记录对王某、戴某、齐某、陈某、彭某进行尿液采集的过程。该采集过程由两名以上民警依法进行，全程录像，并由被采集人签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：尿检照片，显示王某等人尿液检测的过程。照片由办案民警拍摄并注明时间、地点、拍摄人，与检测报告相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.鉴定意见：现场检测报告书，证实王某、戴某、齐某、陈某、彭某的尿液甲基苯丙胺类毒品检测结果均为阳性。该检测由具有资质的检测机构依法进行，检测人员具有相应资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：指认现场照片，记录王某等人指认骏怡宾馆511房为吸毒现场的情况。照片由办案民警拍摄并注明时间、地点、拍摄人，与证人证言相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：手机截图照片，显示戴某通过微信转账50元给王某用于支付房费。该截图由公安机关依法提取并注明提取时间、提取人",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：吸毒成瘾认定意见书，对王某等人的吸毒成瘾情况进行认定。该认定由具有资质的医疗机构依法进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：责令社区戒毒决定书，责令王某等人接受社区戒毒",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：收缴物品清单，记录公安机关从现场收缴的吸毒工具等物品",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：办案说明，记录公安机关侦办此案的过程。该说明由办案单位出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：口头传唤经过，记录公安机关口头传唤王某到案的情况。该过程由两名以上民警依法进行并记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：户籍资料，证明王某的身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面\n被告人王某的行为已构成容留他人吸毒罪。根据《刑法》第三百五十四条规定，容留他人吸食、注射毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。本案中，被告人王某在2019年7月21日至22日期间，实际控制骏怡宾馆511房间，明知该房间将用于多人吸食毒品，仍参与支付房费，并主动邀请他人前来吸毒。两天内共容留五人在该房间吸食毒品，犯罪事实清楚，证据确实充分。\n\n二、关于量刑情节\n1. 被告人王某到案后如实供述自己的犯罪事实，根据《刑法》第六十七条第三款规定，可以从轻处罚。\n2. 被告人王某自愿认罪认罚，根据《刑事诉讼法》第十五条规定，可以依法从宽处理。\n3. 被告人王某系初犯，无前科劣迹，可酌情从轻处罚。\n\n三、关于辩护人提出的异议\n辩护人提出的关于毒品来源的异议不影响本案定罪。容留他人吸毒罪的构成要件是提供场所容留他人吸毒，毒品由谁提供不影响本罪的成立。被告人王某对房间具有实际控制权，明知他人将在房间内吸毒仍提供场所，其行为已符合本罪的构成要件。\n\n综上，公诉人认为被告人王某的行为已构成容留他人吸毒罪，建议法庭根据其认罪态度和悔罪表现，依法判处拘役并适用缓刑，同时处以罚金。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于犯罪情节方面\n1. 被告人王某在2019年7月22日的毒品并非由其提供，根据《刑法》第三百五十四条规定，容留他人吸毒罪的构成要件是提供场所，毒品来源不影响定罪，但可作为量刑情节考量。\n\n二、关于从轻处罚情节\n1. 被告人系初犯，无前科劣迹，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，可酌情从轻处罚。\n2. 被告人认罪态度良好，在侦查阶段和庭审中均如实供述，根据《刑法》第六十七条第三款，可以从轻处罚。\n3. 被告人在共同犯罪中作用相对较小，2019年7月22日的吸毒活动并非由其主动组织，房间使用也非其单独决定。\n\n三、关于量刑建议\n1. 被告人未从中牟利，主观恶性较小。\n2. 被告人对自己的行为有深刻认识，愿意接受法律制裁。\n3. 建议法庭充分考虑被告人的认罪态度和悔罪表现，从轻处罚。\n\n综上，辩护人认为被告人王某虽构成容留他人吸毒罪，但具有多个从轻处罚情节，建议法庭对其从轻判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的被告人作用较小问题，公诉人认为：1.被告人王某在两天内均主动联系他人前来吸毒，对房间具有实际控制权，并参与支付房费，在犯罪中起主要作用；2.根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第十二条规定，容留多人吸食毒品的即构成犯罪，本案中被告人容留五人吸毒，已属情节严重。关于毒品来源问题，公诉人再次强调，毒品由谁提供不影响容留他人吸毒罪的成立，被告人的行为已完全符合该罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的被告人起主要作用的观点，辩护人认为需要补充说明：1.根据法庭调查，2019年7月22日的吸毒活动是由齐某主动组织并叫来其他人员，被告人仅起到辅助作用；2.被告人在支付房费时仅承担了部分费用，且全部用于正当用途，未从中牟利；3.根据《刑法》第六十一条规定，量刑应当与犯罪事实、性质、情节和社会危害程度相适应，被告人的主观恶性和社会危害性相对较小。建议法庭在量刑时充分考虑这些情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的被告人仅起辅助作用的观点，公诉人认为：1.根据被告人供述和证人证言，2019年7月21日被告人主动联系贩毒人员并邀请齐某前来吸毒；2.2019年7月22日被告人明知房间将用于吸毒仍参与续房，并主动联系齐某前来，其行为对犯罪实施具有决定性作用；3.根据《刑法》第二十六条规定，组织、领导犯罪活动或在共同犯罪中起主要作用的，是主犯。被告人的行为已明显超出辅助作用范畴。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的被告人在共同犯罪中起主要作用的观点，辩护人补充以下意见：1.根据《刑法》第二十七条规定，在共同犯罪中起次要或者辅助作用的，是从犯。本案中2019年7月22日的吸毒活动由齐某组织并带来毒品，被告人的参与程度相对有限；2.被告人在支付房费时仅承担了部分费用，且全部用于正当用途，未从中牟利；3.根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于从犯应当从轻、减轻处罚。建议法庭充分考虑被告人在共同犯罪中的实际作用。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对容留他人吸毒的行为感到非常后悔。我自愿认罪认罚，愿意接受法律的制裁。恳请法庭考虑我是初犯，认罪态度良好，能够从轻处罚。我保证今后一定遵纪守法，远离毒品，做一个对社会有用的人。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "湖南省攸县人民法院\n刑事判决书\n（2019）湘0223刑初258号\n\n公诉机关湖南省攸县人民检察院。\n被告人王某，男，XXXX年X月X日出生，汉族，XXX文化，户籍XXXXX。因涉嫌容留他人吸毒罪，于2019年7月26日被攸县公安局刑事拘留，现取保候审。\n辩护人XXX，XXX律师事务所律师。\n\n湖南省攸县人民检察院于2019年10月21日以被告人王某犯容留他人吸毒罪，向本院提起公诉。本院受理后，依法适用速裁程序，公开开庭审理了本案。攸县人民检察院检察官罗某出庭支持公诉，被告人王某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n湖南省攸县人民检察院指控：2019年7月21日至22日，被告人王某在攸县骏怡宾馆511房间内，先后容留戴某、齐某、陈某、彭某等人吸食毒品冰毒。王某联系贩毒人员购买毒品，并参与支付房费。2019年7月22日22时许，王某等五人在房间内被公安机关查获。经检测，五人尿液甲基苯丙胺类毒品检测结果均为阳性。公诉机关认为被告人王某的行为已构成容留他人吸毒罪，建议判处拘役四个月，缓刑六个月，并处罚金人民币二千元。\n\n被告人王某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚且签字具结，在开庭审理过程中亦无异议。辩护人提出被告人系初犯，认罪态度好，在共同犯罪中作用较小，建议从轻处罚。\n\n经审理查明：2019年7月21日下午，被告人王某与戴某在攸县骏怡宾馆511房间内，后王某联系齐某到该房间，三人共同吸食冰毒。7月22日，王某续租该房间，并联系齐某前来，齐某购买冰毒后带陈某、彭某到房间，五人共同吸食冰毒。当晚22时许被公安机关查获。上述事实有被告人供述、证人证言、尿检报告、现场指认照片等证据证实，证据确实、充分，足以认定。\n\n本院认为，被告人王某违反国家毒品管理法规，提供场所容留多人吸食毒品，其行为已构成容留他人吸毒罪。公诉机关指控的罪名成立。被告人王某到案后如实供述犯罪事实，自愿认罪认罚，依法可从轻处罚。辩护人提出的从轻处罚意见予以采纳。依照《中华人民共和国刑法》第三百五十四条、第六十七条第三款、第七十二条第一款、第三款、第七十三条第一款、第三款、第五十二条、第五十三条之规定，判决如下：\n\n被告人王某犯容留他人吸毒罪，判处拘役四个月，缓刑六个月，并处罚金人民币二千元（缓刑考验期限，从判决确定之日起计算；罚金限本判决生效后十日内缴纳）。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖南省株洲市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2019年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾，认为2019年7月22日的毒品是由齐某提供而非被告人购买。\n\n2. 公诉人出示证人戴某证言，证明2019年7月21日被告人与戴某、齐某在宾馆房间内共同吸食冰毒的事实，控辩双方均无异议。\n\n3. 公诉人出示证人齐某证言，辩护人再次指出关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾。公诉人回应称两份证据分别对应不同日期的毒品来源，不存在矛盾。\n\n4. 公诉人依次出示以下证据，控辩双方均无异议：\n   - 证人陈某、彭某证言\n   - 骏怡宾馆结账凭证\n   - 接报案登记表、受案登记表\n   - 公安行政处罚决定书\n   - 尿样采集经过、尿检照片\n   - 现场检测报告书\n   - 指认现场照片\n   - 手机截图照片\n   - 吸毒成瘾认定意见书\n   - 责令社区戒毒决定书\n   - 收缴物品清单\n   - 办案说明\n   - 口头传唤经过\n   - 户籍资料\n\n5. 辩护人表示没有证据需要出示，被告人不申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾，认为2019年7月22日的毒品是由齐某提供而非被告人购买。\n\n2. 公诉人出示证人戴某证言，证明2019年7月21日被告人与戴某、齐某在宾馆房间内共同吸食冰毒的事实，控辩双方均无异议。\n\n3. 公诉人出示证人齐某证言，辩护人再次指出关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾。公诉人回应称两份证据分别对应不同日期的毒品来源，不存在矛盾。\n\n4. 公诉人依次出示以下证据，控辩双方均无异议：\n   - 证人陈某、彭某证言\n   - 骏怡宾馆结账凭证\n   - 接报案登记表、受案登记表\n   - 公安行政处罚决定书\n   - 尿样采集经过、尿检照片\n   - 现场检测报告书\n   - 指认现场照片\n   - 手机截图照片\n   - 吸毒成瘾认定意见书\n   - 责令社区戒毒决定书\n   - 收缴物品清单\n   - 办案说明\n   - 口头传唤经过\n   - 户籍资料\n\n5. 辩护人表示没有证据需要出示，被告人不申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾，认为2019年7月22日的毒品是由齐某提供而非被告人购买。\n\n2. 公诉人出示证人戴某证言，证明2019年7月21日被告人与戴某、齐某在宾馆房间内共同吸食冰毒的事实，控辩双方均无异议。\n\n3. 公诉人出示证人齐某证言，辩护人再次指出关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾。公诉人回应称两份证据分别对应不同日期的毒品来源，不存在矛盾。\n\n4. 公诉人依次出示以下证据，控辩双方均无异议：\n   - 证人陈某、彭某证言\n   - 骏怡宾馆结账凭证\n   - 接报案登记表、受案登记表\n   - 公安行政处罚决定书\n   - 尿样采集经过、尿检照片\n   - 现场检测报告书\n   - 指认现场照片\n   - 手机截图照片\n   - 吸毒成瘾认定意见书\n   - 责令社区戒毒决定书\n   - 收缴物品清单\n   - 办案说明\n   - 口头传唤经过\n   - 户籍资料\n\n5. 辩护人表示没有证据需要出示，被告人不申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾，认为2019年7月22日的毒品是由齐某提供而非被告人购买。\n\n2. 公诉人出示证人戴某证言，证明2019年7月21日被告人与戴某、齐某在宾馆房间内共同吸食冰毒的事实，控辩双方均无异议。\n\n3. 公诉人出示证人齐某证言，辩护人再次指出关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾。公诉人回应称两份证据分别对应不同日期的毒品来源，不存在矛盾。\n\n4. 公诉人依次出示以下证据，控辩双方均无异议：\n   - 证人陈某、彭某证言\n   - 骏怡宾馆结账凭证\n   - 接报案登记表、受案登记表\n   - 公安行政处罚决定书\n   - 尿样采集经过、尿检照片\n   - 现场检测报告书\n   - 指认现场照片\n   - 手机截图照片\n   - 吸毒成瘾认定意见书\n   - 责令社区戒毒决定书\n   - 收缴物品清单\n   - 办案说明\n   - 口头传唤经过\n   - 户籍资料\n\n5. 辩护人表示没有证据需要出示，被告人不申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：被告人王某构成容留他人吸毒罪，两天内容留五人吸毒，犯罪事实清楚\n- 量刑情节：被告人如实供述、认罪认罚、系初犯，建议从轻处罚\n- 回应辩护人异议：毒品来源不影响定罪，被告人行为已符合构成要件\n\n2. 辩护人发表辩护意见：\n- 犯罪情节：7月22日毒品非被告人提供，可作为量刑考量\n- 从轻情节：初犯、认罪态度好、在共同犯罪中作用较小\n- 量刑建议：未牟利、主观恶性小，建议从轻处罚\n\n3. 控辩双方主要争议点：\n- 被告人在共同犯罪中的作用：公诉人认为起主要作用，辩护人认为起辅助作用\n- 毒品来源问题：公诉人强调不影响定罪，辩护人主张作为量刑考量\n- 量刑标准：双方就被告人实际参与程度和主观恶性进行辩论\n\n4. 补充辩论要点：\n- 公诉人援引司法解释，指出容留多人吸毒即构成犯罪\n- 辩护人引用刑法关于从犯的规定，主张被告人参与程度有限\n- 双方就被告人在两次吸毒活动中的具体行为进行辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人王某承认2019年7月21日晚联系贩毒人员占某购买毒品\n- 承认2019年7月22日晚主动打电话叫齐某来宾馆一起吸食毒品\n- 承认明知房间将用于多人吸食毒品仍参与支付房费\n- 确认齐某叫来了陈某和彭某参与吸毒\n- 承认知道容留他人吸毒是违法行为\n- 确认两天内共有五人在房间吸食毒品\n\n2. 辩护人讯问：\n- 被告人确认2019年7月21日后511房间由其实际控制\n- 确认戴某转账的50元全部用于支付房费\n- 否认主动提议继续使用房间吸毒\n- 确认2019年7月22日毒品由齐某提供\n- 否认知道齐某会叫来陈某和彭某\n- 否认从他人处获得经济利益\n\n3. 审判长讯问：\n- 被告人确认知道续房后会有多人吸毒\n- 承认2019年7月21日主动邀请齐某前来吸毒\n- 承认知道2019年7月22日齐某会带毒品来\n- 否认主动参与毒品购买或提供\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾，认为2019年7月22日的毒品是由齐某提供而非被告人购买。\n\n2. 公诉人出示证人戴某证言，证明2019年7月21日被告人与戴某、齐某在宾馆房间内共同吸食冰毒的事实，控辩双方均无异议。\n\n3. 公诉人出示证人齐某证言，辩护人再次指出关于毒品购买过程的描述与法庭调查阶段被告人的供述存在矛盾。公诉人回应称两份证据分别对应不同日期的毒品来源，不存在矛盾。\n\n4. 公诉人依次出示以下证据，控辩双方均无异议：\n   - 证人陈某、彭某证言\n   - 骏怡宾馆结账凭证\n   - 接报案登记表、受案登记表\n   - 公安行政处罚决定书\n   - 尿样采集经过、尿检照片\n   - 现场检测报告书\n   - 指认现场照片\n   - 手机截图照片\n   - 吸毒成瘾认定意见书\n   - 责令社区戒毒决定书\n   - 收缴物品清单\n   - 办案说明\n   - 口头传唤经过\n   - 户籍资料\n\n5. 辩护人表示没有证据需要出示，被告人不申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：被告人王某构成容留他人吸毒罪，两天内容留五人吸毒，犯罪事实清楚\n- 量刑情节：被告人如实供述、认罪认罚、系初犯，建议从轻处罚\n- 回应辩护人异议：毒品来源不影响定罪，被告人行为已符合构成要件\n\n2. 辩护人发表辩护意见：\n- 犯罪情节：7月22日毒品非被告人提供，可作为量刑考量\n- 从轻情节：初犯、认罪态度好、在共同犯罪中作用较小\n- 量刑建议：未牟利、主观恶性小，建议从轻处罚\n\n3. 控辩双方主要争议点：\n- 被告人在共同犯罪中的作用：公诉人认为起主要作用，辩护人认为起辅助作用\n- 毒品来源问题：公诉人强调不影响定罪，辩护人主张作为量刑考量\n- 量刑标准：双方就被告人实际参与程度和主观恶性进行辩论\n\n4. 补充辩论要点：\n- 公诉人援引司法解释，指出容留多人吸毒即构成犯罪\n- 辩护人引用刑法关于从犯的规定，主张被告人参与程度有限\n- 双方就被告人在两次吸毒活动中的具体行为进行辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 4.0,
+    "fine": 2000.0,
+    "reprieve": 6.0
+  }
+]

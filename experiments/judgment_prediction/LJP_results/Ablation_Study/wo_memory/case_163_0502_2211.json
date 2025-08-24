@@ -1,0 +1,1635 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人肖某，男，XXX年X月X日出生，户籍福建省光泽县，文化程度XXX，民族XXX。因涉嫌犯滥伐林木罪，于2019年2月1日被提起公诉。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "福建省光泽县人民检察院  \n起 诉 书  \n\n光检生态刑诉〔2019〕4号  \n\n被告人肖某，男，XXX年X月X日出生，户籍福建省光泽县，文化程度XXX，民族XXX。因涉嫌犯滥伐林木罪，于2019年2月1日被提起公诉。  \n\n本案由光泽县林业执法部门侦查终结，以被告人肖某涉嫌滥伐林木罪，于2019年2月1日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n被告人肖某明知因林权纠纷，林木权属尚无法确权的情况下，于2018年8月，未办理林木采伐许可证，雇佣本村村民吴某甲携带油锯等工具到光泽县止马镇杉关村对面山土名“椒坑”山场中，砍伐自己早年种植的杉木一天并将砍伐的杉木放置现场晾晒直至案发。经现场勘查和林业专业技术人员鉴定，上述被滥伐地点位于光泽县止马镇杉关村土名“椒坑”山场，40林班3大班8（1）小班。滥伐杉木275株，材积17.6822立方米，折立木蓄积27.8460立方米。  \n\n认定上述事实的证据如下：  \n1. 证人证言：证人吴某乙、吴某丙、吴某甲、傅某、何某甲、黄某、何某乙的证言笔录及辨认笔录、照片；  \n2. 书证：林权证明、租赁协议、固定资产移交清册、村委会证明；  \n3. 现场勘查笔录、现场照片；  \n4. 林业案件技术鉴定意见及检尺结算单；  \n5. 被告人肖某的供述及辨认笔录、照片；  \n6. 扣押物品决定书；  \n7. 复植补种协议。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人肖某对指控的犯罪事实和证据没有异议，并自愿认罪认罚。  \n\n本院认为，被告人肖某为谋求个人私利，违反国家森林法规，未经林业行政管理部门的批准并核发林木采伐许可证，擅自砍伐权属尚存在争议的林木蓄积达27.8460立方米，数量较大，其行为已构成滥伐林木罪，犯罪事实清楚，证据确实、充分，应当以滥伐林木罪追究其刑事责任。被告人肖某在案发后能主动投案，如实供述自己的犯罪事实，具有法定从轻处罚的情节，同时又具有自愿缴纳罚金的酌定从轻处罚情节。建议判处被告人肖某拘役XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n光泽县人民法院  \n\n检  察  官  XXX  \n检察官助理  XXX  \n\n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实和罪名没有异议。我确实在未办理采伐许可证的情况下砍伐了杉木，但我当时认为这些树是我早年种植的，有权处置。我自愿认罪认罚，已经签订了复植补种协议，愿意积极弥补过错。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人肖某，你在2018年8月砍伐\"椒坑\"山场杉木时，是否明知该山场存在林权纠纷且尚未确权？请具体说明你对此事的认知情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我知道山场存在林权纠纷，当时认为这些杉木是我早年种植的，所以有权处置。但我确实没有办理采伐许可证，这是我的过错。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你声称这些杉木是你早年种植的，那么你是否了解在权属争议未解决前，任何一方都不得砍伐有争议林木的法律规定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时确实没有完全了解这个法律规定，只想着这些树是我种的就可以砍。现在经过教育，我明白了这样做是违法的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你雇佣吴某甲砍伐杉木时，是否办理了林木采伐许可证？如未办理，是基于何种考虑？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有办理采伐许可证。我当时认为这些树是我自己种的，不需要办理手续。现在认识到这是错误的做法。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "砍伐当天，你是否有向雇佣的工人出示过任何采伐许可证明？具体是如何操作的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有出示过任何采伐许可证明。当时就是直接让工人去砍伐，没有办理相关手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "经鉴定被砍伐杉木折立木蓄积达27.8460立方米，你对此鉴定结果是否有异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "对鉴定结果没有异议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在案发后主动投案并签署了复植补种协议，但至今尚未完全履行，请说明具体原因和后续计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我承认复植补种协议还没有完全履行。因为季节原因，补种工作要到2019年春季才能进行。我已经做好了准备，保证在5月1日前完成补种工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐的杉木是否已经出售？如已出售，请说明销售数量和获利情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有出售。砍伐的杉木一直放在现场晾晒，直到案发。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐的杉木现在存放在何处？是否已被林业部门扣押？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "杉木现在仍存放在砍伐现场，已经被林业部门扣押。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砍伐杉木的具体目的是什么？是准备自用还是出售牟利？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "砍伐杉木主要是准备自用，用于家里建房和制作家具，没有打算出售牟利。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你砍伐的杉木是否确实是你早年亲手种植的？请详细说明种植时间、地点及管理情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些杉木确实是我在2005年左右亲手种植的，地点就在\"椒坑\"山场。当时我开垦了这块地，自己购买了杉木苗，种植后也经常去管理，包括除草、施肥等。直到2018年砍伐前，这些杉木一直由我照看。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于山场权属争议，你在砍伐前是否明确知晓存在争议？是通过什么途径知晓的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我知道山场存在权属争议，是通过村委会开会时了解到的。争议主要涉及山场边界划分问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你为何认为在权属争议情况下仍有权砍伐这些林木？当时是基于何种考虑？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为这些杉木是我亲手种植的，付出了劳动，所以有权处置。虽然知道山场有争议，但觉得争议的是地界问题，不影响我对这些树木的所有权。现在认识到这种想法是错误的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "砍伐前你是否尝试过办理采伐许可证？具体做了哪些申请工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有尝试办理采伐许可证。当时认为这些树是我自己种的，不需要办理手续，所以没有进行任何申请工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你雇佣的吴某甲在砍伐过程中是否提出过关于采伐许可的疑问？你是如何回应的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "吴某甲在砍伐过程中没有提出过关于采伐许可的疑问。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "砍伐后木材一直放置在现场未运走，这是出于什么考虑？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "砍伐后木材放在现场是因为我想等木材晾干后再运回家使用，没有其他特别考虑。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与村委会达成的复植补种协议具体内容是什么？目前履行情况如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "复植补种协议约定我在2019年5月1日前在指定山场补种杉木。目前因为季节原因还未开始补种，但我已经准备好了树苗和工具，保证按时完成补种工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你主动投案的具体经过是怎样的？在侦查阶段是否如实供述了全部事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是在2019年1月主动到林业派出所投案的。当时听说林业部门在调查这个事，我就主动去说明情况。在侦查阶段，我把砍伐的经过、数量等事实都如实向办案人员作了交代，没有隐瞒任何情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你种植这些杉木时是否办理过相关种植手续或取得过任何书面证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时种植杉木时没有办理过正式的种植手续，也没有取得书面证明。就是自己开垦荒地后直接种的树苗。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐的杉木具体准备用于什么用途？建房和制作家具的具体计划是什么？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "砍伐的杉木准备用于家里新建房屋的梁柱和门窗材料，以及制作一些桌椅家具。具体计划是在2019年春季开始建房，已经请了木匠师傅帮忙设计。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木前是否咨询过林业部门或法律专业人士关于采伐许可的相关规定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有咨询过林业部门或法律专业人士。当时认为这些树是我自己种的，不需要办理手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木的具体时间是在2018年8月的哪一天？当天天气情况如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年8月15日砍伐的，当天是晴天。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木当天是否有人劝阻或提醒你需要办理采伐许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年8月15日砍伐当天，没有人劝阻或提醒我需要办理采伐许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你砍伐杉木时是否知道27.8460立方米的立木蓄积量已经达到滥伐林木罪的立案标准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道这个立案标准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。2018年8月，我在福建省光泽县止马镇杉关村“椒坑”山场，雇佣村民吴某甲使用油锯砍伐了我早年种植的275株杉木。砍伐后，木材被放置在现场晾晒直至案发。经鉴定，被砍伐杉木材积17.6822立方米，折立木蓄积27.8460立方米。  \n\n（2）犯案动机。我认为这些杉木是我早年种植的，虽然林权存在纠纷且未确权，但我认为有权处置这些林木，因此未办理采伐许可证便进行了砍伐。  \n\n（3）案发之后的处理。我主动投案并如实供述了犯罪事实。在案件审理过程中，我与杉关村民委员会达成“复植补种”协议，承诺于2019年5月1日前在指定山场补种杉木。目前尚未赔偿其他损失，也未取得其他方面的谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：证人吴某乙说：“我看见肖某雇佣吴某甲在‘椒坑’山场砍伐杉木，当时没有看到采伐许可证。”经林业部门核实，肖某未取得该山场采伐许可证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明被告人实施了砍伐行为，但无法证明被告人主观上明知权属争议且故意违法。证人关于\"没有看到采伐许可证\"的证言属于消极事实陈述，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人证言与被告人供述相互印证，证实被告人确实实施了无证砍伐行为。关于主观故意问题，被告人在供述中已明确承认明知山场存在权属争议，这一事实足以认定其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的证明力已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人吴某丙说：“我听说肖某在争议山场砍树，后来去看了现场，确实有很多杉木被砍倒。”经调查核实，肖某砍伐行为属实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中\"听说\"部分属于传闻证据，证明力不足；且仅能证明砍伐行为存在，无法证明被告人主观上明知权属争议且故意违法。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人证言与现场勘查笔录、被告人供述相互印证，形成完整证据链。关于主观故意问题，被告人在供述中已明确承认明知山场存在权属争议，这一事实足以认定其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据证明力充分发表意见，法庭已记录在案。请公诉人继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人吴某甲说：“肖某雇我用油锯在‘椒坑’山场砍了一天杉木，他说是他早年种的，但我没看到采伐证。”经林业部门核实，肖某未出示有效采伐许可证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明被告人雇佣其砍伐树木且未出示采伐证，但无法证明被告人主观上明知权属争议且故意违法。证人关于\"没看到采伐证\"的证言属于消极事实陈述，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人作为直接参与砍伐的人员，其证言与被告人供述相互印证，证实被告人确实实施了无证砍伐行为。关于主观故意问题，被告人在供述中已明确承认明知山场存在权属争议，这一事实足以认定其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据证明力充分发表意见，法庭已记录在案。请公诉人继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人傅某说：“村里人都知道那片山场有林权纠纷，肖某砍树前没办手续。”经村委会证实，该山场确实存在权属争议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言中\"村里人都知道\"属于概括性陈述，无法证明被告人主观上对权属争议的具体认知程度。且\"肖某砍树前没办手续\"部分属于消极事实陈述，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人作为村委会工作人员，其关于山场权属争议的证言具有权威性。被告人在供述中已明确承认知晓山场存在权属争议，与证人证言相互印证，足以证明被告人主观上明知权属争议仍实施砍伐行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据证明力充分发表意见，法庭已记录在案。请公诉人继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人何某甲说：“我是村委会成员，肖某砍树的山场权属还没确定，村里没同意他采伐。”经林业主管部门认定，该山场权属存在争议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明山场权属存在争议，但无法证明被告人主观上明知权属争议且故意违法。证人关于\"村里没同意他采伐\"的证言属于消极事实陈述，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证人作为村委会成员，其关于山场权属争议的证言具有权威性。结合被告人供述中明确承认知晓山场存在权属争议的事实，足以形成完整证据链，证明被告人主观上明知权属争议仍实施砍伐行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据证明力充分发表意见，法庭已记录在案。请公诉人继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人黄某说：“我在林业站工作，接到举报后去现场勘查，发现大量杉木被无证砍伐。”经林业执法部门认定，该砍伐行为属无证采伐",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人何某乙说：“我参与了现场检尺，被砍的杉木有275株，材积约17立方米。”该检尺工作由林业部门专业技术人员进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明砍伐数量，但检尺结算单未说明具体测量方法和误差范围，可能存在计算偏差。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该检尺工作由林业部门专业技术人员按照国家标准进行，测量方法和结果具有专业性和权威性。被告人对鉴定结果亦无异议，足以证明砍伐数量的准确性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的证明力已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：林权证明一份，证实“椒坑”山场40林班3大班8（1）小班存在权属争议。该证明由县林业局出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该林权证明仅能证明山场存在权属争议，但无法证明被告人明知权属争议状态且故意违法。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该林权证明由县林业局出具，具有法律效力。结合被告人在供述中明确承认知晓山场存在权属争议的事实，足以证明被告人主观上明知权属争议状态仍实施砍伐行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的证明力已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：租赁协议一份，显示肖某曾与村委会签订过林地租赁合同，但争议山场不包含在内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：村委会证明一份，说明杉关村未向肖某发放过涉案山场的采伐许可证。该证明经乡政府审核认可",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：固定资产移交清册一份，记录被扣押的17.6822立方米杉木情况。该清册经林业执法部门确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.物证：扣押的杉木275株，材积17.6822立方米。该测量由林业部门专业技术人员完成",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.勘验笔录：现场勘查笔录及照片，记录“椒坑”山场被砍伐杉木的现场情况。该勘查由林业执法部门专业人员进行",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.鉴定意见：林业案件技术鉴定书，认定被伐杉木折立木蓄积27.8460立方米。该鉴定书由县林业局技术鉴定中心出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该鉴定意见未说明具体测量方法和误差范围，可能存在计算偏差。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该鉴定意见由县林业局技术鉴定中心专业技术人员按照国家标准进行，测量方法和结果具有专业性和权威性。被告人对鉴定结果亦无异议，足以证明砍伐数量的准确性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对鉴定意见的证明力已充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：复植补种协议一份，肖某承诺在40林班2大班9小班补种杉木",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n第一，被告人肖某主观上具有明显违法故意。根据《森林法》第17条规定，权属争议未解决前，任何一方不得砍伐有争议林木。被告人明确供述知晓山场存在权属争议，却仍擅自砍伐，其主观故意明显。\n\n第二，被告人行为已构成滥伐林木罪。经林业部门专业鉴定，砍伐立木蓄积达27.8460立方米，已达到《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第六条规定的\"数量较大\"标准。\n\n第三，被告人虽签署复植补种协议但尚未实际履行，生态损害尚未得到弥补。根据《刑法》第345条规定，应当依法追究其刑事责任。\n\n第四，被告人未办理采伐许可证的行为直接违反《森林法》第32条规定，具有明显违法性。虽然被告人辩称认为树木系自己种植，但这一认识错误不影响其行为违法性的认定。\n\n综上，被告人肖某的行为已构成滥伐林木罪，犯罪事实清楚，证据确实充分。考虑到其主动投案、如实供述、自愿认罪认罚等情节，建议法庭依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，被告人具有法定从轻情节。根据《刑法》第六十七条第一款规定，犯罪以后自动投案，如实供述自己的罪行的，是自首。被告人肖某在案发后主动到林业派出所投案，并如实供述全部犯罪事实，依法应当认定为自首。\n\n第二，被告人认罪态度良好。在侦查、审查起诉及庭审阶段均自愿认罪认罚，并已签订复植补种协议，承诺在2019年5月1日前完成补种工作。根据《刑事诉讼法》第十五条规定，可以依法从宽处理。\n\n第三，被告人主观恶性较小。被砍伐的杉木确系被告人早年亲手种植并长期管理，其误认为有权处置自己种植的林木，虽属法律认识错误，但与其他恶意滥伐行为有明显区别。\n\n第四，社会危害性较低。被告人系初犯、偶犯，无前科劣迹；砍伐的木材未出售牟利，全部用于自用；已做好补种准备，积极弥补生态损失。\n\n综上，恳请法庭充分考虑被告人的自首情节、认罪态度及主观恶性较小等从轻情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "第一，关于被告人主观恶性问题。虽然被告人辩称误认为有权处置自己种植的林木，但根据《森林法》第17条明确规定，在权属争议未解决前，任何一方不得砍伐有争议林木。被告人明确知晓山场存在权属争议，仍擅自砍伐，其主观故意明显，不能以法律认识错误为由减轻责任。\n\n第二，关于社会危害性问题。27.8460立方米的砍伐量已达到滥伐林木罪\"数量较大\"的立案标准，对森林资源造成实质性损害。虽然被告人承诺补种，但截至庭审时尚未实际履行，生态损害尚未得到弥补。\n\n第三，关于自首情节。公诉人认可被告人具有自首情节，已在起诉书中明确建议从轻处罚。但自首情节不能改变其行为已构成犯罪的事实，应当依法定罪量刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "第一，关于主观故意问题。被告人虽知晓山场存在权属争议，但争议焦点在于地界划分而非林木权属。被告人长期管理并实际占有这些林木，其误认为有权处置自己种植的林木，符合《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第五条关于\"因林木权属争议而擅自砍伐\"的情形，主观恶性明显小于其他滥伐行为。\n\n第二，关于生态损害问题。被告人已签订复植补种协议并做好充分准备，承诺在2019年5月1日前完成补种工作。根据《最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释》第二十条规定，被告人的积极补救行为应当作为量刑从宽情节予以考虑。\n\n第三，关于量刑建议。被告人具有自首、认罪认罚、初犯、积极补救等多重从宽情节，根据《刑法》第六十七条和《刑事诉讼法》第十五条规定，建议法庭充分考虑这些情节，给予最大限度的从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，被告人明知山场存在权属争议仍实施砍伐行为，根据《森林法》第17条规定，其行为已构成违法。辩护人提出的\"地界争议\"不能改变权属未定的法律事实，被告人的主观故意明确。\n\n关于生态损害问题，虽然被告人承诺补种，但截至2019年2月1日庭审时尚未实际履行，生态损害处于持续状态。根据《刑法》第345条规定，滥伐林木罪的构成不以实际补种为要件，被告人的行为已符合犯罪构成要件。\n\n关于量刑情节，公诉人已充分考虑被告人的自首、认罪认罚等情节，在起诉书中建议从轻处罚。但必须指出，27.8460立方米的砍伐量已达到\"数量较大\"标准，依法应当追究刑事责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，被告人虽知晓山场存在争议，但争议焦点在于地界划分而非林木权属。根据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第五条，因林木权属争议而擅自砍伐的情形，其主观恶性明显小于其他滥伐行为。被告人长期管理并实际占有这些林木，其误认具有合理基础。\n\n关于生态损害问题，被告人已签订复植补种协议并做好充分准备，承诺在2019年5月1日前完成补种工作。根据《最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释》第二十条，被告人的积极补救行为应当作为量刑从宽情节予以考虑。\n\n关于量刑建议，被告人具有自首、认罪认罚、初犯、积极补救等多重从宽情节，根据《刑法》第六十七条和《刑事诉讼法》第十五条规定，建议法庭充分考虑这些情节，给予最大限度的从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己未办理采伐许可证就砍伐林木的错误行为，愿意接受法律的处罚。我主动投案并如实供述了全部事实，已经签订了复植补种协议，保证在2019年5月1日前完成补种工作。我认罪认罚，愿意缴纳罚金，恳请法庭从轻处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "福建省光泽县人民法院\n刑事判决书\n（2019）光泽刑初字第XX号\n\n公诉机关光泽县人民检察院。\n\n被告人肖某，男，XXX年X月X日出生，汉族，福建省光泽县人，文化程度XXX，户籍地福建省光泽县，因涉嫌犯滥伐林木罪于2019年2月1日被提起公诉。\n\n辩护人XXX，XXX律师事务所律师。\n\n光泽县人民检察院以光检生态刑诉〔2019〕4号起诉书指控被告人肖某犯滥伐林木罪，于2019年2月1日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。光泽县人民检察院指派检察员XXX出庭支持公诉，被告人肖某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n光泽县人民检察院指控：被告人肖某明知因林权纠纷，林木权属尚无法确权的情况下，于2018年8月未办理林木采伐许可证，雇佣他人砍伐自己早年种植的杉木275株，折立木蓄积27.8460立方米，其行为已构成滥伐林木罪。被告人肖某对指控的犯罪事实和证据没有异议，并自愿认罪认罚。\n\n经审理查明，2018年8月，被告人肖某在明知光泽县止马镇杉关村\"椒坑\"山场存在林权纠纷且未取得采伐许可证的情况下，雇佣他人砍伐其早年种植的杉木275株，经鉴定折立木蓄积27.8460立方米。案发后，被告人肖某主动投案并如实供述犯罪事实，与杉关村民委员会签订《复植补种协议》，承诺于2019年5月1日前完成补种工作。\n\n上述事实，有被告人肖某的供述，证人吴某甲、吴某乙等人的证言，林权证明、现场勘查笔录、林业技术鉴定意见、复植补种协议等证据证实，足以认定。\n\n本院认为，被告人肖某违反森林法规，未经林业行政主管部门批准并核发采伐许可证，擅自砍伐林木，数量较大，其行为已构成滥伐林木罪。公诉机关指控的罪名成立。鉴于被告人肖某具有自首情节，自愿认罪认罚，并签订复植补种协议积极弥补损失，依法可以从轻处罚。依照《中华人民共和国刑法》第三百四十五条第二款、第六十七条第一款、第七十二条、第七十三条及《中华人民共和国刑事诉讼法》第十五条之规定，判决如下：\n\n一、被告人肖某犯滥伐林木罪，判处拘役五个月，缓刑八个月，并处罚金人民币二千元；\n\n二、被告人肖某应在本判决生效后，按《复植补种协议》约定的内容履行义务。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向南平市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2019年2月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1. 被告人肖某是否构成滥伐林木罪。需要查明其在明知林权存在争议且未取得采伐许可证的情况下，擅自砍伐杉木的行为是否符合该罪构成要件。\n\n2. 被砍伐林木的数量是否达到\"数量较大\"的立案标准。需重点审查林业技术鉴定认定的27.8460立方米立木蓄积量的计算依据和准确性。\n\n3. 被告人肖某的主动投案行为是否构成自首。需核实其投案时间、供述内容等是否符合自首的法定条件。\n\n4. 被告人签署的复植补种协议履行情况及其对量刑的影响。需查明补种杉木的具体进展和效果。\n\n5. 被告人认罪认罚的自愿性和真实性。需确认其对指控事实和证据是否完全认同。\n\n6. 量刑情节的综合考量。包括自首、认罪认罚、补种协议等从轻情节的认定及适用幅度。\n\n7. 罚金刑的确定标准。需结合当地经济发展水平和被告人经济状况确定适当金额。\n\n8. 缓刑适用的可行性评估。需综合考量被告人犯罪情节、悔罪表现及再犯可能性等因素。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪中'数量较大'的具体认定标准",
+              "被告人主动投案并如实供述对量刑的影响"
+            ],
+            "滥伐林木罪中'数量较大'的具体认定标准": "### 结论\n滥伐林木罪中'数量较大'的具体认定标准在不同地区和案例中有所差异，但通常涉及林木的立木蓄积量或株数。根据相关案例，数量较大的认定标准可以参考以下几点：滥伐林木数量较大通常指立木蓄积量在10立方米以上或者幼树500株以上，但具体标准可能因地区差异而有所不同。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件，包括未取得林木采伐许可证而滥伐林木，数量较大的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **滥伐林木的数量**：数量较大的认定是滥伐林木罪的关键因素。例如，【（2019）浙1121刑初226号】中，被告人滥伐林木数量较大，构成滥伐林木罪。【（2019）闽0802刑初218号】中，被告单位滥伐松、杂幼树计4449株，立木蓄积计29.87立方米，数量较大，构成滥伐林木罪。这些案例表明，数量较大的认定通常涉及立木蓄积量和株数。\n- **自首和认罪认罚**：自首和认罪认罚是影响量刑的重要因素。例如，【（2019）浙1121刑初226号】、【（2019）闽0802刑初218号】、【（2020）粤0222刑初48号】中，被告人主动投案并如实供述自己的罪行，构成自首，依法可以从轻处罚。【（2020）苏0682刑初4号】、【（2019）浙1082刑初653号】中，被告人自愿认罪认罚，依法可以从宽处理。\n- **生态修复和退赃**：采取生态修复措施和退赃也是影响量刑的因素。例如，【（2019）浙1121刑初226号】、【（2019）闽0802刑初218号】、【（2019）浙1082刑初653号】中，被告人采取“补植复绿”措施恢复生态，退缴赃款，均酌情予以从轻处罚。\n\n综上，滥伐林木罪中'数量较大'的具体认定标准涉及林木的立木蓄积量或株数，自首、认罪认罚、生态修复和退赃等情节对量刑有重要影响。\n\n#####\n类似案件为：\n【（2019）浙1121刑初226号】：法院认为，六被告人在未取得林木采伐许可证的情况下滥伐林木，数量较大，构成滥伐林木罪。廖正德、廖玉琴、廖松南、陈小灵、陈肖红、邱木标有自首情节，可从轻处罚；廖正德犯罪时已满75岁，可从轻处罚；五被告人认罪认罚，交纳生态修复费用，退出赃款，从轻处罚。一、被告人廖正德犯滥伐林木罪，判处有期徒刑一年三个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金6000元；\n 二、被告人廖玉琴犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 三、被告人廖松南犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 四、被告人陈小灵犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 五、被告人陈肖红犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 六、被告人邱木标犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 七、被告人廖正德退出的赃款50000元，予以没收，上缴国库；\n 八、被告人廖玉琴、廖松南、陈小灵、陈肖红、邱木标共同退出的违法所得5000元，予以没收，上缴国库。\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。\n【（2019）浙1121刑初226号】：法院认为，六被告人在未取得林木采伐许可证的情况下滥伐林木，数量较大，构成滥伐林木罪。廖正德、廖玉琴、廖松南、陈小灵、陈肖红、邱木标有自首情节，可从轻处罚；廖正德犯罪时已满75岁，可从轻处罚；五被告人认罪认罚，交纳生态修复费用，退出赃款，从轻处罚。一、被告人廖正德犯滥伐林木罪，判处有期徒刑一年三个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金6000元；\n 二、被告人廖玉琴犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 三、被告人廖松南犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 四、被告人陈小灵犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 五、被告人陈肖红犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 六、被告人邱木标犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 七、被告人廖正德退出的赃款50000元，予以没收，上缴国库；\n 八、被告人廖玉琴、廖松南、陈小灵、陈肖红、邱木标共同退出的违法所得5000元，予以没收，上缴国库。",
+            "被告人主动投案并如实供述对量刑的影响": "### 结论\n被告人主动投案并如实供述自己的罪行，构成自首，依法可以从轻或减轻处罚。即使在庭审中对某些细节有所辩解，只要不否认主要犯罪事实，不影响自首的认定。量刑时，法院会综合考虑犯罪性质、情节、认罪态度、退赃、前科等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自动投案**：自动投案是自首成立的前提，被告人主动到案，表明其有悔罪意愿，依法可以从轻处罚。例如，【（2023）桂14刑终206号】、【（2021）粤1623刑初65号】、【（2019）苏0707刑初429号】等案例均提及被告人主动投案，法院因此认定自首成立。\n- **如实供述主要犯罪事实**：即使被告人对某些细节有所辩解，只要不否认主要犯罪事实，不影响自首的认定。例如，【（2023）桂14刑终206号】中，被告人虽否认见到执法民警，但不否认逃避检查及撞到执行公务民警的主要犯罪事实，法院认定为自首。\n- **认罪认罚**：被告人自愿认罪认罚，可以从宽处理。如【（2021）粤1623刑初65号】、【（2022）鲁0211刑初1296号】中，被告人认罪认罚，法院在量刑时予以考虑。\n- **退赃**：被告人主动退缴违法所得，法院在量刑时酌情予以考虑。如【（2024）沪0115刑初2587号】、【（2022）鲁0211刑初1296号】中，被告人退缴违法所得，法院在量刑时予以考虑。\n- **前科**：被告人有前科，量刑时综合予以考虑。如【（2019）苏0707刑初429号】中，被告人有前科，法院在量刑时予以考虑。\n\n综上，被告人主动投案并如实供述自己的罪行，构成自首，依法可以从轻或减轻处罚。法院在量刑时会综合考虑犯罪性质、情节、认罪态度、退赃、前科等因素，以实现公正合理的判决。\n\n#####\n类似案件为：\n【（2023）桂14刑终206号】：被告人罗某某驾驶电动车途经设置有警示牌、三角反光路障锥的公安交通检查卡点，为逃避公安交通警察检查，不顾执勤民警示意其停车及多名交通警察多次闪光示警，驾驶车辆三次加速绕行，暴力阻碍公安机关依法执行职务，并致执勤民警受伤，其行为已构成妨害公务罪。案发后，罗某某自动投案，并如实供述自己的罪行，虽其在一审庭审中否认案发时见到执法民警，但不否认逃避检查及在逃避过程中撞到执行公务民警的主要犯罪事实，根据《最高人民法院关于自首和立功若干具体问题的意见》（法发〔2010〕60号）第二条第一款“犯罪嫌疑人供述的身份等情况与真实情况虽有差别，但不影响定罪量刑的，应认定为如实供述自己的罪行”的规定，对其行为应认定为自首。一审未认定罗某某构成自首，属适用法律错误，予以纠正。罗某某上诉提出其有自首情节正确，予以采纳。故二审法院依法作出如上裁判。\n【（2021）粤1623刑初65号】：法院认为，被告人钟文科以非法占有为目的，骗取他人财物，数额特别巨大，其行为构成诈骗罪。鉴于被告人钟文科主动投案并如实供述自己罪行，依法可以从轻或者减轻处罚，且认罪认罚，故采纳公诉机关的量刑建议。一、被告人钟文科犯诈骗罪，判处有期徒刑十年六个月，并处罚金十万元。\n（刑期从判决执行之日计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2020年9月16日起至2031年3月15日止。罚金自本判决生效之日起十日内缴纳）。\n二、责令被告人钟文科退赔被害人何某、黄某1人民币573995元；退赔被害人黄某2、黄某3人民币572303.75元；退赔被害人骆某人民币60000元。\n【（2019）苏0707刑初429号】：法院认为，被告人李某以非法占有为目的，入户秘密窃取他人财物，其行为构成盗窃罪。李某主动投案并如实供述犯罪事实，系自首且自愿认罪认罚，依法予以从轻处罚；李某有前科，量刑时综合予以考虑。一、被告人李某犯盗窃罪，判处拘役二个月，并处罚金人民币一千元（于判决书生效后十日内缴纳）。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即从2019年9月5日起至2019年10月25日止）。\n二、责令被告人李某于本判决书生效后十日内退赔被害人丁明宽经济损失共计人民币六百元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.证据链完整：被告人供述、证人证言、书证、鉴定意见相互印证，证实肖某在明知权属争议情况下无证砍伐杉木27.8460立方米，达到数量较大标准 2.法律适用准确：根据刑法第345条及森林法第17条，权属争议期间禁止采伐，肖某行为完全符合滥伐林木罪构成要件 3.量刑建议适当：虽存在自首、认罪认罚情节，但砍伐数量较大且未完全弥补损失，建议判处拘役并处罚金体现罪责刑相适应\n防御策略：1.所有证据均经法定程序收集，特别是林业部门专业技术人员出具的鉴定意见具有权威性 2.被告人对证据无异议且自愿认罪认罚，印证证据真实性 3.复植补种协议尚未完全履行，不能减轻已造成的生态损害事实",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "中华人民共和国森林法第三十二条"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪中'明知权属争议'的认定标准",
+              "滥伐林木数量较大与数量巨大的区分标准"
+            ],
+            "滥伐林木罪中'明知权属争议'的认定标准": "### 结论\n滥伐林木罪中“明知权属争议”的认定标准，主要依据行为人对林木权属争议的认知能力和涉案交易、运输行为的方式、特点，以及行为人是否因收购非法采伐的林木受过行政处罚后仍继续收购同类林木。在权属争议未解决前，任何一方不得砍伐有争议的林木。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条**：规定单位之间、个人之间或个人与单位之间发生的林木所有权和林地使用权争议，由县级以上人民政府依法处理。在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人对林木权属的认知能力**：行为人是否熟知当地林木权属状况，是否知道林木存在权属争议。例如，【（2020）桂71行终289号】中，法院认为在林木权属存在争议时，土地上的天然孳息物的权属亦存在争议，即涉案的林木权属不清或存在争议。\n- **涉案交易、运输行为的方式、特点**：交易或运输行为是否符合当地正常交易习惯，是否存在异常情况。例如，【（2019）粤0205刑初85号】中，法院认为被告人吴朝晖明知是滥伐的林木而非法收购，其行为已构成非法收购滥伐的林木罪。\n- **行为人是否因收购非法采伐的林木受过行政处罚**：行为人是否因类似行为受过处罚，是否在受过处罚后仍继续收购同类林木。例如，【（2021）赣0681刑初50号】中，法院认为行为人本身从事木材加工，熟知当地禁伐某类特定林木，且因收购非法采伐的此类林木受过行政处罚，仍收购同类林木的，应当认定为具有主观明知。\n\n综上，滥伐林木罪中“明知权属争议”的认定，主要看行为人是否知道或应当知道林木存在权属争议，以及在知道存在争议的情况下是否继续进行非法采伐、收购或运输的行为。在权属争议未解决前，任何一方不得砍伐有争议的林木，否则可能构成犯罪。\n\n#####\n类似案件为：\n【（2020）桂71行终289号】：本院认为，涉案林木系前期承包人采伐后萌芽而成，属于土地的天然孳息。鉴于涉案土地所有权和使用权存在争议，土地上的天然孳息物即涉案林木的权属亦存在争议。良庆资源局在核发涉案采伐许可证时，明知涉案林木权属不清或存在争议，其主要证据不足，故一审法院撤销该采伐许可证并无不当。市林业局在复议时已清楚涉案林地存在所有权、使用权争议，故一审法院以复议决定认定事实不清为由予以撤销亦无不当。上诉人良庆资源局的上诉请求无事实及法律依据，一审判决认定事实清楚，适用法律、法规正确，审判程序合法，应予维持。驳回上诉，维持原判。\n【（2019）粤0205刑初85号】：法院认为，被告人吴朝晖明知是滥伐的林木而非法收购，其行为已构成非法收购滥伐的林木罪，且属情节特别严重。吴朝晖犯罪以后自动投案，如实供述自己的罪行，是自首，可以从轻处罚。辩护人关于吴朝晖的自首、认罪认罚及悔罪表现的辩解成立，但关于收购李某1林木的数量争议，因证据充分，不予采纳。被告人吴朝晖犯非法收购滥伐的林木罪，判处有期徒刑三年，缓刑五年，并处罚金人民币五万元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于判决生效的第二日起十天内交纳。）\n【（2021）赣0681刑初50号】：法院生效裁判认为：被告人彭某祥收购明知是滥伐的林木折合蓄积量为616.9538立方米，情节特别严重，其行为已构成非法收购滥伐的林木罪。彭某祥主动到公安机关投案，如实供述了自己的犯罪事实且当庭认罪，具有自首情节，依法可对其从轻处罚。彭某祥在贵溪市林业局缴纳罚款人民币16320.96元，归案后其亲属在公安机关退赔赃款人民币3万元，在本案审理阶段退赔赃款人民币153679.04元，可酌情从轻处罚。被告人彭某祥自愿认罪认罚，依法可对其从宽处理。",
+            "滥伐林木数量较大与数量巨大的区分标准": "### 结论\n滥伐林木罪的数量较大与数量巨大的区分标准在不同地区和具体案件中可能有所差异，但通常依据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》（以下简称《解释》）中的规定，数量较大一般指滥伐林木10立方米以上或者幼树500株以上；数量巨大一般指滥伐林木50立方米以上或者幼树2500株以上。\n\n### 核心法条\n- **《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第6条**：规定滥伐林木“数量较大”和“数量巨大”的具体标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **滥伐林木的数量**：这是区分滥伐林木罪“数量较大”与“数量巨大”的关键。例如，【（2019）粤1881刑初101号】中，被告人卢某明滥伐林木数量较巨大，构成滥伐林木罪。【（2020）粤0222刑初48号】中，被告人张光耀滥伐林木数量较大，构成滥伐林木罪，但因其初犯、认罪认罚，适用缓刑。\n- **自首与认罪认罚**：自首和认罪认罚是影响量刑的重要因素。例如，【（2020）粤0222刑初48号】中，被告人张光耀自首并认罪认罚，法院决定对其从轻处罚并适用缓刑。【（2020）粤1322刑初88号】中，被告人黄木华归案后如实供述，属坦白，依法可从轻处罚。\n- **社会危害性与主观恶性**：社会危害性和主观恶性也是量刑时考虑的因素。例如，【（2018）浙03刑终788号】中，被告人周某在国家级风景名胜区滥伐林木，破坏生态环境，社会影响恶劣，虽有自首情节，但不适用缓刑。\n\n综上，滥伐林木罪的量刑不仅取决于滥伐林木的数量，还受到自首、认罪认罚、社会危害性及主观恶性等因素的影响。法院在量刑时会综合考虑这些因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2019）粤1881刑初101号】：法院认为，卢某明违反森林法律法规，未经批准擅自砍伐林木，数量巨大，构成滥伐林木罪。鉴于卢某明自首，认罪认罚，依法予以从轻处罚，但其滥伐林木数量巨大，不适用缓刑。被告人卢某明犯滥伐林木罪，判处有期徒刑二年十个月，并处罚金人民币二万元（罚金限于本判决发生法律效力之日起一个月内缴纳）。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月11日起至2021年10月10日止）。\n【（2020）粤0222刑初48号】：法院认为，被告人张光耀违反森林法的规定，滥伐林木数量35.7立方米，数量较大，构成滥伐林木罪。鉴于张光耀系自首，初犯，认罪认罚，决定对其从轻处罚并适用缓刑。被告人张光耀犯滥伐林木罪，判处拘役五个月，缓刑十个月，并处罚金人民币五千元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效后十日内向本院缴交。）\n【（2020）粤0222刑初48号】：法院认为，被告人张光耀违反森林法的规定，滥伐林木数量35.7立方米，数量较大，构成滥伐林木罪。鉴于张光耀系自首，初犯，认罪认罚，决定对其从轻处罚并适用缓刑。被告人张光耀犯滥伐林木罪，判处拘役五个月，缓刑十个月，并处罚金人民币五千元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效后十日内向本院缴交。）"
+          }
+        },
+        "目标": "请求法院判处被告人肖某犯滥伐林木罪，处拘役并处罚金",
+        "询问": "1. 被告人肖某，你在2018年8月砍伐\"椒坑\"山场杉木时，是否明知该山场存在林权纠纷且尚未确权？请具体说明你对此事的认知情况。\n\n2. 你雇佣吴某甲砍伐杉木时，是否办理了林木采伐许可证？如未办理，是基于何种考虑？\n\n3. 你声称这些杉木是你早年种植的，那么你是否了解在权属争议未解决前，任何一方都不得砍伐有争议林木的法律规定？\n\n4. 砍伐当天，你是否有向雇佣的工人出示过任何采伐许可证明？具体是如何操作的？\n\n5. 经鉴定被砍伐杉木折立木蓄积达27.8460立方米，你对此鉴定结果是否有异议？\n\n6. 你在案发后主动投案并签署了复植补种协议，但至今尚未完全履行，请说明具体原因和后续计划。"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的林权证明仅能证明存在争议，不能直接证明被告人明知权属争议状态2.证人证言中关于\"听说\"等间接证据证明力不足3.检尺结算单等技术鉴定未说明具体测量方法，可能存在误差\n防御策略：1.被告人主动投案并如实供述，构成自首情节2.已签订复植补种协议，积极弥补生态损失3.砍伐的是自己早年种植的林木，主观恶性较小4.被告人系初犯，无前科劣迹5.认罪认罚态度良好，愿意缴纳罚金",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "林权争议期间擅自采伐自己种植的林木如何定性",
+              "滥伐林木罪中'明知权属争议'的认定标准"
+            ],
+            "林权争议期间擅自采伐自己种植的林木如何定性": "### 结论\n在林权争议期间擅自采伐自己种植的林木，若数量较大，构成滥伐林木罪。若同时毁坏他人财物，还可能构成故意毁坏财物罪。自首、认罪态度、赔偿损失、社区监管措施、复植补种等情节可作为从轻或减轻处罚的考量因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。\n- **《中华人民共和国刑法》第二百七十五条**：故意毁坏公私财物，数额较大或者有其他严重情节的，处三年以下有期徒刑、拘役或者罚金；数额巨大或者有其他特别严重情节的，处三年以上七年以下有期徒刑。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **采伐林木的数量**：若数量较大，构成滥伐林木罪。例如，【（2019）闽0783刑初23号】中，被告人余海荣滥伐林木数量较大，构成滥伐林木罪。\n- **自首和认罪态度**：自首和认罪态度良好，可从轻处罚。例如，【（2019）闽0783刑初23号】中，被告人余海荣主动投案并如实供述罪行，被认定为自首，予以从轻处罚。\n- **赔偿损失和复植补种**：赔偿损失和自愿复植补种，可作为从轻处罚的考量因素。例如，【（2019）闽0783刑初23号】中，被告人余海荣与被害人达成和解协议，赔偿损失，取得谅解，依法可以从轻处罚。\n- **前科**：有前科的，依法从重处罚。例如，【（2019）闽0783刑初23号】中，被告人余海荣有盗窃罪前科，依法从重处罚。\n- **社区监管措施**：落实社区监管措施，可作为缓刑考量因素。例如，【（2019）闽0783刑初23号】中，被告人余海荣落实了社区监管措施，对其判处缓刑不致再危害社会。\n\n综上，林权争议期间擅自采伐自己种植的林木，若数量较大，构成滥伐林木罪，自首、认罪态度、赔偿损失、社区监管措施、复植补种等情节可作为从轻或减轻处罚的考量因素。\n\n#####\n类似案件为：\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。",
+            "滥伐林木罪中'明知权属争议'的认定标准": "### 结论\n滥伐林木罪中“明知权属争议”的认定标准，主要依据行为人对林木权属争议的认知能力和涉案交易、运输行为的方式、特点，以及行为人是否因收购非法采伐的林木受过行政处罚后仍继续收购同类林木。在权属争议未解决前，任何一方不得砍伐有争议的林木。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条**：规定单位之间、个人之间或个人与单位之间发生的林木所有权和林地使用权争议，由县级以上人民政府依法处理。在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人对林木权属的认知能力**：行为人是否熟知当地林木权属状况，是否知道林木存在权属争议。例如，【（2020）桂71行终289号】中，法院认为在林木权属存在争议时，土地上的天然孳息物的权属亦存在争议，即涉案的林木权属不清或存在争议。\n- **涉案交易、运输行为的方式、特点**：交易或运输行为是否符合当地正常交易习惯，是否存在异常情况。例如，【（2019）粤0205刑初85号】中，法院认为被告人吴朝晖明知是滥伐的林木而非法收购，其行为已构成非法收购滥伐的林木罪。\n- **行为人是否因收购非法采伐的林木受过行政处罚**：行为人是否因类似行为受过处罚，是否在受过处罚后仍继续收购同类林木。例如，【（2021）赣0681刑初50号】中，法院认为行为人本身从事木材加工，熟知当地禁伐某类特定林木，且因收购非法采伐的此类林木受过行政处罚，仍收购同类林木的，应当认定为具有主观明知。\n\n综上，滥伐林木罪中“明知权属争议”的认定，主要看行为人是否知道或应当知道林木存在权属争议，以及在知道存在争议的情况下是否继续进行非法采伐、收购或运输的行为。在权属争议未解决前，任何一方不得砍伐有争议的林木，否则可能构成犯罪。\n\n#####\n类似案件为：\n【（2020）桂71行终289号】：本院认为，涉案林木系前期承包人采伐后萌芽而成，属于土地的天然孳息。鉴于涉案土地所有权和使用权存在争议，土地上的天然孳息物即涉案林木的权属亦存在争议。良庆资源局在核发涉案采伐许可证时，明知涉案林木权属不清或存在争议，其主要证据不足，故一审法院撤销该采伐许可证并无不当。市林业局在复议时已清楚涉案林地存在所有权、使用权争议，故一审法院以复议决定认定事实不清为由予以撤销亦无不当。上诉人良庆资源局的上诉请求无事实及法律依据，一审判决认定事实清楚，适用法律、法规正确，审判程序合法，应予维持。驳回上诉，维持原判。\n【（2019）粤0205刑初85号】：法院认为，被告人吴朝晖明知是滥伐的林木而非法收购，其行为已构成非法收购滥伐的林木罪，且属情节特别严重。吴朝晖犯罪以后自动投案，如实供述自己的罪行，是自首，可以从轻处罚。辩护人关于吴朝晖的自首、认罪认罚及悔罪表现的辩解成立，但关于收购李某1林木的数量争议，因证据充分，不予采纳。被告人吴朝晖犯非法收购滥伐的林木罪，判处有期徒刑三年，缓刑五年，并处罚金人民币五万元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于判决生效的第二日起十天内交纳。）\n【（2021）赣0681刑初50号】：法院生效裁判认为：被告人彭某祥收购明知是滥伐的林木折合蓄积量为616.9538立方米，情节特别严重，其行为已构成非法收购滥伐的林木罪。彭某祥主动到公安机关投案，如实供述了自己的犯罪事实且当庭认罪，具有自首情节，依法可对其从轻处罚。彭某祥在贵溪市林业局缴纳罚款人民币16320.96元，归案后其亲属在公安机关退赔赃款人民币3万元，在本案审理阶段退赔赃款人民币153679.04元，可酌情从轻处罚。被告人彭某祥自愿认罪认罚，依法可对其从宽处理。"
+          }
+        },
+        "目标": "请求法院判处被告人缓刑并减轻罚金",
+        "询问": "1.被告人，你砍伐的杉木是否确实是你早年亲手种植的？请详细说明种植时间、地点及管理情况。\n\n2.关于山场权属争议，你在砍伐前是否明确知晓存在争议？是通过什么途径知晓的？\n\n3.你为何认为在权属争议情况下仍有权砍伐这些林木？当时是基于何种考虑？\n\n4.砍伐前你是否尝试过办理采伐许可证？具体做了哪些申请工作？\n\n5.你雇佣的吴某甲在砍伐过程中是否提出过关于采伐许可的疑问？你是如何回应的？\n\n6.砍伐后木材一直放置在现场未运走，这是出于什么考虑？\n\n7.你与村委会达成的复植补种协议具体内容是什么？目前履行情况如何？\n\n8.你主动投案的具体经过是怎样的？在侦查阶段是否如实供述了全部事实？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人主动投案并如实供述，构成自首情节，依法可从轻处罚 2.已签订复植补种协议，积极采取补救措施弥补生态损失 3.砍伐的是自己早年种植的林木，主观恶性较小 4.被告人系初犯，无前科劣迹 5.认罪认罚态度良好，愿意缴纳罚金 6.林权争议期间采伐行为虽不当但非恶意侵占他人财产",
+        "记忆": "",
+        "目标": "请求法院判处被告人缓刑并减轻罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人肖某是否构成滥伐林木罪。查明情况：被告人承认在明知林权存在争议且未取得采伐许可证的情况下砍伐杉木，符合滥伐林木罪的构成要件。控辩双方对此无异议，审判长认为罪名成立。\n\n2.被砍伐林木的数量是否达到\"数量较大\"的立案标准。查明情况：林业技术鉴定认定立木蓄积27.8460立方米，被告人对此无异议。该数量远超10立方米的立案标准，审判长确认已达到\"数量较大\"标准。\n\n3.被告人肖某的主动投案行为是否构成自首。查明情况：被告人系在调查期间主动到林业派出所说明情况，如实供述犯罪事实，符合自首条件。控辩双方无异议，审判长认定自首成立。\n\n4.复植补种协议的履行情况及量刑影响。查明情况：被告人已签订协议但尚未完全履行，承诺在2019年5月1日前完成补种。审判长认为该情节可作为酌定从轻处罚依据，但需监督后续履行情况。\n\n5.被告人认罪认罚的自愿性和真实性。查明情况：被告人对指控事实和证据完全认同，自愿认罪认罚。控辩双方无异议，审判长确认其认罪认罚真实有效。\n\n6.量刑情节的综合考量。查明情况：被告人具有自首、认罪认罚、签订补种协议等从轻情节，无加重情节。审判长认为可依法从轻处罚。\n\n7.罚金刑的确定标准。查明情况：需结合当地经济水平和被告人经济状况确定。目前双方未就此充分讨论，审判长认为需进一步明确。\n\n8.缓刑适用的可行性评估。查明情况：被告人犯罪情节较轻，悔罪表现良好，再犯可能性低。审判长认为符合缓刑适用条件，但需结合具体刑期考量。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释第三条"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。",
+            "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释第三条": "以非法占有为目的，具有下列情形之一，数量较大的，依照刑法第三百四十五条第一款的规定，以盗伐林木罪定罪处罚：（一）擅自砍伐国家、集体、他人所有或者他人承包经营管理的森林或者其他林木的；（二）擅自砍伐本单位或者本人承包经营管理的森林或者其他林木的；（三）在林木采伐许可证规定的地点以外采伐国家、集体、他人所有或者他人承包经营管理的森林或者其他林木的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪中'数量较大'的认定标准",
+              "林权争议期间擅自砍伐林木的刑事责任认定",
+              "滥伐林木罪中自首情节的认定标准"
+            ],
+            "滥伐林木罪中'数量较大'的认定标准": "### 结论\n滥伐林木罪中'数量较大'的认定标准通常依据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》中的规定，具体数量标准可能因地区差异而有所不同，但一般情况下，滥伐林木数量达到10立方米以上或者幼树500株以上，即可认定为'数量较大'。\n\n### 核心法条\n- **《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第6条**：滥伐林木'数量较大'，以10至20立方米或者幼树500至1000株为起点；滥伐林木'数量巨大'，以50至100立方米或者幼树2500至5000株为起点。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **滥伐林木的数量**：数量是认定滥伐林木罪'数量较大'的关键因素。例如，【（2019）闽0802刑初218号】中，被告单位滥伐松、杂幼树计4449株，松、杂立木蓄积计29.87立方米，数量较大，构成滥伐林木罪。\n- **是否办理林木采伐许可证**：未办理林木采伐许可证是构成滥伐林木罪的必要条件。如【（2020）桂07刑终91号】中，被告人韦某寿因未取得林木采伐许可证而砍伐林木，数量巨大，构成滥伐林木罪。\n- **自首和认罪态度**：自首和认罪态度是量刑时的重要考量因素。如【（2020）粤0222刑初48号】中，被告人张光耀因自首和认罪认罚，法院决定对其从轻处罚并适用缓刑。\n- **生态修复措施**：采取生态修复措施，如补植复绿，可以作为从轻处罚的考量因素。如【（2019）闽0802刑初218号】中，被告单位及被告人采取“补植复绿”措施恢复生态，酌情予以从轻处罚。\n\n综上，滥伐林木罪的认定和量刑主要考虑滥伐林木的数量、是否办理林木采伐许可证、自首和认罪态度以及是否采取生态修复措施等因素。其中，滥伐林木的数量是构成犯罪的关键，而自首、认罪态度和生态修复措施则可能影响量刑的轻重。\n\n#####\n类似案件为：\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。\n【（2020）粤0222刑初48号】：法院认为，被告人张光耀违反森林法的规定，滥伐林木数量35.7立方米，数量较大，构成滥伐林木罪。鉴于张光耀系自首，初犯，认罪认罚，决定对其从轻处罚并适用缓刑。被告人张光耀犯滥伐林木罪，判处拘役五个月，缓刑十个月，并处罚金人民币五千元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效后十日内向本院缴交。）\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。",
+            "林权争议期间擅自砍伐林木的刑事责任认定": "### 结论\n在林权争议期间擅自砍伐林木的刑事责任认定中，关键因素包括林木权属的争议状态、是否取得林木采伐许可证、砍伐林木的数量、行为人的主观意图、自首与认罪态度、赔偿与和解情况、以及行为对生态环境的影响。法院在判决时会综合考量这些因素，以确定是否构成滥伐林木罪或盗伐林木罪，以及量刑的轻重。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条**：规定了单位之间、个人之间或个人与单位之间发生的林木所有权和林地使用权争议的处理程序，强调在争议解决前，任何一方不得砍伐有争议的林木。\n- **《中华人民共和国刑法》第三百四十五条**：规定了盗伐林木罪和滥伐林木罪的构成要件和处罚。\n- **《中华人民共和国刑法》第三百四十四条**：规定了非法采伐、毁坏国家重点保护植物罪的构成要件和处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **林木权属争议**：在林木权属存在争议的情况下，擅自砍伐林木可能构成犯罪。例如，【（2022）沪0151民初78号】中，法院认为被告锯掉原告树木侵犯了原告的财产权利，应当承担赔偿责任。\n- **是否取得林木采伐许可证**：未取得林木采伐许可证擅自砍伐林木，数量较大的，构成滥伐林木罪。如【（2019）闽0783刑初23号】中，被告人余海荣未办理林木采伐许可手续，擅自砍伐林木，构成滥伐林木罪。\n- **砍伐林木的数量**：数量较大是构成滥伐林木罪的必要条件。【（2021）闽0824刑初25号】中，被告人魏富兴砍伐林木333株，折立木蓄积21.7414立方米，数量较大，构成滥伐林木罪。\n- **行为人的主观意图**：主观上为造林而无证采伐阔叶林，同时非法采伐国家重点保护植物，应择重罪处罚。【（2019）闽0783刑初19号】中，被告人吴玉明以非法占有为目的，擅自砍伐他人林木，构成盗伐林木罪。\n- **自首与认罪态度**：自首和认罪态度良好可从轻处罚。【（2019）粤1882刑初37号】中，被告人张某权自动投案，如实供述，认罪认罚，悔罪态度较好，依法从轻处罚。\n- **赔偿与和解情况**：与被害人达成和解协议，自愿赔偿损失，可从轻处罚。【（2019）闽0783刑初23号】中，被告人余海荣与被害人达成和解，赔偿损失，取得谅解，依法从轻处罚。\n- **行为对生态环境的影响**：滥伐林木破坏生态环境，行为人应承担侵权民事责任。【（2020）粤1882刑初206号】中，被告人杜民强滥伐林木，破坏生态环境，应承担相应刑事责任。\n\n综上，林权争议期间擅自砍伐林木的刑事责任认定，法院会综合考量林木权属争议状态、是否取得采伐许可证、砍伐数量、行为人主观意图、自首与认罪态度、赔偿与和解情况，以及对生态环境的影响，以确定是否构成犯罪及量刑轻重。\n\n#####\n类似案件为：\n【（2022）沪0151民初78号】：本院认为，公民合法财产受法律保护。原、被告作为多年邻居，面对纷争，应采取协商或正当途径解决。争议中，被告擅自锯掉原告树木，侵犯原告财产权，依法需承担赔偿责任。依据损坏事实及本地苗木价格，本院酌定原告损失。被告王育松于本判决生效之日起十日内赔偿原告张皆能榉榆树损失人民币500元。\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。\n【（2021）闽0824刑初25号】：法院认为，被告人魏富兴违反森林法规定，擅自砍伐其责任山场的林木，数量较大，其行为构成滥伐林木罪。被告人魏富兴具有自首、认罪认罚、预缴罚金、补植复绿等情节。一、被告人魏富兴犯滥伐林木罪，判处拘役三个月，缓刑五个月，并处罚金人民币3000元（已缴纳,由武平县公安局上缴国库）。\n （缓刑考验期限，从判决确定之日起计算。）\n 二、已扣押的作案工具柴刀、手工锯，予以没收，由武平县公安局依法处理。",
+            "滥伐林木罪中自首情节的认定标准": "### 结论\n滥伐林木罪中自首情节的认定，关键在于被告人是否主动投案并如实供述自己的罪行，以及在投案后是否存在逃避审查或继续犯罪的行为。主动投案后又逃跑的，不能认定为自首；在投案后如实供述主要犯罪事实，即使对犯罪数额的供述不精确，仍可认定为自首；在他人报案后明知被抓捕而留在现场，且被抓捕时行为服从，供认犯罪事实彻底的，可认定为自首。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主动投案并如实供述**：被告人主动投案，并在归案后如实供述自己的罪行，是自首认定的关键。例如，【（2019）粤0608刑初402号】中，被告人朱某主动投案，归案后能如实供述自己的犯罪事实，被认定为自首，依法予以减轻处罚。\n- **投案后逃跑**：被告人主动投案后，如果在取保候审期间逃避审查或继续犯罪，不能认定为自首。如【（2020）粤1322刑初60号】中，被告人胡启贵在取保候审期间多次传唤拒不到案，被认定为“自动投案后又逃跑”，不构成自首。\n- **他人报案后留在现场**：如果被告人明知他人报案后留在现场等待抓捕，且被抓捕时行为服从，供认犯罪事实彻底，可认定为自首。这一情况在案例中未直接提及，但根据自首的法理基础，应遵循主动性和自愿性原则，即被告人明知他人报案而留在现场等待抓捕，可视为自首。\n- **如实供述主要犯罪事实**：即使被告人对犯罪数额的供述不精确，但只要供述了主要犯罪事实，包括犯罪行为、时间、地点、手段等，仍可认定为自首。案例中未直接提及此点，但根据自首的法理基础，主要犯罪事实的供述是自首认定的关键。\n\n综上，自首的认定需综合考虑被告人是否主动投案、是否如实供述主要犯罪事实、投案后的行为表现等，其中主动投案并如实供述是核心要素，而投案后逃跑或继续犯罪则会否定自首的认定。\n\n#####\n类似案件为：\n【（2019）粤0608刑初402号】：法院认为，被告人朱某无视国家法律，违反森林法的规定，滥伐林木，数量巨大，其行为已构成滥伐林木罪。朱某主动投案，归案后能如实供述自己的犯罪事实，是自首，依法对其予以减轻处罚。被告人朱某犯滥伐林木罪，判处有期徒刑八个月,并处罚金人民币5000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月25日起至2019年8月24日止。罚金于本判决发生法律效力之日起30日内向本院缴纳）。\n【（2020）粤1322刑初60号】：法院认为，胡启贵违反森林法的规定，超过林木采伐许可证规定的数量采伐林木，超伐面积为138亩，林木蓄积达634.2立方米，属数量巨大，其行为已构成滥伐林木罪。胡启贵到案后如实供述自己的犯罪事实，且在庭审中自愿认罪，依法可从轻处罚。其曾有主动到案的情节，故从轻的幅度可予以适当从宽。被告人胡启贵犯滥伐林木罪，判处有期徒刑三年，并处罚金人民币50000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。2015年2月9日至2月16日被羁押八日，折抵刑期八日，即自2019年5月18日起至2022年5月9日止。罚金限在本判决发生法律效力后30日内向本院交纳，上缴国库)。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强调被告人明知山场存在权属争议仍擅自砍伐，主观故意明显 2.指出被告人未办理采伐许可证的行为直接违反森林法第17条规定 3.强调27.8460立方米的砍伐量已达到滥伐林木罪\"数量较大\"的立案标准 4.指出被告人虽签署复植补种协议但尚未实际履行，生态损害尚未弥补\n\n防御策略：1.所有证据均经法定程序收集，特别是林业部门出具的鉴定意见具有专业性和权威性 2.被告人对指控事实和证据均无异议，且自愿认罪认罚，印证证据真实性 3.复植补种协议虽已签订但未实际履行，不能减轻已造成的生态损害事实",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "中华人民共和国森林法第十七条"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在林木权属争议期间擅自砍伐林木的典型案例及判决结果",
+              "滥伐林木罪中自首情节对量刑的影响"
+            ],
+            "在林木权属争议期间擅自砍伐林木的典型案例及判决结果": "### 结论\n在林木权属争议期间擅自砍伐林木的案件中，法院通常会依据《中华人民共和国森林法》第十七条的规定，认定擅自砍伐行为违法，并根据《中华人民共和国行政许可法》第六十九条、《广西壮族自治区林木采伐管理办法》第三十九条等规定，撤销或中止林木采伐许可。对于构成犯罪的行为，依据《中华人民共和国刑法》第三百四十五条第二款的规定，以滥伐林木罪定罪处罚。同时，法院会考虑行为人的认罪态度、是否主动赔偿损失、是否采取补植复绿措施等因素，作为量刑的考量。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条**：规定在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。\n- **《中华人民共和国行政许可法》第六十九条**：规定有下列情形之一的，作出行政许可决定的行政机关或者其上级行政机关，根据利害关系人的请求或者依据职权，可以撤销行政许可。\n- **《广西壮族自治区林木采伐管理办法》第三十九条**：规定发放林木采伐许可证后出现林木、林地争议纠纷的，林木采伐许可证核发机关有权收缴林木采伐许可证，中止其采伐，直到纠正为止。\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定违反森林法的规定，滥伐林木，数量较大的，构成滥伐林木罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **林木权属争议**：在林木权属存在争议的情况下，任何一方不得擅自砍伐有争议的林木。例如，【（2020）桂14行终57号】中，法院认定在林木权属争议未解决之前，擅自砍伐林木的行为违法。\n- **行政许可的撤销或中止**：在林木权属争议期间，行政机关有权撤销或中止已发放的林木采伐许可证。如【（2020）桂0223行初75号】中，法院支持了行政机关撤销林木采伐许可证的决定。\n- **滥伐林木罪的认定**：对于擅自砍伐林木数量较大的行为，构成犯罪的，依据《中华人民共和国刑法》第三百四十五条第二款的规定，以滥伐林木罪定罪处罚。例如，【（2019）闽0783刑初23号】、【（2020）闽0703刑初47号】中，法院均以滥伐林木罪对被告人进行了定罪处罚。\n- **认罪态度、赔偿损失与补植复绿**：法院在量刑时会考虑行为人的认罪态度、是否主动赔偿损失、是否采取补植复绿措施等因素。如【（2019）闽0783刑初23号】、【（2020）闽0703刑初47号】、【（2019）闽0824刑初56号】中，法院均考虑了被告人的认罪态度、赔偿损失和补植复绿措施，作为从轻处罚的考量。\n\n综上，林木权属争议期间擅自砍伐林木的行为，不仅会受到行政处罚，构成犯罪的还将面临刑事处罚。法院在判决时会综合考虑行为的违法性、行政许可的合法性、犯罪的严重程度以及行为人的认罪态度、赔偿和补植复绿措施等因素。\n\n#####\n类似案件为：\n【（2020）桂14行终57号】：本院认为，个人之间发生林木所有权和林地使用权争议应由当地县政府或乡政府处理，本案中许炳梅和周文强就案涉林地使用权和林木所有权发生权属争议，但并无该林地和林木的权属经政府处理或确权的依据，故大新县公安局、崇左市公安局和一审法院认定案涉林木系周文强所有超越职权。但在林地、林木权属纠纷未解决前，当事人不得砍伐有争议的林木，许炳梅擅自砍伐案涉林木的行为明显违法，大新县公安局对其作出的行政处罚决定并无不妥，崇左市公安局维持该行政处罚决定亦正确。虽然存在超越职权认定林木所有权的问题，但处罚和判决结果正确。因此，许炳梅要求撤销一审判决、撤销崇左市公安局行政复议和大新县公安局行政处罚及要求大新县公安局承担赔偿责任的上诉请求不予支持。判决驳回上诉，维持原判。驳回上诉，维持原判。\n【（2020）桂0223行初75号】：本院认为，原鹿寨县林业局具有对林木采伐行政许可进行管理的法定职权，鹿寨县自然资源和规划局是本案适格被告。原告的起诉未超过起诉期限。被告作出的终止采伐决定事实清楚，仅程序违法，因决定作出后未依法送达原告，可能侵害其行使行政复议和诉讼权利，故确认该决定违法。但被诉行政行为与原告的损失无法律上的因果关系，原告主张被告承担赔偿责任不符合法律规定，不予支持。至于原告及第三人潘贤道主张因被告拒绝对已砍伐林木办理运输证导致的损失，因该行为发生在终止采伐决定之后，非本案审理范围，不予审查。综上，判决确认原鹿寨县林业局作出的终止林木采伐决定违法，驳回原告的其他诉讼请求。案件受理费由被告负担。一、确认原鹿寨县林业局作出的鹿林字〔2017〕53号《终止林木采伐决定书》违法；\n 二、驳回原告邓志强、黄建华的其他诉讼请求。\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。",
+            "滥伐林木罪中自首情节对量刑的影响": "### 结论\n在滥伐林木罪中，自首情节对量刑有显著影响，通常可以从轻或减轻处罚，且在被告人认罪认罚、有悔罪表现、犯罪情节较轻的情况下，适用缓刑的可能性较大。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是影响量刑的重要因素，法院通常会考虑自首情节对被告人从轻或减轻处罚。例如，【（2019）粤5322刑初73号】、【（2019）粤0229刑初154号】、【（2020）粤0224刑初2号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】、【（2020）粤1826刑初29号】、【（2024）粤0281刑初94号】、【（2019）粤1226刑初10号】、【（2020）闽0721刑初216号】等案例均提及自首情节对量刑的正面影响。\n- **认罪认罚**：被告人自愿认罪认罚，通常会作为从宽处理的依据。例如，【（2019）粤5322刑初73号】、【（2020）粤0224刑初2号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】、【（2020）粤1826刑初29号】、【（2024）粤0281刑初94号】等案例均提及认罪认罚对量刑的正面影响。\n- **适用缓刑**：在被告人犯罪情节较轻、有悔罪表现的情况下，适用缓刑的可能性较大。例如，【（2019）粤5322刑初73号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】等案例均提及适用缓刑的条件。\n\n综上，自首、认罪认罚、犯罪情节较轻、有悔罪表现等因素是影响滥伐林木罪量刑的关键因素，法院在量刑时会综合考虑这些因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n#####\n类似案件为：\n【（2019）粤5322刑初73号】：法院认为，陆某某的行为构成滥伐林木罪，有自首情节，依法可以从轻处罚。鉴于其认罪认罚，有悔罪表现，适用缓刑不会对其居住社区产生重大不良影响。据此，法院采纳公诉机关的量刑建议，判处陆某某有期徒刑一年，缓刑一年，并处罚金40000元。被告人陆某某犯滥伐林木罪，判处有期徒刑一年，缓刑一年，并处罚金40000元。（缓刑考验期限从判决确定之日起计算。罚金在本判决发生法律效力之日起十日内向本院缴纳。）\n【（2019）粤0229刑初154号】：法院认为，被告人丘尚英违反森林法规定，在采伐许可证规定范围外，采伐林木，数量巨大，其行为已构成滥伐林木罪。被告人有自首情节，依法可以从轻或减轻处罚。被告人雇请的工人实施滥伐林木，被告人知情，承担责任。被告人交纳林款及家庭情况非法定从轻理由。林场是否有过错不影响定罪量刑，滥伐林木数量巨大，不宜适用缓刑。被告人丘尚英犯滥伐林木罪，判处有期徒刑二年四个月，并处罚金人民币二万元。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年11月21日起至2021年3月20日止。罚金限在本判决发生法律效力的第二日起十日内缴纳。）\n【（2020）粤0224刑初2号】：法院认为，被告人黄忠新的行为已构成滥伐林木罪，具有自首、认罪认罚从宽处罚情节。被告人黄忠新自动投案，如实供述其罪行，属自首，可以从轻或减轻处罚；其自愿认罪认罚，亦可从宽处理。另外涉案山场现已种植杉树造林，量刑时可予以考虑。被告人黄忠新犯滥伐林木罪，判处有期徒刑八个月，并处罚金人民币4000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月23日起至2020年6月22日止；罚金限其于本判决生效之日起十日内向本院缴纳。）"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的林权证明仅能证明存在争议，但无法证明被告人明知权属争议状态且故意违法2.证人证言中关于\"听说\"等间接证据证明力不足，缺乏直接证据证明被告人主观恶意3.检尺结算单等技术鉴定未说明具体测量方法和误差范围，可能存在计算偏差\n防御策略：1.被告人主动投案并如实供述全部事实，构成法定自首情节2.已签订复植补种协议并做好补种准备，积极弥补生态损失3.砍伐的是自己亲手种植并长期管理的林木，主观恶性较小4.被告人系初犯且无前科劣迹，社会危害性低5.认罪认罚态度良好，愿意缴纳罚金，具有悔罪表现",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪中自首情节的认定标准",
+              "滥伐自己种植的林木是否可以从轻处罚"
+            ],
+            "滥伐林木罪中自首情节的认定标准": "### 结论\n滥伐林木罪中自首情节的认定，关键在于被告人是否主动投案并如实供述自己的罪行，以及在投案后是否存在逃避审查或继续犯罪的行为。主动投案后又逃跑的，不能认定为自首；在投案后如实供述主要犯罪事实，即使对犯罪数额的供述不精确，仍可认定为自首；在他人报案后明知被抓捕而留在现场，且被抓捕时行为服从，供认犯罪事实彻底的，可认定为自首。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主动投案并如实供述**：被告人主动投案，并在归案后如实供述自己的罪行，是自首认定的关键。例如，【（2019）粤0608刑初402号】中，被告人朱某主动投案，归案后能如实供述自己的犯罪事实，被认定为自首，依法予以减轻处罚。\n- **投案后逃跑**：被告人主动投案后，如果在取保候审期间逃避审查或继续犯罪，不能认定为自首。如【（2020）粤1322刑初60号】中，被告人胡启贵在取保候审期间多次传唤拒不到案，被认定为“自动投案后又逃跑”，不构成自首。\n- **他人报案后留在现场**：如果被告人明知他人报案后留在现场等待抓捕，且被抓捕时行为服从，供认犯罪事实彻底，可认定为自首。这一情况在案例中未直接提及，但根据自首的法理基础，应遵循主动性和自愿性原则，即被告人明知他人报案而留在现场等待抓捕，可视为自首。\n- **如实供述主要犯罪事实**：即使被告人对犯罪数额的供述不精确，但只要供述了主要犯罪事实，包括犯罪行为、时间、地点、手段等，仍可认定为自首。案例中未直接提及此点，但根据自首的法理基础，主要犯罪事实的供述是自首认定的关键。\n\n综上，自首的认定需综合考虑被告人是否主动投案、是否如实供述主要犯罪事实、投案后的行为表现等，其中主动投案并如实供述是核心要素，而投案后逃跑或继续犯罪则会否定自首的认定。\n\n#####\n类似案件为：\n【（2019）粤0608刑初402号】：法院认为，被告人朱某无视国家法律，违反森林法的规定，滥伐林木，数量巨大，其行为已构成滥伐林木罪。朱某主动投案，归案后能如实供述自己的犯罪事实，是自首，依法对其予以减轻处罚。被告人朱某犯滥伐林木罪，判处有期徒刑八个月,并处罚金人民币5000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年12月25日起至2019年8月24日止。罚金于本判决发生法律效力之日起30日内向本院缴纳）。\n【（2020）粤1322刑初60号】：法院认为，胡启贵违反森林法的规定，超过林木采伐许可证规定的数量采伐林木，超伐面积为138亩，林木蓄积达634.2立方米，属数量巨大，其行为已构成滥伐林木罪。胡启贵到案后如实供述自己的犯罪事实，且在庭审中自愿认罪，依法可从轻处罚。其曾有主动到案的情节，故从轻的幅度可予以适当从宽。被告人胡启贵犯滥伐林木罪，判处有期徒刑三年，并处罚金人民币50000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。2015年2月9日至2月16日被羁押八日，折抵刑期八日，即自2019年5月18日起至2022年5月9日止。罚金限在本判决发生法律效力后30日内向本院交纳，上缴国库)。",
+            "滥伐自己种植的林木是否可以从轻处罚": "### 结论\n滥伐自己种植的林木，如果被告人认罪认罚，积极缴纳补植复绿保证金，并承诺按受损林木倍数补种树木用于生态修复，可以从轻处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件及处罚。\n- **《中华人民共和国刑法》第六十七条第一款**：规定自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第七十二条第一款**：规定适用缓刑的条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚态度**：被告人认罪认罚，主动投案，如实供述自己的罪行，可以从轻处罚。例如，【（2019）粤1882刑初227号】、【（2019）粤0111刑初1266号】、【（2020）浙0122刑初170号】，这些案例中被告人均因认罪认罚而获得从轻处罚。\n- **补植复绿**：被告人积极缴纳补植复绿保证金，承诺按受损林木倍数补种树木用于生态修复，可从轻处罚。例如，【（2019）粤0111刑初1266号】中，被告吴建及东某公司因补种林木并承诺抚育管护一年而获得从轻处罚。\n- **自首情节**：被告人犯罪后自动投案，如实供述自己的罪行，可以从轻处罚。例如，【（2020）浙0122刑初170号】、【（2019）京0102刑初311号】、【（2020）粤0229刑初66号】，这些案例中被告人均因自首而获得从轻处罚。\n\n综上，被告人认罪认罚、补植复绿、自首等情节均是法院在滥伐林木罪案件中考虑从轻处罚的重要因素。如果被告人能够积极采取措施修复生态环境，法院通常会给予从轻处罚，甚至适用缓刑。\n\n#####\n类似案件为：\n【（2019）粤1882刑初227号】：法院认为，被告人盘某成的行为构成滥伐林木罪，其自首并认罪认罚，依法可以从轻处罚。可在接到判决书的第二日起十日内，通过本院或者直接向清远市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n【（2019）粤0111刑初1266号】：法院认为，吴建违反国家法律规定，滥伐林木数量较大，构成滥伐林木罪，鉴于其自首，可从轻处罚。一、被告人吴建犯滥伐林木罪，判处有期徒刑六个月，缓刑一年，并处罚金二千元。（缓刑考验期限从判决确定之日起计算。罚金自本判决生效第二日起五日内缴纳。）\n二、于本判决生效之日起，被告吴建、广州东丰实业投资有限公司按照《城市绿地设计规范》（GB50420-2007）的要求在本市白云区山围墙内已砍伐林木的范围内补种林木、恢复绿化，并按《园林绿化养护管理技术规范》对补种的林木抚育管护一年（管护时间从补种林木验收合格之日起计算。）\n三、于本判决生效之日起六十日内，被告吴建、广州东丰实业投资有限公司按照《造林技术规程》（GB/T15776-2016）的要求在白云区公益林补种林木72株，并对补种的林木抚育管护一年（管护时间从补种的林木经验收合格之日起计算）。\n四、于本判决生效之日起六十日内，被告吴建、广州东丰实业投资有限公司以口头或书面形式在公开场合就滥伐林木的行为道歉（内容需经本院审核）；如逾期不履行上述义务，则本院将在《人民法院报》刊登本判决主要内容，费用由被告吴建、广州东丰实业投资有限公司承担。\n【（2020）浙0122刑初170号】：法院认为，吕根花违反森林法的规定，滥伐林木，数量较大，其行为构成滥伐林木罪。鉴于吕根花有自首情节，自愿认罪认罚，予以从轻处罚。采纳辩护人从轻处罚的意见，决定对吕根花判处有期徒刑一年，缓刑一年，并处罚金五千元。被告人吕根花犯滥伐林木罪，判处有期徒刑一年，缓刑一年，并处罚金人民币五千元。\n （缓刑考验期限从判决确定之日起计算，罚金限判决生效后十日内缴清）。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人主动投案并如实供述，构成自首情节，依法可从轻处罚 2.已签订复植补种协议，积极采取补救措施弥补生态损失 3.砍伐的是自己早年种植的林木，主观恶性较小 4.被告人系初犯，无前科劣迹 5.认罪认罚态度良好，愿意缴纳罚金 6.林权争议期间采伐行为虽不当但非恶意侵占他人财产",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人肖某是否构成滥伐林木罪。查明情况：被告人承认在明知林权存在争议且未取得采伐许可证的情况下砍伐杉木，符合滥伐林木罪的构成要件。控辩双方对此无异议，审判长认为罪名成立。\n\n2.被砍伐林木的数量是否达到\"数量较大\"的立案标准。查明情况：林业技术鉴定认定立木蓄积27.8460立方米，被告人对此无异议。该数量远超10立方米的立案标准，审判长确认已达到\"数量较大\"标准。\n\n3.被告人肖某的主动投案行为是否构成自首。查明情况：被告人系在调查期间主动到林业派出所说明情况，如实供述犯罪事实，符合自首条件。控辩双方无异议，审判长认定自首成立。\n\n4.复植补种协议的履行情况及量刑影响。查明情况：被告人已签订协议但尚未完全履行，承诺在2019年5月1日前完成补种。审判长认为该情节可作为酌定从轻处罚依据，但需监督后续履行情况。\n\n5.被告人认罪认罚的自愿性和真实性。查明情况：被告人对指控事实和证据完全认同，自愿认罪认罚。控辩双方无异议，审判长确认其认罪认罚真实有效。\n\n6.量刑情节的综合考量。查明情况：被告人具有自首、认罪认罚、签订补种协议等从轻情节，无加重情节。审判长认为可依法从轻处罚。\n\n7.罚金刑的确定标准。查明情况：需结合当地经济水平和被告人经济状况确定。目前双方未就此充分讨论，审判长认为需进一步明确。\n\n8.缓刑适用的可行性评估。查明情况：被告人犯罪情节较轻，悔罪表现良好，再犯可能性低。审判长认为符合缓刑适用条件，但需结合具体刑期考量。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪中'数量较大'的具体认定标准",
+              "林权争议期间擅自砍伐林木的司法认定"
+            ],
+            "滥伐林木罪中'数量较大'的具体认定标准": "### 结论\n滥伐林木罪中'数量较大'的具体认定标准在不同地区和案例中有所差异，但通常涉及林木的立木蓄积量或株数。根据相关案例，数量较大的认定标准可以参考以下几点：滥伐林木数量较大通常指立木蓄积量在10立方米以上或者幼树500株以上，但具体标准可能因地区差异而有所不同。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件，包括未取得林木采伐许可证而滥伐林木，数量较大的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **滥伐林木的数量**：数量较大的认定是滥伐林木罪的关键因素。例如，【（2019）浙1121刑初226号】中，被告人滥伐林木数量较大，构成滥伐林木罪。【（2019）闽0802刑初218号】中，被告单位滥伐松、杂幼树计4449株，立木蓄积计29.87立方米，数量较大，构成滥伐林木罪。这些案例表明，数量较大的认定通常涉及立木蓄积量和株数。\n- **自首和认罪认罚**：自首和认罪认罚是影响量刑的重要因素。例如，【（2019）浙1121刑初226号】、【（2019）闽0802刑初218号】、【（2020）粤0222刑初48号】中，被告人主动投案并如实供述自己的罪行，构成自首，依法可以从轻处罚。【（2020）苏0682刑初4号】、【（2019）浙1082刑初653号】中，被告人自愿认罪认罚，依法可以从宽处理。\n- **生态修复和退赃**：采取生态修复措施和退赃也是影响量刑的因素。例如，【（2019）浙1121刑初226号】、【（2019）闽0802刑初218号】、【（2019）浙1082刑初653号】中，被告人采取“补植复绿”措施恢复生态，退缴赃款，均酌情予以从轻处罚。\n\n综上，滥伐林木罪中'数量较大'的具体认定标准涉及林木的立木蓄积量或株数，自首、认罪认罚、生态修复和退赃等情节对量刑有重要影响。\n\n#####\n类似案件为：\n【（2019）浙1121刑初226号】：法院认为，六被告人在未取得林木采伐许可证的情况下滥伐林木，数量较大，构成滥伐林木罪。廖正德、廖玉琴、廖松南、陈小灵、陈肖红、邱木标有自首情节，可从轻处罚；廖正德犯罪时已满75岁，可从轻处罚；五被告人认罪认罚，交纳生态修复费用，退出赃款，从轻处罚。一、被告人廖正德犯滥伐林木罪，判处有期徒刑一年三个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金6000元；\n 二、被告人廖玉琴犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 三、被告人廖松南犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 四、被告人陈小灵犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 五、被告人陈肖红犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 六、被告人邱木标犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 七、被告人廖正德退出的赃款50000元，予以没收，上缴国库；\n 八、被告人廖玉琴、廖松南、陈小灵、陈肖红、邱木标共同退出的违法所得5000元，予以没收，上缴国库。\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。\n【（2019）浙1121刑初226号】：法院认为，六被告人在未取得林木采伐许可证的情况下滥伐林木，数量较大，构成滥伐林木罪。廖正德、廖玉琴、廖松南、陈小灵、陈肖红、邱木标有自首情节，可从轻处罚；廖正德犯罪时已满75岁，可从轻处罚；五被告人认罪认罚，交纳生态修复费用，退出赃款，从轻处罚。一、被告人廖正德犯滥伐林木罪，判处有期徒刑一年三个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金6000元；\n 二、被告人廖玉琴犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 三、被告人廖松南犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 四、被告人陈小灵犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 五、被告人陈肖红犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 六、被告人邱木标犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 七、被告人廖正德退出的赃款50000元，予以没收，上缴国库；\n 八、被告人廖玉琴、廖松南、陈小灵、陈肖红、邱木标共同退出的违法所得5000元，予以没收，上缴国库。",
+            "林权争议期间擅自砍伐林木的司法认定": "### 结论\n在林权争议期间擅自砍伐林木的司法认定中，关键因素包括林木所有权的争议状态、砍伐行为的合法性、林木的性质（如是否为国家重点保护植物）、砍伐数量、行为人的主观意图、以及是否造成生态环境损害。法院通常会根据《中华人民共和国森林法》及相关条例，综合考量上述因素，判断行为是否构成犯罪，以及确定相应的法律责任。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条第二款**：个人之间、个人与单位之间发生的林木所有权和林地使用权争议，由当地县级或者乡级人民政府依法处理。\n- **《中华人民共和国森林法》第十七条第四款**：在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。\n- **《中华人民共和国森林法》第二十条**：规定了林木所有权的归属原则。\n- **《中华人民共和国森林法》第二十二条第四款**：在林木、林地权属争议解决前，除特定情况外，当事人任何一方不得砍伐有争议的林木或者改变林地现状。\n- **《中华人民共和国行政诉讼法》第三十四条**：被告对作出的行政行为负有举证责任。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **林木所有权的争议状态**：法院认为，在林木所有权存在争议的情况下，任何一方不得擅自砍伐林木。例如，【（2020）桂14行终57号】中，法院指出在林木权属争议未解决前，当事人擅自砍伐林木的行为违法。\n- **砍伐行为的合法性**：如果行为人在未办理林木采伐许可手续的情况下砍伐林木，可能构成滥伐林木罪。如【（2019）闽0783刑初23号】中，被告人因未办理许可手续擅自砍伐林木，被认定构成滥伐林木罪。\n- **林木的性质**：砍伐国家重点保护植物将受到更严厉的处罚。如【（2021）闽0783刑初117号】中，被告人因擅自砍伐他人所有的林木，构成盗伐林木罪。\n- **砍伐数量**：数量较大的砍伐行为可能构成犯罪。如【（2019）闽0783刑初19号】中，被告人因砍伐数量较大的他人所有林木，被认定构成盗伐林木罪。\n- **行为人的主观意图**：行为人的主观意图也会影响定罪量刑。如【（2020）浙0122刑初228号】中，被告人关于砍伐林木的陈述被法院认为不符合常理，影响了对其行为性质的认定。\n- **是否造成生态环境损害**：如果砍伐行为导致生态环境损害，行为人可能需要承担生态环境修复责任。如【（2022）沪0151民初78号】中，被告因锯掉原告树木，侵犯了原告合法的财产权利，依法应当承担赔偿责任。\n\n综上，林权争议期间擅自砍伐林木的司法认定，法院会综合考量林木所有权争议状态、砍伐行为合法性、林木性质、砍伐数量、行为人主观意图以及是否造成生态环境损害等因素，以确定行为的法律责任。\n\n#####\n类似案件为：\n【（2020）桂14行终57号】：本院认为，个人之间发生林木所有权和林地使用权争议应由当地县政府或乡政府处理，本案中许炳梅和周文强就案涉林地使用权和林木所有权发生权属争议，但并无该林地和林木的权属经政府处理或确权的依据，故大新县公安局、崇左市公安局和一审法院认定案涉林木系周文强所有超越职权。但在林地、林木权属纠纷未解决前，当事人不得砍伐有争议的林木，许炳梅擅自砍伐案涉林木的行为明显违法，大新县公安局对其作出的行政处罚决定并无不妥，崇左市公安局维持该行政处罚决定亦正确。虽然存在超越职权认定林木所有权的问题，但处罚和判决结果正确。因此，许炳梅要求撤销一审判决、撤销崇左市公安局行政复议和大新县公安局行政处罚及要求大新县公安局承担赔偿责任的上诉请求不予支持。判决驳回上诉，维持原判。驳回上诉，维持原判。\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。\n【（2021）闽0783刑初117号】：法院认为，被告人罗义焕以非法占有为目的，擅自砍伐林权属他人所有的林木，数量较大，其行为已构成盗伐林木罪。鉴于罗义焕具有自首情节，认罪态度较好，法院决定对其从轻处罚。一、被告人罗义焕犯盗伐林木罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币9000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳。）\n 二、被告人罗义焕的违法所得款1000元，予以没收，上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强调被告人明知山场存在权属争议仍擅自砍伐，主观故意明显，违反《森林法》第17条规定 2.指出27.8460立方米的砍伐量已达到滥伐林木罪\"数量较大\"的立案标准 3.说明被告人虽签署复植补种协议但尚未实际履行，生态损害尚未弥补 4.指出被告人未办理采伐许可证的行为直接违反法律规定，具有违法性\n\n防御策略：1.所有证据均经法定程序收集，特别是林业部门出具的鉴定意见具有专业性和权威性 2.被告人对指控事实和证据均无异议，且自愿认罪认罚，印证证据真实性 3.证人证言与被告人供述相互印证，形成完整证据链",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国森林法第十七条",
+              "中华人民共和国刑法第三百四十五条"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在权属争议未解决前砍伐林木的典型案例",
+              "滥伐林木罪中'数量较大'的认定标准"
+            ],
+            "在权属争议未解决前砍伐林木的典型案例": "### 结论\n在权属争议未解决前砍伐林木的典型案例中，法院通常会依据《中华人民共和国森林法》第十七条第四款和《广西壮族自治区土地山林水利权属纠纷调解处理条例》第六条第一款的规定，认定在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。若当事人擅自砍伐争议林木，其行为将被视为违法，且可能面临行政处罚或承担赔偿责任。同时，法院强调，林木采伐许可证的核发机关在发现林木存在权属争议时，有权收缴林木采伐许可证并中止采伐，直至争议解决。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条第四款**：在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。\n- **《广西壮族自治区土地山林水利权属调解处理条例》第六条第一款**：在土地山林水利权属纠纷解决之前，权属纠纷当事人不得单方改变纠纷范围内的土地、山林、水利利用现状，不得毁坏农作物、经济作物、附着物和水利设施等，不得砍伐有争议的林木。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **林木、林地权属争议**：在权属争议未解决前，任何一方不得擅自砍伐争议林木。例如，【（2020）桂14行终57号】中，法院指出在林地、林木权属纠纷未解决之前，权属纠纷当事人不得砍伐有争议的林木，否则应依据有关法律进行处理。\n- **林木采伐许可证的管理**：林木采伐许可证的核发机关在发现林木存在权属争议时，有权收缴林木采伐许可证并中止采伐，直至争议解决。例如，【（2020）桂14行终17号】中，法院认为扶绥县林业局在认定林地、林木存在权属争议后，应收缴林木采伐许可证并中止采伐，但其仅作出暂停发放木材运输证的决定，未达到法律规定的目的。\n- **擅自砍伐争议林木的法律责任**：擅自砍伐争议林木的当事人可能面临行政处罚或承担赔偿责任。例如，【（2020）桂14行终57号】中，法院认定许炳梅擅自砍伐案涉林木的行为明显违法，大新县公安局对其作出的行政处罚决定并无不妥。\n\n综上，林木、林地权属争议未解决前，任何一方不得擅自砍伐争议林木，否则将承担相应的法律责任。林木采伐许可证的核发机关在发现林木存在权属争议时，有权采取措施中止采伐，直至争议解决。\n\n#####\n类似案件为：\n【（2020）桂14行终57号】：本院认为，个人之间发生林木所有权和林地使用权争议应由当地县政府或乡政府处理，本案中许炳梅和周文强就案涉林地使用权和林木所有权发生权属争议，但并无该林地和林木的权属经政府处理或确权的依据，故大新县公安局、崇左市公安局和一审法院认定案涉林木系周文强所有超越职权。但在林地、林木权属纠纷未解决前，当事人不得砍伐有争议的林木，许炳梅擅自砍伐案涉林木的行为明显违法，大新县公安局对其作出的行政处罚决定并无不妥，崇左市公安局维持该行政处罚决定亦正确。虽然存在超越职权认定林木所有权的问题，但处罚和判决结果正确。因此，许炳梅要求撤销一审判决、撤销崇左市公安局行政复议和大新县公安局行政处罚及要求大新县公安局承担赔偿责任的上诉请求不予支持。判决驳回上诉，维持原判。驳回上诉，维持原判。\n【（2020）桂14行终17号】：本院认为，公民取得林木采伐许可证进行采伐时，如许可采伐的林木存在权属争议，应由发证机关收缴林木采伐许可证并中止采伐。扶绥县林业局认定涉案林木存在权属争议，却仅暂停发放木材运输证，未收缴林木采伐许可证，也未通知中止采伐，程序违法，适用法律错误。关于赔偿问题，因涉案林木权属不明，未确定是否为李春红的合法权益，故李春红的赔偿主张于法无据。综上，一审判决确认扶绥县林业局《暂停发放木材运输证的通知》违法并无不当，李春红的上诉请求无事实和法律依据，予以驳回，维持原判。驳回上诉，维持原判。\n【（2020）桂14行终57号】：本院认为，个人之间发生林木所有权和林地使用权争议应由当地县政府或乡政府处理，本案中许炳梅和周文强就案涉林地使用权和林木所有权发生权属争议，但并无该林地和林木的权属经政府处理或确权的依据，故大新县公安局、崇左市公安局和一审法院认定案涉林木系周文强所有超越职权。但在林地、林木权属纠纷未解决前，当事人不得砍伐有争议的林木，许炳梅擅自砍伐案涉林木的行为明显违法，大新县公安局对其作出的行政处罚决定并无不妥，崇左市公安局维持该行政处罚决定亦正确。虽然存在超越职权认定林木所有权的问题，但处罚和判决结果正确。因此，许炳梅要求撤销一审判决、撤销崇左市公安局行政复议和大新县公安局行政处罚及要求大新县公安局承担赔偿责任的上诉请求不予支持。判决驳回上诉，维持原判。驳回上诉，维持原判。",
+            "滥伐林木罪中'数量较大'的认定标准": "### 结论\n滥伐林木罪中'数量较大'的认定标准通常依据《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》中的规定，具体数量标准可能因地区差异而有所不同，但一般情况下，滥伐林木数量达到10立方米以上或者幼树500株以上，即可认定为'数量较大'。\n\n### 核心法条\n- **《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》第6条**：滥伐林木'数量较大'，以10至20立方米或者幼树500至1000株为起点；滥伐林木'数量巨大'，以50至100立方米或者幼树2500至5000株为起点。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **滥伐林木的数量**：数量是认定滥伐林木罪'数量较大'的关键因素。例如，【（2019）闽0802刑初218号】中，被告单位滥伐松、杂幼树计4449株，松、杂立木蓄积计29.87立方米，数量较大，构成滥伐林木罪。\n- **是否办理林木采伐许可证**：未办理林木采伐许可证是构成滥伐林木罪的必要条件。如【（2020）桂07刑终91号】中，被告人韦某寿因未取得林木采伐许可证而砍伐林木，数量巨大，构成滥伐林木罪。\n- **自首和认罪态度**：自首和认罪态度是量刑时的重要考量因素。如【（2020）粤0222刑初48号】中，被告人张光耀因自首和认罪认罚，法院决定对其从轻处罚并适用缓刑。\n- **生态修复措施**：采取生态修复措施，如补植复绿，可以作为从轻处罚的考量因素。如【（2019）闽0802刑初218号】中，被告单位及被告人采取“补植复绿”措施恢复生态，酌情予以从轻处罚。\n\n综上，滥伐林木罪的认定和量刑主要考虑滥伐林木的数量、是否办理林木采伐许可证、自首和认罪态度以及是否采取生态修复措施等因素。其中，滥伐林木的数量是构成犯罪的关键，而自首、认罪态度和生态修复措施则可能影响量刑的轻重。\n\n#####\n类似案件为：\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。\n【（2020）粤0222刑初48号】：法院认为，被告人张光耀违反森林法的规定，滥伐林木数量35.7立方米，数量较大，构成滥伐林木罪。鉴于张光耀系自首，初犯，认罪认罚，决定对其从轻处罚并适用缓刑。被告人张光耀犯滥伐林木罪，判处拘役五个月，缓刑十个月，并处罚金人民币五千元。\n（缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效后十日内向本院缴交。）\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑证人证言中关于\"听说\"等间接证据的证明力不足2.指出林权证明仅能证明存在争议，无法直接证明被告人主观故意3.强调检尺结算单等技术鉴定未说明具体测量方法和误差范围，可能存在计算偏差\n防御策略：1.强调被告人主动投案并如实供述，构成法定自首情节2.指出被告人已签订复植补种协议并做好补种准备，积极弥补生态损失3.说明被告人砍伐的是自己亲手种植并长期管理的林木，主观恶性较小4.强调被告人系初犯且无前科劣迹，社会危害性低5.指出被告人认罪认罚态度良好，愿意缴纳罚金，具有悔罪表现",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释"
+            ],
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在林木权属争议期间擅自砍伐自己种植的林木如何定性",
+              "滥伐林木罪中主观故意的认定标准"
+            ],
+            "在林木权属争议期间擅自砍伐自己种植的林木如何定性": "### 结论\n在林木权属争议期间擅自砍伐自己种植的林木，若该林木位于争议地且权属未明确，擅自砍伐的行为可能构成滥伐林木罪或故意毁坏财物罪，具体定性需根据林木权属的争议情况、砍伐林木的数量、是否办理采伐许可手续以及是否造成他人财产损失等因素综合判断。\n\n### 核心法条\n- **《中华人民共和国森林法》第十七条第四款**：在林木、林地权属争议解决以前，任何一方不得砍伐有争议的林木。\n- **《中华人民共和国民法典》第二百六十六条**：私人对其合法的收入、房屋、生活用品、生产工具、原材料等不动产和动产享有所有权。\n- **《中华人民共和国森林法》第二十条**：农村居民在房前屋后、自留地、自留山种植的林木，归个人所有。城镇居民在自有房屋的庭院内种植的林木，归个人所有。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **林木权属争议**：在林木权属存在争议的情况下，擅自砍伐林木可能构成犯罪。例如，【（2020）桂14行终57号】中，上诉人许炳梅在林木权属争议未解决前擅自砍伐林木，被认定为违法行为。\n- **林木所有权**：若林木所有权明确，擅自砍伐他人林木构成故意毁坏财物罪。如【（2021）粤09民终1994号】中，上诉人李成来砍伐被上诉人李大才种植的三华李果树，构成侵权，需承担赔偿责任。\n- **采伐许可手续**：未办理林木采伐许可手续擅自砍伐林木，数量较大时，构成滥伐林木罪。如【（2019）闽0783刑初23号】中，被告人余海荣未办理采伐许可手续，擅自砍伐林木，构成滥伐林木罪。\n- **自首与赔偿**：案发后主动投案、如实供述、赔偿损失，可从轻处罚。如【（2019）闽0783刑初23号】中，被告人余海荣主动投案并赔偿，获得从轻处罚。\n- **社区监管与帮教措施**：落实社区监管、帮教措施，可作为缓刑考虑因素。如【（2019）闽0723刑初14号】中，被告人傅兴才的量刑建议中考虑了其自愿“复植补种”的悔罪行为。\n\n综上，擅自砍伐林木的定性需综合考虑林木权属争议情况、所有权归属、是否办理采伐许可、自首与赔偿情况以及社区监管措施等因素。在权属争议未解决前擅自砍伐，可能构成犯罪；若林木所有权明确，擅自砍伐构成侵权；未办理采伐许可擅自砍伐，数量较大时构成滥伐林木罪。自首、赔偿和社区监管措施可作为从轻处罚的考量因素。\n\n#####\n类似案件为：\n【（2020）桂14行终57号】：本院认为，个人之间发生林木所有权和林地使用权争议应由当地县政府或乡政府处理，本案中许炳梅和周文强就案涉林地使用权和林木所有权发生权属争议，但并无该林地和林木的权属经政府处理或确权的依据，故大新县公安局、崇左市公安局和一审法院认定案涉林木系周文强所有超越职权。但在林地、林木权属纠纷未解决前，当事人不得砍伐有争议的林木，许炳梅擅自砍伐案涉林木的行为明显违法，大新县公安局对其作出的行政处罚决定并无不妥，崇左市公安局维持该行政处罚决定亦正确。虽然存在超越职权认定林木所有权的问题，但处罚和判决结果正确。因此，许炳梅要求撤销一审判决、撤销崇左市公安局行政复议和大新县公安局行政处罚及要求大新县公安局承担赔偿责任的上诉请求不予支持。判决驳回上诉，维持原判。驳回上诉，维持原判。\n【（2021）粤09民终1994号】：本院认为，焦点在于上诉人李成来砍伐被上诉人李大才种植的三华李果树是否应承担赔偿责任。李成来虽主张土地使用权争议，但对争议地上三华李树由李大才种植无异议，故李大才对该果树享有所有权。李成来私自砍伐果树，构成侵权，依据《中华人民共和国民法典》第二百八十三条，李大才有权请求赔偿。一审法院委托评估报告认定损失为9470元，李成来未申请复议，应认可该评估。一审判决赔偿处理正确，应予维持。上诉人李成来上诉理由不成立，一审判决事实清楚，适用法律正确，应予维持。驳回上诉，维持原判。\n【（2019）闽0783刑初23号】：法院认为，被告人余海荣在未办理许可手续的情况下，擅自砍伐林权存在争议的林木，数量较大，其行为构成滥伐林木罪；其烧毁他人种植的苗木，数额较大，构成故意毁坏财物罪。余海荣有自首、赔偿被害人损失、前科等情节，对其判处缓刑。一、被告人余海荣犯滥伐林木罪，判处有期徒刑六个月，并处罚金30000元；犯故意毁坏财物罪，判处有期徒刑六个月；数罪并罚，决定执行有期徒刑十个月，缓刑一年，并处罚金30000元。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效之日缴纳）。\n 二、被告人余海荣滥伐林木的折价款7400.38元，予以没收，由扣押机关依法处理。",
+            "滥伐林木罪中主观故意的认定标准": "### 结论\n滥伐林木罪的主观故意认定需结合行为人对林木的认知能力、是否具有林木行业工作经验、是否明知采伐林木需经林业主管部门许可、是否放任超范围或超数量采伐林木等因素综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人对林木的认知能力**：行为人是否具有林木行业工作经验，是否熟知当地林木采伐的法律法规，如【（2021）闽0802刑初628号】中，被告人苏钦将影响毛竹生产的林木砍掉，未区分树种，按一般树种价格出售，法院认定其对采伐国家二级保护植物闽楠在主观上并非明知。\n- **是否明知采伐林木需经林业主管部门许可**：如【（2019）京0102刑初207号】中，被告人韩玉红、张少丰、李振违反国家法律规定，滥伐林木，数量巨大，法院认定其行为构成滥伐林木罪。\n- **是否放任超范围或超数量采伐林木**：如【（2020）粤1882刑初14号】中，被告人廖日强、肖建伟在未取得林木采伐许可证的情况下，雇请民工擅自采伐承包山林的林木，数量巨大，法院认定其行为构成滥伐林木罪。\n- **自首和认罪态度**：如【（2019）鲁0214刑初70号】中，被告人闫俊昌、张子海到案后均如实供述自己的罪行，且自愿认罪认罚，法院可从轻处罚。\n\n综上，滥伐林木罪的主观故意认定需综合考虑行为人的行业经验、对法律法规的了解、是否明知无证采伐的违法性以及是否放任超范围或超数量采伐林木的行为，同时自首和认罪态度也是影响量刑的重要因素。\n\n#####\n类似案件为：\n【（2021）闽0802刑初628号】：法院认为，苏钦违反森林法规，滥伐林木，数量较大，构成滥伐林木罪。非法采伐、毁坏国家重点保护植物罪的主观方面须由故意构成，苏钦对砍伐闽楠非故意，故不构成危害国家重点保护植物罪。一、被告人苏钦犯滥伐林木罪，判处拘役五个月，并处罚金人民币二千元（限于判决生效之日起一个月内缴清）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年4月16日起至2021年9月15日止）。\n二、追缴被告人苏钦赃款人民币5160元，予以没收，上缴国库。\n三、被告人苏钦犯罪使用的油锯一把，由龙岩市公安局新罗分局依法处置。\n【（2019）京0102刑初207号】：法院认为，韩玉红、张少丰、李振违反法律规定，滥伐林木，数量巨大，侵犯了国家对林木资源的管理，构成滥伐林木罪，系共同犯罪。韩玉红认罪悔罪，酌情从轻处罚；张少丰自首，依法从轻处罚；李振自首，依法减轻处罚。一、被告人韩玉红犯滥伐林木罪，判处有期徒刑三年，缓刑四年，并处罚金人民币六千元。\n（缓刑考验期限，自判决确定之日起计算。罚金自判决发生法律效力后第二日起三十日内缴纳）。\n二、被告人张少丰犯滥伐林木罪，判处有期徒刑三年，缓刑三年，并处罚金人民币六千元。\n(缓刑考验期限，自判决确定之日起计算。罚金自判决发生法律效力后第二日起三十日内缴纳)。\n三、被告人李振犯滥伐林木罪，判处有期徒刑二年六个月,缓刑三年,并处罚金人民币五千元。\n(缓刑考验期限，自判决确定之日起计算。罚金自判决发生法律效力后第二日起三十日内缴纳)。\n四、在案扣押的手机一部由扣押机关北京市公安局森林公安分局发还给被告人李振。\n五、尚未追缴之违法所得继续向被告人韩玉红、张少丰予以追缴，追缴后予以没收。\n【（2020）粤1882刑初14号】：法院认为，被告人廖日强、肖建伟在未取得县级以上林业行政主管部门批准并核发的《林木采伐许可证》的情况下，雇请民工擅自采伐其承包山林的林木，数量巨大，其行为构成滥伐林木罪。肖建伟构成自首，依法可以减轻处罚。廖日强滥伐林木数量巨大，拒不认罪，无悔罪表现，不符合适用缓刑的条件。一、被告人廖日强犯滥伐林木罪，判处有期徒刑三年,并处罚金人民币三万元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月15日起至2022年9月27日止。罚金已缴纳。）\n二、被告人肖建伟犯滥伐林木罪，判处有期徒刑二年,缓刑三年，并处罚金人民币二万元。（缓刑考验期限，从判决确定之日起计算。罚金从判决发生法律效力第二日起一个月内缴纳，上缴国库。）"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.被告人主动投案并如实供述，构成自首情节，依法可从轻处罚 2.已签订复植补种协议，积极采取补救措施弥补生态损失 3.砍伐的是自己早年种植的林木，主观恶性较小 4.被告人系初犯，无前科劣迹 5.认罪认罚态度良好，愿意缴纳罚金 6.林权争议期间采伐行为虽不当但非恶意侵占他人财产",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人肖某是否构成滥伐林木罪。查明情况：被告人承认在明知林权存在争议且未取得采伐许可证的情况下砍伐杉木，符合滥伐林木罪的构成要件。控辩双方对此无异议，审判长认为罪名成立。\n\n2.被砍伐林木的数量是否达到\"数量较大\"的立案标准。查明情况：林业技术鉴定认定立木蓄积27.8460立方米，被告人对此无异议。该数量远超10立方米的立案标准，审判长确认已达到\"数量较大\"标准。\n\n3.被告人肖某的主动投案行为是否构成自首。查明情况：被告人系在调查期间主动到林业派出所说明情况，如实供述犯罪事实，符合自首条件。控辩双方无异议，审判长认定自首成立。\n\n4.复植补种协议的履行情况及量刑影响。查明情况：被告人已签订协议但尚未完全履行，承诺在2019年5月1日前完成补种。审判长认为该情节可作为酌定从轻处罚依据，但需监督后续履行情况。\n\n5.被告人认罪认罚的自愿性和真实性。查明情况：被告人对指控事实和证据完全认同，自愿认罪认罚。控辩双方无异议，审判长确认其认罪认罚真实有效。\n\n6.量刑情节的综合考量。查明情况：被告人具有自首、认罪认罚、签订补种协议等从轻情节，无加重情节。审判长认为可依法从轻处罚。\n\n7.罚金刑的确定标准。查明情况：需结合当地经济水平和被告人经济状况确定。目前双方未就此充分讨论，审判长认为需进一步明确。\n\n8.缓刑适用的可行性评估。查明情况：被告人犯罪情节较轻，悔罪表现良好，再犯可能性低。审判长认为符合缓刑适用条件，但需结合具体刑期考量。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第三百四十五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释第五条",
+              "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第三百四十五条": "盗伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金；数量特别巨大的，处七年以上有期徒刑，并处罚金。违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。非法收购、运输明知是盗伐、滥伐的林木，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。盗伐、滥伐国家级自然保护区内的森林或者其他林木的，从重处罚。",
+            "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释第五条": "违反森林法的规定，具有下列情形之一，数量较大的，依照刑法第三百四十五条第二款的规定，以滥伐林木罪定罪处罚：（一）未经林业行政主管部门及法律规定的其他主管部门批准并核发林木采伐许可证，或者虽持有林木采伐许可证，但违反林木采伐许可证规定的时间、数量、树种或者方式，任意采伐本单位所有或者本人所有的森林或者其他林木的；（二）超过林木采伐许可证规定的数量采伐他人所有的森林或者其他林木的。林木权属争议一方在林木权属确权之前，擅自砍伐森林或者其他林木，数量较大的，以滥伐林木罪论处。",
+            "最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释第六条": "滥伐林木“数量较大”，以10至20立方米或者幼树500至1000株为起点；滥伐林木“数量巨大”，以50至100立方米或者幼树2500至5000株为起点。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪中'数量较大'的具体认定标准",
+              "滥伐林木罪中自首情节对量刑的影响",
+              "滥伐林木罪中复植补种协议对量刑的影响",
+              "滥伐林木罪中主观故意的认定标准"
+            ],
+            "滥伐林木罪中'数量较大'的具体认定标准": "### 结论\n滥伐林木罪中'数量较大'的具体认定标准在不同地区和案例中有所差异，但通常涉及林木的立木蓄积量或株数。根据相关案例，数量较大的认定标准可以参考以下几点：滥伐林木数量较大通常指立木蓄积量在10立方米以上或者幼树500株以上，但具体标准可能因地区差异而有所不同。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件，包括未取得林木采伐许可证而滥伐林木，数量较大的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **滥伐林木的数量**：数量较大的认定是滥伐林木罪的关键因素。例如，【（2019）浙1121刑初226号】中，被告人滥伐林木数量较大，构成滥伐林木罪。【（2019）闽0802刑初218号】中，被告单位滥伐松、杂幼树计4449株，立木蓄积计29.87立方米，数量较大，构成滥伐林木罪。这些案例表明，数量较大的认定通常涉及立木蓄积量和株数。\n- **自首和认罪认罚**：自首和认罪认罚是影响量刑的重要因素。例如，【（2019）浙1121刑初226号】、【（2019）闽0802刑初218号】、【（2020）粤0222刑初48号】中，被告人主动投案并如实供述自己的罪行，构成自首，依法可以从轻处罚。【（2020）苏0682刑初4号】、【（2019）浙1082刑初653号】中，被告人自愿认罪认罚，依法可以从宽处理。\n- **生态修复和退赃**：采取生态修复措施和退赃也是影响量刑的因素。例如，【（2019）浙1121刑初226号】、【（2019）闽0802刑初218号】、【（2019）浙1082刑初653号】中，被告人采取“补植复绿”措施恢复生态，退缴赃款，均酌情予以从轻处罚。\n\n综上，滥伐林木罪中'数量较大'的具体认定标准涉及林木的立木蓄积量或株数，自首、认罪认罚、生态修复和退赃等情节对量刑有重要影响。\n\n#####\n类似案件为：\n【（2019）浙1121刑初226号】：法院认为，六被告人在未取得林木采伐许可证的情况下滥伐林木，数量较大，构成滥伐林木罪。廖正德、廖玉琴、廖松南、陈小灵、陈肖红、邱木标有自首情节，可从轻处罚；廖正德犯罪时已满75岁，可从轻处罚；五被告人认罪认罚，交纳生态修复费用，退出赃款，从轻处罚。一、被告人廖正德犯滥伐林木罪，判处有期徒刑一年三个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金6000元；\n 二、被告人廖玉琴犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 三、被告人廖松南犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 四、被告人陈小灵犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 五、被告人陈肖红犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 六、被告人邱木标犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 七、被告人廖正德退出的赃款50000元，予以没收，上缴国库；\n 八、被告人廖玉琴、廖松南、陈小灵、陈肖红、邱木标共同退出的违法所得5000元，予以没收，上缴国库。\n【（2019）闽0802刑初218号】：法院认为，被告单位鼎泰丰公司及被告人邓汉标、王廷挡的行为已构成滥伐林木罪，属数量较大。鉴于被告单位及被告人在案发后采取“补植复绿”措施，邓汉标已退缴赃款，且两被告人有自首情节，依法从轻处罚。一、被告单位福建省龙岩市鼎泰丰林业科技有限公司犯滥伐林木罪，判处罚金20000元（已缴纳）。\n 二、被告人邓汉标犯滥伐林木罪，判处有期徒刑一年六个月，缓刑二年，并处罚金15000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 三、被告人王廷挡犯滥伐林木罪，判处有期徒刑一年五个月，缓刑一年九个月，并处罚金10000元（已缴纳）。\n （缓刑考验期限，从判决确定之日起计算。）\n 四、被告人邓汉标退缴赃款1750元，予以没收，上缴国库。\n 五、扣押的杂原木135节，予以没收，由龙岩市公安局新罗森林分局变卖后上缴国库。\n【（2019）浙1121刑初226号】：法院认为，六被告人在未取得林木采伐许可证的情况下滥伐林木，数量较大，构成滥伐林木罪。廖正德、廖玉琴、廖松南、陈小灵、陈肖红、邱木标有自首情节，可从轻处罚；廖正德犯罪时已满75岁，可从轻处罚；五被告人认罪认罚，交纳生态修复费用，退出赃款，从轻处罚。一、被告人廖正德犯滥伐林木罪，判处有期徒刑一年三个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金6000元；\n 二、被告人廖玉琴犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 三、被告人廖松南犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 四、被告人陈小灵犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 五、被告人陈肖红犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 六、被告人邱木标犯滥伐林木罪，判处有期徒刑一年二个月，缓刑一年六个月（缓刑考验期限，从判决确定之日起计算），并处罚金5000元；\n 七、被告人廖正德退出的赃款50000元，予以没收，上缴国库；\n 八、被告人廖玉琴、廖松南、陈小灵、陈肖红、邱木标共同退出的违法所得5000元，予以没收，上缴国库。",
+            "滥伐林木罪中自首情节对量刑的影响": "### 结论\n在滥伐林木罪中，自首情节对量刑有显著影响，通常可以从轻或减轻处罚，且在被告人认罪认罚、有悔罪表现、犯罪情节较轻的情况下，适用缓刑的可能性较大。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是影响量刑的重要因素，法院通常会考虑自首情节对被告人从轻或减轻处罚。例如，【（2019）粤5322刑初73号】、【（2019）粤0229刑初154号】、【（2020）粤0224刑初2号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】、【（2020）粤1826刑初29号】、【（2024）粤0281刑初94号】、【（2019）粤1226刑初10号】、【（2020）闽0721刑初216号】等案例均提及自首情节对量刑的正面影响。\n- **认罪认罚**：被告人自愿认罪认罚，通常会作为从宽处理的依据。例如，【（2019）粤5322刑初73号】、【（2020）粤0224刑初2号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】、【（2020）粤1826刑初29号】、【（2024）粤0281刑初94号】等案例均提及认罪认罚对量刑的正面影响。\n- **适用缓刑**：在被告人犯罪情节较轻、有悔罪表现的情况下，适用缓刑的可能性较大。例如，【（2019）粤5322刑初73号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】等案例均提及适用缓刑的条件。\n\n综上，自首、认罪认罚、犯罪情节较轻、有悔罪表现等因素是影响滥伐林木罪量刑的关键因素，法院在量刑时会综合考虑这些因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n#####\n类似案件为：\n【（2019）粤5322刑初73号】：法院认为，陆某某的行为构成滥伐林木罪，有自首情节，依法可以从轻处罚。鉴于其认罪认罚，有悔罪表现，适用缓刑不会对其居住社区产生重大不良影响。据此，法院采纳公诉机关的量刑建议，判处陆某某有期徒刑一年，缓刑一年，并处罚金40000元。被告人陆某某犯滥伐林木罪，判处有期徒刑一年，缓刑一年，并处罚金40000元。（缓刑考验期限从判决确定之日起计算。罚金在本判决发生法律效力之日起十日内向本院缴纳。）\n【（2019）粤0229刑初154号】：法院认为，被告人丘尚英违反森林法规定，在采伐许可证规定范围外，采伐林木，数量巨大，其行为已构成滥伐林木罪。被告人有自首情节，依法可以从轻或减轻处罚。被告人雇请的工人实施滥伐林木，被告人知情，承担责任。被告人交纳林款及家庭情况非法定从轻理由。林场是否有过错不影响定罪量刑，滥伐林木数量巨大，不宜适用缓刑。被告人丘尚英犯滥伐林木罪，判处有期徒刑二年四个月，并处罚金人民币二万元。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年11月21日起至2021年3月20日止。罚金限在本判决发生法律效力的第二日起十日内缴纳。）\n【（2020）粤0224刑初2号】：法院认为，被告人黄忠新的行为已构成滥伐林木罪，具有自首、认罪认罚从宽处罚情节。被告人黄忠新自动投案，如实供述其罪行，属自首，可以从轻或减轻处罚；其自愿认罪认罚，亦可从宽处理。另外涉案山场现已种植杉树造林，量刑时可予以考虑。被告人黄忠新犯滥伐林木罪，判处有期徒刑八个月，并处罚金人民币4000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月23日起至2020年6月22日止；罚金限其于本判决生效之日起十日内向本院缴纳。）",
+            "滥伐林木罪中复植补种协议对量刑的影响": "### 结论\n在滥伐林木罪案件中，被告人认罪认罚，积极缴纳补植复绿保证金，并承诺按受损林木倍数补种树木用于生态修复的，法院可依法对其从轻处罚，甚至适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件和处罚标准。\n- **《中华人民共和国森林法》第三十九条**：规定未经批准擅自砍伐林木的法律责任。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：被告人主动投案并如实供述自己的犯罪事实，法院认为这构成自首，依法可以从轻处罚。例如，【（2019）闽0803刑初46号】、【（2020）闽0681刑初781号】、【（2019）闽0525刑初62号】中，被告人孔祥辉、许其才、颜文泳均因自首而获得从轻处罚。\n- **复植补种协议**：被告人与林业部门签订复植补种协议，承诺按受损林木倍数补种树木，法院认为这表明被告人有悔罪表现，可以从轻处罚。例如，【（2019）闽0803刑初46号】、【（2020）闽0681刑初781号】、【（2021）吉7601刑初14号】中，被告人孔祥辉、许其才、历永祥均因签订复植补种协议而获得从轻处罚。\n- **缴纳罚金或保证金**：被告人主动缴纳罚金或复植复绿保证金，法院认为这表明被告人有悔罪表现，可以从轻处罚。例如，【（2019）闽0803刑初46号】、【（2021）吉7601刑初14号】、【（2021）吉7602刑初38号】中，被告人孔祥辉、历永祥、周树奎均因缴纳罚金或保证金而获得从轻处罚。\n- **认罪认罚**：被告人认罪认罚，法院认为这表明被告人有悔罪表现，可以从轻处罚。例如，【（2021）吉7601刑初14号】、【（2021）吉7602刑初38号】、【（2021）吉7602刑初23号】中，被告人历永祥、周树奎、徐井山均因认罪认罚而获得从轻处罚。\n\n综上，自首、签订复植补种协议、缴纳罚金或保证金、认罪认罚等情节均能表明被告人的悔罪态度，法院在量刑时会予以考虑，对被告人从轻处罚，甚至适用缓刑。\n\n#####\n类似案件为：\n【（2019）闽0803刑初46号】：法院认为，被告人孔祥辉违反森林法，滥伐林木数量较大，构成滥伐林木罪。鉴于孔祥辉有自首情节，案发后进行复植补种，认罪态度较好，可从轻处罚，宣告缓刑对社区无重大不良影响，决定宣告缓刑。被告人孔祥辉犯滥伐林木罪，判处有期徒刑二年，缓刑三年，并处罚金人民币130000元，上缴国库。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效后三日内交纳）\n【（2020）闽0681刑初781号】：法院认为，被告人许其才违反森林法的规定，未经林业主管部门批准并核发林木采伐许可证，擅自砍伐林木，立木蓄积量达33.642立方米，数量较大，其行为已构成滥伐林木罪。许其才自动投案，如实供述自己的罪行，是自首，可以从轻处罚。鉴于许其才与龙海市林业局签订林地补植协议书，确有悔罪表现，可宣告缓刑。一、被告人许其才犯滥伐林木罪，判处有期徒刑七个月，缓刑一年，并处罚金13500元（已缴纳）。\n （缓刑考验期限从判决确定之日起计算）。\n 二、被告人许其才应在本判决生效后，按《林地补植协议书》约定的内容履行义务。\n【（2019）闽0525刑初62号】：法院认为，颜文泳违反森林法规，故意毁坏林木，数额较大，构成故意毁坏财物罪。鉴于其自首，与被害人签订补植复绿协议，积极赔偿，取得谅解，但有前科，综合考量后决定适用缓刑。一、被告人颜文泳犯故意毁坏财物罪，判处有期徒刑十个月，缓刑一年六个月。\n （缓刑考验期限从判决确定之日起计算）\n 二、涉案42株林木返还给永春县桃场社区居民委员会和永春县永绿林业发展有限公司。",
+            "滥伐林木罪中主观故意的认定标准": "### 结论\n滥伐林木罪的主观故意认定需结合行为人对林木的认知能力、是否具有林木行业工作经验、是否明知采伐林木需经林业主管部门许可、是否放任超范围或超数量采伐林木等因素综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：违反森林法的规定，滥伐森林或者其他林木，数量较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数量巨大的，处三年以上七年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人对林木的认知能力**：行为人是否具有林木行业工作经验，是否熟知当地林木采伐的法律法规，如【（2021）闽0802刑初628号】中，被告人苏钦将影响毛竹生产的林木砍掉，未区分树种，按一般树种价格出售，法院认定其对采伐国家二级保护植物闽楠在主观上并非明知。\n- **是否明知采伐林木需经林业主管部门许可**：如【（2019）京0102刑初207号】中，被告人韩玉红、张少丰、李振违反国家法律规定，滥伐林木，数量巨大，法院认定其行为构成滥伐林木罪。\n- **是否放任超范围或超数量采伐林木**：如【（2020）粤1882刑初14号】中，被告人廖日强、肖建伟在未取得林木采伐许可证的情况下，雇请民工擅自采伐承包山林的林木，数量巨大，法院认定其行为构成滥伐林木罪。\n- **自首和认罪态度**：如【（2019）鲁0214刑初70号】中，被告人闫俊昌、张子海到案后均如实供述自己的罪行，且自愿认罪认罚，法院可从轻处罚。\n\n综上，滥伐林木罪的主观故意认定需综合考虑行为人的行业经验、对法律法规的了解、是否明知无证采伐的违法性以及是否放任超范围或超数量采伐林木的行为，同时自首和认罪态度也是影响量刑的重要因素。\n\n#####\n类似案件为：\n【（2021）闽0802刑初628号】：法院认为，苏钦违反森林法规，滥伐林木，数量较大，构成滥伐林木罪。非法采伐、毁坏国家重点保护植物罪的主观方面须由故意构成，苏钦对砍伐闽楠非故意，故不构成危害国家重点保护植物罪。一、被告人苏钦犯滥伐林木罪，判处拘役五个月，并处罚金人民币二千元（限于判决生效之日起一个月内缴清）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年4月16日起至2021年9月15日止）。\n二、追缴被告人苏钦赃款人民币5160元，予以没收，上缴国库。\n三、被告人苏钦犯罪使用的油锯一把，由龙岩市公安局新罗分局依法处置。\n【（2019）京0102刑初207号】：法院认为，韩玉红、张少丰、李振违反法律规定，滥伐林木，数量巨大，侵犯了国家对林木资源的管理，构成滥伐林木罪，系共同犯罪。韩玉红认罪悔罪，酌情从轻处罚；张少丰自首，依法从轻处罚；李振自首，依法减轻处罚。一、被告人韩玉红犯滥伐林木罪，判处有期徒刑三年，缓刑四年，并处罚金人民币六千元。\n（缓刑考验期限，自判决确定之日起计算。罚金自判决发生法律效力后第二日起三十日内缴纳）。\n二、被告人张少丰犯滥伐林木罪，判处有期徒刑三年，缓刑三年，并处罚金人民币六千元。\n(缓刑考验期限，自判决确定之日起计算。罚金自判决发生法律效力后第二日起三十日内缴纳)。\n三、被告人李振犯滥伐林木罪，判处有期徒刑二年六个月,缓刑三年,并处罚金人民币五千元。\n(缓刑考验期限，自判决确定之日起计算。罚金自判决发生法律效力后第二日起三十日内缴纳)。\n四、在案扣押的手机一部由扣押机关北京市公安局森林公安分局发还给被告人李振。\n五、尚未追缴之违法所得继续向被告人韩玉红、张少丰予以追缴，追缴后予以没收。\n【（2020）粤1882刑初14号】：法院认为，被告人廖日强、肖建伟在未取得县级以上林业行政主管部门批准并核发的《林木采伐许可证》的情况下，雇请民工擅自采伐其承包山林的林木，数量巨大，其行为构成滥伐林木罪。肖建伟构成自首，依法可以减轻处罚。廖日强滥伐林木数量巨大，拒不认罪，无悔罪表现，不符合适用缓刑的条件。一、被告人廖日强犯滥伐林木罪，判处有期徒刑三年,并处罚金人民币三万元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月15日起至2022年9月27日止。罚金已缴纳。）\n二、被告人肖建伟犯滥伐林木罪，判处有期徒刑二年,缓刑三年，并处罚金人民币二万元。（缓刑考验期限，从判决确定之日起计算。罚金从判决发生法律效力第二日起一个月内缴纳，上缴国库。）"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人肖某是否构成滥伐林木罪。查明情况：被告人承认在明知林权存在争议且未取得采伐许可证的情况下砍伐杉木，符合滥伐林木罪的构成要件。控辩双方对此无异议，审判长认为罪名成立。\n\n2.被砍伐林木的数量是否达到\"数量较大\"的立案标准。查明情况：林业技术鉴定认定立木蓄积27.8460立方米，被告人对此无异议。该数量远超10立方米的立案标准，审判长确认已达到\"数量较大\"标准。\n\n3.被告人肖某的主动投案行为是否构成自首。查明情况：被告人系在调查期间主动到林业派出所说明情况，如实供述犯罪事实，符合自首条件。控辩双方无异议，审判长认定自首成立。\n\n4.复植补种协议的履行情况及量刑影响。查明情况：被告人已签订协议但尚未完全履行，承诺在2019年5月1日前完成补种。审判长认为该情节可作为酌定从轻处罚依据，但需监督后续履行情况。\n\n5.被告人认罪认罚的自愿性和真实性。查明情况：被告人对指控事实和证据完全认同，自愿认罪认罚。控辩双方无异议，审判长确认其认罪认罚真实有效。\n\n6.量刑情节的综合考量。查明情况：被告人具有自首、认罪认罚、签订补种协议等从轻情节，无加重情节。审判长认为可依法从轻处罚。\n\n7.罚金刑的确定标准。查明情况：需结合当地经济水平和被告人经济状况确定。目前双方未就此充分讨论，审判长认为需进一步明确。\n\n8.缓刑适用的可行性评估。查明情况：被告人犯罪情节较轻，悔罪表现良好，再犯可能性低。审判长认为符合缓刑适用条件，但需结合具体刑期考量。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百四十五条第二款",
+              "中华人民共和国刑法第六十七条第一款",
+              "中华人民共和国刑法第七十二条"
+            ],
+            "中华人民共和国刑法第七十二条": "对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。宣告缓刑，可以根据犯罪情况，同时禁止犯罪分子在缓刑考验期限内从事特定活动，进入特定区域、场所，接触特定的人。被宣告缓刑的犯罪分子，如果被判处附加刑，附加刑仍须执行。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "滥伐林木罪立木蓄积27立方米左右的类似案例判决情况",
+              "滥伐林木罪中自首情节对量刑的影响",
+              "滥伐林木罪中复植补种协议对量刑的影响",
+              "滥伐林木罪缓刑适用标准"
+            ],
+            "滥伐林木罪立木蓄积27立方米左右的类似案例判决情况": "### 结论\n滥伐林木罪的判决主要受立木蓄积量、是否自首、认罪态度、补植复绿措施、前科情况、社会危害性及社区矫正条件等因素影响。立木蓄积量在27立方米左右的案例中，被告人通常被判处拘役或有期徒刑，并处罚金，且在认罪认罚、采取补植复绿措施、无前科、社会危害性较小的情况下，可适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件及处罚。\n- **《中华人民共和国森林法》**：规定林木采伐许可证的申请与管理。\n- **《最高人民法院关于审理破坏森林资源刑事案件具体应用法律若干问题的解释》**：对滥伐林木罪的量刑提供指导。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **立木蓄积量**：立木蓄积量是判断滥伐林木罪是否构成及量刑的重要依据。例如，【（2012）屏刑初字第101号】中，立木蓄积量达27.8026立方米，构成滥伐林木罪。\n- **自首与认罪态度**：自首和认罪认罚是影响量刑的重要因素。如【（2021）闽0802刑初1170号】中，被告人俞某村主动投案并认罪认罚，法院从轻处罚。\n- **补植复绿措施**：采取补植复绿措施可作为从轻处罚的依据。如【（2021）新7102刑初1号】中，被告人伊某交纳补植复绿保证金并承诺补种树木，法院从轻处罚。\n- **前科情况**：有前科的被告人可能面临更重的处罚。如【（2020）闽0583刑初739号】中，被告人陈阿利因累犯被从重处罚。\n- **社会危害性及社区矫正条件**：社会危害性较小且具备社区矫正条件的被告人，可适用缓刑。如【（2019）闽0623刑初563号】中，被告人蓝青南适用缓刑。\n\n综上，滥伐林木罪的判决受多种因素影响，法院在量刑时会综合考虑上述因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2021）闽0802刑初1170号】：法院认为，被告人俞某村违反国家森林保护法律法规，滥伐林木计立木蓄积27.86立方米，数量较大，构成滥伐林木罪。鉴于被告人俞某村自首，采取“补植复绿”恢复生态，认罪认罚，予以从轻、从宽处罚。被告人俞某村犯滥伐林木罪，判处拘役五个月，缓刑八个月，并处罚金人民币二千元（限于判决生效之日起一个月内缴清）。\n（缓刑考验期限，从判决确定之日起计算）。\n【（2021）新7102刑初1号】：法院生效裁判认为：森林是我国的重要自然资源。国家对森林和其他林木实行特别的保护，对森林和其他林木的所有权、采伐作业、培育种植、分类经营管理活动和主管机关的职权，以及所有者和使用者的权利义务，都作出了明确的规定。《中华人民共和国森林法》和其他有关法律规定，对森林和其他林木只能合理采伐，凡采伐林木都必须申请采伐林木许可证，不准进行计划外采伐和无证采伐。违反《中华人民共和国森林法》的规定，未经有关部门批准并核发采伐许可证，或者虽持有采伐许可证，但违背采伐证所规定的地点、数量、树种、方式任意采伐本单位所有或者管理的，以及本人自留山上或者其他林木，数量较大的，构成滥伐林木罪。被告人伊某违反《中华人民共和国森林法》的规定，在未办理《林木采伐许可证》的情况下，擅自砍伐购买的杨树，立木蓄积量25.158立方米，数量较大，其行为已构成滥伐林木罪，公诉机关指控的罪名成立。被告人案发后主动交纳补植复绿保证金并承诺补种滥伐林木三倍数量的树木用于生态修复，可从轻处罚；被告人在公诉机关审查起诉阶段自愿认罪认罚，可依法从宽处理。鉴于被告人有悔罪表现，经审前社会调查，具备对其实施社区矫正的条件，可对被告人适用缓刑。公诉机关提出对被告人判处有期徒刑一年缓刑两年并处罚金的量刑意见适当，判决被告人伊某犯滥伐林木罪，判处有期徒刑一年，缓刑二年，并处罚金人民币3000元。\n【（2020）闽0583刑初739号】：法院认为，被告人陈阿利违反森林法的规定，未办理林木采伐许可证采伐林木，立木蓄积量24.8527立方米，数量较大，其行为已构成滥伐林木罪。陈阿利系自首，且自愿认罪认罚，可从轻处罚。陈阿利系累犯，应从重处罚。被告人陈阿利犯滥伐林木罪，判处有期徒刑八个月，并处罚金人民币8000元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年11月26日起至2021年7月25日止。罚金应于判决生效后十五日内缴纳。）",
+            "滥伐林木罪中自首情节对量刑的影响": "### 结论\n在滥伐林木罪中，自首情节对量刑有显著影响，通常可以从轻或减轻处罚，且在被告人认罪认罚、有悔罪表现、犯罪情节较轻的情况下，适用缓刑的可能性较大。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是影响量刑的重要因素，法院通常会考虑自首情节对被告人从轻或减轻处罚。例如，【（2019）粤5322刑初73号】、【（2019）粤0229刑初154号】、【（2020）粤0224刑初2号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】、【（2020）粤1826刑初29号】、【（2024）粤0281刑初94号】、【（2019）粤1226刑初10号】、【（2020）闽0721刑初216号】等案例均提及自首情节对量刑的正面影响。\n- **认罪认罚**：被告人自愿认罪认罚，通常会作为从宽处理的依据。例如，【（2019）粤5322刑初73号】、【（2020）粤0224刑初2号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】、【（2020）粤1826刑初29号】、【（2024）粤0281刑初94号】等案例均提及认罪认罚对量刑的正面影响。\n- **适用缓刑**：在被告人犯罪情节较轻、有悔罪表现的情况下，适用缓刑的可能性较大。例如，【（2019）粤5322刑初73号】、【（2020）鲁0126刑初163号】、【（2019）京0102刑初311号】、【（2020）粤1882刑初234号】等案例均提及适用缓刑的条件。\n\n综上，自首、认罪认罚、犯罪情节较轻、有悔罪表现等因素是影响滥伐林木罪量刑的关键因素，法院在量刑时会综合考虑这些因素，以决定是否从轻、减轻处罚或适用缓刑。\n\n#####\n类似案件为：\n【（2019）粤5322刑初73号】：法院认为，陆某某的行为构成滥伐林木罪，有自首情节，依法可以从轻处罚。鉴于其认罪认罚，有悔罪表现，适用缓刑不会对其居住社区产生重大不良影响。据此，法院采纳公诉机关的量刑建议，判处陆某某有期徒刑一年，缓刑一年，并处罚金40000元。被告人陆某某犯滥伐林木罪，判处有期徒刑一年，缓刑一年，并处罚金40000元。（缓刑考验期限从判决确定之日起计算。罚金在本判决发生法律效力之日起十日内向本院缴纳。）\n【（2019）粤0229刑初154号】：法院认为，被告人丘尚英违反森林法规定，在采伐许可证规定范围外，采伐林木，数量巨大，其行为已构成滥伐林木罪。被告人有自首情节，依法可以从轻或减轻处罚。被告人雇请的工人实施滥伐林木，被告人知情，承担责任。被告人交纳林款及家庭情况非法定从轻理由。林场是否有过错不影响定罪量刑，滥伐林木数量巨大，不宜适用缓刑。被告人丘尚英犯滥伐林木罪，判处有期徒刑二年四个月，并处罚金人民币二万元。\n\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年11月21日起至2021年3月20日止。罚金限在本判决发生法律效力的第二日起十日内缴纳。）\n【（2020）粤0224刑初2号】：法院认为，被告人黄忠新的行为已构成滥伐林木罪，具有自首、认罪认罚从宽处罚情节。被告人黄忠新自动投案，如实供述其罪行，属自首，可以从轻或减轻处罚；其自愿认罪认罚，亦可从宽处理。另外涉案山场现已种植杉树造林，量刑时可予以考虑。被告人黄忠新犯滥伐林木罪，判处有期徒刑八个月，并处罚金人民币4000元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月23日起至2020年6月22日止；罚金限其于本判决生效之日起十日内向本院缴纳。）",
+            "滥伐林木罪中复植补种协议对量刑的影响": "### 结论\n在滥伐林木罪案件中，被告人认罪认罚，积极缴纳补植复绿保证金，并承诺按受损林木倍数补种树木用于生态修复的，法院可依法对其从轻处罚，甚至适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件和处罚标准。\n- **《中华人民共和国森林法》第三十九条**：规定未经批准擅自砍伐林木的法律责任。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：被告人主动投案并如实供述自己的犯罪事实，法院认为这构成自首，依法可以从轻处罚。例如，【（2019）闽0803刑初46号】、【（2020）闽0681刑初781号】、【（2019）闽0525刑初62号】中，被告人孔祥辉、许其才、颜文泳均因自首而获得从轻处罚。\n- **复植补种协议**：被告人与林业部门签订复植补种协议，承诺按受损林木倍数补种树木，法院认为这表明被告人有悔罪表现，可以从轻处罚。例如，【（2019）闽0803刑初46号】、【（2020）闽0681刑初781号】、【（2021）吉7601刑初14号】中，被告人孔祥辉、许其才、历永祥均因签订复植补种协议而获得从轻处罚。\n- **缴纳罚金或保证金**：被告人主动缴纳罚金或复植复绿保证金，法院认为这表明被告人有悔罪表现，可以从轻处罚。例如，【（2019）闽0803刑初46号】、【（2021）吉7601刑初14号】、【（2021）吉7602刑初38号】中，被告人孔祥辉、历永祥、周树奎均因缴纳罚金或保证金而获得从轻处罚。\n- **认罪认罚**：被告人认罪认罚，法院认为这表明被告人有悔罪表现，可以从轻处罚。例如，【（2021）吉7601刑初14号】、【（2021）吉7602刑初38号】、【（2021）吉7602刑初23号】中，被告人历永祥、周树奎、徐井山均因认罪认罚而获得从轻处罚。\n\n综上，自首、签订复植补种协议、缴纳罚金或保证金、认罪认罚等情节均能表明被告人的悔罪态度，法院在量刑时会予以考虑，对被告人从轻处罚，甚至适用缓刑。\n\n#####\n类似案件为：\n【（2019）闽0803刑初46号】：法院认为，被告人孔祥辉违反森林法，滥伐林木数量较大，构成滥伐林木罪。鉴于孔祥辉有自首情节，案发后进行复植补种，认罪态度较好，可从轻处罚，宣告缓刑对社区无重大不良影响，决定宣告缓刑。被告人孔祥辉犯滥伐林木罪，判处有期徒刑二年，缓刑三年，并处罚金人民币130000元，上缴国库。\n （缓刑考验期限，从判决确定之日起计算。罚金限于本判决生效后三日内交纳）\n【（2020）闽0681刑初781号】：法院认为，被告人许其才违反森林法的规定，未经林业主管部门批准并核发林木采伐许可证，擅自砍伐林木，立木蓄积量达33.642立方米，数量较大，其行为已构成滥伐林木罪。许其才自动投案，如实供述自己的罪行，是自首，可以从轻处罚。鉴于许其才与龙海市林业局签订林地补植协议书，确有悔罪表现，可宣告缓刑。一、被告人许其才犯滥伐林木罪，判处有期徒刑七个月，缓刑一年，并处罚金13500元（已缴纳）。\n （缓刑考验期限从判决确定之日起计算）。\n 二、被告人许其才应在本判决生效后，按《林地补植协议书》约定的内容履行义务。\n【（2019）闽0525刑初62号】：法院认为，颜文泳违反森林法规，故意毁坏林木，数额较大，构成故意毁坏财物罪。鉴于其自首，与被害人签订补植复绿协议，积极赔偿，取得谅解，但有前科，综合考量后决定适用缓刑。一、被告人颜文泳犯故意毁坏财物罪，判处有期徒刑十个月，缓刑一年六个月。\n （缓刑考验期限从判决确定之日起计算）\n 二、涉案42株林木返还给永春县桃场社区居民委员会和永春县永绿林业发展有限公司。",
+            "滥伐林木罪缓刑适用标准": "### 结论\n滥伐林木罪的缓刑适用标准通常考虑被告人的认罪态度、自首情节、补植复绿的承诺与行动、犯罪情节的轻重、是否造成严重后果、是否积极赔偿损失、是否具有悔罪表现等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百四十五条第二款**：规定滥伐林木罪的构成要件。\n- **《中华人民共和国刑法》第六十七条第一款**：规定自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第七十二条**：规定可以宣告缓刑的条件。\n- **《中华人民共和国刑法》第七十三条**：规定缓刑的考验期限。\n- **《中华人民共和国刑事诉讼法》第二百零一条**：规定认罪认罚从宽制度。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪认罚**：被告人认罪认罚，可从轻处罚。例如，【（2019）鲁1722刑初703号】、【（2020）闽0721刑初216号】、【（2020）闽03刑终32号】，这些案例中被告人均认罪认罚，法院因此从轻处罚。\n- **自首情节**：被告人自动投案，如实供述犯罪事实，系自首，可以从轻或减轻处罚。例如，【（2019）湘0822刑初50号】、【（2020）闽0424刑初8号】、【（2016）桂13刑终183号】，这些案例中的被告人自首，法院因此从轻处罚。\n- **补植复绿**：被告人承诺按受损林木倍数补种树木用于生态修复，可从轻处罚。例如，【（2019）湘0822刑初50号】中被告人王某某主动缴纳违法所得，积极补种树木，法院因此从轻处罚。\n- **犯罪情节**：犯罪情节较轻，未造成严重后果，可适用缓刑。例如，【（2020）闽0721刑初216号】中被告人许春荣犯罪情节较轻，法院因此适用缓刑。\n- **积极赔偿**：被告人积极赔偿损失，可从轻处罚。例如，【（2020）闽03刑终32号】中上诉人李瑞良赔偿和补偿给被误砍的林主林某1经济损失并取得谅解，法院因此从轻处罚。\n\n综上，滥伐林木罪的缓刑适用需综合考虑被告人的认罪态度、自首情节、补植复绿的承诺与行动、犯罪情节的轻重、是否积极赔偿损失等因素。法院在判决时会根据这些因素决定是否适用缓刑及缓刑的考验期限。\n\n#####\n类似案件为：\n【（2019）鲁1722刑初703号】：法院认为，被告人齐泮华、齐保金违反森林法的规定，未经林业行政主管部门批准并核发采伐许可证，滥伐林木，数量较大，其行为触犯了《中华人民共和国刑法》第三百四十五条的规定，构成滥伐林木罪。鉴于二被告人认罪认罚，可从轻处罚。依照《中华人民共和国刑法》第三百四十五条、第二十五条第一款、第五十二条、第六十四条、第六十七条第三款、第七十二条第一款、第七十三条第二、三款之规定，判决如下：\n一、被告人齐泮华犯滥伐林木罪，判处有期徒刑八个月，缓刑一年，并处罚金五千元。\n二、被告人齐保金犯滥伐林木罪，判处有期徒刑八个月，缓刑一年，并处罚金五千元。一、被告人齐泮华犯滥伐林木罪，判处有期徒刑八个月，缓刑一年，并处罚金五千元。\n（缓刑考验期限从判决确定之日起计算。罚金已缴纳，待本判决生效后依法上缴国库。）\n二、被告人齐保金犯滥伐林木罪，判处有期徒刑八个月，缓刑一年，并处罚金五千元。\n（缓刑考验期限从判决确定之日起计算。罚金已缴纳，待本判决生效后依法上缴国库。）\n【（2020）闽0721刑初216号】：法院认为，被告人许春荣违反森林法规定，未经批准滥伐林木，数量较大，构成滥伐林木罪。许春荣有自首情节，积极退赃并实施替代性修复生态环境行为，认罪认罚，依法予以从轻处罚。一、被告人许春荣犯滥伐林木罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币三万元。\n （缓刑的考验期限，从判决确定之日起计算。罚金已预缴。）\n 二、被告人许春荣退出的滥伐林木折价款人民币二万五千元，予以没收，上缴国库。\n【（2020）闽03刑终32号】：法院认为，被告人李瑞良违反森林法及其他保护森林法规，超出林木采伐许可证范围砍伐林木，数量巨大，构成滥伐林木罪。鉴于李瑞良坦白认罪，家属积极交纳罚金、赔偿并补偿被害人，且李瑞良符合社区矫正条件，可宣告缓刑。一、撤销福建省仙游县人民法院（2019）闽0322刑初866号刑事判决，即被告人李瑞良犯滥伐林木罪，判处有期徒刑三年，并处罚金人民币一万元(已缴纳)；\n 二、上诉人李瑞良犯滥伐林木罪，判处有期徒刑三年，缓刑四年，并处罚金人民币一万元(已缴纳)。\n （缓刑考验期限，从判决确定之日计算，即自2020年2月27日起至2024年2月26日止。）"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 5.0,
+    "fine": 2000.0,
+    "reprieve": 8.0
+  }
+]

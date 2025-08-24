@@ -1,0 +1,1599 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人旺某，男，藏族，西藏聂荣县某镇某村党支部副书记、村主任，文化程度XXX，户籍西藏聂荣县。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是村党支部副书记、村主任。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "西藏自治区聂荣县人民检察院  \n起 诉 书  \n\n聂检刑诉字〔2018〕004号  \n\n被告人旺某，男，藏族，西藏聂荣县某镇某村党支部副书记、村主任，文化程度XXX，户籍西藏聂荣县。  \n\n本案由西藏自治区聂荣县监察委员会调查终结，以被告人旺某涉嫌职务侵占罪，于2018年9月12日向本院移送审查起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2015年7月，西藏聂荣县某镇某村为不影响本村“三农”贷款信用度，经村集体讨论并征得10户村民同意，将上一轮贷款中未按时还款的10户村民“惠民一折通”统一由村委会管理，待资金足够后还款并归还本人。被告人旺某作为长期驻县城的村干部，受委托保管上述“一折通”。后旺某将其中8户的“一折通”资金144800元分25次从拉萨、那曲、聂荣等地取走，全部用于个人债务及日常开销。  \n\n2016年5月19日，该村与四川省某公司签订采石合同（价款90000元，分两次支付）。同年9月，公司负责人张某将首笔45000元支付给驻村队长杰某及旺某。杰某经村支书晋某同意暂由旺某保管该款，待转交村出纳论某。旺某将45000元全部用于个人支出，其中40000元存入其农行卡（卡号6228ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ）。  \n\n案发后，被告人旺某退赔106703元。  \n\n认定上述事实的证据如下：  \n1. 书证：旺某个人信息采集表、当选证明、《采石合同》、银行流水、监察委调取的取款明细、扣押及退还清单、收据等；  \n2. 证人证言：杰某、晋某、论某等27名证人关于资金保管及侵占情况的陈述；  \n3. 被告人供述：旺某对侵占事实的供认；  \n4. 勘验笔录：指认涉案银行卡的笔录。  \n\n本院认为，被告人旺某利用职务便利，将村集体财产45000元及村民托管资金144800元非法占为己有，数额较大，其行为触犯《中华人民共和国刑法》第二百七十一条第一款，犯罪事实清楚，证据确实、充分，应当以职务侵占罪追究刑事责任。鉴于其如实供述、自愿认罪并部分退赃，依据《中华人民共和国刑法》第六十七条第三款，可从轻处罚。建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条，提起公诉，请依法判处。  \n\n此致  \n西藏自治区聂荣县人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实和罪名没有异议，我认罪悔罪。我确实因为个人债务问题挪用了村集体资金和村民托管资金，现在非常后悔。我已经退赔了106703元，愿意继续退赔剩余款项。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你作为村党支部副书记、村主任，是否清楚保管村民\"惠民一折通\"和村集体资金的职责要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "清楚。作为村干部，我明白这些资金必须专款专用，不能挪作他用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你具体是如何将144800元村民托管资金用于个人债务和日常开销的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我分25次从8户村民的\"惠民一折通\"中取款，每次取款金额不等，主要用于偿还个人债务和日常生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你从采石合同款项中挪用的45000元具体用于哪些个人支出？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "40000元存入我的农行卡后用于偿还债务，5000元现金用于日常家庭开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何选择在拉萨、那曲、聂荣等不同地点进行取款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为我在县城工作，经常往返这些地方，取款比较方便。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否有向村两委其他成员或村民告知过你将集体资金用于个人用途的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有告知过任何人。我当时想着等有钱了就还回去，所以没有告诉其他人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否有制定具体的还款计划来弥补剩余的挪用款项？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有制定具体的还款计划。我一直在想办法筹钱，但目前还没有能力全部还清。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你挪用资金的行为持续了多长时间？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "清楚。作为村干部，我明白这些资金必须专款专用，不能挪作他用。\n\n我分25次从8户村民的\"惠民一折通\"中取款，每次取款金额不等，主要用于偿还个人债务和日常生活开支。\n\n40000元存入我的农行卡后用于偿还债务，5000元现金用于日常家庭开支。\n\n因为我在县城工作，经常往返这些地方，取款比较方便。\n\n没有告知过任何人。我当时想着等有钱了就还回去，所以没有告诉其他人。\n\n没有制定具体的还款计划。我一直在想办法筹钱，但目前还没有能力全部还清。\n\n从2015年7月到2016年9月，持续了一年多时间。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你挪用资金的行为是否导致村民\"三农\"贷款受到影响？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我不清楚是否影响了村民贷款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你当时挪用资金时是否面临特殊的家庭经济困难？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，当时我家里欠了很多债，经济压力很大。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时是否向村两委其他成员或村民说明过你面临的这些经济困难？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有，我没有向他们说明过我的经济困难。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有主动向村委会或村民表示过愿意偿还这些挪用款项？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，在案发后我主动向村委会表示愿意偿还，并已经退赔了106703元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向村两委其他成员或村民说明过你挪用资金的具体用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在案发后我向村委会说明了挪用资金的具体用途，包括偿还个人债务和家庭日常开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你挪用资金的具体数额是如何计算出来的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "144800元是从8户村民\"惠民一折通\"中分25次取出的总额，45000元是采石合同首付款的全额。这些数额是根据银行流水和取款明细计算确认的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你挪用资金后是否采取过任何措施来掩盖这些行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有采取任何措施来掩盖。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年7月，西藏聂荣县某镇某村集体讨论决定，将10户村民的“惠民一折通”交由村委会管理，用于偿还贷款。因我常驻县城，村委会指派我保管这些折子。后因措某和西某急需用钱，村委会同意将2户的折子归还，其余8户仍由我保管。2015年至2016年期间，我从8户的折子中分25次取走144800元，用于偿还个人债务和日常开销。  \n\n2016年5月19日，村委会与四川省某公司签订采石协议，合同金额90000元，约定分两次支付。同年9月底，公司负责人张某将首笔45000元支付给驻村工作队队长杰某和我。杰某经村党支部书记晋某同意，让我暂时保管这笔钱，待出纳论某回来后移交。我将45000元中的40000元存入个人农行卡并取走，剩余5000元现金也用于个人债务和日常开销。  \n\n（2）犯案动机  \n我因个人债务压力较大，临时动用了保管的村民折子资金和村集体采石款，计划后续填补，但未能及时归还。  \n\n（3）案发之后的处理  \n案发后，我退赔了106703元。我没有自首，也未与被害人达成书面和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：被告人旺某的个人信息采集表，证明案发时被告人旺某达到刑事责任年龄的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：西藏聂荣县某镇出具的当选证明，证明旺某当选了西藏聂荣县某镇某村村副书记和团支部书记的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：《采石合同》，证明2016年5月19日，西藏聂荣县某镇某村与四川省某公司签订采石合同，合同价为90000元，合同约定四川省某公司分两次，一次45000元的方式将采石款支付给村委会的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：四川省某公司出具的采石合同情况说明（附公司公章及负责人张某签字），证明2016年9月四川省某公司的负责人张某将45000元采石款支付给西藏聂荣县某镇某村驻村工作队队长杰某的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：农行卡（卡号6228ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ）及银行出具的资金流水证明，证明被告人旺某将采石场的45000元中40000元入账到此卡的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：西藏聂荣县监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某从加某、仁某、吉某、玉某、啊某等五人的卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：西藏自治区监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在拉萨从玉某、吉某、次某甲、达某、加某、次某乙、仁某、阿某甲等七户的卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：西藏那曲市监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在那曲从玉某、伟某、次某甲、达某、次某丙等六户的卡中拿走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：西藏聂荣县监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在那曲从吉某、加某、仁某、啊某等四户的卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：西藏聂荣县监察委出具的调取证据回执（附《调取证据通知书》文号XX），证明被告人旺某在那曲从仁某、吉某、玉某、阿某甲等六户卡中取走钱的明细单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：西藏聂荣县监察委出具的扣押通知书、清单（附《扣押决定书》文号XX），证明县监委会将次某甲、达某、伟某、次某乙的卡收集调查",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：西藏聂荣县监察委出具的退还、返还通知书（附《退还决定书》文号XX），证明县监委会将次某甲、达某、伟某、次某乙的卡还给村民",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：收据9份（附收款人签字确认），证明被告人旺某先后退赔人民币106703元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人杰某说：“我从四川省某公司负责人张某手中拿到45000元采石款后，经村党支部书记晋某同意后将钱交给被告人旺某保管。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人晋某说：“经村委会同意由被告人旺某保管8户村民的‘惠民一折通’和采石场的45000元，后被告人旺某以各种理由拖着不返还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人论某说：“被告人旺某保管西藏聂荣县某镇某村8户村民的‘惠民一折通’和村委会有45000元的采石款。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人白某说：“经村委会同意由被告人旺某保管8户村民的‘惠民一折通’，后被告人旺某以各种理由拖着不返还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人玉某说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还，卡上也只剩下十几块钱。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人曲某说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还，卡上也只剩下三十几块钱。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人仁某说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人加某说：“经村委会同意由被告人旺某保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人吉某说：“经村委会同意由被告人旺某保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人阿某甲说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人阿某乙说：“经村委会同意由被告人旺某保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人西某说：“经村委会同意保管其‘惠民一折通’。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人次某乙说：“经村委会同意由被告人旺某保管其‘惠民一折通’（附银行流水记录），后发现自己的贷款未还。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.勘验、检查、辨认、侦查实验等笔录：指认笔录（附见证人签字及程序说明），证明卡号6228ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ的农行卡，是被告人侵占赃物期间使用的卡",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面\n被告人旺某作为村党支部副书记、村主任，利用职务便利将村集体资金45000元及村民托管资金144800元非法占为己有，其行为完全符合《中华人民共和国刑法》第二百七十一条第一款规定的职务侵占罪构成要件。被告人对犯罪事实供认不讳，所有证据均经法庭质证确认，犯罪事实清楚，证据确实充分。\n\n二、关于量刑情节\n1. 从重情节：被告人挪用资金数额达189800元，已超过\"数额较大\"标准；挪用行为持续一年多时间，分25次实施，主观恶性较大；挪用村民托管资金涉及8户村民切身利益，社会危害性严重。\n\n2. 从轻情节：被告人认罪态度较好，如实供述犯罪事实；已退赔106703元，虽未全额退赔但表现出悔罪态度。根据《中华人民共和国刑法》第六十七条第三款规定，可以从轻处罚。\n\n三、量刑建议\n综合本案犯罪事实、性质、情节及社会危害程度，公诉人坚持起诉书提出的量刑建议。建议法庭在充分考虑被告人认罪悔罪态度的同时，也要注意到其作为村干部违背职责、损害群众利益的严重性，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于量刑情节\n1. 被告人认罪态度良好，在侦查阶段和庭审中均如实供述犯罪事实，根据《中华人民共和国刑法》第六十七条第三款规定，可以从轻处罚。\n\n2. 被告人已主动退赔106703元，占涉案金额的56.2%，并明确表示愿意继续退赔剩余款项，表现出积极的悔罪态度。\n\n3. 被告人挪用资金系因家庭经济困难，虽不能成为免责理由，但可说明其主观恶性相对较小。\n\n二、量刑建议\n1. 建议法庭充分考虑被告人作为村干部长期服务基层的贡献，以及其家庭实际困难情况。\n\n2. 鉴于被告人认罪悔罪态度诚恳，已部分退赔并承诺继续退赔，建议法庭从轻处罚，给予缓刑机会，使其能够继续履行退赔义务。\n\n3. 建议罚金数额与被告人经济能力相适应，确保其能够继续履行退赔责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于辩护人提出的主观恶性问题\n被告人虽声称因家庭困难挪用资金，但根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十六条，经济困难不能成为职务侵占的正当理由。且被告人分25次实施侵占行为，持续时间长达一年多，主观恶性明显。\n\n二、关于退赔情况\n被告人虽已退赔106703元，但仍有83197元未退赔，退赔比例仅为56.2%，未达到《最高人民法院关于常见犯罪的量刑指导意见》中关于全部退赃退赔可从宽处罚的标准。\n\n三、关于量刑建议\n根据《刑法》第二百七十一条及司法解释，职务侵占6万元以上即属\"数额较大\"，本案涉案金额18万余元，已远超起刑点。考虑到被告人村干部身份，其行为严重损害基层群众利益，应从重处罚。建议法庭在量刑时严格把握缓刑适用条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于退赔情况\n虽然被告人尚未全额退赔，但已主动退赔106703元，占涉案金额的56.2%，远高于部分职务侵占案件中被告人的退赔比例。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于部分退赃退赔的，应当综合考虑退赔比例等情况予以从宽处罚。\n\n二、关于主观恶性\n被告人虽分多次取款，但均未采取任何掩饰手段，银行流水清晰可查，表明其并无长期隐匿侵占的故意。根据《刑法》第六十一条规定，量刑应当与犯罪分子所犯罪行和承担的刑事责任相适应。\n\n三、关于社会危害性\n本案中被告人挪用的村民资金主要用于偿还债务和家庭开支，未用于违法犯罪活动，社会危害性相对较小。且案发后被告人积极配合调查，如实供述，未造成严重后果扩大。\n\n四、量刑建议\n考虑到被告人系初犯，认罪悔罪态度诚恳，建议法庭在法定刑幅度内从轻处罚，并适用缓刑，以便被告人能够继续履行退赔义务，最大限度挽回村民损失。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于退赔比例问题\n辩护人强调56.2%的退赔比例，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，退赔比例需达到80%以上才能认定为\"大部分退赔\"。被告人尚有83197元未退赔，且无具体还款计划，不能认定为积极退赔。\n\n二、关于主观恶性认定\n被告人作为村干部，明知资金性质仍持续一年多分25次挪用，根据《刑法》第二百七十一条的立法本意，这种利用职务便利的侵占行为本身就具有较大主观恶性。经济困难不能成为减轻罪责的理由。\n\n三、关于社会危害性评估\n本案涉及8户村民切身利益，挪用资金导致村民贷款信用受损，社会影响恶劣。根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第一条，基层干部侵害群众利益应从重处罚。\n\n四、关于缓刑适用条件\n根据《刑法》第七十二条，适用缓刑需确认\"不致再危害社会\"。被告人长期、多次挪用资金的行为模式，已表明其缺乏对职务行为的敬畏，不符合缓刑的实质条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于退赔问题\n虽然退赔比例未达80%，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于部分退赃退赔的，仍应酌情从宽处罚。被告人已退赔10万余元，并当庭表示愿意继续退赔，这种积极态度应当予以肯定。\n\n二、关于主观恶性\n被告人虽多次取款，但均如实记录在银行流水中，未采取任何掩饰手段，表明其主观上并非蓄意长期侵占。根据《刑法》第六十一条，量刑应当与犯罪情节相适应，不能仅以次数论恶性。\n\n三、关于社会危害性\n现有证据未显示村民贷款信用实际受损，公诉人提出的\"社会影响恶劣\"缺乏充分证据支持。被告人作为长期服务基层的村干部，其行为虽违法但未造成不可挽回的后果。\n\n四、关于缓刑适用\n被告人系初犯，认罪态度诚恳，且已部分履行退赔义务，符合《刑法》第七十二条\"确有悔改表现\"的要求。适用缓刑有利于其继续履行退赔责任，更符合刑罚的教育改造目的。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪悔罪，对给村民和村集体造成的损失深感愧疚。我已经退赔了106703元，愿意继续努力偿还剩余款项。恳请法庭考虑我认罪态度良好、已部分退赔的情况，给予从轻处罚的机会。我保证今后遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "西藏自治区聂荣县人民法院  \n刑事判决书  \n（20xx）×刑初字第××号  \n\n公诉机关西藏自治区聂荣县人民检察院。  \n被告人旺某，男，藏族，19xx年x月x日出生，西藏聂荣县人，原任西藏聂荣县某镇某村党支部副书记、村主任，文化程度XXX，住西藏聂荣县某镇某村。因涉嫌职务侵占罪于20xx年x月x日被采取强制措施。  \n辩护人XXX，西藏XX律师事务所律师。  \n\n西藏自治区聂荣县人民检察院以聂检刑诉字〔2018〕004号起诉书指控被告人旺某犯职务侵占罪，于20xx年x月x日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。西藏自治区聂荣县人民检察院指派检察员XXX出庭支持公诉，被告人旺某及其辩护人XXX到庭参加诉讼。现已审理终结。  \n\n公诉机关指控：2015年7月至2016年9月，被告人旺某利用担任村党支部副书记、村主任的职务便利，将保管的8户村民\"惠民一折通\"资金144800元分25次取走，并将村集体采石款45000元非法占为己有，共计189800元用于个人债务及日常开销。案发后已退赔106703元。认为其行为构成职务侵占罪，建议判处有期徒刑XX，缓刑XX，并处罚金。  \n\n被告人旺某对指控事实、罪名及量刑建议无异议，自愿认罪认罚。辩护人提出被告人认罪态度好、已部分退赔、主观恶性较小，建议从轻处罚并适用缓刑。  \n\n经审理查明：2015年7月，被告人旺某受村委会委托保管10户村民\"惠民一折通\"（后归还2户）。2015年7月至2016年9月间，旺某分25次从8户村民账户取走144800元。2016年9月，旺某将保管的村集体采石款45000元全部挪用。上述款项共计189800元均被用于个人支出。案发后已退赔106703元。认定上述事实的证据有：被告人供述、银行流水、取款明细、证人证言、扣押退还清单等28项证据证实，被告人及辩护人均无异议。  \n\n本院认为，被告人旺某作为村基层组织人员，利用职务便利侵占集体资金和村民托管资金，数额较大，其行为已构成职务侵占罪。鉴于其认罪态度良好、自愿认罪认罚并部分退赔，依法可从轻处罚。辩护人关于从宽处罚的意见予以采纳。依照《中华人民共和国刑法》第二百七十一条第一款、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第六十四条之规定，判决如下：  \n\n一、被告人旺某犯职务侵占罪，判处有期徒刑二年，缓刑三年，并处罚金人民币二万元；  \n二、被告人旺某继续退赔剩余赃款人民币八万三千一百九十七元。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向那曲市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长 XXX  \n20xx年x月x日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。\n\n举证质证阶段总结：\n\n1. 公诉人出示了28项证据，包括：\n   - 被告人在侦查阶段的供述，详细说明了挪用村民\"惠民一折通\"资金144800元和村集体采石款45000元的具体经过、动机及案发后处理情况\n   - 证明被告人身份及职务的书证（个人信息采集表、当选证明）\n   - 证明资金往来的书证（采石合同、银行流水、取款明细等）\n   - 证明资金保管及挪用情况的27名证人证言\n   - 证明涉案银行卡使用的勘验笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n该阶段确认了案件关键事实：被告人作为村干部，利用职务便利挪用村民托管资金和村集体资金共计189800元用于个人用途，且被告人对所有指控证据均无异议。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。\n\n举证质证阶段总结：\n\n1. 公诉人出示了28项证据，包括：\n   - 被告人在侦查阶段的供述，详细说明了挪用村民\"惠民一折通\"资金144800元和村集体采石款45000元的具体经过、动机及案发后处理情况\n   - 证明被告人身份及职务的书证（个人信息采集表、当选证明）\n   - 证明资金往来的书证（采石合同、银行流水、取款明细等）\n   - 证明资金保管及挪用情况的27名证人证言\n   - 证明涉案银行卡使用的勘验笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n该阶段确认了案件关键事实：被告人作为村干部，利用职务便利挪用村民托管资金和村集体资金共计189800元用于个人用途，且被告人对所有指控证据均无异议。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。\n\n举证质证阶段总结：\n\n1. 公诉人出示了28项证据，包括：\n   - 被告人在侦查阶段的供述，详细说明了挪用村民\"惠民一折通\"资金144800元和村集体采石款45000元的具体经过、动机及案发后处理情况\n   - 证明被告人身份及职务的书证（个人信息采集表、当选证明）\n   - 证明资金往来的书证（采石合同、银行流水、取款明细等）\n   - 证明资金保管及挪用情况的27名证人证言\n   - 证明涉案银行卡使用的勘验笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n该阶段确认了案件关键事实：被告人作为村干部，利用职务便利挪用村民托管资金和村集体资金共计189800元用于个人用途，且被告人对所有指控证据均无异议。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。\n\n举证质证阶段总结：\n\n1. 公诉人出示了28项证据，包括：\n   - 被告人在侦查阶段的供述，详细说明了挪用村民\"惠民一折通\"资金144800元和村集体采石款45000元的具体经过、动机及案发后处理情况\n   - 证明被告人身份及职务的书证（个人信息采集表、当选证明）\n   - 证明资金往来的书证（采石合同、银行流水、取款明细等）\n   - 证明资金保管及挪用情况的27名证人证言\n   - 证明涉案银行卡使用的勘验笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n该阶段确认了案件关键事实：被告人作为村干部，利用职务便利挪用村民托管资金和村集体资金共计189800元用于个人用途，且被告人对所有指控证据均无异议。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：确认被告人行为符合职务侵占罪构成要件\n- 量刑情节：指出从重情节（数额大、持续时间长、涉及户数多）和从轻情节（认罪态度好、部分退赔）\n- 坚持起诉书提出的量刑建议\n\n2. 辩护人发表辩护意见：\n- 强调被告人认罪态度良好、已部分退赔并愿意继续退赔\n- 提出被告人因家庭经济困难挪用资金，主观恶性较小\n- 建议从轻处罚并适用缓刑\n\n3. 控辩双方主要争议焦点：\n- 退赔比例认定（56.2%是否构成从宽处罚条件）\n- 主观恶性评估（多次取款与经济困难的关系）\n- 社会危害性程度（是否造成实际损害）\n- 缓刑适用条件（是否符合\"不致再危害社会\"标准）\n\n4. 双方补充辩论：\n- 公诉人强调退赔未达80%标准、基层干部侵害群众利益应从重\n- 辩护人主张部分退赔也应从宽、未造成不可挽回后果",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人旺某利用职务便利侵占村集体资金45000元及村民托管资金144800元，涉嫌职务侵占罪。\n2. 被告人表示对起诉书指控的事实和罪名无异议，认罪悔罪，已退赔106703元，愿意继续退赔剩余款项。\n3. 公诉人讯问：\n   - 被告人承认清楚资金管理职责要求；\n   - 供述144800元分25次从8户村民账户取出用于个人债务和日常开销；\n   - 45000元采石款中40000元存入个人账户还债，5000元用于家庭开支；\n   - 承认未告知任何人挪用行为，持续时间为2015年7月至2016年9月。\n4. 辩护人讯问：\n   - 被告人称挪用系因家庭经济困难；\n   - 案发后主动表示愿意偿还并已部分退赔；\n   - 向村委会说明了资金具体用途。\n5. 法庭补充询问：\n   - 确认挪用金额计算依据为银行流水；\n   - 被告人未采取掩盖行为。\n\n举证质证阶段总结：\n\n1. 公诉人出示了28项证据，包括：\n   - 被告人在侦查阶段的供述，详细说明了挪用村民\"惠民一折通\"资金144800元和村集体采石款45000元的具体经过、动机及案发后处理情况\n   - 证明被告人身份及职务的书证（个人信息采集表、当选证明）\n   - 证明资金往来的书证（采石合同、银行流水、取款明细等）\n   - 证明资金保管及挪用情况的27名证人证言\n   - 证明涉案银行卡使用的勘验笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n该阶段确认了案件关键事实：被告人作为村干部，利用职务便利挪用村民托管资金和村集体资金共计189800元用于个人用途，且被告人对所有指控证据均无异议。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：确认被告人行为符合职务侵占罪构成要件\n- 量刑情节：指出从重情节（数额大、持续时间长、涉及户数多）和从轻情节（认罪态度好、部分退赔）\n- 坚持起诉书提出的量刑建议\n\n2. 辩护人发表辩护意见：\n- 强调被告人认罪态度良好、已部分退赔并愿意继续退赔\n- 提出被告人因家庭经济困难挪用资金，主观恶性较小\n- 建议从轻处罚并适用缓刑\n\n3. 控辩双方主要争议焦点：\n- 退赔比例认定（56.2%是否构成从宽处罚条件）\n- 主观恶性评估（多次取款与经济困难的关系）\n- 社会危害性程度（是否造成实际损害）\n- 缓刑适用条件（是否符合\"不致再危害社会\"标准）\n\n4. 双方补充辩论：\n- 公诉人强调退赔未达80%标准、基层干部侵害群众利益应从重\n- 辩护人主张部分退赔也应从宽、未造成不可挽回后果",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 24.0,
+    "fine": 20000.0,
+    "reprieve": 36.0
+  }
+]
