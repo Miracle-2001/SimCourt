@@ -27,8 +27,6 @@ os.environ['BASE_URL'] = "https://svip.xty.app/v1"
 os.environ['API_KEY'] = "sk-IDaJAtYpgbgprsWRGBeVpQtmL4ddqTtElxbSYcr3eNMdACzG"
 
 
-# os.environ['BASE_URL'] = 'https://api.siliconflow.cn/v1'
-# os.environ['API_KEY'] = 'sk-gkdahtyanpeqrloadhiqbjarcmzfqlbrpjzhummgqxnedhjw'
 client = openai.OpenAI(
     base_url=os.getenv("BASE_URL"),
     api_key=os.getenv("API_KEY"),
@@ -120,7 +118,7 @@ def query_model(messages, model_name, sys_msg=None, temperature=0.7, max_tokens=
             "prompt_tokens": response.usage.prompt_tokens,
         }
     elif model_name == "deepseek-official":
-        client = openai.OpenAI(api_key="sk-1d9535a9f8584209a3621dd2db9493e8", base_url="https://api.deepseek.com")
+        client = openai.OpenAI(api_key="", base_url="https://api.deepseek.com")
         response = client.chat.completions.create(
             model="deepseek-chat",
             messages=messages,
@@ -137,7 +135,7 @@ def query_model(messages, model_name, sys_msg=None, temperature=0.7, max_tokens=
         for i in range(3):
             client = OpenAI(
                 base_url='https://api.siliconflow.cn/v1',
-                api_key='sk-gkdahtyanpeqrloadhiqbjarcmzfqlbrpjzhummgqxnedhjw'
+                api_key=''
             )
 
             # 发送带有流式输出的请求

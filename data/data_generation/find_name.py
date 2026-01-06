@@ -29,9 +29,9 @@ def load_json(file_path):
         
 def get_apillm(name):
     return APILLM(
-            api_key="JWXGr1DMcAz4yGPzPtdqHs4G",
-            api_secret="4J4sAHLH4H6VmyTu3PbGNeqIN8uqqF9Y",
-            platform="proxy",
+            api_key="",
+            api_secret="",
+            platform="",
             model=name,
         )
     
@@ -163,19 +163,7 @@ if __name__ =="__main__":
         llm=get_apillm("deepseek-v3-250324"),
     )
     
-    # basic_path='../data/data0417'
     basic_path='../data/data_video'
-    # files=os.listdir(basic_path)
-    # files=["example_1","example_3"]+["example_"+str(i) for i in range(6,100)]
-    # ids = [0 ,1 ,230, 231, 232 ,233, 234 ,240 ,241, 242 ,243, 244, 250, 251, 252, 253 ]
-    # for i in range(40):  # 5组数字
-    #     for j in range(5):
-    #         if i * 10+j <=330:
-    #             continue
-    #         ids.append(i * 10+j)
-    # ids = [382 ,64 ,181 ,104, 
-    #        353,62,214,241,262]
-    # ids=[214]
     ids=[i for i in range(20,21)]
     files=["example_"+str(i) for i in ids]
     

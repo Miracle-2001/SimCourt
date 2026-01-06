@@ -49,13 +49,20 @@ if __name__=="__main__":
         name=-1,
         role='generator',
         description="",
+        llm=get_apillm("qwen3-8b")
+    )
+    agent2=Agent(
+        id=-1,
+        name=-1,
+        role='generator',
+        description="",
         llm=get_apillm("deepseek-v3-250324")
     )
     
     files=os.listdir(pwd)
     # simu_list=[382 ,64 ,181 ,104, 353,62,214,241,262]
     # simu_list=[i for i in range(400)]
-    simu_list=[214]
+    # simu_list=[214]
     judge=[]
     result=[]
     # with open('judge_04191239.json', 'r', encoding='utf-8') as file:
@@ -72,8 +79,8 @@ if __name__=="__main__":
     for id in tqdm(range(len(files))):
         file=files[id]
         cnt=int(file.split("_")[-1])
-        if cnt not in simu_list:
-            continue
+        # if cnt not in simu_list:
+        #     continue
         try:
             print(file)
             with open(os.path.join(pwd,file,'data_anonymized.json')) as f:
@@ -134,7 +141,7 @@ if __name__=="__main__":
             #                 **如果认为不需要处罚实刑，不适用缓刑，或不处罚罚金，则不提及实刑，缓刑或罚金。不必完全依照起诉书**
             #                 3.回复时直接给出你的判罚，不要说多余的话。
             #                 """)
-            panjue=agent.speak(res,
+            panjue=agent2.speak(res,
                             """
                             返回输入中的刑期，罚金，缓刑结果。
                             
@@ -149,7 +156,8 @@ if __name__=="__main__":
                                 ...判处有期徒刑二年六个月，缓刑三年，罚金四千元。...
                                 返回：
                                 30#36#4000
-                            
+
+                                注意，都是以月份为单位！！而不是年
                                 直接返回结果即可，不要说多余的话！
                             """    
                                     )
@@ -197,6 +205,6 @@ if __name__=="__main__":
     formatted_datetime = current_datetime.strftime('%m%d%H%M')
 
 
-    save_json(judge,"./",f"judge_{formatted_datetime}.json")
-    save_json(result,"./",f"result_{formatted_datetime}.json")
+    save_json(judge,"./",f"judge_qwen3-8b{formatted_datetime}.json")
+    save_json(result,"./",f"result_qwen3-8b{formatted_datetime}.json")
     

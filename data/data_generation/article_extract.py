@@ -5,10 +5,8 @@ import httpx
 import openai
 from openai import OpenAI
 
-os.environ['BASE_URL'] = "https://svip.xty.app/v1"
-os.environ['API_KEY'] = "sk-r0WeYOdkMjzYdnSxEcC8B931Aa904e4bBaCcAc2a57D803F1"
-# os.environ['BASE_URL'] = 'https://api.siliconflow.cn/v1'
-# os.environ['API_KEY'] = 'sk-gkdahtyanpeqrloadhiqbjarcmzfqlbrpjzhummgqxnedhjw'
+os.environ['BASE_URL'] = ""
+os.environ['API_KEY'] = ""
 client = openai.OpenAI(
     base_url=os.getenv("BASE_URL"),
     api_key=os.getenv("API_KEY"),

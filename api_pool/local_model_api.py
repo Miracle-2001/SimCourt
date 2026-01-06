@@ -7,12 +7,7 @@ import os
 
 # 假设你已经定义了一个函数来加载模型路径
 def get_model_path(model_name):
-    if model_name == "llama3.1-8b-instruct":
-        return "/home/lijiaqi/ParaAgent/model/meta-llama/Llama-3.1-8B-Instruct"
-    elif model_name == "qwen2.5-7b-instruct":
-        return "/home/lijiaqi/ParaAgent/model/Qwen/Qwen2.5-7B-Instruct"
-    else:
-        return model_name
+    return model_name
 
 # 定义模型加载的API
 class ModelRequest(BaseModel):
@@ -53,25 +48,6 @@ async def predict(request: ModelRequest):
         model = model_data["model"]
         tokenizer = model_data["tokenizer"]
         
-        # 手动补全
-        # print("model loaded : ", model)
-        # # 将消息列表转换为 Qwen 的对话格式
-        # prompt = ""
-        # for msg in request.messages:
-        #     role = msg['role']
-        #     content = msg['content']
-        #     if role == "system":
-        #         prompt += f"<|im_start|>system\n{content}<|im_end|>\n"
-        #     elif role == "user":
-        #         prompt += f"<|im_start|>user\n{content}<|im_end|>\n"
-        #     elif role == "assistant":
-        #         prompt += f"<|im_start|>assistant\n{content}<|im_end|>\n"
-        
-        # prompt += "<|im_start|>assistant\n"  # 添加助手角色标记以开始生成
-        
-        # # 编码输入文本
-        # inputs = tokenizer(prompt, return_tensors="pt")
-
         # 使用chat函数补全
         inputs = tokenizer(
             tokenizer.apply_chat_template(request.messages, 

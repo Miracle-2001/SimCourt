@@ -4,12 +4,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
 def get_model_path(model_name):
-    if model_name == "llama3.1-8b-instruct":
-        return "/home/lijiaqi/ParaAgent/model/meta-llama/Llama-3.1-8B-Instruct"
-    elif model_name == "qwen2.5-7b-instruct":
-        return "/home/lijiaqi/ParaAgent/model/Qwen/Qwen2.5-7B-Instruct"
-    else:
-        return model_name
+    return model_name
 
 
 def get_model(model_name, max_new_tokens=2000):

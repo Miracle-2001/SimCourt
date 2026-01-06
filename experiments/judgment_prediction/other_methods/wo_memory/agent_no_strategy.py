@@ -217,7 +217,7 @@ class Agent:
             self.memory=""
     
     def yilvkezhi_retriever(self,prompt):
-        url = "http://web.megatechai.com:33615/case_app/wenshu_search/search_and_answer"
+        url = ""
         payload = json.dumps({
         "query": prompt,
         "need_answer": 1

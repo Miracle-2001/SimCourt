@@ -7,12 +7,7 @@ import os
 
 # 假设你已经定义了一个函数来加载模型路径
 def get_model_path(model_name):
-    if model_name == "llama3.1-8b-instruct":
-        return "/home/lijiaqi/ParaAgent/model/meta-llama/Llama-3.1-8B-Instruct"
-    elif model_name == "qwen2.5-7b-instruct":
-        return "/home/lijiaqi/ParaAgent/model/Qwen/Qwen2.5-7B-Instruct"
-    else:
-        return model_name
+    return model_name
 
 # 创建一个client类来模拟调用模型
 class LocalModelClient:

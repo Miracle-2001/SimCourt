@@ -6,18 +6,7 @@ import os
 
 # 假设你已经定义了一个函数来加载模型路径
 def get_model_path(model_name):
-    if model_name == "Llama-3.1-8B-Instruct":
-        return "/liuzyai04/thuir/LLM/Meta-Llama-3.1-8B-Instruct"
-    elif model_name == "qwen2.5-7b-instruct":
-        return "/liuzyai04/thuir/LLM/Qwen2.5-7B-Instruct"
-    elif model_name == "qwen2.5-32b-instruct":
-        return "/liuzyai04/thuir/LLM/Qwen2.5-32B-Instruct"
-    elif model_name == "QwQ-32B":
-        return "/liuzyai04/thuir/LLM/QwQ-32B"
-    elif model_name == "glm-4-9b-chat":
-        return "/liuzyai04/thuir/LLM/glm-4-9b-chat"
-    else:
-        return model_name
+    return model_name
 
 # 定义模型加载的API
 class ModelRequest(BaseModel):
