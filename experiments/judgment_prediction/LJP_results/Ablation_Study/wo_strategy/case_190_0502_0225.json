@@ -1,0 +1,3753 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人姜某甲，男，汉族，文化程度XXX，户籍XXX，无违法犯罪记录。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "安徽省亳州市谯城区人民检察院  \n起 诉 书  \n\n谯检刑诉〔2013〕844号  \n\n被告人姜某甲，男，汉族，文化程度XXX，户籍XXX。因涉嫌合同诈骗罪，于2013年5月28日被亳州市公安局谯城分局刑事拘留。  \n\n本案由亳州市公安局谯城分局侦查终结，以被告人姜某甲涉嫌合同诈骗罪，于2013年12月18日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2010年3月至2012年4月期间，被告人姜某甲以支付部分货款或赊账方式，分别将以下药材经营户的药材发往四川省成都市进行销售：  \n1.亳州市开发区木兰社区鲁某价值43500元的板蓝根；  \n2.亳州市谯城区八角台路张某甲价值31100元的桑蛸、防风；  \n3.亳州市谯城区沙土镇马某价值21120元的苍术；  \n4.亳州市谯城区谯东镇明某甲价值35653.5元的白术；  \n5.亳州市谯城区颜集镇靳某甲价值325880元的麦冬、元胡；  \n6.亳州市谯城区赵桥乡李某甲价值1009300元的苍术；  \n7.亳州市谯城区开发区彭马社区汪某甲价值210000元的白芍；  \n8.亳州市谯城区古泉东路李某乙价值103670元的红花；  \n9.亳州市谯城区十九里镇雷某价值117140元的丹参、知母；  \n10.亳州市谯城区谯东镇明家湾明某乙价值40320元的白术；  \n11.亳州市涡阳县义门镇刘某价值211000元的黄连；  \n12.亳州市谯城区北赵园巷董某价值56000元的黄翘；  \n13.亳州市谯城区颜楼行政村王某甲价值86255元的丹参；  \n14.亳州市谯城区颜楼行政村颜某甲价值14850元的丹参；  \n15.亳州市经济开发区云渡社区任某价值182400元的贝母、白术、白芍等。  \n\n被告人姜某甲将上述药材从亳州市华天物流发往成都后，一部分卖于成都的药商陈某甲、唐某，一部分由其本人在成都药材市场自行销售，所得货款除1012330元用于偿还部分被害人外，其余1277958.2元被其非法占有。  \n\n此外，2011年8月至2012年4月期间，姜某甲以每公斤48元或54元的价格，多次购买张某乙的元胡约37.3吨（价值约203万元），后以每公斤42元的价格卖给亳州同善堂中药材有限公司，所得款项除支付张某乙91万元外，其余112.5万元被其非法占有。  \n\n2012年1月和7月，被告人姜某甲将其位于亳州市谯城区姜屯的两套房屋及一辆本田汽车卖出后，中断通讯工具逃匿。  \n\n认定上述事实的证据如下：  \n1.被告人姜某甲的供述；  \n2.被害人鲁某、张某甲、马某、明某甲、靳某乙、李某甲、汪某甲、李某乙、雷某、明某乙、刘某、董某、王某甲、颜某甲、任某、张某乙的陈述；  \n3.欠条、协议书、房产买卖合同、托运单据、银行转账记录等书证；  \n4.证人崔某、徐某、姜某乙、杨某、郭某、温某甲、陈某乙、王某乙等人的证言；  \n5.亳州市华天公铁联运托运站统计表、银行凭证、抓获经过等书证。  \n\n本院认为，被告人姜某甲以非法占有为目的，在签订、履行合同过程中，骗取他人财物共计240.3582万元，数额特别巨大，其行为已触犯《中华人民共和国刑法》第二百二十四条之规定，犯罪事实清楚，证据确实、充分，应当以合同诈骗罪追究其刑事责任。根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n建议判处被告人姜某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n安徽省亳州市谯城区人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我承认起诉书指控的基本事实，但我并非一开始就有非法占有的故意。当时确实是因为经营困难，资金周转不灵才导致无法按时支付货款。我愿意尽力赔偿被害人的损失。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你承认将药材发往成都销售后所得货款未全部支付给被害人，请问你当时为何不将全部货款支付给药材经营户？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时因为经营不善，资金链断裂，部分货款用于支付其他经营户的欠款和维持生意运转，确实没能及时支付全部货款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你在2012年1月和7月出售房产和汽车后，为何要中断通讯工具逃匿？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时资金链完全断裂，无力偿还欠款，一时糊涂选择了逃避。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称当时是因为经营不善导致资金链断裂，那么请问你在2011年8月至2012年4月期间，为何要以低于进货价的价格将元胡卖给亳州同善堂中药材有限公司？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时市场行情不好，为了尽快回笼资金周转，不得已低价出售。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称低价出售元胡是为了回笼资金，那么为何在获得112.5万元货款后，仅支付张某乙91万元，其余款项去向如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分用于支付其他经营户的欠款，部分用于维持生意运转，还有部分用于个人生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，请具体说明这些经营户的姓名和支付金额。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时支付了鲁某2万元、张某甲1.5万元、马某1万元、明某甲1.8万元、靳某甲15万元、李某甲30万元、汪某甲8万元、李某乙5万元、雷某6万元、明某乙2万元、刘某10万元、董某3万元、王某甲4万元、颜某甲1万元、任某9万元。具体金额可能有出入，但大致是这样分配的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么为何在2012年1月和7月出售房产和汽车后，仍然没有支付剩余欠款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时出售房产和汽车所得款项主要用于偿还其他债务和个人生活开支，确实没有优先支付药材经营户的欠款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些支付行为是否有相应的银行转账记录或其他书面凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分支付是通过现金交易，没有全部留下银行转账记录。但有些支付有收条或欠条作为凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分支付是通过现金交易，那么请问这些现金支付的收条或欠条现在是否能够提供？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分收条和欠条在案发时已经丢失，目前能够提供的凭证有限。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分支付是通过现金交易且凭证丢失，那么请问这些现金支付的具体时间、地点和在场见证人是谁？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分现金支付是在药材市场当面进行的，具体时间记不太清了，在场的主要是市场里的其他经营户，但具体是谁现在记不清了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些经营户的欠款是否也是通过同样的药材购销方式产生的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，这些经营户的欠款都是通过药材购销业务产生的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些经营户的欠款具体是在什么时间段产生的？是在你收取本案被害人的药材之前还是之后？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些经营户的欠款主要是在2010年至2012年期间产生的，与本案被害人的药材购销业务是同期进行的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些经营户的姓名和具体欠款金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些经营户包括李某、王某、张某等人，具体欠款金额记不太清了，大约在5万到20万不等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些经营户是否已经向公安机关报案或向法院提起诉讼？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些经营户中部分已经报案，但具体哪些人报案我不太清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与本案被害人之间的药材购销业务是否都签订了书面合同？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分有书面合同，部分是通过口头约定进行的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与被害人之间的口头约定具体是如何达成的？是否有第三方见证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大部分是在药材市场当面谈的，有市场其他经营户在场见证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与被害人之间的口头约定中，是否明确约定了付款期限和付款方式？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分口头约定有明确付款期限，一般是货到后30天内付款。付款方式主要是银行转账或现金支付。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人说明过你的经营状况和资金周转情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有部分经营户知道我的资金周转困难情况，但没有向所有被害人详细说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向银行或其他金融机构申请过贷款来缓解资金压力？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我向当地几家银行申请过贷款，但由于经营规模小、信用记录不足等原因，都没有获得批准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人提出过延期付款或分期付款的请求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提出过延期付款的请求，但大部分被害人不同意延期。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人提供过任何形式的担保或抵押来保证付款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提供过个人担保，但没有提供过实物抵押。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人提供过药材销售后的具体账目明细？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提供过销售账目，但不是所有被害人都提供了完整的账目明细。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人提出过具体的还款计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提出过还款计划，但当时资金状况不稳定，无法按计划执行。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人说明过成都药材市场的销售价格波动情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人说明过成都市场的价格波动情况，但当时市场行情确实不好，导致销售价格低于预期。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人说明过成都药材市场的销售价格低于亳州市场的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人说明过成都市场的销售价格低于亳州市场的情况，但当时为了维持生意运转，不得不继续经营。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在2010年至2012年期间经营药材生意时，是否曾向被害人提供过成都药材市场的销售凭证或发票？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提供过销售凭证，但不是所有交易都开具了正式发票。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些经营户的欠款是否已经全部偿还？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些经营户的欠款尚未全部偿还，仍有部分欠款未结清。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你声称部分货款用于支付其他经营户的欠款，那么请问这些经营户是否在本案被害人名单中？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些经营户中有部分在本案被害人名单中，也有部分不在名单内。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2010年3月至2012年4月期间，我在安徽省亳州市通过支付部分货款或赊账的方式，从鲁某、张某甲、马某等15名药材经营户处收购药材，并通过亳州市华天物流发往四川省成都市销售。部分药材卖给成都药商陈某甲、唐某，其余由我在成都药材市场自行销售。销售所得货款中，1012330元用于偿还部分被害人，剩余1277958.2元未支付。  \n\n2011年8月至2012年4月，我从张某乙处购买约37.3吨元胡，价值约203万元，后以低价卖给亳州同善堂中药材有限公司的姜某丙，支付张某乙91万元货款，剩余112.5万元未支付。  \n\n2012年1月和7月，我出售位于亳州市谯城区姜屯的两套房屋及一辆本田汽车。2012年8月初，我中断通讯工具后离开亳州。  \n\n（2）犯案动机  \n我因资金周转困难，无法按时支付药材货款，遂采取赊购和高买低卖的方式维持经营，最终导致资金链断裂，无法偿还欠款。  \n\n（3）案发之后的处理  \n我在案发后没有自首，于2013年5月28日被公安机关抓获。截至判决时，我尚未赔偿被害人损失，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：欠条一份，证明姜某甲欠鲁某板蓝根货款43500元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.被害人陈述：鲁某说：“2010年2月20日前后和姜某甲谈好以每公斤20多元，共500公斤，价值1万元的药材给姜某甲送的货，板蓝根送到董园姜某甲的租房子，姜某甲付的现金。又过十来天，也就是同年3月2、日、3月9日上午又给他送两次，又给他送的板蓝根，姜某甲未付现金，打的欠条，共欠43500元，现在共欠款是2万余元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：银行转账记录一份，佐证鲁某与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：欠条一份，证明姜某甲欠张某甲桑蛸、防风货款31100元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：张某甲说：“2010年春认识姜某甲，购买药材时都是现金结算。在6月份给姜某丁送了两次天麻、桑蛸，给打欠条是31100元，后来还一部分，现还欠13500元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：银行转账记录一份，佐证张某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：欠条一份，证明姜某甲欠马某苍术货款21120元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.被害人陈述：马某说：“2010年6月12日姜某甲给其打电话要960公斤苍术个子，价值21120元，其给他把货送到姜某甲董园的租房处，没有给现款，和他一起把货送到了福成都托运站，之后打的欠条，现两年多了找不到人了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：托运单据一份，佐证马某所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：欠条一份，证明姜某甲欠明某甲白术货款35653.2元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.被害人陈述：明某甲说：“2011年3月9日姜某甲到其家中拉他8414公斤白术，每公斤是4308元，价值35653.2元，当时没有付款，写的欠条，一直拖着不还，后来分两次付3万元现金，欠条也没有换，到现在欠款是5653.2元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：银行转账记录一份，佐证明某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：协议书一份，证明姜某甲和靳某甲的协议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.被害人陈述：靳某乙说：“他是靳某甲的儿子，因其父亲在成都市场和姜某甲谈好价格，2011年8月19日让其给姜某甲发2210公斤的麦冬，价值282880元当时是通过万福成都专线发的货，提货人是姜某甲，货到之后，姜某甲付给1万元，下剩268600元药材款，姜某甲给其父亲靳某甲打了一张欠条，后又发900公斤，价值42300元，两批货价值325880元，总计姜某甲付5500元，什么时候付款不清楚，2011年12月14日其父亲靳某甲要姜某甲64500元的白芍、丹参，写的有协议，至今姜某甲还欠我们货款是206380元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：托运单据一份，佐证靳某乙所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：欠条一份，证明姜某甲欠李某甲货款361400元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：欠条一份，证明姜某甲欠李某甲货款231600元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：欠条一份，证明姜某甲欠李某甲货款416300元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：欠条一份，证明姜某甲欠李某甲货款1104000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：房产买卖合同及收条一份，证明姜某甲将房产一处卖给李某甲，价值30万元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：房产登记证明一份，佐证房产买卖合同的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.被害人陈述：李某甲说：“2010年3月份认识的姜某甲，在家中卖几次货付的都是现金，感觉有信誉。在2011年3月13日姜某甲电话联系要一批丹皮，有4吨，在5月23日给他写的欠条，并约定一个月还款，利息1分5算起，后来几次送货，姜某甲通过银行付一部分款，至今欠其药款是257940元。在2012年1月18日姜某甲讲如有要帐将在十九里镇姜屯的一处房产以30万价格卖给她，写的有协议。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.书证：银行转账记录一份，佐证李某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：崔某说：“李某甲是其家属，2011年底到2012年初在生意上一直和姜某甲做药材生意，姜某甲拉其家的药材是送到万福的成都专线处，接货人是陈某乙和房某，欠帐都是累积下来的，李某甲知道。在2012年1月18日姜某甲位于十九里镇姜屯的自建房有370多平方米，以30万元的价格卖给他们了，写的有协议，付的现金，当时姜某甲还其家的药款，因是朋友付他的现金。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.书证：托运单据一份，佐证崔某所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.书证：欠条一份，证明姜某甲欠汪某甲、汪某乙货款23万元以房做抵押",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.书证：房产抵押登记证明一份，佐证欠条中房产抵押的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.被害人陈述：汪某甲说：“2011年11月10日姜某甲到其处拉的21万元白芍，拉货其不在家，给其父亲写的欠条。之后付一部分款，在2013年2月18日姜某甲，给其和弟弟汪某丙写个总欠条，计款是23万元，其中欠他15万元欠汪某丙8万，在多次催要下，又付一部分，现总计欠其药材款11万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.书证：银行转账记录一份，佐证汪某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.书证：欠条一份，证明姜某甲欠李某乙红花货款103670元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.被害人陈述：李某乙说：“2011年春节后姜某甲要其白芍，价款是103670元，是其把货送到万福的成都托运站，姜某甲给写的欠条，多次催要付一部分，至今欠款是63670元。现也找不到人了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.书证：托运单据一份，佐证李某乙所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.书证：欠条一份，证明姜某甲欠雷某丹参、知母货款117140元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.被害人陈述：雷某说：“2011年农历11月份姜某甲到其家中拉药材丹参，在11月26日给其写的欠条117140元，支付一部分，现欠款是86340元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.书证：银行转账记录一份，佐证雷某与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.书证：欠条一份，证明姜某甲欠明某乙白术货款22000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.书证：欠条一份，证明姜某甲欠明某乙白术货款40320元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "39.被害人陈述：明某乙说：“2012年1月份姜某甲从其家中拉的药材白术价值是40320元，在1月20日写的欠条，当时写两张欠条，基22000元已付清，现欠款40320元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "40.书证：银行转账记录一份，佐证明某乙与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "41.书证：欠条一份，证明姜某甲欠刘某黄连货款211000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "42.被害人陈述：刘某说：“他和姜某甲以前是邻居，曾借给姜某甲10万用于生意周转，付1分的利息，也都付清了。在2012年2月14日姜某甲要买他的黄连，价值是211000元，从其家拉走的货，写的欠条，后来一直找不到他，姜某甲的媳妇的电话也停机了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "43.书证：银行转账记录一份，佐证刘某与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "44.书证：欠条一份，证明姜某甲欠董某黄翘货款56000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "45.被害人陈述：董某说：“经刘某认识的姜某甲，2012年3月28日姜某甲从其宾拉黄连1.4吨，价值56000元，写的欠条，至今未付，也联系不上了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "46.书证：托运单据一份，佐证董某所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "47.书证：欠条一份，证明姜某甲欠王某甲丹参货款86255元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "48.被害人陈述：王某甲说：“2012年4月28日温某乙和姜某甲一起到颜楼家中买其丹参和丹参个子，两次计款是86255元，没有付款，写的欠条，从那之后也未找到姜某甲。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "49.书证：托运单据一份，佐证王某甲所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "50.被害人陈述：颜某乙说：“2012年4月20日左右温某乙带着姜某甲到其家买丹参900公斤，价值人民币14850元，没有付款没有写欠条，找不到姜某甲了，手机也停机了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "51.书证：欠条一份，证明姜某甲欠任某丹参、白术等货款182400元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "52.被害人陈述：任某说：“2012年4月份郭某介绍帮姜某甲购买丹参、白术等，价值是8万余元，郭某提的货写的条子，第二次是郭某又来提的货是10万2千多元，两次在一起写的欠条是182400元，都是郭某写的条子。在5月12日和郭某一起到西安找到姜某甲，让姜某甲打的欠条，是182400元，如是付不清，用姜某甲的房子和车抵押。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "53.书证：抵押登记证明一份，佐证欠条中房产和车辆抵押的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "54.书证：欠条一份，证明姜某甲欠张某乙元胡货款933000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "55.书证：欠条一份，证明姜某甲欠张某乙元胡货款392000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "56.被害人陈述：张某乙说：“2011年8月份在市药材交易中心通过钱某认识姜某甲，姜某甲购买他元胡药材三次，价值约203万元，之后付一部分，姜某甲写了两张欠条，一张是933000元，另一张是392000元，至今姜某甲欠其药款是112.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "57.书证：银行转账记录一份，佐证张某乙与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "58.证人证言：魏某说：“姜某甲和其租住的房子是邻居，有一段时间没有兔崽子到姜某甲，那天有人把姜某甲租房的东西都搬走了，有人来要帐，具体情况不清楚。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "59.证人证言：徐某说：“他是同善堂中药材有限责任公司负责人，2012年4月份姜某甲与公司交易有90多万元的货，帐目都结清了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "60.书证：同善堂中药材有限责任公司交易记录一份，佐证徐某所述交易情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "61.证人证言：姜某乙说：“2012年初姜某甲和其同善堂中药材有限公司交易有90万元左右的药材。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "62.书证：同善堂中药材有限责任公司交易记录一份，佐证姜某乙所述交易情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "63.证人证言：杨某说：“2012年7月9日通过姜某甲的爷爷姜某戊购买姜某甲位于姜屯的房屋，价值是10万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "64.书证：房产登记证明一份，佐证杨某所述房产买卖情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "65.证人证言：郭某说：“她先认识的姜某甲的妻子温某丙，给姜某甲送点药材，欠任某药材款姜某甲写的条据。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "66.证人证言：温某甲说：“姜某甲是其丈夫，2003年和姜某甲结婚，开始做药材生意，姜某甲欠人家多少钱她不清楚。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "67.证人证言：陈某乙说：“他在成都市荷花池中药材交易市场经营药材，自2009年就和姜某甲做药材生意，经营额有17万余元（即条据货清，钱清）。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "68.书证：成都市荷花池中药材交易市场交易记录一份，佐证陈某乙所述交易情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "69.证人证言：王某乙说：“他在成都经营晨运物流公司，姜某甲在2012年5月之前在其公司托运过货物。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "70.书证：晨运物流公司托运记录一份，佐证王某乙所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "71.书证：房屋买卖合同一份，证明杨某购买姜某甲房屋的协议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "72.书证：房产登记证明一份，佐证房屋买卖合同的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "73.书证：亳州市华天公铁联运托运站2009-2011年间统计表一份，证明姜某甲发往成都货物情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "74.书证：亳州市华天公铁联运托运站官方证明一份，佐证统计表的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "75.书证：银行凭证一份，证明对姜某甲银行存取款情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "76.书证：银行官方证明一份，佐证银行凭证的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "77.书证：姜某甲合同诈骗案件已偿还货款表一份",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "78.书证：法院官方证明一份，佐证偿还货款表的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "79.书证：前科证明一份，证明姜某甲无违法犯罪记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "80.书证：公安机关官方证明一份，佐证前科证明的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "81.书证：抓获经过一份，证明公安机关于2013年5月28日15时许抓获姜某甲",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "82.书证：公安机关官方证明一份，佐证抓获经过的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长、审判员：\n\n公诉人现就本案发表如下公诉意见：\n\n一、关于犯罪事实的认定\n1. 被告人姜某甲在2010年3月至2012年4月期间，通过赊购方式获取15名被害人价值240余万元的药材，仅支付部分货款后逃匿，其行为符合《刑法》第二百二十四条合同诈骗罪的构成要件。\n\n2. 被告人的非法占有目的明显：\n（1）采取高买低卖方式处置元胡，造成112.5万元损失；\n（2）出售房产、汽车后未用于偿还货款，而是携款逃匿；\n（3）中断通讯工具逃避债务。\n\n二、关于量刑情节\n1. 涉案金额特别巨大，达240余万元，根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，应认定为\"数额特别巨大\"。\n\n2. 被告人在案发后未主动投案，系被公安机关抓获归案，不构成自首。\n\n3. 截至庭审时，被告人尚未与被害人达成和解或取得谅解。\n\n三、法律适用\n被告人行为已触犯《刑法》第二百二十四条，构成合同诈骗罪。建议法庭综合考虑以下因素：\n1. 犯罪数额特别巨大；\n2. 造成多名被害人重大经济损失；\n3. 社会危害性较大；\n4. 认罪态度较好但未积极退赃。\n\n综上，公诉人认为应当以合同诈骗罪追究被告人刑事责任，建议判处有期徒刑十年以上，并处罚金。请法庭依法裁判。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长、审判员：\n\n辩护人现就本案发表如下辩护意见：\n\n一、关于犯罪主观方面\n被告人并非一开始就具有非法占有的主观故意。根据被告人的供述，其最初是因经营不善导致资金链断裂，属于正常的商业风险。根据《刑法》第二百二十四条，合同诈骗罪要求行为人具有非法占有的目的，本案中被告人的行为更符合民事纠纷范畴。\n\n二、关于量刑情节\n1. 被告人认罪态度良好，在侦查阶段和庭审中均如实供述犯罪事实，根据《刑法》第六十七条第三款，可以从轻处罚。\n\n2. 被告人已部分偿还货款，共计1012330元，占涉案总额的42%，表明其有悔罪表现。\n\n3. 被告人系初犯、偶犯，无前科劣迹，根据《最高人民法院关于常见犯罪的量刑指导意见》，可以酌情从轻处罚。\n\n三、关于犯罪数额认定\n公诉机关指控的240余万元中，有部分款项系正常的商业往来，建议法庭对犯罪数额进行严格区分认定。\n\n四、关于量刑建议\n鉴于被告人认罪态度良好、部分偿还货款、系初犯等情节，建议法庭在法定刑幅度内从轻处罚，并考虑适用缓刑。\n\n综上，请求法庭充分考虑被告人的从轻情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于非法占有目的的认定\n1. 被告人长期采取赊购方式获取药材，在明知无力偿还的情况下仍持续交易，符合《刑法》第二百二十四条关于\"以非法占有为目的\"的认定标准。根据《全国法院审理金融犯罪案件工作座谈会纪要》，明知没有归还能力而大量骗取资金的，可以认定具有非法占有的目的。\n\n二、关于犯罪数额的认定\n1. 辩护人提出部分款项系正常商业往来，但根据被告人供述和银行转账记录，其将112.5万元货款用于个人开支和其他债务，这部分资金去向明确，应当全额认定为犯罪数额。\n\n三、关于量刑情节的补充\n1. 被告人虽认罪态度良好，但至今未退赔被害人损失，根据《最高人民法院关于常见犯罪的量刑指导意见》，不能认定为积极退赃。\n2. 被告人出售房产、汽车后携款逃匿，中断通讯工具，主观恶性较大，社会危害性严重，不符合适用缓刑的条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于非法占有目的的认定，辩护人认为需要区分商业风险与刑事诈骗的界限。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，应当综合考察行为人的履约能力、履约行为、对取得财物的处置情况等。本案中被告人在交易初期确有实际经营行为，后期因市场行情变化导致资金链断裂，与典型的合同诈骗行为存在区别。\n\n关于量刑情节，虽然被告人未全部退赃，但已偿还42%货款，远高于完全未退赔的情形。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，部分退赃的可以酌情从轻处罚。被告人系初犯，无前科，认罪态度诚恳，符合从轻处罚的法定条件。\n\n关于犯罪数额，辩护人注意到被告人将部分货款用于支付其他经营户欠款，这部分资金仍用于经营活动，不应全部认定为非法占有。建议法庭在量刑时予以区分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于非法占有目的的认定，需要强调被告人实施的高买低卖行为具有明显反常性。根据《刑法》第二百二十四条第三项规定，\"收受对方当事人给付的货物后逃匿的\"即构成合同诈骗罪。本案中被告人在2012年1月和7月出售房产汽车后逃匿，完全符合该条款规定。\n\n关于犯罪数额，被告人将112.5万元货款用于个人开支和其他债务，这部分资金去向明确，且与其他经营户的欠款关系未经查证，不能认定为正常经营行为。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第二条，诈骗数额应当以行为人实际骗取的数额认定。\n\n关于量刑情节，虽然被告人偿还了部分货款，但这是在案发前为维持经营而采取的不得已行为，不能等同于案发后的积极退赃。根据《最高人民法院关于常见犯罪的量刑指导意见》，\"案发前退还的财物\"与\"案发后主动退赔\"在量刑评价上应当区别对待。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于非法占有目的的认定，辩护人提请法庭注意被告人的经营行为具有连续性。根据《刑法》第二百二十四条，合同诈骗罪要求行为人具有非法占有的直接故意。本案中被告人在2010年至2012年间持续经营，期间确有实际交易行为，其资金链断裂系因市场行情变化等客观因素导致，与典型的诈骗行为存在本质区别。\n\n关于犯罪数额，被告人将部分货款用于支付其他经营户欠款，这部分资金仍用于经营活动，符合商业惯例。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，应当严格区分民事欺诈与刑事诈骗的界限。\n\n关于量刑情节，虽然被告人系被抓获归案，但其归案后如实供述全部犯罪事实，根据《刑法》第六十七条第三款，可以从轻处罚。被告人已偿还部分货款，表明其有悔罪表现，建议法庭在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人主观故意和犯罪数额已发表意见，接下来的辩论请围绕被告人将部分货款用于支付其他经营户欠款的具体情况展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人将部分货款用于支付其他经营户欠款的问题，公诉人认为：\n\n1. 根据被告人供述，其支付的其他经营户欠款既包括本案被害人，也包括非本案被害人。这种资金混同使用的情况恰恰证明被告人具有非法占有目的，其行为属于\"拆东墙补西墙\"的诈骗手法。\n\n2. 被告人未能提供支付其他经营户欠款的完整凭证，仅能提供部分收条或欠条，且部分凭证已丢失。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十五条，无法与原件核对的复制件不得单独作为定案依据。\n\n3. 被告人将112.5万元货款用于支付其他经营户欠款和个人开支，这种资金使用方式不符合正常经营规律。根据《全国法院审理金融犯罪案件工作座谈会纪要》，将资金用于高风险活动或明显超出偿还能力的，可以认定具有非法占有目的。\n\n4. 即便如被告人所述部分货款用于支付其他经营户欠款，但这属于案发前的资金周转行为，不能等同于案发后的积极退赃，不应作为从轻处罚的依据。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人将部分货款用于支付其他经营户欠款的问题，辩护人认为：\n\n1. 根据被告人供述和部分支付凭证，其确实将部分货款用于支付其他经营户欠款，这表明被告人并非将全部资金占为己有，而是用于维持经营周转。根据《刑法》第二百二十四条，应当严格区分民事债务纠纷与刑事诈骗的界限。\n\n2. 虽然部分支付凭证缺失，但根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，对被告人供述与其他证据能够相互印证的，应当予以采信。本案中被告人对支付情况的供述与部分被害人的陈述能够相互印证。\n\n3. 被告人将部分货款用于支付其他经营户欠款的行为，符合药材行业常见的资金周转方式，不能简单认定为\"拆东墙补西墙\"的诈骗手法。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，应当综合考察行为人的实际经营情况。\n\n4. 虽然这些支付行为发生在案发前，但表明被告人有积极履行债务的意愿，与完全逃避债务的情形存在本质区别。根据《最高人民法院关于常见犯罪的量刑指导意见》，可以酌情从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人将部分货款用于支付其他经营户欠款的情况已发表意见，接下来的辩论请围绕被告人将部分货款用于个人生活开支的具体金额和用途展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人将部分货款用于个人生活开支的问题，公诉人认为：\n\n1. 根据被告人供述，其将112.5万元货款中的部分资金用于个人生活开支，这一行为直接证明其非法占有目的。根据《刑法》第二百二十四条，将合同款项用于个人消费而非合同约定用途，即构成合同诈骗。\n\n2. 被告人未能提供个人开支的具体金额和用途明细，无法证明其合理性。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，对资金去向无法合理解释的，应当认定为非法占有。\n\n3. 即便如被告人所述部分资金用于维持经营，但其在资金链断裂后仍持续赊购药材，并将资金混同使用，符合《全国法院审理金融犯罪案件工作座谈会纪要》中关于\"明知没有归还能力而大量骗取资金\"的认定标准。\n\n4. 被告人将经营资金与个人资金混同使用，严重违反商业诚信原则，其行为已超出正常经营风险范畴，应当认定为具有非法占有的直接故意。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人将部分货款用于个人生活开支的问题，辩护人认为：\n\n1. 根据被告人供述，其将部分资金用于维持基本生活开支，这属于经营困难时期的合理支出。根据《刑法》第二百二十四条，应当区分必要的个人开支与挥霍性消费，本案中并无证据证明被告人存在奢侈消费行为。\n\n2. 被告人作为个体工商户，经营资金与个人生活资金存在一定混同具有现实合理性。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，应当结合行业特点和经营模式综合判断。\n\n3. 被告人供述中明确表示部分资金用于支付员工工资等经营必要开支，这些支出虽形式上属于\"个人开支\"，但实质上是维持经营的必要成本。根据《全国法院审理金融犯罪案件工作座谈会纪要》，应当严格区分经营必要支出与个人挥霍。\n\n4. 公诉机关指控的\"非法占有\"应当限于明显超出合理范围的个人消费，而本案中并无证据证明存在此类情形。根据《刑法》罪刑法定原则，对存疑部分应当作出有利于被告人的认定。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人将部分货款用于个人生活开支的情况已发表意见，接下来的辩论请围绕被告人出售房产和汽车后资金的具体去向展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人出售房产和汽车后资金去向问题，公诉人认为：\n\n1. 根据被告人供述和房产买卖证据，被告人在2012年1月和7月分别出售两套房产和一辆汽车，所得款项未优先偿还被害人货款，而是用于其他用途。根据《刑法》第二百二十四条第三项，收受对方给付的货物后逃匿的，即构成合同诈骗罪。\n\n2. 被告人未能提供出售房产汽车所得资金的具体去向凭证，仅以\"用于其他债务和个人开支\"笼统说明，无法证明其合理性。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第二条，对资金去向无法合理解释的，应当认定为非法占有。\n\n3. 被告人在出售资产后随即中断通讯工具逃匿，这一系列行为具有明显的逃避债务的主观故意。根据《全国法院审理金融犯罪案件工作座谈会纪要》，转移财产、隐匿逃匿是认定非法占有目的的重要依据。\n\n4. 即便如被告人所述部分资金用于偿还其他债务，但这种选择性偿债行为恰恰证明其具有非法占有目的，因为其明知拖欠被害人货款却优先处理其他债务。根据《刑法》第二百二十四条，这种行为模式完全符合合同诈骗罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人出售房产和汽车后资金去向问题，辩护人认为：\n\n1. 被告人出售房产和汽车的行为发生在资金链断裂的特殊时期，根据其供述，所得款项部分用于偿还其他经营债务，这属于维持商业信誉的合理行为。根据《刑法》第二百二十四条，应当区分恶意逃债与经营困难下的无奈选择。\n\n2. 虽然被告人未能提供全部资金去向凭证，但根据部分被害人的陈述和银行记录，确实存在偿还部分货款的事实。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第八十八条，对能够相互印证的供述应当予以采信。\n\n3. 被告人中断通讯工具的行为虽有不妥，但考虑到当时面临的多方追债压力，这种行为更多是出于恐慌而非蓄意诈骗。根据《全国法院审理金融犯罪案件工作座谈会纪要》，应当综合考察行为人的主观动机。\n\n4. 被告人在案发前已通过房产抵押等方式部分履行债务，表明其并非完全逃避责任。根据《最高人民法院关于常见犯罪的量刑指导意见》，这种积极挽救损失的努力应当在量刑时予以考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对给被害人造成的损失表示真诚的歉意。我并非一开始就有非法占有的故意，确实是因为经营不善导致资金链断裂。我愿意尽最大努力赔偿被害人的损失，恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "安徽省亳州市谯城区人民法院\n刑事判决书\n（2013）谯刑初字第844号\n\n公诉机关安徽省亳州市谯城区人民检察院。\n被告人姜某甲，男，汉族，XX年XX月XX日出生，文化程度XXX，户籍XXX，因涉嫌合同诈骗罪于2013年5月28日被亳州市公安局谯城分局刑事拘留，现羁押于亳州市看守所。\n辩护人XXX，安徽XX律师事务所律师。\n\n亳州市谯城区人民检察院以谯检刑诉〔2013〕844号起诉书指控被告人姜某甲犯合同诈骗罪，于2013年XX月XX日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。亳州市谯城区人民检察院指派检察员XXX出庭支持公诉，被告人姜某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n亳州市谯城区人民检察院指控：2010年3月至2012年4月期间，被告人姜某甲以支付部分货款或赊账方式，骗取15名药材经营户价值240.3582万元的药材，后将所得货款1277958.2元非法占有。2011年8月至2012年4月，姜某甲以高买低卖方式骗取张某乙112.5万元。2012年1月和7月，姜某甲出售房产汽车后逃匿。公诉机关认为被告人姜某甲的行为构成合同诈骗罪，数额特别巨大，建议依法惩处。\n\n被告人姜某甲对指控的犯罪事实无异议，当庭自愿认罪。辩护人提出被告人主观上无非法占有故意，系经营不善导致，建议从轻处罚。\n\n经审理查明：\n2010年3月至2012年4月，被告人姜某甲以赊购方式从15名被害人处取得价值240.3582万元的药材，仅支付部分货款1012330元，余款1277958.2元未支付。期间，姜某甲以每公斤48元或54元价格购买张某乙元胡37.3吨（价值203万元），后以每公斤42元低价出售，仅支付91万元，余款112.5万元未支付。2012年1月和7月，姜某甲出售名下两套房产及一辆汽车后逃匿。\n\n上述事实有下列证据证实：\n1.被告人姜某甲的供述；\n2.15名被害人的陈述及欠条等书证；\n3.银行转账记录、托运单据等交易凭证；\n4.房产买卖及抵押登记材料；\n5.证人证言；\n6.抓获经过等程序性文件。\n\n本院认为，被告人姜某甲以非法占有为目的，在签订、履行合同过程中骗取他人财物共计240.3582万元，数额特别巨大，其行为已构成合同诈骗罪。公诉机关指控罪名成立。关于辩护人提出的无罪辩护意见，经查，被告人长期赊购、高买低卖、出售资产后逃匿等行为，足以认定其具有非法占有目的，故该辩护意见不予采纳。鉴于被告人当庭认罪，可酌情从轻处罚。\n\n依照《中华人民共和国刑法》第二百二十四条、第五十二条、第五十三条、第六十四条之规定，判决如下：\n\n一、被告人姜某甲犯合同诈骗罪，判处有期徒刑十年，并处罚金人民币二十万元；\n\n二、责令被告人姜某甲退赔各被害人经济损失共计人民币一百二十七万七千九百五十八元二角。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向安徽省亳州市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n\n审判长 XXX\nXXXX年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。\n\n举证质证阶段总结：\n\n1. 公诉人出示了82项证据，包括：\n- 被告人在侦查阶段的供述，承认了案件基本事实和资金去向\n- 15名被害人的欠条及陈述，证实被告人拖欠货款的具体金额\n- 银行转账记录、托运单据等书证佐证交易情况\n- 证人证言证实被告人的交易行为和资金状况\n- 房产买卖和抵押相关文件\n- 物流公司记录证实货物运输情况\n- 前科证明和抓获经过等程序性文件\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人表示不申请调取新证据或通知新证人。\n\n（注：由于被告人对所有证据均无异议，且辩护人未提出异议，质证过程较为简单，主要围绕公诉人系统性地出示各类证据展开）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。\n\n举证质证阶段总结：\n\n1. 公诉人出示了82项证据，包括：\n- 被告人在侦查阶段的供述，承认了案件基本事实和资金去向\n- 15名被害人的欠条及陈述，证实被告人拖欠货款的具体金额\n- 银行转账记录、托运单据等书证佐证交易情况\n- 证人证言证实被告人的交易行为和资金状况\n- 房产买卖和抵押相关文件\n- 物流公司记录证实货物运输情况\n- 前科证明和抓获经过等程序性文件\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人表示不申请调取新证据或通知新证人。\n\n（注：由于被告人对所有证据均无异议，且辩护人未提出异议，质证过程较为简单，主要围绕公诉人系统性地出示各类证据展开）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。\n\n举证质证阶段总结：\n\n1. 公诉人出示了82项证据，包括：\n- 被告人在侦查阶段的供述，承认了案件基本事实和资金去向\n- 15名被害人的欠条及陈述，证实被告人拖欠货款的具体金额\n- 银行转账记录、托运单据等书证佐证交易情况\n- 证人证言证实被告人的交易行为和资金状况\n- 房产买卖和抵押相关文件\n- 物流公司记录证实货物运输情况\n- 前科证明和抓获经过等程序性文件\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人表示不申请调取新证据或通知新证人。\n\n（注：由于被告人对所有证据均无异议，且辩护人未提出异议，质证过程较为简单，主要围绕公诉人系统性地出示各类证据展开）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。\n\n举证质证阶段总结：\n\n1. 公诉人出示了82项证据，包括：\n- 被告人在侦查阶段的供述，承认了案件基本事实和资金去向\n- 15名被害人的欠条及陈述，证实被告人拖欠货款的具体金额\n- 银行转账记录、托运单据等书证佐证交易情况\n- 证人证言证实被告人的交易行为和资金状况\n- 房产买卖和抵押相关文件\n- 物流公司记录证实货物运输情况\n- 前科证明和抓获经过等程序性文件\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人表示不申请调取新证据或通知新证人。\n\n（注：由于被告人对所有证据均无异议，且辩护人未提出异议，质证过程较为简单，主要围绕公诉人系统性地出示各类证据展开）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 认定被告人构成合同诈骗罪，非法占有目的明显，具体表现为高买低卖、出售资产后逃匿等行为\n- 涉案金额240余万元属\"数额特别巨大\"\n- 被告人系被抓获归案，未退赔被害人损失\n- 建议判处十年以上有期徒刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 认为被告人主观上无非法占有故意，属商业风险导致的民事纠纷\n- 被告人认罪态度良好，已偿还42%货款，系初犯\n- 建议对犯罪数额严格区分认定，从轻处罚并考虑缓刑\n\n3. 双方主要争议焦点：\n(1)关于非法占有目的的认定：\n- 公诉人认为被告人长期赊购、高买低卖、逃匿等行为符合非法占有要件\n- 辩护人认为系经营不善导致，应区分商业风险与刑事诈骗\n\n(2)关于犯罪数额认定：\n- 公诉人认为112.5万元货款去向不明应全额认定\n- 辩护人认为部分用于支付其他经营户欠款，应区分认定\n\n(3)关于量刑情节：\n- 公诉人认为被告人未积极退赃，不符合缓刑条件\n- 辩护人认为已部分偿还，认罪态度好，应从轻处罚\n\n4. 补充辩论要点：\n(1)关于货款支付其他经营户：\n- 公诉人认为属\"拆东墙补西墙\"的诈骗手法\n- 辩护人认为属正常经营周转行为\n\n(2)关于个人生活开支：\n- 公诉人认为无法合理解释资金去向\n- 辩护人认为属经营困难时期的必要支出\n\n(3)关于出售资产后资金去向：\n- 公诉人认为未优先偿还货款且逃匿，证明非法占有\n- 辩护人认为系经营压力下的无奈选择",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认起诉书指控的基本事实，但辩称并非一开始就有非法占有的故意，系因经营困难、资金周转不灵导致无法支付货款，并表示愿意赔偿被害人损失。\n\n2. 公诉人重点讯问：\n- 被告人未支付全部货款的原因，被告人解释为资金链断裂；\n- 出售房产汽车后逃匿的行为，被告人承认系因无力偿还欠款；\n- 低价出售元胡的行为，被告人解释为市场行情不好需回笼资金；\n- 112.5万元货款去向，被告人称部分用于支付其他经营户欠款（列举了具体支付对象和金额），部分用于维持经营和个人开支；\n- 支付凭证问题，被告人承认部分现金支付无凭证或凭证已丢失。\n\n3. 辩护人主要询问：\n- 交易形式（部分书面合同部分口头约定）；\n- 经营状况告知情况（部分被害人知晓资金困难）；\n- 贷款申请和还款计划（曾申请贷款未获批，提出过延期付款请求）；\n- 市场行情说明（曾向部分被害人说明成都市场价格波动情况）。\n\n4. 审判长补充询问：\n- 确认其他经营户欠款尚未全部偿还；\n- 部分经营户不在本案被害人名单中。\n\n举证质证阶段总结：\n\n1. 公诉人出示了82项证据，包括：\n- 被告人在侦查阶段的供述，承认了案件基本事实和资金去向\n- 15名被害人的欠条及陈述，证实被告人拖欠货款的具体金额\n- 银行转账记录、托运单据等书证佐证交易情况\n- 证人证言证实被告人的交易行为和资金状况\n- 房产买卖和抵押相关文件\n- 物流公司记录证实货物运输情况\n- 前科证明和抓获经过等程序性文件\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人表示不申请调取新证据或通知新证人。\n\n（注：由于被告人对所有证据均无异议，且辩护人未提出异议，质证过程较为简单，主要围绕公诉人系统性地出示各类证据展开）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 认定被告人构成合同诈骗罪，非法占有目的明显，具体表现为高买低卖、出售资产后逃匿等行为\n- 涉案金额240余万元属\"数额特别巨大\"\n- 被告人系被抓获归案，未退赔被害人损失\n- 建议判处十年以上有期徒刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 认为被告人主观上无非法占有故意，属商业风险导致的民事纠纷\n- 被告人认罪态度良好，已偿还42%货款，系初犯\n- 建议对犯罪数额严格区分认定，从轻处罚并考虑缓刑\n\n3. 双方主要争议焦点：\n(1)关于非法占有目的的认定：\n- 公诉人认为被告人长期赊购、高买低卖、逃匿等行为符合非法占有要件\n- 辩护人认为系经营不善导致，应区分商业风险与刑事诈骗\n\n(2)关于犯罪数额认定：\n- 公诉人认为112.5万元货款去向不明应全额认定\n- 辩护人认为部分用于支付其他经营户欠款，应区分认定\n\n(3)关于量刑情节：\n- 公诉人认为被告人未积极退赃，不符合缓刑条件\n- 辩护人认为已部分偿还，认罪态度好，应从轻处罚\n\n4. 补充辩论要点：\n(1)关于货款支付其他经营户：\n- 公诉人认为属\"拆东墙补西墙\"的诈骗手法\n- 辩护人认为属正常经营周转行为\n\n(2)关于个人生活开支：\n- 公诉人认为无法合理解释资金去向\n- 辩护人认为属经营困难时期的必要支出\n\n(3)关于出售资产后资金去向：\n- 公诉人认为未优先偿还货款且逃匿，证明非法占有\n- 辩护人认为系经营压力下的无奈选择",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 120.0,
+    "fine": 200000.0,
+    "reprieve": 0.0
+  }
+]

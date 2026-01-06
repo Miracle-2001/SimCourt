@@ -1,0 +1,1443 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人武某，男，国家工作人员（五原县防沙林场场长），于XXX年X月X日出生于XXX，汉族，XXX文化程度，户籍XXX。因涉嫌犯贪污罪，于2015年7月14日被羁押。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是五原县防沙林场场长。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "巴彦淖尔市磴口县人民检察院  \n起 诉 书  \n\n磴检刑诉〔2016〕15号  \n\n被告人武某，男，XXX年X月X日出生，公民身份号码XXX，汉族，XXX文化程度，户籍所在地XXX。因涉嫌贪污罪，于2015年7月14日被羁押。  \n\n本案由巴彦淖尔市人民检察院侦查终结，以被告人武某涉嫌贪污罪，于2016年2月19日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2015年4月，被告人武某在担任五原县防沙林场场长期间，利用职务便利，以单位急需用钱为由，指使会计齐某从单位账外资金中取出6万元现金交予其个人。武某未办理任何手续，将上述公款用于支付其个人承包土地的育苗费用、起树苗费及车辆燃油费等个人支出。  \n\n另查明，五原县防沙林场通过虚列支出手段套取账内资金形成账外资金。2015年8月13日，武某家属向检察机关退缴全部赃款6万元。  \n\n认定上述事实的证据如下：  \n\n1. 书证：立案决定书、指定管辖决定书、户籍证明、任职文件、银行交易明细、账外资金票据、退赃凭证等；  \n2. 证人证言：候某、齐某、刘某甲等20名证人的证言；  \n3. 被告人供述与辩解：武某的供述材料。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人武某身为国家工作人员，利用职务便利侵吞公款，其行为触犯了《中华人民共和国刑法》第三百八十二条之规定，犯罪事实清楚，证据确实、充分，应当以贪污罪追究其刑事责任。鉴于被告人退缴全部赃款，可酌情从轻处罚。建议判处被告人武某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n磴口县人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的事实没有异议，但我要说明当时是临时借用单位资金用于工作相关支出，并非有意侵吞公款。我的家属已经退缴了全部款项。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人武某，你声称是临时借用单位资金用于工作相关支出，那么请问你当时为何没有办理任何借款手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时单位资金周转紧急，我作为场长认为可以先使用后补手续。后来因为工作繁忙和会计被刑事拘留，导致没能及时补办借款手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你指使会计齐某从账外资金中取款时，是否告知过齐某这笔款项的具体用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有告知具体用途，只是说单位急需用钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你所说的\"工作相关支出\"具体包括哪些项目？请详细说明这些支出与单位公务有何关联。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于支付我个人承包土地的育苗费用，包括起树苗费和租地费。这些土地是为单位培育防沙林苗木的，属于为公家办事。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包的土地是否与单位签订了正式的苗木供应合同？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有签订正式合同。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包的土地是否在单位财务账目中有相关记录或报销凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有相关账目记录和报销凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包的土地上培育的苗木最终是否实际供应给了防沙林场使用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分苗木供应给了防沙林场使用，但没有完整的交接记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包的土地是否在单位固定资产登记簿上有记录？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有在单位固定资产登记簿上记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包的土地面积有多大？这些土地的所有权归属如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "个人承包的土地面积约5亩，土地所有权属于村集体，我通过租赁方式取得使用权。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否按照市场价格结算？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有按照市场价格结算，是作为单位内部调拨使用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否经过单位领导班子集体研究决定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过领导班子集体研究决定。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否经过单位财务部门审核并纳入单位财务核算？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过财务部门审核，也没有纳入单位财务核算。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否经过招投标程序？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过招投标程序。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否开具了正式的苗木调拨单或交接手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有开具正式的调拨单或交接手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否经过单位纪检部门或上级主管部门的审批？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过纪检部门或上级主管部门审批。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人承包土地培育的苗木供应给防沙林场时，是否经过单位验收程序？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有经过单位验收程序。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就被告人使用公款的具体情况进行了充分讯问，相关事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，请问你个人承包土地培育的苗木实际用于防沙林场工程的比例大约是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大约有60%的苗木实际用于防沙林场工程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问你个人承包土地培育的苗木用于防沙林场工程的具体项目名称是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于塔尔湖镇防沙林补植工程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问你个人承包土地培育的苗木用于塔尔湖镇防沙林补植工程的具体数量是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "具体数量没有详细统计记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就被告人使用公款的具体情况进行了充分讯问，相关事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你个人承包土地培育的苗木用于塔尔湖镇防沙林补植工程的具体时间是什么时候？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2015年春季，具体是4月至5月期间。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你个人承包土地培育的苗木用于塔尔湖镇防沙林补植工程的具体地点在哪里？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "塔尔湖镇东侧约3公里处的防沙林带。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你个人承包土地培育的苗木用于塔尔湖镇防沙林补植工程的具体品种是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要是杨树和沙柳苗。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你个人承包土地培育的苗木用于塔尔湖镇防沙林补植工程时，是否有其他工作人员参与或知晓此事？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有部分林场工作人员参与栽种，但具体人数和姓名记不清了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你个人承包土地培育的苗木用于塔尔湖镇防沙林补植工程时，是否有相关的栽种记录或照片等证明材料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有相关的栽种记录或照片等证明材料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年4月，我担任五原县防沙林场场长期间，因单位急需用钱，要求会计齐某从单位账外资金中取出6万元交给我。齐某从其个人账户中保管的账外资金中提取现金6万元，在塔尔湖镇其妻子刘某甲的门店前交给我。我将这笔钱用于支付我个人承包土地的育苗费用，包括起树苗费、租地费等。  \n\n（2）犯案动机  \n我并未有非法占有的意图，当时因单位事务需要资金周转，临时借用账外资金，并计划后续归还。由于工作繁忙且齐某被刑事拘留，未能及时办理还款手续。  \n\n（3）案发之后的处理  \n案发后，我没有自首。2015年8月13日，我的家属向巴彦淖尔市人民检察院退缴了6万元赃款。目前尚未与被害单位达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：立案决定书，指定管辖决定书，证实本案经巴彦淖尔市人民检察院立案侦查；巴彦淖尔市中级人民法院指定本院审理",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：武某户籍证明、五原县林业局文件、五原县劳动人事局文件、干部任免职审批表、年度考核登记表、五原县防沙林场组织机构代码证、事业单位法人证书，证实被告人武某的基本情况及1991年6月被五原县劳动人事局转为国家干部的情况；武某于2014年2月26日被五原县林业局任命为五原县防沙林场场长，其符合国家工作人员的主体身份；五原县防沙林场机构类型为事业法人，举办单位五原县林业局",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：归案说明，证实被告人武某到案的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：武某与五原县天吉泰镇二合永村村民张某甲、郭某甲、贾某、李某甲、郭某乙、郝某等人签订的育苗合同,证实2012年4月20日武某与上述村民签订育苗合同，合同约定武某承包上述村民耕地进行育苗，武某在每年4月份支付承包费等相关内容",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：户名为齐某，账号＊＊＊＊＊＊＊＊＊内蒙古五原农商银行储蓄取款凭条、客户交易明细对账单及齐某身份证复印件，证实2015年4月30日齐某从该卡中取现金60000元，同年5月17日转取129535元，上述取款凭条和对账单经银行盖章确认，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：户名为武某，账号＊＊＊＊＊＊＊＊＊邮储银行交易明细，证实2015年2月17日至2015年6月21日此账户存款余额一直有5万余元，该交易明细经银行盖章确认，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：从齐某处提取的五原县防沙林场账外资金支出相关票据,证实该林场账外资金部分收入及支出的相关情况，上述票据经司法会计鉴定机构鉴定，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：户名为齐某，账号＊＊＊＊＊＊＊＊＊的内蒙古农村信用社交易流水及储蓄存款凭条；户名为候某，账号＊＊＊＊＊＊＊＊＊、＊＊＊＊＊＊＊＊＊的内蒙古五原农商行交易流水及储蓄存款凭条；户名为闫某（王某甲），账号＊＊＊＊＊＊＊＊＊内蒙古五原农商行储蓄取款凭条；户名为李某乙，账号＊＊＊＊＊＊＊＊＊内蒙古五原农商行储蓄取款凭条、胡某、雷某甲等人的个人储蓄账户及五原农商行相关账务资料凭证，证实候某担任五原县防沙林场出纳期间，该林场部分账外资金形成的时间、来源和金额，以及候某将其管理的账外资金25.5万元于2015年1月26日、2月4日分两笔移交给齐某管理等事实，上述交易流水和存款凭条经银行盖章确认，真实有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：2015年11月29日五原县林业局出具的“关于防沙林场套取资金私设小金库处理情况整改意见”，证实2014年五原县因绿化植树造林租防沙林场110国道两侧土地，2015年1月五原县财政局将租地费拨入职工账户，防沙林场以齐某、巩某、刘某乙、于某等人的名义套取租地费129535元存入齐某个人账户，后于2015年5月17日从齐某账户转入雷某乙账户。鉴于上述情况五原县林业局就该事件提出了整改的相关意见，该整改意见经五原县林业局正式发文确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：2015年8月13日巴彦淖尔市人民检察院出具的资金往来结算票据，证实2015年8月13日被告人武某的家属向巴彦淖尔市人民检察院退款60000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：候某说：“我任五原县防沙林场出纳期间，记得给胡某支付的电力追加补偿款11万元中，实际付了胡某3万元，胡某又给防沙林场转回8万元，还有5.7万元的抚育费，以支付工人工资的名义取出后，存在我的个人银行卡上，还有以支付雷某甲整地费的名义先支付给雷某甲，后又转回我的银行卡中，这些都形成账外资金，有的记不清了，我管理的账外资金有40多万元，包括赵某甲名下的10万元和李某乙名下的15.5万元借款。2014年底武某让我将账外资金移交给齐某管理，我与武某核对完账外资金后，我管理的账外资金都开支了，但赵某甲和李某乙两人名下的借款25.5万元没有收回来，这些款是二人给防沙林场干工程时借下的，武某让把这两笔款移交给齐某，武某与这二人联系好后，我和他们去银行分别于2015年1月26日和2月4日将这两笔款转在齐某的个人账户上。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：胡某说：“2014年3月31日五原县防沙林场给我支付的电力补偿款11万元中给我3万元，其余8万元我又返回防沙林场了，我将这8万元转入候某的个人银行卡上。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：齐某说：“2014年三、四月份武某被五原县林业局任命为五原县防沙林场场长，当时我是会计，候某是出纳。2014年的腊月武某让候某将她管理的防沙林场的账外资金移交给我管理，后候某将账外资金25.5万元分两笔转入我信用社储蓄卡号为＊＊＊＊＊＊＊＊＊的账户上。我管理上账外资金后，又以刘某乙、雷某甲、于某、巩某等人和我的名义套取租地费12万多元，后又将该笔款转给雷某甲的妹妹雷某乙的卡上。2015年4月份，武某说他给单位办事，急需用钱，让我从账外资金中取6万元给他，我就从自己管理的账外资金中取了6万元现金在自家经营的门市部门口交给武某，武某与我没有办理任何手续，事后武某再没有提及过这6万元的事情，也没有补办过相关手续。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：刘某甲说：“我是齐某的妻子，2015年四、五月份，齐某在我家经营的门市部与我说，武某让他从单位的账上取点钱要给单位办事，我提醒齐某谁拿钱你就让谁打条子，齐某具体给武某拿了多少钱，我不清楚。另外，武某今年没有向我家中借过钱。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：白某说：“齐某是我女婿，2015年4月底齐某给我女儿说取点钱，听我女儿跟齐某说‘你给别人拿钱得让他打条子’，至于取多少钱，后来还没还我不知道。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：赵某甲说：“我每年给五原防沙林场干工程。2014年我给防沙林场干工程时向林场借过钱，年底林场向我催要借款，我用兄弟赵某乙妻子闫某的名义贷款23万元，让妻子王某甲从贷款中给齐某的卡上转款10万元。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：王某甲说：“2015年1月26日，我丈夫赵某甲让我从以闫某名义贷出的款中给齐某账户尾号＊＊＊＊的卡上转款10万元，当时是候某与我去办理的转款手续。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：李某乙说：“2014年给五原防沙林场干工程时从林场借过钱。2015年2月4日林场给我支付工程款后，我给齐某账户尾号＊＊＊＊的卡上转款15.5万元，偿还了借款，当时转款是候某与我去办理的。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：郝某、王某乙、曹某、李某甲、王某丙、郭某甲、张某乙、贾某、郭某乙等人说：“2012年4月20日武某承包了我们的土地进行育苗，共计31.2亩，承包期4年，双方约定每年每亩承包费2000元，实际每年先给付承包费每亩1000元。2015年四、五月份武某按照承包我们各自的土地亩数，按每亩1000元支付了我们2014年的土地承包费。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：张某丙说：“武某是我妹夫，2015年4月份武某让我雇些人起树苗，我就雇了二十几个人，干了十几天，被雇的工人要现钱，我就给武某垫付了26000元，在起完树苗半个月后，我给武某打电话要钱，过了两三天武某就给我还了钱。”该证言经检察机关核实，合法有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人现就本案发表如下公诉意见：\n\n一、关于定罪方面\n根据《中华人民共和国刑法》第三百八十二条，被告人武某作为国家工作人员，利用职务便利侵吞公款6万元，其行为已构成贪污罪。被告人虽辩称是\"临时借用\"，但存在以下关键事实：\n1. 未办理任何借款手续；\n2. 资金实际用于个人承包土地支出；\n3. 个人承包土地与单位之间无正式合同、无财务记录、无招投标程序；\n4. 无法提供苗木实际用于单位工程的证明材料。\n\n二、关于量刑情节\n1. 从重情节：被告人利用职务便利，指使下属从账外资金中取款，具有主观故意；\n2. 从轻情节：被告人已退缴全部赃款6万元，可酌情从轻处罚。\n\n三、关于辩护人可能提出的辩护意见的回应\n1. 关于\"临时借用\"的辩解：根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十六条，国家工作人员利用职务便利非法占有公共财物，不论是否具有归还意图，均构成贪污罪；\n2. 关于\"部分苗木用于单位工程\"的主张：被告人无法提供任何书面证据证明苗木实际使用情况，且使用过程未经任何法定程序。\n\n综上，公诉人认为本案事实清楚，证据确实充分，应当以贪污罪追究被告人刑事责任。鉴于被告人已退缴全部赃款，建议依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人现就本案发表如下辩护意见：\n\n一、关于量刑情节\n1. 被告人已全额退缴赃款6万元，根据《刑法》第六十七条第三款，可以酌情从轻处罚；\n2. 被告人认罪态度良好，在侦查阶段和庭审中均如实供述犯罪事实，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，可以从宽处理；\n3. 被告人虽未办理借款手续，但部分资金实际用于单位防沙林工程，主观恶性相对较小；\n4. 被告人系初犯，此前无违法犯罪记录，根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十九条，可酌情从宽处罚。\n\n二、关于法律适用\n1. 被告人虽构成贪污罪，但涉案金额刚达到立案标准，且已全部退赃，社会危害性较小；\n2. 被告人长期从事防沙治沙工作，本次犯罪系工作方法不当所致，建议法庭考虑其工作表现。\n\n三、量刑建议\n鉴于被告人认罪悔罪、全额退赃、初犯等情节，建议法庭对其从轻处罚，适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于辩护人提出的\"部分资金实际用于单位防沙林工程\"的辩护意见，公诉人认为：根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十五条，被告人虽声称部分苗木用于单位工程，但未能提供任何书面证据予以证明，其辩解缺乏事实依据。\n\n二、关于辩护人提出的\"工作方法不当\"的辩护意见，公诉人认为：根据《刑法》第三百八十二条，被告人利用职务便利指使会计从账外资金中取款，且未办理任何手续，其行为性质已超出工作方法不当的范畴，构成典型的贪污行为。\n\n三、关于辩护人提出的\"主观恶性较小\"的辩护意见，公诉人补充说明：被告人个人银行账户当时有5万余元存款，却选择挪用公款用于个人承包土地支出，其主观恶性不容忽视。\n\n四、公诉人同意辩护人关于被告人认罪态度良好、全额退赃等从轻情节的意见，但强调这些情节已在起诉书中予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于资金用途问题，被告人虽未能提供完整书面证据，但根据其供述和证人证言，确实有部分苗木用于塔尔湖镇防沙林工程，这与完全侵吞公款的情形存在区别。根据《刑法》第六十一条，量刑时应考虑犯罪的事实、性质、情节和社会危害程度。\n\n二、关于主观恶性问题，被告人个人账户虽有存款，但当时单位资金周转确实存在困难，其行为动机具有一定的工作因素。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对主观恶性不深的案件应体现从宽精神。\n\n三、关于犯罪情节，本案涉案金额刚达到立案标准，且已全额退赃，未造成实际损失。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于退赃、退赔的，应当综合考虑犯罪性质等情况确定从宽幅度。\n\n四、被告人长期从事防沙治沙工作，本次犯罪系初犯，认罪态度良好，建议法庭在量刑时充分考虑其工作表现和悔罪态度，给予从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于辩护人提出的\"部分苗木用于防沙林工程\"的辩解，根据《刑事诉讼法》第五十五条，仅有被告人供述而无其他证据佐证的，不能认定案件事实。本案中被告人无法提供任何交接凭证、验收记录等客观证据证明苗木实际使用情况。\n\n二、关于资金周转困难的说法，经查被告人个人账户当时有5万余元存款，完全具备偿还能力却未及时归还，其行为符合《刑法》第三百八十二条关于贪污罪\"非法占有目的\"的构成要件。\n\n三、辩护人强调的从轻情节公诉方已在起诉意见中充分考量，但必须指出：根据《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第一条，贪污数额在3万元以上即应追究刑事责任，本案6万元的涉案金额已超出立案标准一倍，社会危害性不容忽视。\n\n四、被告人作为林场负责人，本应带头遵守财务制度，却利用管理账外资金的便利条件实施犯罪，其行为性质较一般工作人员更为严重。根据《刑法》第六十一条规定，量刑时应体现对此类职务犯罪的惩戒力度。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于证据认定问题，根据《刑事诉讼法》第五十三条，对被告人供述应当结合全案证据综合判断。被告人关于苗木使用情况的供述与证人证言能够相互印证，虽无书面凭证，但符合防沙林场工作实际，不应简单否定。\n\n二、关于主观恶性问题，被告人长期从事防沙治沙工作，其承包土地培育的苗木确有部分用于单位工程，这与纯粹为个人牟利有本质区别。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第三条，对此类案件应体现区别对待。\n\n三、关于量刑情节，被告人已全额退赃，未造成实际损失，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，退赃退赔的可以减少基准刑30%以下。建议法庭充分考虑这一情节。\n\n四、被告人系初犯，认罪态度良好，根据《刑法》第七十二条，符合适用缓刑的条件。建议法庭给予改过自新的机会，以体现惩罚与教育相结合的刑事政策。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，作为国家工作人员，我没有严格遵守财务制度。虽然当时是出于工作考虑，但挪用公款的行为确实违法。我已经全额退缴了6万元赃款，真诚悔过。恳请法庭考虑我长期从事防沙治沙工作、初犯且认罪态度良好等情节，给予从轻处罚。我保证今后一定遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "巴彦淖尔市磴口县人民法院\n刑事判决书\n（2016）磴刑初字第15号\n\n公诉机关巴彦淖尔市磴口县人民检察院。\n被告人武某，男，XXX年X月X日出生，公民身份号码XXX，汉族，XXX文化程度，户籍所在地XXX，原系五原县防沙林场场长。因涉嫌贪污罪，于2015年7月14日被羁押。\n辩护人XXX，XXX律师事务所律师。\n\n巴彦淖尔市磴口县人民检察院以磴检刑诉〔2016〕15号起诉书指控被告人武某犯贪污罪，于2016年2月19日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。巴彦淖尔市磴口县人民检察院指派检察员XXX出庭支持公诉，被告人武某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n巴彦淖尔市磴口县人民检察院指控：2015年4月，被告人武某在担任五原县防沙林场场长期间，利用职务便利，指使会计齐某从单位账外资金中取出6万元现金交予其个人，未办理任何手续，将上述公款用于支付其个人承包土地的育苗费用、起树苗费及车辆燃油费等个人支出。2015年8月13日，武某家属向检察机关退缴全部赃款6万元。公诉机关认为被告人武某的行为构成贪污罪，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。\n\n被告人武某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚且签字具结，在开庭审理过程中亦无异议。辩护人提出被告人系初犯、认罪态度好、已全额退赃、部分资金实际用于单位工程等辩护意见，建议从轻处罚并适用缓刑。\n\n经审理查明：2015年4月，被告人武某利用担任五原县防沙林场场长的职务便利，指使会计齐某从单位账外资金中取出6万元现金交予其个人，未办理任何借款手续。武某将上述公款用于支付其个人承包土地的育苗费用、起树苗费及车辆燃油费等支出。2015年8月13日，武某家属向检察机关退缴全部赃款6万元。\n\n上述事实，有经庭审质证、确认的下列证据证实：\n1.被告人武某的供述与辩解；\n2.书证：立案决定书、指定管辖决定书、户籍证明、任职文件、银行交易明细、账外资金票据、退赃凭证等；\n3.证人齐某、候某等20人的证言；\n4.其他相关证据材料。\n\n本院认为，被告人武某身为国家工作人员，利用职务上的便利，侵吞公款6万元，其行为已构成贪污罪。公诉机关指控的罪名成立。鉴于被告人武某到案后如实供述自己的罪行，认罪态度较好，且已退缴全部赃款，依法可以从轻处罚。辩护人提出的相关辩护意见，本院予以采纳。依照《中华人民共和国刑法》第三百八十二条第一款、第三百八十三条第一款第（一）项、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第五十二条、第五十三条、第六十四条之规定，判决如下：\n\n一、被告人武某犯贪污罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币十万元；\n二、被告人武某退缴的赃款六万元依法予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向巴彦淖尔市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n\n审判长 XXX\nXXX年X月X日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其利用职务便利从单位账外资金中取出6万元用于个人承包土地的育苗费用等支出\n   - 书证：立案决定书、指定管辖决定书、户籍证明、任职文件等，证实案件管辖及被告人国家工作人员身份\n   - 银行交易明细及账外资金票据，证实资金流向及账外资金管理情况\n   - 退赃凭证，证实被告人已退缴全部赃款6万元\n   - 20名证人证言，包括会计齐某、出纳候某等人的证言，证实账外资金形成及被告人取款经过\n\n2. 被告人对公诉人出示的全部证据均表示无异议\n\n3. 辩护人对公诉人出示的全部证据均表示无异议\n\n4. 辩护人未提供新的证据\n\n5. 被告人未申请调取新证据或通知新证人到庭",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其利用职务便利从单位账外资金中取出6万元用于个人承包土地的育苗费用等支出\n   - 书证：立案决定书、指定管辖决定书、户籍证明、任职文件等，证实案件管辖及被告人国家工作人员身份\n   - 银行交易明细及账外资金票据，证实资金流向及账外资金管理情况\n   - 退赃凭证，证实被告人已退缴全部赃款6万元\n   - 20名证人证言，包括会计齐某、出纳候某等人的证言，证实账外资金形成及被告人取款经过\n\n2. 被告人对公诉人出示的全部证据均表示无异议\n\n3. 辩护人对公诉人出示的全部证据均表示无异议\n\n4. 辩护人未提供新的证据\n\n5. 被告人未申请调取新证据或通知新证人到庭",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其利用职务便利从单位账外资金中取出6万元用于个人承包土地的育苗费用等支出\n   - 书证：立案决定书、指定管辖决定书、户籍证明、任职文件等，证实案件管辖及被告人国家工作人员身份\n   - 银行交易明细及账外资金票据，证实资金流向及账外资金管理情况\n   - 退赃凭证，证实被告人已退缴全部赃款6万元\n   - 20名证人证言，包括会计齐某、出纳候某等人的证言，证实账外资金形成及被告人取款经过\n\n2. 被告人对公诉人出示的全部证据均表示无异议\n\n3. 辩护人对公诉人出示的全部证据均表示无异议\n\n4. 辩护人未提供新的证据\n\n5. 被告人未申请调取新证据或通知新证人到庭",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其利用职务便利从单位账外资金中取出6万元用于个人承包土地的育苗费用等支出\n   - 书证：立案决定书、指定管辖决定书、户籍证明、任职文件等，证实案件管辖及被告人国家工作人员身份\n   - 银行交易明细及账外资金票据，证实资金流向及账外资金管理情况\n   - 退赃凭证，证实被告人已退缴全部赃款6万元\n   - 20名证人证言，包括会计齐某、出纳候某等人的证言，证实账外资金形成及被告人取款经过\n\n2. 被告人对公诉人出示的全部证据均表示无异议\n\n3. 辩护人对公诉人出示的全部证据均表示无异议\n\n4. 辩护人未提供新的证据\n\n5. 被告人未申请调取新证据或通知新证人到庭\n\n法庭辩论阶段总结：\n\n1. 公诉人主要观点：\n- 指控被告人武某构成贪污罪，理由包括：未办理借款手续、资金用于个人承包土地支出、缺乏正式合同和财务记录、无法提供苗木用于单位工程的证明\n- 指出从重情节：利用职务便利指使下属取款\n- 认可从轻情节：已退缴全部赃款\n\n2. 辩护人主要辩护意见：\n- 强调从轻情节：全额退赃、认罪态度良好、部分资金实际用于单位工程、初犯\n- 提出量刑建议：建议适用缓刑，理由包括涉案金额刚达立案标准、社会危害性小、工作表现良好\n\n3. 双方争议焦点：\n- 关于资金用途：公诉人认为缺乏书面证据证明用于公务，辩护人主张部分苗木实际用于防沙林工程\n- 关于主观恶性：公诉人认为被告人有偿还能力却未还款，辩护人强调行为动机包含工作因素\n- 关于量刑标准：公诉人指出6万元已超立案标准一倍，辩护人强调全额退赃可减少基准刑30%以下\n\n4. 关键事实确认：\n- 被告人个人账户当时有5万余元存款\n- 涉案金额6万元已全额退缴\n- 缺乏苗木用于单位工程的书面证明\n- 被告人为初犯，认罪态度良好",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于资金使用情况，被告人承认未办理借款手续，称是临时借用单位资金用于工作相关支出；\n2. 被告人供述将6万元公款用于个人承包土地的育苗费用、起树苗费及车辆燃油费等支出；\n3. 被告人承认个人承包土地与单位之间无正式合同、无财务记录、无招投标程序、无验收手续；\n4. 被告人声称约60%苗木实际用于塔尔湖镇防沙林补植工程，但无法提供具体数量记录和交接凭证；\n5. 辩护人询问苗木使用比例和具体项目，被告人回答主要用于塔尔湖镇防沙林补植工程；\n6. 审判长补充询问具体时间、地点、品种等细节，被告人回答2015年4-5月在塔尔湖镇东侧栽种杨树和沙柳苗，但无相关证明材料。\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其利用职务便利从单位账外资金中取出6万元用于个人承包土地的育苗费用等支出\n   - 书证：立案决定书、指定管辖决定书、户籍证明、任职文件等，证实案件管辖及被告人国家工作人员身份\n   - 银行交易明细及账外资金票据，证实资金流向及账外资金管理情况\n   - 退赃凭证，证实被告人已退缴全部赃款6万元\n   - 20名证人证言，包括会计齐某、出纳候某等人的证言，证实账外资金形成及被告人取款经过\n\n2. 被告人对公诉人出示的全部证据均表示无异议\n\n3. 辩护人对公诉人出示的全部证据均表示无异议\n\n4. 辩护人未提供新的证据\n\n5. 被告人未申请调取新证据或通知新证人到庭\n\n法庭辩论阶段总结：\n\n1. 公诉人主要观点：\n- 指控被告人武某构成贪污罪，理由包括：未办理借款手续、资金用于个人承包土地支出、缺乏正式合同和财务记录、无法提供苗木用于单位工程的证明\n- 指出从重情节：利用职务便利指使下属取款\n- 认可从轻情节：已退缴全部赃款\n\n2. 辩护人主要辩护意见：\n- 强调从轻情节：全额退赃、认罪态度良好、部分资金实际用于单位工程、初犯\n- 提出量刑建议：建议适用缓刑，理由包括涉案金额刚达立案标准、社会危害性小、工作表现良好\n\n3. 双方争议焦点：\n- 关于资金用途：公诉人认为缺乏书面证据证明用于公务，辩护人主张部分苗木实际用于防沙林工程\n- 关于主观恶性：公诉人认为被告人有偿还能力却未还款，辩护人强调行为动机包含工作因素\n- 关于量刑标准：公诉人指出6万元已超立案标准一倍，辩护人强调全额退赃可减少基准刑30%以下\n\n4. 关键事实确认：\n- 被告人个人账户当时有5万余元存款\n- 涉案金额6万元已全额退缴\n- 缺乏苗木用于单位工程的书面证明\n- 被告人为初犯，认罪态度良好",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 12.0,
+    "fine": 100000.0,
+    "reprieve": 18.0
+  }
+]

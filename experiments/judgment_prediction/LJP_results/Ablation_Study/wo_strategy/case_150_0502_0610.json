@@ -1,0 +1,2403 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人俸某，男，1993年1月10日出生，汉族，出生地广西壮族自治区桂林市，文化程度高中，住桂林市临桂县。因本案于2019年1月5日被羁押并于次日被刑事拘留，同年2月2日被逮捕。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "广东省广州市白云区人民检察院  \n起 诉 书  \n\n穗云检公诉刑诉〔2019〕1105号  \n\n被告人俸某，男，1993年1月10日出生，汉某，出生地广某甲，文化程度高中，住桂某（以上身份情况均自报）。因本案于2019年1月5日被羁押并于次日被刑事拘留，同年2月2日被逮捕。现羁押于广某乙。  \n\n本案由广某丙侦查终结，以被告人俸某涉嫌赌博罪，于2019年x月x日向本院移送起诉。本院受理后，已依法告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n同案人赵某甲、盛某在同案人周某（均另案起诉）提供的位于本市白某内，以打“三公”的方式聚众赌博。被告人俸某与同案人刘某、宋某、彭某、周某（均另案起诉）从事相关辅助工作。2019年1月5日2时许，公安机关在上址抓获赵某甲、盛某、刘某、宋某等共26人，在上址楼下抓获彭某、周某、俸某，当场查获赌具扑克牌一副及赌资人民币27300元。  \n\n认定上述事实的证据如下：  \n1. 同案人赵某甲、刘某、宋某、彭某、周某的供述及辨认材料，证实被告人俸某在赌博现场负责望风的事实；  \n2. 证人邹某、吴某、郎某等26名参赌人员的证言，证实参与赌博被查获的事实；  \n3. 现场照片、勘验检查笔录，证实案发现场特征；  \n4. 涉案手机、赌资、扑克牌照片，证实作案工具及赃款情况；  \n5. 行政处罚决定书，证实参赌人员被行政处罚；  \n6. 视频资料及审讯录像；  \n7. 扣押决定书、清单及证据保全决定书，证实作案工具和赌资扣押情况；  \n8. 到案经过、立案决定书、受案登记表，证实案发经过及被告人到案情况。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人俸某结伙聚众赌博，其行为触犯了《中华人民共和国刑法》第三百零三条第一款之规定，犯罪事实清楚，证据确实、充分，应当以赌博罪追究其刑事责任。被告人俸某拒不供述犯罪事实，无认罪悔罪表现，依法应予惩处。建议判处被告人俸某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n广东省广州市白云区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2019年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人俸某，你在2019年1月5日案发当晚具体负责什么工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我在楼下负责望风。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与同案人赵某甲、盛某等人是如何分工合作的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我只是按照安排负责在楼下望风，不清楚其他人的具体分工。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你每次参与赌博活动能获得多少报酬？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有获得报酬。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与同案人周某是什么关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我们是同乡关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你从什么时候开始参与这个赌博团伙的望风工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "就案发当天才开始帮忙望风。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否知道在赌博现场楼上具体有多少人参与赌博？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚具体人数。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你之前是否参与过其他赌博活动的望风工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有参与过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时在楼下望风时，是否知道楼上正在进行赌博活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是在赌博。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时在楼下望风时，是否携带了通讯工具？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "带了手机。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时在楼下望风时，如果发现有异常情况，会采取什么行动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "带了手机。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人明确告知你需要做什么具体工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人明确告知具体工作内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与同案人周某除了是同乡关系外，是否还有其他经济往来或利益关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有其他经济往来或利益关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人明确告知你如果发现异常情况需要采取什么具体行动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人明确告知具体行动方案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否知道楼上赌博活动的具体规模和组织情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚具体规模和组织情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你承诺过报酬或实际支付过任何费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人承诺过报酬，也没有实际支付过任何费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你说明过望风的具体时间要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人说明过具体时间要求。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你说明过望风的具体职责范围？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人说明过具体职责范围。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你提供过对讲机或其他通讯设备用于联络？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供对讲机或其他通讯设备。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你明确说明过望风的具体位置范围？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人说明过具体位置范围。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你明确说明过如果发现警察或其他执法人员应该采取什么具体行动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人明确说明过具体行动方案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你明确说明过望风的具体时间段？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人说明过具体时间段。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你明确说明过望风的具体目的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人明确说明过具体目的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时在楼下望风时，是否有人向你明确说明过望风的具体工作内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人明确说明过具体工作内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时在楼下望风时，是否有人向你明确告知过望风的具体工作内容？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人明确告知过具体工作内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时在楼下望风时，是否看到有人进出该场所？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "看到有人进出。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时在楼下望风时，是否看到有人携带大量现金进出该场所？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "看到有人进出，但没有注意是否携带大量现金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时在楼下望风时，是否看到有警察或其他执法人员进入该场所？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有看到警察进入。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时在楼下望风时，是否看到有人携带赌具进出该场所？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有看到有人携带赌具进出。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。  \n2019年1月5日凌晨2时许，我在广州市白云区永平街东平宋屋街永福巷9-1号703房楼下。同案人赵某甲、盛某等人在该房内以打三公的方式聚众赌博。我被安排与其他两人在楼下望风。公安机关在现场抓获房内赌博的26人，并在楼下抓获我和同案人彭某、周某，当场查获赌具扑克牌一副及赌资人民币27300元。  \n\n（2）犯案动机。  \n我未直接参与赌博活动，仅按照他人安排在楼下望风，未从中获利。  \n\n（3）案发之后的处理。  \n我在案发后被公安机关当场抓获，没有自首行为。目前尚未进行赔偿，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述仅能证明其在现场的事实，但无法证明其主观上具有参与赌博犯罪的故意，也无法证明其实际参与了赌博活动的组织或实施。该证据与指控的赌博罪构成要件缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在侦查阶段的供述明确承认其知晓楼上正在进行赌博活动，并按照他人安排在楼下望风，这直接证明了其主观上对赌博活动的明知和客观上为赌博活动提供帮助的行为，符合赌博罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分表达了各自观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.证人证言：同案人赵某甲供述：“该赌博场地是同案人周某提供，案发当日我与‘小某’纠集约20名赌客在该处进行赌博。约到凌晨2时，被警察现场查获。赌场内发牌、抽水的人、保管水箱钱的人及楼下看风的人均是由我和‘小某’负责安排。”并辨认被告人俸某就是在楼下看风的其中之一人。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人赵某甲的证言仅能证明赌博活动的组织情况，但无法直接证明被告人在赌博活动中起到组织或主要作用。被告人的望风行为与赌博活动的组织策划无直接关联，该证据不能充分证明被告人构成赌博罪的主客观要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人赵某甲的证言明确指认被告人俸某是在楼下望风的人员之一，这直接证明了被告人在赌博活动中承担的具体角色和分工，其望风行为是为赌博活动提供帮助和支持，符合赌博罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分表达了各自观点，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：同案人刘某供述：“2019年1月5日2时许，我在广州市白云区东平村宋屋街永福巷1号703内负责收取三公赌博的水钱时，被公安人员抓获。此处由赵某甲负责，他是老板，有三人在楼下望风。”并辨认出被告人俸某就是在楼下望风的人之一。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人刘某的证言仅能证明赌博活动的组织情况，但无法证明被告人对赌博活动的组织或主要作用。被告人的望风行为与赌博活动的组织策划无直接关联，该证据不能充分证明被告人构成赌博罪的主客观要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人刘某的证言明确指认被告人俸某是在楼下望风的人员之一，这直接证明了被告人在赌博活动中承担的具体角色和分工，其望风行为是为赌博活动提供帮助和支持，符合赌博罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分表达了各自观点。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：同案人宋某供述：“我与赵某甲、刘某等人一起在涉案场所参与赌博活动，楼下有三个人望风。”并辨认出被告人俸某就是在楼下望风的人之一。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人宋某的证言仅能证明被告人在现场的事实，但无法证明被告人主观上具有参与赌博犯罪的故意，也无法证明其实际参与了赌博活动的组织或实施。该证据与指控的赌博罪构成要件缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "同案人宋某的证言明确指认被告人俸某是在楼下望风的人员之一，这直接证明了被告人在赌博活动中承担的具体角色和分工，其望风行为是为赌博活动提供帮助和支持，符合赌博罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分表达了各自观点。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：同案人彭某供述：“我与赵某甲、刘某等人一起在涉案场所参与赌博活动，楼下有三个人望风。”并辨认出被告人俸某就是在楼下望风的人之一。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人彭某的证言仅能证明被告人在现场的事实，但无法证明被告人主观上具有参与赌博犯罪的故意，也无法证明其实际参与了赌博活动的组织或实施。该证据与指控的赌博罪构成要件缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：同案人周某供述：“该涉案场所由我提供给赵某甲聚众赌博使用，采用打‘三公’的形式进行赌博。楼下望风的共计三个人。”并辨认出被告人俸某就是与其一起被抓的一同望风的人。该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "同案人周某的证言仅能证明被告人在现场的事实，但无法证明被告人主观上具有参与赌博犯罪的故意，也无法证明其实际参与了赌博活动的组织或实施。该证据与指控的赌博罪构成要件缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "我没有要回复的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人邹某证言：“该房屋由我出租给他人使用的，但不知道是用来进行赌博的，没有签订合同。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人吴某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人郎某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人龙某甲证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人杨某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人田某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人赵某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人阳某甲证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人黄某甲证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人张某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人胡某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人阳某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人王某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人耿某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人孔某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人郑某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人陈某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人黄某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人龙某乙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人曾某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人赵某丙证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人邓某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人谢某证言：“我参与了涉案场所的赌博，被公安人员当场查获。”该证言经公安机关依法收集，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.物证：现场照片，证实了案发现场的特征情况。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.勘验、检查笔录：现场勘验、检查笔录，证实了案发现场的特征情况。该笔录由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.物证：涉案手机照片，证实了现场查获的作案工具。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.物证：赌资照片，证实了现场查获的赃款情况。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.物证：扑克牌照片，证实了现场查获的赌具。该照片由公安机关依法拍摄，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.书证：公安机关出具的对参赌人员的行政处罚决定书，证实了查获的参赌人员被行政处罚的情况。该决定书由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.视听资料：视频资料制作说明及视听资料，涉案的光碟为公安机关审讯录像。该视频资料由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.书证：扣押决定书，证实查获的作案工具和赌资的扣押情况。该决定书由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.书证：扣押清单，证实查获的作案工具和赌资的扣押情况。该清单由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "39.书证：证据保全决定书，证实查获的作案工具和赌资的扣押情况。该决定书由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "40.书证：公安机关出具的到案经过，证实了本案的案发经过、被告人的到案情况。该到案经过由公安机关依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "41.书证：立案决定书，证实了本案的立案情况。该决定书由公某依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "42.书证：受案登记表，证实了本案的受案情况。该登记表由公某依法制作，并由办案人员签字确认，符合法定程序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第三百零三条第一款规定，以营利为目的，聚众赌博或者以赌博为业的，构成赌博罪。本案中，被告人俸某明知同案人在进行赌博活动，仍接受安排负责望风工作，其行为已构成赌博罪的共犯。\n\n首先，被告人在侦查阶段供述中明确承认知晓楼上正在进行赌博活动，并按照他人安排在楼下望风。根据最高人民法院《关于审理赌博刑事案件具体应用法律若干问题的解释》第四条，明知他人实施赌博犯罪活动，而为其提供直接帮助的，以赌博罪的共犯论处。\n\n其次，多名同案人证言相互印证，均指认被告人在赌博现场负责望风的事实。望风行为虽属辅助性工作，但客观上为赌博活动提供了安全保障，属于直接帮助行为。\n\n关于辩护人提出的被告人主观故意问题，本院认为，被告人明知是赌博活动仍参与望风，其主观故意已通过客观行为充分体现。至于是否获得报酬、是否明确告知具体职责，均不影响其主观故意的认定。\n\n量刑方面，考虑到被告人系初犯，在共同犯罪中起次要作用，建议依法从轻处罚。但被告人拒不供述犯罪事实，无认罪悔罪表现，依法不应适用缓刑。建议判处有期徒刑六个月，并处罚金人民币三千元。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人现就本案发表如下辩护意见：\n\n一、关于被告人的主观故意和参与程度\n根据《刑法》第二十七条规定，在共同犯罪中起次要或者辅助作用的，是从犯。被告人仅系临时被叫去望风，既未参与赌博活动的组织策划，也未从中获利。多名同案人证言仅能证明被告人在场，不能证明其实际参与赌博活动的组织或实施。\n\n二、关于被告人的行为性质\n被告人的望风行为缺乏明确的工作内容和职责范围，既未获得报酬承诺，也未配备专门通讯设备。根据最高人民法院《关于审理赌博刑事案件具体应用法律若干问题的解释》第九条，对于情节显著轻微的赌博行为，可不以犯罪论处。\n\n三、关于量刑情节\n1.被告人系初犯，无前科劣迹，根据《刑法》第六十七条可从轻处罚；\n2.被告人在侦查阶段如实供述，认罪态度良好；\n3.被告人在共同犯罪中仅起辅助作用，社会危害性较小。\n\n综上，恳请法庭考虑被告人犯罪情节轻微，建议对其免予刑事处罚或适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的被告人主观故意问题，本院认为，根据《刑法》第十四条，明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，即构成故意犯罪。被告人明确知晓楼上正在进行赌博活动，仍参与望风，其主观故意已通过客观行为充分体现。\n\n关于辩护人提出的从犯情节，本院认同被告人在共同犯罪中起辅助作用，但根据《刑法》第二十七条，对于从犯应当从轻、减轻或者免除处罚，而非直接免除处罚。考虑到本案赌博规模较大，参与人数众多，社会危害性不容忽视。\n\n关于辩护人提出的认罪态度问题，被告人虽在侦查阶段如实供述，但在庭审中拒不承认犯罪事实，不符合《刑法》第六十七条关于坦白从宽的规定。建议法庭在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的认罪态度问题，辩护人需要指出，被告人在侦查阶段和庭审中均如实供述了望风的事实，并未否认基本案情。根据《刑法》第六十七条第三款，犯罪嫌疑人虽不具有自首情节，但是如实供述自己罪行的，可以从轻处罚。被告人的供述始终稳定一致，应当认定为认罪态度良好。\n\n关于社会危害性问题，辩护人提请法庭注意，被告人仅参与一次望风行为，未实际参与赌博活动的组织策划，也未从中获利。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于从犯应当综合考虑其在共同犯罪中的地位、作用等情况予以从宽处罚。本案中被告人的行为情节显著轻微，社会危害性较小。\n\n关于量刑建议，辩护人认为公诉人提出的六个月有期徒刑量刑过重。考虑到被告人系初犯、从犯，且认罪态度良好，建议适用缓刑或免予刑事处罚更为适当。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的被告人认罪态度问题，需要明确指出，被告人在庭审中始终否认其行为构成犯罪，不符合《刑法》第六十七条关于\"如实供述自己罪行\"的规定。根据最高人民法院《关于处理自首和立功具体应用法律若干问题的解释》第一条，如实供述自己的罪行是指如实交代自己的主要犯罪事实，而非仅承认部分客观行为。\n\n关于量刑建议，本案查获参赌人员26人，赌资27300元，已达到《最高人民法院关于审理赌博刑事案件具体应用法律若干问题的解释》第一条规定的\"聚众赌博\"标准。被告人的望风行为虽属辅助，但为赌博活动提供了直接帮助，应当承担相应刑事责任。\n\n辩护人主张免予刑事处罚的建议与本案事实不符。根据《刑法》第三十七条，免予刑事处罚适用于犯罪情节轻微不需要判处刑罚的情形。本案赌博规模较大，社会危害性明显，不符合免予处罚条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人认罪态度问题，辩护人需要强调，被告人在整个诉讼过程中始终如实陈述了其在现场望风的事实经过，并未隐瞒或歪曲任何关键事实。根据《最高人民法院关于处理自首和立功若干具体问题的意见》第一条第二款，被告人如实供述主要犯罪事实，虽对行为性质提出辩解，但不影响\"如实供述\"的认定。\n\n关于量刑标准问题，辩护人提请法庭注意，被告人仅参与单次望风行为，未实际参与赌博活动的组织策划，也未从中获利。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于从犯应当依法从宽处罚，犯罪情节轻微的可以免除处罚。\n\n关于社会危害性问题，被告人的望风行为与赌博活动的组织、实施无直接关联，其主观恶性及行为的社会危害性显著轻微。根据《刑法》第十三条但书规定，情节显著轻微危害不大的，不认为是犯罪。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人的主观故意和认罪态度已充分发表意见，接下来的辩论请围绕被告人望风行为的具体工作内容、职责范围以及与赌博活动的关联程度展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《刑法》第二十五条，共同犯罪是指二人以上共同故意犯罪。被告人虽未直接参与赌博活动，但其望风行为与赌博活动具有直接关联性，为赌博活动提供了安全保障。多名同案人证言相互印证，证实被告人系有组织地参与望风工作，并非临时性行为。\n\n关于职责范围问题，根据最高人民法院《关于审理赌博刑事案件具体应用法律若干问题的解释》第四条，为赌博活动提供场所、资金、工具、交通、通讯等直接帮助的，以赌博罪的共犯论处。望风行为属于为赌博活动提供安全保障的直接帮助，其具体工作内容不影响犯罪性质的认定。\n\n被告人在侦查阶段供述中明确承认知晓楼上正在进行赌博活动，并按照他人安排在楼下望风，其主观故意与客观行为均已符合赌博罪的构成要件。辩护人提出的\"临时性\"辩解与同案人证言及被告人自身供述不符。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人望风行为的具体性质，辩护人认为：\n\n1. 根据被告人的供述和同案人证言，被告人的望风行为缺乏明确的工作指令和职责范围。根据《刑法》第二十七条，在共同犯罪中起次要或者辅助作用的，应当认定为从犯。被告人的行为明显属于辅助性质。\n\n2. 被告人未配备专门通讯工具，仅使用个人手机，且未获得任何报酬。这表明其参与程度较浅，与赌博活动的组织者不存在紧密的利益关联。\n\n3. 根据最高人民法院《关于审理赌博刑事案件具体应用法律若干问题的解释》第九条，对于情节显著轻微的赌博行为，可不以犯罪论处。被告人的望风行为仅持续较短时间，未实际发挥实质作用，社会危害性较小。\n\n4. 关于关联程度问题，被告人的望风行为与赌博活动的组织、实施无直接因果关系。其行为既未促成赌博活动的开展，也未对赌博活动的持续产生实质性影响。\n\n综上，被告人的行为情节显著轻微，建议法庭根据《刑法》第十三条但书规定，认定其行为不构成犯罪。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人望风行为的具体工作内容和职责范围已充分发表意见，接下来的辩论请围绕被告人望风行为的具体持续时间、具体位置以及与赌博活动的实际关联程度展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据同案人证言及被告人供述，被告人从案发当晚开始参与望风工作直至被抓获，持续时间虽短但已实际参与赌博活动的完整过程。望风位置位于赌博场所楼下，直接为赌博活动提供安全保障，具有明确的关联性。\n\n根据《刑法》第二十五条关于共同犯罪的规定，被告人的望风行为与赌博活动构成有机整体。其行为虽未直接参与赌博，但为赌博活动提供了必要的安全保障，属于共同犯罪中的帮助行为。辩护人提出的\"未实际发挥实质作用\"与事实不符，望风行为对赌博活动的持续进行具有实际保障作用。\n\n关于具体位置问题，被告人在赌博场所楼下望风，能够第一时间发现执法人员，其位置选择具有明确目的性。根据最高人民法院《关于审理赌博刑事案件具体应用法律若干问题的解释》第四条，为赌博活动提供直接帮助的即构成共犯，位置的具体远近不影响犯罪性质的认定。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于望风行为的持续时间，根据被告人供述，其仅参与案发当晚的望风工作，持续时间较短。根据《最高人民法院关于审理赌博刑事案件具体应用法律若干问题的解释》第九条，对于参与时间短、情节显著轻微的赌博辅助行为，可不以犯罪论处。\n\n关于具体位置问题，被告人虽在赌博场所楼下，但根据其供述，既未配备专门通讯工具，也未获得明确行动指令。这种被动性的在场行为与为赌博活动提供实质性安全保障存在本质区别。\n\n关于实际关联程度，现有证据无法证明被告人的望风行为与赌博活动的组织、实施存在直接因果关系。其行为既未促成赌博活动的开展，也未对赌博活动的持续产生实质性影响。根据《刑法》第十三条但书规定，情节显著轻微危害不大的，不认为是犯罪。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到自己参与望风的行为是错误的，给社会带来了不良影响。我只是一时糊涂帮同乡的忙，没有从中获利，也没有参与赌博活动。我是初犯，没有前科，请求法庭从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "广东省广州市白云区人民法院\n刑事判决书\n（2019）粤0111刑初1105号\n\n公诉机关广东省广州市白云区人民检察院。\n\n被告人俸某，男，1993年1月10日出生，汉族，高中文化，住广西壮族自治区桂林市临桂县。因涉嫌赌博罪于2019年1月5日被羁押，次日被刑事拘留，同年2月2日被逮捕。现羁押于广州市白云区看守所。\n\n辩护人×××（姓名、性别、工作单位和职务）。\n\n广东省广州市白云区人民检察院以穗云检公诉刑诉〔2019〕1105号起诉书指控被告人俸某犯赌博罪，于2019年×月×日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。广州市白云区人民检察院指派检察员×××出庭支持公诉，被告人俸某及其辩护人×××到庭参加诉讼。本案现已审理终结。\n\n公诉机关指控：2019年1月5日凌晨2时许，同案人赵某甲、盛某等人在广州市白云区永平街东平宋屋街永福巷9-1号703房内以打\"三公\"的方式聚众赌博，被告人俸某与同案人刘某、宋某、彭某、周某从事相关辅助工作。公安机关在现场抓获房内赌博的26人，并在楼下抓获被告人俸某及同案人彭某、周某，当场查获赌具扑克牌一副及赌资人民币27300元。公诉机关认为被告人俸某的行为已构成赌博罪，建议判处有期徒刑六个月并处罚金。\n\n被告人俸某对指控的犯罪事实无异议，但辩称其仅被安排望风，未实际参与赌博活动，也未获得任何报酬。辩护人提出被告人系从犯，参与程度较浅，建议免予刑事处罚或适用缓刑。\n\n经审理查明：2019年1月5日凌晨2时许，同案人赵某甲、盛某等人在广州市白云区永平街东平宋屋街永福巷9-1号703房内组织多人以打\"三公\"的方式聚众赌博。被告人俸某受同案人安排，在赌博现场楼下负责望风。公安机关现场查获赌博人员26人，并在楼下抓获被告人俸某及同案人彭某、周某，当场查获赌具扑克牌一副及赌资人民币27300元。\n\n上述事实，有被告人俸某在侦查阶段的供述，同案人赵某甲、刘某、宋某、彭某、周某的证言及辨认材料，26名参赌人员的证言，现场照片、勘验检查笔录，涉案物品照片，行政处罚决定书，视频资料，扣押文书等证据证实，足以认定。\n\n本院认为，被告人俸某明知他人实施聚众赌博活动，仍为其提供望风帮助，其行为已构成赌博罪。公诉机关指控的罪名成立。鉴于被告人俸某在共同犯罪中起次要、辅助作用，系从犯，且未实际参与赌博活动，未从中获利，依法可以从轻处罚。辩护人关于被告人系从犯的辩护意见予以采纳。综合考虑被告人的犯罪事实、性质、情节及社会危害程度，依照《中华人民共和国刑法》第三百零三条第一款、第二十七条、第六十七条第三款之规定，判决如下：\n\n被告人俸某犯赌博罪，判处拘役三个月，并处罚金人民币二千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向广东省广州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长×××\n××××年××月××日\n书记员×××",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证明被告人在赌博现场负责望风的事实。被告人无异议，辩护人认为该证据无法证明被告人的主观故意和实际参与程度。\n\n2. 公诉人出示同案人赵某甲、刘某、宋某、彭某、周某的证言，均指认被告人在楼下望风的事实。被告人对所有证言均无异议，辩护人认为这些证言仅能证明被告人在场，不能证明其主观故意和实际参与程度。\n\n3. 公诉人出示26名参赌人员的证言，均证实参与赌博被查获的事实。被告人和辩护人均无异议。\n\n4. 公诉人出示现场照片、勘验检查笔录、涉案物品照片、行政处罚决定书、视频资料、扣押文书等物证和书证。被告人和辩护人对所有证据均无异议。\n\n5. 辩护人未出示任何证据，被告人亦未申请调取新证据或通知新证人到庭。\n\n该阶段主要争议点在于被告人在赌博活动中望风行为的性质和程度，控辩双方对相关证据的证明力存在分歧。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证明被告人在赌博现场负责望风的事实。被告人无异议，辩护人认为该证据无法证明被告人的主观故意和实际参与程度。\n\n2. 公诉人出示同案人赵某甲、刘某、宋某、彭某、周某的证言，均指认被告人在楼下望风的事实。被告人对所有证言均无异议，辩护人认为这些证言仅能证明被告人在场，不能证明其主观故意和实际参与程度。\n\n3. 公诉人出示26名参赌人员的证言，均证实参与赌博被查获的事实。被告人和辩护人均无异议。\n\n4. 公诉人出示现场照片、勘验检查笔录、涉案物品照片、行政处罚决定书、视频资料、扣押文书等物证和书证。被告人和辩护人对所有证据均无异议。\n\n5. 辩护人未出示任何证据，被告人亦未申请调取新证据或通知新证人到庭。\n\n该阶段主要争议点在于被告人在赌博活动中望风行为的性质和程度，控辩双方对相关证据的证明力存在分歧。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证明被告人在赌博现场负责望风的事实。被告人无异议，辩护人认为该证据无法证明被告人的主观故意和实际参与程度。\n\n2. 公诉人出示同案人赵某甲、刘某、宋某、彭某、周某的证言，均指认被告人在楼下望风的事实。被告人对所有证言均无异议，辩护人认为这些证言仅能证明被告人在场，不能证明其主观故意和实际参与程度。\n\n3. 公诉人出示26名参赌人员的证言，均证实参与赌博被查获的事实。被告人和辩护人均无异议。\n\n4. 公诉人出示现场照片、勘验检查笔录、涉案物品照片、行政处罚决定书、视频资料、扣押文书等物证和书证。被告人和辩护人对所有证据均无异议。\n\n5. 辩护人未出示任何证据，被告人亦未申请调取新证据或通知新证人到庭。\n\n该阶段主要争议点在于被告人在赌博活动中望风行为的性质和程度，控辩双方对相关证据的证明力存在分歧。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证明被告人在赌博现场负责望风的事实。被告人无异议，辩护人认为该证据无法证明被告人的主观故意和实际参与程度。\n\n2. 公诉人出示同案人赵某甲、刘某、宋某、彭某、周某的证言，均指认被告人在楼下望风的事实。被告人对所有证言均无异议，辩护人认为这些证言仅能证明被告人在场，不能证明其主观故意和实际参与程度。\n\n3. 公诉人出示26名参赌人员的证言，均证实参与赌博被查获的事实。被告人和辩护人均无异议。\n\n4. 公诉人出示现场照片、勘验检查笔录、涉案物品照片、行政处罚决定书、视频资料、扣押文书等物证和书证。被告人和辩护人对所有证据均无异议。\n\n5. 辩护人未出示任何证据，被告人亦未申请调取新证据或通知新证人到庭。\n\n该阶段主要争议点在于被告人在赌博活动中望风行为的性质和程度，控辩双方对相关证据的证明力存在分歧。\n\n法庭辩论阶段总结：\n\n1. 公诉人主要观点：\n- 认为被告人明知是赌博活动仍参与望风，构成赌博罪共犯\n- 指出多名同案人证言相互印证被告人的望风行为\n- 强调望风行为为赌博活动提供直接帮助\n- 建议判处有期徒刑六个月并处罚金\n\n2. 辩护人主要观点：\n- 主张被告人仅起辅助作用，应认定为从犯\n- 指出望风行为缺乏明确工作内容和职责范围\n- 强调被告人未获利且参与程度浅\n- 建议免予刑事处罚或适用缓刑\n\n3. 双方争议焦点：\n- 围绕被告人主观故意和认罪态度展开辩论\n- 针对望风行为的具体工作内容、职责范围进行辩论\n- 就望风行为与赌博活动的关联程度展开辩论\n- 对量刑建议存在重大分歧\n\n4. 关键辩论内容：\n- 公诉人坚持认为被告人的望风行为构成赌博罪共犯\n- 辩护人主张被告人的行为情节显著轻微不构成犯罪\n- 双方就《刑法》第十三条但书规定的适用进行辩论\n- 对最高人民法院相关司法解释的理解存在分歧",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在案发当晚负责在赌博现场楼下望风\n- 被告人与同案人周某为同乡关系\n- 被告人知道楼上在进行赌博活动\n- 被告人携带手机但未获得报酬\n- 被告人表示不清楚赌博现场具体人数和组织情况\n\n2. 辩护人讯问：\n- 被告人表示无人明确告知望风的具体工作内容、职责范围、行动方案\n- 被告人与同案人无其他经济往来\n- 被告人未获得任何报酬承诺或支付\n- 被告人未被提供专门通讯设备\n- 被告人不清楚赌博活动的具体规模\n\n3. 审判长讯问：\n- 被告人看到有人进出场所但未注意是否携带现金或赌具\n- 被告人未看到执法人员进入\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，证明被告人在赌博现场负责望风的事实。被告人无异议，辩护人认为该证据无法证明被告人的主观故意和实际参与程度。\n\n2. 公诉人出示同案人赵某甲、刘某、宋某、彭某、周某的证言，均指认被告人在楼下望风的事实。被告人对所有证言均无异议，辩护人认为这些证言仅能证明被告人在场，不能证明其主观故意和实际参与程度。\n\n3. 公诉人出示26名参赌人员的证言，均证实参与赌博被查获的事实。被告人和辩护人均无异议。\n\n4. 公诉人出示现场照片、勘验检查笔录、涉案物品照片、行政处罚决定书、视频资料、扣押文书等物证和书证。被告人和辩护人对所有证据均无异议。\n\n5. 辩护人未出示任何证据，被告人亦未申请调取新证据或通知新证人到庭。\n\n该阶段主要争议点在于被告人在赌博活动中望风行为的性质和程度，控辩双方对相关证据的证明力存在分歧。\n\n法庭辩论阶段总结：\n\n1. 公诉人主要观点：\n- 认为被告人明知是赌博活动仍参与望风，构成赌博罪共犯\n- 指出多名同案人证言相互印证被告人的望风行为\n- 强调望风行为为赌博活动提供直接帮助\n- 建议判处有期徒刑六个月并处罚金\n\n2. 辩护人主要观点：\n- 主张被告人仅起辅助作用，应认定为从犯\n- 指出望风行为缺乏明确工作内容和职责范围\n- 强调被告人未获利且参与程度浅\n- 建议免予刑事处罚或适用缓刑\n\n3. 双方争议焦点：\n- 围绕被告人主观故意和认罪态度展开辩论\n- 针对望风行为的具体工作内容、职责范围进行辩论\n- 就望风行为与赌博活动的关联程度展开辩论\n- 对量刑建议存在重大分歧\n\n4. 关键辩论内容：\n- 公诉人坚持认为被告人的望风行为构成赌博罪共犯\n- 辩护人主张被告人的行为情节显著轻微不构成犯罪\n- 双方就《刑法》第十三条但书规定的适用进行辩论\n- 对最高人民法院相关司法解释的理解存在分歧",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 3.0,
+    "fine": 2000.0,
+    "reprieve": 0.0
+  }
+]

@@ -1,0 +1,1527 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人杨某，于XXX年X月X日出生，女，汉族，XXX文化，户籍贵州省织金县。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "贵州省织金县人民检察院  \n起 诉 书  \n\n织检公诉刑诉〔2015〕334号  \n\n被告人杨某，女，XXX年X月X日出生，汉族，XXX文化，户籍所在地贵州省织金县。因涉嫌非法吸收公众存款罪，于2015年5月31日主动到织金县公安局投案，同日被刑事拘留。  \n\n本案由织金县公安局侦查终结，以被告人杨某涉嫌非法吸收公众存款罪，于2015年9月6日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2012年以来，被告人杨某以织金县城关镇为中心，以吸收群众的现金“来会”和以高于银行利息借款的方式变相吸收公众存款。截至案发，共给谌某、杜某等15名被害人造成直接经济损失共计人民币204.48万元，严重扰乱了当地的金融秩序。  \n\n认定上述事实的证据如下：  \n1. 书证：被告人杨某出具给各被害人的借条、会单、会规，证实被告人组织来会及借款、欠款的相关情况；  \n2. 书证：织金县公安局查询财产通知书回执及账户明细，证实被告人杨某的银行账户余额及房产过户情况；  \n3. 证人证言：证人周某甲（杨某母亲）的证言，证实杨某邀人来会及资金链断裂的情况；  \n4. 被害人陈述：被害人谌某、杜某等15人的陈述，证实杨某以高息为诱饵吸收存款并造成经济损失；  \n5. 书证：织金县公安局经济犯罪侦察大队情况说明，证实被告人杨某主动投案的事实；  \n6. 书证：被告人杨某的户籍证明，证实被告人的出生时间；  \n7. 被告人供述：被告人杨某对犯罪事实的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人杨某对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人杨某以高息为诱饵，采取来会和借款的方式，向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为触犯了《中华人民共和国刑法》第一百七十六条第一款之规定，犯罪事实清楚，证据确实、充分，应当以非法吸收公众存款罪追究其刑事责任。被告人杨某主动投案并如实供述犯罪事实，具有自首情节，根据《中华人民共和国刑法》第六十七条第一款之规定，可以从轻或者减轻处罚。建议判处被告人杨某有期徒刑XX，缓刑XX，并处罚金人民币XX元，同时责令退赔被害人经济损失共计XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n贵州省织金县人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人杨某，你从2012年开始组织\"来会\"活动时，是否向参与者承诺过高于银行利率的回报？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我承诺过会给予高于银行利率的回报。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动具体是如何运作的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最开始是亲友间的小规模互助会，每人每月缴纳固定会钱，轮流使用会款。后来规模扩大，我承诺给予高于银行的利息回报来吸引更多人参与。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你向被害人吸收的资金具体用途是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于填补前期参会人员违约造成的资金缺口，也有一部分用于个人生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动共涉及多少名参与者？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "15名参与者。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否清楚这种未经金融监管部门批准的集资行为是违法的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "清楚这是违法的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动最终造成多少经济损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "204.48万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否有能力偿还被害人204.48万元的经济损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有能力偿还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何选择在2015年5月31日主动投案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为资金链已经完全断裂，无法继续维持，我意识到问题严重性，所以选择主动投案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动是否向社会不特定人员公开宣传？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，后期通过口口相传的方式向社会不特定人员进行了宣传。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动具体承诺给参与者的年化收益率是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大约在20%左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动是否制定了具体的会规？会规内容是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "制定了会规，主要内容包括每月固定缴纳会钱、轮流使用会款、违约处罚等条款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动是否向参与者出具过任何书面凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "制定了会规，主要内容包括每月固定缴纳会钱、轮流使用会款、违约处罚等条款。\n\n出具过借条和会单作为书面凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动具体每月收取的会钱金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "每月收取的会钱金额根据参与者的不同，从几千元到几万元不等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动是否向参与者明确告知过资金用途和风险？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确告知过资金用途和风险。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动具体持续了多长时间？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "从2012年开始持续到2015年5月，共3年左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你组织的\"来会\"活动是否向参与者承诺过保本付息？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我承诺过保本付息。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就案件主要事实进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你组织的\"来会\"活动最初是出于什么目的开始的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最初是为了帮助亲友周转资金，解决他们的经济困难。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你最初组织的\"来会\"活动参与者都是你的亲友吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，最初参与者都是我的亲友。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有主动采取措施来弥补被害人的损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我确实想弥补被害人的损失，但目前没有经济能力进行赔偿。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向亲友以外的社会公众主动宣传或招揽过\"来会\"活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "后期确实通过亲友介绍的方式向亲友以外的社会公众进行了宣传。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人如实告知过资金链断裂的风险？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确告知过资金链断裂的风险。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有将吸收的资金用于任何生产经营活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有将吸收的资金用于生产经营活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人承诺过具体的还款计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向被害人承诺过具体的还款计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人提供过任何形式的担保或抵押？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向被害人提供过任何形式的担保或抵押。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否曾向被害人承诺过具体的还款期限？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向被害人承诺过具体的还款期限。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人提供过任何形式的资金使用情况说明或账目明细？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向被害人提供过资金使用情况说明或账目明细。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人明确说明过\"来会\"活动的具体运作规则？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向被害人明确说明过\"来会\"活动的具体运作规则。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就案件事实进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你组织的\"来会\"活动在资金链断裂前，是否曾尝试通过其他合法途径筹集资金来维持运转？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有尝试通过其他合法途径筹集资金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否清楚你组织的\"来会\"活动最终导致15名被害人遭受经济损失的具体原因？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "清楚，主要是因为部分参会人员违约未缴纳会钱，导致资金链断裂无法偿还其他会员本金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否曾向金融监管部门申请过开展此类集资活动的许可？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向金融监管部门申请过许可。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2006年起，我在贵州省织金县城关镇以“来会”形式组织民间集资活动。2012年后，部分参会人员结会后未继续缴纳会钱，导致资金链断裂。2013年至2015年期间，我通过“来会”和以高于银行利息的借款方式，向谌某、杜某等15人吸收资金，造成其直接经济损失共计204.48万元。具体欠款包括：谌某24.4万元、杜某7.5万元、罗某甲21.82万元、何某7.5万元、罗某乙34万元、刘某16万元、向某甲4.5万元、向某乙6.5万元、赵某8.5万元、陈某2.66万元、熊某29.6万元、李某甲14万元、周某乙11万元、李某乙10万元。  \n\n（2）犯案动机  \n最初通过“来会”帮助亲友周转资金，后因部分参会人员违约未缴纳会钱，导致无法偿还其他会员本金。为维持资金链，我以高息借款继续填补缺口，最终无法兑付。  \n\n（3）案发之后的处理  \n2015年5月31日，我主动到织金县公安局经济犯罪侦察大队投案，如实供述全部犯罪事实。目前未赔偿被害人经济损失，未达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：被告人杨某出具给各被害人的借条、会单、会规，证实被告人组织来会及借款、欠款的相关情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：贵州省织金县公安局查询财产通知书回执（织县公（刑）查询字（2015）47号、48号、49号、50号）及账户明细，证实杨某在中国工商银行股份有限公司织金支行开户三个，未使用。在贵州织金农村商业银行股份有限公司玉屏支行开户一个，余额为49.62元。在贵州织金农村商业银行股份有限公司三甲支行开户一个，无余额。在中国农业银行股份有限公司织金支行开户一个，无余额。在中国建设银行股份有限公司织金支行开户一个，余额86.14元。附：查询财产通知书回执经织金县公安局经济犯罪侦察大队依法出具，并经相关银行机构确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：贵州省织金县公安局查询财产通知书回执（织县公（刑）查询字（2015）26号、27号、28号、32号49号）及贵州省房屋所有权登记申请表，证实被告人杨某在贵阳经济技术开发区、贵阳市花溪区、贵阳市云岩区无房产登记信息，杨某位于贵州省织金县城关镇鱼山路浩阳城市花园Ｂ2幢4层402号房屋（产权证号75000833）已于2011年6月过户至韩某名下，该产权证已被注销。附：房屋所有权登记申请表经织金县房产管理局依法审核并确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人周某甲证实：“自己是杨某的母亲。杨某邀人来会已经有几年的时间了，从2012年开始就陆续有参会人员把会钱结走后不交黑会会钱，致使杨某结不了会钱给其他参会的人员。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：被害人谌某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失24.4万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.被害人陈述：被害人杜某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失7.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.被害人陈述：被害人罗某甲陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失21.82万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.被害人陈述：被害人何某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失7.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.被害人陈述：被害人罗某乙陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失34万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.被害人陈述：被害人刘某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失16万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.被害人陈述：被害人向某甲陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失4.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.被害人陈述：被害人向某乙陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失6.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.被害人陈述：被害人赵某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失8.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.被害人陈述：被害人陈某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失2.66万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.被害人陈述：被害人熊某陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失29.6万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.被害人陈述：被害人李某甲陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失14万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.被害人陈述：被害人周某乙陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失11万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.被害人陈述：被害人李某乙陈述：“2013年至2015年期间，杨某邀约我来会或以高息为诱饵向我借款，给我造成经济损失10万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：织金县公安局经济犯罪侦察大队情况说明，证实被告人杨某于2015年5月31日主动到织金县公安局投案的事实。附：投案情况说明经织金县公安局经济犯罪侦察大队依法出具并确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：被告人杨某的户籍证明，证实被告人的出生时间。附：户籍证明经织金县公安局城关派出所依法出具并确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面\n被告人杨某的行为完全符合《刑法》第一百七十六条规定的非法吸收公众存款罪的构成要件。其以\"来会\"形式组织民间集资活动，承诺20%的高额回报，向15名不特定社会公众吸收资金204.48万元，且未取得金融监管部门许可，严重扰乱了金融秩序。虽然最初出于帮助亲友的目的，但后期已明显转变为向社会公众非法集资的行为。\n\n二、关于量刑情节\n1. 被告人具有自首情节，根据《刑法》第六十七条第一款规定，可以从轻处罚。其于2015年5月31日主动投案并如实供述全部犯罪事实，认罪态度较好。\n2. 本案造成15名被害人共计204.48万元的经济损失，数额巨大，社会危害性较大。\n3. 被告人未对被害人进行任何赔偿，也未取得被害人谅解。\n\n三、量刑建议\n综合本案事实、性质、情节及社会危害程度，公诉人坚持起诉书提出的量刑建议：判处被告人杨某有期徒刑XX，缓刑XX，并处罚金人民币XX元，同时责令退赔被害人经济损失共计XX元。这一量刑建议既考虑了被告人的自首情节，也体现了对其犯罪行为的惩罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于自首情节\n被告人杨某于2015年5月31日主动投案，如实供述全部犯罪事实，符合《刑法》第六十七条第一款关于自首的规定。根据最高人民法院《关于处理自首和立功具体应用法律若干问题的解释》第一条，应当依法从轻或减轻处罚。\n\n二、关于主观恶性\n1. 被告人最初组织\"来会\"活动是出于帮助亲友解决经济困难的善意目的，主观恶性较小；\n2. 资金主要用于填补前期缺口，未用于奢侈消费或非法活动；\n3. 后期资金链断裂主要系因部分参会人员违约所致，非完全出于被告人主观恶意。\n\n三、关于认罪态度\n被告人自侦查阶段起即如实供述，庭审中认罪态度良好，具有悔罪表现。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，可以酌情从宽处罚。\n\n四、量刑建议\n鉴于被告人系初犯、偶犯，具有自首情节且认罪态度良好，建议法庭在量刑时充分考虑上述从轻情节，给予从宽处理。同时建议在判决中明确被告人的退赔义务，为其日后履行赔偿责任创造条件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观恶性问题\n辩护人提出被告人主观恶性较小，公诉人认为不能成立。根据《刑法》第一百七十六条，非法吸收公众存款罪是行为犯，不以主观恶性为构成要件。被告人明知行为违法仍持续3年之久，后期更向社会不特定公众宣传，主观恶性不容忽视。\n\n二、关于资金用途问题\n被告人将资金用于填补前期缺口和个人开支，而非生产经营活动，这恰恰符合《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第二条规定的\"以非法占有为目的\"的情形。\n\n三、关于社会危害性\n本案涉及15名被害人，造成204.48万元损失，严重扰乱当地金融秩序。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第三条，已达到\"数额巨大\"标准，应从重处罚。\n\n四、关于量刑平衡\n虽然被告人具有自首情节，但未进行任何赔偿，也未取得被害人谅解。根据《最高人民法院关于常见犯罪的量刑指导意见》，在从轻处罚的同时，必须充分考虑其行为的社会危害性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于主观恶性问题\n被告人最初确系出于互助目的组织亲友间\"来会\"，后期因部分参会人员违约导致资金链断裂，为维持运转才扩大范围。根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第一条第二款，亲友间的互助性集资与面向社会公众的集资应区别对待。\n\n二、关于资金用途问题\n被告人将资金用于填补前期缺口，客观上形成了\"借新还旧\"模式，但并无证据表明其具有非法占有的主观故意。根据《刑法》第一百七十六条的立法本意，应严格区分非法吸收公众存款罪与集资诈骗罪的构成要件。\n\n三、关于量刑建议\n虽然被告人目前无力赔偿，但其在庭审中多次表示愿意承担赔偿责任。建议法庭在判处刑罚的同时，给予被告人缓刑考验期，为其创造履行赔偿义务的条件。根据《刑法》第七十二条，对于犯罪情节较轻、有悔罪表现的犯罪分子，可以宣告缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观恶性问题\n辩护人提出应区分亲友间互助与社会公众集资，但根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第一条第二款，被告人后期已明显将集资对象扩展至社会不特定公众，且持续时间长达3年，主观恶性不容忽视。\n\n二、关于资金用途问题\n被告人将资金用于填补前期缺口和个人开支，符合《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第四条第二款规定的\"集资后不用于生产经营活动\"的情形，应当认定为非法吸收公众存款罪。\n\n三、关于量刑建议\n虽然被告人表示愿意赔偿，但根据已查明的事实，其名下无房产且银行账户余额极少，客观上不具备赔偿能力。根据《最高人民法院关于常见犯罪的量刑指导意见》，在考虑自首情节的同时，必须充分考虑其行为造成的严重社会危害后果。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于主观恶性问题\n公诉人认为被告人主观恶性不容忽视，但根据《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第一条第二款，被告人最初确实是在亲友间开展互助活动，后期因资金链断裂才扩大范围。这种从亲友互助到社会集资的转变过程，与直接面向社会公众非法集资存在本质区别。\n\n二、关于资金用途问题\n虽然资金未用于生产经营活动，但根据《刑法》第一百七十六条，非法吸收公众存款罪的构成并不以资金用途为要件。被告人将资金用于填补前期缺口，并未挥霍或转移，这与以非法占有为目的的集资诈骗罪有本质区别。\n\n三、关于赔偿能力问题\n被告人虽目前无力赔偿，但根据《刑法》第六十四条，应当责令退赔被害人损失。建议法庭在判决中明确被告人的退赔义务，并给予缓刑考验期，为其创造履行赔偿义务的条件。根据《最高人民法院关于适用财产刑若干问题的规定》第四条，可考虑被告人的实际履行能力确定退赔期限。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的行为深感悔恨，最初只是想帮助亲友解决经济困难，但后来因管理不善导致资金链断裂，给15位被害人造成了严重经济损失。我自愿认罪认罚，主动投案并如实供述全部犯罪事实。虽然目前没有能力赔偿，但我愿意在有生之年尽最大努力偿还被害人损失。恳请法庭考虑我的自首情节和认罪态度，给予从轻处罚的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "贵州省织金县人民法院\n刑事判决书\n（2015）织刑初字第334号\n\n公诉机关贵州省织金县人民检察院。\n被告人杨某，女，XXX年X月X日出生，汉族，XXX文化，户籍所在地贵州省织金县。因涉嫌非法吸收公众存款罪，于2015年5月31日主动到织金县公安局投案，同日被刑事拘留。\n辩护人×××（写明姓名、性别、工作单位和职务）。\n\n贵州省织金县人民检察院于2015年9月6日以被告人杨某犯非法吸收公众存款罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。贵州省织金县人民检察院检察员×××出庭支持公诉，被告人杨某及其辩护人×××到庭参加诉讼。本案现已审理终结。\n\n贵州省织金县人民检察院指控：2012年以来，被告人杨某以织金县城关镇为中心，以吸收群众的现金\"来会\"和以高于银行利息借款的方式变相吸收公众存款。截至案发，共给谌某、杜某等15名被害人造成直接经济损失共计人民币204.48万元，严重扰乱了当地的金融秩序。被告人杨某对指控的犯罪事实和证据没有异议。\n\n经审理查明，2012年以来，被告人杨某在织金县城关镇组织\"来会\"活动，以年化约20%的高额回报为诱饵，向谌某、杜某等15名不特定社会公众吸收资金共计204.48万元。后因资金链断裂，造成上述被害人全部经济损失。被告人杨某未将资金用于生产经营活动，且未取得金融监管部门许可。2015年5月31日，被告人杨某主动投案并如实供述犯罪事实。\n\n上述事实，有被告人杨某在侦查阶段的供述，借条、会单、会规等书证，银行账户查询结果，房产查询结果，证人周某甲（杨某母亲）的证言，15名被害人的陈述，投案情况说明，户籍证明等证据证实，足以认定。\n\n本院认为，被告人杨某违反国家金融管理法律规定，以高息为诱饵，向社会不特定人员吸收公众存款，扰乱金融秩序，数额巨大，其行为已构成非法吸收公众存款罪。公诉机关指控的罪名成立。鉴于被告人杨某具有自首情节，依法可以从轻处罚。根据被告人的犯罪事实、性质、情节及对社会的危害程度，依照《中华人民共和国刑法》第一百七十六条第一款、第六十七条第一款、第七十二条第一款、第七十三条第二款、第三款、第五十二条、第五十三条、第六十四条之规定，判决如下：\n\n一、被告人杨某犯非法吸收公众存款罪，判处有期徒刑三年，缓刑四年，并处罚金人民币五万元；\n二、责令被告人杨某退赔被害人谌某、杜某等15人经济损失共计人民币204.48万元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向贵州省毕节市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长×××\n2015年××月××日\n书记员 ×××",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其组织\"来会\"活动的时间、方式、涉及金额及投案情况\n   - 书证：借条、会单、会规等，证实被告人组织\"来会\"及借款的具体情况\n   - 银行账户查询结果，证实被告人名下账户余额情况\n   - 房产查询结果，证实被告人名下无房产\n   - 证人证言（杨某母亲），证实\"来会\"活动资金链断裂情况\n   - 15名被害人的陈述，证实各自经济损失金额\n   - 投案情况说明，证实被告人主动投案\n   - 户籍证明，证实被告人身份信息\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其组织\"来会\"活动的时间、方式、涉及金额及投案情况\n   - 书证：借条、会单、会规等，证实被告人组织\"来会\"及借款的具体情况\n   - 银行账户查询结果，证实被告人名下账户余额情况\n   - 房产查询结果，证实被告人名下无房产\n   - 证人证言（杨某母亲），证实\"来会\"活动资金链断裂情况\n   - 15名被害人的陈述，证实各自经济损失金额\n   - 投案情况说明，证实被告人主动投案\n   - 户籍证明，证实被告人身份信息\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其组织\"来会\"活动的时间、方式、涉及金额及投案情况\n   - 书证：借条、会单、会规等，证实被告人组织\"来会\"及借款的具体情况\n   - 银行账户查询结果，证实被告人名下账户余额情况\n   - 房产查询结果，证实被告人名下无房产\n   - 证人证言（杨某母亲），证实\"来会\"活动资金链断裂情况\n   - 15名被害人的陈述，证实各自经济损失金额\n   - 投案情况说明，证实被告人主动投案\n   - 户籍证明，证实被告人身份信息\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其组织\"来会\"活动的时间、方式、涉及金额及投案情况\n   - 书证：借条、会单、会规等，证实被告人组织\"来会\"及借款的具体情况\n   - 银行账户查询结果，证实被告人名下账户余额情况\n   - 房产查询结果，证实被告人名下无房产\n   - 证人证言（杨某母亲），证实\"来会\"活动资金链断裂情况\n   - 15名被害人的陈述，证实各自经济损失金额\n   - 投案情况说明，证实被告人主动投案\n   - 户籍证明，证实被告人身份信息\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：确认被告人行为符合非法吸收公众存款罪构成要件，指出其以20%高息向15名不特定公众吸收204.48万元资金，扰乱金融秩序。\n- 量刑情节：认可自首情节，但强调造成重大经济损失且未赔偿，社会危害性大。\n- 量刑建议：坚持起诉书提出的有期徒刑并处罚金、责令退赔的量刑建议。\n\n2. 辩护人发表辩护意见：\n- 强调自首情节应依法从轻处罚。\n- 认为被告人主观恶性小，最初出于互助目的，资金主要用于填补缺口。\n- 指出被告人认罪态度良好，建议从宽处理并给予缓刑考验期。\n\n3. 控辩双方主要争议焦点：\n- 主观恶性：公诉人认为持续3年向社会公众集资主观恶性大；辩护人强调最初亲友互助性质。\n- 资金用途：公诉人认为符合\"不用于生产经营\"情形；辩护人辩称无非法占有故意。\n- 量刑平衡：公诉人强调社会危害性；辩护人建议给予缓刑创造赔偿条件。\n\n4. 最终立场：\n- 公诉人坚持原量刑建议，认为应考虑严重社会危害后果。\n- 辩护人建议明确退赔义务并给予缓刑考验期。",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认组织\"来会\"活动并承诺高额回报（年化约20%）\n- 活动涉及15名被害人，造成204.48万元损失\n- 资金用于填补前期缺口和个人开支\n- 后期向社会不特定人员公开宣传\n- 出具过借条和会单，但未告知资金用途和风险\n- 被告人清楚该行为违法且无力偿还\n\n2. 辩护人讯问：\n- 活动最初出于帮助亲友目的\n- 后期扩展到社会公众\n- 未将资金用于生产经营\n- 未提供担保、还款计划或资金使用说明\n\n3. 审判长补充询问：\n- 被告人未尝试合法筹资维持\n- 资金链断裂主因是参会人员违约\n- 未取得金融监管部门许可\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了21项证据，包括：\n   - 被告人在侦查阶段的供述，证实其组织\"来会\"活动的时间、方式、涉及金额及投案情况\n   - 书证：借条、会单、会规等，证实被告人组织\"来会\"及借款的具体情况\n   - 银行账户查询结果，证实被告人名下账户余额情况\n   - 房产查询结果，证实被告人名下无房产\n   - 证人证言（杨某母亲），证实\"来会\"活动资金链断裂情况\n   - 15名被害人的陈述，证实各自经济损失金额\n   - 投案情况说明，证实被告人主动投案\n   - 户籍证明，证实被告人身份信息\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：确认被告人行为符合非法吸收公众存款罪构成要件，指出其以20%高息向15名不特定公众吸收204.48万元资金，扰乱金融秩序。\n- 量刑情节：认可自首情节，但强调造成重大经济损失且未赔偿，社会危害性大。\n- 量刑建议：坚持起诉书提出的有期徒刑并处罚金、责令退赔的量刑建议。\n\n2. 辩护人发表辩护意见：\n- 强调自首情节应依法从轻处罚。\n- 认为被告人主观恶性小，最初出于互助目的，资金主要用于填补缺口。\n- 指出被告人认罪态度良好，建议从宽处理并给予缓刑考验期。\n\n3. 控辩双方主要争议焦点：\n- 主观恶性：公诉人认为持续3年向社会公众集资主观恶性大；辩护人强调最初亲友互助性质。\n- 资金用途：公诉人认为符合\"不用于生产经营\"情形；辩护人辩称无非法占有故意。\n- 量刑平衡：公诉人强调社会危害性；辩护人建议给予缓刑创造赔偿条件。\n\n4. 最终立场：\n- 公诉人坚持原量刑建议，认为应考虑严重社会危害后果。\n- 辩护人建议明确退赔义务并给予缓刑考验期。",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 50000.0,
+    "reprieve": 48.0
+  }
+]

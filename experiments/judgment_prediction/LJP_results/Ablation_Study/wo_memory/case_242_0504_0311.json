@@ -1,0 +1,2327 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人游某甲，于XXX年X月X日出生，男，汉族，XXX文化程度，户籍XXXX，永丰县鹿冈乡人民政府农业经济管理站站长。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是永丰县鹿冈乡人民政府农业经济管理站站长。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "永丰县人民检察院  \n起 诉 书  \n\n永丰检刑诉〔2018〕69号  \n\n被告人游某甲，男，XXX年X月X日出生，汉族，XXX文化程度，户籍XXXX，永丰县鹿冈乡人民政府农业经济管理站站长。  \n\n本案由永丰县监察委员会调查终结，以被告人游某甲涉嫌贪污罪，于2018年6月25日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2010年7月至案发前，被告人游某甲担任永丰县鹿冈乡人民政府农业经济管理站站长期间，利用职务便利，单独或伙同他人侵吞、骗取公共财产共计235653元，具体犯罪事实如下：  \n\n一、侵吞“以工代赈”项目资金60000元  \n2012年10月，永丰县发改委下达给鹿冈乡九都坑自然村“以工代赈”项目资金120000元。2014年3月4日，游某甲将120000元转入九都坑自然村理事会成员吴某甲账户后，指使吴某甲将其中60000元转入其个人账户并占为己有。  \n\n二、伙同张某骗取昌宁高速公路征地补偿款150653元  \n2013年8月至11月，游某甲与鹿冈乡常务副乡长张某（另案处理）共谋，通过虚报林地、田地面积，套取征地补偿款150653元，二人均分。游某甲负责提供虚开账户，张某编造虚假材料。  \n\n三、骗取公路奖补资金25000元  \n2012年底，游某甲发现罗家村委会未入账的30000元公路奖补资金后，谎称为村委会争取项目资金，骗取其中25000元。  \n\n认定上述事实的证据如下：  \n1. 书证：财政支付凭证、银行交易记录、虚假合同、完税材料等；  \n2. 证人证言：张某、吴某甲、凌某等23名证人证言；  \n3. 被告人供述：游某甲对犯罪事实供认不讳。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人游某甲身为国家工作人员，利用职务便利侵吞、骗取公共财物，数额巨大，其行为触犯《中华人民共和国刑法》第三百八十二条、第三百八十三条，犯罪事实清楚，证据确实、充分，应当以贪污罪追究其刑事责任。游某甲到案后如实供述，已退缴全部赃款，可酌情从轻处罚。根据《中华人民共和国刑事诉讼法》第一百七十二条规定，提起公诉，建议判处有期徒刑XX，缓刑XX，并处罚金XX。  \n\n此致  \n永丰县人民法院  \n\n检 察 员 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "对于\"以工代赈\"项目资金60000元，我是按照凌书记的指示操作的，当时认为这是正常的资金调配。关于征地补偿款部分，我确实提供了亲属账户，但具体操作主要是张某负责的。对于公路奖补资金25000元，我承认存在过错。我已经全额退赃，愿意认罪认罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人游某甲，你在担任鹿冈乡农业经济管理站站长期间，是否利用职务便利将\"以工代赈\"项目资金中的6万元转入个人账户并占为己有？请具体说明资金流转过程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2014年3月4日，我确实将12万元转入吴某甲账户，之后吴某甲按凌书记指示将其中6万元转入我的个人账户。这笔钱我用于个人开支，没有上交乡财政。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于昌宁高速公路征地补偿款，你与张某是如何共谋虚报林地、田地面积骗取补偿款的？你在其中具体负责哪些行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我提供了父亲游某乙和姐夫黄某甲的银行账户，张某负责虚报林地、田地面积。2013年11月21日，张某以游某乙名义虚报了7.612亩杉树林地，以黄某甲名义虚报了4.944亩油茶林地。11月29日，我按张某要求将59194元转入龚某甲账户。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你发现罗家村委会未入账的公路奖补资金后，为何要谎称争取项目资金并骗取25000元？这笔资金最终去向如何？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时发现这笔资金未入账后，我起了贪念。2013年6月24日，我们以虚假工程名义报账29000元，6月28日曾某将25000元现金交给我，这笔钱被我用于个人消费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为国家工作人员，是否清楚这些行为已经违反《刑法》关于贪污罪的规定？当时是基于什么动机实施这些行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我清楚这些行为违反了法律规定。当时主要是贪图钱财，存在侥幸心理。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在实施上述行为时，是否受到他人胁迫或存在其他特殊情形？请说明具体情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有受到他人胁迫，是我自己起了贪念。当时认为这些钱款管理存在漏洞，可以趁机谋取私利。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你退缴了全部赃款，请问这些赃款的具体来源是什么？是否完全弥补了国家损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些退赃款是我和家人多年积蓄筹集的。根据监察委的确认，已经全额退缴了235653元赃款，完全弥补了国家损失。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你对自己多次利用职务便利侵吞公共财物的行为有何认识？是否愿意认罪认罚？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的行为严重违反了党纪国法，辜负了组织的培养和信任。我愿意认罪认罚，真诚悔过，并已经全额退缴赃款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "在实施这些犯罪行为时，你是否考虑过可能造成的法律后果？现在对自身行为有何反思？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我确实考虑过法律后果，但当时抱有侥幸心理。现在深刻认识到自己的行为给国家和人民造成了损失，也毁了自己的前途。我真诚悔过，愿意接受法律制裁。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就主要犯罪事实进行了充分讯问，被告人亦已作出明确供述。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于\"以工代赈\"项目资金60000元部分，你当时将60000元转入个人账户时，原乡党委书记凌某是否明确指示过这笔款项的具体用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "凌书记只是指示将6万元返回乡政府，没有明确说明具体用途。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于征地补偿款150653元部分，你与张某在套取补偿款过程中，具体是谁最先提出虚报方案的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是张某最先提出虚报方案的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公路奖补资金25000元部分，你向村委会谎称争取到30000元资金时，是否确实存在为村委会争取项目资金的事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时并没有实际为村委会争取项目资金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于征地补偿款150653元部分，张某作为常务副乡长，在虚报材料过程中是否完全由他负责具体操作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，张某作为常务副乡长，具体负责了虚报材料的操作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于征地补偿款150653元部分，张某在虚报材料过程中是否曾向你出示过虚假的测量数据或其他虚假材料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "张某向我出示过虚假的测量数据。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于\"以工代赈\"项目资金60000元部分，你收到凌书记指示后，是否向其他领导或部门进行过汇报或备案？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向其他领导或部门进行过汇报或备案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于公路奖补资金25000元部分，你当时发现这笔资金未入账后，是否向村委会或上级部门报告过这一情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向村委会或上级部门报告过这一情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于征地补偿款150653元部分，你与张某平分赃款后，是否知道张某如何使用其分得的款项？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道张某如何使用其分得的款项。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于\"以工代赈\"项目资金60000元部分，凌书记指示将资金返回乡政府后，你是否留存了相关书面指示或记录？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有留存相关书面指示或记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于征地补偿款150653元部分，你与张某平分赃款的具体金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我分得60559元，张某分得59194元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2010年7月至案发前，我担任永丰县鹿冈乡人民政府农业经济管理站站长。  \n2012年10月，永丰县发改委向鹿冈乡下达120000元“以工代赈”项目资金，用于九都坑自然村村道建设。2013年7月8日，该资金拨付至乡经管站账户。2014年3月4日，九都坑自然村理事会成员吴某甲、何某甲持虚假发票要求报销。原乡党委书记凌某指示将其中60000元返回乡政府，由我经办。当日，我将120000元转入吴某甲账户，吴某甲随后将60000元转入我的个人账户，我未上交乡财政，用于个人开支。  \n\n2013年8月，我参与昌宁高速公路征地拆迁工作，与常务副乡长张某商议套取补偿款。我提供父亲游某乙和姐夫黄某甲的银行账户，张某虚报林地、田地面积。2013年11月21日，张某以游某乙名义虚报7.612亩杉树林地（66605元）、以黄某甲名义虚报4.944亩油茶林地（53148元），共计骗取119753元。11月29日，我按张某要求将59194元转入龚某甲账户，剩余60559元由我占有。同日，张某在《鹿冈乡洋垇村西屋高速征地面积发放表》中虚报游某乙水田面积1.03亩，套取30900元。2014年1月1日，我与张某私分该款，我分得14767.5元。  \n\n2010年12月，永丰县县乡公路改建指挥部拨付30000元“公路奖补资金”至乡经管站，罗家村委会不知情。2012年12月，我发现该款未入账，向村支书黄某乙、报账员曾某谎称争取到30000元项目资金，要求返还25000元。2013年6月24日，我们以虚假工程名义报账29000元。6月28日，曾某将25000元现金交给我。  \n\n（2）犯案动机  \n侵吞“以工代赈”资金因凌某指示返回乡政府60000元，我未上交。套取征地补偿款因与张某合谋牟利。骗取公路奖补资金因发现未入账资金可支配。  \n\n（3）案发之后的处理  \n2018年4月12日，永丰县监察委员会根据群众举报通知我接受调查。我如实供述全部犯罪事实。5月10日和12日，家属向监察委退赃90000元和70326.5元。  \n我没有自首，未与被害人达成谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于\"以工代赈\"项目资金部分，被告人的供述中明确提到是受原乡党委书记凌某指示操作，该证据未能充分证明被告人具有独立非法占有的主观故意。关于征地补偿款部分，被告人的供述显示张某作为常务副乡长主导了虚报行为，该证据未能充分证明被告人在共同犯罪中起主要作用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人虽提及凌某指示，但明确承认将6万元转入个人账户并用于个人开支，主观非法占有故意明显。关于征地补偿款部分，被告人主动提供亲属账户并参与分赃，在共同犯罪中作用积极，与张某构成共同犯罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：从永丰县财政局调取的关于鹿冈乡九都坑申报12万元“以工代赈”项目资金的文件、财政资金支付凭证、领导审批表以及以吴某乙名义签发的12万元“以工代赈”工程发票、中标书、会议记录、建设合同、鹿冈乡经管站记账凭证，上述证据均经永丰县人民检察院依法调取，并由出具单位加盖公章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：从永丰县地税局调取的鹿冈乡村委会九都坑自然村缴纳其申报12万“以工代赈”扶贫项目完税材料及资金审计报告，上述材料由永丰县地税局依法出具，并附有税务部门专用章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：从永丰农商行鹿冈支行调取的鹿冈经管站2014年3月4日转账支票、吴某甲存款凭条、个人业务转账凭证，该证据由银行工作人员依法调取，并加盖银行业务专用章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：吴某甲、何某乙的记账本复印件，该复印件经与原件核对无误，并由提供人签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：龚某乙提供的银行交易明细，该明细由银行出具并加盖业务章，经龚某乙本人确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：从永丰县昌宁高速公路工程建设征地拆迁协调办调取的关于昌宁高速公路征地补偿相关文件及征地补偿发放表、银行凭证、鹿冈乡经管站记账凭证单据，上述材料由协调办依法提供，并加盖单位公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：2013年昌宁高速征地拆迁（林地）发放表、鹿冈乡洋垇村西屋昌宁高速征地面积发放表，该发放表由征地拆迁工作组制作，并经相关农户签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：游某乙账号为17×××84和黄某甲账号为17×××33在农商银行开户资料，该资料由银行依法提供，并加盖业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：从农商银行鹿冈支行调取的鹿冈乡经管站2013年11月23日和11月30日银行交易凭证、黄某甲账户17×××33流水清单及游某乙账户为17×××84的流水清单及交易凭证，该凭证由银行依法出具，并加盖业务专用章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：从游海军办公室扣押的黄某甲账号尾号为1433存折、游某乙提供其本人尾号为8517的一卡通存折交易明细，该扣押物品清单由办案人员依法制作，并经游某甲签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：游某甲账号为62×××63开户申请书及个人业务凭证、流水、吉水县八都兴龙房地产开发有限公司的收款依据、现金缴款单，上述材料由银行依法提供，并加盖业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：龚某丙提供的鹿冈乡青山村委会公路修建筹资款收款收据，该收据经龚某丙签字确认，并与村委会账目核对一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：游某丙、黄某丙提供的洋坳村委会西屋组集体分配昌宁高速补偿款的资料，该资料由村委会出具，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：永丰县昌宁高速公路工程建设征地拆迁协调办公室出具的证明及永丰县林业局沿陂林业工作站的证明，该证明由出具单位加盖公章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：从永丰县交通局调取的文件、拨款单、请款单以及收款收据等凭证，该凭证由交通局依法提供，并加盖单位公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：从永丰县经管站调取的乡经管站2011年12月31日1号记账凭证、罗家村委会2013年6月30日1号和2014年9月30日3号记账凭证、曾某提供一张税务发票、罗家村委会2017年6月30日4号记账凭证，该凭证由经管站依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：从永丰县农商银行鹿冈支行调取的曾某的转账、存款等业务凭证，该凭证由银行依法出具，并加盖业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：从永丰县农业经营管理站调取的相关文件、证明材料，该材料由管理站依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：从永丰县机构编制委员会调取的关于深化乡镇机构改革的实施意见，该意见由编委会依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：从鹿冈乡政府调取的有关历年乡政府干部分工通知文件以及证明材料，该材料由乡政府依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：从永丰县人力资源和社会保障局调取的有关游某甲个人履历表资料、常住人口登记表、无犯罪记录证明，该证明由人社局依法提供，并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.书证：永丰县监察委扣押款物清单及现金缴款单，该清单由监察委依法制作，并经相关人员签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人张某说：“2013年8月，因昌宁高速途径鹿冈乡政府辖区，鹿冈乡政府根据县委县政府安排开展昌宁高速公路征地拆迁工作，我为鹿冈乡昌宁高速公路征地拆迁工作常务副组长，游某甲为工作组成员之一。游某甲向我提出套取征地补偿款予以私分的建议，经两人协商，由游某甲提供虚报人员银行账户，我编造虚增的林地、田地面积等材料用于骗取征地补偿款。共骗取资金150653元并进行平分。”该证言经办案人员依法询问，并由张某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言与被告人的供述存在矛盾，被告人供述显示是张某最先提出虚报方案并主导操作，而张某证言称是被告人提出建议。该证据无法单独证明被告人在共同犯罪中起主要作用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "张某作为同案犯的证言与被告人供述在细节上虽有差异，但均证实二人共谋骗取补偿款的事实。被告人主动提供亲属账户并参与分赃，在共同犯罪中作用积极，与张某构成共同犯罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就张某证言与被告人供述的差异充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人龚某甲说：“青山村委会因修路，在2012至2014年间，采取‘一事一议’修路集资，集资款由游某甲保管。在此期间，其个人挪用了该款项，之后又返还了。”该证言经办案人员依法询问，并由龚某甲签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人龚某乙说：“游某甲在2018年4月11日晚向我借款50000元，4月15日，由其妻子归还。”该证言经办案人员依法询问，并由龚某乙签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人游某乙、陈某说：“我家位于‘斜坑’有一块面积为4.427亩的自留山种植了人工杉幼林，还有0.2亩的水田和0.03亩的旱地，按标准已得到补偿。农商行尾号为9684的账户是游某甲拿我身份证开设的，我不知情，也从未使用该账号。”该证言经办案人员依法询问，并由游某乙、陈某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人黄某丁说：“游某乙在位于‘斜坑’有一块2分左右的水田和一块几厘左右的荒地。”该证言经办案人员依法询问，并由黄某丁签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人黄某甲、游某丁说：“我家150000元的征地补偿款已到位，至于25年人工油茶经济林4.944亩，金额53148元，不知情，也不知有农商行尾号为1433的账户。”该证言经办案人员依法询问，并由黄某甲、游某丁签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.证人证言：证人凌某说：“九都坑自然村的‘以工代赈’120000元项目资金是乡政府争取过来的，为此，我与游某甲和吴某甲当面说了，鹿冈乡政府要分得60000元。而且，还特别交代游某甲及时上交乡财政，之后，还问过游某甲是否已办妥该事。关于征地拆迁的事情，每次交由其签字时，都会询问户名和数额是否准确。”该证言经办案人员依法询问，并由凌某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言证实凌某明确指示将6万元返回乡政府并特别交代被告人上交乡财政，与被告人供述一致，证明被告人在\"以工代赈\"项目资金部分系执行领导指示，缺乏独立非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "凌某证言虽提及指示将6万元返回乡政府，但被告人明确承认未按指示上交财政而是转入个人账户用于个人开支，其主观非法占有故意明显。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就凌某证言与被告人行为的关系充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.证人证言：证人何某甲（袂）、吴某甲、姜某说：“2013年向鹿某甲申请‘以工代赈’项目资金时，被告知鹿某甲要分得一半，在通过制造虚假建设等凭证后，将上述款项套取出来。然后按事前达成的协议，将60000元转账游某甲。”该证言经办案人员依法询问，并由何某甲（袂）、吴某甲、姜某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.证人证言：证人仇某说：“在2012年通过招投标的方式承包了九都坑外墙粉刷工程，2014年年底，工程款已全部结清。但在2014年的上半年，吴某甲、何某甲等人说，现支付我30000元工程款，九都坑另有一笔60000元款项需返回鹿某甲，要通过我工程款的名义过账，为此，就挂在我名下做开支。”该证言经办案人员依法询问，并由仇某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.证人证言：证人吴某乙说：“于2011年，我承包了九都坑自然村环城路面硬化工程，工程款总额10多万元。2012年10月27日没有承包该村的道路建设工程，该村道建设合同是虚假的。”该证言经办案人员依法询问，并由吴某乙签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.证人证言：证人黄某乙、曾某说：“2012年下半年，游某甲发现上级拨付款30000元尚未上罗某甲的账，便对我们说，其会拨付30000元资金到罗某甲，要村委会出账，游某甲从中拿25000元，村委会得5000元。曾某以丁某承包罗某乙至岭某公路铺设砂石路的名义开具税票，游某甲缴纳税款1200元，罗某甲缴纳税款513元，共计税款1713元。2013年6月24日，罗某甲通过报账，总开支91000元，其中包含上级拨付款30000元中的29000元。不久，曾某将25000元现金给了游某甲。”该证言经办案人员依法询问，并由黄某乙、曾某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.证人证言：证人邓某、熊某说：“在鹿某甲工作期间，游某甲未向我汇报过之前游某甲有保管乡政府账外资金的事情。且游某甲也未汇报过其之前有贪腐行为，赃款未上缴乡政府。”该证言经办案人员依法询问，并由邓某、熊某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.证人证言：证人罗某丙说：“2013年，因昌某途径鹿某乙辖区，需征地拆迁，征地拆迁测量的土地面积与农民实际被征收的土地面积有相差，征地拆迁款有结余。然后通过虚列人员补偿的方式截留，最后，截留的款项已上缴乡财政。”该证言经办案人员依法询问，并由罗某丙签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.证人证言：证人李某说：“我负责昌某鹿某丙段征收林地面积的测量及林分、林某、权属核定工作，不参与协议书的签订。经查阅原始资料，游某乙被征收的7.612亩杉树林地，黄某甲被征收的4.944亩油茶林都是虚假的。”该证言经办案人员依法询问，并由李某签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.被告人的供述与辩解：被告人游某甲供述：“2014年3月4日，我收取九都坑自然村60000元返回款后，没有上交乡财政，将该款占为己有。2013年8月，因昌某途径鹿某乙辖区，需征地拆迁，我是征地拆迁组的成员，鉴于与征地拆迁组的副组长张某私交好，便提议在之后的征地过程中，虚列面积套取征地款。在共同犯罪中，张某负责虚列面积，我负责虚开账户，将套取款发放至虚开账户上，后均分赃款。2012年下半年，我发现2010年上级拨付的项目资金尚未上罗某甲的账目，便向该村村干部黄某乙、曾某谎称，我为罗某甲争取了30000元资金，我要拿25000元，村委会分得5000元。后通过虚列工程款的名义将款项取出，曾某在我办公室给了25000元现金。”该供述经办案人员依法讯问，并由游某甲签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该供述中关于\"以工代赈\"项目资金部分与凌某证言存在矛盾，凌某证言证实被告人系执行领导指示，而该供述未能充分证明被告人具有独立非法占有的主观故意。关于征地补偿款部分，该供述显示张某作为常务副乡长主导了虚报行为，被告人在共同犯罪中起次要作用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人虽提及凌某指示，但明确承认将6万元转入个人账户并用于个人开支，主观非法占有故意明显。关于征地补偿款部分，被告人主动提供亲属账户并参与分赃，在共同犯罪中作用积极，与张某构成共同犯罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于犯罪事实认定。本案证据确实充分，银行交易记录、财政支付凭证等书证与被告人供述相互印证，形成完整证据链，足以证实被告人三次贪污行为。被告人虽辩称部分行为系执行领导指示，但明确承认将款项转入个人账户用于个人开支，主观非法占有故意明显。\n\n二、关于量刑情节。根据《刑法》第三百八十三条，贪污数额在二十万元以上不满三百万元的，应当认定为\"数额巨大\"，依法判处三年以上十年以下有期徒刑。被告人贪污数额达235653元，已构成\"数额巨大\"标准。\n\n三、关于从轻情节。被告人虽认罪认罚并退缴全部赃款，但系在调查阶段才供述，根据《刑法》第六十七条，不符合自首条件，不能减轻处罚。退赃情况已在量刑建议中予以考虑。\n\n四、关于共同犯罪。被告人主动提供亲属账户并参与分赃，在共同犯罪中作用积极，与张某构成共同犯罪，应当对全部犯罪数额承担刑事责任。\n\n五、关于缓刑适用。被告人多次作案，持续时间长，主观恶性较深，根据《刑法》第七十二条，不宜适用缓刑。\n\n综上，建议法庭依法判处被告人有期徒刑XX，并处罚金XX。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于\"以工代赈\"项目资金60000元部分，根据凌某的证言和被告人供述，被告人系执行原乡党委书记凌某的指示操作，缺乏独立非法占有的主观故意。《刑法》第二十七条规定，在共同犯罪中起次要或者辅助作用的，是从犯。本案中被告人的行为更符合从犯特征。\n\n二、关于征地补偿款150653元部分，被告人虽提供了亲属账户，但根据证据显示，张某作为常务副乡长主导了虚报行为，被告人仅起辅助作用。根据《刑法》第二十七条，应当认定为从犯，依法应当从轻、减轻处罚。\n\n三、关于量刑情节，被告人已全额退缴赃款235653元，根据《刑法》第六十四条，已最大限度弥补了国家损失。被告人认罪态度良好，在调查阶段如实供述全部犯罪事实，具有真诚悔罪表现，符合《刑法》第六十七条关于从轻处罚的规定。\n\n四、关于共同犯罪的责任划分，张某的证言与被告人供述存在矛盾，无法单独证明被告人在共同犯罪中起主要作用。根据《刑事诉讼法》第五十五条，只有被告人供述，没有其他证据的，不能认定被告人有罪和处以刑罚。\n\n综上，恳请法庭充分考虑被告人在共同犯罪中的从属地位、全额退赃情节以及认罪悔罪态度，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于\"以工代赈\"项目资金部分，被告人虽提及凌某指示，但根据《刑法》第三百八十二条，贪污罪构成要件明确要求\"非法占有\"，被告人将6万元转入个人账户用于个人开支的行为已充分证明其主观故意，领导指示不能成为免责事由。\n\n二、关于共同犯罪地位，根据《刑法》第二十五条，共同犯罪是指二人以上共同故意犯罪。被告人主动提供亲属账户、参与分赃并实际占有赃款，在共同犯罪中作用积极，不符合从犯特征。\n\n三、关于认罪态度，被告人虽在调查阶段如实供述，但根据《刑法》第六十七条，不符合\"自动投案\"的自首要件，依法不能减轻处罚。退赃情节已在量刑建议中予以充分考虑。\n\n四、关于证据证明力，本案不仅有被告人供述，更有银行交易记录、财政支付凭证等客观证据相互印证，完全符合《刑事诉讼法》第五十五条关于证据确实、充分的规定。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于\"以工代赈\"项目资金部分，被告人虽将款项用于个人开支，但根据凌某证言，其行为系执行上级指示，主观上缺乏独立非法占有的直接故意。《刑法》第十四条规定，明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，是故意犯罪。本案中被告人的主观故意程度应当予以区别考量。\n\n二、关于共同犯罪地位，根据《刑法》第二十七条，在共同犯罪中起次要或者辅助作用的，是从犯。被告人虽提供账户，但张某作为常务副乡长主导了虚报行为的具体实施，被告人的作用明显次要。\n\n三、关于认罪态度，被告人虽不符合自首条件，但根据《刑法》第六十七条第三款，如实供述自己罪行的，可以从轻处罚。被告人不仅如实供述，还积极退缴全部赃款，悔罪表现明显。\n\n四、关于量刑建议，恳请法庭充分考虑被告人在共同犯罪中的从属地位、全额退赃情节以及认罪悔罪态度，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观故意问题，被告人将6万元转入个人账户并用于个人开支的行为，已完全符合《刑法》第三百八十二条关于\"非法占有\"的构成要件。无论是否存在领导指示，被告人的客观行为已充分证明其主观故意，不能以此减轻责任。\n\n二、关于共同犯罪地位，被告人不仅提供亲属账户，还积极参与分赃并实际占有赃款，根据《刑法》第二十五条，其行为已构成共同犯罪的主犯，应当对全部犯罪数额承担刑事责任。\n\n三、关于认罪态度，被告人虽退缴赃款，但根据《刑法》第六十七条，其不符合自首条件，依法不能减轻处罚。且被告人多次作案，持续时间长，主观恶性较深，不宜从轻处罚。\n\n四、关于量刑标准，被告人贪污数额达235653元，已构成\"数额巨大\"标准，根据《刑法》第三百八十三条，应当判处三年以上十年以下有期徒刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于\"以工代赈\"项目资金部分，被告人虽将款项用于个人开支，但根据《刑法》第二十七条，其行为系执行上级指示，在共同犯罪中处于从属地位。凌某证言证实被告人系执行指示，主观恶性相对较轻。\n\n二、关于共同犯罪责任划分，根据《刑法》第二十七条，被告人虽提供账户，但张某作为常务副乡长具体负责虚报材料的操作，被告人在共同犯罪中起次要作用。公诉人指控被告人起主要作用缺乏充分证据支持。\n\n三、关于量刑情节，被告人已全额退缴235653元赃款，根据《刑法》第六十四条，已最大限度弥补国家损失。且被告人认罪态度良好，根据《刑法》第六十七条第三款，应当依法从轻处罚。\n\n四、关于主观故意程度，被告人在\"以工代赈\"项目中缺乏独立非法占有的直接故意，在征地补偿款中起辅助作用，其主观恶性与主动策划实施贪污行为有明显区别，恳请法庭在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人的主观故意和认罪态度已充分发表意见，接下来的辩论请围绕被告人在共同犯罪中的具体作用，特别是与张某在虚报征地补偿款过程中的分工情况进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于共同犯罪分工问题，根据被告人供述和张某证言，被告人主动提供亲属账户并参与分赃，在虚报征地补偿款过程中与张某形成明确分工。根据《刑法》第二十五条，二人以上共同故意犯罪的，是共同犯罪。被告人的行为已构成共同犯罪的主犯。\n\n二、具体而言，被告人提供游某乙、黄某甲银行账户用于接收虚报款项，并实际占有60559元赃款，其行为对犯罪完成具有实质性作用。根据《刑法》第二十六条，组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n\n三、辩护人主张被告人仅起辅助作用与事实不符。被告人不仅提供作案工具（银行账户），还参与分赃并实际占有大部分赃款，其行为对犯罪结果具有直接因果关系，应当对全部犯罪数额承担刑事责任。\n\n四、关于张某的主导作用，虽然张某负责虚报材料，但被告人的行为同样不可或缺。共同犯罪中各行为人的作用可以不同，但均应对共同犯罪结果负责。本案中被告人的行为已超出从犯范畴。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于共同犯罪分工问题，根据被告人供述，张某作为常务副乡长不仅最先提出虚报方案，还具体负责了虚假测量数据的制作和虚报材料的操作。根据《刑法》第二十七条，在共同犯罪中起次要或者辅助作用的，是从犯。被告人仅提供亲属账户的行为明显属于辅助作用。\n\n二、关于赃款分配问题，虽然被告人分得60559元，但根据银行交易记录显示，被告人按张某要求将59194元转入龚某甲账户，该行为进一步证明被告人在共同犯罪中处于从属地位，执行张某的指示。\n\n三、关于犯罪因果关系问题，张某作为常务副乡长掌握征地补偿审核权，其虚报行为才是导致犯罪结果发生的决定性因素。被告人提供账户的行为虽有必要性，但并非关键性作用。\n\n四、关于主从犯认定标准，根据最高人民法院《关于审理贪污、职务侵占案件如何认定共同犯罪几个问题的解释》，应当根据行为人在共同犯罪中的地位、作用进行区分。本案中张某明显起主要作用，被告人应认定为从犯。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对利用职务便利侵吞公款的行为深感悔恨。我承认所有犯罪事实，愿意接受法律制裁。在担任站长期间，我没有守住廉洁底线，辜负了组织的信任。我已经全额退缴赃款235653元，尽力弥补国家损失。恳请法庭考虑我认罪认罚的态度和退赃情节，给予从轻处罚的机会。我保证今后一定遵纪守法，重新做人。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "永丰县人民法院\n刑事判决书\n（2018）永刑初字第69号\n\n公诉机关永丰县人民检察院。\n被告人游某甲，男，XXX年X月X日出生，汉族，XXX文化程度，户籍XXXX，原永丰县鹿冈乡人民政府农业经济管理站站长。因涉嫌贪污罪于2018年4月12日被永丰县监察委员会调查，同年6月25日被移送审查起诉。\n辩护人XXX，XXX律师事务所律师。\n\n永丰县人民检察院于2018年6月25日以被告人游某甲犯贪污罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。永丰县人民检察院检察员XXX出庭支持公诉，被告人游某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n永丰县人民检察院指控：2010年7月至2018年案发前，被告人游某甲在担任永丰县鹿冈乡人民政府农业经济管理站站长期间，利用职务便利，单独或伙同他人侵吞、骗取公共财产共计235653元。具体犯罪事实如下：1.侵吞\"以工代赈\"项目资金60000元；2.伙同张某骗取昌宁高速公路征地补偿款150653元；3.骗取公路奖补资金25000元。公诉机关认为被告人游某甲的行为构成贪污罪，数额巨大，建议判处有期徒刑XX，并处罚金XX。\n\n被告人游某甲对指控的犯罪事实及罪名无异议，当庭表示认罪认罚。辩护人提出：1.在\"以工代赈\"项目中被告人系执行领导指示；2.在共同犯罪中起次要作用；3.已全额退赃；4.认罪态度良好，请求从轻处罚。\n\n经审理查明：\n2010年7月至2018年案发前，被告人游某甲在担任永丰县鹿冈乡人民政府农业经济管理站站长期间，利用职务便利，实施以下贪污行为：\n1.2014年3月4日，被告人将\"以工代赈\"项目资金120000元转入九都坑自然村理事会成员吴某甲账户后，指使吴某甲将其中60000元转入其个人账户并占为己有；\n2.2013年8月至11月，被告人与鹿冈乡常务副乡长张某共谋，通过虚报林地、田地面积，套取征地补偿款150653元，二人均分；\n3.2012年底，被告人发现罗家村委会未入账的30000元公路奖补资金后，谎称为村委会争取项目资金，骗取其中25000元。\n案发后，被告人已退缴全部赃款235653元。\n\n上述事实，有被告人供述、证人证言、银行交易记录、财政支付凭证等证据证实，证据确实、充分，足以认定。\n\n本院认为，被告人游某甲身为国家工作人员，利用职务便利侵吞、骗取公共财物，数额达235653元，其行为已构成贪污罪，且属\"数额巨大\"。关于辩护人提出的从轻处罚情节，经查：1.被告人虽辩称\"以工代赈\"项目资金系执行领导指示，但实际将款项转入个人账户用于个人开支，主观非法占有故意明显；2.在共同犯罪中，被告人虽非主要策划者，但积极提供账户并参与分赃，作用不可忽视；3.被告人到案后如实供述，认罪态度较好，且已全额退赃，依法可以从轻处罚。综合考虑被告人的犯罪事实、性质、情节及社会危害程度，依照《中华人民共和国刑法》第三百八十二条、第三百八十三条第一款第（二）项、第六十四条、第六十七条第三款之规定，判决如下：\n\n一、被告人游某甲犯贪污罪，判处有期徒刑三年，并处罚金人民币二十万元；\n二、对被告人游某甲退缴的违法所得人民币二十三万五千六百五十三元予以追缴，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向吉安市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2018年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人游某甲是否构成贪污罪。需要查明其作为国家工作人员是否利用职务便利实施了侵吞、骗取公共财物的行为，以及涉案金额是否达到法定标准。\n\n2.关于\"以工代赈\"项目资金60000元的侵吞行为。需要查明游某甲是否指使吴某甲将资金转入个人账户并占为己有，以及是否存在上级指示将部分资金返回乡政府的情节。\n\n3.关于昌宁高速公路征地补偿款150653元的共同贪污行为。需要查明游某甲与张某是否存在共谋，以及游某甲在共同犯罪中的作用和地位。\n\n4.关于公路奖补资金25000元的骗取行为。需要查明游某甲是否谎称为村委会争取项目资金并实际占有该款项。\n\n5.被告人游某甲的量刑情节。需要查明其到案后是否如实供述、是否主动退缴全部赃款，以及这些情节对量刑的影响程度。\n\n6.涉案金额的认定。需要核实各笔款项的具体数额及计算依据。\n\n7.被告人的认罪态度。需要评估其供述的完整性和真实性，以及是否具有悔罪表现。\n\n8.赃款去向及退赔情况。需要查明涉案资金的具体流向和退赔的完整性。\n\n9.共同犯罪中各行为人的责任划分。需要明确游某甲在与张某共同犯罪中的具体作用和责任程度。\n\n10.是否存在从重或从轻处罚的其他情节。需要查明案件是否存在其他影响量刑的因素。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物但已全部退赃的典型案例",
+              "贪污罪中共同犯罪的认定标准"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物但已全部退赃的典型案例": "### 结论\n国家工作人员利用职务便利侵吞公共财物，即使已全部退赃，其行为仍构成贪污罪，但退赃行为可作为从轻或减轻处罚的情节考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第六十四条**：犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的情节。例如，【（2020）桂14刑终26号】中，被告人陈某萃主动向所在单位汇报自己的犯罪行为，构成自首，法院予以从轻或减轻处罚。\n- **退赃行为**：退赃可以作为从轻或减轻处罚的情节，但不能作为适用缓刑的依据。例如，【（2020）桂14刑终26号】中，陈某萃积极主动退出全部赃款，可作为减轻处罚的量刑情节，但不能作为适用缓刑依据。\n- **认罪态度**：认罪态度较好，可以作为从轻处罚的情节。例如，【（2019）粤0111刑初857号】中，被告人杨奋犯罪后如实供述自己的罪行并退还全部赃款，可以从轻处罚。\n- **犯罪数额**：犯罪数额巨大，即使退赃，也可能不适用缓刑。例如，【（2022）沪0101刑初163号】中，被告人向洁贪污数额巨大，虽已退赃，但结合犯罪情节，对其不宜适用缓刑。\n\n综上，国家工作人员利用职务便利侵吞公共财物的行为构成贪污罪，退赃行为虽可作为从轻或减轻处罚的情节，但是否适用缓刑还需综合考虑犯罪数额、自首情节、认罪态度等多方面因素。\n\n#####\n类似案件为：\n【（2019）粤0111刑初857号】：法院认为，杨奋身为国家工作人员，利用职务便利侵吞公共财物，数额巨大，其行为构成贪污罪。鉴于杨奋如实供述并退还全部赃款，可以从轻处罚。一、被告人杨奋犯贪污罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二十万元。（缓刑考验期自本判决确定之日起计算，罚金自本判决生效第二日起五日内缴纳。）\n\n二、被告人杨奋犯贪污罪退出的赃款23.85万元（暂扣于广州市白云区人民检察院），予以没收，上缴国库（由广州市白云区人民检察院执行）。\n【（2022）沪0101刑初163号】：法院认为，被告人向洁身为国家工作人员，利用职务便利，侵吞公共财物，数额巨大，构成贪污罪。向洁如实供述罪行，积极退赃，可从轻处罚。向洁未主动投案，不构成自首。综合犯罪情节，向洁不具备适用缓刑条件。一、被告人向洁犯贪污罪，判处有期徒刑四年三个月，并处罚金人民币三十万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押、留置的，羁押或留置一日折抵刑期一日。即自2021年10月12日起至2026年1月11日止。罚金自判决生效后第二日起十日内缴纳。）\n二、被告人向洁退缴的赃款发还被害单位。",
+            "贪污罪中共同犯罪的认定标准": "### 结论\n贪污罪中共同犯罪的认定需考虑各行为人是否具有共同犯罪的故意，是否利用了国家工作人员的职务便利，以及是否共同实施了非法占有公共财物的行为。共同犯罪的性质通常由身份犯的性质决定，非身份犯与身份犯勾结时，应以身份犯所触犯之罪认定共同犯罪的性质。\n\n### 核心法条\n- **《中华人民共和国刑法》第25条第1款**：共同犯罪是指二人以上共同故意犯罪。\n- **《中华人民共和国刑法》第382条第3款**：与前两款所列人员勾结，伙同贪污的，以共犯论。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **共同犯罪的故意**：各共同犯罪人必须具有共同犯罪的故意，即通过意思联络，认识到共同犯罪行为的性质及危害结果，并希望或放任结果发生。【（2019）沪0120刑初973号】、【（2019）苏0830刑初242号】、【（2020）苏1281刑初257号】中，法院均强调了共同犯罪人之间的意思联络和共同犯罪的故意。\n- **利用职务上的便利**：共同犯罪中，国家工作人员利用职务上的便利，与非国家工作人员勾结，共同实施贪污行为。【（2019）沪0120刑初973号】、【（2019）苏0830刑初242号】、【（2012）虹刑初字第1175号】中，法院均认定国家工作人员利用职务便利与非国家工作人员勾结，构成贪污罪的共同犯罪。\n- **犯罪性质的确定**：共同犯罪的性质通常由身份犯的性质决定，非身份犯与身份犯勾结时，应以身份犯所触犯之罪认定共同犯罪的性质。【（2012）虹刑初字第1175号】、【（2019）苏0830刑初242号】中，法院均依据身份犯的性质确定共同犯罪的性质。\n\n综上，贪污罪中共同犯罪的认定需综合考虑共同犯罪的故意、利用职务上的便利以及犯罪性质的确定。共同犯罪的性质通常由身份犯的性质决定，非身份犯与身份犯勾结时，应以身份犯所触犯之罪认定共同犯罪的性质。\n\n#####\n类似案件为：\n【（2019）沪0120刑初973号】：法院认为，何某某身为国家工作人员，利用职务便利，单独或伙同他人侵吞公共财物，数额巨大，构成贪污罪，部分属共同犯罪；其滥用职权行为，造成国有公司严重损失，致使国家利益遭受重大损失，构成国有公司人员滥用职权罪。一、被告人何某某犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元；犯国有公司人员滥用职权罪，判处有期徒刑一年六个月；决定执行有期徒刑三年六个月，并处罚金人民币二十万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月25日起至2022年10月24日止。罚金于本判决生效后10日内缴纳。)\n二、随案移送的退赔款人民币一百五十一万五千零五十八元五角发还被害单位，不足部分继续责令退赔。\n【（2019）苏0830刑初242号】：法院认为，赵永法作为依照法律从事公务的人员，在协助政府拆迁中，利用职务便利，骗取公款，数额巨大，构成贪污罪；非法收受他人财物，为他人谋利，数额较大，构成受贿罪；为谋不正当利益，给予其他单位工作人员财物，数额较大，构成对非国家工作人员行贿罪；滥用职权，致公产重大损失，构成滥用职权罪。赵永法在共同贪污犯罪中，分别为主犯、从犯，从犯应从轻或减轻处罚；如实供述未掌握的罪行，构成自首；归案后如实交代贪污犯罪，构成坦白；被追诉前主动交代行贿行为，可减轻处罚；真诚悔罪、积极退赃，可从轻处罚；认罪认罚，可从宽处罚；有立功表现，可从轻或减轻处罚；退出部分赃款，可酌情从轻处罚。一、被告人赵永法犯贪污罪，判处有期徒刑六年八个月，并处罚金人民币五十万元；犯受贿罪，判处有期徒刑一年，并处罚金人民币十万元；犯对非国家工作人员行贿罪，判处有期徒刑八个月；犯滥用职权罪，判处有期徒刑一年二个月；数罪并罚，决定执行有期徒刑九年，并处罚金人民币六十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月21日起至2028年2月20日止。罚金于判决生效后五日内缴纳。）\n二、对被告人赵永法退出的违法所得人民币70万元予以追缴，上缴国库；对剩余的违法所得人民币697793.84元依法予以继续追缴。\n【（2020）苏1281刑初257号】：法院认为，被告人徐某某利用职务便利挪用公款进行营利活动，情节严重，构成挪用公款罪；利用职务便利贪污，数额巨大，构成贪污罪。被告人赵某甲与徐某某共同贪污，数额巨大，构成贪污罪，系共同犯罪。徐某某系主犯，赵某甲系从犯。徐某某到案后如实供述挪用公款犯罪事实，认定自首，赵某甲如实供述，已退赃，依法可从轻或减轻处罚。一、被告人徐某某犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十四万元；犯挪用公款罪，判处有期徒刑六年六个月。合并执行有期徒刑七年六个月，并处罚金人民币二十四万元。\n（刑期自判决执行之日起计算，判决执行以前先行留置或羁押的，留置或羁押一日折抵刑期一日，即自2019年11月12日起至2027年5月11日止。罚金已预缴。）\n二、被告人赵某甲犯贪污罪，判处有期徒刑一年六个月，缓刑二年，并处罚金人民币十五万元。\n（缓刑考验期限自判决确定之日起计算。罚金已预缴）\n三、退出的赃款人民币一百零四万七千二百二十一元四角七分，予以没收，上缴国库。其中六十万零二千七百三十八元五角二分，由暂扣机关兴化市监察委员会直接上缴国库。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人在侦查阶段的供述、书证及证人证言形成完整证据链，证明游某甲利用职务便利侵吞\"以工代赈\"项目资金6万元、伙同张某骗取征地补偿款150653元、骗取公路奖补资金25000元，合计235653元，数额巨大。2.被告人的行为完全符合贪污罪构成要件：作为国家工作人员，通过虚假发票、虚报面积等手段非法占有公共财物，主观上具有直接故意。3.虽然被告人已退缴全部赃款，但犯罪数额巨大，且系多次作案，社会危害性较大，应从重处罚。4.证人张某、吴某甲等人的证言与书证相互印证，证明被告人实施犯罪的具体过程。\n防御策略：1.所有书证均依法调取并加盖出具单位公章，程序合法。2.证人证言均经依法询问并由本人签字确认，具有法律效力。3.被告人的供述与辩解与其他证据相互印证，形成完整证据链。4.财政支付凭证、银行交易记录等客观证据能够直接证明资金流向和侵占事实。5.退赃情况有监察委扣押款物清单为证，但该情节已在量刑建议中予以考虑。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条",
+              "中华人民共和国刑事诉讼法第一百七十二条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物数额巨大的量刑标准",
+              "贪污罪中退缴全部赃款对量刑的影响"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物数额巨大的量刑标准": "### 结论\n国家工作人员利用职务便利侵吞公共财物数额巨大的，根据《中华人民共和国刑法》第三百八十三条第一款第二项的规定，依法应当处三年以上十年以下有期徒刑，并处罚金或者没收财产。但具体量刑会根据犯罪事实、情节、性质、危害程度、自首、立功、退赃、认罪认罚等情节综合考量。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十三条第一款第二项**：贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：犯罪分子有揭发他人犯罪行为，查证属实的，或者提供重要线索，从而得以侦破其他案件等立功表现的，可以从轻或者减轻处罚。\n- **《中华人民共和国刑法》第六十四条**：犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的情节。例如，【（2020）桂14刑终26号】中，陈某萃主动向单位汇报犯罪行为，构成自首，法院予以从轻处罚。\n- **立功表现**：立功可以作为从轻或减轻处罚的情节。例如，【（2020）桂14刑终26号】中，陈某萃在被羁押期间协助侦破重大案件，法院认定为立功，予以从轻处罚。\n- **退赃情况**：积极退赃可以作为从轻处罚的情节。例如，【（2020）鲁0785刑初374号】中，陈某积极退缴赃款，法院予以从轻处罚。\n- **认罪认罚态度**：认罪认罚可以从宽处理。例如，【（2022）兵0501刑初32号】中，胡某自愿认罪认罚，法院予以从宽处理。\n- **犯罪数额和性质**：犯罪数额巨大，性质恶劣的，量刑会更重。例如，【（2019）沪0120刑初378号】中，邹皓贪污数额特别巨大，依法应处十年以上有期徒刑或者无期徒刑。\n\n综上，国家工作人员利用职务便利侵吞公共财物数额巨大时，量刑会综合考虑犯罪事实、自首、立功、退赃、认罪认罚等情节，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2020）鲁0785刑初374号】：法院认为，被告人陈某作为国家工作人员，利用职务上的便利，侵吞公共财产，数额较大，其行为构成贪污罪。鉴于陈某的坦白、认罪认罚、积极退赃及预交罚金情节，依法可予以从轻处罚。公诉机关的量刑建议适当。被告人陈某犯贪污罪，判处有期徒刑一年，缓刑一年，并处罚金人民币十万元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）\n【（2022）兵0501刑初32号】：法院生效裁判认为：被告人胡某作为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。其利用职务上的便利，为他人谋取利益，非法收受他人财物，数额巨大，其行为构成受贿罪。其身为司法工作人员徇私舞弊对不符合减刑条件的罪犯予以减刑，其行为已构成徇私舞弊减刑罪，依法应予惩处。公诉机关的指控成立。被告人胡某一人犯数罪，依法应当数罪并罚。被告人胡某在接到通知后原地等待，被检察人员带至办案区后，如实供述犯罪事实，依法可以从轻处罚。被告人胡某已全部退赃，可以酌定从轻处罚。同时自愿认罪认罚，可依法从宽处理。公诉机关的量刑建议适当。对被告人胡某辩护人提出的胡某贪污受贿犯罪不适用罚金刑的问题，本案中被告人胡某的贪污、受贿的大部分犯罪事实发生在《刑法修正案（九）》施行之前，按当时的刑法贪污五千元即为数额较大，入罪数额较低。《刑法修正案（九）》施行后，法律和司法解释对入罪数额的规定有了较大幅度的提高，即适用《刑法修正案（九）》及相关司法解释处罚上更轻。故根据《中华人民共和国刑法》第十二条第一款规定的从旧兼从轻的原则，应适用《刑法修正案（九）》及相关司法解释的规定。罚金刑作为主刑的附加刑，从属于主刑，应与主刑一并适用，而不应与主刑割裂开分别适用，故本案应当适用《刑法修正案（九）》及相关司法解释的规定，并处罚金。\n【（2019）沪0120刑初378号】：法院认为，被告人邹皓利用职务便利，通过转账、取现侵吞数额特别巨大的公款，其行为构成贪污罪，依法应处十年以上有期徒刑或无期徒刑，并处罚金或没收财产。邹皓案发后主动投案并如实供述，系自首，依法可从轻或减轻处罚。综合考虑犯罪事实、情节、性质、危害后果及认罪悔罪表现，法院判决如下：\n一、被告人邹皓犯贪污罪，判处有期徒刑十二年，剥夺政治权利二年，并处罚金人民币一百万元。\n二、退赃款人民币二十万元发还被害单位；追缴其余违法所得予以退赔。一、被告人邹皓犯贪污罪，判处有期徒刑十二年，剥夺政治权利二年，并处罚金人民币一百万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月28日起至2030年9月27日止。罚金于本判决生效后10日内缴纳。)\n二、退赃款人民币二十万元发还被害单位；追缴其余违法所得予以退赔。",
+            "贪污罪中退缴全部赃款对量刑的影响": "### 结论\n在贪污罪中，退缴全部赃款可以作为量刑时的酌定从轻或减轻处罚情节，但是否适用缓刑需综合考虑犯罪情节、认罪态度、自首、立功等其他量刑因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条**：规定了贪污罪的量刑标准，其中退缴赃款可以作为酌定从轻处罚的情节。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：规定了立功可以从轻或减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退缴全部赃款**：退缴全部赃款可以作为酌定从轻处罚的情节。例如，【（2020）桂14刑终26号】中，法院认为被告人陈某萃主动退回全部赃款，可作为减轻处罚的量刑情节。【（2021）京0113刑初865号】中，法院认为被告人张迪已退缴全部赃款，依法从宽处罚并适用缓刑。【（2019）鲁0117刑初95号】中，法院认为被告人郝某某退缴全部赃款，可酌情从轻处罚。\n- **自首**：自首可以从轻或减轻处罚。例如，【（2020）桂14刑终26号】中，法院认为被告人陈某萃主动投案，如实供述自己的罪行，系自首，依法可从轻或减轻处罚。\n- **立功**：立功可以从轻或减轻处罚。例如，【（2020）桂14刑终26号】中，法院认为被告人陈某萃在被羁押期间协助侦破其他重大案件，属立功，依法可从轻或减轻处罚。\n- **认罪认罚**：认罪认罚可以从宽处理。例如，【（2021）京0113刑初865号】中，法院认为被告人张迪自愿认罪认罚，依法从宽处罚。\n\n综上，退缴全部赃款、自首、立功和认罪认罚都是贪污罪量刑时的重要考量因素，可以作为从轻或减轻处罚的情节，但是否适用缓刑需综合考虑犯罪情节、认罪态度、自首、立功等其他量刑因素。\n\n#####\n类似案件为：\n【（2021）京0113刑初865号】：法院认为，张迪作为国有公司中从事公务的人员，利用职务之便非法占有公共财物，数额较大，其行为已构成贪污罪。鉴于其自首、退缴全部赃款并自愿认罪认罚，依法从宽处罚并适用缓刑。一、被告人张迪犯贪污罪，判处有期徒刑八个月缓刑一年，并处罚金人民币十万元（缓刑考验期限，从判决确定之日起计算；罚金于判决生效后五日内缴纳）；\n二、随案移送的赃款及孳息共计人民币九万六千一百三十元四角三分发还×公司。\n【（2019）鲁0117刑初95号】：法院认为，被告人郝某某身为国家工作人员，利用其职务便利，非法占有公款，其行为已构成贪污罪；被告人郝某某利用职务上的便利，挪用公款归个人使用，其行为已构成挪用公款罪。郝某某在被采取留置措施后，主动供述调查组尚未掌握的涉嫌贪污的犯罪事实，系自首，可酌情从轻处罚。被告人到案后如实供述挪用公款的犯罪行为，构成坦白，可以从轻处罚。被告人退缴全部赃款，且积极缴纳罚金，悔罪态度较好，可酌情从轻处罚。一、被告人郝某某犯贪污罪，判处有期徒刑一年六个月，并处罚金十六万元，犯挪用公款罪，判处拘役五个月，数罪并罚，决定执行有期徒刑一年六个月，并处罚金十六万元（刑期自判决执行之日起计算，判决执行以前先行留置或羁押的，留置或羁押一日折抵刑期一日，即自2019年6月11日起至2020年12月10日止，罚金已缴纳）；\n 二、扣押在案的违法所得203470元依法予以追缴，返还山东省济南市莱芜第十七中学（原莱芜市第十七中学）（上述款项已扣押于济南市钢城区监察委员会，由该机关依法返还）。\n【（2021）京0113刑初865号】：法院认为，张迪作为国有公司中从事公务的人员，利用职务之便非法占有公共财物，数额较大，其行为已构成贪污罪。鉴于其自首、退缴全部赃款并自愿认罪认罚，依法从宽处罚并适用缓刑。一、被告人张迪犯贪污罪，判处有期徒刑八个月缓刑一年，并处罚金人民币十万元（缓刑考验期限，从判决确定之日起计算；罚金于判决生效后五日内缴纳）；\n二、随案移送的赃款及孳息共计人民币九万六千一百三十元四角三分发还×公司。"
+          }
+        },
+        "目标": "请求法院判处被告人游某甲贪污罪，处有期徒刑三年以上十年以下，并处罚金",
+        "询问": "1. 被告人游某甲，你在担任鹿冈乡农业经济管理站站长期间，是否利用职务便利将\"以工代赈\"项目资金中的6万元转入个人账户并占为己有？请具体说明资金流转过程。\n\n2. 关于昌宁高速公路征地补偿款，你与张某是如何共谋虚报林地、田地面积骗取补偿款的？你在其中具体负责哪些行为？\n\n3. 你发现罗家村委会未入账的公路奖补资金后，为何要谎称争取项目资金并骗取25000元？这笔资金最终去向如何？\n\n4. 你作为国家工作人员，是否清楚这些行为已经违反《刑法》关于贪污罪的规定？当时是基于什么动机实施这些行为？\n\n5. 你在实施上述行为时，是否受到他人胁迫或存在其他特殊情形？请说明具体情况。\n\n6. 案发后你退缴了全部赃款，请问这些赃款的具体来源是什么？是否完全弥补了国家损失？\n\n7. 你对自己多次利用职务便利侵吞公共财物的行为有何认识？是否愿意认罪认罚？\n\n8. 在实施这些犯罪行为时，你是否考虑过可能造成的法律后果？现在对自身行为有何反思？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.针对\"以工代赈\"项目资金60000元，证据显示该款项系原乡党委书记凌某指示返还乡政府，被告人仅系执行领导指示，缺乏非法占有的主观故意。2.关于征地补偿款150653元，证据中张某的证言与被告人供述存在矛盾，无法排除张某主导犯罪的可能性。3.公路奖补资金25000元部分，村委会相关人员的证言存在利害关系，证明力存疑。\n防御策略：1.被告人已全额退赃，减少社会危害性。2.被告人系初犯，认罪态度良好，具有悔罪表现。3.被告人在案发后积极配合调查，如实供述犯罪事实，符合从轻处罚情节。4.被告人在职期间工作表现良好，可酌情从宽处理。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "贪污罪中'利用职务便利'的认定标准",
+              "贪污罪中'侵吞、骗取'行为的司法认定",
+              "贪污罪中退赃行为对量刑的影响"
+            ],
+            "贪污罪中'利用职务便利'的认定标准": "### 结论\n贪污罪中的“利用职务上的便利”是指利用职务上主管、管理、经手公共财物的权力及方便条件，既包括利用本人职务上主管、管理公共财物的职务便利，也包括利用职务上有隶属关系的其他国家工作人员的职务便利。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **利用职务上的便利**：法院认为，利用职务上的便利不仅包括直接利用自己主管、管理或经手公共财物的权力，也包括利用与职务有隶属关系的其他国家工作人员的职务便利。例如，【（2009）浙刑二终字第34号】中，被告人杨延虎利用其担任义乌市委常委、义乌市人大常委会副主任和兼任指挥部总指挥的职务便利，给下属土地确权报批科人员及其分管副总指挥打招呼，使得虚假的土地确权得以实现，构成贪污罪。\n- **职务便利的范围**：法院强调，利用职务上的便利不仅限于直接管理财物，还包括利用职务形成的主管、管理、经手公共财物的便利条件。例如，【（2021）辽02刑终40号】中，被告人张某某虽未直接保管军粮，但利用其负责军粮请领和拨付工作的职务便利，将享受补贴的军粮低价购进再高价出售，构成贪污罪。\n- **主体身份**：法院指出，受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，以及受国家机关聘任、委派从事公务的人员，可以构成贪污罪的主体。例如，【（2024）黑12刑终37号】中，被告人刘某元虽为劳务派遣用工形式，但因其在国有公司中负责网络运营维护管理及合作小区的上报、验收、资源确认等工作，代表国有公司签订合作项目，应认定为在国有公司中从事公务的人员，构成贪污罪。\n\n综上，利用职务上的便利在贪污罪的认定中至关重要，不仅包括直接管理财物的便利，也包括利用职务形成的主管、管理、经手公共财物的便利条件，以及利用与职务有隶属关系的其他国家工作人员的职务便利。主体身份的认定也影响着是否构成贪污罪，包括受委派、聘任从事公务的人员以及在国有公司中从事公务的人员。\n\n#####\n类似案件为：\n【（2009）浙刑二终字第34号】：法院生效裁判认为：关于被告人杨延虎的辩护人提出杨延虎没有利用职务便利的辩护意见。经查，义乌国际商贸城指挥部系义乌市委、市政府为确保国际商贸城建设工程顺利进行而设立的机构，指挥部下设确权报批科，工作人员从国土资源局抽调，负责土地确权、建房建设用地的审核及报批工作，分管该科的副总指挥吴某某也是国土资源局的副局长。确权报批科作为指挥部下设机构，同时受指挥部的领导，作为指挥部总指挥的杨延虎具有对该科室的领导职权。贪污罪中的“利用职务上的便利”，是指利用职务上主管、管理、经手公共财物的权力及方便条件，既包括利用本人职务上主管、管理公共财物的职务便利，也包括利用职务上有隶属关系的其他国家工作人员的职务便利。本案中，杨延虎正是利用担任义乌市委常委、义乌市人大常委会副主任和兼任指挥部总指挥的职务便利，给下属的土地确权报批科人员及其分管副总指挥打招呼，才使得王月芳等人虚报的拆迁安置得以实现。\n关于被告人杨延虎等人及其辩护人提出被告人王月芳应当获得土地安置补偿，涉案土地属于集体土地，不能构成贪污罪的辩护意见。经查，王月芳购房时系居民户口，按照法律规定和义乌市拆迁安置有关规定，不属于拆迁安置对象，不具备获得土地确权的资格，其在共和村所购房屋既不能获得土地确权，又不能得到拆迁安置补偿。杨延虎等人明知王月芳不符合拆迁安置条件，却利用杨延虎的职务便利，通过将王月芳所购房屋谎报为其祖传旧房、虚构王月芳与王某祥分家事实，骗得旧房拆迁安置资格，骗取国有土地确权。同时，由于杨延虎利用职务便利，杨延虎、王月芳等人弄虚作假，即使王月芳所购旧房的房主赵某某按无房户得到了土地安置补偿，又使本来不应获得土地安置补偿的王月芳获得了土地安置补偿。《中华人民共和国土地管理法》第二条、第九条规定，我国土地实行社会主义公有制，即全民所有制和劳动群众集体所有制，并可以依法确定给单位或者个人使用。对土地进行占有、使用、开发、经营、交易和流转，能够带来相应经济收益。因此，土地使用权自然具有财产性利益，无论国有土地，还是集体土地，都属于刑法第三百八十二条第一款规定中的“公共财物”，可以成为贪污的对象。王月芳名下安置的地块已在2002年8月被征为国有并转为建设用地，义乌市政府文件抄告单也明确该处的拆迁安置土地使用权登记核发国有土地使用权证。因此，杨延虎等人及其辩护人所提该项辩护意见，不能成立。综上，被告人杨延虎作为国家工作人员，利用担任义乌市委常委、义乌市人大常委会副主任和兼任国际商贸城指挥部总指挥的职务便利，伙同被告人郑新潮、王月芳以虚构事实的手段，骗取国有土地使用权，非法占有公共财物，三被告人的行为均已构成贪污罪。杨延虎还利用职务便利，索取或收受他人贿赂，为他人谋取利益，其行为又构成受贿罪，应依法数罪并罚。在共同贪污犯罪中，杨延虎起主要作用，系主犯，应当按照其所参与或者组织、指挥的全部犯罪处罚；郑新潮、王月芳起次要作用，系从犯，应减轻处罚。故一、二审法院依法作出如上裁判。浙江省金华市中级人民法院于2008年12月15日作出（2008）金中刑二初字第30号刑事判决：一、被告人杨延虎犯贪污罪，判处有期徒刑十五年，并处没收财产二十万元；犯受贿罪，判处有期徒刑十一年，并处没收财产十万元；决定执行有期徒刑十八年，并处没收财产三十万元。二、被告人郑新潮犯贪污罪，判处有期徒刑五年。三、被告人王月芳犯贪污罪，判处有期徒刑三年。宣判后，三被告人均提出上诉。浙江省高级人民法院于2009年3月16日作出（2009）浙刑二终字第34号刑事裁定，驳回上诉，维持原判。\n【（2021）辽02刑终40号】：法院生效裁判认为：被告人张某某利用职务便利，将享受补贴的军粮，以低价购进，再以接近市场价出售给他人，从中非法赚取差价款，其本质上是利用职务便利，侵吞军粮予以出售，获取非法利益，其行为对公共财产权利构成侵犯，系贪污行为。张某某负责军粮的请领和拨付工作，虽未直接保管军粮，但大连军粮站“见票给粮”的形式，实质上形成了张某某对案涉军粮的支配性权利。张某某利用该职务便利，将享受补贴的低价军粮以接近市场价出售给韩某某，从中非法赚取差价款，本质上是利用职务便利，侵吞军粮予以出售，获取非法利益。本案犯罪对象为军粮，军粮是享受补贴的特殊物品，军粮的供应价远低于市场价，存在较大的差价空间，张某某侵吞军粮后予以出售，其客观表现符合贪污罪的构成要件。本案虽然从形式上看，张某某的行为呈现出利用职务便利、收受他人钱款以及为他人实际谋取好处等受贿罪的犯罪特征，但其行为本质上更符合贪污罪的构成要件。被告人张某某身为国家工作人员，利用职务上的便利，以虚构事实、隐瞒真相的手段，骗取公共财物据为己有，数额特别巨大，其行为侵犯了公共财产的所有权和国家的廉政建设制度，已构成贪污罪。被告人在接受单位调查倒卖军粮问题时，未如实供述主要犯罪事实，在接受监委立案调查的初期亦未如实供述主要犯罪事实，不符合自首的成立条件。大连市中级人民法院裁定驳回上诉，维持原判。\n【（2024）黑12刑终37号】：被告人刘某元在担任肇东分公司总经理助理期间，与本人实际控制的服务部签订合作项目，并利用职务便利在上报固网业务合作项目合作小区过程中，提供虚假业务信息套取佣金，数额巨大，其行为构成贪污罪。\n被告人刘某元及其辩护人提出，刘某元不是国家工作人员，不应认定为贪污罪。根据《中华人民共和国刑法》第三百八十二条的规定，贪污罪的主体是国家工作人员。刑法第九十三条第二款规定：“国有公司、企业、事业单位、人民团体中从事公务的人员和国家机关、国有公司、企业、事业单位委派到非国有公司、企业、事业单位、社会团体从事公务的人员，以及其他依照法律从事公务的人员，以国家工作人员论。”该条文中规定的“从事公务的人员”，是指在国有公司、企业等单位中具有经营、管理职责或履行一定管理职务的人员，在国有公司、企业等单位中不具有管理职责的一般工人、临时工等其他劳务人员，不属于本条规定的从事公务的人员。经查，虽然刘某元用工形式为劳务派遣，但某国有通信公司及其下属分公司均为国有公司，刘某元任职期间负责肇东分公司网络运营维护管理及合作小区的上报、验收、资源确认等工作，劳动报酬来源于国有公司，代表国有公司签订合作项目，应认定为在国有公司中从事公务的人员，以国家工作人员论。",
+            "贪污罪中'侵吞、骗取'行为的司法认定": "### 结论\n贪污罪中的“侵吞、骗取”行为的司法认定，关键在于行为人是否利用了职务上的便利，非法占有公共财物，以及行为的性质是否符合贪污罪的构成要件，包括行为人是否为国家工作人员或受委托管理、经营国有财产的人员，以及行为是否在管理、经营国有财产过程中实施。\n\n### 核心法条\n- **《中华人民共和国刑法》第382条**：规定了贪污罪的主体、行为方式和对象，以及受委托管理、经营国有财产的人员以贪污论的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的身份**：行为人是否为国家工作人员或受委托管理、经营国有财产的人员。例如，【（2021）冀刑终295号】中，李某某作为国家工作人员，利用职务便利非法占有公共资金，构成贪污罪。\n- **行为的性质**：行为是否在管理、经营国有财产过程中实施，是否利用了职务上的便利。例如，【（2019）苏0303刑初436号】中，王某某利用职务便利非法占有公共财物，构成贪污罪。\n- **非法占有的目的**：行为人是否以非法占有为目的，实施侵吞、骗取公共财物的行为。例如，【（2019）浙0411刑初365号】中，鲁世忠利用职务便利侵吞、骗取公共财物，构成贪污罪。\n- **行为的手段**：行为人是否采取了侵吞、骗取等手段非法占有公共财物。例如，【（2019）浙0482刑初278号】中，黄佩佩利用职务便利侵吞、骗取公共财产，构成贪污罪。\n\n综上，贪污罪的司法认定需综合考虑行为人的身份、行为的性质、非法占有的目的以及行为的手段，以判断是否构成贪污罪。\n\n#####\n类似案件为：\n【（2021）冀刑终295号】：法院生效裁判认为：被告人李某某系国家工作人员，利用职务上的便利，采取侵吞、骗取等手段非法占有公共资金，数额特别巨大，其行为已构成贪污罪。现有证据能够证实某中心的经营业务、资金走向、人事安排均由李某某决定，李某某系某中心的实际控制人。在案证据能够证实李某某在某经营处和某办任职期间，负责并决定某办的相关工作。虽然有的项目审批表上没有李某某签字，但相关经办人能够证明在报批前已经由李某某决定了相关事项。某经营处或某部综合事业局工作人员、其他涉案单位人员的证言证明李某某推荐某中心做规划并承诺以课题形式补贴规划费，其他涉案单位未就课题开展相关工作，课题费只是补贴规划费的形式，最终课题都通过评审并收到相关费用；《干部任免审批表》、课题验收报告等书证证明李某某具有相关职权并参与涉案课题评审和通过的情况。上述证据相互印证，能够证实李某某实际决定了外委课题的承担单位、具体内容及资金额度，其在涉案事实涉及的时间内具有相关职权。故法院依法作出如上裁判。\n【（2019）苏0303刑初436号】：法院认为，被告人王某某身为国家工作人员，利用职务上的便利，采取侵吞、骗取等手段非法占有公共财物，数额巨大，其行为已构成贪污罪。辩护人关于2010年4月至2010年7月承包期内收入不应计入贪污金额的辩护意见不予采纳，因云龙区城管局运输中心系云龙区城管局直属机构，王某某将在此期间的收入据为己有的行为，符合贪污罪的构成要件。王某某到案后如实供述自己的罪行，系坦白，依法可以从轻处罚。王某某自愿认罪认罚，但未退缴赃款、缴纳罚金，可以依法从宽处理。王某某无前科、劣迹，可以酌情从轻处罚。王某某多次利用职务上的便利，采取侵吞、骗取等手段非法占有公共财物，数额巨大，社会危害性大，不宜适用缓刑。一、被告人王某某犯犯贪污罪，判处有期徒刑三年八个月，并处罚金人民币220000元。\n （刑期从判决执行之日起计算；判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，即自2019年9月2日起至2023年5月1日止。罚金自判决生效之日起一个月内缴纳。）\n 二、违法所得依法予以追缴，上缴国库。\n【（2019）浙0411刑初365号】：法院认为，被告人鲁世忠身为国家工作人员，利用职务便利，侵吞、骗取公共财物，其行为已构成贪污罪。鉴于鲁世忠有自首情节，依法可从轻处罚；退清赃款，可酌情从轻处罚。一、被告人鲁世忠犯贪污罪，判处有期徒刑三年二个月，并处罚金二十万元（罚金限在判决生效后三日内缴纳）。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日、留置一日折抵有期徒刑一日，即自2019年3月16日起至2022年5月15日止。）\n二、扣押在案退赃款521528.6元，由扣押机关发还被害单位。",
+            "贪污罪中退赃行为对量刑的影响": "### 结论\n在贪污罪中，退赃行为对量刑有显著影响，可以作为从轻或减轻处罚的情节，但其影响程度取决于犯罪的严重性、退赃的主动性以及是否结合自首、悔罪等其他情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条第三款**：犯贪污罪的，贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。犯前款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果发生的，可以从轻、减轻或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退赃的主动性**：主动退赃被视为悔罪表现，可以酌情从轻处罚。例如，【（2019）苏0382刑初60号】中，被告人冯翔退还全部违法所得，酌定从轻处罚。\n- **退赃的时间点**：在提起公诉前退赃，对量刑的影响更为显著。【（2020）粤1322刑初950号】中，被告人胡小冬在犯罪后主动投案，归案后如实供述自己的犯罪事实，贪污的赃款亦已全数退还，依法可对其从轻处罚，适用缓刑。\n- **退赃与自首、悔罪等情节的结合**：退赃行为结合自首、悔罪等情节，可以进一步减轻处罚。【（2015）西刑初字第910号】中，被告人李某某自行投案，虽对行为性质有辩解，但对基本犯罪事实的供述始终稳定，仍可认定为自首，与其全部退赃情节综合考虑，可考虑减轻处罚。\n- **退赃与犯罪严重性的关系**：对于较轻的贪污犯罪，退赃可以导致较大的从宽幅度；对于严重的贪污犯罪，退赃的从宽幅度较小。【（2020）粤刑终2号】中，邓某某如实供述司法机关尚未掌握的受贿及利用影响力受贿罪行，是自首，二罪名依法可减轻处罚，但对贪污数额巨大或特别巨大的情形，退赃只能从轻处罚，不能减轻或免除处罚。\n\n综上，退赃行为在贪污罪的量刑中具有重要作用，尤其是当其与自首、悔罪等情节结合时，可以显著减轻处罚。然而，退赃的从宽幅度受到犯罪严重性的限制，对于严重犯罪，退赃只能从轻处罚。\n\n#####\n类似案件为：\n【（2019）苏0382刑初60号】：法院认为，被告人冯翔身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚；退还全部违法所得，酌定从轻处罚。案发前退交的赃款不影响犯罪数额的认定，但可作为量刑情节酌定从轻处罚。被告人多次侵吞公共财物，数额巨大，社会危害性大，不符合缓刑适用条件。一、被告人冯翔犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元。\n\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月10日起至2021年3月9日。罚金于判决生效之日起三十日内缴纳。）\n\n二、对被告人冯翔违法所得予以没收。\n【（2020）粤1322刑初950号】：法院认为，被告人胡小冬作为国家工作人员，利用职务上的便利，通过红冲系统虚假抵税、套打税票的方式，非法截留并占为己有纳税人缴纳的税款，数额达151132.87元，构成贪污罪。胡小冬利用职务便利擅自留抵税款186159.97元，其中35027.1元未遂。胡小冬自首，自愿认罪认罚，贪污的赃款已全数退还，依法可从轻处罚，适用缓刑。被告人胡小冬犯贪污罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币30000元（缓刑考验期限，从判决确定之日起计算。罚金限在本判决发生法律效力后30日内向本院交纳，上缴国库）。\n【（2020）粤刑终2号】：法院生效裁判认为，邓某某身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为已构成贪污罪。邓某某身为国家工作人员，利用职务上的便利，非法收受他人财物，为他人谋取利益，数额巨大，其行为已构成受贿罪。邓某某与投标人串通投标，损害国家、集体、公民的利益，其行为已构成串通投标罪。邓某某作为与国家工作人员关系密切的人，利用该国家工作人员职权形成的便利条件，通过其他国家工作人员职务上的便利，为他人谋取不正当利益，收受他人财物，数额巨大，其行为已构成利用影响力受贿罪。邓某某犯数罪，应予并罚。邓某某如实供述司法机关尚未掌握的受贿及利用影响力受贿罪行，是自首，二罪名依法可减轻处罚。邓某某检举黄某全犯罪行为，经查证属实，有立功表现，依法可从轻处罚。邓某某归案后如实供述自己的罪行、积极退赃、悔罪态度较好，依法可以从轻处罚。原审判决认定的事实清楚，证据确实、充分，定罪准确，量刑适当，审判程序合法，但对邓某某退缴的部分赃款处理不当，应予纠正。"
+          }
+        },
+        "目标": "请求法院对被告人游某甲从轻处罚，建议适用缓刑",
+        "询问": "1. 关于\"以工代赈\"项目资金60000元部分：被告人，你当时将60000元转入个人账户时，是否明确知晓这是应当上交乡财政的款项？原乡党委书记凌某是否明确指示过这笔款项的用途？\n\n2. 关于征地补偿款150653元部分：你与张某在套取补偿款过程中，具体是谁提出的虚报方案？张某作为常务副乡长，是否在过程中起到主导作用？\n\n3. 关于公路奖补资金25000元部分：你向村委会谎称争取到30000元资金时，是否确实存在为村委会争取项目资金的事实？村委会相关人员是否知晓该笔款项的真实来源？\n\n4. 关于退赃情况：你在案发后主动退缴全部赃款的具体时间和金额是多少？退赃行为是否完全出于自愿？\n\n5. 关于认罪态度：你在接受调查时是否第一时间如实供述全部犯罪事实？是否有主动交代办案机关尚未掌握的情节？\n\n6. 关于工作表现：你在担任农业经济管理站站长期间，是否曾获得过工作表彰或奖励？这些年来为当地农业发展做出过哪些贡献？\n\n[说明：以上问题设计遵循了以下策略：\n1. 针对\"以工代赈\"资金部分，重点质疑被告人的主观故意，强调领导指示因素；\n2. 针对征地补偿款部分，突出共同犯罪中张某的主导作用；\n3. 针对公路奖补资金部分，质疑村委会证言的可靠性；\n4. 强调退赃、认罪等从轻情节；\n5. 通过工作表现展示被告人的社会贡献，为量刑从宽提供依据]"
+      },
+      "被告人": {
+        "策略": "防御策略：1.针对\"以工代赈\"项目资金60000元，向被告人说明该款项系执行领导指示，可主张缺乏非法占有故意。2.关于征地补偿款部分，告知被告人张某证言存在矛盾，可提出其非主导犯罪的辩解。3.对于公路奖补资金25000元，提醒被告人村委会人员证言存在利害关系，可质疑证明力。4.要求被告人当庭如实陈述已全额退赃事实，强调社会危害性已降低。5.指导被告人保持良好认罪态度，如实供述犯罪事实，争取从轻处罚。6.建议被告人陈述在职期间工作表现，争取酌情从宽处理。",
+        "记忆": "",
+        "目标": "请求法院对被告人游某甲从轻处罚，建议适用缓刑"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人游某甲是否构成贪污罪。查明情况：被告人已对主要犯罪事实供认不讳，承认利用职务便利侵吞、骗取公共财物，符合贪污罪构成要件。审判长认为犯罪事实清楚，证据充分。\n\n2.关于\"以工代赈\"项目资金60000元的责任认定。查明情况：被告人辩称受凌书记指示，但未能提供书面证据；实际将资金转入个人账户并用于个人开支。审判长认为被告人应承担主要责任。\n\n3.关于征地补偿款150653元的共同犯罪责任划分。查明情况：张某提出虚报方案并负责具体操作，被告人提供账户配合。审判长认为二人构成共同犯罪，但需进一步查明主从犯关系。\n\n4.关于公路奖补资金25000元的骗取行为。查明情况：被告人承认谎称争取项目资金并实际占有款项。审判长认为该部分犯罪事实清楚。\n\n5.被告人的量刑情节。查明情况：被告人已全额退赃，认罪认罚，如实供述。审判长认为具有法定从轻处罚情节。\n\n6.赃款去向及退赔情况。查明情况：被告人已退缴全部赃款235653元，来源为家庭积蓄。审判长认为退赔已完成。\n\n7.共同犯罪中张某的作用。查明情况：张某作为常务副乡长主导虚报材料，但需进一步核实具体分工。审判长认为需补充调查。\n\n8.被告人的认罪态度。查明情况：被告人当庭表示深刻悔过，愿意接受法律制裁。审判长认为认罪态度良好。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物但辩称受上级指示的案件如何处理？",
+              "共同贪污犯罪中主从犯的认定标准是什么？"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物但辩称受上级指示的案件如何处理？": "### 结论\n国家工作人员利用职务便利侵吞公共财物，即使辩称受上级指示，仍需根据其行为是否构成贪污罪的构成要件进行判断。若行为人确实按照上级合法指示行事，且行为未超出指示范围，可能不构成犯罪；若行为人超越指示范围或指示本身违法，仍可能构成贪污罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否如实供述犯罪事实**：行为人到案后能如实供述自己的罪行，可以从轻处罚。例如，【（2021）沪0101刑初201号】、【（2019）苏0324刑初570号】、【（2019）苏0303刑初436号】中，法院均认为如实供述是量刑时考虑的从轻情节。\n- **行为人是否自愿认罪认罚**：自愿认罪认罚的，可以从宽处理。例如，【（2019）苏0324刑初570号】、【（2019）苏0303刑初436号】、【（2019）粤0111刑初3099号】中，法院均认为自愿认罪认罚是量刑时考虑的从宽情节。\n- **行为人是否积极退赃**：积极退赃的，可以酌情从轻处罚。例如，【（2019）苏0324刑初570号】、【（2019）粤0111刑初3099号】、【（2020）沪0115刑初2921号】中，法院均认为积极退赃是量刑时考虑的从轻情节。\n- **行为人是否具有自首情节**：主动投案并如实供述自己的罪行，系自首，依法可从轻或减轻处罚。例如，【（2019）苏0382刑初60号】、【（2020）沪0115刑初2921号】中，法院均认为自首是量刑时考虑的从轻或减轻情节。\n\n综上，国家工作人员利用职务便利侵吞公共财物，即使辩称受上级指示，法院在量刑时会考虑行为人是否如实供述、是否自愿认罪认罚、是否积极退赃以及是否具有自首情节等因素。这些因素均可能影响最终的判决结果，从轻或减轻处罚。然而，辩称受上级指示并不自动免除其刑事责任，仍需根据具体案情判断是否构成贪污罪。\n\n#####\n类似案件为：\n【（2021）沪0101刑初201号】：法院认为，被告人李俊身为国家工作人员，利用职务上的便利，侵吞公共财物，数额特别巨大，构成贪污罪。鉴于李俊到案后能如实供述所犯罪行，可从轻处罚；自愿认罪认罚，可从宽处理；在家属帮助下积极退赃，可酌情从轻处罚。一、被告人李俊犯贪污罪，判处有期徒刑十年，剥夺政治权利二年，并处罚金人民币五十万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年12月27日起至2030年12月26日止。罚金自判决生效后第二日起十日内缴纳。)\n二、违法所得应予追缴，发还被害单位。(已发还)\n【（2019）苏0324刑初570号】：法院认为，被告人许辉身为国家工作人员，利用职务上的便利侵吞公共财物，数额巨大，其行为构成贪污罪。许辉虽经办案机关电话通知到案，但未如实供述自己的犯罪事实，不应认定为自首。许辉自愿如实供述罪行，承认指控，愿意接受处罚，可依法从宽处理。其主动退还全部赃款，可酌情从轻处罚。被告人许辉犯贪污罪，判处有期徒刑三年，并处罚金人民币二十五万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月2日起至2022年4月1日止；罚金于判决生效后三十日内缴纳，对已扣押的苹果手机、苹果笔记本电脑、手提包等物品，由执行机关依法评估、折抵，剩余罚金依法予以继续缴纳。）\n【（2019）苏0303刑初436号】：法院认为，被告人王某某身为国家工作人员，利用职务上的便利，采取侵吞、骗取等手段非法占有公共财物，数额巨大，其行为已构成贪污罪。辩护人关于2010年4月至2010年7月承包期内收入不应计入贪污金额的辩护意见不予采纳，因云龙区城管局运输中心系云龙区城管局直属机构，王某某将在此期间的收入据为己有的行为，符合贪污罪的构成要件。王某某到案后如实供述自己的罪行，系坦白，依法可以从轻处罚。王某某自愿认罪认罚，但未退缴赃款、缴纳罚金，可以依法从宽处理。王某某无前科、劣迹，可以酌情从轻处罚。王某某多次利用职务上的便利，采取侵吞、骗取等手段非法占有公共财物，数额巨大，社会危害性大，不宜适用缓刑。一、被告人王某某犯犯贪污罪，判处有期徒刑三年八个月，并处罚金人民币220000元。\n （刑期从判决执行之日起计算；判决执行以前先行留置的，留置一日折抵刑期一日，先行羁押的，羁押一日折抵刑期一日，即自2019年9月2日起至2023年5月1日止。罚金自判决生效之日起一个月内缴纳。）\n 二、违法所得依法予以追缴，上缴国库。",
+            "共同贪污犯罪中主从犯的认定标准是什么？": "### 结论\n在共同贪污犯罪中，主从犯的认定主要依据各行为人在犯罪中的作用和地位，包括犯意的提起、犯罪的策划、实施犯罪行为的关键程度、犯罪结果的原因力大小以及犯罪收益的分配情况等。对于起主要作用、策划犯罪、实施关键犯罪行为、对犯罪结果有重大影响或获取主要犯罪收益的行为人，一般认定为主犯；对于起次要作用、辅助犯罪、实施非关键犯罪行为、对犯罪结果影响较小或获取次要犯罪收益的行为人，一般认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十五条第一款**：共同犯罪是指二人以上共同故意犯罪。\n- **《中华人民共和国刑法》第二十六条第一款**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯意的提起和犯罪的策划**：在【（2019）鲁1521刑初35号】中，侯某和赵某共同策划了套取单位资金的犯罪行为，两人作用相当，不宜区分主从犯。这表明，犯意的提起和犯罪的策划是判断主从犯的重要因素。\n- **实施犯罪行为的关键程度**：在【（2019）闽0821刑初57号】中，郭熔年在贪污犯罪中为同案人提供便利，参与了投资入股，作用相当，无主从犯之分。这说明，实施犯罪行为的关键程度是判断主从犯的重要依据。\n- **犯罪结果的原因力大小**：在【（2017）青0122刑初225号】中，李某某虽然未直接实施盗割电缆线的行为，但其在犯罪中起到主要作用，被认定为主犯。这表明，犯罪结果的原因力大小是判断主从犯的关键因素。\n- **犯罪收益的分配情况**：在【（2021）湘0304刑初111号】中，周若敏等人在非法吸收公众存款犯罪中，周若敏系主犯，其他人为从犯，这与犯罪收益的分配情况有关。\n\n综上，共同贪污犯罪中主从犯的认定需要综合考虑犯意的提起、犯罪的策划、实施犯罪行为的关键程度、犯罪结果的原因力大小以及犯罪收益的分配情况等多方面因素，以准确判断各行为人在犯罪中的作用和地位。\n\n#####\n类似案件为：\n【（2019）鲁1521刑初35号】：法院认为，侯某作为国家工作人员，伙同赵某，利用职务便利，共同骗取公共财物，贪污数额巨大，其行为构成贪污罪。侯某与赵某通过商议和实际行动共同实施贪污行为，系共同犯罪，作用相当，不宜区分主从犯。侯某到案后坦白，自愿认罪，退还全部赃款，系初犯，社会危害性不大，一贯表现良好，无犯罪前科，依法可从轻处罚。一、被告人侯某犯贪污罪，判处有期徒刑三年，缓刑四年；并处罚金人民币二十万元。\n（缓刑考验期自判决确定之日起计算，已向本院缴纳财产刑保证金二十万元）\n二、违法所得38000元依法返还某县人民检察院。\n【（2019）闽0821刑初57号】：法院认为，郭熔年伙同他人利用吴某1及卢某2的职务便利，采取入侵国有龙潭煤矿盗采煤炭手段共同侵吞、窃取公共财物，数额特别巨大，其行为已构成贪污罪。郭熔年主动投案，如实供述罪行，退出个人全部非法所得，预缴部分罚金，可以从轻或减轻处罚。一、被告人郭熔年犯贪污罪，判处有期徒刑五年六个月，并处罚金人民币二十八万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月3日起至2024年7月2日止。罚金限于判决生效后三日内缴纳。）\n 二、被告人郭熔年退出的非法所得人民币三十万二千三百六十六元，已预缴罚金人民币八万元予以没收，上缴国库（判决生效后，由上述暂扣机关执行）。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过银行交易记录、财政支付凭证等书证与被告人供述相互印证，形成完整证据链证明被告人三次贪污行为。2.强调被告人作为国家工作人员的主观故意明显，多次利用职务便利侵吞公共财物，社会危害性大。3.虽然被告人已退缴全部赃款，但犯罪数额达235653元，属于\"数额巨大\"，依法应判处三年以上十年以下有期徒刑。4.被告人虽认罪认罚，但系在调查阶段才供述，不属于自首，不能减轻处罚。5.被告人多次作案，持续时间长，主观恶性较深，不宜适用缓刑。\n\n防御策略：1.所有书证均依法调取，来源合法，与案件事实直接相关。2.证人证言与被告人供述相互印证，形成完整证据链。3.退赃情况有监察委扣押款物清单为证，已在量刑建议中予以考虑。4.被告人对主要犯罪事实供认不讳，其辩解不影响犯罪构成。5.案件证据收集程序合法，不存在非法证据排除情形。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物数额在20万元以上的量刑标准",
+              "贪污罪中退缴全部赃款对量刑的影响"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物数额在20万元以上的量刑标准": "### 结论\n国家工作人员利用职务便利侵吞公共财物数额在20万元以上的，根据《中华人民共和国刑法》第三百八十三条第一款第（二）项，构成贪污罪，依法应当判处三年以上十年以下有期徒刑，并处罚金或者没收财产。具体量刑时，法院会考虑犯罪数额、自首、立功、退赃、认罪认罚、社会危害程度、悔罪表现等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条第一款第（二）项**：贪污或者受贿数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第六十七条第一款、第三款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：犯罪分子有揭发他人犯罪行为，查证属实的，或者提供重要线索，从而得以侦破其他案件等立功表现的，可以从轻或者减轻处罚；有重大立功表现的，可以减轻或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的情节。例如，【（2020）鲁1423刑初233号】中，被告人窦艳伟因自首而被依法从轻处罚。\n- **立功表现**：立功可以作为从轻或减轻处罚的情节。例如，【（2020）桂14刑终26号】中，被告人陈某萃因立功而被从轻处罚。\n- **退赃情况**：积极退赃可以作为从轻处罚的情节。例如，【（2019）苏0382刑初60号】中，被告人冯翔因退还全部违法所得而被酌定从轻处罚。\n- **认罪认罚态度**：认罪认罚可以从轻处罚。例如，【（2020）鲁0785刑初374号】中，被告人陈某因认罪认罚而被从轻处罚。\n- **社会危害程度和悔罪表现**：法院会综合考虑犯罪行为的社会危害程度和被告人的悔罪表现来决定量刑。例如，【（2019）苏0303刑初436号】中，被告人王某某因多次利用职务便利侵吞公共财物，数额巨大，且未退缴赃款、缴纳罚金，被认定不宜适用缓刑。\n\n综上，国家工作人员利用职务便利侵吞公共财物数额巨大时，法院在量刑时会综合考虑自首、立功、退赃、认罪认罚、社会危害程度和悔罪表现等因素，以决定最终的刑罚。\n\n#####\n类似案件为：\n【（2020）鲁1423刑初233号】：法院认为，被告人窦艳伟身为国家机关工作人员，利用职务便利侵吞国家财物，数额巨大，构成贪污罪。鉴于窦艳伟有自首、认罪认罚、积极退赃等情节，依法从轻处罚，建议判处有期徒刑三年，并处罚金人民币二十万元至三十万元，可宣告缓刑。一、被告人窦艳伟犯贪污罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二十五万元。\n（缓刑考验期自判决确定之日起计算。罚金已向本院缴纳。）\n二、对被告人窦艳伟的违法所得620214.39元予以没收，上缴国库。\n【（2019）苏0382刑初60号】：法院认为，被告人冯翔身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚；退还全部违法所得，酌定从轻处罚。案发前退交的赃款不影响犯罪数额的认定，但可作为量刑情节酌定从轻处罚。被告人多次侵吞公共财物，数额巨大，社会危害性大，不符合缓刑适用条件。一、被告人冯翔犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元。\n\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月10日起至2021年3月9日。罚金于判决生效之日起三十日内缴纳。）\n\n二、对被告人冯翔违法所得予以没收。\n【（2020）鲁0785刑初374号】：法院认为，被告人陈某作为国家工作人员，利用职务上的便利，侵吞公共财产，数额较大，其行为构成贪污罪。鉴于陈某的坦白、认罪认罚、积极退赃及预交罚金情节，依法可予以从轻处罚。公诉机关的量刑建议适当。被告人陈某犯贪污罪，判处有期徒刑一年，缓刑一年，并处罚金人民币十万元。\n（缓刑考验期自判决确定之日起计算；罚金已缴纳。）",
+            "贪污罪中退缴全部赃款对量刑的影响": "### 结论\n在贪污罪中，退缴全部赃款可以作为量刑时的酌定从轻或减轻处罚情节，但是否适用缓刑需综合考虑犯罪情节、认罪态度、自首、立功等其他量刑因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条**：规定了贪污罪的量刑标准，其中退缴赃款可以作为酌定从轻处罚的情节。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十八条**：规定了立功可以从轻或减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **退缴全部赃款**：退缴全部赃款可以作为酌定从轻处罚的情节。例如，【（2020）桂14刑终26号】中，法院认为被告人陈某萃主动退回全部赃款，可作为减轻处罚的量刑情节。【（2021）京0113刑初865号】中，法院认为被告人张迪已退缴全部赃款，依法从宽处罚并适用缓刑。【（2019）鲁0117刑初95号】中，法院认为被告人郝某某退缴全部赃款，可酌情从轻处罚。\n- **自首**：自首可以从轻或减轻处罚。例如，【（2020）桂14刑终26号】中，法院认为被告人陈某萃主动投案，如实供述自己的罪行，系自首，依法可从轻或减轻处罚。\n- **立功**：立功可以从轻或减轻处罚。例如，【（2020）桂14刑终26号】中，法院认为被告人陈某萃在被羁押期间协助侦破其他重大案件，属立功，依法可从轻或减轻处罚。\n- **认罪认罚**：认罪认罚可以从宽处理。例如，【（2021）京0113刑初865号】中，法院认为被告人张迪自愿认罪认罚，依法从宽处罚。\n\n综上，退缴全部赃款、自首、立功和认罪认罚都是贪污罪量刑时的重要考量因素，可以作为从轻或减轻处罚的情节，但是否适用缓刑需综合考虑犯罪情节、认罪态度、自首、立功等其他量刑因素。\n\n#####\n类似案件为：\n【（2021）京0113刑初865号】：法院认为，张迪作为国有公司中从事公务的人员，利用职务之便非法占有公共财物，数额较大，其行为已构成贪污罪。鉴于其自首、退缴全部赃款并自愿认罪认罚，依法从宽处罚并适用缓刑。一、被告人张迪犯贪污罪，判处有期徒刑八个月缓刑一年，并处罚金人民币十万元（缓刑考验期限，从判决确定之日起计算；罚金于判决生效后五日内缴纳）；\n二、随案移送的赃款及孳息共计人民币九万六千一百三十元四角三分发还×公司。\n【（2019）鲁0117刑初95号】：法院认为，被告人郝某某身为国家工作人员，利用其职务便利，非法占有公款，其行为已构成贪污罪；被告人郝某某利用职务上的便利，挪用公款归个人使用，其行为已构成挪用公款罪。郝某某在被采取留置措施后，主动供述调查组尚未掌握的涉嫌贪污的犯罪事实，系自首，可酌情从轻处罚。被告人到案后如实供述挪用公款的犯罪行为，构成坦白，可以从轻处罚。被告人退缴全部赃款，且积极缴纳罚金，悔罪态度较好，可酌情从轻处罚。一、被告人郝某某犯贪污罪，判处有期徒刑一年六个月，并处罚金十六万元，犯挪用公款罪，判处拘役五个月，数罪并罚，决定执行有期徒刑一年六个月，并处罚金十六万元（刑期自判决执行之日起计算，判决执行以前先行留置或羁押的，留置或羁押一日折抵刑期一日，即自2019年6月11日起至2020年12月10日止，罚金已缴纳）；\n 二、扣押在案的违法所得203470元依法予以追缴，返还山东省济南市莱芜第十七中学（原莱芜市第十七中学）（上述款项已扣押于济南市钢城区监察委员会，由该机关依法返还）。\n【（2021）京0113刑初865号】：法院认为，张迪作为国有公司中从事公务的人员，利用职务之便非法占有公共财物，数额较大，其行为已构成贪污罪。鉴于其自首、退缴全部赃款并自愿认罪认罚，依法从宽处罚并适用缓刑。一、被告人张迪犯贪污罪，判处有期徒刑八个月缓刑一年，并处罚金人民币十万元（缓刑考验期限，从判决确定之日起计算；罚金于判决生效后五日内缴纳）；\n二、随案移送的赃款及孳息共计人民币九万六千一百三十元四角三分发还×公司。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.针对\"以工代赈\"项目资金60000元，强调被告人系执行原乡党委书记凌某指示，缺乏独立非法占有的主观故意。2.关于征地补偿款150653元，指出张某作为常务副乡长主导了虚报行为，被告人在共同犯罪中起次要作用。\n防御策略：1.强调被告人已全额退缴赃款235653元，最大限度弥补了国家损失。2.突出被告人系初犯，认罪态度良好，具有真诚悔罪表现。3.指出被告人在案发后积极配合调查，如实供述犯罪事实，符合从轻处罚情节。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "贪污罪中共同犯罪的主从犯认定标准",
+              "贪污案件中全额退赃对量刑的影响",
+              "国家工作人员执行领导指示是否构成贪污罪的主观要件"
+            ],
+            "贪污罪中共同犯罪的主从犯认定标准": "### 结论\n在贪污罪的共同犯罪中，主从犯的认定主要依据各共犯人在犯罪中的作用、地位、参与程度、犯罪收益的分配情况等。主犯通常是指在犯罪中起主要作用、策划、指挥、实施关键行为或获取较大利益的人；从犯则是在主犯的指使下参与犯罪，作用较小，获取利益较少。\n\n### 核心法条\n- **《刑法》第25条第1款**：共同犯罪是指二人以上共同故意犯罪。\n- **《刑法》第27条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n- **《刑法》第26条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪起因和犯意的提出**：在【（2019）苏0830刑初242号】中，法院认为赵永法在与他人共同实施贪污犯罪中，起主要作用，是主犯。这表明提出犯意并主导犯罪进程的人更可能被认定为主犯。\n- **犯罪实施阶段的行为**：在【（2017）青0122刑初225号】中，法院认为李某某不仅负责望风，还参与了事前共谋和纠集人员，对危害后果的发生起到主要作用，因此认定为主犯。这说明在犯罪实施阶段，实施关键行为的人可能被认定为主犯。\n- **犯罪收益的分配情况**：在【（2019）浙0182刑初372号】中，法院认为舒红清分得赃款相对较少，但考虑到他是利用他人的职务便利进行贪污，量刑时予以酌情考虑。这表明犯罪收益的分配情况也是认定主从犯的一个因素。\n- **犯罪中的地位和作用**：在【（2019）津0102刑初371号】中，法院认为石X和陈XX的作用、地位相当，不宜区分主从犯。这表明在共同犯罪中，如果各共犯人的地位和作用相当，可能不区分主从犯。\n\n综上，贪污罪的共同犯罪中，主从犯的认定主要依据各共犯人在犯罪中的作用、地位、参与程度和犯罪收益的分配情况。主犯通常是指在犯罪中起主要作用、策划、指挥、实施关键行为或获取较大利益的人；从犯则是在主犯的指使下参与犯罪，作用较小，获取利益较少。在共同犯罪中，如果各共犯人的地位和作用相当，可能不区分主从犯。\n\n#####\n类似案件为：\n【（2019）苏0830刑初242号】：法院认为，赵永法作为依照法律从事公务的人员，在协助政府拆迁中，利用职务便利，骗取公款，数额巨大，构成贪污罪；非法收受他人财物，为他人谋利，数额较大，构成受贿罪；为谋不正当利益，给予其他单位工作人员财物，数额较大，构成对非国家工作人员行贿罪；滥用职权，致公产重大损失，构成滥用职权罪。赵永法在共同贪污犯罪中，分别为主犯、从犯，从犯应从轻或减轻处罚；如实供述未掌握的罪行，构成自首；归案后如实交代贪污犯罪，构成坦白；被追诉前主动交代行贿行为，可减轻处罚；真诚悔罪、积极退赃，可从轻处罚；认罪认罚，可从宽处罚；有立功表现，可从轻或减轻处罚；退出部分赃款，可酌情从轻处罚。一、被告人赵永法犯贪污罪，判处有期徒刑六年八个月，并处罚金人民币五十万元；犯受贿罪，判处有期徒刑一年，并处罚金人民币十万元；犯对非国家工作人员行贿罪，判处有期徒刑八个月；犯滥用职权罪，判处有期徒刑一年二个月；数罪并罚，决定执行有期徒刑九年，并处罚金人民币六十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月21日起至2028年2月20日止。罚金于判决生效后五日内缴纳。）\n二、对被告人赵永法退出的违法所得人民币70万元予以追缴，上缴国库；对剩余的违法所得人民币697793.84元依法予以继续追缴。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2019）浙0182刑初372号】：法院认为，舒红清伙同国家工作人员，利用职务便利骗取公共财物，数额巨大，构成贪污罪；为谋取不正当利益，给予国家工作人员财物，构成行贿罪。本案系共同犯罪，舒红清与韩勇、江远新合谋并配合，作用基本相当，不宜区分主从犯，但考虑舒红清的分赃比例和利用他人职务便利的情节，在量刑时予以考虑。舒红清归案后如实供述，自愿认罪认罚，可从宽处罚。被告人舒红清犯贪污罪，判处有期徒刑三年，并处罚金人民币20万元；犯行贿罪，判处有期徒刑二年，并处罚金人民币15万元，数罪并罚，决定执行有期徒刑四年，并处罚金人民币35万元（刑期从判决执行之日起计算；判决执行以前先行留置、羁押的，留置、羁押一日折抵刑期一日，即自2019年4月13日起至2023年4月12日止；罚金限判决生效后十日内缴纳）。\n 被告人舒红清退出的赃款人民币125450元，予以发还被害单位建德市下涯镇人民政府。",
+            "贪污案件中全额退赃对量刑的影响": "### 结论\n全额退赃在贪污案件中对量刑有显著影响，通常作为从轻或减轻处罚的情节，但是否适用缓刑需综合考虑犯罪数额、犯罪性质、悔罪表现等其他量刑因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条**：规定了贪污罪的量刑标准，其中提及退赃情况可以作为量刑时考虑的情节。\n- **《中华人民共和国刑法》第六十七条第一款**：规定了自首可以从轻或减轻处罚。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款、第十八条、第十九条**：对贪污罪的数额认定及量刑情节进行了详细规定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **全额退赃**：全额退赃通常被视为悔罪表现，法院在量刑时会考虑这一情节，给予从轻或减轻处罚。例如，【（2019）苏0382刑初60号】、【（2020）桂14刑终26号】、【（2015）西刑初字第910号】中，被告人均在案发后全额退赃，法院因此决定从轻处罚。\n- **自首情节**：自首与全额退赃相结合，可以显著减轻处罚。如【（2020）桂14刑终26号】中，被告人陈某萃主动向单位汇报犯罪事实，后又全额退赃，法院决定对其从轻处罚。\n- **犯罪数额与性质**：全额退赃虽为从轻情节，但犯罪数额巨大或犯罪性质恶劣时，法院可能不适用缓刑。如【（2020）桂14刑终26号】中，尽管被告人全额退赃，但因其犯罪数额巨大，法院未采纳辩护人请求适用缓刑的意见。\n\n综上，全额退赃在贪污案件中作为从轻处罚的情节被广泛认可，但是否适用缓刑需综合考虑犯罪的具体情节，包括犯罪数额、性质、自首情况等。\n\n#####\n类似案件为：\n【（2019）苏0382刑初60号】：法院认为，被告人冯翔身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚；退还全部违法所得，酌定从轻处罚。案发前退交的赃款不影响犯罪数额的认定，但可作为量刑情节酌定从轻处罚。被告人多次侵吞公共财物，数额巨大，社会危害性大，不符合缓刑适用条件。一、被告人冯翔犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元。\n\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月10日起至2021年3月9日。罚金于判决生效之日起三十日内缴纳。）\n\n二、对被告人冯翔违法所得予以没收。",
+            "国家工作人员执行领导指示是否构成贪污罪的主观要件": "### 结论\n国家工作人员执行领导指示，如果该指示涉及利用职务便利非法占有公共财物，且行为人主观上明知该行为违法并具有非法占有的故意，可以构成贪污罪的主观要件。自首、积极退赃等情节可作为量刑时的从轻处罚考虑。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十二条第三款**：与前两款所列人员勾结，伙同贪污的，以共犯论。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：行为人主观上是否具有非法占有的故意。例如，【（2017）京03刑终657号】中，刘某春明知奖金的正常决策和发放程序以及会计应如实记账的规定，仍然违反相关程序和要求发放涉案钱款、授意会计虚假记账，其本人亦领取了涉案钱款，足以证明其主观上具有非法占有的故意。\n- **职务便利**：行为人是否利用了职务上的便利。例如，【（2022）桂02刑终286号】中，韦某1利用其职务便利，与某甲公司共同伪造虚假材料，申报补贴，为某甲公司骗取国家专项补贴资金。\n- **自首与退赃**：行为人是否有自首情节，是否积极退缴赃款。例如，【（2017）京03刑终657号】中，刘某春有自首情节，积极退缴赃款，依法对其从轻处罚。\n- **共同犯罪**：行为是否构成共同犯罪。例如，【（2012）虹刑初字第1175号】中，无身份者与有身份者相勾结，采用虚增动迁面积的方法骗取国家动迁款，构成贪污罪的共同犯罪。\n\n综上，国家工作人员执行领导指示时，如果该指示涉及非法占有公共财物，且行为人主观上明知违法并具有非法占有的故意，可以构成贪污罪。自首、积极退赃等情节在量刑时作为从轻处罚的考虑。共同犯罪中，无身份者与有身份者勾结，伙同贪污的，以共犯论。\n\n#####\n类似案件为：\n【（2017）京03刑终657号】：法院生效裁判认为：被告人刘某春作为国家工作人员，伙同他人利用职务上的便利，非法占有公共财物，数额巨大，其行为已构成贪污罪，且系共同犯罪，应予惩处。刘某春违反相关规定，擅自决定为其本人及会计发放“奖金”，并采取了虚构交易、虚开发票平账等隐蔽手段，其实质是以发放奖金之名行侵吞公款之实，客观上符合贪污罪的构成要件；主观上，刘某春明知奖金的正常决策和发放程序以及会计应如实记账的规定，仍然违反相关程序和要求发放涉案钱款、授意会计虚假记账，其本人亦领取了涉案钱款，足以证明其主观上具有非法占有的故意，故其行为已构成贪污罪。刘某春及其辩护人相关辩解及辩护意见不予采纳。鉴于刘某春有自首情节，积极退缴赃款，依法对其从轻处罚。故一、二审法院依法作出如上裁判。\n【（2017）京03刑终657号】：法院生效裁判认为：被告人刘某春作为国家工作人员，伙同他人利用职务上的便利，非法占有公共财物，数额巨大，其行为已构成贪污罪，且系共同犯罪，应予惩处。刘某春违反相关规定，擅自决定为其本人及会计发放“奖金”，并采取了虚构交易、虚开发票平账等隐蔽手段，其实质是以发放奖金之名行侵吞公款之实，客观上符合贪污罪的构成要件；主观上，刘某春明知奖金的正常决策和发放程序以及会计应如实记账的规定，仍然违反相关程序和要求发放涉案钱款、授意会计虚假记账，其本人亦领取了涉案钱款，足以证明其主观上具有非法占有的故意，故其行为已构成贪污罪。刘某春及其辩护人相关辩解及辩护意见不予采纳。鉴于刘某春有自首情节，积极退缴赃款，依法对其从轻处罚。故一、二审法院依法作出如上裁判。\n【（2012）虹刑初字第1175号】：法院生效判决认为，被告人王亨庆、韩伟强、丁静芳、王秀宝、宋兆智、周国平分别结伙，相互勾结，利用被告人王亨庆身为受国有公司委托管理国有财产的工作人员的职务便利，采用修改动迁面积证明，虚增动迁面积的方法骗取国有财产，其行为均已构成贪污罪。\n一、在国有公司中管理、经营国有财产的人员利用职务上的便利骗取国有财物的构成贪污罪。\n贪污罪属于身份犯，其犯罪主体属特殊主体，需为国家工作人员或准国家工作人员。被告人王亨庆系在国有公司中从事公务的准国家工作人员。理由如下：第一，新虹公司属于国有公司。新虹公司的《企业法人营业执照》、《股权转让协议书》及该公司出具的《房屋拆迁资格证书》、《委托拆迁协议书》等书证均证实新虹公司属于具有房屋拆迁资格的国有有限公司。第二，被告人王亨庆在新虹公司中从事公务。新虹公司根据与振虹公司签订的委托拆迁劳务协议，授权王亨庆对动拆迁户上报材料进行审查核实，代表新虹公司进行动迁安置协议的签署。王亨庆的职责体现了其对国有财产经营管理的性质，系在工作公司中从事公务的人员。\n被告人王亨庆在接受韩伟强、宋兆智的请托后，利用审核的职权，指使工作人员丁静芳按虚增后的王锦富家土地面积证明及建筑面积测绘表重新核定王锦富家的动迁安置款，以骗取动迁款，应认定构成贪污罪。\n二、与国有公司中受委托从事公务的人员勾结伙同骗取国有财产的，构成贪污罪的共同犯罪。\n从刑法理论角度来看，共同犯罪是指两人共同故意犯罪，对共同犯罪行为人身份上的限制和差别法律并无特殊规定，且在共同犯罪中，行为人的共同行为应该从整体上予以考察和衡量，没有身份者虽不能单独完成只能由有身份者构成的犯罪，但是借助于有身份者的行为，则可以完成此类犯罪。本案中，被告人王秀宝、丁静芳、宋兆智、周国平等人虽非国家工作人员，不能单独完成贪污犯罪行为，但在与被告人王亨庆相勾结后，借助于王亨庆的职务行为，共同实施了虚构房屋面积，骗取国家财产的贪污行为。\n从司法实践中来看，也应当承认无身份者与有身份者可构成只能由有身份者构成的共同犯罪。第一，无身份者与有身份者共同实施有身份的犯罪并不鲜见，且在司法实践中，诸多案件如果没有无身份者的提议或协力，有身份者的犯罪并不能实施完结。第二，贪污犯罪中，法律明文规定无身份者与有身份者勾结，伙同贪污的，构成贪污共犯。《刑法》第三百八十二条第三款规定：“与前两款所列人员勾结，伙同贪污的，以共犯论”。被告人韩伟强、丁静芳、王秀宝、宋兆智、周国平与被告人王亨庆伙同贪污，依法应予认定为贪污罪的共同犯罪。\n综上，被告人王亨庆系由新虹公司委托以新虹公司名义从事审核动迁户户口人数、动迁面积、核定国家动迁安置款发放等公务的准国家工作人员，具有公共事务管理和国有资产经营的职权。被告人王秀宝、韩伟强、丁静芳、宋兆智、周国平等人与被告人王亨庆相勾结，采用虚增动迁面积的方法骗取国家动迁款，构成贪污罪。上海市虹口区人民法院于2013年1月18日作出（2012）虹刑初字第1175号刑事判决，判决被告人王亨庆犯贪污罪，判处有期徒刑十二年，并处没收财产人民币七万元；被告人韩伟强犯贪污罪，判处有期徒刑十年，并处没收财产人民币六万元；被告人王秀宝犯贪污罪，判处有期徒刑九年，并处没收财产人民币五万元；被告人宋兆智犯贪污罪，判处有期徒刑七年，并处没收财产人民币四万元；被告人丁静芳犯贪污罪，判处有期徒刑六年，并处没收财产人民币三万元；被告人周国平犯贪污罪，判处有期徒刑五年，并处没收财产人民币二万元；追缴赃款发还被害单位。\n宣判后，被告人均在法定期限内提起上诉，上海市第二中级人民法院裁定驳回上诉，维持原判。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.针对\"以工代赈\"项目资金60000元，向被告人说明该款项系执行领导指示，可主张缺乏非法占有故意。2.关于征地补偿款部分，告知被告人张某证言存在矛盾，可提出其非主导犯罪的辩解。3.对于公路奖补资金25000元，提醒被告人村委会人员证言存在利害关系，可质疑证明力。4.要求被告人当庭如实陈述已全额退赃事实，强调社会危害性已降低。5.指导被告人保持良好认罪态度，如实供述犯罪事实，争取从轻处罚。6.建议被告人陈述在职期间工作表现，争取酌情从宽处理。",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人游某甲是否构成贪污罪。查明情况：被告人已对主要犯罪事实供认不讳，承认利用职务便利侵吞、骗取公共财物，符合贪污罪构成要件。审判长认为犯罪事实清楚，证据充分。\n\n2.关于\"以工代赈\"项目资金60000元的责任认定。查明情况：被告人辩称受凌书记指示，但未能提供书面证据；实际将资金转入个人账户并用于个人开支。审判长认为被告人应承担主要责任。\n\n3.关于征地补偿款150653元的共同犯罪责任划分。查明情况：张某提出虚报方案并负责具体操作，被告人提供账户配合。审判长认为二人构成共同犯罪，但需进一步查明主从犯关系。\n\n4.关于公路奖补资金25000元的骗取行为。查明情况：被告人承认谎称争取项目资金并实际占有款项。审判长认为该部分犯罪事实清楚。\n\n5.被告人的量刑情节。查明情况：被告人已全额退赃，认罪认罚，如实供述。审判长认为具有法定从轻处罚情节。\n\n6.赃款去向及退赔情况。查明情况：被告人已退缴全部赃款235653元，来源为家庭积蓄。审判长认为退赔已完成。\n\n7.共同犯罪中张某的作用。查明情况：张某作为常务副乡长主导虚报材料，但需进一步核实具体分工。审判长认为需补充调查。\n\n8.被告人的认罪态度。查明情况：被告人当庭表示深刻悔过，愿意接受法律制裁。审判长认为认罪态度良好。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物但辩称系执行领导指示的案例",
+              "共同贪污犯罪中主从犯的认定标准",
+              "贪污罪中全额退赃对量刑的影响"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物但辩称系执行领导指示的案例": "### 结论\n在国家工作人员利用职务便利侵吞公共财物但辩称系执行领导指示的案例中，法院通常会审查辩称的执行领导指示是否真实存在，以及该指示是否合法，以确定行为人是否构成贪污罪。如果行为人无法提供充分证据证明其行为系合法执行领导指示，且其行为符合贪污罪的构成要件，法院通常会认定行为人构成贪污罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十三条第一款第（一）项**：贪污数额特别巨大或者有其他特别严重情节的，处无期徒刑或者死刑，并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **辩称执行领导指示的真实性**：法院会审查行为人是否能提供充分证据证明其行为系合法执行领导指示。例如，【（2015）高刑终字第102号】中，被告人肖绍祥辩称其行为系合法收入，但未能提供证据证明，法院未采纳其辩解。\n- **行为是否符合贪污罪的构成要件**：即使行为人辩称执行领导指示，法院仍会审查其行为是否符合贪污罪的构成要件。例如，【（2019）沪0105刑初740号】中，被告人曹立仁辩称其行为系合法，但法院认定其行为构成贪污罪。\n\n综上，行为人辩称执行领导指示并不自动排除其构成贪污罪的可能性，法院会综合审查行为的合法性及是否符合贪污罪的构成要件。如果行为人无法提供充分证据证明其行为系合法执行领导指示，且其行为符合贪污罪的构成要件，法院通常会认定行为人构成贪污罪。\n\n#####\n类似案件为：\n【（2019）沪0105刑初740号】：法院认为，被告人曹立仁身为国家工作人员，利用职务便利，侵吞公共财物，其行为构成贪污罪；利用职务便利，非法收受他人财物，为他人谋取利益，其行为构成受贿罪。曹立仁的贪污行为主观恶性明显，辩护人对此的辩护意见不予采纳。曹立仁对收受的财物具有一定的认识，检察机关以他人支付的对价作为受贿数额的认定合理。辩护人关于物品性质的辩解不予采纳。曹立仁利用职务便利收受王1的款项，符合受贿罪特征，辩护人关于参与经营的辩护意见与事实不符。一、被告人曹立仁犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元；犯受贿罪，判处有期徒刑九年六个月，并处罚金人民币五十万元。决定执行有期徒刑十一年，并处罚金人民币七十万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月27日起至2030年2月26日止。罚金于本判决发生法律效力第二日起一个月内向本院缴纳完毕。)\n二、违法所得人民币一百四十二万四千一百一十五元发还上海市长宁区人民政府；违法所得人民币二百二十八万五千八百八十五元以及滇西小景图一幅、象牙二根及牙雕一件予以没收。责令被告人曹立仁退赔其余违法所得人民币一百九十三万二千四百一十五元后予以没收。",
+            "共同贪污犯罪中主从犯的认定标准": "### 结论\n在共同贪污犯罪中，主从犯的认定主要依据各行为人在犯罪中的作用、地位以及对犯罪结果的贡献程度。具体而言，起主要作用、策划、组织、指挥的，认定为主犯；起次要作用、辅助作用的，认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十五条第一款**：共同犯罪是指二人以上共同故意犯罪。\n- **《中华人民共和国刑法》第二十六条第一款**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪起因和策划**：谁是犯罪的起意者和策划者。例如，【（2019）鲁1521刑初35号】中，侯某和赵某共同策划了套取单位资金的犯罪，两人作用相当，不宜区分主从犯。\n- **犯罪实施中的作用**：谁是主要实行者，谁的行为对犯罪结果的原因力较大。例如，【（2019）京0108刑初981号】中，刘远鹏、王龙振、陈广平、杨晨、穆乾军在共同犯罪中起主要作用，系主犯；李文新、刘双、李秋君、杨智慧、唐成龙、崔静、陈世杰、刘畅起次要作用，系从犯。\n- **犯罪收益的分配情况**：谁分得的赃款较多。例如，【（2019）浙0182刑初372号】中，舒红清分得赃款相对较少，但因其利用他人的职务便利进行贪污，法院在量刑时予以考虑。\n- **是否利用特殊身份**：在身份犯与非身份犯共同犯罪时，非身份犯只能是组织犯、帮助犯或者教唆犯，而不能是实行犯。例如，【（2019）京0108刑初981号】中，各被告人在共同犯罪中的地位、作用、分赃情况、退赔谅解情况是量刑的重要考量因素。\n\n综上，共同贪污犯罪中主从犯的认定，需要综合考虑行为人在犯罪中的作用、地位、对犯罪结果的贡献程度以及是否利用特殊身份等因素。主犯通常是指在犯罪中起主要作用、策划、组织、指挥的人员，而从犯则是指在犯罪中起次要作用、辅助作用的人员。在具体案件中，法院会根据上述因素进行综合判断，以确定各行为人在共同犯罪中的地位。\n\n#####\n类似案件为：\n【（2019）鲁1521刑初35号】：法院认为，侯某作为国家工作人员，伙同赵某，利用职务便利，共同骗取公共财物，贪污数额巨大，其行为构成贪污罪。侯某与赵某通过商议和实际行动共同实施贪污行为，系共同犯罪，作用相当，不宜区分主从犯。侯某到案后坦白，自愿认罪，退还全部赃款，系初犯，社会危害性不大，一贯表现良好，无犯罪前科，依法可从轻处罚。一、被告人侯某犯贪污罪，判处有期徒刑三年，缓刑四年；并处罚金人民币二十万元。\n（缓刑考验期自判决确定之日起计算，已向本院缴纳财产刑保证金二十万元）\n二、违法所得38000元依法返还某县人民检察院。\n【（2019）京0108刑初981号】：法院认为，刘远鹏、王龙振、陈广平、杨晨、穆乾军在共同犯罪中起主要作用，系主犯；李文新、刘双、李秋君、杨智慧、唐成龙、崔静、陈世杰、刘畅在共同犯罪中起次要或辅助作用，系从犯。各被告人均能如实供述主要犯罪事实，认罪态度好，部分被告人已退赔并获谅解，予以从轻处罚。一、被告人刘远鹏犯诈骗罪，判处有期徒刑三年，罚金人民币三万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2021年10月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n二、被告人王龙振犯诈骗罪，判处有期徒刑三年，罚金人民币三万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2021年10月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n三、被告人陈广平犯诈骗罪，判处有期徒刑一年四个月，罚金人民币二万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2020年2月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n四、被告人杨晨犯诈骗罪，判处有期徒刑一年三个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2020年1月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n五、被告人穆乾军犯诈骗罪，判处有期徒刑一年三个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2020年1月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n六、被告人李文新犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n七、被告人刘双犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n八、被告人李秋君犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n九、被告人杨智慧犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n十、被告人唐成龙犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n十一、被告人崔静犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n十二、被告人陈世杰犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n十三、被告人刘畅犯诈骗罪，判处有期徒刑一年一个月，罚金人民币一万元。\n（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年10月24日起至2019年11月23日止。罚金限自本判决生效之次日起十日内缴纳。）\n十四、在案扣押的人民币九万八千六百三十元，按比例发还各被害人；继续责令各被告人向被害人退赔剩余经济损失（详见附后清单）。\n【（2019）浙0182刑初372号】：法院认为，舒红清伙同国家工作人员，利用职务便利骗取公共财物，数额巨大，构成贪污罪；为谋取不正当利益，给予国家工作人员财物，构成行贿罪。本案系共同犯罪，舒红清与韩勇、江远新合谋并配合，作用基本相当，不宜区分主从犯，但考虑舒红清的分赃比例和利用他人职务便利的情节，在量刑时予以考虑。舒红清归案后如实供述，自愿认罪认罚，可从宽处罚。被告人舒红清犯贪污罪，判处有期徒刑三年，并处罚金人民币20万元；犯行贿罪，判处有期徒刑二年，并处罚金人民币15万元，数罪并罚，决定执行有期徒刑四年，并处罚金人民币35万元（刑期从判决执行之日起计算；判决执行以前先行留置、羁押的，留置、羁押一日折抵刑期一日，即自2019年4月13日起至2023年4月12日止；罚金限判决生效后十日内缴纳）。\n 被告人舒红清退出的赃款人民币125450元，予以发还被害单位建德市下涯镇人民政府。",
+            "贪污罪中全额退赃对量刑的影响": "### 结论\n全额退赃在贪污罪的量刑中通常被视为一个重要的从轻或减轻处罚的情节，但是否适用缓刑还需综合考虑犯罪数额、犯罪性质、悔罪表现等其他因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条**：规定了贪污罪的量刑标准，其中提及了退赃情节可以作为从轻处罚的考量因素。\n- **《中华人民共和国刑法》第六十七条第一款**：规定了自首可以从轻或减轻处罚。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款**：对贪污罪数额巨大情形的量刑提供了指导。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **全额退赃**：全额退赃通常被视为犯罪人悔罪的体现，可以作为从轻处罚的情节。例如，【（2019）苏0382刑初60号】、【（2020）桂14刑终26号】、【（2020）沪0116刑初1113号】中，法院均认为全额退赃可以作为从轻处罚的考量因素。\n- **自首情节**：自首与全额退赃结合，可以显著减轻处罚。如【（2020）桂14刑终26号】中，陈某萃因自首和全额退赃，法院决定对其从轻处罚。\n- **犯罪数额和性质**：即使全额退赃，如果犯罪数额巨大或犯罪性质恶劣，法院可能不会适用缓刑。例如，【（2020）苏0812刑初368号】中，尽管杨伟全额退赃，但因其贪污数额巨大，法院认为不宜适用缓刑。\n\n综上，全额退赃在贪污罪的量刑中通常会作为从轻处罚的情节被考虑，但是否适用缓刑还需综合考虑犯罪的具体情节，包括犯罪数额、性质、自首情节以及犯罪人的悔罪表现等。\n\n#####\n类似案件为：\n【（2019）苏0382刑初60号】：法院认为，被告人冯翔身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚；退还全部违法所得，酌定从轻处罚。案发前退交的赃款不影响犯罪数额的认定，但可作为量刑情节酌定从轻处罚。被告人多次侵吞公共财物，数额巨大，社会危害性大，不符合缓刑适用条件。一、被告人冯翔犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元。\n\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月10日起至2021年3月9日。罚金于判决生效之日起三十日内缴纳。）\n\n二、对被告人冯翔违法所得予以没收。\n【（2020）沪0116刑初1113号】：法院认为，被告人冯某以非法占有为目的，骗取他人财物，数额较大，构成诈骗罪。鉴于冯某认罪认罚，如实供述罪行，全额退赃，可从轻处罚并适用缓刑。被告人冯某犯诈骗罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万元。\n(缓刑考验期限自判决确定之日起计算；罚金于判决生效之日起一个月内缴纳。)\n冯某回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。\n【（2020）苏0812刑初368号】：法院认为，被告人杨伟身为国家工作人员，利用职务便利，骗取公款，数额巨大，其行为构成贪污罪。鉴于杨伟归案后如实供述罪行，认罪认罚，全部退赃，依法予以从轻处罚。杨伟系事业单位工作人员，履行管理职责，应认定为国家工作人员，其贪污行为不适用缓刑。被告人杨伟犯贪污罪，判处有期徒刑三年，并处罚金人民币二十万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年5月13日起至2023年5月12日止，罚金于判决生效后十日内向本院缴纳）"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过银行交易记录、财政支付凭证等书证与被告人供述相互印证，形成完整证据链证明被告人三次贪污行为。2.强调被告人作为国家工作人员的主观故意明显，多次利用职务便利侵吞公共财物，社会危害性大。3.虽然被告人已退缴全部赃款，但犯罪数额达235653元，属于\"数额巨大\"，依法应判处三年以上十年以下有期徒刑。4.被告人虽认罪认罚，但系在调查阶段才供述，不属于自首，不能减轻处罚。5.被告人多次作案，持续时间长，主观恶性较深，不宜适用缓刑。\n\n防御策略：1.所有书证均依法调取，来源合法，与案件事实直接相关。2.证人证言与被告人供述相互印证，形成完整证据链。3.退赃情况有监察委扣押款物清单为证，已在量刑建议中予以考虑。4.被告人对主要犯罪事实供认不讳，其辩解不影响犯罪构成。5.案件证据收集程序合法，不存在非法证据排除情形。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物23万余元的量刑标准",
+              "贪污罪中共同犯罪的主从犯认定标准"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物23万余元的量刑标准": "### 结论\n国家工作人员利用职务便利侵吞公共财物23万余元，根据《中华人民共和国刑法》第三百八十三条第一款第（二）项及第二款，构成贪污罪，数额巨大，依法应处三年以上十年以下有期徒刑，并处罚金。但具体量刑需考虑自首、坦白、退赃、认罪认罚、社会危害性等情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条第一款第（二）项及第二款**：贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与坦白**：如果被告人有自首或坦白情节，依法可以从轻或者减轻处罚。例如，【（2019）苏0382刑初60号】中，被告人冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚。\n- **退赃与认罪认罚**：被告人积极退赃、认罪认罚，可以依法从轻处罚。例如，【（2020）沪0112刑初1986号】中，被告人马克成亲属代为退赔被害单位部分经济损失，可以对被告人酌情从轻处罚。\n- **社会危害性与悔罪表现**：被告人对社会的危害程度和悔罪表现也是量刑时的重要考量因素。例如，【（2020）鲁1423刑初233号】中，被告人窦艳伟对社区矫正没有重大不良影响，具备适用社区矫正的条件，可以适用缓刑。\n- **犯罪数额与情节**：犯罪数额巨大，且有其他严重情节的，量刑将更重。例如，【（2020）鲁0785刑初374号】中，被告人陈某贪污数额较大，依法应予惩处。\n\n综上，国家工作人员利用职务便利侵吞公共财物23万余元，构成贪污罪，数额巨大，依法应处三年以上十年以下有期徒刑，并处罚金。但具体量刑需综合考虑自首、坦白、退赃、认罪认罚、社会危害性等情节。\n\n#####\n类似案件为：\n【（2019）苏0382刑初60号】：法院认为，被告人冯翔身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚；退还全部违法所得，酌定从轻处罚。案发前退交的赃款不影响犯罪数额的认定，但可作为量刑情节酌定从轻处罚。被告人多次侵吞公共财物，数额巨大，社会危害性大，不符合缓刑适用条件。一、被告人冯翔犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元。\n\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月10日起至2021年3月9日。罚金于判决生效之日起三十日内缴纳。）\n\n二、对被告人冯翔违法所得予以没收。\n【（2020）沪0112刑初1986号】：法院认为，被告人马克成利用职务上的便利，将本单位财物非法占为己有，数额23万余元，属数额较大，其行为已构成职务侵占罪。马克成如实供述自己的罪行，且自愿认罪认罚，依法可以从轻、从宽处罚。被告人亲属代为退赔被害单位部分经济损失，可以对被告人酌情从轻处罚。一、被告人马克成犯职务侵占罪，判处有期徒刑一年三个月。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年6月29日起至2021年9月28日止。)\n二、责令被告人马克成退赔被害单位上海腾阁装饰设计有限公司经济损失人民币二十三万五千六百六十六元九角，已退缴的人民币四万一千元发还被害单位，不足部分责令继续退赔。\n【（2020）鲁1423刑初233号】：法院认为，被告人窦艳伟身为国家机关工作人员，利用职务便利侵吞国家财物，数额巨大，构成贪污罪。鉴于窦艳伟有自首、认罪认罚、积极退赃等情节，依法从轻处罚，建议判处有期徒刑三年，并处罚金人民币二十万元至三十万元，可宣告缓刑。一、被告人窦艳伟犯贪污罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二十五万元。\n（缓刑考验期自判决确定之日起计算。罚金已向本院缴纳。）\n二、对被告人窦艳伟的违法所得620214.39元予以没收，上缴国库。",
+            "贪污罪中共同犯罪的主从犯认定标准": "### 结论\n在贪污罪的共同犯罪中，主从犯的认定主要依据各共犯人在犯罪中的作用、地位、参与程度、犯罪收益的分配情况等。主犯通常是指在犯罪中起主要作用、策划、指挥、实施关键行为或获取较大利益的人；从犯则是在主犯的指使下参与犯罪，作用较小，获取利益较少。\n\n### 核心法条\n- **《刑法》第25条第1款**：共同犯罪是指二人以上共同故意犯罪。\n- **《刑法》第27条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n- **《刑法》第26条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪起因和犯意的提出**：在【（2019）苏0830刑初242号】中，法院认为赵永法在与他人共同实施贪污犯罪中，起主要作用，是主犯。这表明提出犯意并主导犯罪进程的人更可能被认定为主犯。\n- **犯罪实施阶段的行为**：在【（2017）青0122刑初225号】中，法院认为李某某不仅负责望风，还参与了事前共谋和纠集人员，对危害后果的发生起到主要作用，因此认定为主犯。这说明在犯罪实施阶段，实施关键行为的人可能被认定为主犯。\n- **犯罪收益的分配情况**：在【（2019）浙0182刑初372号】中，法院认为舒红清分得赃款相对较少，但考虑到他是利用他人的职务便利进行贪污，量刑时予以酌情考虑。这表明犯罪收益的分配情况也是认定主从犯的一个因素。\n- **犯罪中的地位和作用**：在【（2019）津0102刑初371号】中，法院认为石X和陈XX的作用、地位相当，不宜区分主从犯。这表明在共同犯罪中，如果各共犯人的地位和作用相当，可能不区分主从犯。\n\n综上，贪污罪的共同犯罪中，主从犯的认定主要依据各共犯人在犯罪中的作用、地位、参与程度和犯罪收益的分配情况。主犯通常是指在犯罪中起主要作用、策划、指挥、实施关键行为或获取较大利益的人；从犯则是在主犯的指使下参与犯罪，作用较小，获取利益较少。在共同犯罪中，如果各共犯人的地位和作用相当，可能不区分主从犯。\n\n#####\n类似案件为：\n【（2019）苏0830刑初242号】：法院认为，赵永法作为依照法律从事公务的人员，在协助政府拆迁中，利用职务便利，骗取公款，数额巨大，构成贪污罪；非法收受他人财物，为他人谋利，数额较大，构成受贿罪；为谋不正当利益，给予其他单位工作人员财物，数额较大，构成对非国家工作人员行贿罪；滥用职权，致公产重大损失，构成滥用职权罪。赵永法在共同贪污犯罪中，分别为主犯、从犯，从犯应从轻或减轻处罚；如实供述未掌握的罪行，构成自首；归案后如实交代贪污犯罪，构成坦白；被追诉前主动交代行贿行为，可减轻处罚；真诚悔罪、积极退赃，可从轻处罚；认罪认罚，可从宽处罚；有立功表现，可从轻或减轻处罚；退出部分赃款，可酌情从轻处罚。一、被告人赵永法犯贪污罪，判处有期徒刑六年八个月，并处罚金人民币五十万元；犯受贿罪，判处有期徒刑一年，并处罚金人民币十万元；犯对非国家工作人员行贿罪，判处有期徒刑八个月；犯滥用职权罪，判处有期徒刑一年二个月；数罪并罚，决定执行有期徒刑九年，并处罚金人民币六十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月21日起至2028年2月20日止。罚金于判决生效后五日内缴纳。）\n二、对被告人赵永法退出的违法所得人民币70万元予以追缴，上缴国库；对剩余的违法所得人民币697793.84元依法予以继续追缴。\n【（2017）青0122刑初225号】：法院生效裁判认为：本案焦点是被告人李某某的行为应认定为主犯还是从犯。虽然李某某为杨某某盗割电缆线望风接应，并未实施盗割电缆线的实行行为，但其与杨某某事前共谋破坏电力设备，并为盗割电缆线联系被告人赵某某、杨某帮忙，为整个犯罪的顺利实施起到了主要作用，应当认定为主犯。被告人杨某某与李某某经预谋后伙同赵某某采取破坏性手段盗割电缆线，致使正在使用中的高压输电线路及铁塔损坏，危害公共安全，行为均已构成破坏电力设备罪。鉴于三被告人案发后如实供述所犯罪行，认罪态度较好，可依法从轻处罚；杨某某在刑满释放后五年内又犯应当判处有期徒刑以上刑罚之罪，系累犯，应依法从重处罚。杨某某、李某某在共同犯罪中起主要作用，是主犯，赵某某在共同犯罪中起次要作用，系从犯，对赵某某应依法减轻处罚。故依法作出如上裁判。\n【（2019）浙0182刑初372号】：法院认为，舒红清伙同国家工作人员，利用职务便利骗取公共财物，数额巨大，构成贪污罪；为谋取不正当利益，给予国家工作人员财物，构成行贿罪。本案系共同犯罪，舒红清与韩勇、江远新合谋并配合，作用基本相当，不宜区分主从犯，但考虑舒红清的分赃比例和利用他人职务便利的情节，在量刑时予以考虑。舒红清归案后如实供述，自愿认罪认罚，可从宽处罚。被告人舒红清犯贪污罪，判处有期徒刑三年，并处罚金人民币20万元；犯行贿罪，判处有期徒刑二年，并处罚金人民币15万元，数罪并罚，决定执行有期徒刑四年，并处罚金人民币35万元（刑期从判决执行之日起计算；判决执行以前先行留置、羁押的，留置、羁押一日折抵刑期一日，即自2019年4月13日起至2023年4月12日止；罚金限判决生效后十日内缴纳）。\n 被告人舒红清退出的赃款人民币125450元，予以发还被害单位建德市下涯镇人民政府。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.针对\"以工代赈\"项目资金60000元，强调被告人系执行原乡党委书记凌某指示，缺乏独立非法占有的主观故意。2.关于征地补偿款150653元，指出张某作为常务副乡长主导了虚报行为，被告人在共同犯罪中起次要作用。3.质疑张某证言与被告人供述的矛盾，无法单独证明被告人在共同犯罪中起主要作用。\n\n防御策略：1.强调被告人已全额退缴赃款235653元，最大限度弥补了国家损失。2.突出被告人认罪态度良好，具有真诚悔罪表现。3.指出被告人在案发后积极配合调查，如实供述犯罪事实，符合从轻处罚情节。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员执行上级违法指令后未上交款项是否构成贪污罪",
+              "共同贪污犯罪中从犯的认定标准"
+            ],
+            "国家工作人员执行上级违法指令后未上交款项是否构成贪污罪": "### 结论\n国家工作人员执行上级违法指令后未上交款项，如果该人员利用了职务便利，主观上具有非法占有的故意，并且客观上实施了侵吞、窃取、骗取或以其他手段非法占有公共财物的行为，可以构成贪污罪。关键在于是否利用职务便利、主观故意以及是否实施了非法占有公共财物的行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：规定国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十二条第二款**：规定受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否利用职务便利**：如果国家工作人员利用了职务上的便利，实施了侵吞、窃取、骗取或以其他手段非法占有公共财物的行为，可以构成贪污罪。例如，【（2002）刑复字第57号】中，国家机关工作人员受委派在集体所有制企业任职，利用职务便利侵吞公款，构成贪污罪。\n- **主观故意**：国家工作人员主观上必须具有非法占有的故意。例如，【（2014）丹刑初字第267号】中，被告人丰某洪明知他人因特定原因赠送钱财，仍将财物占为己有并为他人谋取利益，受贿故意明显，构成受贿罪既遂。\n- **是否实施了非法占有公共财物的行为**：即使国家工作人员在案发前退还或上交所收财物，但如果综合全案事实足以认定其收受财物时即具有受贿故意，不影响受贿罪的认定。例如，【（2014）渝一中法刑终字第00461号】中，被告蔡龙虽有上交行为，但因上交时间与实际不符，有逃避法律追究之嫌，故该2万元属于受贿范围。\n\n综上，国家工作人员执行上级违法指令后未上交款项是否构成贪污罪，关键在于是否利用职务便利、主观故意以及是否实施了非法占有公共财物的行为。即使有上交行为，如果上交时间、动机存在疑点，仍可能构成犯罪。\n\n#####\n类似案件为：\n【（2014）丹刑初字第267号】：法院生效裁判认为：被告人丰某洪身为国家工作人员，利用职务上的便利，非法收受他人财物，为他人谋取利益，其行为已触犯刑法，构成受贿罪，依法应予刑罚处罚。\n关于辩护人提出被告人丰某洪在案发前主动退还的部分不应当作为受贿指控的辩护意见，《最高人民法院、最高人民检察院关于办理受贿刑事案件适用法律若干问题的意见》规定：“国家工作人员收受请托人财物后及时退还或者上交的，不是受贿。”适用该条款，应当结合刑法关于受贿罪的构成要件准确理解和把握。根据我国刑法规定，受贿罪侵犯的主要是国家工作人员职务行为的廉洁性和不可收买性，其中行为人主观上具有受贿故意是受贿罪的构成要件之一，缺乏该要件，则不构成受贿罪。\n据此，上述司法解释中关于“收受请托人财物后及时退还或者上交的，不是受贿”的规定，应当是指行为人客观上虽然收受了他人财物，但主观上没有受贿故意的情形。行为人是否及时退还或上交所收财物，只是判断行为人是否具有受贿故意的一个重要参考依据。行为人收受贿赂行为已经完成，后虽于案发前退还或上交所收财物，但是综合全案事实足以认定其收受财物时即具有受贿故意的，不影响受贿罪的认定。本案中，被告人丰某洪明知他人系因其负有对全市福利企业资格进行审查、年检、抽查等监管职责而向其赠送钱财，仍将财物占为己有并为他人谋取利益，受贿故意明显，已经构成受贿罪既遂。被告人收受相关人员的贿赂均长达数年，直到2012年下半年才因迫于法律的威严等原因陆续退还了一部分，不符合司法解释中规定的“及时退还”情形。因此，法院对辩护人的上述辩护意见不予支持。\n被告人丰某洪到案后，主动交待了办案单位不掌握的线索针对的全部犯罪事实，以自首论，可以从轻或者减轻处罚。被告人丰某洪已退出全部赃款，可以酌情从轻处罚。鉴于被告人丰某洪有自首情节，且案发前主动退赃，能真诚悔罪，可以减轻处罚。",
+            "共同贪污犯罪中从犯的认定标准": "### 结论\n在共同贪污犯罪中，从犯的认定需综合考虑犯意的形成、犯罪的共谋、是否参与了全部犯罪活动、是否实施了实行行为、实行行为在整个犯罪构成要件中的关键程度和所起的作用、危害后果的发生与其实行行为的关联程度、分赃情况等因素。非特殊主体与特殊主体共同犯罪时，非特殊主体只能是组织犯、帮助犯或者教唆犯，而不能是实行犯。在无法区分主从犯或存在多个主犯时，以主犯性质定罪的原则适用。\n\n### 核心法条\n- **《刑法》第25条第1款**：共同犯罪是指二人以上共同故意犯罪。\n- **《刑法》第382条第3款**：与具备贪污罪主体资格的人勾结，伙同贪污的，以共犯论处。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯意的形成与共谋**：在【（2019）鲁1521刑初35号】中，侯某与赵某共谋，利用不规范单据套取单位资金，体现了犯意的形成与共谋。在【（2019）苏0830刑初251号】中，武辉与其他人员勾结，共同实施贪污犯罪，体现了共同犯罪的共谋。\n- **犯罪行为的实施与作用**：在【（2019）苏0830刑初242号】中，赵永法在贪污犯罪中起次要作用，系从犯，体现了犯罪行为实施与作用的考量。在【（2019）苏0830刑初251号】中，武辉在共同贪污犯罪中起次要作用，系从犯，体现了犯罪行为实施与作用的考量。\n- **危害后果与实行行为的关联**：在【（2019）苏0830刑初242号】中，赵永法的贪污行为与危害后果的关联程度，以及在共同犯罪中的作用，是认定从犯的重要因素。\n- **分赃情况**：在【（2019）鲁1521刑初35号】中，侯某与赵某的分赃情况，侯某分得较少，是认定从犯的考量因素之一。\n\n综上，共同贪污犯罪中从犯的认定需综合考虑犯意形成、共谋、犯罪行为实施与作用、危害后果与实行行为的关联以及分赃情况等多方面因素。非特殊主体与特殊主体共同犯罪时，非特殊主体只能是组织犯、帮助犯或教唆犯，而不能是实行犯。在共同犯罪中，无法区分主从犯或存在多个主犯时，通常以主犯性质定罪的原则适用。\n\n#####\n类似案件为：\n【（2019）鲁1521刑初35号】：法院认为，侯某作为国家工作人员，伙同赵某，利用职务便利，共同骗取公共财物，贪污数额巨大，其行为构成贪污罪。侯某与赵某通过商议和实际行动共同实施贪污行为，系共同犯罪，作用相当，不宜区分主从犯。侯某到案后坦白，自愿认罪，退还全部赃款，系初犯，社会危害性不大，一贯表现良好，无犯罪前科，依法可从轻处罚。一、被告人侯某犯贪污罪，判处有期徒刑三年，缓刑四年；并处罚金人民币二十万元。\n（缓刑考验期自判决确定之日起计算，已向本院缴纳财产刑保证金二十万元）\n二、违法所得38000元依法返还某县人民检察院。\n【（2019）苏0830刑初251号】：法院认为，武辉与其他从事公务的人员勾结，骗取公共财物，数额巨大；利用职务便利，非法收受他人财物，为他人谋取利益，数额较大，其行为已构成贪污罪与非国家工作人员受贿罪。武辉在共同贪污犯罪中系从犯，应从轻或减轻处罚；归案后如实供述罪行，可从轻处罚；在提起公诉前如实供述、真诚悔罪、积极退赃，可从轻处罚；自愿认罪认罚，可从宽处理；退出全部赃款，可酌情从轻处罚。一、被告人武辉犯贪污罪，判处有期徒刑四年，并处罚金人民币三十万元；犯非国家工作人员受贿罪，判处有期徒刑一年，两罪并罚，决定执行有期徒刑四年十个月，并处罚金人民币三十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月30日起至2024年2月28日止。罚金已缴纳。）\n二、对被告人武辉退出的违法所得人民币500824.88元予以追缴，上缴国库。\n【（2019）苏0830刑初242号】：法院认为，赵永法作为依照法律从事公务的人员，在协助政府拆迁中，利用职务便利，骗取公款，数额巨大，构成贪污罪；非法收受他人财物，为他人谋利，数额较大，构成受贿罪；为谋不正当利益，给予其他单位工作人员财物，数额较大，构成对非国家工作人员行贿罪；滥用职权，致公产重大损失，构成滥用职权罪。赵永法在共同贪污犯罪中，分别为主犯、从犯，从犯应从轻或减轻处罚；如实供述未掌握的罪行，构成自首；归案后如实交代贪污犯罪，构成坦白；被追诉前主动交代行贿行为，可减轻处罚；真诚悔罪、积极退赃，可从轻处罚；认罪认罚，可从宽处罚；有立功表现，可从轻或减轻处罚；退出部分赃款，可酌情从轻处罚。一、被告人赵永法犯贪污罪，判处有期徒刑六年八个月，并处罚金人民币五十万元；犯受贿罪，判处有期徒刑一年，并处罚金人民币十万元；犯对非国家工作人员行贿罪，判处有期徒刑八个月；犯滥用职权罪，判处有期徒刑一年二个月；数罪并罚，决定执行有期徒刑九年，并处罚金人民币六十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月21日起至2028年2月20日止。罚金于判决生效后五日内缴纳。）\n二、对被告人赵永法退出的违法所得人民币70万元予以追缴，上缴国库；对剩余的违法所得人民币697793.84元依法予以继续追缴。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.针对\"以工代赈\"项目资金60000元，向被告人说明该款项系执行领导指示，可主张缺乏非法占有故意。2.关于征地补偿款部分，告知被告人张某证言存在矛盾，可提出其非主导犯罪的辩解。3.对于公路奖补资金25000元，提醒被告人村委会人员证言存在利害关系，可质疑证明力。4.要求被告人当庭如实陈述已全额退赃事实，强调社会危害性已降低。5.指导被告人保持良好认罪态度，如实供述犯罪事实，争取从轻处罚。6.建议被告人陈述在职期间工作表现，争取酌情从宽处理。",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人游某甲是否构成贪污罪。查明情况：被告人已对主要犯罪事实供认不讳，承认利用职务便利侵吞、骗取公共财物，符合贪污罪构成要件。审判长认为犯罪事实清楚，证据充分。\n\n2.关于\"以工代赈\"项目资金60000元的责任认定。查明情况：被告人辩称受凌书记指示，但未能提供书面证据；实际将资金转入个人账户并用于个人开支。审判长认为被告人应承担主要责任。\n\n3.关于征地补偿款150653元的共同犯罪责任划分。查明情况：张某提出虚报方案并负责具体操作，被告人提供账户配合。审判长认为二人构成共同犯罪，但需进一步查明主从犯关系。\n\n4.关于公路奖补资金25000元的骗取行为。查明情况：被告人承认谎称争取项目资金并实际占有款项。审判长认为该部分犯罪事实清楚。\n\n5.被告人的量刑情节。查明情况：被告人已全额退赃，认罪认罚，如实供述。审判长认为具有法定从轻处罚情节。\n\n6.赃款去向及退赔情况。查明情况：被告人已退缴全部赃款235653元，来源为家庭积蓄。审判长认为退赔已完成。\n\n7.共同犯罪中张某的作用。查明情况：张某作为常务副乡长主导虚报材料，但需进一步核实具体分工。审判长认为需补充调查。\n\n8.被告人的认罪态度。查明情况：被告人当庭表示深刻悔过，愿意接受法律制裁。审判长认为认罪态度良好。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条",
+              "中华人民共和国刑法第二十五条",
+              "中华人民共和国刑法第二十七条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。",
+            "中华人民共和国刑法第二十五条": "共同犯罪是指二人以上共同故意犯罪。二人以上共同过失犯罪，不以共同犯罪论处；应当负刑事责任的，按照他们所犯的罪分别处罚。",
+            "中华人民共和国刑法第二十七条": "在共同犯罪中起次要或者辅助作用的，是从犯。对于从犯，应当从轻、减轻处罚或者免除处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国家工作人员利用职务便利侵吞公共财物但辩称执行领导指示的案例",
+              "共同贪污犯罪中主从犯认定的标准",
+              "贪污罪中全额退赃对量刑的影响"
+            ],
+            "国家工作人员利用职务便利侵吞公共财物但辩称执行领导指示的案例": "### 结论\n在国家工作人员利用职务便利侵吞公共财物的案件中，辩称执行领导指示并非必然构成贪污罪的免责理由。法院会综合考虑行为人的具体身份、是否利用职务便利、是否为公共财物、以及行为的性质和后果等因素，来判断是否构成贪污罪。如果行为人能够证明其行为是在领导合法指示下进行，且没有个人非法占有的目的，可能会影响量刑，但通常不会改变贪污罪的定性。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条第一款**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第三百八十三条第一款**：对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的具体身份**：如果行为人是国家工作人员，且利用了职务便利，即使辩称执行领导指示，也难以免除贪污罪的刑事责任。例如，【（2015）高刑终字第102号】中，被告人肖绍祥身为国家工作人员，利用职务便利侵吞公共财物，其辩解称执行领导指示并未被法院采纳。\n- **是否利用职务便利**：利用职务便利是构成贪污罪的关键要素。如果行为人能够证明其行为是在领导合法指示下进行，且没有个人非法占有的目的，可能会影响量刑。然而，大多数案例中，即使行为人辩称执行领导指示，法院仍会根据证据判断是否构成利用职务便利。\n- **是否为公共财物**：侵吞的财物必须是公共财物，即国家、集体所有的财物。如果行为人辩称执行领导指示，但侵吞的是个人或私有企业的财物，不构成贪污罪。然而，案例中通常涉及的是公共财物，因此这一因素在案例中较少作为争议点。\n- **行为的性质和后果**：即使行为人辩称执行领导指示，法院仍会根据行为的性质和后果，包括侵吞财物的数额、是否造成严重后果等，来判断是否构成贪污罪。例如，【（2019）沪0105刑初740号】中，被告人曹立仁利用职务便利侵吞公共财物，数额巨大，即使辩称执行领导指示，仍被认定构成贪污罪。\n\n综上，辩称执行领导指示在贪污罪的定性中并非决定性因素，法院会综合考虑行为人的身份、是否利用职务便利、侵吞财物的性质和后果等多方面因素，来判断是否构成贪污罪。\n\n#####\n类似案件为：\n【（2019）沪0105刑初740号】：法院认为，被告人曹立仁身为国家工作人员，利用职务便利，侵吞公共财物，其行为构成贪污罪；利用职务便利，非法收受他人财物，为他人谋取利益，其行为构成受贿罪。曹立仁的贪污行为主观恶性明显，辩护人对此的辩护意见不予采纳。曹立仁对收受的财物具有一定的认识，检察机关以他人支付的对价作为受贿数额的认定合理。辩护人关于物品性质的辩解不予采纳。曹立仁利用职务便利收受王1的款项，符合受贿罪特征，辩护人关于参与经营的辩护意见与事实不符。一、被告人曹立仁犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元；犯受贿罪，判处有期徒刑九年六个月，并处罚金人民币五十万元。决定执行有期徒刑十一年，并处罚金人民币七十万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月27日起至2030年2月26日止。罚金于本判决发生法律效力第二日起一个月内向本院缴纳完毕。)\n二、违法所得人民币一百四十二万四千一百一十五元发还上海市长宁区人民政府；违法所得人民币二百二十八万五千八百八十五元以及滇西小景图一幅、象牙二根及牙雕一件予以没收。责令被告人曹立仁退赔其余违法所得人民币一百九十三万二千四百一十五元后予以没收。",
+            "共同贪污犯罪中主从犯认定的标准": "### 结论\n在共同贪污犯罪中，主从犯的认定主要依据各被告人在犯罪中的地位、作用以及对犯罪结果的原因力大小。直接实施贪污行为、提出犯意、策划犯罪、起主导作用的，通常认定为主犯；而受他人指使、参与程度较低、作用较小的，通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第二十五条第一款**：共同犯罪是指二人以上共同故意犯罪。\n- **《中华人民共和国刑法》第二十六条第一款**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n- **《中华人民共和国刑法》第二十七条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪中的地位和作用**：直接实施贪污行为、提出犯意、策划犯罪、起主导作用的，通常认定为主犯。例如，【（2019）粤0703刑初74号】中，被告人罗某在套取工程款的共同贪污犯罪中起次要辅助作用，被认定为从犯。\n- **犯意的提出**：犯意的提出者在共同犯罪中通常起主导作用，如【（2020）京03刑终148号】中，何某为使国家公务员考试竞争对手受到行政处罚，找到肖某并指使其投毒、举报，何某被认定为主犯。\n- **犯罪行为的实施**：直接实施犯罪行为的，如投毒、套取资金等，通常认定为主犯，如【（2020）京03刑终148号】中的肖某。\n- **犯罪结果的原因力**：对犯罪结果的原因力较大的，通常认定为主犯。如【（2019）鲁1521刑初35号】中，侯某和赵某共同骗取单位资金，二人作用相当，不宜区分主从犯。\n- **分赃情况**：分赃情况也是判断主从犯的一个因素，如【（2019）苏0830刑初242号】中，赵永法在与薛坤等人共同实施贪污犯罪过程中，起次要作用，系从犯。\n\n综上，共同贪污犯罪中主从犯的认定，主要依据各被告人在犯罪中的地位、作用、犯意的提出、犯罪行为的实施以及对犯罪结果的原因力大小。直接实施犯罪行为、提出犯意、策划犯罪、起主导作用的，通常认定为主犯；而受他人指使、参与程度较低、作用较小的，通常认定为从犯。\n\n#####\n类似案件为：\n【（2019）粤0703刑初74号】：法院认为，罗某身为国家机关工作人员，滥用职权，致国家利益遭受重大损失，构成滥用职权罪；利用职务便利，伙同他人非法侵吞公款，数额巨大，构成贪污罪。罗某在套取工程款贪污犯罪中是从犯，有立功表现，如实供述罪行，部分贪污所得已追缴，可从轻或减轻处罚。一、被告人罗某犯滥用职权罪，判处有期徒刑二年六个月；犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币20万元；总和刑期有期徒刑五年，并处罚金人民币20万元。数罪并罚，决定执行有期徒刑四年六个月，并处罚金人民币20万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年12月15日起至2021年6月14日止。罚金限判决生效后十日内予以缴纳。）\n 二、追缴被告人罗某与同案人共同贪污所得公款人民币205.8万元，上缴国库。\n 三、扣押于侦查机关的被告人罗某的退缴款项人民币41.88万元，由扣押单位依照被告人罗某在本案中的犯罪所得及其他同案人的退赃情况，依法予以处理。\n【（2020）京03刑终148号】：法院生效裁判认为，被告人何某与被告人肖某合谋后，由肖某将毒品放入被害人曲某水杯中并确保其喝下，二人的行为均已构成欺骗他人吸毒罪，且系共同犯罪。在案的被告人供述、证人证言、手机微信聊天记录等证据能够证明，何某为使国家公务员考试竞争对手曲某受到行政处罚，找到肖某，并指使肖某投毒、匿名举报曲某，何某积极追求危害结果的发生，在案无证据证明何某在实施上述行为时缺乏辨认和控制自己行为的能力。\n在欺骗他人吸毒共同犯罪中，作为犯意提出者的被告人何某在实施犯罪前以应聘为由曾前往被害人的工作单位，向被害人曲某同事了解其民族、工作表现等情况，后找到被告人肖某，给付肖某报酬安排何某实施投毒、举报等行为。何某虽然未直接实施投毒行为，但其为共同犯罪人向肖某提供资金购买毒品，安排车辆，并指使肖某匿名举报曲某等行为，表明其积极追求犯罪结果并策划、安排整起投毒事件，对本案的发生起到主要作用，应为主犯。肖某虽系受人指使，但其在犯罪过程中积极参与并实施了共谋、购毒、投毒等行为，对于犯罪的实施起到了重要作用，其所实施的投毒行为直接导致了曲某在不知情的情况下吸食毒品的犯罪结果，故同样为主犯。二被告人无视国法，合谋欺骗他人吸食毒品，二人的行为均已构成欺骗他人吸毒罪，且均系共同犯罪的主犯。\n【（2020）京03刑终148号】：法院生效裁判认为，被告人何某与被告人肖某合谋后，由肖某将毒品放入被害人曲某水杯中并确保其喝下，二人的行为均已构成欺骗他人吸毒罪，且系共同犯罪。在案的被告人供述、证人证言、手机微信聊天记录等证据能够证明，何某为使国家公务员考试竞争对手曲某受到行政处罚，找到肖某，并指使肖某投毒、匿名举报曲某，何某积极追求危害结果的发生，在案无证据证明何某在实施上述行为时缺乏辨认和控制自己行为的能力。\n在欺骗他人吸毒共同犯罪中，作为犯意提出者的被告人何某在实施犯罪前以应聘为由曾前往被害人的工作单位，向被害人曲某同事了解其民族、工作表现等情况，后找到被告人肖某，给付肖某报酬安排何某实施投毒、举报等行为。何某虽然未直接实施投毒行为，但其为共同犯罪人向肖某提供资金购买毒品，安排车辆，并指使肖某匿名举报曲某等行为，表明其积极追求犯罪结果并策划、安排整起投毒事件，对本案的发生起到主要作用，应为主犯。肖某虽系受人指使，但其在犯罪过程中积极参与并实施了共谋、购毒、投毒等行为，对于犯罪的实施起到了重要作用，其所实施的投毒行为直接导致了曲某在不知情的情况下吸食毒品的犯罪结果，故同样为主犯。二被告人无视国法，合谋欺骗他人吸食毒品，二人的行为均已构成欺骗他人吸毒罪，且均系共同犯罪的主犯。",
+            "贪污罪中全额退赃对量刑的影响": "### 结论\n全额退赃在贪污罪的量刑中通常被视为一个重要的从轻或减轻处罚的情节，但是否适用缓刑还需综合考虑犯罪数额、犯罪性质、悔罪表现等其他因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条**：规定了贪污罪的量刑标准，其中提及了退赃情节可以作为从轻处罚的考量因素。\n- **《中华人民共和国刑法》第六十七条第一款**：规定了自首可以从轻或减轻处罚。\n- **《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款**：对贪污罪数额巨大情形的量刑提供了指导。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **全额退赃**：全额退赃通常被视为犯罪人悔罪的体现，可以作为从轻处罚的情节。例如，【（2019）苏0382刑初60号】、【（2020）桂14刑终26号】、【（2020）沪0116刑初1113号】中，法院均认为全额退赃可以作为从轻处罚的考量因素。\n- **自首情节**：自首与全额退赃结合，可以显著减轻处罚。如【（2020）桂14刑终26号】中，陈某萃因自首和全额退赃，法院决定对其从轻处罚。\n- **犯罪数额和性质**：即使全额退赃，如果犯罪数额巨大或犯罪性质恶劣，法院可能不会适用缓刑。例如，【（2020）苏0812刑初368号】中，尽管杨伟全额退赃，但因其贪污数额巨大，法院认为不宜适用缓刑。\n\n综上，全额退赃在贪污罪的量刑中通常会作为从轻处罚的情节被考虑，但是否适用缓刑还需综合考虑犯罪的具体情节，包括犯罪数额、性质、自首情节以及犯罪人的悔罪表现等。\n\n#####\n类似案件为：\n【（2019）苏0382刑初60号】：法院认为，被告人冯翔身为国家工作人员，利用职务上的便利，侵吞公共财物，数额巨大，其行为构成贪污罪。冯翔主动投案，如实供述自己的罪行，系自首，依法可从轻或者减轻处罚；退还全部违法所得，酌定从轻处罚。案发前退交的赃款不影响犯罪数额的认定，但可作为量刑情节酌定从轻处罚。被告人多次侵吞公共财物，数额巨大，社会危害性大，不符合缓刑适用条件。一、被告人冯翔犯贪污罪，判处有期徒刑二年六个月，并处罚金人民币二十万元。\n\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年9月10日起至2021年3月9日。罚金于判决生效之日起三十日内缴纳。）\n\n二、对被告人冯翔违法所得予以没收。\n【（2020）沪0116刑初1113号】：法院认为，被告人冯某以非法占有为目的，骗取他人财物，数额较大，构成诈骗罪。鉴于冯某认罪认罚，如实供述罪行，全额退赃，可从轻处罚并适用缓刑。被告人冯某犯诈骗罪，判处有期徒刑二年，缓刑二年，并处罚金人民币一万元。\n(缓刑考验期限自判决确定之日起计算；罚金于判决生效之日起一个月内缴纳。)\n冯某回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。\n【（2020）苏0812刑初368号】：法院认为，被告人杨伟身为国家工作人员，利用职务便利，骗取公款，数额巨大，其行为构成贪污罪。鉴于杨伟归案后如实供述罪行，认罪认罚，全部退赃，依法予以从轻处罚。杨伟系事业单位工作人员，履行管理职责，应认定为国家工作人员，其贪污行为不适用缓刑。被告人杨伟犯贪污罪，判处有期徒刑三年，并处罚金人民币二十万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年5月13日起至2023年5月12日止，罚金于判决生效后十日内向本院缴纳）"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人游某甲是否构成贪污罪。查明情况：被告人已对主要犯罪事实供认不讳，承认利用职务便利侵吞、骗取公共财物，符合贪污罪构成要件。审判长认为犯罪事实清楚，证据充分。\n\n2.关于\"以工代赈\"项目资金60000元的责任认定。查明情况：被告人辩称受凌书记指示，但未能提供书面证据；实际将资金转入个人账户并用于个人开支。审判长认为被告人应承担主要责任。\n\n3.关于征地补偿款150653元的共同犯罪责任划分。查明情况：张某提出虚报方案并负责具体操作，被告人提供账户配合。审判长认为二人构成共同犯罪，但需进一步查明主从犯关系。\n\n4.关于公路奖补资金25000元的骗取行为。查明情况：被告人承认谎称争取项目资金并实际占有款项。审判长认为该部分犯罪事实清楚。\n\n5.被告人的量刑情节。查明情况：被告人已全额退赃，认罪认罚，如实供述。审判长认为具有法定从轻处罚情节。\n\n6.赃款去向及退赔情况。查明情况：被告人已退缴全部赃款235653元，来源为家庭积蓄。审判长认为退赔已完成。\n\n7.共同犯罪中张某的作用。查明情况：张某作为常务副乡长主导虚报材料，但需进一步核实具体分工。审判长认为需补充调查。\n\n8.被告人的认罪态度。查明情况：被告人当庭表示深刻悔过，愿意接受法律制裁。审判长认为认罪态度良好。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百八十二条",
+              "中华人民共和国刑法第三百八十三条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。",
+            "中华人民共和国刑法第三百八十三条": "对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。对多次贪污未经处理的，按照累计贪污数额处罚。犯第一款罪，在提起公诉前如实供述自己罪行、真诚悔罪、积极退赃，避免、减少损害结果的发生，有第一项规定情形的，可以从轻、减轻或者免除处罚；有第二项、第三项规定情形的，可以从轻处罚。犯第一款罪，有第三项规定情形被判处死刑缓期执行的，人民法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满依法减为无期徒刑后，终身监禁，不得减刑、假释。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "贪污罪数额巨大且全额退赃的案例判决情况",
+              "贪污罪共同犯罪中主从犯的认定标准",
+              "贪污罪适用缓刑的条件"
+            ],
+            "贪污罪数额巨大且全额退赃的案例判决情况": "### 结论\n全额退赃是贪污罪数额巨大案件中影响判决的重要因素，法院通常会考虑这一情节对被告人从轻或减轻处罚，但是否适用缓刑则需综合考虑犯罪数额、犯罪情节、认罪态度、自首、立功等其他因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十三条**：规定了贪污罪的量刑标准，其中数额巨大并有其他较重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或者减轻处罚，其中犯罪较轻的，可以免除处罚。\n- **《中华人民共和国刑法》第六十八条**：规定了立功可以从轻或者减轻处罚，有重大立功表现的，可以减轻或者免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **全额退赃**：全额退赃是法院在量刑时考虑的重要情节，表明被告人有悔罪表现，可以作为从轻处罚的依据。例如，【（2020）粤1322刑初950号】中，被告人胡小冬全额退赃，法院认为其有悔罪表现，依法可对其从轻处罚，适用缓刑。\n- **犯罪数额**：犯罪数额是决定是否适用缓刑的关键因素之一。在【（2020）苏0812刑初368号】中，尽管被告人杨伟全额退赃，但因其贪污数额巨大，且多次作案，法院认为不宜适用缓刑。\n- **自首与立功**：自首和立功是法院在量刑时考虑的重要情节，可以作为从轻或减轻处罚的依据。在【（2020）桂14刑终26号】中，被告人陈某萃主动投案自首，且在被羁押期间协助侦破重大案件，法院认为其具有法定和酌定从轻、减轻处罚情节，决定对其从轻处罚，但不适用缓刑。\n\n综上，全额退赃是贪污罪数额巨大案件中影响判决的重要因素，但是否适用缓刑需综合考虑犯罪数额、自首、立功等其他情节。全额退赃通常会作为从轻处罚的依据，但在犯罪数额特别巨大或有其他严重情节时，法院可能不会适用缓刑。\n\n#####\n类似案件为：\n【（2020）粤1322刑初950号】：法院认为，被告人胡小冬作为国家工作人员，利用职务上的便利，通过红冲系统虚假抵税、套打税票的方式，非法截留并占为己有纳税人缴纳的税款，数额达151132.87元，构成贪污罪。胡小冬利用职务便利擅自留抵税款186159.97元，其中35027.1元未遂。胡小冬自首，自愿认罪认罚，贪污的赃款已全数退还，依法可从轻处罚，适用缓刑。被告人胡小冬犯贪污罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币30000元（缓刑考验期限，从判决确定之日起计算。罚金限在本判决发生法律效力后30日内向本院交纳，上缴国库）。\n【（2020）苏0812刑初368号】：法院认为，被告人杨伟身为国家工作人员，利用职务便利，骗取公款，数额巨大，其行为构成贪污罪。鉴于杨伟归案后如实供述罪行，认罪认罚，全部退赃，依法予以从轻处罚。杨伟系事业单位工作人员，履行管理职责，应认定为国家工作人员，其贪污行为不适用缓刑。被告人杨伟犯贪污罪，判处有期徒刑三年，并处罚金人民币二十万元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年5月13日起至2023年5月12日止，罚金于判决生效后十日内向本院缴纳）",
+            "贪污罪共同犯罪中主从犯的认定标准": "### 结论\n在贪污罪共同犯罪中，主从犯的认定主要依据各共犯人在犯罪中的作用、地位、犯罪行为的关键程度、对犯罪结果的原因力大小以及犯罪收益的分配情况。具体而言，提出犯意、起主要作用、实施关键犯罪行为、对犯罪结果有重大影响、分得较多犯罪收益的，通常认定为主犯；反之，起次要或辅助作用、实施非关键犯罪行为、对犯罪结果影响较小、分得较少犯罪收益的，通常认定为从犯。\n\n### 核心法条\n- **《中华人民共和国刑法》第25条第1款**：共同犯罪是指二人以上共同故意犯罪。\n- **《中华人民共和国刑法》第27条**：在共同犯罪中起次要或者辅助作用的，是从犯。\n- **《中华人民共和国刑法》第26条**：组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪起因和犯意的提出**：谁是起意者，提出犯意并主导犯罪进程的通常认定为主犯。例如，【（2019）苏0830刑初242号】中，赵永法在与他人共同实施贪污犯罪过程中，起主要作用，系主犯。\n- **犯罪实施阶段的作用**：在犯罪实施阶段，实施关键犯罪行为、对犯罪结果有重大影响的，通常认定为主犯。例如，【（2019）闽0821刑初57号】中，郭熔年伙同他人共同贪污，作用相当，无主从犯之分。\n- **犯罪收益的分配情况**：犯罪收益的分配情况也是认定主从犯的重要因素，分得较多犯罪收益的，通常认定为主犯。例如，【（2019）鲁1521刑初35号】中，侯某和赵某共同贪污，虽未区分主从犯，但根据各自分得的赃款数额，可以判断其在犯罪中的作用。\n- **犯罪行为对犯罪结果的原因力**：对犯罪结果的原因力较大的，通常认定为主犯。例如，【（2014）鄂咸安刑初字第340号】中，董金山在贪污罪的共同犯罪中起主要作用，是主犯；刘纯根起次要作用，是从犯。\n\n综上，贪污罪共同犯罪中主从犯的认定，需要综合考虑犯罪起因、犯罪实施阶段的作用、犯罪收益的分配情况以及犯罪行为对犯罪结果的原因力大小，以确定各共犯人在犯罪中的作用和地位。\n\n#####\n类似案件为：\n【（2019）苏0830刑初242号】：法院认为，赵永法作为依照法律从事公务的人员，在协助政府拆迁中，利用职务便利，骗取公款，数额巨大，构成贪污罪；非法收受他人财物，为他人谋利，数额较大，构成受贿罪；为谋不正当利益，给予其他单位工作人员财物，数额较大，构成对非国家工作人员行贿罪；滥用职权，致公产重大损失，构成滥用职权罪。赵永法在共同贪污犯罪中，分别为主犯、从犯，从犯应从轻或减轻处罚；如实供述未掌握的罪行，构成自首；归案后如实交代贪污犯罪，构成坦白；被追诉前主动交代行贿行为，可减轻处罚；真诚悔罪、积极退赃，可从轻处罚；认罪认罚，可从宽处罚；有立功表现，可从轻或减轻处罚；退出部分赃款，可酌情从轻处罚。一、被告人赵永法犯贪污罪，判处有期徒刑六年八个月，并处罚金人民币五十万元；犯受贿罪，判处有期徒刑一年，并处罚金人民币十万元；犯对非国家工作人员行贿罪，判处有期徒刑八个月；犯滥用职权罪，判处有期徒刑一年二个月；数罪并罚，决定执行有期徒刑九年，并处罚金人民币六十万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月21日起至2028年2月20日止。罚金于判决生效后五日内缴纳。）\n二、对被告人赵永法退出的违法所得人民币70万元予以追缴，上缴国库；对剩余的违法所得人民币697793.84元依法予以继续追缴。\n【（2019）闽0821刑初57号】：法院认为，郭熔年伙同他人利用吴某1及卢某2的职务便利，采取入侵国有龙潭煤矿盗采煤炭手段共同侵吞、窃取公共财物，数额特别巨大，其行为已构成贪污罪。郭熔年主动投案，如实供述罪行，退出个人全部非法所得，预缴部分罚金，可以从轻或减轻处罚。一、被告人郭熔年犯贪污罪，判处有期徒刑五年六个月，并处罚金人民币二十八万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月3日起至2024年7月2日止。罚金限于判决生效后三日内缴纳。）\n 二、被告人郭熔年退出的非法所得人民币三十万二千三百六十六元，已预缴罚金人民币八万元予以没收，上缴国库（判决生效后，由上述暂扣机关执行）。\n【（2019）鲁1521刑初35号】：法院认为，侯某作为国家工作人员，伙同赵某，利用职务便利，共同骗取公共财物，贪污数额巨大，其行为构成贪污罪。侯某与赵某通过商议和实际行动共同实施贪污行为，系共同犯罪，作用相当，不宜区分主从犯。侯某到案后坦白，自愿认罪，退还全部赃款，系初犯，社会危害性不大，一贯表现良好，无犯罪前科，依法可从轻处罚。一、被告人侯某犯贪污罪，判处有期徒刑三年，缓刑四年；并处罚金人民币二十万元。\n（缓刑考验期自判决确定之日起计算，已向本院缴纳财产刑保证金二十万元）\n二、违法所得38000元依法返还某县人民检察院。",
+            "贪污罪适用缓刑的条件": "### 结论\n贪污罪适用缓刑的条件主要包括：犯罪数额较小，犯罪情节较轻，认罪态度好，积极退赃，有悔罪表现，没有再犯罪的危险，宣告缓刑对所居住社区没有重大不良影响。但若犯罪数额巨大，犯罪情节严重，或者有其他不适用缓刑的情形，如造成重大损失、影响恶劣、不退赃或退赃不积极、犯罪动机手段恶劣、曾因职务犯罪受过处罚等，则一般不适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额较小，且犯罪情节较轻的，适用缓刑的可能性较大。例如，【（2019）苏0921刑初69号】中，被告人贪污公款5万元，在提起公诉前已全部退出，结合其认罪悔罪表现，适用了缓刑。\n- **认罪态度和退赃情况**：认罪态度好，积极退赃，有悔罪表现的，适用缓刑的可能性较大。例如，【（2019）鲁1302刑初1715号】中，四被告人归案后均坦白认罪、涉案款项已全部上缴，积极缴纳罚金，故对四被告人均可从轻处罚并适用缓刑。\n- **犯罪情节**：犯罪情节较轻，没有造成重大损失或恶劣影响的，适用缓刑的可能性较大。例如，【（2019）鲁1302刑初1715号】中，四被告人所起作用相对较小，犯罪情节较轻，故适用了缓刑。\n- **社会影响**：宣告缓刑对所居住社区没有重大不良影响的，适用缓刑的可能性较大。例如，【（2019）鲁1302刑初1715号】中，经委托兰山区司法局对四被告人所居社区的影响进行评估，评估意见为四被告人均对所居住社区无不良影响，故适用了缓刑。\n\n综上，贪污罪适用缓刑需综合考虑犯罪数额、认罪态度、退赃情况、犯罪情节以及社会影响等多方面因素，其中犯罪数额较小、认罪态度好、积极退赃、犯罪情节较轻、对社区无重大不良影响是适用缓刑的关键因素。但若犯罪数额巨大、情节严重、造成重大损失或恶劣影响、不退赃或退赃不积极、犯罪动机手段恶劣、曾因职务犯罪受过处罚等，则一般不适用缓刑。\n\n#####\n类似案件为：\n【（2019）苏0921刑初69号】：法院认为，谷军作为国家机关委派到非国有公司从事公务的人员，利用职务上的便利，采取虚报手段非法占有公共财物，数额较大；挪用公款数额较大、进行营利活动，构成贪污罪和挪用公款罪。谷军在提起公诉前如实供述自己的罪行，在案发前已归还挪用公款全部款项，其所犯挪用公款罪情节轻微，可以免予刑事处罚。谷军贪污公款5万元，在审查期间已全部退出，结合其认罪悔罪表现，可以适用缓刑。一、被告人谷军犯挪用公款罪，免予刑事处罚；犯贪污罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币十万元，数罪并罚，决定执行有期徒刑六个月，缓刑一年，并处罚金人民币十万元（已缴纳）。\n 缓刑考验期限，从判决确定之日起计算。\n 二、涉案赃款人民币五万元，予以没收，由响水县人民检察院上缴国库。\n【（2019）鲁1302刑初1715号】：法院认为，被告人郑朋伟、王学海、郑海元、夏立桂利用协助政府从事土地征用补偿费用管理工作的职务之便，骗取公共财物，数额较大，其行为构成贪污罪，构成共同犯罪。四被告人均坦白认罪、涉案款项已全部上缴，积极缴纳罚金，对四被告人均可从轻处罚，并适用缓刑。一、被告人郑朋伟犯贪污罪，判处有期徒刑一年，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 被告人王学海犯贪污罪，判处有期徒刑一年，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 被告人郑海元犯贪污罪，判处有期徒刑一年，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 被告人夏立桂犯贪污罪，判处有期徒刑十一个月，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 二、四被告人所退赃款人民币99645元，上缴国库。\n【（2019）鲁1302刑初1715号】：法院认为，被告人郑朋伟、王学海、郑海元、夏立桂利用协助政府从事土地征用补偿费用管理工作的职务之便，骗取公共财物，数额较大，其行为构成贪污罪，构成共同犯罪。四被告人均坦白认罪、涉案款项已全部上缴，积极缴纳罚金，对四被告人均可从轻处罚，并适用缓刑。一、被告人郑朋伟犯贪污罪，判处有期徒刑一年，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 被告人王学海犯贪污罪，判处有期徒刑一年，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 被告人郑海元犯贪污罪，判处有期徒刑一年，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 被告人夏立桂犯贪污罪，判处有期徒刑十一个月，缓刑二年，并处罚金人民币十万元（缓刑考验期限从判决确定之日起计算。罚金已缴纳）；\n 二、四被告人所退赃款人民币99645元，上缴国库。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 200000.0,
+    "reprieve": 0.0
+  }
+]

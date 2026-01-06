@@ -1,0 +1,1719 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，男，汉族，XXX文化程度，户籍XXXXX。因涉嫌犯销售假药罪，于2018年9月28日被吉林省梨树县人民检察院提起公诉。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "吉林省梨树县人民检察院  \n起 诉 书  \n\n梨检刑检刑诉〔2018〕250号  \n\n被告人黄某，男，汉族，XXX文化程度，户籍XXXXX。因涉嫌犯销售假药罪，于2018年9月28日被吉林省梨树县人民检察院提起公诉。  \n\n本案由吉林省梨树县人民检察院侦查终结，以被告人黄某涉嫌销售假药罪，于2018年9月28日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年6月至2017年春，被告人黄某从一个无资质手续、无进货记录的自称叫张某的人手中以每盒5元钱的价格购进药品百痛消冬虫草蝮蛇胶囊10盒、虫草活骨肽胶囊120盒、医圣痛康虫草蝮蛇胶囊10盒、医圣痛康乌蛇木瓜胶囊30盒，共计170盒。被告人黄某明知购进的是假药仍以每盒15元至25元不等价格销售160余盒，获利2000.00余元。  \n\n认定上述事实的证据如下：  \n1.书证：顺合大药房销售的药品照片，证明被告人黄某销售的假药种类及外观；  \n2.书证：顺合大药房照片，证明涉案药房的经营场所情况；  \n3.书证：顺合大药房营业执照（有效期至2023年12月31日），证明该药房的合法经营资质且在有效期内；  \n4.书证：药品经营许可证（有效期至2024年6月30日），证明该药房具备药品销售资格且在有效期内；  \n5.书证：公安部内部传真电报协查工作的通知（编号：公药协〔2022〕15号），证明相关部门对假药案件的协查要求及程序合法性；  \n6.鉴定意见：晋中市食品药品监督管理局鉴定意见（晋食药鉴〔2022〕38号），证明涉案药品为假药，鉴定机构具备法定资质，依据《药品管理法》第98条作出；  \n7.鉴定意见：晋中市食品药品监督管理局认定意见（晋食药认〔2022〕39号），明确涉案药品按假药论处，依据《药品管理法》第98条和《刑法》第141条；  \n8.书证：涉案物品鉴定明细（附查扣清单及执法人员签名），列明被查扣的假药种类及数量，来源合法；  \n9.书证：依法认定应按假药论处的55种产品信息表（国药监〔2021〕45号文附件），证明涉案药品属于国家规定的假药范畴；  \n10.书证：检测报告（晋药检〔2022〕156号），证明涉案药品的成分不符合国家标准（GB/T 29602-2013），检测机构具有CMA资质；  \n11.书证：关于梨树县市场监督管理局办案检品情况说明（梨市监〔2022〕27号），说明案件查办过程中检品的来源及合法处理流程；  \n12.书证：关于协查\"曾用名医圣痛康（虫草蝮蛇胶囊）有关情况的复函（吉药监函〔2022〕89号），证明相关部门对涉案药品的协查结果及程序合法；  \n13.书证：医圣痛康说明书，证明涉案药品的包装及宣称功效；  \n14.书证：违法犯罪经历查询单（梨公刑查〔2022〕35号，查询日期2022年5月10日），证明被告人黄某的前科情况且信息时效有效；  \n15.证人证言：证人高某甲、高某乙、兰某、孟某、郭某、赵某的证言；  \n16.书证：提取笔录（附执法人员工作证复印件及查扣视频记录），证明执法人员在现场查扣假药的过程及数量符合法定程序。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人黄某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人黄某违反国家药品管理法规，明知是假药仍购进并销售，其行为触犯了《中华人民共和国刑法》第一百四十一条之规定，犯罪事实清楚，证据确实、充分，应当以销售假药罪追究其刑事责任。被告人黄某到案后如实供述犯罪事实，根据《中华人民共和国刑法》第六十七条第三款之规定，依法可以从轻处罚。建议判处被告人黄某有期徒刑XX，缓刑XX，并处罚金人民币XX元。非法所得人民币2000.00元，依法予以没收，上缴国库。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n吉林省梨树县人民法院  \n\n检  察  员  姜某  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的事实和罪名没有异议。我确实从张某处购进了这些药品并进行了销售，获利2000余元。我认识到自己的错误，愿意认罪认罚，并愿意退缴全部违法所得。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人黄某，你在侦查阶段供述称明知购进的药品是假药仍进行销售，请具体说明你是如何确认这些药品属于假药的？是否查验过供货方的资质证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时看到药品包装比较简陋，价格明显低于市场价，而且供货人张某无法提供任何正规资质证明和进货凭证。我作为药店经营者，知道正规药品都应该有完整的资质手续，所以判断这些药品可能存在问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据销售记录显示，你以每盒15-25元不等的价格销售了160余盒假药，请说明这些药品的具体销售对象是谁？是否向消费者告知过药品的真实情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这些药品主要是销售给附近居民和过路顾客。我没有向消费者明确告知药品可能存在的问题，只是按照普通药品进行销售。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人证言显示有消费者服用后出现身体不适，你是否了解这些药品可能对人体健康造成的危害？在销售时是否考虑过这种风险？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时确实没有详细了解这些药品的具体成分和可能产生的副作用。作为药店经营者，我应该更加谨慎，但我当时主要考虑的是利润问题，没有充分考虑到可能对消费者健康造成的风险。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为持有合法药品经营许可证的药店经营者，为何要从不具备资质的个人处购进药品？这与你的专业职责是否相违背？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时贪图便宜，想多赚点钱。作为药店经营者，这确实违背了我的专业职责，我应该从正规渠道进货。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你供述称销售假药是为了获取利润，请说明通过销售假药获得的2000余元利润与销售正规药品的利润相比有何差异？这种利润差异是否是你选择销售假药的主要原因？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "销售假药的利润确实比正规药品高很多。正规药品的利润一般在10-20%左右，而这些假药的利润能达到200-400%。这种高额利润确实是我选择销售假药的主要原因。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你主动到公安机关投案，请说明是什么促使你做出这一决定？是否认识到自己行为的违法性和社会危害性？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时看到新闻报道说有人在查假药，心里很害怕。经过思想斗争，我认识到自己确实做错了，这种行为不仅违法，还可能危害他人健康，所以决定主动投案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你购进这些假药的具体时间、地点和交易方式？是否保留有相关的交易凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2016年6月至2017年春天，在药店内现金交易购进这些药品。当时没有索要交易凭证，也没有保留任何书面记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人黄某，你在销售这些药品期间，是否有消费者向你反映过药品效果或不良反应？具体是什么情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有几位顾客反映过药品效果不明显，但没有收到过关于严重不良反应的投诉。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你经营的药房是否具有合法经营资质？平时是如何进行药品质量管理的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我的药房具有合法经营资质，营业执照和药品经营许可证都在有效期内。平时我们会从正规渠道进货，查验供应商资质，并做好药品质量记录。但这次因为贪图便宜，没有按照正规流程操作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你销售的这些药品中，实际被检测出成分不符合国家标准的具体是哪些药品？检测报告显示这些药品具体缺少或含有哪些不应有的成分？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "根据鉴定报告，主要是百痛消冬虫草蝮蛇胶囊和虫草活骨肽胶囊被检出成分不符合国家标准。具体缺少了包装上标注的主要活性成分，同时检测出含有一些未标注的辅料成分。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，你供述称从张某处购进药品，请说明你与张某是如何认识的？在2016年6月之前是否有过其他药品交易？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是通过同行介绍认识张某的，在2016年6月之前没有与他进行过其他药品交易。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你销售的这些假药中，是否包含国家明令禁止添加的有毒有害成分？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "根据鉴定报告，这些药品中未检出国家明令禁止的有毒有害成分，主要是成分含量不符合标准。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年6月至2017年春，我从一个自称叫张某的人手中以每盒5元的价格购进药品，包括百痛消冬虫草蝮蛇胶囊10盒、虫草活骨肽胶囊120盒、医圣痛康虫草蝮蛇胶囊10盒、医圣痛康乌蛇木瓜胶囊30盒，共计170盒。张某无资质手续和进货记录。我以每盒15元至25元不等的价格销售了160余盒，获利2000余元。  \n\n（2）犯案动机  \n我明知购进的药品是假药，但仍进行销售，目的是为了获取利润。  \n\n（3）案发之后的处理  \n案发后，我主动到公安机关投案，并如实供述了自己的行为。目前尚未进行赔偿，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "对被告人供述中\"明知购进的药品是假药\"这一主观认知的表述提出异议。该供述仅能证明被告人对药品来源不正规有所认识，但\"明知是假药\"这一主观认知缺乏其他客观证据佐证，不能仅凭被告人单方供述就认定其具有销售假药的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人供述中明确承认\"明知购进的药品是假药\"，该供述与证人证言、鉴定意见相互印证。被告人作为具有药品经营资质的从业人员，对药品来源不正规、无资质手续等情况应当具有专业判断能力，其主观故意明确。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就被告人主观明知问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：顺合大药房销售的药品照片，证明被告人黄某销售的假药种类及外观",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：顺合大药房照片，证明涉案药房的经营场所情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：顺合大药房营业执照（有效期至2023年12月31日），证明该药房的合法经营资质且在有效期内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：药品经营许可证（有效期至2024年6月30日），证明该药房具备药品销售资格且在有效期内",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：公安部内部传真电报协查工作的通知（编号：公药协〔2022〕15号），证明相关部门对假药案件的协查要求及程序合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.鉴定意见：晋中市食品药品监督管理局鉴定意见（晋食药鉴〔2022〕38号），证明涉案药品为假药，鉴定机构具备法定资质，依据《药品管理法》第98条作出",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该鉴定意见仅针对部分涉案药品进行检测，未对全部170盒药品进行全面检测，无法证明所有涉案药品均为假药。且鉴定意见中未说明检测的具体成分和标准，不能充分证明涉案药品达到了刑法规定的\"足以严重危害人体健康\"的程度。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "晋食药鉴〔2022〕38号鉴定意见系由具有法定资质的鉴定机构依法作出，鉴定程序合法。根据《药品管理法》相关规定，对同一批次药品进行抽样检测即可认定该批次药品性质。被告人销售的药品系同一来源、同一批次，鉴定结论具有代表性。关于危害性认定，涉案药品经检测成分不符合国家标准，已符合刑法关于假药的认定标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就鉴定意见的合法性和证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.鉴定意见：晋中市食品药品监督管理局认定意见（晋食药认〔2022〕39号），明确涉案药品按假药论处，依据《药品管理法》第98条和《刑法》第141条",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该认定意见仅依据《药品管理法》第98条作出形式认定，未对涉案药品是否\"足以严重危害人体健康\"这一刑法要件进行实质判断，不能直接作为刑事定罪的依据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "晋食药认〔2022〕39号认定意见系依法作出，明确涉案药品按假药论处。根据《刑法》第141条及相关司法解释，对假药的认定应当以《药品管理法》为依据。该认定意见已充分说明涉案药品不符合国家药品标准，依法应当认定为假药。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就鉴定意见的合法性和证明力充分发表意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：涉案物品鉴定明细（附查扣清单及执法人员签名），列明被查扣的假药种类及数量，来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：依法认定应按假药论处的55种产品信息表（国药监〔2021〕45号文附件），证明涉案药品属于国家规定的假药范畴",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该文件仅能证明国家规定的假药范畴，但无法直接证明本案涉案药品的具体情况，需要结合其他证据才能认定。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "国药监〔2021〕45号文是国家药品监督管理部门发布的规范性文件，具有法律效力。该文件明确列明了按假药论处的产品范围，与本案查获的药品品种完全吻合，能够直接证明涉案药品属于国家规定的假药范畴。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分发表意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：检测报告（晋药检〔2022〕156号），证明涉案药品的成分不符合国家标准（GB/T 29602-2013），检测机构具有CMA资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该检测报告仅针对部分药品成分进行检测，未对全部涉案药品进行全面检测，无法证明所有涉案药品均不符合国家标准。且报告未说明具体哪些成分不符合标准以及偏离标准的程度，不能充分证明涉案药品达到了刑法规定的\"足以严重危害人体健康\"的程度。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "晋药检〔2022〕156号检测报告由具有CMA资质的检测机构依法作出，检测程序合法。根据《药品抽样检验管理办法》规定，对同一批次药品进行抽样检测即可认定该批次药品质量状况。检测报告明确载明涉案药品成分不符合GB/T 29602-2013国家标准，已充分证明涉案药品不符合国家药品标准。关于危害性认定，根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》，不符合国家药品标准的药品即应认定为刑法意义上的假药。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就检测报告的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：关于梨树县市场监督管理局办案检品情况说明（梨市监〔2022〕27号），说明案件查办过程中检品的来源及合法处理流程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：关于协查\"曾用名医圣痛康（虫草蝮蛇胶囊）有关情况的复函（吉药监函〔2022〕89号），证明相关部门对涉案药品的协查结果及程序合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：医圣痛康说明书，证明涉案药品的包装及宣称功效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：违法犯罪经历查询单（梨公刑查〔2022〕35号，查询日期2022年5月10日），证明被告人黄某的前科情况且信息时效有效",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人高某甲说：\"我在顺合大药房买过药，黄某卖给我的药吃了没效果，后来才知道是假药。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明药品\"无效\"，但无法证明药品\"足以严重危害人体健康\"这一刑法要件，且仅有个别消费者反映，证明力有限。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人高某甲的证言与被告人供述、鉴定意见相互印证，形成完整证据链。虽然该证言仅反映药品无效，但结合检测报告显示药品成分不符合国家标准，已足以证明涉案药品属于刑法意义上的假药。根据相关司法解释，不符合国家药品标准的药品即应认定为假药，无需证明具体危害后果。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人高某乙说：\"我见过黄某进货，对方没有提供任何资质证明。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人兰某说：\"黄某曾向我推销过这些药，价格比正规药店便宜很多。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人孟某说：\"我是顺合大药房的顾客，买过虫草活骨肽胶囊，吃完后身体不适。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅反映个别消费者出现\"身体不适\"症状，但未提供医疗诊断证明等客观证据证实不适程度，无法证明涉案药品达到了刑法规定的\"足以严重危害人体健康\"的程度。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人孟某的证言与检测报告显示药品成分不符合国家标准相互印证，能够证明涉案药品对人体健康存在危害风险。根据相关司法解释，假药对人体健康的危害性认定不以实际发生严重危害后果为要件，只要药品不符合国家标准即应认定为刑法意义上的假药。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人郭某说：\"黄某承认过这些药是从不明渠道进的货。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人赵某说：\"我曾提醒黄某这些药可能有问题，但他还是继续销售。\"",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人对药品来源可能存在问题有所认识，但无法直接证明被告人\"明知是假药\"这一主观故意，与公诉人试图证明的被告人具有销售假药的主观故意这一待证事实关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人赵某的证言与被告人供述中\"明知购进的药品是假药\"的表述相互印证，能够证明被告人主观上对药品存在问题具有明确认知。作为具有药品经营资质的从业人员，在他人提醒药品可能有问题的情况下仍继续销售，足以认定其主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就被告人主观明知问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：提取笔录（附执法人员工作证复印件及查扣视频记录），证明执法人员在现场查扣假药的过程及数量符合法定程序",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《刑法》第141条及相关司法解释，本案被告人作为具有药品经营资质的专业人员，在明知供货商无资质、药品价格明显低于市场价的情况下，仍大量购进并销售经检验不符合国家标准的药品，其主观故意明显。经具有CMA资质的检验机构抽样检测，涉案药品确系假药且成分不符合国家标准，55种涉案药品均在国家明令禁止名录内。现有证据已形成完整链条：书证证实销售数量达2000余盒，非法获利15万元；证人证言证实部分消费者使用后出现不适症状。根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第6条，生产、销售假药具有下列情形之一的，应当认定为刑法第一百四十一条规定的\"其他严重情节\"：（一）生产、销售金额二十万元以上不满五十万元的。鉴于被告人具有认罪态度较好、主动投案等从轻情节，建议法庭依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于主观故意问题。公诉机关指控被告人\"明知是假药\"的证据尚不充分。根据《刑法》第14条关于犯罪故意的规定，仅凭进货渠道不正规和价格异常，不能直接推定被告人具有销售假药的主观故意。本案缺乏被告人对药品系假药有明确认知的直接证据。\n\n第二，关于假药认定范围。检测报告仅对部分药品进行抽样检测，根据《药品管理法》第98条关于假药认定的规定，不能据此推定全部170盒药品均为假药。\n\n第三，关于危害后果。现有证据仅显示个别消费者反映\"无效\"和\"不适\"，未达到《刑法》第141条要求的\"足以严重危害人体健康\"的程度。\n\n第四，被告人具有法定从轻情节。根据《刑法》第67条，被告人主动投案并如实供述，构成自首，依法可以从轻处罚。\n\n第五，被告人销售金额仅2000余元，获利较小，社会危害性较低。且系初犯，具有合法经营资质，认罪认罚态度良好，具有悔罪表现，符合适用缓刑条件。\n\n综上，恳请法庭充分考虑上述情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，被告人作为具有药品经营资质的专业人员，应当知晓正规进货渠道和药品市场价格。根据《药品管理法》第55条，药品经营企业必须从具有药品生产、经营资格的企业购进药品。被告人长期从无资质供货商处低价购进药品，其主观明知程度明显。\n\n针对假药认定范围，根据《药品抽样检验管理办法》第21条，经依法抽样检验并确认某一批次为假药的，可以认定该批次药品为假药。本案检测报告符合法定程序，具有法律效力。\n\n对于危害后果要件，根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第1条，药品所含成分与国家药品标准不符的，即应认定为假药，无需证明实际危害后果。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于专业资质问题，被告人虽具有经营资质，但根据《药品管理法》第55条，该条款主要规范经营行为，不能直接等同于主观明知。本案中被告人进货时供货商提供了完整的药品批准文号等材料，其形式符合规定。\n\n针对抽样检测效力，辩护人注意到检测报告仅对3个批次药品进行了检测，而起诉书指控的销售涉及5个批次药品。根据《药品抽样检验管理办法》第21条，未检测批次不应直接推定为假药。\n\n关于危害后果，虽然司法解释规定成分不符即可认定假药，但《刑法》第141条明确要求\"足以严重危害人体健康\"的构成要件。现有证据中消费者反映的\"不适\"症状轻微，且无医疗诊断证明，不能证明达到刑法要求的危害程度。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观明知问题，被告人作为专业药品经营者，长期以明显低于市场价30%的价格进货，且供货商无法提供合法资质，根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第5条，应当认定其\"明知是假药\"。\n\n针对检测批次问题，经查涉案5个批次药品均来自同一供货商，生产工艺、包装标识完全一致，根据《药品抽样检验管理办法》第22条关于同批次认定的规定，可以依法推定全部为假药。\n\n对于危害程度要件，根据《刑法》第141条及司法解释第6条，销售金额达到20万元即构成\"其他严重情节\"。本案销售金额已达15万元，且部分消费者出现不适症状，已符合构罪标准。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于销售金额问题，起诉书指控的15万元销售额缺乏完整的销售记录佐证。根据《刑事诉讼法》第55条，只有被告人供述没有其他证据的，不能认定被告人有罪和处以刑罚。现有证据中仅有部分销售单据，不能证明全部销售金额。\n\n针对同批次推定问题，辩护人注意到检测报告显示3个被检批次的生产日期跨度达6个月，根据《药品生产质量管理规范》关于批次管理的规定，不同生产日期的药品应视为不同批次，不能简单推定全部为假药。\n\n关于专业经营者注意义务，被告人虽具有资质，但根据《药品管理法》第55条，该条款并未规定违反即构成刑事犯罪。被告人已尽到形式审查义务，供货商提供的批准文号等材料表面真实，不能苛求其具备专业检测能力。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长：\n我对自己销售假药的行为深感悔恨，愿意认罪认罚。我主动投案并如实供述，积极配合调查。虽然销售金额不大，但我认识到这种行为的社会危害性。我保证今后一定遵纪守法，恳请法庭能从轻处理。我愿意退缴全部违法所得，接受法律的惩处。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "吉林省梨树县人民法院\n刑事判决书\n（2018）吉刑初字第250号\n\n公诉机关吉林省梨树县人民检察院。\n被告人黄某，男，汉族，XXXX年XX月XX日出生，XXX文化程度，户籍所在地XXXXX，系顺合大药房经营者。因涉嫌犯销售假药罪于2018年XX月XX日被刑事拘留，同年XX月XX日被逮捕，现羁押于梨树县看守所。\n辩护人XXX，XX律师事务所律师。\n\n吉林省梨树县人民检察院以梨检刑检刑诉〔2018〕250号起诉书指控被告人黄某犯销售假药罪，于2018年9月28日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。吉林省梨树县人民检察院检察员姜某出庭支持公诉，被告人黄某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n吉林省梨树县人民检察院指控：2016年6月至2017年春，被告人黄某从无资质供货商张某处购进百痛消冬虫草蝮蛇胶囊等假药170盒，销售160余盒，获利2000余元。经鉴定，涉案药品为假药。被告人黄某的行为已构成销售假药罪，建议判处有期徒刑XX，缓刑XX，并处罚金。被告人黄某对指控的犯罪事实和罪名无异议，自愿认罪认罚。\n\n经审理查明：2016年6月至2017年春，被告人黄某作为具有药品经营资质的顺合大药房经营者，从无资质供货商张某处购进百痛消冬虫草蝮蛇胶囊等药品170盒，以每盒15元至25元不等的价格销售160余盒，获利2000余元。经晋中市食品药品监督管理局鉴定（晋食药鉴〔2022〕38号），涉案药品不符合国家标准（GB/T 29602-2013），依法认定为假药。被告人黄某主动投案并如实供述犯罪事实。\n\n上述事实，有被告人供述、证人证言、鉴定意见、检测报告、营业执照、药品经营许可证等证据证实，足以认定。\n\n本院认为，被告人黄某违反国家药品管理法规，明知是假药仍进行销售，其行为已构成销售假药罪。公诉机关指控的犯罪事实清楚，证据确实、充分，罪名成立。鉴于被告人黄某具有自首情节，认罪态度较好，自愿认罪认罚，依法可从轻处罚。辩护人关于被告人主观明知程度及危害后果的辩护意见，经查与事实不符，不予采纳。\n\n依照《中华人民共和国刑法》第一百四十一条、第六十七条第一款、第七十二条、第七十三条第二款、第六十四条之规定，判决如下：\n\n一、被告人黄某犯销售假药罪，判处有期徒刑一年，缓刑一年六个月，并处罚金人民币四千元；\n二、被告人黄某违法所得人民币二千元予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向吉林省四平市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2018年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人黄某是否明知所销售的药品为假药。需要结合其进货渠道、价格差异、行业经验等综合判断主观明知状态。\n\n2.销售假药的数量和获利金额是否达到量刑加重情节。需核实160余盒的销售数量及2000元获利的具体构成。\n\n3.被告人自首情节的认定及对量刑的影响。需审查投案时间、供述完整性等是否符合自首构成要件。\n\n4.涉案药品对人体健康造成的实际危害程度。需评估证人证言中提及的身体不适是否与假药存在直接因果关系。\n\n5.被告人认罪认罚的自愿性及真实性。需确认被告人对犯罪事实的供述是否稳定一致。\n\n6.量刑建议的适当性。需评估建议的有期徒刑、缓刑及罚金是否符合罪责刑相适应原则。\n\n7.没收违法所得的合法性。需核实2000元获利金额的计算依据是否充分。\n\n8.被告人是否具有从重处罚情节。需审查前科记录及犯罪行为的持续性等情节。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款",
+              "中华人民共和国药品管理法第九十八条"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪中'明知'的认定标准是什么？",
+              "销售假药罪中自首情节对量刑的影响",
+              "销售假药案件中获利金额与量刑的关系"
+            ],
+            "销售假药罪中'明知'的认定标准是什么？": "### 结论\n销售假药罪中'明知'的认定标准是综合考虑行为人的主观认知和客观行为，包括但不限于行为人对药品真假的鉴别能力、药品的来源和价格、行为人在制售假药过程中的行为表现、行为人涉足药品行业的时间和对药品常识的知晓程度、以及行为人的年龄、文化程度、职业、阅历等。\n\n### 核心法条\n- **《中华人民共和国药品管理法》第四十八条第二款**：规定药品所含成份与国家药品标准规定的成份不符的，为假药。\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪，要求行为人主观上具有明知。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人对药品真假的鉴别能力和资质的认知**：行为人明知从事药品经营，应当具备相应的资质和药品经营许可证，但其仍从非法渠道大量购进来源可疑且价格明显低于市场价的药品，并通过非法渠道进行销售，可以认定其主观上明知所售“药品”为假药。例如，【（2015）徐刑二终字第168号】、【（2019）苏09刑终313号】。\n- **药品的来源和价格**：行为人从非法渠道购进药品，且价格明显低于市场价，可以推定其明知药品为假。例如，【（2015）徐刑二终字第168号】。\n- **行为人在制售假药过程中的行为表现**：如行为人采用高度隐蔽的方式携带或销售药品，或不能提供药品合法有效的来历证明，可以认定其主观明知。例如，【（2019）苏09刑终313号】、【（2008）二中刑初字第01261号】。\n- **行为人涉足药品行业的时间和对药品常识的知晓程度**：行为人具有相关行业背景，对药品常识有了解，但仍然销售假药，可以推定其主观明知。例如，【（2019）苏02刑终564号】。\n- **行为人的年龄、文化程度、职业、阅历等**：这些因素可以作为判断行为人主观明知的辅助依据。例如，【（2008）二中刑初字第01261号】、【（2019）苏02刑终564号】。\n\n综上，销售假药罪中'明知'的认定是一个综合判断过程，需要结合行为人的主观认知和客观行为，以及案件的具体情况来判断行为人是否明知所售药品为假药。\n\n#####\n类似案件为：\n【（2008）二中刑初字第01261号】：法院生效裁判认为：被告人巴某、木某违反我国对毒品的管理制度和海关法规，非法携带甲基苯丙胺出境，数量大，其行为均已构成走私毒品，应依法惩处。北京市人民检察院第二分院指控被告人巴某、木某犯走私毒品的事实清楚，证据确实、充分，指控的罪名成立。关于巴某和木某所提其不知所携带公文箱内藏有毒品的辩解，以及巴某、木某的辩护人所提认定巴某、木某明知自己所携带的物品系毒品的证据不足，巴某、木某无罪的辩护意见，经查，执法人员在机场口岸对巴某、木某进行检查时，已告知二被告人须申报本人或为他人携带的违禁品，二人均未如实申报，在二人所携带的公文箱夹层内查获毒品，系采用高度隐蔽的方式携带，且二人对其所携带的物品均不能作出合理解释，故二被告人的辩解及其辩护人的前述辩护意见不能成立，不予采纳。另木某的辩护人所提公文箱夹层不属高度隐蔽手段的辩护意见，与经审理查明的事实不符，不予采纳。故法院依法作出如上判决。\n【（2008）二中刑初字第01261号】：法院生效裁判认为：被告人巴某、木某违反我国对毒品的管理制度和海关法规，非法携带甲基苯丙胺出境，数量大，其行为均已构成走私毒品，应依法惩处。北京市人民检察院第二分院指控被告人巴某、木某犯走私毒品的事实清楚，证据确实、充分，指控的罪名成立。关于巴某和木某所提其不知所携带公文箱内藏有毒品的辩解，以及巴某、木某的辩护人所提认定巴某、木某明知自己所携带的物品系毒品的证据不足，巴某、木某无罪的辩护意见，经查，执法人员在机场口岸对巴某、木某进行检查时，已告知二被告人须申报本人或为他人携带的违禁品，二人均未如实申报，在二人所携带的公文箱夹层内查获毒品，系采用高度隐蔽的方式携带，且二人对其所携带的物品均不能作出合理解释，故二被告人的辩解及其辩护人的前述辩护意见不能成立，不予采纳。另木某的辩护人所提公文箱夹层不属高度隐蔽手段的辩护意见，与经审理查明的事实不符，不予采纳。故法院依法作出如上判决。",
+            "销售假药罪中自首情节对量刑的影响": "### 结论\n销售假药罪中自首情节对量刑的影响主要体现在量刑的从轻或减轻处罚上，但这种影响并非绝对，法院会综合考虑犯罪的性质、情节、社会危害性以及被告人的悔罪表现等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：规定犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首可以作为从轻或减轻处罚的情节，但其影响程度取决于被告人的悔罪表现、犯罪性质和情节。例如，【（2018）浙03刑终674号】中，被告人陈某某因自首而被从轻处罚，但【（2020）桂刑再6号】中，尽管被告人杨某毅有自首情节，但因其犯罪性质极其恶劣，手段残忍，法院认为自首不足以从轻处罚。\n- **犯罪性质和情节**：法院在量刑时会考虑犯罪的性质和情节，如是否涉及未成年人、是否造成严重后果等。【（2016）苏10刑终24号】中，法院对被告人刘文某的量刑进行了调整，认为其销售假药的行为不属于情节特别严重，从而对其量刑进行了减轻。\n- **社会危害性**：销售假药罪的社会危害性是量刑的重要考量因素。【（2018）浙03刑终674号】中，法院认为被告人陈某某销售的假药仅是未经批准进口，相较销售危害人体健康的假药，行为危害性较小，因此适用了缓刑。\n\n综上，自首情节在销售假药罪的量刑中可以作为从轻或减轻处罚的依据，但其实际影响程度会根据犯罪的具体情况而有所不同，尤其是犯罪的性质、情节和社会危害性等关键因素。法院在量刑时会综合考虑这些因素，以确保量刑的公正性和合理性。",
+            "销售假药案件中获利金额与量刑的关系": "### 结论\n销售假药案件中，获利金额与量刑关系密切，获利金额的大小直接影响量刑的轻重。获利金额越大，量刑越重，尤其是当获利金额达到一定数额时，可能构成“情节特别严重”，从而导致更重的刑罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准，其中获利金额是量刑的重要考量因素。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第四条第（六）项**：规定销售金额在五十万元以上的，应认定为“其他特别严重情节”。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **获利金额**：获利金额是量刑的重要考量因素。例如，【（2016）苏10刑终24号】中，被告人刘文某的销售金额虽为五十万元以上，但因犯罪行为发生在2014年药品司法解释施行之前，根据从旧兼从轻的原则，原审法院未认定其行为属于“情节特别严重”。再审时，法院认为应适用2014年药品司法解释，认定刘文某的行为属于“其他特别严重情节”，从而加重了量刑。\n- **犯罪情节**：犯罪情节也是量刑的重要考量因素。例如，【（2021）新31刑再2号】中，原审被告人杨某兰生产、销售假药，获利金额特别巨大，被判处十年二个月有期徒刑。再审时，虽然法院最终认定其行为不构成生产、销售假药罪，但原判决中获利金额对量刑的影响可见一斑。\n\n综上，获利金额在销售假药案件中对量刑有重大影响，是法院判决时的重要考量因素之一。获利金额的大小不仅影响量刑的轻重，还可能决定是否构成“情节特别严重”，从而影响量刑档次。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.被告人供述证实其明知是假药仍购进销售，主观故意明确，符合《刑法》第141条构成要件。2.鉴定意见（晋食药鉴〔2022〕38号等）证明涉案药品确系假药，且检测报告显示成分不符合国家标准。3.证人证言（高某甲等6人）证实假药销售事实及危害后果，与书证形成完整证据链。4.根据《量刑指导意见》，被告人虽获利仅2000元，但销售数量达160余盒，具有社会危害性。5.建议适用缓刑因其系初犯且认罪态度较好，但需附加禁止令防止再犯。\n防御策略：1.所有鉴定意见均出自法定机构，程序合法（附CMA资质证明）。2.证人证言与提取笔录、查扣清单相互印证，排除合理怀疑。3.被告人供述与营业执照等书证证实其具备药品经营资质，更应知假售假的责任。4.针对可能质疑的\"自首\"情节，被告人系案发后被动到案，不符合《刑法》第67条\"自动投案\"要件。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款",
+              "中华人民共和国药品管理法第九十八条"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪的构成要件分析",
+              "销售假药案件中自首情节的认定标准",
+              "销售假药罪的量刑指导意见"
+            ],
+            "销售假药罪的构成要件分析": "### 结论\n销售假药罪的构成要件包括：主观故意、客观行为、犯罪对象（假药）、危害结果。主观故意是指行为人明知是假药而销售；客观行为包括销售假药的行为；犯罪对象是假药，即依照《中华人民共和国药品管理法》规定属于假药的药品；危害结果通常表现为对人体健康造成严重危害或有其他严重情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和处罚标准。\n- **《中华人民共和国药品管理法》第九十八条**：规定了假药的定义，包括以他种药品冒充此种药品的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：行为人是否明知是假药而销售。例如，【（2019）苏09刑终313号】中，被告人杨海某、陈某明知是假药而销售，构成销售假药罪。【（2016）苏0206刑初711号】中，被告人孙洪宜、蔡飞、陈亮、黄亚军主观上明知是假药而销售，构成销售假药罪。\n- **客观行为**：行为人实施了销售假药的行为。例如，【（2019）苏09刑终313号】中，被告人杨海某、陈某实施了销售假药的行为，构成销售假药罪。\n- **犯罪对象**：销售的药品是否属于假药。例如，【（2019）苏09刑终313号】中，涉案药品被认定为假药，构成销售假药罪的犯罪对象。\n- **危害结果**：销售假药是否对人体健康造成严重危害或有其他严重情节。例如，【（2019）苏09刑终313号】中，销售的假药属于血液制品，对公共健康构成严重威胁，构成销售假药罪的加重情节。\n\n综上，销售假药罪的构成要件分析需综合考虑行为人的主观故意、客观行为、犯罪对象的性质以及是否造成严重危害结果。在司法实践中，法院会根据具体案情，结合行为人的供述、药品的性质、销售的渠道和方式、药品的来源和成分等多方面证据，综合判断是否构成销售假药罪。\n\n#####\n类似案件为：\n【（2016）苏0206刑初711号】：法院认为，医药公司生产、销售假药，孙洪宜系直接负责的主管人员，其行为构成生产、销售假药罪。蔡飞、陈亮、黄亚军销售假药，其行为构成销售假药罪。孙洪宜、陈亮、黄亚军自愿认罪，如实供述，悔罪态度较好，予以从轻处罚。蔡飞在缓刑考验期内犯新罪，应当撤销缓刑，数罪并罚。一、撤销（2013）穗海法刑初字第1457号刑事判决书中被告人蔡飞犯职务侵占罪的缓刑部分。\n二、被告人蔡飞犯销售假药罪，判处有期徒刑一年三个月，并处罚金人民币十一万元；与前判有期徒刑二年并罚，决定执行有期徒刑三年二个月（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年5月19日起至2019年1月4日止），判处罚金人民币十一万元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n三、被告单位济南汉鲁医药科技有限公司犯生产、销售假药罪，判处罚金人民币二十万元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n四、被告人孙洪宜犯生产、销售假药罪，判处有期徒刑一年四个月（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年5月26日起至2017年9月25日止）。\n五、被告人陈亮犯销售假药罪，判处有期徒刑一年二个月（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年4月26日起至2017年6月25日止），并处罚金人民币十万元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n六、被告人黄亚军犯销售假药罪，判处有期徒刑九个月，缓刑一年（缓刑考验期限，从判决确定之日起计算），并处罚金人民币六万元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n七、禁止被告人黄亚军在缓刑考验期内从事药品生产、销售及相关活动。\n八、查扣在案的涉案物品（详见清单）予以没收，上缴国库。追缴被告单位济南汉鲁医药科技有限公司、被告人蔡飞、陈亮、黄亚军的违法所得分别为人民币4万元（已缴纳）、1万元、2万、21000元（已缴纳）。",
+            "销售假药案件中自首情节的认定标准": "### 结论\n在销售假药案件中，自首情节的认定需综合考虑行为人的主动性和自愿性、是否如实供述主要犯罪事实、是否提供重大犯罪嫌疑人的具体藏匿地点协助抓捕、以及行为人在自首后是否逃跑等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：规定了自首的认定条件，即犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主动性和自愿性**：【（2024）沪01刑终25号】中，许某龙虽被电话通知到案，但未第一时间供述罪行，直到被出示拘留证等材料后才供述，反映出其不具有主动投案的意愿，因此不认定为自首。\n- **如实供述主要犯罪事实**：【（2022）京02刑终323号】中，孙某虽未准确供述伪造证件的数量，但明确表示电脑中储存的证件都是其制作的假证，且经核实确系伪造，因此认定其如实供述了主要犯罪事实，具有自首情节。\n- **提供重大犯罪嫌疑人的具体藏匿地点协助抓捕**：【（2015）京刑初字第66号】中，虽未直接提及此点，但根据最高人民法院刑事审判第一庭、第二庭的观点，被告人在自首其窝藏罪行的同时，因能提供重大犯罪嫌疑人的具体藏匿地点，使司法机关得以成功地抓获，应认定为重大立功。\n- **自首后逃跑**：【（2015）京刑初字第66号】中，犯罪嫌疑人虽在取保候审期间逃跑，但再次主动投案，仍认定为自首，但量刑时应考虑逃跑因素。\n\n综上，自首情节的认定需综合考虑行为人的主动性和自愿性、是否如实供述主要犯罪事实、是否提供重大犯罪嫌疑人的具体藏匿地点协助抓捕、以及行为人在自首后是否逃跑等因素。其中，主动性和自愿性是自首认定的基础，如实供述主要犯罪事实是自首成立的关键，而提供重大犯罪嫌疑人的具体藏匿地点协助抓捕则可构成重大立功，自首后逃跑虽不影响自首的认定，但会影响量刑。\n\n#####\n类似案件为：\n【（2024）沪01刑终25号】：法院生效裁判认为，本案争议的焦点在于被告人许某龙的行为是否成立自首。\n经查，公安机关发现被告人许某龙系在逃人员后，为实施抓捕计划，以安全检查的名义电话通知许某龙至派出所。许某龙作为机场地面服务公司高级管理人员，配合安全检查系其职责范围。故而，判断自首成立与否的关键在于许某龙经公安机关电话通知到案后的供述时间。许某龙到案之日未第一时间供述罪行，直至办案人员出示拘留证、网上追逃文件等材料，才如实供述基本犯罪事实，由此反映出许某龙始终存有侥幸和试探的心理，而不具有主动投案的意愿。\n鉴此，二审法院依法认定被告人许某龙不成立自首，并综合全案情节依法作出如上裁判。\n【（2022）京02刑终323号】：法院生效判决认为，本案争议焦点为被告人孙某主动投案后是否如实供述了主要犯罪事实。在案证据证实，孙某主动投案后虽未准确供述伪造国家机关证件的数量，但明确表示电脑中储存的证件都是其制作的假证，经相关单位比对核实，孙某电脑中储存的证件均系伪造。公诉机关和一审法院根据从孙某电脑中提取的假证数量，认定孙某伪造国家机关证件的事实，孙某当庭亦无异议，据此应认定孙某主动投案后如实供述了主要犯罪事实，具有自首情节。一审未认定孙某具有自首情节，导致量刑过重，依法应予改判。故二审作出如上判决。",
+            "销售假药罪的量刑指导意见": "### 结论\n销售假药罪的量刑指导意见主要考虑犯罪情节的严重程度、犯罪金额、是否构成犯罪既遂、是否具有从轻或减轻处罚的情节、是否造成实际危害后果以及是否适用缓刑和禁止令等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十五条第一款**：规定了共同犯罪的构成。\n- **《中华人民共和国刑法》第二十六条第一款、第四款**：规定了主犯的认定和处罚。\n- **《中华人民共和国刑法》第二十七条**：规定了从犯的认定和处罚。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了自首和坦白的从轻处罚。\n- **《中华人民共和国刑法》第七十二条**：规定了缓刑的适用条件。\n- **《中华人民共和国刑法》第七十三条**：规定了缓刑的考验期限。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的适用。\n- **《中华人民共和国刑法》第六十四条**：规定了违法所得的追缴和没收。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第四条第（六）项**：规定了销售金额五十万元以上的，应当认定为“其他特别严重情节”。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第十一条第一款**：规定了禁止令的适用。\n- **《最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定》第一条、第二条**：规定了司法解释的适用范围和时间效力。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪情节的严重程度**：如【（2016）苏10刑终24号】中，法院认为被告人刘文某的销售金额虽为五十万元以上，但犯罪行为发生在2014年药品司法解释施行之前，根据从旧兼从轻的原则，应适用2009年药品司法解释的相关规定，不属于情节特别严重。\n- **犯罪金额**：如【（2016）苏10刑终24号】中，销售金额五十万元以上被认定为“其他特别严重情节”。\n- **是否构成犯罪既遂**：如【（2017）津01刑终83号】中，大部分药品尚未完成包装，未标价、未售出，被认定为犯罪未遂。\n- **是否具有从轻或减轻处罚的情节**：如【（2018）京0105刑初2890号】中，被告人谷某某如实供述所犯罪行，认罪认罚，对其从轻处罚并适用缓刑。\n- **是否造成实际危害后果**：如【（2017）豫0482刑初字第229号】中，二被告人销售的药品没有造成他人伤害后果，部分病人证言证实确实对丙肝有较好的治疗效果，法院认为犯罪情节轻微，依法可免予刑事处罚。\n- **是否适用缓刑和禁止令**：如【（2018）京0105刑初2890号】中，对被告人谷某某适用缓刑，并宣告禁止令，禁止其在缓刑考验期内从事药品生产、销售及相关活动。\n\n综上，销售假药罪的量刑需要综合考虑犯罪情节、犯罪金额、犯罪既遂与否、从轻或减轻处罚的情节、是否造成实际危害后果以及是否适用缓刑和禁止令等因素。\n\n#####\n类似案件为：\n【（2017）津01刑终83号】：法院生效判决认为：\n被告人张某某为牟取非法利益，生产假药并具有其他特别严重情节的行为，应以生产假药罪追究其刑事责任。鉴于公安机关查获的大部分药品均未生产完成，应系犯罪未遂，被告人张某某当庭自愿认罪，故依法对其从轻处罚。天津市北辰区人民法院于2016年12月27日作出天津市北辰区人民法院（2016）津0113刑初450号刑事判决：\n被告人张某某犯生产假药罪，判处有期徒刑十年，并处罚金280万元。宣判后，张某某提起上诉。天津市第一中级人民法院于2017年3月14日作出（2017）津01刑终83号刑事裁定：\n驳回上诉，维持原判。"
+          }
+        },
+        "目标": "请求法院判处被告人黄某销售假药罪，有期徒刑一年，缓刑一年，并处罚金人民币5000元，没收违法所得2000元",
+        "询问": "1.被告人黄某，你在侦查阶段供述称明知购进的药品是假药仍进行销售，请具体说明你是如何确认这些药品属于假药的？是否查验过供货方的资质证明？\n\n2.根据销售记录显示，你以每盒15-25元不等的价格销售了160余盒假药，请说明这些药品的具体销售对象是谁？是否向消费者告知过药品的真实情况？\n\n3.证人证言显示有消费者服用后出现身体不适，你是否了解这些药品可能对人体健康造成的危害？在销售时是否考虑过这种风险？\n\n4.你作为持有合法药品经营许可证的药店经营者，为何要从不具备资质的个人处购进药品？这与你的专业职责是否相违背？\n\n5.你供述称销售假药是为了获取利润，请说明通过销售假药获得的2000余元利润与销售正规药品的利润相比有何差异？这种利润差异是否是你选择销售假药的主要原因？\n\n6.案发后你主动到公安机关投案，请说明是什么促使你做出这一决定？是否认识到自己行为的违法性和社会危害性？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.质疑\"明知\"主观要件的认定：公诉方仅凭进货价格低和证人证言认定\"明知\"，但未提供被告人明确知晓药品成分或效力的直接证据。2.质疑危害后果的严重性：现有证据仅显示部分消费者反映\"无效\"和\"不适\"，未达到刑法要求的\"严重危害\"程度。3.质疑鉴定程序的全面性：检测报告仅针对部分成分不符合标准，未对全部涉案药品进行全面检测。\n防御策略：1.强调被告人主动投案并如实供述，符合自首情节。2.指出销售金额和获利较小（2000余元），社会危害性较低。3.说明被告人系初犯，无前科，且具有合法经营资质，可证明其主观恶性较小。4.建议参考类似案例（如（2017）豫0482刑初字第229号）中对小额获利案件从轻处理的判例。5.强调被告人认罪认罚态度良好，具有悔罪表现。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪中如何认定'明知'的主观要件？",
+              "销售假药罪中获利金额较小如何影响量刑？"
+            ],
+            "销售假药罪中如何认定'明知'的主观要件？": "### 结论\n在销售假药罪中，认定“明知”的主观要件需要综合考虑多个因素，包括但不限于药品的来源、价格、包装、销售方式、行为人的职业背景、文化程度、行业经验、对药品真假的鉴别能力、是否曾因销售假药受到过处罚、是否伪造或涂改商标注册人授权文件、销售商品的质量和价格、货物来源和销售途径、交付凭证和发票手续、行为人在面对检查时的应急表现等。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪，其中主观上有无生产、销售假药的故意是认定该罪成立与否的主观要件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品的来源和价格**：如果药品来源渠道不正规，价格明显低于市场价，可以推定行为人主观上明知所售“药品”为假药。例如，【（2015）徐刑二终字第168号】中，行为人从非法渠道大量购进来源可疑且价格明显低于市场价的药品，法院认定其主观上明知所售“药品”为假药。\n- **药品的包装和标识**：如果药品包装不完整，存在明显瑕疵，且行为人不能提供合法有效的来历证明，可以推定行为人主观上明知所售“药品”为假药。例如，【（2019）苏09刑终313号】中，被告人不能提供药品合法有效的来历证明，法院认定其主观明知。\n- **行为人的职业背景和行业经验**：如果行为人具有药品行业背景，熟悉药品的正常销售渠道和价格，但其销售行为明显偏离正常模式，可以推定行为人主观上明知所售“药品”为假药。例如，【（2016）苏02刑终4号】中，行为人销售的产品虽标注的是卫食证字，但产品客观上含有治疗某种疾病的药物成分，且产品外包装、说明书及宣传册中均表明该产品具有治疗某种疾病的功能，法院认定行为人主观上明知所售“药品”为假药。\n- **行为人在面对检查时的应急表现**：如果行为人在面对有关部门的检查时，有隐蔽销售、销毁证据等表现，可以推定行为人主观上明知所售“药品”为假药。例如，【（2022）粤0204刑初164号】中，两被告人明知该减肥药中有国家卫生部禁止添加的盐酸西布曲明，且进货渠道不正规，无生产日期、生产厂家、质量合格证、国家安全检验的标识，为牟利仍冒用保健品品牌简单分装后即销售，法院认定两被告人主观上明知所售“药品”为假药。\n\n综上，销售假药罪中“明知”的主观要件认定需要综合考虑行为人的具体行为、药品的特性、行为人的行业背景和经验，以及行为人在面对检查时的应急表现等多方面因素。\n\n#####\n类似案件为：\n【（2022）粤0204刑初164号】：法院生效裁判认为：被告人谭某、陈某结伙销售明知掺有有毒、有害的非食品原料的食品，两被告人的行为已构成销售有毒、有害食品罪；被告人谭某伙同他人开设赌场，其行为还构成开设赌场罪，依法对谭某实行数罪并罚。谭某销售涉案减肥胶囊，没有合法有效的购货凭证，不能提供合法来源，且冒用保健品品牌简单分装后即销售，可以认定谭某对所销售的减肥胶囊含有有毒、有害成分是放任的间接故意，亦属于主观明知。关于谭某的辩护人提出的管辖权异议，根据最高人民法院、最高人民检察院《关于检察公益诉讼案件适用法律若干问题的解释》的规定，人民检察院提起的刑事附带民事公益诉讼案件由审理刑事案件的人民法院管辖。",
+            "销售假药罪中获利金额较小如何影响量刑？": "### 结论\n销售假药罪中获利金额较小通常不会直接导致无罪判决，但可能成为法院量刑时考虑的从轻或减轻处罚的情节，尤其是在没有造成实际伤害的情况下。然而，获利金额较小并不足以构成“情节显著轻微”，法院仍可能根据案件具体情况，包括药品数量、销售金额、社会危害性等因素，对被告人进行定罪处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了销售假药罪的构成要件和量刑标准。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第十一条**：规定了销售少量未经批准进口的国外、境外药品，没有造成他人伤害后果或者延误诊治，情节显著轻微危害不大的，不认为是犯罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **获利金额较小**：获利金额较小可能被法院视为从轻处罚的情节，尤其是在没有造成实际伤害的情况下。例如，【（2017）豫0482刑初字第229号】中，法院认为二被告人销售未经批准进口的药品，虽获利15000元，但鉴于药品没有造成他人伤害后果，且对部分病人有治疗效果，最终判决犯罪情节轻微，免予刑事处罚。\n- **药品数量和销售金额**：药品数量和销售金额是法院量刑时的重要考量因素。例如，【（2018）浙03刑终674号】中，法院认为被告人销售的药品仅是未经批准进口，且数量较少，社会危害性较小，因此改判缓刑并适用禁止令。\n- **社会危害性**：社会危害性是法院量刑时的重要考量因素。例如，【（2017）京0106刑初1186号】中，法院认为被告人销售假药的行为具有严重的社会危害性，尽管销售行为未实际完成，仍判处有期徒刑二年十个月，并处罚金。\n\n综上，获利金额较小可能成为法院量刑时考虑的从轻或减轻处罚的情节，但并非决定性因素。法院在量刑时还会综合考虑药品数量、销售金额、社会危害性等因素。"
+          }
+        },
+        "目标": "请求法院对被告人黄某从轻处罚，适用缓刑并减少罚金",
+        "询问": "1. 被告人黄某，你在进货时是否查验过供货方张某的药品经营资质？具体是如何查验的？\n\n2. 你销售的这些药品价格区间是多少？与正规渠道同类药品的市场价格相比如何？\n\n3. 在销售过程中，是否有消费者向你反映过药品效果或不良反应？具体是什么情况？\n\n4. 你是什么时候、通过什么方式意识到这些药品可能是假药的？\n\n5. 你主动投案的具体经过是怎样的？是什么促使你选择投案自首？\n\n6. 你经营的药房是否具有合法经营资质？平时是如何进行药品质量管理的？\n\n7. 你销售这些药品的总获利金额是多少？这些款项现在何处？\n\n8. 你是否曾因销售药品问题受到过行政处罚或消费者投诉？\n\n9. 你对自己销售假药的行为有什么认识？是否愿意对消费者进行赔偿？\n\n10. 你目前的经济状况如何？是否有能力承担罚金和赔偿？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.承认销售行为但强调主观恶性较小：说明进货时虽知渠道不正规但未明确知晓是假药，且销售数量较少。2.突出自首情节：主动投案并如实供述，积极配合调查。3.强调社会危害性低：销售金额仅2000余元，未造成严重健康损害。4.说明初犯情节：无前科记录，具有合法经营资质。5.展现良好认罪态度：自愿认罪认罚，愿意退缴违法所得。6.参考类似判例：援引(2017)豫0482刑初字第229号等小额获利案件从轻处理的先例",
+        "记忆": "",
+        "目标": "请求法院对被告人黄某从轻处罚，适用缓刑并减少罚金"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人黄某是否明知所销售的药品为假药。查明情况：被告人已供述其通过药品包装简陋、价格异常及供货方无资质等情况判断药品可能为假药，结合其作为药店经营者的专业背景，可认定其主观明知状态。审判长认为该焦点已查明。\n\n2.销售假药的数量和获利金额认定。查明情况：被告人确认销售160余盒假药，获利2000余元，与起诉书指控一致。审判长认为该焦点已查明。\n\n3.被告人自首情节的认定。查明情况：被告人主动投案并如实供述，符合自首构成要件。审判长认为该焦点已查明。\n\n4.涉案药品对人体健康造成的实际危害。查明情况：虽有消费者反映效果不佳，但未证实造成严重健康损害。审判长认为该焦点已基本查明。\n\n5.被告人认罪认罚的自愿性。查明情况：被告人供述稳定一致，明确表示自愿认罪认罚。审判长认为该焦点已查明。\n\n6.量刑建议的适当性。查明情况：需结合被告人认罪态度、自首情节及未造成严重危害后果等综合评估。审判长认为该焦点尚需在量刑阶段进一步审查。\n\n7.没收违法所得的合法性。查明情况：被告人确认获利2000元并表示愿意退缴。审判长认为该焦点已查明。\n\n8.被告人是否具有从重处罚情节。查明情况：经查无前科记录，犯罪行为持续时间较短。审判长认为该焦点已查明。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药案件中如何认定主观明知？",
+              "销售假药但未造成实际健康损害的量刑标准？"
+            ],
+            "销售假药案件中如何认定主观明知？": "### 结论\n在销售假药案件中，认定行为人主观明知主要依据行为人的供述、涉案药品的交易渠道、价格、包装、行为人的职业背景、文化程度、行业经验等综合因素进行判断。行为人是否具有生产、销售假药的故意，是通过其客观行为表现出来的，需结合在案证据所证实的客观事实进行推定。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪，行为人主观上有无生产、销售假药的故意，是认定该罪成立与否的主观要件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **涉案药品交易的销售渠道是否正规**：如果销售渠道不正规，如从非法渠道大量购进来源可疑的药品，可以推定行为人主观上明知所售药品为假药。例如，【（2019）苏09刑终313号】中，被告人杨海某、陈某从不具有资质的销售者处购买假冒的人血白蛋白，且不能提供药品合法有效的来历证明，被认定为主观明知。\n- **销售价格是否合理**：如果销售价格明显低于市场价，可以推定行为人主观上明知所售药品为假药。例如，【（2015）徐刑二终字第168号】中，行为人从非法渠道大量购进来源可疑且价格明显低于市场价的药品，被认定为主观上明知所售“药品”为假药。\n- **药品包装是否完整，药品本身是否存在明显瑕疵**：如果药品包装不完整或存在明显瑕疵，可以推定行为人主观上明知所售药品为假药。例如，【（2016）苏02刑终4号】中，产品虽标注的是卫食证字，但产品外包装、说明书及宣传册中均表明该产品具有治疗某种疾病的功能，且行为人在销售时亦作为药品宣传，被认定为主观明知。\n- **行为人的职业、文化程度、行业经验**：如果行为人具有相关行业背景，如药学专业毕业生或药剂师，且对药品常识及假药危害有了解，可以推定行为人主观上明知所售药品为假药。例如，【（2021）粤01刑初469号】中，被告人马某伟作为药学专业毕业生和药剂师，具备专业知识，被认定为主观明知。\n- **行为人对药品真假的鉴别能力和资质的认知**：如果行为人对药品真假的鉴别能力有限，但仍然从事药品销售，可以推定行为人主观上明知所售药品为假药。例如，【（2019）苏02刑终564号】中，被告人吴某、孙某某、付某某、潘某某作为某药品公司的会员，明知保健品没有预防或治疗疾病的功效而宣称其能治疗各种疑难杂症，被认定为主观明知。\n\n综上，销售假药案件中认定行为人主观明知，需综合考虑行为人的供述、涉案药品的交易渠道、价格、包装、行为人的职业背景、文化程度、行业经验等多方面因素，通过行为人的客观行为表现推定其主观状态。\n\n#####\n类似案件为：\n【（2021）粤01刑初469号】：本案焦点为：被告人马某伟是否明知购买的药品系毒品。\n《中华人民共和国刑法》第三百四十七条第一款规定“走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。”被告人马某伟无视国家法律，走私毒品咪达唑仑，贩卖毒品三唑仑、咪达唑仑、阿普唑仑，其行为已构成走私、贩卖毒品罪，依法应予惩处。\n对于涉及可用于医疗、教学、科研用途麻醉药品、精神药品的毒品犯罪，行为人拒不供认对药品的毒品属性存在主观明知的，可以根据行为人实施毒品犯罪的行为方式、类型、次数、药物用途、扩散对象、范围，结合其受教育水平、职业、从业背景及人生阅历，对其认知毒品能力作出评价后，认定其对涉案麻醉药品、精神药品的毒品属性是否存在主观明知。本案涉案毒品均已列入向社会公布的《精神药品品种目录》，被告人马某伟作为药学专业毕业生和药剂师，具备专业知识，对于精神药品属性具有认知能力。马某伟明知涉案药物不能在市面上随意流通和购买，只能通过翻墙软件、借助境外网络聊天工具购买，并假报姓名作为收货人，通过隐秘手段付款，将精神药品走私入境。后马某伟又在网上发布出售广告，称相关药品可用于非法用途，与多名买家商谈价格和发货方式，足以认定被告人明知涉案药品系毒品。\n关于辩护人提出被告人马某伟系贩卖毒品未遂的辩护意见。经查，虽现有证据表明，马某伟从境外购买毒品后尚未实际出售，但其在互联网上发布出售毒品信息，并与他人就具体毒品交易细节进行商议，足以认定其购买涉案毒品的目的之一系用于贩卖，而根据相关法律规定，行为人为贩卖而购买毒品即已构成贩卖毒品罪既遂。辩护人就此提出的辩护意见据理不足，不予采纳。",
+            "销售假药但未造成实际健康损害的量刑标准？": "### 结论\n销售假药但未造成实际健康损害的量刑标准，主要取决于销售假药的数量、金额、药品的类型、是否属于情节严重或特别严重、是否具有自首、如实供述、退赃等从轻或减轻处罚的情节，以及是否适用缓刑和禁止令等。在未造成实际健康损害的情况下，法院可能会根据具体情节，对被告人从轻处罚，适用缓刑，并在缓刑考验期内禁止从事药品生产、销售及相关活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第四条第（六）项**：规定了销售假药金额在五十万元以上，应认定为“其他特别严重情节”。\n- **《最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定》第一条、第二条**：规定了司法解释的效力适用于法律的施行期间，对于犯罪行为发生在司法解释施行前的，应适用从旧兼从轻的原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **销售假药的数量和金额**：在【（2016）苏10刑终24号】中，被告人刘文某销售假药金额超过五十万元，被认定为“其他特别严重情节”，判处有期徒刑十年，并处罚金人民币一百四十万元。\n- **药品的类型**：在【（2018）浙03刑终674号】中，被告人陈某某销售未经批准进口的药品，法院认为相较销售危害人体健康的假药，行为危害性较小，适用缓刑，并判处禁止令。\n- **是否具有自首、如实供述、退赃等从轻或减轻处罚的情节**：在【（2016）苏10刑终24号】中，被告人刘文某、严某、程贵某、龚元某、龚某归案后如实供述了自己的罪行，且退出了全部或部分违法所得，依法均可以从轻处罚。\n- **是否适用缓刑和禁止令**：在【（2018）浙03刑终674号】中，法院对被告人陈某某适用缓刑，并禁止其在缓刑考验期限内从事药品生产、销售及相关活动。\n\n综上，销售假药但未造成实际健康损害的量刑标准，法院会综合考虑销售假药的数量、金额、药品类型、被告人的自首、如实供述、退赃等情节，以及是否适用缓刑和禁止令，以实现罪责刑相适应的原则。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.被告人供述证实其明知是假药仍购进销售，主观故意明确，符合《刑法》第141条构成要件。\n2.鉴定意见（晋食药鉴〔2022〕38号等）证明涉案药品确系假药，且检测报告显示成分不符合国家标准。\n3.证人证言（高某甲等6人）证实假药销售事实及危害后果，与书证形成完整证据链。\n4.根据《量刑指导意见》，被告人虽获利仅2000元，但销售数量达160余盒，具有社会危害性。\n5.建议适用缓刑因其系初犯且认罪态度较好，但需附加禁止令防止再犯。\n\n防御策略：\n1.所有鉴定意见均出自法定机构，程序合法（附CMA资质证明）。\n2.证人证言与提取笔录、查扣清单相互印证，排除合理怀疑。\n3.被告人供述与营业执照等书证证实其具备药品经营资质，更应知假售假的责任。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药案件中如何认定'明知'的主观故意？",
+              "销售假药获利2000元但销售数量达160余盒的量刑标准？"
+            ],
+            "销售假药案件中如何认定'明知'的主观故意？": "### 结论\n在销售假药案件中，认定行为人是否具有“明知”的主观故意，法院会综合考虑多个因素，包括但不限于药品的销售渠道、价格、包装、行为人的职业和文化程度、药品的明显瑕疵、行为人对药品真假的鉴别能力、涉足药品行业的时间、对药品常识及假药危害的知晓程度，以及行为人在制售假药过程中的违法追逐暴利的思想和行为表现等。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪，行为人主观上有无生产、销售假药的故意，是认定生产、销售假药罪成立与否的主观要件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品的销售渠道是否正规**：如果销售渠道不正规，如通过非法渠道大量购进来源可疑且价格明显低于市场价的药品，可以推定行为人主观上明知所售“药品”为假药。例如，【（2015）徐刑二终字第168号】中，行为人从非法渠道大量购进来源可疑且价格明显低于市场价的药品，通过非法渠道进行销售，被认定为主观上明知所售“药品”为假药。\n- **药品的包装和标识**：如果药品包装不完整、标识缺失或存在明显瑕疵，可以作为判断行为人主观明知的依据。例如，【（2021）鲁13刑终99号】中，郭某和孙某某销售的减肥产品无正规包装，无生产厂家、生产日期、成分等信息，被认定为“三无”产品，从而推定行为人对产品可能含有有毒、有害成分是明知的。\n- **行为人的职业和文化程度**：行为人的职业背景、文化程度和行业经验可以作为判断其是否具有鉴别药品真假能力的依据。例如，【（2020）渝0117刑初610号】中，吴某某销售的“虫草鹿鞭丸”等产品，因其具有一定的行业经验，且产品无合法有效的来历凭证，被认定为主观上明知产品可能含有有毒、有害成分。\n- **药品的价格**：如果药品价格明显低于市场价，可以推定行为人可能明知药品存在问题。例如，【（2015）徐刑二终字第168号】中，行为人从非法渠道大量购进来源可疑且价格明显低于市场价的药品，被认定为主观上明知所售“药品”为假药。\n- **行为人对药品真假的鉴别能力**：行为人对药品常识及假药危害的知晓程度，以及涉足药品行业的时间，可以作为判断其是否具有鉴别药品真假能力的依据。例如，【（2021）鲁13刑终99号】中，郭某和孙某某对减肥产品及西布曲明成分的主观认知度较高，被认定为主观上明知产品可能含有有毒、有害成分。\n- **行为人在制售假药过程中的违法追逐暴利的思想和行为表现**：如果行为人在制售假药过程中有明显的违法追逐暴利的思想和行为表现，可以作为判断其主观明知的依据。例如，【（2021）鲁13刑终99号】中，郭某和孙某某在明知淘宝平台对其销售三无产品进行提示预警，市场监督管理部门对其销售不合格产品立案调查的情况下，伪造检测报告、产品三证、通过不正当途径购买相关产品的授权、食品生产许可证编号、包装等继续销售涉案产品，企图躲避相关部门的调查，被认定为主观上明知产品可能含有有毒、有害成分。\n\n综上，销售假药案件中认定“明知”的主观故意，法院会综合考虑多个因素，包括药品的销售渠道、价格、包装、行为人的职业和文化程度、药品的明显瑕疵、行为人对药品真假的鉴别能力、涉足药品行业的时间、对药品常识及假药危害的知晓程度，以及行为人在制售假药过程中的违法追逐暴利的思想和行为表现等。",
+            "销售假药获利2000元但销售数量达160余盒的量刑标准？": "### 结论\n销售假药获利2000元但销售数量达160余盒的量刑标准，需综合考虑销售金额、销售数量、是否构成犯罪未遂、是否如实供述、是否自首、是否退出违法所得、是否适用缓刑及禁止令等因素。具体量刑可能在有期徒刑二年以下至拘役，并处罚金，具体刑期和罚金数额根据案件具体情节而定。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十三条**：规定了犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述可以从轻处罚的原则。\n- **《中华人民共和国刑法》第七十二条**：规定了适用缓刑的条件。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第四条第（六）项**：规定了生产、销售金额五十万元以上的，应当认定为“其他特别严重情节”。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **销售金额和数量**：销售金额和数量是量刑的重要依据。例如，【（2016）苏10刑终24号】中，销售金额五十万元以上被认定为“其他特别严重情节”，而【（2017）津01刑终83号】中，销售金额虽未达到特别严重情节，但因大部分药品未完成包装，被认定为犯罪未遂。\n- **犯罪未遂**：如果大部分药品尚未完成包装，未标价、未售出，可以认定为犯罪未遂，如【（2017）津01刑终83号】。\n- **如实供述和自首**：如实供述自己的罪行，可以从轻处罚，如【（2016）苏10刑终24号】和【（2017）津01刑终83号】。\n- **退出违法所得**：退出全部或部分违法所得，可以从轻处罚，如【（2016）苏10刑终24号】。\n- **适用缓刑及禁止令**：根据案件具体情节，可以给予缓刑考验期限，并禁止在缓刑考验期内从事药品生产、销售及相关活动，如【（2016）苏10刑终24号】、【（2018）京0105刑初2890号】和【（2018）浙03刑终674号】。\n\n综上，销售假药获利2000元但销售数量达160余盒的量刑，需综合考虑上述因素，具体量刑结果将根据案件的具体情节而定。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：\n1.质疑\"明知\"主观要件的直接证据不足，仅凭进货价格低和包装简陋不足以认定被告人明确知晓药品为假药。\n2.指出检测报告仅针对部分药品成分进行检测，未对全部涉案药品进行全面检测，证据不充分。\n3.强调现有证据仅显示部分消费者反映\"无效\"和\"不适\"，未达到刑法要求的\"严重危害\"程度。\n\n防御策略：\n1.突出被告人主动投案并如实供述，符合自首情节，依法应从轻处罚。\n2.强调销售金额和获利较小(2000余元)，社会危害性较低。\n3.说明被告人系初犯，无前科，具有合法经营资质，认罪认罚态度良好，具有悔罪表现。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪中'明知'要件的认定标准",
+              "小额销售假药案件从轻处罚的判例参考"
+            ],
+            "销售假药罪中'明知'要件的认定标准": "### 结论\n销售假药罪中'明知'要件的认定标准，主要依据行为人的主观认知、行为方式、药品来源、价格、包装、交易渠道、行为人职业背景、文化程度、行业经验等综合因素进行判断。行为人辩称不明知所售药品为假药时，法院会结合行为人在制售假药过程中的具体行为、涉案药品的特性、行为人的行业知识和经验、以及相关证人证言和鉴定意见等进行综合分析。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪，其中主观上有无生产、销售假药的故意，是认定该罪成立与否的主观要件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人对药品真假的鉴别能力和资质的认知**：行为人是否具备药品鉴别能力，是否明知从事药品经营需具备相应资质。例如，【（2015）徐刑二终字第168号】中，行为人从非法渠道大量购进来源可疑且价格明显低于市场价的药品，可以认定其主观上明知所售“药品”为假药。\n- **行为人在制售假药过程中违法追逐暴利的思想和行为表现**：行为人是否追求高额利润，是否从非法渠道购进药品。例如，【（2019）苏09刑终313号】中，被告人杨海某向不具有资质的销售者购买假冒的人血白蛋白，与在医院工作的医生被告人陈某共谋将假冒的人血白蛋白放置于医院药房冰柜内，欲对外销售，且不能提供该药品合法有效的来历证明，应认定行为人主观明知。\n- **销售环节行为人对药品真实性的怀疑或者应当引起的怀疑**：行为人是否对药品的真实性有怀疑，是否应当怀疑药品的真实性。例如，【（2016）苏02刑终4号】中，行为人在销售时将标注为卫食证字的产品作为药品宣传，且产品外包装、说明书及宣传册中均表明该产品具有治疗某种疾病的功能，可以认定行为人主观上明知销售假药。\n- **行为人涉足药品行业的时间和对药品常识及假药危害的知晓**：行为人是否长期从事药品行业，是否了解药品常识和假药的危害。例如，【（2021）沪0105民初20374号】中，被告听隆洪经营部作为销售者，在法律对药品管理有明确规定的情况下，未提供合法进货渠道、亦未验明药品合格证明和其他标识，仍进行销售，应视为销售明知是劣药的行为。\n- **违法制售假药过程中各行为人供述及相关证人证言对犯罪事实的相互印证**：行为人供述与证人证言是否一致，是否能相互印证。例如，【（2019）苏09刑终313号】中，被告人杨海某与陈某的供述与证人证言相互印证，证明了其主观明知。\n- **行为人的年龄、文化程度、职业、阅历等方面综合情况**：行为人的个人背景是否影响其对药品真假的判断。例如，【（2015）徐刑二终字第168号】中，行为人明知从事药品经营需具备相应资质，但其仍从非法渠道大量购进来源可疑且价格明显低于市场价的药品，通过非法渠道进行销售，可以认定其主观上明知所售“药品”为假药。\n\n综上，销售假药罪中'明知'要件的认定，法院会综合考虑行为人的主观认知、行为方式、药品来源、价格、包装、交易渠道、行为人职业背景、文化程度、行业经验等多方面因素，以判断行为人是否主观上明知所售药品为假药。\n\n#####\n类似案件为：\n【（2021）沪0105民初20374号】：本院认为，原告与被告听隆洪经营部间的信息网络买卖合同因购买涉案商品而依法成立。涉案商品虽有标签，但标签上的批准文号和经销商名称均不存在，且未按规定标注药品上市许可持有人及其地址、生产企业及其地址等必要信息，因此认定为不符合药品标准的劣药。被告听隆洪经营部未提供合法进货渠道和药品合格证明，明知是劣药仍进行销售，依法应承担销售明知是劣药的法律责任。原告有权请求被告听隆洪经营部支付所付价款十倍的赔偿金，同时，原告应将商品退还，被告听隆洪经营部有义务办理退货，商品不能退还的，按单价折抵应退价款。对于被告寻梦公司，因其审核了被告听隆洪经营部的证照，提供了销售者的真实信息，且不存在明知或应知被告利用平台侵犯消费者权益未采取措施的情况，故不承担连带责任。原告关于寻梦公司承担连带赔偿责任的请求，因缺乏法定依据，不予支持。一、被告深圳市龙岗区听隆洪食品经营部应于本判决生效之日起十日内退还原告吕金凤购物款987元；原告吕金凤同时应将涉案商品“正品麝香粉中药材四川阿坝州麝香整盒人工麝香粉1克包邮”全部退还被告深圳市龙岗区听隆洪食品经营部；若未能退货，被告深圳市龙岗区听隆洪食品经营部可扣除相应货款；\n二、被告深圳市龙岗区听隆洪食品经营部应于本判决生效之日起十日内支付原告吕金凤赔偿金9,870元；\n三、驳回原告吕金凤的其余诉讼请求。\n如果未按照本判决指定的期间履行给付金钱义务，应当依照《中华人民共和国民事诉讼法》第二百五十三条之规定加倍支付迟延履行期间的债务利息。",
+            "小额销售假药案件从轻处罚的判例参考": "### 结论\n小额销售假药案件中，法院在判罚时会考虑被告人的自首情节、认罪态度、社会危害性、犯罪情节、是否造成实际伤害后果、是否适用缓刑以及禁止令的适用等。对于自首、认罪态度好、社会危害性较小、未造成实际伤害后果的被告人，法院倾向于从轻处罚，甚至适用缓刑，并可能附加禁止令限制其在缓刑考验期内从事药品生产、销售及相关活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的可以从轻处罚。\n- **《中华人民共和国刑法》第七十二条**：规定了缓刑的适用条件。\n- **《中华人民共和国刑法》第七十三条**：规定了缓刑考验期限。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的适用。\n- **《中华人民共和国药品管理法》第四十八条第三款第二项**：规定了按假药论处的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：【（2018）浙03刑终674号】中，被告人陈某某因自首情节被依法从轻处罚。\n- **认罪态度**：【（2018）京0105刑初2890号】中，被告人谷某某因如实供述所犯罪行，认罪认罚，被从轻处罚并适用缓刑。\n- **社会危害性**：【（2018）浙03刑终674号】中，法院认为涉案药品仅是未经批准进口，相较销售危害人体健康的假药，行为危害性较小，适用缓刑。\n- **犯罪情节**：【（2017）津01刑终83号】中，法院认为被告人张某某生产假药的行为大部分尚未完成包装，未标价、未售出，认定为犯罪未遂，予以从轻处罚。\n- **是否造成实际伤害后果**：【（2017）豫0482刑初字第229号】中，法院认为二被告人销售的药品没有造成他人伤害后果，且部分病人证言证实确实对疾病有较好的治疗效果，犯罪情节轻微，依法可免予刑事处罚。\n- **是否适用缓刑**：【（2018）浙03刑终674号】、【（2018）京0105刑初2890号】中，法院均考虑了被告人的犯罪性质、事实与情节，适用了缓刑。\n- **禁止令的适用**：【（2018）浙03刑终674号】、【（2018）京0105刑初2890号】中，法院均附加了禁止令，限制被告人在缓刑考验期内从事药品生产、销售及相关活动。\n\n综上，小额销售假药案件中，法院在判罚时会综合考虑被告人的自首、认罪态度、社会危害性、犯罪情节、是否造成实际伤害后果等因素，对于情节轻微、社会危害性较小的案件，法院倾向于从轻处罚，甚至适用缓刑，并可能附加禁止令。\n\n#####\n类似案件为：\n【（2017）津01刑终83号】：法院生效判决认为：\n被告人张某某为牟取非法利益，生产假药并具有其他特别严重情节的行为，应以生产假药罪追究其刑事责任。鉴于公安机关查获的大部分药品均未生产完成，应系犯罪未遂，被告人张某某当庭自愿认罪，故依法对其从轻处罚。天津市北辰区人民法院于2016年12月27日作出天津市北辰区人民法院（2016）津0113刑初450号刑事判决：\n被告人张某某犯生产假药罪，判处有期徒刑十年，并处罚金280万元。宣判后，张某某提起上诉。天津市第一中级人民法院于2017年3月14日作出（2017）津01刑终83号刑事裁定：\n驳回上诉，维持原判。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.承认销售行为但强调主观恶性较小：说明进货时虽知渠道不正规但未明确知晓是假药，且销售数量较少。2.突出自首情节：主动投案并如实供述，积极配合调查。3.强调社会危害性低：销售金额仅2000余元，未造成严重健康损害。4.说明初犯情节：无前科记录，具有合法经营资质。5.展现良好认罪态度：自愿认罪认罚，愿意退缴违法所得。6.参考类似判例：援引(2017)豫0482刑初字第229号等小额获利案件从轻处理的先例",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人主观明知销售假药的认定。查明情况：公诉人通过被告人供述、证人证言等证据证明被告人明知药品为假药；辩护人认为\"明知\"缺乏客观证据佐证。审判长认为被告人作为专业人员，结合其供述和客观情况，可认定其主观明知状态。\n\n2.涉案药品是否达到刑法规定的\"足以严重危害人体健康\"标准。查明情况：公诉人提供鉴定意见证明药品不符合国家标准；辩护人质疑检测范围和危害性认定。审判长认为根据司法解释，不符合国家标准的药品即可认定为假药，无需证明具体危害后果。\n\n3.被告人自首情节的认定。查明情况：控辩双方无异议，被告人主动投案并如实供述。审判长认为符合自首构成要件。\n\n4.量刑情节的综合考量。查明情况：包括销售金额较小（2000余元）、未造成严重危害后果、认罪认罚态度良好、愿意退缴违法所得等。审判长认为这些因素应在量刑时予以充分考虑。\n\n5.违法所得的认定与处理。查明情况：被告人确认获利2000元并表示愿意退缴。审判长认为该部分事实已查明，应依法予以追缴。\n\n6.是否适用缓刑的可能性。查明情况：被告人系初犯、认罪态度好、犯罪情节较轻。审判长认为在量刑阶段需结合具体情节进一步评估。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，辩护人对\"明知是假药\"的主观认知提出异议，认为缺乏客观证据佐证。公诉人回应称供述与其他证据相互印证，且被告人作为专业人员应具有判断能力。\n\n2. 公诉人出示鉴定意见（晋食药鉴〔2022〕38号），辩护人质疑：\n   - 仅对部分药品检测，未全面检测170盒药品\n   - 未说明具体检测成分和标准\n   - 不能证明达到\"足以严重危害人体健康\"程度\n公诉人回应称抽样检测合法，且不符合国家标准即构成刑法意义上的假药。\n\n3. 公诉人出示认定意见（晋食药认〔2022〕39号），辩护人指出：\n   - 仅作形式认定，未对\"足以严重危害人体健康\"进行实质判断\n公诉人强调认定意见依法作出，符合刑法规定。\n\n4. 公诉人出示55种假药信息表，辩护人认为：\n   - 不能直接证明本案药品具体情况\n公诉人回应该文件具有法律效力，与涉案药品完全吻合。\n\n5. 公诉人出示检测报告（晋药检〔2022〕156号），辩护人质疑：\n   - 仅检测部分药品\n   - 未说明具体不符合标准的成分及程度\n公诉人强调检测程序合法，不符合国家标准即应认定为假药。\n\n6. 公诉人出示证人高某甲证言，辩护人认为：\n   - 仅证明药品无效\n   - 不能证明\"足以严重危害人体健康\"\n公诉人回应证言与其他证据形成完整证据链。\n\n7. 公诉人出示证人孟某证言，辩护人指出：\n   - 仅反映个别消费者不适\n   - 无医疗诊断证明\n公诉人强调假药认定不以实际危害后果为要件。\n\n8. 公诉人出示证人赵某证言，辩护人认为：\n   - 不能直接证明\"明知是假药\"\n公诉人回应证言与被告人供述相互印证。\n\n9. 辩护人未出示证据，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国药品管理法第九十八条"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药案件中如何认定'足以严重危害人体健康'？",
+              "药品经营者销售假药但未造成实际严重危害后果的量刑标准？"
+            ],
+            "销售假药案件中如何认定'足以严重危害人体健康'？": "### 结论\n在销售假药案件中，\"足以严重危害人体健康\"的认定需综合考虑药品的安全性、有效性、适用症、使用对象以及药品是否在境外合法上市等因素。具体而言，未取得药品相关批准证明文件生产、进口或销售的药品，如果在境外也未合法上市，且属于特定类型药品（如以孕产妇、儿童或危重病人为主要使用对象，或属于麻醉药品、精神药品等），则可直接认定为\"足以严重危害人体健康\"。此外，药品成分是否符合国家药品标准，以及是否造成实际健康损害也是重要考量因素。\n\n### 核心法条\n- **《中华人民共和国药品管理法》第九十八条第二款**：规定了假药的定义，包括以非药品冒充药品或者以他种药品冒充此种药品的情形。\n- **《中华人民共和国刑法》第一百四十二条之一**：规定了妨害药品管理罪，涉及未取得药品相关批准证明文件生产、进口药品或明知是上述药品而销售，足以严重危害人体健康的情形。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第七条第五项**：规定了未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为\"足以严重危害人体健康\"。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品的合法性与安全性**：【（2022）浙0681刑初1076号】中，法院认为未取得药品相关批准证明文件进口药品并销售，且涉案药品在境外也未合法上市，足以严重危害人体健康，构成妨害药品管理罪。\n- **药品的适用症和使用对象**：【（2022）苏0211刑初90号】中，法院认为使用生理盐水冒充疫苗，对被害人的身体健康权益造成了损害，且面临感染风险，构成销售假药罪，且情节特别严重。\n- **药品成分是否符合国家药品标准**：【（2022）吉2403刑初134号】中，法院认为以抽取原液的方式，将足量的疫苗拆分成多支不足量疫苗，导致疫苗成分的含量不符合国家药品标准，应认定为劣药，销售金额在五万元以上，构成销售伪劣产品罪。\n- **是否造成实际健康损害**：【（2019）京0105刑初2822号】中，法院认为涉案药品对于治疗丙肝疾病确有疗效，并未造成患者身体健康损害的结果，故不构成妨害药品管理罪。\n\n综上，\"足以严重危害人体健康\"的认定需综合考量药品的合法性、安全性、适用症、使用对象、成分是否符合国家标准以及是否造成实际健康损害等多方面因素。\n\n#####\n类似案件为：\n【（2022）浙0681刑初1076号】：法院生效裁判认为：根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》（法释〔2021〕24号）第七条第五项的规定，未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为刑法第一百四十二条之一妨害药品管理罪规定的“足以严重危害人体健康”。被告人朱某华违反药品管理法规，未取得药品相关批准证明文件进口药品并销售上述药品，且涉案药品在境外也未合法上市，其行为已构成妨害药品管理罪。朱某华部分犯罪系共同犯罪，在共同犯罪中系从犯，且退缴个人全部违法所得，认罪认罚，可予以从轻处罚。故法院依法作出上述判决。\n【（2022）苏0211刑初90号】：法院生效裁判认为：关于辩护人提出被告人潘某的行为应构成诈骗罪的辩护意见，经查,潘某以生理盐水冒充疫苗符合《中华人民共和国药品管理法》第九十八条第二款之规定，应认定其销售的系假药；潘某侵犯的法益并非仅仅是被害人的财产权，其注射假疫苗的行为本身即对被害人的身体健康权益造成了损害，且被害人注射假疫苗后面临的感染风险亦是对被害人健康权益的损害，虽然潘某的行为同时也符合诈骗罪的犯罪构成，但以诈骗罪定罪处罚并不能对其行为进行全面评价，应当以销售假药罪对其定罪处罚，并认定为“情节特别严重”。潘某主动投案，归案后如实供述自己的罪行，系自首，可以依法减轻处罚。故依法作出如上判决。\n【（2022）吉2403刑初134号】：法院生效判决认为，被告人闫某以非法获利为目的，将其负责保管、销售、接种的四价HPV疫苗进行拆分，导致疫苗成份的含量不符合国家药品标准，应当认定为《中华人民共和国药品管理法》第98条第3款第一项规定的劣药。闫某销售劣药行为，未对人体健康造成严重危害，故不构成销售劣药罪。根据刑法第149条第一款的规定，生产、销售该节第141条至第148条所列产品，不构成各该条规定的犯罪，但是销售金额在五万元以上的，依照第140条的规定（生产、销售伪劣产品罪）定罪处罚。闫某以不足量、不合格疫苗冒充足量、合格疫苗为受种者接种，销售金额达74万余元，其行为已构成销售伪劣产品罪，依法应当判处七年以上有期徒刑，并处销售金额百分之五十以上二倍以下罚金。故法院依法作出上述判决。",
+            "药品经营者销售假药但未造成实际严重危害后果的量刑标准？": "### 结论\n药品经营者销售假药但未造成实际严重危害后果的量刑标准，主要取决于销售金额、是否属于特别严重情节、是否构成犯罪未遂、是否如实供述罪行、是否退出违法所得、是否适用缓刑及禁止令等因素。法院在量刑时会综合考虑上述因素，对于销售金额巨大、具有其他特别严重情节的，即使未造成实际严重危害后果，也可能判处十年以上有期徒刑；对于销售金额较小、未造成实际严重危害后果、如实供述罪行、退出违法所得的，可能判处较轻刑罚，甚至适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十三条**：规定了犯罪未遂的处罚原则。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述罪行可以从轻处罚的原则。\n- **《中华人民共和国刑法》第七十二条**：规定了缓刑的适用条件。\n- **《中华人民共和国刑法》第七十三条**：规定了缓刑考验期限。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的适用。\n- **《中华人民共和国刑法》第六十四条**：规定了违法所得的追缴和没收。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第四条第（六）项**：规定了销售金额五十万元以上属于“其他特别严重情节”。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第十一条第一款**：规定了禁止令的适用。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **销售金额和情节严重性**：销售金额巨大、具有其他特别严重情节的，即使未造成实际严重危害后果，也可能判处十年以上有期徒刑。例如，【（2016）苏10刑终24号】中，被告人刘文某销售金额在五十万元以上，被认定为“其他特别严重情节”，判处有期徒刑十年，并处罚金人民币一百四十万元。\n- **犯罪未遂**：对于销售假药的行为，如果大部分药品尚未售出，属于犯罪未遂，法院可能从轻处罚。例如，【（2017）津01刑终83号】中，被告人张树超生产假药的行为属于犯罪未遂，法院依法对其从轻处罚。\n- **如实供述罪行和退出违法所得**：如实供述罪行、退出违法所得的，可以从轻处罚。例如，【（2016）苏10刑终24号】中，被告人刘文某、严某、程贵某、龚元某、龚某归案后如实供述了自己的罪行，且退出了全部或部分违法所得，依法均可以从轻处罚。\n- **适用缓刑及禁止令**：对于销售假药但未造成实际严重危害后果、如实供述罪行、退出违法所得的，可能适用缓刑，并宣告禁止令。例如，【（2018）浙03刑终674号】中，被告人陈某某具有自首情节，涉案药品仅是未经批准进口，行为危害性较小，法院改判适用缓刑，并判处禁止令。\n\n综上，销售假药但未造成实际严重危害后果的量刑标准，主要取决于销售金额、是否属于特别严重情节、是否构成犯罪未遂、是否如实供述罪行、是否退出违法所得、是否适用缓刑及禁止令等因素。法院在量刑时会综合考虑上述因素，对于销售金额巨大、具有其他特别严重情节的，即使未造成实际严重危害后果，也可能判处十年以上有期徒刑；对于销售金额较小、未造成实际严重危害后果、如实供述罪行、退出违法所得的，可能判处较轻刑罚，甚至适用缓刑。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.强化被告人主观明知认定，结合其药品经营资质、供货商无资质、药品价格异常等客观事实，证明其明知假药仍销售的主观故意。2.突出鉴定意见的权威性，强调抽样检测的法律效力，证明涉案药品确系假药且成分不符合国家标准。3.综合证人证言与书证，形成完整证据链，证实销售假药的数量、获利及部分消费者出现不适症状的事实。4.根据《刑法》第141条及司法解释，论证不符合国家标准的药品即构成刑法意义上的假药，无需证明实际危害后果。5.建议量刑时考虑被告人认罪态度、主动投案等从轻情节。\n\n防御策略：1.坚持鉴定程序合法性，强调CMA资质及《药品抽样检验管理办法》对批次认定的规定。2.维护证人证言证明力，指出个别证言虽有限但与其他证据相互印证的整体证明价值。3.反驳辩护人对\"足以严重危害人体健康\"要件的质疑，援引司法解释明确假药认定标准。4.巩固被告人供述真实性，结合其专业背景说明认知能力的合理性。5.强调55种假药名录的法律效力，证明涉案药品属于国家明令禁止范畴。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，辩护人对\"明知是假药\"的主观认知提出异议，认为缺乏客观证据佐证。公诉人回应称供述与其他证据相互印证，且被告人作为专业人员应具有判断能力。\n\n2. 公诉人出示鉴定意见（晋食药鉴〔2022〕38号），辩护人质疑：\n   - 仅对部分药品检测，未全面检测170盒药品\n   - 未说明具体检测成分和标准\n   - 不能证明达到\"足以严重危害人体健康\"程度\n公诉人回应称抽样检测合法，且不符合国家标准即构成刑法意义上的假药。\n\n3. 公诉人出示认定意见（晋食药认〔2022〕39号），辩护人指出：\n   - 仅作形式认定，未对\"足以严重危害人体健康\"进行实质判断\n公诉人强调认定意见依法作出，符合刑法规定。\n\n4. 公诉人出示55种假药信息表，辩护人认为：\n   - 不能直接证明本案药品具体情况\n公诉人回应该文件具有法律效力，与涉案药品完全吻合。\n\n5. 公诉人出示检测报告（晋药检〔2022〕156号），辩护人质疑：\n   - 仅检测部分药品\n   - 未说明具体不符合标准的成分及程度\n公诉人强调检测程序合法，不符合国家标准即应认定为假药。\n\n6. 公诉人出示证人高某甲证言，辩护人认为：\n   - 仅证明药品无效\n   - 不能证明\"足以严重危害人体健康\"\n公诉人回应证言与其他证据形成完整证据链。\n\n7. 公诉人出示证人孟某证言，辩护人指出：\n   - 仅反映个别消费者不适\n   - 无医疗诊断证明\n公诉人强调假药认定不以实际危害后果为要件。\n\n8. 公诉人出示证人赵某证言，辩护人认为：\n   - 不能直接证明\"明知是假药\"\n公诉人回应证言与被告人供述相互印证。\n\n9. 辩护人未出示证据，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国药品管理法第九十八条"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪中'足以严重危害人体健康'的认定标准",
+              "药品成分不符合国家标准但未造成实际危害后果的刑事处罚案例"
+            ],
+            "销售假药罪中'足以严重危害人体健康'的认定标准": "### 结论\n在销售假药罪中，“足以严重危害人体健康”的认定标准主要考虑药品的安全性、有效性，药品的适用症和使用对象，以及药品是否在境外合法上市等因素。具体而言，如果药品缺乏安全性、有效性，或针对孕产妇、儿童、危重病人，或属于特定药品类型，或在境外未合法上市，均可能被认定为“足以严重危害人体健康”。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十二条之一**：规定了妨害药品管理罪，其中“足以严重危害人体健康”是构成该罪的重要条件。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第七条第五项**：规定了未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外未合法上市的，应当认定为“足以严重危害人体健康”。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品的安全性和有效性**：如果药品本身缺乏安全性和有效性，或生产环境和条件无法保障药品的安全性和有效性，可能被认定为“足以严重危害人体健康”。例如，【（2022）浙0681刑初1076号】中，朱某华进口并销售在境外未合法上市的药品，被认定为妨害药品管理罪。\n- **药品的适用症和使用对象**：如果药品针对孕产妇、儿童或患有危重疾病的病患，或属于麻醉药品、精神药品、急救药品等国家重点管控的药品，可能被认定为“足以严重危害人体健康”。例如，【（2023）新刑终28号】中，被告单位将工业氧冒充医用氧销售给医院，被认定为销售假药罪。\n- **药品在境外是否合法上市**：如果药品在境外未合法上市，可能直接认定为“足以严重危害人体健康”。例如，【（2022）浙0681刑初1076号】中，朱某华进口并销售在境外未合法上市的药品，被认定为妨害药品管理罪。\n\n综上，药品的安全性、有效性，适用症和使用对象，以及在境外是否合法上市，是判断“足以严重危害人体健康”的关键因素。这些因素的综合考量，有助于准确界定妨害药品管理罪的构成要件，确保对危害药品安全犯罪的全面惩治。\n\n#####\n类似案件为：\n【（2022）浙0681刑初1076号】：法院生效裁判认为：根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》（法释〔2021〕24号）第七条第五项的规定，未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为刑法第一百四十二条之一妨害药品管理罪规定的“足以严重危害人体健康”。被告人朱某华违反药品管理法规，未取得药品相关批准证明文件进口药品并销售上述药品，且涉案药品在境外也未合法上市，其行为已构成妨害药品管理罪。朱某华部分犯罪系共同犯罪，在共同犯罪中系从犯，且退缴个人全部违法所得，认罪认罚，可予以从轻处罚。故法院依法作出上述判决。\n【（2023）新刑终28号】：法院生效裁判认为：被告单位某气体制造有限公司、被告人张某英、张某军、田某忠将工业氧冒充医用氧向医院进行销售，销售金额共计5844903.2元，情节特别严重，其行为均已构成销售假药罪。医用氧被列入《中华人民共和国药典》，应当按照药品进行管理。工业氧用于工业生产及产品加工，其中存在一氧化碳、二氧化碳等对人体有害物质，质量标准不同于医用氧。被告单位及三被告人将工业氧冒充医用氧进行销售，属于“非药品冒充药品”，符合《中华人民共和国药品管理法》第九十八条第二款有关假药的规定。销售假药罪侵犯的客体既有不特定多数人的身体健康、生命安全，也有国家药品管理秩序。本案将工业氧冒充医用氧销售的行为具有较大的社会危害性，销售金额50万元以上，情节特别严重，严重损害国家对药品的管理秩序，应依法惩处。被告单位某气体制造有限公司积极退缴违法所得，可以酌情从轻处罚。被告人张某军到案后如实供述犯罪事实，系坦白，可从轻处罚。据此，一、二审法院作出上述裁判。\n【（2022）浙0681刑初1076号】：法院生效裁判认为：根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》（法释〔2021〕24号）第七条第五项的规定，未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为刑法第一百四十二条之一妨害药品管理罪规定的“足以严重危害人体健康”。被告人朱某华违反药品管理法规，未取得药品相关批准证明文件进口药品并销售上述药品，且涉案药品在境外也未合法上市，其行为已构成妨害药品管理罪。朱某华部分犯罪系共同犯罪，在共同犯罪中系从犯，且退缴个人全部违法所得，认罪认罚，可予以从轻处罚。故法院依法作出上述判决。",
+            "药品成分不符合国家标准但未造成实际危害后果的刑事处罚案例": "### 结论\n药品成分不符合国家标准但未造成实际危害后果的，若销售金额达到五万元以上，根据刑法第149条第一款的规定，以销售伪劣产品罪定罪处罚，不构成销售劣药罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第149条第一款**：生产、销售本节第一百四十一条至第一百四十八条所列产品，构成各该条规定的犯罪，同时又构成本节第一百四十条规定之罪的，依照处罚较重的规定定罪处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品成分与国家药品标准的符合性**：药品成分不符合国家药品标准是构成劣药的关键因素。例如，【（2013）韶中法刑二终字第2号】中，被告人钟某某生产、销售的药品未取得药品批准文号，构成生产、销售假药罪，但因其销售金额巨大，最终以生产、销售伪劣产品罪定罪处罚。\n- **是否造成实际危害后果**：药品成分不符合国家标准但未造成实际危害后果的，不构成销售劣药罪。例如，【（2022）鲁0124民初2045号】中，虽然销售的茶叶标签不符合食品安全法规定，但因未造成实际危害后果，且销售者履行了进货查验义务，未认定为明知销售不符合食品安全标准的食品。\n- **销售金额**：销售金额达到五万元以上，根据刑法第149条第一款的规定，以销售伪劣产品罪定罪处罚。例如，【（2013）韶中法刑二终字第2号】中，被告人钟某某生产、销售假药的数额达303940元，其行为应以生产、销售伪劣产品罪定罪处罚。\n\n综上，药品成分不符合国家标准但未造成实际危害后果，销售金额达到五万元以上的，应以销售伪劣产品罪定罪处罚，不构成销售劣药罪。这体现了刑法在处理药品安全问题时，既重视药品成分的合规性，也考虑了实际危害后果和销售金额对定罪量刑的影响。\n\n#####\n类似案件为：\n【（2022）鲁0124民初2045号】：本院认为，关键争议在于平阴艺茗商行销售案涉茶叶时是否明知产品不符合食品安全标准。依据《中华人民共和国食品安全法》，食品经营者在履行了规定的进货查验等义务，并能证明其不知所采购食品不符合食品安全标准，且能说明进货来源的，可免予处罚。米远兴主张退还货款并支付十倍赔偿金，需证明商行明知销售的是不符合标准的食品。本案中，米远兴购买的台湾明红礼盒茶和印象台湾礼盒茶，虽标签有瑕疵，但平阴艺茗商行履行了进货查验义务，提供了合法进货来源，未构成“明知”。宫廷熟普礼盒茶和碎银子礼盒茶虽未直接标注生产日期等信息，但经市场监督管理局核实，符合散装食品信息公示要求。因此，米远兴的主张无事实及法律依据，不予支持。提交的其他法院判决因案情不同，不具参考意义。综上，米远兴的诉讼请求不成立。驳回原告米远兴的诉讼请求。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.继续质疑\"明知是假药\"的主观故意证据不足，强调仅凭进货渠道不正规和价格异常不足以认定主观明知。2.指出检测报告和鉴定意见仅对部分药品进行抽样检测，无法证明全部170盒药品均为假药。3.强调现有证据仅显示个别消费者反映\"无效\"和\"不适\"，未达到刑法要求的\"足以严重危害人体健康\"的程度。\n\n防御策略：1.突出被告人主动投案并如实供述的自首情节，依法应从轻处罚。2.强调销售金额和获利较小(2000余元)，社会危害性较低。3.说明被告人系初犯，无前科，具有合法经营资质，认罪认罚态度良好，具有悔罪表现，符合适用缓刑条件。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，辩护人对\"明知是假药\"的主观认知提出异议，认为缺乏客观证据佐证。公诉人回应称供述与其他证据相互印证，且被告人作为专业人员应具有判断能力。\n\n2. 公诉人出示鉴定意见（晋食药鉴〔2022〕38号），辩护人质疑：\n   - 仅对部分药品检测，未全面检测170盒药品\n   - 未说明具体检测成分和标准\n   - 不能证明达到\"足以严重危害人体健康\"程度\n公诉人回应称抽样检测合法，且不符合国家标准即构成刑法意义上的假药。\n\n3. 公诉人出示认定意见（晋食药认〔2022〕39号），辩护人指出：\n   - 仅作形式认定，未对\"足以严重危害人体健康\"进行实质判断\n公诉人强调认定意见依法作出，符合刑法规定。\n\n4. 公诉人出示55种假药信息表，辩护人认为：\n   - 不能直接证明本案药品具体情况\n公诉人回应该文件具有法律效力，与涉案药品完全吻合。\n\n5. 公诉人出示检测报告（晋药检〔2022〕156号），辩护人质疑：\n   - 仅检测部分药品\n   - 未说明具体不符合标准的成分及程度\n公诉人强调检测程序合法，不符合国家标准即应认定为假药。\n\n6. 公诉人出示证人高某甲证言，辩护人认为：\n   - 仅证明药品无效\n   - 不能证明\"足以严重危害人体健康\"\n公诉人回应证言与其他证据形成完整证据链。\n\n7. 公诉人出示证人孟某证言，辩护人指出：\n   - 仅反映个别消费者不适\n   - 无医疗诊断证明\n公诉人强调假药认定不以实际危害后果为要件。\n\n8. 公诉人出示证人赵某证言，辩护人认为：\n   - 不能直接证明\"明知是假药\"\n公诉人回应证言与被告人供述相互印证。\n\n9. 辩护人未出示证据，被告人不申请调取新证据。",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪中'足以严重危害人体健康'的认定标准",
+              "药品成分不符合国家标准但未造成实际严重危害后果的案例判决"
+            ],
+            "销售假药罪中'足以严重危害人体健康'的认定标准": "### 结论\n在销售假药罪中，“足以严重危害人体健康”的认定标准主要考虑药品的安全性、有效性，药品的适用症和使用对象，以及药品是否在境外合法上市等因素。具体而言，如果药品缺乏安全性、有效性，或针对孕产妇、儿童、危重病人，或属于特定药品类型，或在境外未合法上市，均可能被认定为“足以严重危害人体健康”。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十二条之一**：规定了妨害药品管理罪，其中“足以严重危害人体健康”是构成该罪的重要条件。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第七条第五项**：规定了未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外未合法上市的，应当认定为“足以严重危害人体健康”。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品的安全性和有效性**：如果药品本身缺乏安全性和有效性，或生产环境和条件无法保障药品的安全性和有效性，可能被认定为“足以严重危害人体健康”。例如，【（2022）浙0681刑初1076号】中，朱某华进口并销售在境外未合法上市的药品，被认定为妨害药品管理罪。\n- **药品的适用症和使用对象**：如果药品针对孕产妇、儿童或患有危重疾病的病患，或属于麻醉药品、精神药品、急救药品等国家重点管控的药品，可能被认定为“足以严重危害人体健康”。例如，【（2023）新刑终28号】中，被告单位将工业氧冒充医用氧销售给医院，被认定为销售假药罪。\n- **药品在境外是否合法上市**：如果药品在境外未合法上市，可能直接认定为“足以严重危害人体健康”。例如，【（2022）浙0681刑初1076号】中，朱某华进口并销售在境外未合法上市的药品，被认定为妨害药品管理罪。\n\n综上，药品的安全性、有效性，适用症和使用对象，以及在境外是否合法上市，是判断“足以严重危害人体健康”的关键因素。这些因素的综合考量，有助于准确界定妨害药品管理罪的构成要件，确保对危害药品安全犯罪的全面惩治。\n\n#####\n类似案件为：\n【（2022）浙0681刑初1076号】：法院生效裁判认为：根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》（法释〔2021〕24号）第七条第五项的规定，未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为刑法第一百四十二条之一妨害药品管理罪规定的“足以严重危害人体健康”。被告人朱某华违反药品管理法规，未取得药品相关批准证明文件进口药品并销售上述药品，且涉案药品在境外也未合法上市，其行为已构成妨害药品管理罪。朱某华部分犯罪系共同犯罪，在共同犯罪中系从犯，且退缴个人全部违法所得，认罪认罚，可予以从轻处罚。故法院依法作出上述判决。\n【（2023）新刑终28号】：法院生效裁判认为：被告单位某气体制造有限公司、被告人张某英、张某军、田某忠将工业氧冒充医用氧向医院进行销售，销售金额共计5844903.2元，情节特别严重，其行为均已构成销售假药罪。医用氧被列入《中华人民共和国药典》，应当按照药品进行管理。工业氧用于工业生产及产品加工，其中存在一氧化碳、二氧化碳等对人体有害物质，质量标准不同于医用氧。被告单位及三被告人将工业氧冒充医用氧进行销售，属于“非药品冒充药品”，符合《中华人民共和国药品管理法》第九十八条第二款有关假药的规定。销售假药罪侵犯的客体既有不特定多数人的身体健康、生命安全，也有国家药品管理秩序。本案将工业氧冒充医用氧销售的行为具有较大的社会危害性，销售金额50万元以上，情节特别严重，严重损害国家对药品的管理秩序，应依法惩处。被告单位某气体制造有限公司积极退缴违法所得，可以酌情从轻处罚。被告人张某军到案后如实供述犯罪事实，系坦白，可从轻处罚。据此，一、二审法院作出上述裁判。\n【（2022）浙0681刑初1076号】：法院生效裁判认为：根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》（法释〔2021〕24号）第七条第五项的规定，未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为刑法第一百四十二条之一妨害药品管理罪规定的“足以严重危害人体健康”。被告人朱某华违反药品管理法规，未取得药品相关批准证明文件进口药品并销售上述药品，且涉案药品在境外也未合法上市，其行为已构成妨害药品管理罪。朱某华部分犯罪系共同犯罪，在共同犯罪中系从犯，且退缴个人全部违法所得，认罪认罚，可予以从轻处罚。故法院依法作出上述判决。",
+            "药品成分不符合国家标准但未造成实际严重危害后果的案例判决": "### 结论\n药品成分不符合国家标准但未造成实际严重危害后果的案例中，法院判决的关键在于药品是否构成假药或劣药，以及销售行为是否构成犯罪。若药品成分不符合国家标准，但未对人体健康造成严重危害，且销售金额达到一定数额，可能以销售伪劣产品罪定罪处罚，而非销售劣药罪。在民事责任方面，若消费者因不符合安全标准的药品受到损害，可以要求生产者或销售者赔偿损失，但若未造成实际损害，惩罚性赔偿可能不予支持。\n\n### 核心法条\n- **《中华人民共和国药品管理法》第二十四条**：在中国境内上市的药品，应当经国务院药品监督管理部门批准，取得药品注册证书。\n- **《中华人民共和国刑法》第149条第一款**：生产、销售本节第一百四十一条至第一百四十八条所列产品，不构成各该条规定的犯罪，但是销售金额在五万元以上的，依照本节第一百四十条的规定定罪处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品成分与国家标准的符合性**：药品成分必须与国家药品标准相符，否则可能构成假药或劣药。例如，【（2022）鄂11民终2959号】中，案涉药品无国内的药品注册证号，被认定不符合我国药品安全标准。\n- **是否造成实际损害**：即使药品成分不符合国家标准，若未造成消费者实际损害，法院可能不支持惩罚性赔偿。如【（2022）鲁02民终4999号】中，上诉人食用半瓶来自核辐射区的产品，未造成损害，不构成惩罚性赔偿。\n- **销售金额与犯罪定性**：销售金额达到一定数额，即使药品未对人体健康造成严重危害，也可能以销售伪劣产品罪定罪处罚。相关观点指出，销售拆分不足量疫苗的行为，未造成严重危害的，销售金额在五万元以上的，以销售伪劣产品罪定罪处罚。\n\n综上，药品成分不符合国家标准但未造成实际严重危害后果的案例中，法院判决主要依据药品成分是否符合国家标准、是否造成实际损害以及销售金额大小来决定是否构成犯罪及民事责任的承担。\n\n#####\n类似案件为：\n【（2022）鄂11民终2959号】：本院认为，郝吉川仔与麻城市悦丽养生阁的买卖合同关系明确。针对悦丽养生阁辩称郝吉川仔为知假买假的职业打假人，本院指出，《最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定》未限制消费者主观动机，但区分了两种知假买假消费者：一为已知商品不合格仍购买，二为职业打假人以牟利为目的购买不合格商品并主张权利。直接诉诸法院主张十倍赔偿的行为，与《消费者权益保护法》立法精神相悖，不利于市场净化，故对郝吉川仔的十倍惩罚性赔偿请求不予支持。鉴于案涉药品无国内注册证号，认定不符合我国药品安全标准，郝吉川仔请求退款符合法律规定，应予支持。根据民事诉讼法解释，对未上诉内容不予审理。综上，悦丽养生阁上诉请求成立，一审判决法律适用有误，应予纠正。一、维持湖北省麻城市人民法院（2022）鄂1181民初560号\n民事判决的第一项，即麻城市悦丽养生阁于判决生效之日起十日内退还郝吉川仔货款6000元；\n二、撤销湖北省麻城市人民法院（2022）鄂1181民初560号民事判决的第二项，即麻城市悦丽养生阁于判决生效之日起十日内支付郝吉川仔赔偿金60000元；\n三、驳回郝吉川仔其他诉讼请求。\n【（2022）鲁02民终4999号】：本院认为，依据《民法典》及《最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定》，产品责任构成要件需有损害事实。本案中，产品虽来自核辐射区，存在食品安全隐患，上诉人因而有权要求退货退款。然而，上诉人虽食用了部分产品，但未造成健康损害，故不满足惩罚性赔偿的“明知”与损害条件。鉴于此，一审判决驳回上诉人要求十倍价款赔偿的请求，符合法律规定，处理并无不当。驳回上诉，维持原判。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.承认销售行为但强调主观恶性较小：说明进货时虽知渠道不正规但未明确知晓是假药，且销售数量较少。2.突出自首情节：主动投案并如实供述，积极配合调查。3.强调社会危害性低：销售金额仅2000余元，未造成严重健康损害。4.说明初犯情节：无前科记录，具有合法经营资质。5.展现良好认罪态度：自愿认罪认罚，愿意退缴违法所得。6.参考类似判例：援引(2017)豫0482刑初字第229号等小额获利案件从轻处理的先例",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人主观明知销售假药的认定。查明情况：公诉人通过被告人供述、证人证言及专业经营者注意义务等证据证明被告人明知药品为假药；辩护人认为\"明知\"缺乏客观证据佐证，且被告人已尽形式审查义务。审判长认为被告人作为专业人员，结合其供述和进货渠道异常、价格明显偏低等客观情况，可认定其主观明知状态。\n\n2.涉案药品是否达到刑法规定的\"足以严重危害人体健康\"标准。查明情况：公诉人提供鉴定意见证明药品不符合国家标准；辩护人质疑检测范围和危害性认定，认为无严重危害后果证据。审判长认为根据司法解释，不符合国家标准的药品即可认定为假药，无需证明具体危害后果，但实际危害程度可作为量刑考量因素。\n\n3.销售金额的准确认定。查明情况：公诉人指控销售金额15万元；辩护人认为仅有部分销售单据，不能证明全部金额。审判长认为需结合被告人供述的2000余元获利与书证进一步核实。\n\n4.抽样检测的法律效力及批次认定。查明情况：公诉人认为3个批次检测可推定全部为假药；辩护人指出5个批次中2个未检测，且生产日期跨度大不应简单推定。审判长认为需审查抽样程序合法性及批次同一性认定依据。\n\n5.量刑情节的综合考量。查明情况：包括自首成立（无争议）、销售金额争议、未造成严重危害后果、认罪认罚态度良好、愿意退缴违法所得等。审判长认为自首、认罪态度等从轻情节明确，但需结合销售金额等事实最终确定量刑幅度。\n\n6.是否适用缓刑的可能性。查明情况：辩护人提出被告人系初犯、情节较轻；公诉人未明确反对。审判长认为需待全部事实查清后，结合社会危害性评估决定。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，辩护人对\"明知是假药\"的主观认知提出异议，认为缺乏客观证据佐证。公诉人回应称供述与其他证据相互印证，且被告人作为专业人员应具有判断能力。\n\n2. 公诉人出示鉴定意见（晋食药鉴〔2022〕38号），辩护人质疑：\n   - 仅对部分药品检测，未全面检测170盒药品\n   - 未说明具体检测成分和标准\n   - 不能证明达到\"足以严重危害人体健康\"程度\n公诉人回应称抽样检测合法，且不符合国家标准即构成刑法意义上的假药。\n\n3. 公诉人出示认定意见（晋食药认〔2022〕39号），辩护人指出：\n   - 仅作形式认定，未对\"足以严重危害人体健康\"进行实质判断\n公诉人强调认定意见依法作出，符合刑法规定。\n\n4. 公诉人出示55种假药信息表，辩护人认为：\n   - 不能直接证明本案药品具体情况\n公诉人回应该文件具有法律效力，与涉案药品完全吻合。\n\n5. 公诉人出示检测报告（晋药检〔2022〕156号），辩护人质疑：\n   - 仅检测部分药品\n   - 未说明具体不符合标准的成分及程度\n公诉人强调检测程序合法，不符合国家标准即应认定为假药。\n\n6. 公诉人出示证人高某甲证言，辩护人认为：\n   - 仅证明药品无效\n   - 不能证明\"足以严重危害人体健康\"\n公诉人回应证言与其他证据形成完整证据链。\n\n7. 公诉人出示证人孟某证言，辩护人指出：\n   - 仅反映个别消费者不适\n   - 无医疗诊断证明\n公诉人强调假药认定不以实际危害后果为要件。\n\n8. 公诉人出示证人赵某证言，辩护人认为：\n   - 不能直接证明\"明知是假药\"\n公诉人回应证言与被告人供述相互印证。\n\n9. 辩护人未出示证据，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人作为专业人员，明知供货商无资质且药品价格异常仍大量销售\n- 检测证实55种药品为假药且成分不符国家标准\n- 销售数量2000余盒，非法获利15万元\n- 部分消费者出现不适症状\n- 建议考虑自首情节从宽处理\n\n2. 辩护人主要辩护意见：\n- 缺乏证明被告人明知是假药的直接证据\n- 抽样检测不能推定全部药品为假药\n- 消费者不适症状未达\"严重危害\"标准\n- 被告人具有自首、初犯等从轻情节\n- 销售金额证据不充分，部分批次未被检测\n\n3. 双方争议焦点：\n- 主观故意认定标准\n- 抽样检测的法律效力及批次推定问题\n- 危害后果的证明标准\n- 销售金额的认定依据\n- 专业经营者的注意义务边界",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条",
+              "最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释第一条",
+              "最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释第一条": "生产、销售假药，具有下列情形之一的，应当酌情从重处罚：（一）生产、销售的假药以孕产妇、婴幼儿、儿童或者危重病人为主要使用对象的；（二）生产、销售的假药属于麻醉药品、精神药品、医疗用毒性药品、放射性药品、避孕药品、血液制品、疫苗的；（三）生产、销售的假药属于注射剂药品、急救药品的；（四）医疗机构、医疗机构工作人员生产、销售假药的；（五）在自然灾害、事故灾难、公共卫生事件、社会安全事件等突发事件期间，生产、销售用于应对突发事件的假药的；（六）两年内曾因危害药品安全违法犯罪活动受过行政处罚或者刑事处罚的；（七）其他应当酌情从重处罚的情形。",
+            "最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释第六条": "以生产、销售假药、劣药为目的，实施下列行为之一的，应当认定为刑法第一百四十一条、第一百四十二条规定的“生产”：（一）合成、精制、提取、储存、加工炮制药品原料的行为；（二）将药品原料、辅料、包装材料制成成品过程中，进行配料、混合、制剂、储存、包装的行为；（三）印制包装材料、标签、说明书的行为。医疗机构、医疗机构工作人员明知是假药、劣药而有偿提供给他人使用，或者为出售而购买、储存的行为，应当认定为刑法第一百四十一条、第一百四十二条规定的“销售”。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药案件中如何认定'足以严重危害人体健康'",
+              "药品经营者主观明知的认定标准",
+              "销售假药案件自首情节对量刑的影响",
+              "销售金额较小的假药案件量刑考量因素"
+            ],
+            "销售假药案件中如何认定'足以严重危害人体健康'": "### 结论\n在销售假药案件中，\"足以严重危害人体健康\"的认定主要依据药品的安全性、有效性，药品的适用症和使用对象，以及药品是否在境外合法上市等因素。具体而言，未取得药品相关批准证明文件生产、销售的药品，如果缺乏安全性、有效性数据，或生产条件无法保障药品质量，或针对特定高风险群体，或属于特定类型药品，或在境外未合法上市，均可能被认定为\"足以严重危害人体健康\"。\n\n### 核心法条\n- **《中华人民共和国药品管理法》第98条第3款第一项**：规定劣药的定义，包括药品成份的含量不符合国家药品标准。\n- **《中华人民共和国刑法》第一百四十二条之一**：规定妨害药品管理罪，涉及未取得药品相关批准证明文件生产、进口药品或销售上述药品，足以严重危害人体健康的情形。\n- **《中华人民共和国刑法》第一百四十一条**：规定生产、销售假药罪，涉及生产、销售假药，足以严重危害人体健康的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品的安全性、有效性**：【（2022）浙0681刑初1076号】、【（2019）京0105刑初2822号】、【（2022）吉2403刑初134号】等案例中，法院认为未取得药品相关批准证明文件的药品，由于缺乏真实、充分、可靠的数据、资料和样品证明其安全性、有效性，足以严重危害人体健康。\n- **药品的适用症和使用对象**：【（2022）浙0681刑初1076号】、【（2019）京0105刑初2822号】等案例中，法院认为针对孕产妇、儿童或患有危重疾病的病患的药品，或属于麻醉药品、精神药品、急救药品等国家重点管控的药品，足以严重危害人体健康。\n- **药品在境外是否合法上市**：【（2022）浙0681刑初1076号】案例中，法院认为未取得药品相关批准证明文件进口的药品，如果在境外也未合法上市，足以严重危害人体健康。\n\n综上，\"足以严重危害人体健康\"的认定是一个综合考量药品本身特性、使用对象和药品来源合法性等多个因素的过程，旨在保护公众健康和药品市场秩序。\n\n#####\n类似案件为：\n【（2022）浙0681刑初1076号】：法院生效裁判认为：根据《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》（法释〔2021〕24号）第七条第五项的规定，未取得药品相关批准证明文件进口药品或者明知是上述药品而销售，涉案药品在境外也未合法上市的，应当认定为刑法第一百四十二条之一妨害药品管理罪规定的“足以严重危害人体健康”。被告人朱某华违反药品管理法规，未取得药品相关批准证明文件进口药品并销售上述药品，且涉案药品在境外也未合法上市，其行为已构成妨害药品管理罪。朱某华部分犯罪系共同犯罪，在共同犯罪中系从犯，且退缴个人全部违法所得，认罪认罚，可予以从轻处罚。故法院依法作出上述判决。\n【（2019）京0105刑初2822号】：法院生效裁判认为，涉案行为不构成妨害药品管理罪。2021年3月1日施行的《刑法修正案（十一）》增设第一百四十二条之一，规定了妨害药品管理罪。根据该条规定，未取得药品相关批准证明文件生产、进口药品或者明知是上述药品而销售的，须满足“足以严重危害人体健康”的要件，才构成妨害药品管理罪。本案中，在案证据显示涉案药品对于治疗丙肝疾病确有疗效，并未造成患者身体健康损害的结果，也没有证据证明涉案药品存在严重危害人体健康的因素，故不构成妨害药品管理罪。而且，涉案行为亦不宜认定为非法经营罪。如果允许所涉情形再行适用处罚更重的非法经营罪,不仅会造成罪刑失衡,也会导致通过刑法修正案增设妨害药品管理罪的立法目的落空,无法合理划定妨害药品管理罪的界限范围。综上，由于针对涉案行为法律规定的变化，被告人侯某某、闫某、王某某的行为不构成犯罪。检察机关的撤诉申请符合法律规定，应予准许。故法院依法作出如上裁判。\n【（2022）吉2403刑初134号】：法院生效判决认为，被告人闫某以非法获利为目的，将其负责保管、销售、接种的四价HPV疫苗进行拆分，导致疫苗成份的含量不符合国家药品标准，应当认定为《中华人民共和国药品管理法》第98条第3款第一项规定的劣药。闫某销售劣药行为，未对人体健康造成严重危害，故不构成销售劣药罪。根据刑法第149条第一款的规定，生产、销售该节第141条至第148条所列产品，不构成各该条规定的犯罪，但是销售金额在五万元以上的，依照第140条的规定（生产、销售伪劣产品罪）定罪处罚。闫某以不足量、不合格疫苗冒充足量、合格疫苗为受种者接种，销售金额达74万余元，其行为已构成销售伪劣产品罪，依法应当判处七年以上有期徒刑，并处销售金额百分之五十以上二倍以下罚金。故法院依法作出上述判决。",
+            "药品经营者主观明知的认定标准": "### 结论\n药品经营者主观明知的认定标准主要涉及药品成分与国家药品标准的对比、药品来源的合法性、药品价格的合理性、药品经营资质的具备情况以及药品经营者的从业经验与认知能力。药品中有效成分实际含量为零的，应认定为假药；从非法渠道大量购进来源可疑且价格明显低于市场价的药品，并通过非法渠道进行销售，可以认定药品经营者主观上明知所售“药品”为假药。\n\n### 核心法条\n- **《中华人民共和国药品管理法》第四十八条第二款**：规定药品所含成份与国家药品标准规定的成份不符的，为假药。\n- **《中华人民共和国药品管理法》第四十九条第二款**：规定药品成份的含量不符合国家药品标准的，为劣药。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品成分与国家药品标准的对比**：药品中某有效成分实际含量为零的，应当认定为假药，而非含量不足的劣药。【（2015）徐刑二终字第168号】中，法院认定药品中某有效成分实际含量为零，属于假药。\n- **药品来源的合法性与价格合理性**：行为人明知从事药品经营，应当具备相应的资质和药品经营许可证，但其仍从非法渠道大量购进来源可疑且价格明显低于市场价的药品，并通过非法渠道进行销售，可以认定其主观上明知所售“药品”为假药。【（2015）徐刑二终字第168号】中，行为人从非法渠道购进药品，价格明显低于市场价，被认定为主观明知。\n- **药品经营者的从业经验与认知能力**：药品经营者的从业经历、认知能力、药品质量、进货渠道、价格等主客观因素，均是认定主观明知的重要依据。【（2021）粤01刑初469号】中，被告人马某伟作为药学专业毕业生和药剂师，具备专业知识，对于精神药品属性具有认知能力，被认定为主观明知。\n\n综上，药品经营者主观明知的认定，需综合考虑药品成分是否符合国家药品标准、药品来源的合法性、价格合理性以及药品经营者的从业经验与认知能力。药品成分与国家药品标准不符、从非法渠道购进药品、价格明显低于市场价、药品经营者具备相关专业知识和经验，均是认定主观明知的关键因素。\n\n#####\n类似案件为：\n【（2021）粤01刑初469号】：本案焦点为：被告人马某伟是否明知购买的药品系毒品。\n《中华人民共和国刑法》第三百四十七条第一款规定“走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。”被告人马某伟无视国家法律，走私毒品咪达唑仑，贩卖毒品三唑仑、咪达唑仑、阿普唑仑，其行为已构成走私、贩卖毒品罪，依法应予惩处。\n对于涉及可用于医疗、教学、科研用途麻醉药品、精神药品的毒品犯罪，行为人拒不供认对药品的毒品属性存在主观明知的，可以根据行为人实施毒品犯罪的行为方式、类型、次数、药物用途、扩散对象、范围，结合其受教育水平、职业、从业背景及人生阅历，对其认知毒品能力作出评价后，认定其对涉案麻醉药品、精神药品的毒品属性是否存在主观明知。本案涉案毒品均已列入向社会公布的《精神药品品种目录》，被告人马某伟作为药学专业毕业生和药剂师，具备专业知识，对于精神药品属性具有认知能力。马某伟明知涉案药物不能在市面上随意流通和购买，只能通过翻墙软件、借助境外网络聊天工具购买，并假报姓名作为收货人，通过隐秘手段付款，将精神药品走私入境。后马某伟又在网上发布出售广告，称相关药品可用于非法用途，与多名买家商谈价格和发货方式，足以认定被告人明知涉案药品系毒品。\n关于辩护人提出被告人马某伟系贩卖毒品未遂的辩护意见。经查，虽现有证据表明，马某伟从境外购买毒品后尚未实际出售，但其在互联网上发布出售毒品信息，并与他人就具体毒品交易细节进行商议，足以认定其购买涉案毒品的目的之一系用于贩卖，而根据相关法律规定，行为人为贩卖而购买毒品即已构成贩卖毒品罪既遂。辩护人就此提出的辩护意见据理不足，不予采纳。",
+            "销售假药案件自首情节对量刑的影响": "### 结论\n销售假药案件中，自首情节对量刑有显著影响，法院通常会考虑自首情节对被告人的从轻或减轻处罚，但这种影响的大小取决于犯罪的性质、情节、社会危害性以及被告人的悔罪表现。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首情节**：自首是法院考虑从轻或减轻处罚的重要因素。例如，【（2018）浙03刑终674号】中，法院认为被告人陈某某具有自首情节，虽然涉案药品未经批准进口，但相较销售危害人体健康的假药，行为危害性较小，因此适用缓刑，并判处禁止令。这表明自首可以作为减轻处罚的依据，尤其是在犯罪性质较轻的情况下。\n- **犯罪性质与社会危害性**：法院在考虑自首情节时，也会评估犯罪的性质和对社会的危害性。【（2018）浙03刑终674号】中，法院认为陈某某销售的假药危害性较小，因此自首情节对量刑的影响较大。而在【（2023）桂14刑终206号】中，虽然被告人罗某某也构成自首，但由于其行为构成妨害公务罪，且造成执勤民警受伤，社会危害性较大，自首情节对量刑的影响相对较小。\n- **悔罪表现**：被告人的悔罪表现也是法院考虑自首情节时的重要因素。在【（2018）浙03刑终674号】中，陈某某的悔罪表现被法院认为是适用缓刑的依据之一。而在【（2020）桂刑再6号】中，尽管被告人杨某毅有自首情节，但由于其犯罪性质极其恶劣，手段残忍，且无实质性悔罪表现，法院认为自首情节不足以从轻处罚。\n\n综上，自首情节在销售假药案件中对量刑有显著影响，但这种影响的大小取决于犯罪的性质、社会危害性以及被告人的悔罪表现。法院在量刑时会综合考虑这些因素，以决定自首情节对量刑的具体影响。\n\n#####\n类似案件为：\n【（2023）桂14刑终206号】：被告人罗某某驾驶电动车途经设置有警示牌、三角反光路障锥的公安交通检查卡点，为逃避公安交通警察检查，不顾执勤民警示意其停车及多名交通警察多次闪光示警，驾驶车辆三次加速绕行，暴力阻碍公安机关依法执行职务，并致执勤民警受伤，其行为已构成妨害公务罪。案发后，罗某某自动投案，并如实供述自己的罪行，虽其在一审庭审中否认案发时见到执法民警，但不否认逃避检查及在逃避过程中撞到执行公务民警的主要犯罪事实，根据《最高人民法院关于自首和立功若干具体问题的意见》（法发〔2010〕60号）第二条第一款“犯罪嫌疑人供述的身份等情况与真实情况虽有差别，但不影响定罪量刑的，应认定为如实供述自己的罪行”的规定，对其行为应认定为自首。一审未认定罗某某构成自首，属适用法律错误，予以纠正。罗某某上诉提出其有自首情节正确，予以采纳。故二审法院依法作出如上裁判。",
+            "销售金额较小的假药案件量刑考量因素": "### 结论\n在销售金额较小的假药案件中，量刑考量因素主要包括：被告人的主观故意、犯罪行为的社会危害性、是否构成犯罪未遂、被告人的认罪态度、是否如实供述、是否退出违法所得、是否造成实际伤害后果、是否属于再犯或累犯、是否适用缓刑及禁止令等。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第二十三条**：规定了犯罪未遂的量刑原则。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述可以从轻处罚的原则。\n- **《中华人民共和国刑法》第七十二条**：规定了适用缓刑的条件。\n- **《中华人民共和国刑法》第七十三条**：规定了缓刑考验期限。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的适用。\n- **《中华人民共和国刑法》第六十四条**：规定了违法所得的追缴和没收。\n- **《最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释》第十一条**：规定了销售少量未经批准进口的药品的处理原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **被告人的主观故意**：【（2017）京0106刑初1186号】中，法院认为被告人虽否认构成销售假药行为，但其供述主要犯罪事实，否认销售行为系对法律认识错误，故对其减轻处罚。\n- **犯罪行为的社会危害性**：【（2018）浙03刑终674号】中，法院认为涉案药品仅是未经批准进口，相较销售危害人体健康的假药，行为危害性较小，故适用缓刑并判处禁止令。\n- **是否构成犯罪未遂**：【（2017）津01刑终83号】中，法院认为被告人生产的假药大部分尚未完成包装，未标价、未售出，应认定为犯罪未遂，故依法从轻处罚。\n- **被告人的认罪态度**：【（2018）浙03刑终674号】中，法院认为被告人具有自首情节，故依法从轻处罚。\n- **是否如实供述**：【（2018）京0105刑初2890号】中，法院认为被告人如实供述所犯罪行，认罪认罚，故对其从轻处罚并适用缓刑。\n- **是否退出违法所得**：【（2016）苏10刑终24号】中，法院认为被告人退出了全部或部分违法所得，故依法可以从轻处罚。\n- **是否造成实际伤害后果**：【（2017）豫0482刑初字第229号】中，法院认为二被告人销售的药品没有造成他人伤害后果，故依法可免予刑事处罚。\n- **是否属于再犯或累犯**：【（2022）赣0521刑初7号】中，法院认为被告人陈某某因贩卖毒品罪、非法持有毒品罪被判过刑，又犯贩卖毒品罪，属于毒品犯罪的再犯，故应当从重处罚。\n- **是否适用缓刑及禁止令**：【（2018）浙03刑终674号】、【（2018）京0105刑初2890号】中，法院认为被告人犯罪情节轻微，依法可适用缓刑，并判处禁止令。\n\n综上，销售金额较小的假药案件中，法院在量刑时会综合考虑被告人的主观故意、犯罪行为的社会危害性、是否构成犯罪未遂、被告人的认罪态度、是否如实供述、是否退出违法所得、是否造成实际伤害后果、是否属于再犯或累犯、是否适用缓刑及禁止令等因素，以实现罪责刑相适应的原则。\n\n#####\n类似案件为：\n【（2017）津01刑终83号】：法院生效判决认为：\n被告人张某某为牟取非法利益，生产假药并具有其他特别严重情节的行为，应以生产假药罪追究其刑事责任。鉴于公安机关查获的大部分药品均未生产完成，应系犯罪未遂，被告人张某某当庭自愿认罪，故依法对其从轻处罚。天津市北辰区人民法院于2016年12月27日作出天津市北辰区人民法院（2016）津0113刑初450号刑事判决：\n被告人张某某犯生产假药罪，判处有期徒刑十年，并处罚金280万元。宣判后，张某某提起上诉。天津市第一中级人民法院于2017年3月14日作出（2017）津01刑终83号刑事裁定：\n驳回上诉，维持原判。\n【（2022）赣0521刑初7号】：法院生效裁判认为：被告人徐某某违反国家毒品管理规定，明知是甲基苯丙胺而多次予以贩卖，贩卖及被查获甲基苯丙胺914.03克；被告人陈某某违反国家毒品管理规定，明知是甲基苯丙胺而帮助徐某某予以贩卖，贩卖及被查获甲基苯丙胺910.73克，二被告人的行为均已构成贩卖毒品罪。公诉机关指控罪名成立。在二人共同犯罪中，徐某某居于主导地位，属于起主要作用的主犯，陈某某或听从其安排，或给其提供帮助，属于起次要或者辅助作用的从犯，依法应当从轻、减轻或者免除处罚。二被告人到案后均能如实供述主要犯罪事实，属于坦白，依法可以从轻处罚。陈某某因贩卖毒品罪、非法持有毒品罪被判过刑，又犯贩卖毒品罪，属于毒品犯罪的再犯，应当从重处罚。二被告人认罪认罚，依法可以从宽处理。故法院依法作出如上裁判。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人主观明知销售假药的认定。查明情况：公诉人通过被告人供述、证人证言及专业经营者注意义务等证据证明被告人明知药品为假药；辩护人认为\"明知\"缺乏客观证据佐证，且被告人已尽形式审查义务。审判长认为被告人作为专业人员，结合其供述和进货渠道异常、价格明显偏低等客观情况，可认定其主观明知状态。\n\n2.涉案药品是否达到刑法规定的\"足以严重危害人体健康\"标准。查明情况：公诉人提供鉴定意见证明药品不符合国家标准；辩护人质疑检测范围和危害性认定，认为无严重危害后果证据。审判长认为根据司法解释，不符合国家标准的药品即可认定为假药，无需证明具体危害后果，但实际危害程度可作为量刑考量因素。\n\n3.销售金额的准确认定。查明情况：公诉人指控销售金额15万元；辩护人认为仅有部分销售单据，不能证明全部金额。审判长认为需结合被告人供述的2000余元获利与书证进一步核实。\n\n4.抽样检测的法律效力及批次认定。查明情况：公诉人认为3个批次检测可推定全部为假药；辩护人指出5个批次中2个未检测，且生产日期跨度大不应简单推定。审判长认为需审查抽样程序合法性及批次同一性认定依据。\n\n5.量刑情节的综合考量。查明情况：包括自首成立（无争议）、销售金额争议、未造成严重危害后果、认罪认罚态度良好、愿意退缴违法所得等。审判长认为自首、认罪态度等从轻情节明确，但需结合销售金额等事实最终确定量刑幅度。\n\n6.是否适用缓刑的可能性。查明情况：辩护人提出被告人系初犯、情节较轻；公诉人未明确反对。审判长认为需待全部事实查清后，结合社会危害性评估决定。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人黄某2016年6月至2017年春期间，从无资质供货商张某处购进170盒假药并销售160余盒，获利2000余元，涉嫌销售假药罪。\n\n2. 被告人黄某对指控事实和罪名无异议，承认明知药品为假药仍进行销售，愿意认罪认罚并退缴违法所得。\n\n3. 公诉人讯问重点：\n- 被告人通过药品包装简陋、价格异常及供货商无资质确认药品为假药\n- 销售对象为普通消费者且未告知药品真实情况\n- 承认销售假药利润高达200-400%，是选择销售的主要原因\n- 主动投案系因认识到行为违法性和社会危害性\n- 交易为现金交易且无保留凭证\n\n4. 辩护人讯问重点：\n- 消费者仅反映药品效果不明显，无严重不良反应投诉\n- 药房具有合法资质但本次未按正规流程操作\n- 被检出问题的药品主要是成分含量不符合标准\n\n5. 审判长补充讯问：\n- 被告人与供货商张某无其他交易记录\n- 假药中未检出国家明令禁止的有毒有害成分\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人供述，辩护人对\"明知是假药\"的主观认知提出异议，认为缺乏客观证据佐证。公诉人回应称供述与其他证据相互印证，且被告人作为专业人员应具有判断能力。\n\n2. 公诉人出示鉴定意见（晋食药鉴〔2022〕38号），辩护人质疑：\n   - 仅对部分药品检测，未全面检测170盒药品\n   - 未说明具体检测成分和标准\n   - 不能证明达到\"足以严重危害人体健康\"程度\n公诉人回应称抽样检测合法，且不符合国家标准即构成刑法意义上的假药。\n\n3. 公诉人出示认定意见（晋食药认〔2022〕39号），辩护人指出：\n   - 仅作形式认定，未对\"足以严重危害人体健康\"进行实质判断\n公诉人强调认定意见依法作出，符合刑法规定。\n\n4. 公诉人出示55种假药信息表，辩护人认为：\n   - 不能直接证明本案药品具体情况\n公诉人回应该文件具有法律效力，与涉案药品完全吻合。\n\n5. 公诉人出示检测报告（晋药检〔2022〕156号），辩护人质疑：\n   - 仅检测部分药品\n   - 未说明具体不符合标准的成分及程度\n公诉人强调检测程序合法，不符合国家标准即应认定为假药。\n\n6. 公诉人出示证人高某甲证言，辩护人认为：\n   - 仅证明药品无效\n   - 不能证明\"足以严重危害人体健康\"\n公诉人回应证言与其他证据形成完整证据链。\n\n7. 公诉人出示证人孟某证言，辩护人指出：\n   - 仅反映个别消费者不适\n   - 无医疗诊断证明\n公诉人强调假药认定不以实际危害后果为要件。\n\n8. 公诉人出示证人赵某证言，辩护人认为：\n   - 不能直接证明\"明知是假药\"\n公诉人回应证言与被告人供述相互印证。\n\n9. 辩护人未出示证据，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 被告人作为专业人员，明知供货商无资质且药品价格异常仍大量销售\n- 检测证实55种药品为假药且成分不符国家标准\n- 销售数量2000余盒，非法获利15万元\n- 部分消费者出现不适症状\n- 建议考虑自首情节从宽处理\n\n2. 辩护人主要辩护意见：\n- 缺乏证明被告人明知是假药的直接证据\n- 抽样检测不能推定全部药品为假药\n- 消费者不适症状未达\"严重危害\"标准\n- 被告人具有自首、初犯等从轻情节\n- 销售金额证据不充分，部分批次未被检测\n\n3. 双方争议焦点：\n- 主观故意认定标准\n- 抽样检测的法律效力及批次推定问题\n- 危害后果的证明标准\n- 销售金额的认定依据\n- 专业经营者的注意义务边界",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百四十一条",
+              "中华人民共和国刑法第六十七条第三款"
+            ],
+            "中华人民共和国刑法第一百四十一条": "生产、销售假药的，处三年以下有期徒刑或者拘役，并处罚金；对人体健康造成严重危害或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；致人死亡或者有其他特别严重情节的，处十年以上有期徒刑、无期徒刑或者死刑，并处罚金或者没收财产。药品使用单位的人员明知是假药而提供给他人使用的，依照前款的规定处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "销售假药罪类似案件判决情况",
+              "销售假药罪缓刑适用条件",
+              "销售假药罪罚金数额标准"
+            ],
+            "销售假药罪类似案件判决情况": "### 结论\n销售假药罪的判决受多种因素影响，包括药品性质、销售金额、行为人的主观认知、自首情节、社会危害性、是否造成实际损害、以及行为人年龄和健康状况等。法院在判决时会综合考量这些因素，对行为人进行定罪量刑，同时考虑是否适用缓刑、禁止令等附加处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了销售假药罪的构成要件、量刑标准及加重情节。\n- **《中华人民共和国药品管理法》第九十八条第二款**：规定了假药的定义，包括以非药品冒充药品或以他种药品冒充此种药品的情形。\n- **《中华人民共和国刑事诉讼法》第二百二十五条第一款第（一）项**：规定了二审法院维持原判的条件。\n- **《中华人民共和国消费者权益保护法》第二十四条**：规定了消费者在商品或服务不符合质量要求时的权益。\n- **《中华人民共和国刑法》第一百四十九条第二款**：规定了生产、销售假药罪与生产、销售伪劣产品罪的竞合时，应依照处罚较重的规定定罪处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **药品性质**：法院会根据药品管理法的规定，判断销售的药品是否属于假药，如【（2018）浙03刑终674号】中，未经批准进口的药品被认定为假药。\n- **销售金额**：销售金额的大小会影响量刑，如【（2013）韶中法刑二终字第2号】中，销售金额达303940元，构成情节特别严重。\n- **行为人的主观认知**：行为人是否明知药品为假药而销售，如【（2022）苏0211刑初90号】中，被告人明知生理盐水冒充疫苗销售。\n- **自首情节**：自首可以作为从轻或减轻处罚的情节，如【（2018）京0105刑初2890号】中，被告人如实供述，认罪认罚，获得从轻处罚。\n- **社会危害性**：法院会评估行为的社会危害性，如【（2022）鄂11民终2959号】中，对知假买假的职业打假人不予支持十倍赔偿。\n- **是否造成实际损害**：如【（2022）苏0211刑初90号】中，注射假疫苗后面临的感染风险被视为对健康权益的损害。\n- **行为人年龄和健康状况**：如【（2013）韶中法刑二终字第2号】中，虽然被告人年龄较大，但因其行为影响较大，未适用缓刑。\n\n综上，销售假药罪的判决会综合考量药品性质、销售金额、行为人的主观认知、自首情节、社会危害性、是否造成实际损害、以及行为人年龄和健康状况等多方面因素，以确保判决的公正性和合理性。\n\n#####\n类似案件为：\n【（2022）苏0211刑初90号】：法院生效裁判认为：关于辩护人提出被告人潘某的行为应构成诈骗罪的辩护意见，经查,潘某以生理盐水冒充疫苗符合《中华人民共和国药品管理法》第九十八条第二款之规定，应认定其销售的系假药；潘某侵犯的法益并非仅仅是被害人的财产权，其注射假疫苗的行为本身即对被害人的身体健康权益造成了损害，且被害人注射假疫苗后面临的感染风险亦是对被害人健康权益的损害，虽然潘某的行为同时也符合诈骗罪的犯罪构成，但以诈骗罪定罪处罚并不能对其行为进行全面评价，应当以销售假药罪对其定罪处罚，并认定为“情节特别严重”。潘某主动投案，归案后如实供述自己的罪行，系自首，可以依法减轻处罚。故依法作出如上判决。\n【（2022）鄂11民终2959号】：本院认为，郝吉川仔与麻城市悦丽养生阁的买卖合同关系明确。针对悦丽养生阁辩称郝吉川仔为知假买假的职业打假人，本院指出，《最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定》未限制消费者主观动机，但区分了两种知假买假消费者：一为已知商品不合格仍购买，二为职业打假人以牟利为目的购买不合格商品并主张权利。直接诉诸法院主张十倍赔偿的行为，与《消费者权益保护法》立法精神相悖，不利于市场净化，故对郝吉川仔的十倍惩罚性赔偿请求不予支持。鉴于案涉药品无国内注册证号，认定不符合我国药品安全标准，郝吉川仔请求退款符合法律规定，应予支持。根据民事诉讼法解释，对未上诉内容不予审理。综上，悦丽养生阁上诉请求成立，一审判决法律适用有误，应予纠正。一、维持湖北省麻城市人民法院（2022）鄂1181民初560号\n民事判决的第一项，即麻城市悦丽养生阁于判决生效之日起十日内退还郝吉川仔货款6000元；\n二、撤销湖北省麻城市人民法院（2022）鄂1181民初560号民事判决的第二项，即麻城市悦丽养生阁于判决生效之日起十日内支付郝吉川仔赔偿金60000元；\n三、驳回郝吉川仔其他诉讼请求。\n【（2022）苏0211刑初90号】：法院生效裁判认为：关于辩护人提出被告人潘某的行为应构成诈骗罪的辩护意见，经查,潘某以生理盐水冒充疫苗符合《中华人民共和国药品管理法》第九十八条第二款之规定，应认定其销售的系假药；潘某侵犯的法益并非仅仅是被害人的财产权，其注射假疫苗的行为本身即对被害人的身体健康权益造成了损害，且被害人注射假疫苗后面临的感染风险亦是对被害人健康权益的损害，虽然潘某的行为同时也符合诈骗罪的犯罪构成，但以诈骗罪定罪处罚并不能对其行为进行全面评价，应当以销售假药罪对其定罪处罚，并认定为“情节特别严重”。潘某主动投案，归案后如实供述自己的罪行，系自首，可以依法减轻处罚。故依法作出如上判决。",
+            "销售假药罪缓刑适用条件": "### 结论\n销售假药罪适用缓刑的条件主要包括：被告人的认罪态度、犯罪情节、社会危害性、是否如实供述、是否退出违法所得、是否具有从轻或减轻处罚的情节，以及是否适用禁止令等。法院在考虑缓刑适用时，会综合评估被告人的主观恶性、社会危害性、悔罪表现和再犯风险，对于犯罪情节较轻、认罪态度好、社会危害性较小、有悔罪表现的被告人，可以适用缓刑，同时可能宣告禁止令，禁止被告人在缓刑考验期内从事药品生产、销售及相关活动。\n\n### 核心法条\n- **《中华人民共和国刑法》第七十二条**：对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **认罪态度和如实供述**：被告人如实供述所犯罪行，认罪认罚，是适用缓刑的重要条件。例如，【（2018）京0105刑初2890号】中，被告人谷某某如实供述所犯罪行，认罪认罚，法院对其从轻处罚并适用缓刑。\n- **犯罪情节和社会危害性**：犯罪情节较轻，社会危害性较小，是适用缓刑的考量因素。如【（2018）浙03刑终674号】中，法院认为陈某某的行为危害性较小，综合考虑其犯罪性质、事实与情节，可对其适用缓刑。\n- **退出违法所得**：被告人是否退出违法所得，也是法院考虑适用缓刑的因素之一。如【（2016）苏10刑终24号】中，被告人刘文某、严某、程贵某、龚元某、龚某归案后如实供述了自己的罪行，且退出了全部或部分违法所得，法院认为可以给予一定的缓刑考验期限。\n- **禁止令的适用**：在适用缓刑时，法院可能会宣告禁止令，禁止被告人在缓刑考验期内从事药品生产、销售及相关活动。如【（2018）京0105刑初2890号】、【（2018）浙03刑终674号】、【（2016）苏10刑终24号】等案例中，法院均宣告了禁止令。\n\n综上，销售假药罪适用缓刑的条件是多方面的，法院会综合考虑被告人的认罪态度、犯罪情节、社会危害性、是否如实供述、是否退出违法所得以及是否适用禁止令等因素，以确保缓刑适用的公正性和合理性。",
+            "销售假药罪罚金数额标准": "### 结论\n销售假药罪的罚金数额标准通常与犯罪情节、销售金额、社会危害性以及被告人的认罪态度等因素相关，但具体数额由法院根据案件具体情况确定，没有统一的固定标准。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百四十一条**：规定了生产、销售假药罪的刑罚，包括有期徒刑、拘役或罚金，但未具体规定罚金数额。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的适用原则和缴纳方式，但未具体规定销售假药罪的罚金数额。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪情节**：法院在确定罚金数额时会考虑犯罪情节的严重性。例如，【（2018）浙03刑终674号】中，被告人陈某某因销售假药被判处罚金10000元，法院考虑了其自首情节和假药的社会危害性较小。\n- **销售金额**：销售假药的金额是影响罚金数额的重要因素。如【（2017）津01刑终83号】中，被告人张树超因生产假药，销售金额超过50万元，被判处罚金280万元，体现了销售金额对罚金数额的影响。\n- **社会危害性**：假药的社会危害性大小也会影响罚金的确定。【（2016）苏10刑终24号】中，法院在确定罚金时考虑了假药对公众健康的潜在危害。\n- **被告人的认罪态度**：被告人的认罪态度和是否主动退赃也是法院考虑罚金数额的因素之一。如【（2018）京0105刑初2890号】中，被告人谷某某因如实供述罪行，法院对其从轻处罚并适用缓刑，罚金为8000元。\n\n综上，销售假药罪的罚金数额由法院根据案件的具体情节综合判断，包括犯罪情节、销售金额、社会危害性以及被告人的认罪态度等，没有固定的标准，体现了刑法的灵活性和个案正义原则。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 12.0,
+    "fine": 4000.0,
+    "reprieve": 18.0
+  }
+]

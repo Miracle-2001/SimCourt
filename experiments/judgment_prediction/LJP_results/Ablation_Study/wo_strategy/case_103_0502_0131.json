@@ -1,0 +1,1335 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人龙某，性别男，民族XXX，文化程度XXX，户籍XXXX，有犯罪前科。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖南省吉首市人民检察院  \n起 诉 书  \n\n湘吉检刑诉〔2019〕181号  \n\n被告人龙某，男，XX年XX月XX日出生，公民身份号码XXXX，民族XXX，文化程度XXX，户籍所在地XXXX，有犯罪前科。因涉嫌抢劫罪，于2019年3月28日被吉首市公安局刑事拘留。  \n\n本案由吉首市公安局侦查终结，以被告人龙某涉嫌抢劫罪，于2019年7月1日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2019年3月23日，被告人龙某得知其前女友杨某与他人在吉首市矮寨景区游玩后，以300元包租唐某的面包车，与石某甲一同前往矮寨。当日下午5时许，龙某在德夯景区停车场内强行将杨某拖上面包车。上车后，龙某坐在后排，唐某驾驶车辆，石某甲坐在副驾驶位置。车辆行驶一段距离后，龙某殴打杨某右脸一拳。行至花垣县董马库附近路段时，龙某要求杨某支付50000元用于还账，遭拒绝后威胁称“不给钱就一起死”，并多次对杨某实施威胁，又殴打其左耳一拳。虽经唐某、石某甲劝阻，龙某仍继续纠缠杨某。次日凌晨1时许，杨某被迫通过微信向龙某转账20000元。龙某得逞后，指使唐某驾车返回吉首市，并在吉火车桥附近让杨某下车。杨某于3月24日4时许报案。  \n\n2019年3月28日7时许，被告人龙某在吉首市蓝色港湾宾馆被抓获归案，同日退还杨某5000元。同年5月31日，龙某的姐夫石某乙退还杨某10000元。  \n\n认定上述事实的证据如下：  \n1. 书证：  \n   （1）报案登记表、立案决定书，证实案件来源及立案情况；  \n   （2）户籍资料、到案经过、传唤证，证实被告人身份及到案经过；  \n   （3）保证书复印件，印证被告人供述及被害人陈述；  \n   （4）指认现场照片；  \n   （5）微信转账截图，证实转账及部分退款事实；  \n   （6）收条，证实石某乙退还1万元。  \n\n2. 辨认笔录：  \n   （1）龙某、唐某辨认出石某甲；  \n   （2）检查笔录及照片，证实杨某受伤及财物损坏情况。  \n\n3. 鉴定意见：证实杨某不构成轻微伤。  \n\n4. 证人证言：  \n   （1）向某证实目睹杨某被拖上车及事后听闻抢劫；  \n   （2）石某乙证实收到龙某还款1万元；  \n   （3）唐某辩解未参与威胁。  \n\n5. 被害人杨某陈述，证实被殴打、威胁及抢劫过程。  \n\n6. 被告人龙某供述，承认以暴力、胁迫手段抢劫财物。  \n\n上述证据经合法收集，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人龙某以暴力、胁迫手段抢劫他人财物20000元，其行为触犯《中华人民共和国刑法》第二百六十三条，犯罪事实清楚，证据确实、充分，应当以抢劫罪追究刑事责任。被告人龙某有犯罪前科，应从重处罚；其当庭认罪并部分退赃，可酌情从轻处罚。建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元，责令退赔被害人剩余损失XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条，提起公诉，请依法判处。  \n\n此致  \n湖南省吉首市人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实和罪名没有异议，我认罪。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人龙某，你为何要选择在2019年3月23日这天对被害人杨某实施犯罪行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为那天我得知杨某和别人在一起，情绪很激动，加上当时债务压力大，就冲动地想要她帮我还债。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时威胁被害人\"不给钱就一起死\"时，是否真的准备实施同归于尽的行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时只是情绪激动说气话，并没有真的准备同归于尽。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人杨某分手后，是否还有其他经济往来？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "分手后没有其他经济往来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为何选择在德夯景区停车场实施犯罪行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为那里人比较少，容易把杨某带上车。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为何要指使唐某驾车返回吉首市后才让被害人下车？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时已经拿到钱了，想着在吉首市区让她下车比较安全。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与同案人员石某甲、唐某之间是如何商议实施这次犯罪的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有事先商议，是我临时起意的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何在案发后仅退还被害人5000元，而不是全部赃款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我手头只有5000元可以退还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时殴打被害人时使用的什么工具？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有使用工具，是用手打的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时租用唐某的面包车时，是否告知唐某你的真实意图？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有告知，我只是说要去接人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为何选择让被害人通过微信转账的方式获取钱财？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为微信转账比较方便快捷。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为何选择在案发后第五天才退还被害人5000元？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时被抓后，民警要求我退还部分款项，我就先退了5000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时殴打被害人时，是否造成被害人身体其他部位受伤？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有造成其他部位受伤。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为何选择在凌晨1时许才让被害人进行转账？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时在车上僵持了很久，一直等到凌晨才谈妥让她转账。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为何选择在花垣县董马库附近路段时才向被害人提出要钱的要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时车已经开出一段距离，我觉得在那个地方提出要求比较合适。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与被害人杨某分手的具体时间是什么时候？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年底分手的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人杨某之间是否存在其他经济纠纷？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "同居期间有一些共同开销，但没有明确的债务关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人杨某分手后，是否还保持联系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "分手后基本没有联系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时殴打被害人时，是否是因为被害人先有言语刺激或其他行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有，是我先动手的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向被害人索要5万元的具体理由是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为我觉得她应该帮我偿还同居期间的部分债务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向被害人索要5万元时，是否明确告知她这是用于偿还同居期间的债务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确告知，只是说要她还钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时为何最终只向被害人索要了2万元，而不是最初要求的5万元？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为杨某说最多只能给2万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向被害人索要钱财时，是否明确表示过这些钱是借款还是其他性质的款项？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确表示过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向被害人索要钱财时，是否曾表示过会归还这笔钱？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有表示过会归还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人杨某同居期间是否存在共同财产或共同债务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "同居期间有一些共同开销，但没有明确的共同财产或共同债务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向被害人索要钱财时，是否曾表示过会出具借条或其他书面凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有表示过要出具借条。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时向被害人索要钱财时，是否曾表示过这些钱是用于偿还你们共同生活期间的开销？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有表示过这些钱是用于偿还共同生活期间的开销。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时殴打被害人时，是否是因为被害人拒绝你的要求后才动手的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，因为杨某拒绝给钱我才动手的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时殴打被害人时，是否使用了足以造成严重伤害的力度？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有使用很大力度，只是想吓唬她。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人杨某同居期间是否存在共同经营或投资行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有共同经营或投资行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人杨某分手后，是否曾以其他方式向其索要过钱财？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有以其他方式索要过钱财。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人杨某同居期间是否存在共同债务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确的共同债务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。  \n2019年3月23日，我得知前女友杨某与他人在吉首市矮寨景区游玩，便花费300元包下唐某的面包车，与石某甲一同前往矮寨。当天下午5点左右，我在德夯景区停车场将杨某带上面包车。上车后，唐某驾驶车辆，石某甲坐在副驾驶，我和杨某坐在后排。车辆行驶一段距离后，我打了杨某右脸一拳。车行至花垣县董马库附近时，我要求杨某给我50000元用于还账，杨某拒绝后，我威胁她不给钱就一起死，并多次继续威胁。唐某和石某甲劝阻后，我仍纠缠杨某。次日凌晨1点左右，杨某通过微信转账给我20000元。拿到钱后，我让唐某开车返回吉首市，并在吉火车桥附近让杨某下车离开。之后，我给了唐某300元油钱，给了石某甲300元用于开房。杨某于3月24日凌晨4点左右电话报案。2019年3月28日7点左右，我在吉首市蓝色港湾宾馆被民警抓获。同日，我在民警监督下退还杨某5000元。2019年5月31日，我的姐夫石某乙退还杨某10000元。  \n\n（2）犯案动机。  \n我与杨某曾是男女朋友关系，同居期间有经济往来。我认为她应当帮我偿还部分债务，因此采取暴力威胁手段强迫她转账20000元。  \n\n（3）案发之后的处理。  \n我没有自首，于2019年3月28日被民警抓获。案发后，我在民警监督下退还杨某5000元。2019年5月31日，我的姐夫石某乙退还杨某10000元。目前尚未完全退赔剩余5000元，也未与杨某达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：报案登记表、立案决定书，证实本案的案件来源及立案情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：户籍资料、到案经过、传唤证，证实被告人龙某、唐某、石某甲三人系成年人的事实。2019年3月28日7时许，民警在吉首市蓝色港湾宾馆内将被告人龙某抓获并传唤到案。2019年3月28日10时许，唐某到吉首市公安局投案。上述材料均由吉首市公安局正式出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：保证书复印件，被告人龙某在案发当日给杨某出具，印证龙某、唐某的供述、杨某的陈述。该保证书复印件由公安机关依法调取，与原件核对无误",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：指认现场照片，证实被告人龙某指认现场",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：微信转账截图，证实被告人龙某3月24日强行从杨某微信转账20000元，3月28日通过微信转账退还杨某5000元。该截图由公安机关依法调取，并经技术部门鉴定确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：收条，证实石某乙于2019年5月31日退还杨某现金1万元。该收条由石某乙本人签署，并有见证人签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.辨认笔录：辨认笔录两份，证实2019年3月29日，龙某、唐某均辨认出坐在副驾的男子是石某甲。该辨认笔录由办案民警依法制作并签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.检查笔录及照片，证实被害人杨某脸部受伤情况、裤脚及包包被扯烂的情况。该检查笔录由法医依法制作并签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.鉴定意见及通知书，证实被害人杨某不构成轻微伤的事实，4月3日已通知杨某、龙某。该鉴定意见由合法鉴定机构出具并盖章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人向某某说：“2019年3月23日下午6时许，杨某在矮寨景区被一男子拖上白色面包车，车上共三名男子。事后听说是杨某的前男友龙某，龙某打了她，抢了她两万元。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：石某乙说：“我是龙某的姐夫，龙某于2019年3月24日下午通过微信给我还款一万元。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：唐某说：“自己与另外一名男子没有威胁、打骂被害人杨某。”该证言已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.被害人陈述：被害人杨某说：“其被龙某及两名男子带上面包车殴打、威胁，龙某以两人同居期间有开支，要求其帮其还账为由，强迫杨某给其两万元。”该陈述已经法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.被告人龙某的供述与辩解，证实其以与被害人杨某同居期间有经济来往，要求其帮忙还账为由，采取暴力、胁迫手段抢劫被害人给其两万元的事实。该供述与辩解在律师在场情况下取得",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第二百六十三条，被告人龙某以暴力、胁迫手段当场劫取他人财物，其行为已构成抢劫罪。本案中，被告人采用强行拖拽上车、殴打面部、威胁\"不给钱就一起死\"等手段，迫使被害人转账2万元，完全符合抢劫罪的构成要件。\n\n关于量刑情节，需要指出三点：第一，被告人有犯罪前科，根据《刑法》第六十五条应当从重处罚；第二，被告人虽当庭认罪并部分退赃，但系被动退赃，且至今仍有5000元未退赔；第三，被告人选择在景区停车场实施犯罪，社会危害性较大。\n\n辩护人提出的\"临时起意\"等情节不能改变抢劫罪的定性。被告人虽未造成被害人轻微伤以上后果，但根据《最高人民法院关于审理抢劫刑事案件适用法律若干问题的指导意见》，暴力程度并非抢劫罪构成的必要条件。\n\n综上，建议法庭依法判处被告人龙某有期徒刑三年至四年，并处罚金，责令退赔被害人剩余损失。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于犯罪情节方面\n1. 被告人的暴力程度较轻，仅造成被害人面部轻微伤，经鉴定未构成轻微伤，符合《最高人民法院关于常见犯罪的量刑指导意见》中\"暴力程度较轻\"的情形。\n\n二、关于认罪态度\n1. 被告人当庭认罪态度良好，对指控事实和罪名均无异议，根据《刑法》第六十七条第三款，可以从轻处罚。\n2. 被告人在侦查阶段即如实供述全部犯罪事实，具有坦白情节。\n\n三、关于退赔情况\n1. 被告人已通过本人及其亲属退还被害人15000元，占涉案金额的75%，剩余部分表示愿意继续退赔，具有悔罪表现。\n\n四、关于犯罪动机\n1. 本案系因感情纠纷引发，被告人因债务压力临时起意，与预谋犯罪相比主观恶性较小。\n\n五、量刑建议\n综合以上情节，建议法庭考虑适用缓刑。理由如下：\n1. 被告人系初犯，虽有前科但已过追诉时效；\n2. 犯罪情节较轻，未造成严重后果；\n3. 认罪悔罪态度良好，已部分退赔；\n4. 符合《刑法》第七十二条关于缓刑适用的条件。\n\n恳请法庭对被告人从轻处罚，给予改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的缓刑建议，公诉人认为不符合本案实际情况。根据《刑法》第七十二条，适用缓刑的前提是\"犯罪情节较轻\"，而本案中被告人采用暴力手段劫取财物，且选择在公共场所实施犯罪，社会危害性较大。\n\n关于退赔情况，需要指出被告人是在被抓获后才被动退赃，且至今仍有5000元未退赔，不能体现其真诚悔罪态度。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于抢劫犯罪，即使未造成轻伤以上后果，也不宜轻易适用缓刑。\n\n辩护人提出的\"临时起意\"情节不能减轻罪责。根据《刑法》第二百六十三条，抢劫罪的构成不以预谋为要件，临时起意同样构成犯罪。被告人有犯罪前科，虽已过追诉时效，但仍能反映其主观恶性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的不宜适用缓刑的意见，辩护人补充以下观点：\n\n第一，根据《刑法》第七十二条，适用缓刑的关键在于\"没有再犯罪的危险\"。本案中被告人系因特定情感纠纷和债务压力临时起意，并非惯犯，再犯可能性低。\n\n第二，关于退赔问题，被告人已在能力范围内积极退赔15000元，占涉案金额的75%，剩余部分也已表示愿意继续退赔，这充分体现了悔罪态度。\n\n第三，关于犯罪情节，虽然发生在公共场所，但实际危害后果较轻，被害人伤情经鉴定未构成轻微伤，符合《最高人民法院关于常见犯罪的量刑指导意见》中\"情节较轻\"的情形。\n\n第四，被告人的前科已过追诉时效，不应作为从重处罚的依据。根据《刑法》第八十七条，已过追诉时效期限的不再追究刑事责任。\n\n综上，被告人符合缓刑适用条件，恳请法庭综合考虑其认罪态度、退赔情况及犯罪情节，给予从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的\"再犯可能性低\"的观点，公诉人认为不能成立。被告人在实施犯罪时表现出较强的暴力倾向和威胁手段，且选择在公共场所作案，社会危害性较大。根据《刑法》第六十五条，有前科的犯罪分子应当从重处罚，即使前科已过追诉时效，仍能反映其主观恶性。\n\n关于退赔问题，需要强调被告人是在被抓获后才被动退赃，且至今仍有5000元未退赔，这与辩护人所说的\"积极退赔\"不符。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于抢劫犯罪，即使部分退赃也不宜轻易从轻处罚。\n\n辩护人提出的\"危害后果较轻\"不能改变抢劫罪的严重性质。根据《刑法》第二百六十三条，抢劫罪的构成不以造成轻伤为要件，暴力威胁手段本身已足以构成犯罪。被告人的行为完全符合抢劫罪的构成要件，应当依法严惩。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的\"被动退赃\"问题，辩护人需要指出：根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于退赃退赔的，应当综合考虑犯罪性质、退赃退赔行为对损害结果所能弥补的程度及数额等情况确定从宽幅度。被告人虽在被抓获后退赃，但已通过本人及亲属退还大部分款项，且剩余部分表示愿意继续退赔，这体现了悔罪态度。\n\n关于前科问题，根据《刑法》第八十七条，已过追诉时效期限的不再追究刑事责任。被告人的前科已过追诉时效，不应作为从重处罚的依据。且本案与之前的前科无关联性，不能反映其主观恶性。\n\n关于社会危害性问题，虽然发生在公共场所，但实际危害后果较轻，被害人伤情经鉴定未构成轻微伤，且未造成其他严重后果。根据《最高人民法院关于审理抢劫刑事案件具体应用法律若干问题的解释》第四条，抢劫数额虽达到\"数额巨大\"起点，但具有从轻情节的，可以依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的行为深感后悔，愿意认罪认罚。我真诚地向被害人杨某道歉，并承诺会尽快退赔剩余的5000元。希望法庭能考虑我认罪态度良好、已部分退赔的情节，给予我从轻处罚的机会。我保证今后一定遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "湖南省吉首市人民法院\n刑事判决书\n（2019）湘3101刑初181号\n\n公诉机关湖南省吉首市人民检察院。\n被告人龙某，男，XX年XX月XX日出生，公民身份号码XXXX，民族XXX，文化程度XXX，户籍所在地XXXX。因涉嫌抢劫罪，于2019年3月28日被吉首市公安局刑事拘留，现羁押于吉首市看守所。\n辩护人XXX，XX律师事务所律师。\n\n湖南省吉首市人民检察院以湘吉检刑诉〔2019〕181号起诉书指控被告人龙某犯抢劫罪，于2019年7月1日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。湖南省吉首市人民检察院指派检察员XXX出庭支持公诉，被告人龙某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n湖南省吉首市人民检察院指控：2019年3月23日，被告人龙某得知其前女友杨某与他人在吉首市矮寨景区游玩后，以300元包租唐某的面包车，与石某甲一同前往矮寨。当日下午5时许，龙某在德夯景区停车场内强行将杨某拖上面包车，在车内殴打杨某并威胁\"不给钱就一起死\"，强迫杨某通过微信转账20000元。2019年3月28日7时许，龙某被抓获归案，同日退还杨某5000元。同年5月31日，龙某的姐夫石某乙退还杨某10000元。公诉机关认为被告人龙某的行为构成抢劫罪，有犯罪前科应从重处罚，建议判处有期徒刑3-4年，并处罚金。\n\n被告人龙某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人暴力程度较轻，认罪态度良好，已退赔15000元，建议适用缓刑。\n\n经审理查明：2019年3月23日，被告人龙某因与前女友杨某的感情纠纷，在德夯景区停车场强行将杨某拖上面包车，在车内殴打杨某面部，并以\"不给钱就一起死\"相威胁，强迫杨某通过微信转账20000元。案发后，被告人已退还15000元。上述事实有被告人供述、被害人陈述、证人证言、微信转账记录、伤情鉴定等证据证实，足以认定。\n\n本院认为，被告人龙某以暴力、胁迫手段抢劫他人财物，其行为已构成抢劫罪。公诉机关指控的罪名成立。被告人龙某有犯罪前科，应从重处罚；其当庭认罪并部分退赃，可酌情从轻处罚。辩护人关于适用缓刑的意见，因本案社会危害性较大，不予采纳。依照《中华人民共和国刑法》第二百六十三条、第六十四条之规定，判决如下：\n\n一、被告人龙某犯抢劫罪，判处有期徒刑三年六个月，并处罚金人民币五千元；\n二、责令被告人龙某退赔被害人杨某剩余损失人民币五千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖南省湘西土家族苗族自治州中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2019年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了15项证据，包括：\n   - 被告人在侦查阶段的供述（承认犯罪事实、动机及案发后处理情况）\n   - 报案登记表、立案决定书等书证\n   - 户籍资料、到案经过等身份证明\n   - 保证书复印件\n   - 指认现场照片\n   - 微信转账截图（证实2万元转账及部分退款）\n   - 收条（证实1万元退款）\n   - 辨认笔录（确认同案人员身份）\n   - 检查笔录及照片（证实被害人伤情）\n   - 鉴定意见（证实不构成轻微伤）\n   - 3名证人证言（证实案发经过及还款情况）\n   - 被害人陈述\n   - 被告人供述与辩解\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定等。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了15项证据，包括：\n   - 被告人在侦查阶段的供述（承认犯罪事实、动机及案发后处理情况）\n   - 报案登记表、立案决定书等书证\n   - 户籍资料、到案经过等身份证明\n   - 保证书复印件\n   - 指认现场照片\n   - 微信转账截图（证实2万元转账及部分退款）\n   - 收条（证实1万元退款）\n   - 辨认笔录（确认同案人员身份）\n   - 检查笔录及照片（证实被害人伤情）\n   - 鉴定意见（证实不构成轻微伤）\n   - 3名证人证言（证实案发经过及还款情况）\n   - 被害人陈述\n   - 被告人供述与辩解\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定等。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了15项证据，包括：\n   - 被告人在侦查阶段的供述（承认犯罪事实、动机及案发后处理情况）\n   - 报案登记表、立案决定书等书证\n   - 户籍资料、到案经过等身份证明\n   - 保证书复印件\n   - 指认现场照片\n   - 微信转账截图（证实2万元转账及部分退款）\n   - 收条（证实1万元退款）\n   - 辨认笔录（确认同案人员身份）\n   - 检查笔录及照片（证实被害人伤情）\n   - 鉴定意见（证实不构成轻微伤）\n   - 3名证人证言（证实案发经过及还款情况）\n   - 被害人陈述\n   - 被告人供述与辩解\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定等。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了15项证据，包括：\n   - 被告人在侦查阶段的供述（承认犯罪事实、动机及案发后处理情况）\n   - 报案登记表、立案决定书等书证\n   - 户籍资料、到案经过等身份证明\n   - 保证书复印件\n   - 指认现场照片\n   - 微信转账截图（证实2万元转账及部分退款）\n   - 收条（证实1万元退款）\n   - 辨认笔录（确认同案人员身份）\n   - 检查笔录及照片（证实被害人伤情）\n   - 鉴定意见（证实不构成轻微伤）\n   - 3名证人证言（证实案发经过及还款情况）\n   - 被害人陈述\n   - 被告人供述与辩解\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定等。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人龙某以暴力、胁迫手段劫取财物，构成抢劫罪\n- 指出被告人有犯罪前科应从重处罚\n- 认为被告人系被动退赃，仍有5000元未退赔\n- 建议判处有期徒刑3-4年，并处罚金\n\n2. 辩护人发表辩护意见：\n- 认为被告人暴力程度较轻，未构成轻微伤\n- 指出被告人认罪态度良好，具有坦白情节\n- 强调已退赔15000元，占涉案金额75%\n- 主张本案系感情纠纷引发，主观恶性较小\n- 建议适用缓刑\n\n3. 控辩双方争议焦点：\n- 关于是否适用缓刑：\n  * 公诉人认为不符合缓刑条件，社会危害性大\n  * 辩护人认为再犯可能性低，符合缓刑条件\n- 关于退赔性质：\n  * 公诉人认为是被动退赃\n  * 辩护人认为是积极退赔\n- 关于前科影响：\n  * 公诉人认为反映主观恶性\n  * 辩护人认为已过追诉时效不应作为从重依据\n- 关于犯罪情节：\n  * 公诉人强调抢劫罪性质严重\n  * 辩护人主张实际危害后果较轻",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段：\n1. 公诉人讯问被告人：\n- 被告人承认因情绪激动和债务压力对被害人实施抢劫\n- 被告人表示威胁\"不给钱就一起死\"只是气话，无实际同归于尽意图\n- 被告人供述犯罪地点选择在德夯景区停车场是因人员较少\n- 被告人承认殴打被害人但未使用工具，且未造成严重伤害\n- 被告人供述通过微信转账获取2万元是因被害人拒绝支付5万元\n\n2. 辩护人讯问被告人：\n- 被告人与被害人于2018年底分手，无经济纠纷\n- 被告人承认索要钱财时未明确表示是借款或会归还\n- 被告人供述同居期间无共同财产或债务关系\n- 被告人承认殴打行为是因被害人拒绝给钱，但力度不大\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了15项证据，包括：\n   - 被告人在侦查阶段的供述（承认犯罪事实、动机及案发后处理情况）\n   - 报案登记表、立案决定书等书证\n   - 户籍资料、到案经过等身份证明\n   - 保证书复印件\n   - 指认现场照片\n   - 微信转账截图（证实2万元转账及部分退款）\n   - 收条（证实1万元退款）\n   - 辨认笔录（确认同案人员身份）\n   - 检查笔录及照片（证实被害人伤情）\n   - 鉴定意见（证实不构成轻微伤）\n   - 3名证人证言（证实案发经过及还款情况）\n   - 被害人陈述\n   - 被告人供述与辩解\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人对所有出示的证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或重新鉴定等。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人龙某以暴力、胁迫手段劫取财物，构成抢劫罪\n- 指出被告人有犯罪前科应从重处罚\n- 认为被告人系被动退赃，仍有5000元未退赔\n- 建议判处有期徒刑3-4年，并处罚金\n\n2. 辩护人发表辩护意见：\n- 认为被告人暴力程度较轻，未构成轻微伤\n- 指出被告人认罪态度良好，具有坦白情节\n- 强调已退赔15000元，占涉案金额75%\n- 主张本案系感情纠纷引发，主观恶性较小\n- 建议适用缓刑\n\n3. 控辩双方争议焦点：\n- 关于是否适用缓刑：\n  * 公诉人认为不符合缓刑条件，社会危害性大\n  * 辩护人认为再犯可能性低，符合缓刑条件\n- 关于退赔性质：\n  * 公诉人认为是被动退赃\n  * 辩护人认为是积极退赔\n- 关于前科影响：\n  * 公诉人认为反映主观恶性\n  * 辩护人认为已过追诉时效不应作为从重依据\n- 关于犯罪情节：\n  * 公诉人强调抢劫罪性质严重\n  * 辩护人主张实际危害后果较轻",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 42.0,
+    "fine": 5000.0,
+    "reprieve": 0.0
+  }
+]

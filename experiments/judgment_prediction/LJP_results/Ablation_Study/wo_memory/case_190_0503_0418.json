@@ -1,0 +1,4233 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人姜某甲，男，汉族，文化程度XXX，户籍XXX，无违法犯罪记录。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "安徽省亳州市谯城区人民检察院  \n起 诉 书  \n\n谯检刑诉〔2013〕844号  \n\n被告人姜某甲，男，汉族，文化程度XXX，户籍XXX。因涉嫌合同诈骗罪，于2013年5月28日被亳州市公安局谯城分局刑事拘留。  \n\n本案由亳州市公安局谯城分局侦查终结，以被告人姜某甲涉嫌合同诈骗罪，于2013年12月18日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2010年3月至2012年4月期间，被告人姜某甲以支付部分货款或赊账方式，分别将以下药材经营户的药材发往四川省成都市进行销售：  \n1.亳州市开发区木兰社区鲁某价值43500元的板蓝根；  \n2.亳州市谯城区八角台路张某甲价值31100元的桑蛸、防风；  \n3.亳州市谯城区沙土镇马某价值21120元的苍术；  \n4.亳州市谯城区谯东镇明某甲价值35653.5元的白术；  \n5.亳州市谯城区颜集镇靳某甲价值325880元的麦冬、元胡；  \n6.亳州市谯城区赵桥乡李某甲价值1009300元的苍术；  \n7.亳州市谯城区开发区彭马社区汪某甲价值210000元的白芍；  \n8.亳州市谯城区古泉东路李某乙价值103670元的红花；  \n9.亳州市谯城区十九里镇雷某价值117140元的丹参、知母；  \n10.亳州市谯城区谯东镇明家湾明某乙价值40320元的白术；  \n11.亳州市涡阳县义门镇刘某价值211000元的黄连；  \n12.亳州市谯城区北赵园巷董某价值56000元的黄翘；  \n13.亳州市谯城区颜楼行政村王某甲价值86255元的丹参；  \n14.亳州市谯城区颜楼行政村颜某甲价值14850元的丹参；  \n15.亳州市经济开发区云渡社区任某价值182400元的贝母、白术、白芍等。  \n\n被告人姜某甲将上述药材从亳州市华天物流发往成都后，一部分卖于成都的药商陈某甲、唐某，一部分由其本人在成都药材市场自行销售，所得货款除1012330元用于偿还部分被害人外，其余1277958.2元被其非法占有。  \n\n此外，2011年8月至2012年4月期间，姜某甲以每公斤48元或54元的价格，多次购买张某乙的元胡约37.3吨（价值约203万元），后以每公斤42元的价格卖给亳州同善堂中药材有限公司，所得款项除支付张某乙91万元外，其余112.5万元被其非法占有。  \n\n2012年1月和7月，被告人姜某甲将其位于亳州市谯城区姜屯的两套房屋及一辆本田汽车卖出后，中断通讯工具逃匿。  \n\n认定上述事实的证据如下：  \n1.被告人姜某甲的供述；  \n2.被害人鲁某、张某甲、马某、明某甲、靳某乙、李某甲、汪某甲、李某乙、雷某、明某乙、刘某、董某、王某甲、颜某甲、任某、张某乙的陈述；  \n3.欠条、协议书、房产买卖合同、托运单据、银行转账记录等书证；  \n4.证人崔某、徐某、姜某乙、杨某、郭某、温某甲、陈某乙、王某乙等人的证言；  \n5.亳州市华天公铁联运托运站统计表、银行凭证、抓获经过等书证。  \n\n本院认为，被告人姜某甲以非法占有为目的，在签订、履行合同过程中，骗取他人财物共计240.3582万元，数额特别巨大，其行为已触犯《中华人民共和国刑法》第二百二十四条之规定，犯罪事实清楚，证据确实、充分，应当以合同诈骗罪追究其刑事责任。根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n建议判处被告人姜某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n安徽省亳州市谯城区人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实没有异议，但我确实是因为经营困难才导致无法按时支付货款。在经营过程中，我已经偿还了部分货款，证明我有履约的意愿。我愿意积极筹措资金偿还剩余债务。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人姜某甲，你在2010年3月至2012年4月期间，通过赊购方式从15名药材经营户处取得价值240余万元的药材后，为何在2012年1月和7月出售名下房产车辆后中断通讯逃匿？请说明逃匿时的资金去向。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我的经营已经陷入严重困境，出售房产车辆是为了偿还部分债务。中断通讯是因为无力偿还剩余欠款，害怕面对债权人。出售资产所得款项主要用于支付部分药材货款和维持经营周转。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在侦查阶段供述称因资金周转困难才采取赊购方式，但根据银行转账记录显示你存在高买低卖行为（如以48-54元/公斤购入元胡后以42元/公斤出售）。请解释这种明显亏损的交易方式与\"资金周转困难\"供述之间的矛盾。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实面临资金链断裂的风险，低价出售元胡是为了快速回笼资金维持其他药材的采购和销售。这种亏损交易是迫于经营压力做出的无奈选择，并非故意为之。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人签订合同时是否具备实际履行能力？根据交易记录显示你在2011年8月前已形成大额欠款，为何仍继续赊购药材？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实已经出现资金困难，但认为通过继续经营能够逐步偿还欠款。继续赊购是为了维持生意运转，希望能通过后续回款解决债务问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你收到药材后将其发往成都销售，所得货款中仅支付部分被害人，剩余127万余元未支付。请说明未支付部分的资金具体用途。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "剩余货款主要用于支付物流费用、市场摊位租金等经营成本，以及偿还部分更紧急的债务。由于经营不善，资金缺口越来越大，最终无法全额支付所有货款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在案发前出售房产车辆的行为是否系为逃避债务？出售所得款项是否用于偿还被害人？如未用于偿还，请说明资金去向。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "出售房产车辆是为了筹集资金维持经营，并非为逃避债务。出售所得部分用于支付更紧急的货款和经营开支，但由于资金缺口太大，未能全部偿还被害人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你中断通讯工具逃匿后，是否有主动联系被害人协商还款？为何在长达一年时间内未采取任何补救措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我因为无力偿还全部债务，心理压力很大，没有主动联系被害人。我承认这是我的错误，确实没有采取有效的补救措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人签订的欠条中部分约定以房产抵押，但实际未办理抵押登记。这是否系故意规避法律责任的欺骗行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时签订欠条时确实承诺用房产抵押，但因为房产本身还有贷款未还清，无法办理抵押登记。我并非故意欺骗，而是确实存在客观困难。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "对于你声称出售房产车辆是为了偿还债务的说法，根据银行流水显示出售所得112.5万元中仅有91万元用于支付张某乙货款，剩余21.5万元去向不明，请具体说明该笔款项的用途。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "剩余21.5万元主要用于支付其他更紧急的货款和经营开支，包括物流费用、市场摊位租金等。由于当时资金周转非常困难，这些款项都用于维持最基本的经营运转。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在与药材经营户进行交易时，是否明确告知对方你的经营状况和资金周转情况？请说明当时的具体情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在与药材经营户交易时，我确实没有完全告知他们我的资金周转困难情况。当时我担心如果如实告知，他们可能就不会继续供货给我。但我一直有按时支付部分货款，证明我有履约的诚意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在收到药材后，是否确实将货物发往成都进行销售？销售所得款项的具体用途是什么？请详细说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "确实将货物发往成都销售。销售所得主要用于支付物流费用、市场摊位租金等经营成本，以及偿还部分更紧急的货款。由于经营不善，资金缺口越来越大，最终无法全额支付所有货款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在无法按时支付货款时，是否曾主动与药材经营户沟通协商还款计划？具体采取了哪些措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在无法按时支付货款时，我确实没有主动与药材经营户充分沟通还款计划。当时主要采取的措施是尽量先支付部分货款，并承诺会尽快偿还剩余款项。但由于经营状况持续恶化，最终未能兑现承诺。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你出售房产和汽车后所得款项的去向是什么？为何在出售后中断通讯工具？请说明当时的具体情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "出售房产和汽车所得款项主要用于支付部分更紧急的货款和维持经营周转。中断通讯工具是因为当时无力偿还全部债务，心理压力很大，害怕面对债权人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在经营过程中，是否有过其他正常的药材交易并按时支付货款的情况？请举例说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在2010年至2011年上半年期间，我与部分药材经营户的交易是正常进行的，比如与鲁某、张某甲的前几笔交易都按时支付了货款。但随着经营规模扩大和市场竞争加剧，资金周转开始出现问题，导致后期无法按时支付全部货款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2012年1月和7月出售房产车辆时，是否已经意识到自己无法偿还全部债务？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我已经意识到资金周转出现严重问题，但还抱着通过继续经营来逐步偿还债务的希望。出售房产车辆是为了筹集资金维持经营，但最终证明这个想法过于乐观。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与成都药商陈某甲、唐某的交易是否真实存在？请说明具体交易情况和款项去向。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "与陈某甲、唐某的交易确实存在。我们通过亳州市华天物流将药材发往成都后，部分药材卖给他们，交易款项主要用于支付物流费用和偿还部分更紧急的货款。具体交易金额和次数都有物流单据和银行转账记录可以证明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2010年至2012年期间，除上述药材交易外，是否还与其他药材经营户存在类似赊购交易？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "除起诉书中提到的15名药材经营户外，我没有与其他药材经营户进行过类似赊购交易。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2012年中断通讯逃匿期间，是否曾尝试通过其他方式筹措资金偿还债务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在逃匿期间，我因为害怕和压力过大，没有积极尝试通过其他方式筹措资金偿还债务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2012年中断通讯逃匿期间，是否曾与家人或朋友联系并讨论过如何解决债务问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在逃匿期间，我没有与家人或朋友讨论过如何解决债务问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2010年3月至2012年4月期间，我在安徽省亳州市通过支付部分货款或赊账的方式，从鲁某、张某甲、马某等15名药材经营户处收购药材，并通过亳州市华天物流发往四川省成都市销售。部分药材卖给成都药商陈某甲、唐某，其余由我在成都药材市场自行销售。销售所得货款中，1012330元用于偿还部分被害人，剩余1277958.2元未支付。  \n\n2011年8月至2012年4月，我从张某乙处购买约37.3吨元胡，价值约203万元，后以低价卖给亳州同善堂中药材有限公司的姜某丙，支付张某乙91万元货款，剩余112.5万元未支付。  \n\n2012年1月和7月，我出售位于亳州市谯城区姜屯的两套房屋及一辆本田汽车。2012年8月初，我中断通讯工具后离开亳州。  \n\n（2）犯案动机  \n我因资金周转困难，无法按时支付药材货款，遂采取赊购和高买低卖的方式维持经营，最终导致资金链断裂，无法偿还欠款。  \n\n（3）案发之后的处理  \n我在案发后没有自首，于2013年5月28日被公安机关抓获。截至判决时，我尚未赔偿被害人损失，也未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述仅能证明交易过程和资金流向，但无法直接证明被告人在签订合同时就具有非法占有目的。该证据与合同诈骗罪的主观要件关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在供述中明确承认在资金链断裂后仍继续赊购药材，并采取高买低卖方式套取资金，最终中断通讯逃匿。这些行为与合同诈骗罪的主观要件具有直接关联性，能够证明其非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：欠条一份，证明姜某甲欠鲁某板蓝根货款43500元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.被害人陈述：鲁某说：“2010年2月20日前后和姜某甲谈好以每公斤20多元，共500公斤，价值1万元的药材给姜某甲送的货，板蓝根送到董园姜某甲的租房子，姜某甲付的现金。又过十来天，也就是同年3月2、日、3月9日上午又给他送两次，又给他送的板蓝根，姜某甲未付现金，打的欠条，共欠43500元，现在共欠款是2万余元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述仅能证明交易过程和欠款事实，但无法证明被告人在交易之初就具有非法占有目的。且陈述中提到被告人已偿还部分货款，表明其有履约意愿，与合同诈骗罪的主观要件不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述与欠条相互印证，证明被告人采取先履行小额合同获取信任后拖欠大额货款的行为模式。且被告人中断通讯逃匿前已形成大额欠款，其行为符合合同诈骗罪的客观表现。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：银行转账记录一份，佐证鲁某与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该银行转账记录显示被告人曾多次偿还部分货款，表明其有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件。该证据反而证明被告人的行为更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行转账记录显示被告人的还款行为具有选择性且金额远低于欠款总额，与其赊购规模不成比例。这种部分还款行为恰恰是其维持被害人信任、继续实施诈骗的手段，符合合同诈骗罪的犯罪构成。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：欠条一份，证明姜某甲欠张某甲桑蛸、防风货款31100元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：张某甲说：“2010年春认识姜某甲，购买药材时都是现金结算。在6月份给姜某丁送了两次天麻、桑蛸，给打欠条是31100元，后来还一部分，现还欠13500元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人已偿还部分货款，证明其有履约意愿，与合同诈骗罪要求的主观非法占有目的不符。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述与欠条相互印证，证明被告人采取先履行小额合同获取信任后拖欠大额货款的行为模式。且被告人中断通讯逃匿前已形成大额欠款，其行为符合合同诈骗罪的客观表现。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：银行转账记录一份，佐证张某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该银行转账记录显示被告人曾多次偿还部分货款，表明其有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件。该证据反而证明被告人的行为更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行转账记录显示被告人的还款行为具有选择性且金额远低于欠款总额，与其赊购规模不成比例。这种部分还款行为恰恰是其维持被害人信任、继续实施诈骗的手段，符合合同诈骗罪的犯罪构成。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：欠条一份，证明姜某甲欠马某苍术货款21120元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.被害人陈述：马某说：“2010年6月12日姜某甲给其打电话要960公斤苍术个子，价值21120元，其给他把货送到姜某甲董园的租房处，没有给现款，和他一起把货送到了福成都托运站，之后打的欠条，现两年多了找不到人了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述仅能证明交易过程和欠款事实，但无法证明被告人在交易之初就具有非法占有目的。且陈述中提到的托运单据仅能证明货物运输情况，与诈骗行为无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述与欠条、托运单据相互印证，形成完整证据链，证明被告人收取货物后未支付货款且中断联系逃匿。这种收受货物后逃匿的行为模式符合刑法第224条关于合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：托运单据一份，佐证马某所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "托运单据仅能证明货物运输情况，与诈骗行为无直接关联，无法证明被告人在交易之初就具有非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "托运单据与被害人陈述、欠条相互印证，形成完整证据链，证明被告人收取货物后未支付货款且中断联系逃匿。这种收受货物后逃匿的行为模式符合刑法第224条关于合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：欠条一份，证明姜某甲欠明某甲白术货款35653.2元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.被害人陈述：明某甲说：“2011年3月9日姜某甲到其家中拉他8414公斤白术，每公斤是4308元，价值35653.2元，当时没有付款，写的欠条，一直拖着不还，后来分两次付3万元现金，欠条也没有换，到现在欠款是5653.2元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人已偿还大部分货款(3万元/35653.2元)，证明其有履约意愿，与合同诈骗罪要求的主观非法占有目的不符。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人仅偿还部分货款且未更换欠条，证明其履约行为不完整。结合其他证据，被告人在形成大额欠款后中断联系逃匿，其部分还款行为不能否定整体非法占有目的，符合合同诈骗罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。公诉人请出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：银行转账记录一份，佐证明某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该银行转账记录显示被告人已偿还大部分货款，证明其有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件。该证据反而证明被告人的行为更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行转账记录显示被告人的还款行为具有选择性且金额远低于欠款总额，与其赊购规模不成比例。这种部分还款行为恰恰是其维持被害人信任、继续实施诈骗的手段，符合合同诈骗罪的犯罪构成。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：协议书一份，证明姜某甲和靳某甲的协议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.被害人陈述：靳某乙说：“他是靳某甲的儿子，因其父亲在成都市场和姜某甲谈好价格，2011年8月19日让其给姜某甲发2210公斤的麦冬，价值282880元当时是通过万福成都专线发的货，提货人是姜某甲，货到之后，姜某甲付给1万元，下剩268600元药材款，姜某甲给其父亲靳某甲打了一张欠条，后又发900公斤，价值42300元，两批货价值325880元，总计姜某甲付5500元，什么时候付款不清楚，2011年12月14日其父亲靳某甲要姜某甲64500元的白芍、丹参，写的有协议，至今姜某甲还欠我们货款是206380元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人已支付部分货款并签订协议，证明其有履约意愿。且陈述中提到的协议内容表明双方存在正常的商业往来，无法证明被告人在交易之初就具有非法占有目的。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述与协议书相互印证，证明被告人在形成大额欠款后仍继续赊购药材，且仅支付极小部分货款。这种持续扩大债务规模的行为模式，结合其最终中断联系逃匿的事实，符合合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：托运单据一份，佐证靳某乙所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：欠条一份，证明姜某甲欠李某甲货款361400元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：欠条一份，证明姜某甲欠李某甲货款231600元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：欠条一份，证明姜某甲欠李某甲货款416300元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：欠条一份，证明姜某甲欠李某甲货款1104000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：房产买卖合同及收条一份，证明姜某甲将房产一处卖给李某甲，价值30万元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：房产登记证明一份，佐证房产买卖合同的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.被害人陈述：李某甲说：“2010年3月份认识的姜某甲，在家中卖几次货付的都是现金，感觉有信誉。在2011年3月13日姜某甲电话联系要一批丹皮，有4吨，在5月23日给他写的欠条，并约定一个月还款，利息1分5算起，后来几次送货，姜某甲通过银行付一部分款，至今欠其药款是257940元。在2012年1月18日姜某甲讲如有要帐将在十九里镇姜屯的一处房产以30万价格卖给她，写的有协议。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人与李某甲之间存在多次正常交易并支付现金，后期虽形成欠款但已通过银行支付部分款项，并签订房产买卖协议作为担保。这些行为表明被告人具有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人在形成大额欠款后仍继续赊购药材，且仅支付极小部分货款。这种持续扩大债务规模的行为模式，结合其最终中断联系逃匿的事实，符合合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.书证：银行转账记录一份，佐证李某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该银行转账记录显示被告人曾多次偿还部分货款，表明其有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件。该证据反而证明被告人的行为更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行转账记录显示被告人的还款行为具有选择性且金额远低于欠款总额，与其赊购规模不成比例。这种部分还款行为恰恰是其维持被害人信任、继续实施诈骗的手段，符合合同诈骗罪的犯罪构成。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：崔某说：“李某甲是其家属，2011年底到2012年初在生意上一直和姜某甲做药材生意，姜某甲拉其家的药材是送到万福的成都专线处，接货人是陈某乙和房某，欠帐都是累积下来的，李某甲知道。在2012年1月18日姜某甲位于十九里镇姜屯的自建房有370多平方米，以30万元的价格卖给他们了，写的有协议，付的现金，当时姜某甲还其家的药款，因是朋友付他的现金。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.书证：托运单据一份，佐证崔某所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.书证：欠条一份，证明姜某甲欠汪某甲、汪某乙货款23万元以房做抵押",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.书证：房产抵押登记证明一份，佐证欠条中房产抵押的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.被害人陈述：汪某甲说：“2011年11月10日姜某甲到其处拉的21万元白芍，拉货其不在家，给其父亲写的欠条。之后付一部分款，在2013年2月18日姜某甲，给其和弟弟汪某丙写个总欠条，计款是23万元，其中欠他15万元欠汪某丙8万，在多次催要下，又付一部分，现总计欠其药材款11万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人已支付部分货款并签订总欠条，证明其有履约意愿。且陈述中提到被告人多次偿还部分欠款，这些行为表明被告人具有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人在形成大额欠款后仍继续赊购药材，且仅支付极小部分货款。这种持续扩大债务规模的行为模式，结合其最终中断联系逃匿的事实，符合合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.书证：银行转账记录一份，佐证汪某甲与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.书证：欠条一份，证明姜某甲欠李某乙红花货款103670元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.被害人陈述：李某乙说：“2011年春节后姜某甲要其白芍，价款是103670元，是其把货送到万福的成都托运站，姜某甲给写的欠条，多次催要付一部分，至今欠款是63670元。现也找不到人了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人已支付部分货款，证明其有履约意愿，与合同诈骗罪要求的主观非法占有目的不符。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人在形成大额欠款后仅支付部分货款，且最终中断联系逃匿。这种部分还款行为不能否定其整体非法占有目的，结合其他证据，符合合同诈骗罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.书证：托运单据一份，佐证李某乙所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.书证：欠条一份，证明姜某甲欠雷某丹参、知母货款117140元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "35.被害人陈述：雷某说：“2011年农历11月份姜某甲到其家中拉药材丹参，在11月26日给其写的欠条117140元，支付一部分，现欠款是86340元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人已支付部分货款，证明其有履约意愿，与合同诈骗罪要求的主观非法占有目的不符。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人在形成大额欠款后仅支付部分货款，且最终中断联系逃匿。这种部分还款行为不能否定其整体非法占有目的，结合其他证据，符合合同诈骗罪的构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "36.书证：银行转账记录一份，佐证雷某与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "37.书证：欠条一份，证明姜某甲欠明某乙白术货款22000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "38.书证：欠条一份，证明姜某甲欠明某乙白术货款40320元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "39.被害人陈述：明某乙说：“2012年1月份姜某甲从其家中拉的药材白术价值是40320元，在1月20日写的欠条，当时写两张欠条，基22000元已付清，现欠款40320元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "40.书证：银行转账记录一份，佐证明某乙与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "41.书证：欠条一份，证明姜某甲欠刘某黄连货款211000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "42.被害人陈述：刘某说：“他和姜某甲以前是邻居，曾借给姜某甲10万用于生意周转，付1分的利息，也都付清了。在2012年2月14日姜某甲要买他的黄连，价值是211000元，从其家拉走的货，写的欠条，后来一直找不到他，姜某甲的媳妇的电话也停机了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述显示被告人与刘某曾有正常借贷关系并按时支付利息，证明其有履约意愿。且陈述中提到的欠条仅能证明欠款事实，无法证明被告人在交易之初就具有非法占有目的。该证据反而证明本案更符合民事纠纷特征。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人在形成大额欠款后中断通讯逃匿，其配偶电话也停机，这种逃避债务的行为模式符合合同诈骗罪的客观构成要件。且被告人在明知无力偿还的情况下仍继续赊购药材，证明其主观上具有非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "43.书证：银行转账记录一份，佐证刘某与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "44.书证：欠条一份，证明姜某甲欠董某黄翘货款56000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "45.被害人陈述：董某说：“经刘某认识的姜某甲，2012年3月28日姜某甲从其宾拉黄连1.4吨，价值56000元，写的欠条，至今未付，也联系不上了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述仅能证明欠款事实和联系中断情况，但无法证明被告人在交易之初就具有非法占有目的。且陈述中提到的欠条仅能证明债务关系，与合同诈骗罪的主观要件无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述与欠条相互印证，证明被告人收取货物后未支付货款且中断联系逃匿。这种收受货物后逃匿的行为模式符合刑法第224条关于合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "46.书证：托运单据一份，佐证董某所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "47.书证：欠条一份，证明姜某甲欠王某甲丹参货款86255元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "48.被害人陈述：王某甲说：“2012年4月28日温某乙和姜某甲一起到颜楼家中买其丹参和丹参个子，两次计款是86255元，没有付款，写的欠条，从那之后也未找到姜某甲。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述仅能证明欠款事实和联系中断情况，但无法证明被告人在交易之初就具有非法占有目的。且陈述中提到的欠条仅能证明债务关系，与合同诈骗罪的主观要件无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述与欠条相互印证，证明被告人收取货物后未支付货款且中断联系逃匿。这种收受货物后逃匿的行为模式符合刑法第224条关于合同诈骗罪的客观构成要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "49.书证：托运单据一份，佐证王某甲所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "50.被害人陈述：颜某乙说：“2012年4月20日左右温某乙带着姜某甲到其家买丹参900公斤，价值人民币14850元，没有付款没有写欠条，找不到姜某甲了，手机也停机了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该被害人陈述仅能证明交易事实和联系中断情况，但无法证明被告人在交易之初就具有非法占有目的。且陈述中提到的未写欠条情况反而表明交易过程不规范，与合同诈骗罪的主观要件无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述显示被告人收取货物后未支付货款且中断通讯逃匿，这种收受货物后逃匿的行为模式符合刑法第224条关于合同诈骗罪的客观构成要件。结合其他证据，被告人在明知无力偿还的情况下仍继续赊购药材，证明其主观上具有非法占有目的。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "51.书证：欠条一份，证明姜某甲欠任某丹参、白术等货款182400元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "52.被害人陈述：任某说：“2012年4月份郭某介绍帮姜某甲购买丹参、白术等，价值是8万余元，郭某提的货写的条子，第二次是郭某又来提的货是10万2千多元，两次在一起写的欠条是182400元，都是郭某写的条子。在5月12日和郭某一起到西安找到姜某甲，让姜某甲打的欠条，是182400元，如是付不清，用姜某甲的房子和车抵押。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "53.书证：抵押登记证明一份，佐证欠条中房产和车辆抵押的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "54.书证：欠条一份，证明姜某甲欠张某乙元胡货款933000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "55.书证：欠条一份，证明姜某甲欠张某乙元胡货款392000元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "56.被害人陈述：张某乙说：“2011年8月份在市药材交易中心通过钱某认识姜某甲，姜某甲购买他元胡药材三次，价值约203万元，之后付一部分，姜某甲写了两张欠条，一张是933000元，另一张是392000元，至今姜某甲欠其药款是112.5万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "57.书证：银行转账记录一份，佐证张某乙与姜某甲之间的部分货款支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "58.证人证言：魏某说：“姜某甲和其租住的房子是邻居，有一段时间没有兔崽子到姜某甲，那天有人把姜某甲租房的东西都搬走了，有人来要帐，具体情况不清楚。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "59.证人证言：徐某说：“他是同善堂中药材有限责任公司负责人，2012年4月份姜某甲与公司交易有90多万元的货，帐目都结清了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "60.书证：同善堂中药材有限责任公司交易记录一份，佐证徐某所述交易情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "61.证人证言：姜某乙说：“2012年初姜某甲和其同善堂中药材有限公司交易有90万元左右的药材。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "62.书证：同善堂中药材有限责任公司交易记录一份，佐证姜某乙所述交易情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "63.证人证言：杨某说：“2012年7月9日通过姜某甲的爷爷姜某戊购买姜某甲位于姜屯的房屋，价值是10万元。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "64.书证：房产登记证明一份，佐证杨某所述房产买卖情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "65.证人证言：郭某说：“她先认识的姜某甲的妻子温某丙，给姜某甲送点药材，欠任某药材款姜某甲写的条据。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "66.证人证言：温某甲说：“姜某甲是其丈夫，2003年和姜某甲结婚，开始做药材生意，姜某甲欠人家多少钱她不清楚。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "67.证人证言：陈某乙说：“他在成都市荷花池中药材交易市场经营药材，自2009年就和姜某甲做药材生意，经营额有17万余元（即条据货清，钱清）。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "68.书证：成都市荷花池中药材交易市场交易记录一份，佐证陈某乙所述交易情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "69.证人证言：王某乙说：“他在成都经营晨运物流公司，姜某甲在2012年5月之前在其公司托运过货物。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "70.书证：晨运物流公司托运记录一份，佐证王某乙所述货物运输情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "71.书证：房屋买卖合同一份，证明杨某购买姜某甲房屋的协议",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "72.书证：房产登记证明一份，佐证房屋买卖合同的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "73.书证：亳州市华天公铁联运托运站2009-2011年间统计表一份，证明姜某甲发往成都货物情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "74.书证：亳州市华天公铁联运托运站官方证明一份，佐证统计表的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "75.书证：银行凭证一份，证明对姜某甲银行存取款情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "76.书证：银行官方证明一份，佐证银行凭证的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "77.书证：姜某甲合同诈骗案件已偿还货款表一份",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "78.书证：法院官方证明一份，佐证偿还货款表的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "79.书证：前科证明一份，证明姜某甲无违法犯罪记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "80.书证：公安机关官方证明一份，佐证前科证明的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "81.书证：抓获经过一份，证明公安机关于2013年5月28日15时许抓获姜某甲",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "82.书证：公安机关官方证明一份，佐证抓获经过的合法性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人现就本案发表如下公诉意见：\n\n一、关于定罪方面\n被告人姜某甲的行为完全符合刑法第224条合同诈骗罪的构成要件。其在明知无力偿还的情况下，通过赊购方式获取15名被害人价值240余万元的药材后逃匿，具有明显的非法占有目的。具体表现为：\n1.被告人在资金链断裂后仍继续赊购药材，采取高买低卖方式套取资金，与其供述的\"资金周转困难\"明显矛盾；\n2.被告人在形成大额欠款后出售房产车辆并中断通讯逃匿，客观上实施了欺骗行为；\n3.银行转账记录显示被告人仅选择性偿还部分货款，与其赊购规模不成比例，系维持被害人信任的手段。\n\n二、关于量刑方面\n1.犯罪数额特别巨大，达240.3582万元，根据最高人民法院相关司法解释，应在十年以上量刑；\n2.社会危害性严重，涉及15名被害人，严重扰乱药材市场秩序；\n3.被告人在逃匿期间未采取任何补救措施，主观恶性较深；\n4.虽部分偿还货款，但系维持诈骗行为的必要手段，不能减轻其罪责。\n\n三、关于辩护意见的回应\n辩护人提出被告人具有履约意愿的观点不能成立：\n1.部分还款行为与整体诈骗模式不冲突，恰恰是维持诈骗的手段；\n2.签订协议、抵押等行为均发生在资金链断裂后，系欺骗行为的延续；\n3.中断通讯逃匿等客观行为直接证明其非法占有目的。\n\n综上，本案证据确实充分，已形成完整证据链，建议以合同诈骗罪追究被告人刑事责任，依法判处相应刑罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人现就本案发表如下辩护意见：\n\n一、关于定罪方面\n1.根据《刑法》第224条，合同诈骗罪要求行为人主观上具有非法占有目的。本案中，银行转账记录显示被告人已偿还101万余元货款，占总额的42%，证明其具有履约意愿。部分被害人陈述也证实被告人已偿还大部分货款，如明某甲已偿还3万元/35653.2元，不符合\"非法占有目的\"的主观要件。\n\n2.托运单据等证据仅能证明货物运输情况，与诈骗行为无直接关联。公诉方未能提供充分证据证明被告人在签订合同时就具有非法占有目的。\n\n3.被告人与部分被害人有长期正常交易记录，如与鲁某、张某甲的前期交易均按时支付货款，不符合诈骗行为特征。\n\n二、关于量刑方面\n1.被告人因经营不善导致资金周转困难，主观上无非法占有故意。其出售房产车辆是为了偿还债务，并非为逃避责任。\n\n2.被告人在经营过程中曾积极履行部分合同义务，偿还了101万余元货款，认罪态度良好。\n\n3.被告人无前科，系初犯，主观恶性较小。\n\n三、关于案件性质\n本案更符合民事纠纷特征，应通过民事诉讼途径解决。被告人的行为属于经营不善导致的债务违约，而非合同诈骗。\n\n综上，恳请法庭充分考虑被告人的履约意愿、部分还款事实及初犯情节，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于非法占有目的的认定\n辩护人忽视了一个关键事实：被告人在2011年8月前已形成大额欠款的情况下，仍继续赊购药材并实施高买低卖行为。根据《刑法》第224条，这种明知无履行能力仍继续扩大债务的行为，本身就是非法占有目的的体现。银行记录显示其以48-54元/公斤购入元胡后以42元/公斤出售，这种明显亏损的交易模式与正常经营逻辑相悖。\n\n二、关于部分还款的性质\n被告人的部分还款行为具有明显的选择性，且与其赊购规模不成比例。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，这种\"拆东墙补西墙\"的还款方式正是合同诈骗的典型特征。其在逃匿前出售房产车辆所得112.5万元中，有21.5万元去向不明，进一步证明其非法占有目的。\n\n三、关于社会危害性\n本案涉及15名被害人，涉案金额达240余万元，严重扰乱药材市场秩序。被告人中断通讯逃匿后长达一年未采取任何补救措施，主观恶性明显。根据《刑法》第224条及司法解释，数额特别巨大且社会影响恶劣的，应从严惩处。\n\n四、关于证据链的完整性\n15名被害人的陈述、欠条、托运单据、银行记录等证据相互印证，形成完整证据链。被告人在侦查阶段的供述与客观证据高度吻合，充分证明其\"收受货物后逃匿\"的犯罪事实。辩护人提出的民事纠纷观点与客观证据不符。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于非法占有目的的认定\n公诉人指控的\"高买低卖\"行为恰恰证明被告人面临经营困境，而非非法占有目的。根据《刑法》第224条，非法占有目的需结合行为人客观行为综合判断。被告人因资金周转困难被迫低价出售药材回笼资金，符合商业经营中的应急行为特征。\n\n二、关于部分还款的性质\n被告人偿还101万余元货款的行为具有持续性，并非选择性还款。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，\"拆东墙补西墙\"需证明行为人主观上具有欺骗故意。本案中被告人与多名被害人有长期正常交易历史，其还款行为具有一贯性。\n\n三、关于案件性质认定\n公诉人指控的\"逃匿\"行为发生在经营失败后，属于债务纠纷中的不当行为，而非合同诈骗的构成要件。根据《刑法》第224条，合同诈骗要求行为人自始具有非法占有目的，而本案证据显示被告人在交易初期均能正常履约。\n\n四、关于量刑情节\n被告人虽未自首，但在归案后如实供述，认罪态度良好。根据《刑法》第67条第3款，可以从轻处罚。且被告人无前科，系初犯，主观恶性较小，建议法庭在量刑时予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于非法占有目的的认定\n辩护人提出的\"经营困境\"辩解不能成立。根据《刑法》第224条，被告人在资金链断裂后仍继续赊购药材，且出售房产车辆所得款项未用于偿还被害人，而是中断通讯逃匿，这种客观行为直接证明了其非法占有目的。银行记录显示其将21.5万元资金转移他用，与\"经营困难\"的辩解明显矛盾。\n\n二、关于案件性质的认定\n本案并非简单的民事纠纷。被告人采取\"先履行小额合同获取信任后拖欠大额货款\"的典型诈骗模式，且在逃匿前已形成240余万元欠款，根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，这种行为模式完全符合合同诈骗罪的构成要件。\n\n三、关于量刑情节\n被告人虽部分还款，但仅占欠款总额的42%，且具有明显的选择性。其在逃匿后长达一年未采取任何补救措施，直至被公安机关抓获，不能认定为认罪态度良好。根据《刑法》第224条，数额特别巨大的合同诈骗罪应在十年以上量刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于非法占有目的的认定\n公诉人将被告人的经营困境简单等同于非法占有目的，这种推定缺乏法律依据。根据《刑法》第224条，非法占有目的应当结合行为人签订合同时的主观状态综合判断。本案中，被告人与多名被害人的前期交易均能正常履行，后期因市场变化导致经营困难，属于正常的商业风险范畴。\n\n二、关于案件性质的认定\n公诉人指控的\"先履行小额合同\"模式在本案中并不成立。根据被害人陈述，被告人与部分被害人的交易金额从初期就较大，如与李某甲的首笔交易即达4吨丹皮。这种交易模式不符合合同诈骗罪的典型特征，更符合正常的商业往来。\n\n三、关于量刑情节\n被告人虽未全额还款，但已偿还101万余元，占总额的42%，远高于一般诈骗案件中\"象征性还款\"的比例。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于积极退赔的被告人应当从宽处罚。被告人虽未自首，但在归案后如实供述，根据《刑法》第67条第3款，可以从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人是否具有非法占有目的已经发表了一些意见，接下来的辩论请围绕被告人出售房产车辆所得款项的具体去向展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人出售房产车辆所得款项去向问题，公诉人强调以下三点：\n\n第一，根据银行流水记录，被告人出售房产车辆共得款112.5万元，其中仅支付张某乙91万元，剩余21.5万元去向不明。被告人在庭审中辩称用于\"经营成本\"，但未能提供任何票据、账目等证据予以佐证，其辩解缺乏事实依据。\n\n第二，根据《刑法》第224条，合同诈骗罪的构成要件包括\"收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿\"。被告人在获得大额货款后中断通讯逃匿，且对关键资金去向不能作出合理解释，这一行为模式完全符合该条款规定。\n\n第三，被告人在资金链断裂后仍继续实施高买低卖行为，与其所称\"用于经营\"的辩解自相矛盾。若真为经营所需，理应将资金用于偿还债务维持信用，而非继续实施明显亏损的交易。这进一步证明其非法占有目的。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于21.5万元资金去向问题\n1.根据《刑事诉讼法》第五十三条，公诉机关应当承担举证责任。现有证据仅能证明资金流向，但无法证明被告人具有非法占有目的。被告人解释用于经营成本符合商业常理，不应要求其提供全部经营明细。\n\n2.银行记录显示被告人与同善堂公司有正常交易往来，证明其确实将部分资金用于经营周转。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，不能仅因部分资金去向不明就推定具有非法占有目的。\n\n二、关于出售房产车辆性质\n1.被告人出售房产车辆所得主要用于偿还债务，其中91万元直接支付给张某乙，占出售款项的81%，证明其具有还款意愿。根据《刑法》第六十七条，这种积极还款行为应当作为量刑从宽情节考虑。\n\n2.被告人因经营困难被迫出售资产，属于正常的债务清偿行为。公诉人将正常的资产处置等同于\"逃匿\"缺乏法律依据。根据《合同法》相关规定，这属于民事违约行为范畴。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人出售房产车辆所得款项去向问题已经发表了一些意见，接下来的辩论请围绕被告人高买低卖行为的商业合理性及行业惯例问题展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人高买低卖行为的商业合理性，公诉人强调以下三点：\n\n第一，根据银行转账记录，被告人以48-54元/公斤购入元胡后以42元/公斤出售给同善堂公司，这种持续性亏损交易明显违背基本商业逻辑。根据《刑法》第224条，这种异常交易模式正是其非法占有目的的客观表现。\n\n第二，被告人在供述中称因\"资金周转困难\"才采取高买低卖方式，但该辩解与客观证据矛盾。正常经营困境下应当收缩业务规模，而非持续扩大亏损交易。其行为实质是通过虚假交易套取资金。\n\n第三，药材行业惯例中确实存在短期促销行为，但不会长期以低于成本价30%的价格持续交易。本案中被告人的高买低卖行为持续8个月，涉及37.3吨元胡，明显超出合理商业行为范畴。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于高买低卖行为的商业合理性\n1.根据《刑法》第224条，判断非法占有目的应当结合行为人主观状态综合认定。被告人因资金链断裂被迫低价回笼资金，符合商业经营中的应急措施，不能简单等同于诈骗行为。市场行情波动导致的临时性亏损交易在药材行业并不罕见。\n\n2.公诉人指控的\"持续性亏损\"缺乏充分证据支持。根据银行记录，被告人与同善堂公司的交易具有连续性，证明其仍在维持正常经营，而非套取资金。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，不能仅因交易亏损就推定非法占有目的。\n\n二、关于行业惯例问题\n1.药材行业确实存在为维持客户关系而短期亏损交易的情况。被告人供述称低价出售是为保持与同善堂公司的长期合作，符合行业特点。\n\n2.公诉人提出的30%亏损比例缺乏行业数据支持。根据被告人供述，当时市场行情下行，部分药材确实出现价格倒挂现象，其行为具有商业合理性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人高买低卖行为的商业合理性及行业惯例问题已经发表了一些意见，接下来的辩论请围绕被告人是否在逃匿期间有转移、隐匿财产的行为展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人转移、隐匿财产的行为，公诉人强调以下三点：\n\n第一，根据银行流水记录和房产交易记录，被告人在2012年1月和7月集中出售两套房产和一辆汽车后随即中断通讯逃匿，所得112.5万元中仅偿还张某乙91万元，剩余21.5万元去向不明。这种在逃匿前集中处置财产的行为，符合转移、隐匿财产的特征。\n\n第二，根据《刑法》第224条，合同诈骗罪的构成要件包括\"收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿\"。被告人在获得大额货款后中断通讯逃匿，且对关键资金去向不能作出合理解释，这一行为模式完全符合该条款规定。\n\n第三，被告人在庭审中辩称剩余款项用于\"经营成本\"，但未能提供任何票据、账目等证据予以佐证。结合其逃匿后长达一年未与任何被害人联系的事实，足以认定其具有转移、隐匿财产的主观故意。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于21.5万元资金去向问题\n1.根据现有证据，被告人已对资金用途作出合理解释，即用于支付物流费用、市场摊位租金等经营成本。根据《刑事诉讼法》第五十三条\"排除合理怀疑\"的证明标准，公诉机关未能提供充分证据证明该款项被非法转移或隐匿。\n\n2.银行记录显示被告人与同善堂公司有正常交易往来，证明其确实将部分资金用于经营周转。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，不能仅因部分资金去向不明就推定具有非法占有目的。\n\n二、关于出售资产行为的性质\n1.被告人出售房产车辆所得112.5万元中，81%用于偿还张某乙货款，这一比例证明其处置资产的主要目的是清偿债务，而非转移财产。根据《刑法》第六十七条，这种积极还款行为应当作为量刑从宽情节考虑。\n\n2.被告人因经营困难被迫出售资产属于正常的债务清偿行为，与\"转移、隐匿财产\"有本质区别。根据《合同法》相关规定，这属于民事违约行为范畴，不应被认定为刑事犯罪手段。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人是否在逃匿期间有转移、隐匿财产的行为已经发表了一些意见，接下来的辩论请围绕以下要点展开：1.被告人出售房产车辆的具体时间与中断通讯的时间间隔；2.21.5万元未明确去向资金的具体使用情况，包括是否有相关经营支出的凭证；3.被告人在逃匿期间是否与家人或其他相关人员有过资金往来。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于时间间隔问题。根据在案证据，被告人在2012年1月和7月集中出售房产车辆后，于8月初即中断通讯逃匿，时间间隔极短。这种短时间内处置资产并失联的行为模式，明显具有逃避债务的主观故意，符合刑法第224条\"收受货物后逃匿\"的构成要件。\n\n二、关于21.5万元资金去向。被告人虽辩称用于经营成本，但未能提供任何物流费用、租金等支出凭证予以佐证。根据刑事诉讼法第五十三条，公诉机关已通过银行流水等客观证据证明资金去向不明，被告人应承担举证不能的法律后果。\n\n三、关于逃匿期间资金往来。现有证据显示被告人中断通讯后未与任何被害人联系，也未采取任何补救措施。其辩称因\"心理原因\"未联系的说法，与非法占有目的的认定并不冲突，反而印证了其逃避债务的主观故意。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于时间间隔问题。被告人出售房产与中断通讯之间存在合理时间差，并非立即失联。根据商业惯例，资产处置后需要时间进行资金调配，不能简单等同于逃避债务。被告人在此期间仍在处理部分债务，如支付张某乙91万元货款。\n\n二、关于21.5万元资金用途。根据《刑事诉讼法》第五十三条，公诉机关应承担举证责任证明资金被非法转移。被告人作为个体工商户，经营支出往往缺乏规范票据，不能仅因无凭证就推定非法占有。银行记录显示被告人与同善堂公司有正常交易往来，佐证其确实将资金用于经营周转。\n\n三、关于逃匿期间行为。被告人虽未主动联系被害人，但根据其供述系因经营失败产生巨大心理压力，并非故意逃避债务。现有证据未显示被告人在逃匿期间有大额资金转移行为，不能认定其具有转移、隐匿财产的主观故意。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人是否在逃匿期间有转移、隐匿财产的行为已经发表了一些意见，接下来的辩论请围绕以下要点展开：1.被告人出售房产车辆所得款项中21.5万元未明确去向资金的具体使用情况，包括是否有相关经营支出的凭证；2.被告人在逃匿期间是否与家人或其他相关人员有过资金往来；3.被告人与同善堂公司交易的具体情况，包括交易金额、频率及资金流向。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于21.5万元资金去向问题\n1.根据银行流水记录，被告人出售资产所得112.5万元中，仅能证实91万元用于偿还张某乙货款，剩余21.5万元去向不明。被告人虽辩称用于经营支出，但未能提供任何物流单据、租金合同等凭证予以佐证，其辩解缺乏事实依据。根据《刑事诉讼法》第五十三条，被告人对资金去向负有说明义务。\n\n2.被告人与同善堂公司的交易记录显示，其在2012年4月完成90余万元交易后即中断经营，与所称\"用于经营周转\"的辩解明显矛盾。若真为经营所需，理应有持续性的交易记录和资金往来证明。\n\n二、关于逃匿期间资金往来\n1.现有证据充分显示，被告人在2012年8月中断通讯后，直至2013年5月被抓获期间，未与任何被害人联系协商还款，也未通过家人进行债务清偿。这种彻底的失联状态，直接证明了其逃避债务的主观故意。\n\n2.银行记录未显示被告人在逃匿期间有大额资金往来，恰恰印证了其将21.5万元转移隐匿的事实。正常经营困境下应当保留资金往来痕迹，而非完全切断经济联系。\n\n三、关于同善堂公司交易\n1.被告人与同善堂公司的交易集中在2012年4月，涉及90余万元，但此后即中断交易并逃匿。这种集中交易后立即失联的行为模式，与正常商业往来明显不符。\n\n2.交易记录显示被告人采取高买低卖方式，以明显低于成本的价格向同善堂公司出售药材，这种异常交易模式正是其套取资金的犯罪手段，而非正常经营行为。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于21.5万元资金去向问题\n1.根据《刑事诉讼法》第五十三条，公诉机关应承担举证责任证明资金被非法转移。被告人作为个体工商户，经营支出往往缺乏规范票据，不能仅因无凭证就推定非法占有。银行记录显示被告人与同善堂公司有正常交易往来，佐证其确实将资金用于经营周转。\n\n2.被告人供述称该款项用于支付物流费用、市场摊位租金等经营成本，符合商业常理。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，不能仅因部分资金去向不明就推定具有非法占有目的。\n\n二、关于逃匿期间资金往来\n1.现有证据未显示被告人在逃匿期间有大额资金转移行为，不能认定其具有转移、隐匿财产的主观故意。被告人中断通讯系因经营失败产生巨大心理压力，并非故意逃避债务。\n\n2.根据银行记录，被告人在逃匿前已偿还101万余元货款，占总额的42%，证明其具有还款意愿。这种积极还款行为应当作为量刑从宽情节考虑。\n\n三、关于同善堂公司交易\n1.被告人与同善堂公司的交易具有连续性，证明其仍在维持正常经营。根据《刑法》第224条，判断非法占有目的应当结合行为人主观状态综合认定，不能仅因交易亏损就推定诈骗故意。\n\n2.药材行业确实存在为维持客户关系而短期亏损交易的情况。被告人低价出售是为保持与同善堂公司的长期合作，符合行业特点，不具有非法占有目的。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我深刻认识到自己的错误行为给15名药材经营户造成了严重的经济损失。我确实因经营不善导致资金链断裂，无法按时支付货款，最终中断通讯逃避债务。我承认这是极其错误的决定，对此我深感悔恨。我愿意尽最大努力筹措资金偿还剩余债务，恳请法庭能考虑我是初犯，且已偿还部分货款的事实，给予我从轻处罚的机会。我保证今后遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "安徽省亳州市谯城区人民法院\n刑事判决书\n（2013）谯刑初字第844号\n\n公诉机关安徽省亳州市谯城区人民检察院。\n\n被告人姜某甲，男，汉族，19XX年X月X日出生，户籍地XXX，文化程度XXX，无业。因涉嫌合同诈骗罪于2013年5月28日被亳州市公安局谯城分局刑事拘留，现羁押于亳州市看守所。\n\n辩护人XXX，安徽XX律师事务所律师。\n\n安徽省亳州市谯城区人民检察院以谯检刑诉〔2013〕844号起诉书指控被告人姜某甲犯合同诈骗罪，于2013年12月18日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。亳州市谯城区人民检察院指派检察员XXX出庭支持公诉，被告人姜某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n安徽省亳州市谯城区人民检察院指控：2010年3月至2012年4月期间，被告人姜某甲以支付部分货款或赊账方式，骗取15名药材经营户价值240.3582万元的药材，后通过出售药材获得货款1012330元用于偿还部分被害人，剩余1277958.2元被其非法占有。2012年1月和7月，被告人姜某甲出售名下房产车辆后中断通讯逃匿。其行为已触犯《中华人民共和国刑法》第二百二十四条之规定，应当以合同诈骗罪追究其刑事责任。\n\n被告人姜某甲对指控的犯罪事实及罪名无异议，当庭自愿认罪。辩护人提出被告人具有部分还款行为，主观上无非法占有目的，本案应属民事纠纷的辩护意见。\n\n经审理查明：2010年3月至2012年4月期间，被告人姜某甲在明知无实际履行能力的情况下，通过赊购方式从15名药材经营户处取得价值240.3582万元的药材，后通过亳州市华天物流发往四川省成都市销售。被告人将所得货款中1012330元用于偿还部分被害人，剩余1277958.2元未支付。2011年8月至2012年4月，被告人以明显低于成本的价格将37.3吨元胡出售给亳州同善堂中药材有限公司，所得款项中91万元支付给张某乙，剩余112.5万元未支付。2012年1月和7月，被告人出售名下两套房产及一辆汽车后中断通讯逃匿。上述事实有被告人供述、被害人陈述、欠条、托运单据、银行转账记录、证人证言等证据证实，足以认定。\n\n本院认为，被告人姜某甲以非法占有为目的，在签订、履行合同过程中，骗取他人财物共计240.3582万元，数额特别巨大，其行为已构成合同诈骗罪。公诉机关指控的罪名成立。关于辩护人提出的民事纠纷辩护意见，经查，被告人在资金链断裂后仍继续赊购药材并实施高买低卖行为，出售资产后中断通讯逃匿，且对21.5万元资金去向不能作出合理解释，其行为符合合同诈骗罪的构成要件，故对该辩护意见不予采纳。鉴于被告人当庭自愿认罪，可酌情从轻处罚。\n\n依照《中华人民共和国刑法》第二百二十四条、第五十二条、第五十三条、第六十四条之规定，判决如下：\n\n一、被告人姜某甲犯合同诈骗罪，判处有期徒刑十年，并处罚金人民币二十万元；\n\n二、责令被告人姜某甲退赔被害人鲁某、张某甲、马某、明某甲、靳某甲、李某甲、汪某甲、李某乙、雷某、明某乙、刘某、董某、王某甲、颜某甲、任某、张某乙经济损失共计人民币一百二十七万七千九百五十八元二角。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向安徽省亳州市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。\n\n审判长XXX\n2013年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人姜某甲是否具有非法占有的主观故意。需要查明被告人在签订、履行合同过程中是否存在虚构事实、隐瞒真相的行为，以及其资金使用去向是否正当。\n\n2.被告人姜某甲是否具有实际履行合同的能力。需要查明被告人在签订合同时的经营状况、资金状况，以及是否存在明知无法履行仍签订合同的情形。\n\n3.被告人姜某甲的行为是否符合合同诈骗罪的客观要件。需要查明被告人在收取货物后是否存在逃匿行为，是否将所得款项用于个人挥霍或其他非法用途。\n\n4.涉案金额的认定问题。需要核实各被害人陈述的欠款金额与书证是否一致，以及被告人已偿还部分的具体数额。\n\n5.量刑情节的认定。需要查明被告人是否具有自首、坦白等从轻情节，是否积极退赃退赔，是否取得被害人谅解。\n\n6.被告人出售房产、车辆行为的性质认定。需要查明该行为是否属于转移财产、逃避债务的故意行为。\n\n7.资金链断裂是否可以作为免责事由。需要查明被告人的经营困难是否属于正常商业风险，以及其是否采取了合理措施避免损失扩大。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中非法占有目的的认定标准",
+              "合同诈骗罪中资金链断裂是否构成免责事由"
+            ],
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。",
+            "合同诈骗罪中资金链断裂是否构成免责事由": "### 结论\n资金链断裂在合同诈骗罪中不构成免责事由。资金链断裂属于企业经营风险，而非不可抗力或法定免责事由，不能免除合同义务或刑事责任。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方财物的行为。\n- **《中华人民共和国民法典》第一百八十条**：规定了不可抗力的定义和适用条件，指出不可抗力是指不能预见、不能避免并不能克服的客观情况。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **资金链断裂是否构成不可抗力**：资金链断裂被法院认定为企业经营风险，而非不可抗力。例如，【（2021）闽0481民初3111号】、【（2021）闽0481民初3113号】、【（2022）辽08民终2073号】中，法院均认为资金链断裂不能作为免除合同义务或刑事责任的依据。\n- **资金链断裂是否影响合同义务的履行**：即使企业因资金链断裂无法履行合同，也不能免除其应承担的合同义务或违约责任。【（2021）闽0481民初3111号】、【（2021）闽0481民初3113号】中，法院判决企业应继续履行合同义务并承担违约责任。\n- **资金链断裂与合同诈骗罪的关系**：资金链断裂不能作为合同诈骗罪的免责事由。【（2021）闽0481民初3111号】、【（2021）闽0481民初3113号】、【（2024）辽06刑终13号】中，法院均未将资金链断裂视为合同诈骗罪的免责理由。\n\n综上，资金链断裂属于企业经营风险，不能作为合同诈骗罪的免责事由，企业应承担相应的合同义务和法律责任。\n\n#####\n类似案件为：\n【（2021）闽0481民初3111号】：本院认为，雅府公司与李泉福、叶爱平签订的有效《商品房买卖合同》中，买方已履行支付购房款及契税等费用的义务，并已接收房屋。雅府公司应按合同约定协助办理房屋权属证书，其未履行该义务构成违约。雅府公司提出的资金链断裂导致无法缴纳增值税、影响证书办理的抗辩，不构成法定免责事由，不能免除合同义务。因此，雅府公司应履行合同中房屋权属证书的办理义务，并在证书办好后配合完成交接手续。鉴于合同明确约定逾期办证违约金条款，且原告主张的银行同期活期存款利息计算方式符合市场行情与交易惯例，雅府公司应自2015年7月31日起，按银行同期活期存款利率计算支付违约金至证书办理完毕之日止，截至2021年6月30日已计10360.6元。雅府公司无正当理由未到庭，本院依法缺席判决。一、永安雅府置业有限公司应于本判决生效后十日内协助李泉福、叶爱平办理位于永安市贡川镇贡城名都住宅小区3幢8层802号房产的房屋权属证书；\n二、永安雅府置业有限公司应于本判决生效后十日内支付李泉福、叶爱平违约金10360.6元（截至2021年6月30日），并从2021年7月1日起,按银行同期活期存款利率即月利率万分之三（现为年利率0.36%）的标准，继续计算支付违约金至上述房屋产权证书办理完毕之日止。\n如果被告未按本判决指定的期间履行给付金钱义务，应当依照《中华人民共和国民事诉讼法》第二百五十三条之规定，加倍支付迟延履行期间的债务利息。\n【（2021）闽0481民初3113号】：本院认为，雅府公司与姜余功、李萍签订的《商品房买卖合同》有效，双方应按约履行。姜余功、李萍已支付购房款及契税等费用，雅府公司有义务协助办理房屋权属证书。雅府公司未履行此义务，构成违约，应承担违约责任。雅府公司关于资金链断裂影响缴税和办证的抗辩不成立，非法定免责事由。姜余功、李萍要求雅府公司办理房屋权属证书，符合法律规定，予以支持。合同中有关逾期办证违约金的约定有效，姜余功、李萍主张的按银行同期活期存款利息计算违约金符合市场行情和交易惯例，予以支持。计算至2021年7月15日的违约金为9018.89元，超出部分不予支持。2021年7月16日起至办证完毕的违约金，按银行同期活期存款利率继续计算。雅府公司未到庭，视为放弃答辩和质证权利，本院依法缺席判决。一、永安雅府置业有限公司应于本判决生效后十日内协助姜余功、李萍办理位于永安市××镇××名都住宅小区××幢××层××号房产的房屋权属证书；\n二、永安雅府置业有限公司应于本判决生效后十日内支付姜余功、李萍违约金9018.89元（截至2021年7月15日），并从2021年7月16日起,按银行同期活期存款利率即月利率万分之三（现为年利率0.36%）的标准，继续计算支付违约金至上述房屋产权证书办理完毕之日止。\n三、驳回姜余功、李萍的其他诉讼请求。\n如果被告未按本判决指定的期间履行给付金钱义务，应当依照《中华人民共和国民事诉讼法》第二百五十三条之规定，加倍支付迟延履行期间的债务利息。\n【（2022）辽08民终2073号】：本院认为，关于营口东宇铝材有限公司是否应给付孙广喜经济补偿金，鉴于东宇铝材未与孙广喜充分协商即解除劳动合同，不符合《劳动合同法》第四十条规定的劳动合同变更协商条件，故东宇铝材应支付孙广喜经济补偿金。恒大体系变动虽致东宇铝材经营困难，但属市场经营风险，非不可抗力，不支持东宇铝材免责主张。关于孙广喜工龄认定，因其从东林铝材至东宇铝材工作期间，工作内容等未实质变更，符合工龄合并计算条件，孙广喜经济补偿金计算应合并东林铝材与东宇铝材工作年限，一审工龄计算有误，应予纠正。至于东宇铝材是否应为孙广喜办理失业保险手续，鉴于此不在民事诉讼审查范围，且孙广喜未就此向劳动仲裁提出申请，一审判决超出诉请范围，应予纠正。综上，东宇铝材部分上诉请求成立，应予支持。一、维持营口市鲅鱼圈区人民法院（2021）辽0804民初6656号民事判决第一项、第四项；\n二、撤销营口市鲅鱼圈区人民法院（2021）辽0804民初6656号民事判决第三项；\n三、变更营口市鲅鱼圈区人民法院（2021）辽0804民初6656号民事判决第二项为上诉人营口东宇铝材有限公司于本判决生效之日起5日内向被上诉人孙广喜给付经济补偿金17576.76元。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过被告人在侦查阶段的供述证实其采用赊购和高买低卖方式获取药材后逃匿，符合刑法第224条\"收受货物后逃匿\"的构成要件。2.15名被害人的陈述及欠条、托运单据等书证形成完整证据链，证实被告人非法占有货款240.3582万元，数额特别巨大。3.被告人在资金链断裂后出售房产车辆并逃匿，主观上具有非法占有目的，客观上实施了欺骗行为，社会危害性严重。\n防御策略：1.所有书证均经公安机关依法调取并附有官方证明，证据来源合法。2.被害人陈述与被告人口供、书证相互印证，证明力充分。3.银行转账记录等客观证据佐证资金流向，排除合理怀疑。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑事诉讼法第一百七十六条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中非法占有目的的认定标准",
+              "合同诈骗罪中数额特别巨大的量刑标准"
+            ],
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。",
+            "合同诈骗罪中数额特别巨大的量刑标准": "### 结论\n合同诈骗罪中数额特别巨大的量刑标准，根据《中华人民共和国刑法》及相关司法解释，一般应在十年以上有期徒刑、并处罚金或者没收财产的幅度内量刑。具体量刑时，法院会考虑犯罪数额、犯罪手段、犯罪后果、被告人的认罪态度、退赔情况、前科情况等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件及量刑标准。\n- **《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》**：规定了诈骗犯罪的数额标准及量刑情节。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：法院在量刑时会根据犯罪数额的大小来确定量刑幅度，数额特别巨大是合同诈骗罪量刑的重要依据。例如，【（2017）晋0881刑初38号】中，被告人王某某实际骗取的数额为527715.3元，被认定为数额特别巨大。\n- **犯罪手段**：犯罪手段的恶劣程度也会影响量刑。例如，【（2018）京01刑终683号】中，被告人林某英伙同他人，以伪造的产权证明作担保与他人签订合同，骗取对方当事人财物，数额特别巨大，被依法减轻处罚。\n- **认罪态度**：被告人的认罪态度是量刑时的重要考量因素。例如，【（2016）黑0203刑初275号】中，被告人贾悦主动投案并如实供述犯罪事实，是自首，可对其减轻处罚。\n- **退赔情况**：被告人是否退赔被害人的损失，以及退赔的数额，也会影响量刑。例如，【（2017）黔2601刑初78号】中，被告人米娟在案发前退赔了被害人张某2100万元，到案后退赔了被害人刘某150万元，减轻了犯罪造成的社会危害，可以酌情对其从轻处罚。\n- **前科情况**：被告人的前科情况也会影响量刑。例如，【（2017）晋0881刑初38号】中，被告人王某某有犯罪前科，应酌情从重处罚。\n\n综上，合同诈骗罪中数额特别巨大的量刑标准，法院会综合考虑犯罪数额、犯罪手段、认罪态度、退赔情况、前科情况等因素，依法在十年以上有期徒刑、并处罚金或者没收财产的幅度内量刑。\n\n#####\n类似案件为：\n【（2017）晋0881刑初38号】：法院认为，王某某以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪。王某某的诈骗数额应以实际取得的数额认定，合同标的数额作为量刑情节考虑。王某某有犯罪前科，应酌情从重处罚。依据相关法律，判决如下：\n一、被告人王某某犯合同诈骗罪，判处有期徒刑十年零六个月，并处罚金人民币10万元。\n二、被告人王某某诈骗所得527715.3元予以追缴，返还被害人。永济市人民法院判决王某某犯合同诈骗罪，考虑其犯罪数额特别巨大、有犯罪前科等情节，依法作出上述判决。\n【（2016）黑0203刑初275号】：法院认为，贾悦以非法占有为目的，在签订、履行合同过程中，骗取商户财物，构成合同诈骗罪。诈骗数额特别巨大，依法应处十年以上有期徒刑或无期徒刑，并处罚金或没收财产。贾悦自首，可从轻或减轻处罚。鉴于贾悦认罪、悔罪，积极偿还货款，得到多数被害人谅解，可在公诉机关量刑建议基础上减轻处罚。贾悦犯合同诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币五十万元，上缴国库。公安机关冻结的150万元及剩余赃款911778元予以追缴，不足部分责令退赔。\n法院判决体现了对合同诈骗罪的严厉打击，同时考虑了贾悦的自首和积极退赃情节，体现了宽严相济的刑事政策。\n【（2017）黔2601刑初78号】：法院认为，米娟的行为构成合同诈骗罪，诈骗数额特别巨大，依法应处十年以上有期徒刑，并处罚金。米娟有坦白情节，部分退赔，可从轻处罚。辩护人关于退赔金额、自首情节的主张不成立。凯里市人民法院判决米娟犯合同诈骗罪，判处有期徒刑十一年，剥夺政治权利二年，并处罚金二十万元，追缴违法所得一百万元发还被害人彭某1。"
+          }
+        },
+        "目标": "请求法院判处被告人姜某甲合同诈骗罪，有期徒刑十年以上，并处罚金",
+        "询问": "1.被告人姜某甲，你在2010年3月至2012年4月期间，通过赊购方式从15名药材经营户处取得价值240余万元的药材后，为何在2012年1月和7月出售名下房产车辆后中断通讯逃匿？请说明逃匿时的资金去向。\n\n2.你在侦查阶段供述称因资金周转困难才采取赊购方式，但根据银行转账记录显示你存在高买低卖行为（如以48-54元/公斤购入元胡后以42元/公斤出售）。请解释这种明显亏损的交易方式与\"资金周转困难\"供述之间的矛盾。\n\n3.你与被害人签订合同时是否具备实际履行能力？根据交易记录显示你在2011年8月前已形成大额欠款，为何仍继续赊购药材？\n\n4.你收到药材后将其发往成都销售，所得货款中仅支付部分被害人，剩余127万余元未支付。请说明未支付部分的资金具体用途。\n\n5.你在案发前出售房产车辆的行为是否系为逃避债务？出售所得款项是否用于偿还被害人？如未用于偿还，请说明资金去向。\n\n6.你中断通讯工具逃匿后，是否有主动联系被害人协商还款？为何在长达一年时间内未采取任何补救措施？\n\n7.你与被害人签订的欠条中部分约定以房产抵押，但实际未办理抵押登记。这是否系故意规避法律责任的欺骗行为？\n\n8.对于指控你通过\"收受货物后逃匿\"方式实施合同诈骗的犯罪事实，你是否有异议？请具体说明。"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人提供的欠条等书证仅能证明存在债务关系，无法直接证明被告人具有非法占有目的2.银行转账记录显示被告人曾多次偿还部分货款，表明其有履约意愿3.托运单据等证据仅能证明货物运输情况，与诈骗行为无直接关联\n防御策略：1.被告人因资金周转困难导致无法履约，主观上无非法占有故意2.被告人在经营过程中曾积极履行部分合同义务3.被告人的行为更符合民事纠纷特征，应通过民事诉讼途径解决",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中非法占有目的的认定标准",
+              "资金周转困难导致无法履行合同是否构成合同诈骗罪"
+            ],
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。",
+            "资金周转困难导致无法履行合同是否构成合同诈骗罪": "### 结论\n资金周转困难导致无法履行合同并不必然构成合同诈骗罪。关键在于行为人是否具有非法占有的主观故意，是否通过虚构事实或隐瞒真相的方式签订合同，以及合同签订后是否采取了积极的履约措施。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：法院在判断是否构成合同诈骗罪时，会重点考察行为人是否具有非法占有的主观故意。例如，【（2022）津03刑终166号】中，法院认为在案证据不能证实被告人张某搏在签订合同时具有非法占有目的，因此不构成合同诈骗罪。\n- **合同签订时的履行能力**：行为人在签订合同时是否具有履行合同的能力，是判断是否构成合同诈骗罪的重要因素。【（2016）鄂0625刑初252号】中，法院认为二被告人在收取香菇棒资金后，生产出600000余袋菌棒，使公司正常经营，因此不宜认定为犯罪。\n- **合同签订后的履约行为**：行为人在合同签订后是否采取了积极的履约措施，也是判断是否构成合同诈骗罪的关键。【（2016）鄂0625刑初252号】中，法院认为二被告人在收取资金后用于公司经营，生产出大量菌棒，表明他们有履行合同的意愿和行为。\n- **资金的去向和用途**：资金是否用于合同约定的用途，是判断行为人是否具有非法占有目的的重要依据。【（2016）鄂0625刑初252号】中，法院认为二被告人将资金用于偿还前法定代表人田某的撤股款和公司经营，而非个人挥霍，因此不宜认定为犯罪。\n\n综上，资金周转困难导致无法履行合同并不必然构成合同诈骗罪，关键在于行为人是否具有非法占有的主观故意，是否通过虚构事实或隐瞒真相的方式签订合同，以及合同签订后是否采取了积极的履约措施。法院在判断时会综合考虑合同签订时的履行能力、合同签订后的履约行为以及资金的去向和用途等因素。\n\n#####\n类似案件为：\n【（2022）津03刑终166号】：法院生效裁判认为：被告人张某搏作为山西某公司的法定代表人，在以山西某公司名义签订、履行合同过程中，虽与天津某公司产生纠纷并拖欠部分款项，但在案证据存在明显矛盾，不能证实被告人张某搏在明知没有履行能力的情况下仍采取欺骗手段与天津某公司签订煤炭买卖合同，且在合同签订后拒不履行合同导致合同履行不能并恶意逃避债务的指控事实，进而不能依据现有证据认定被告人张某搏对天津某公司支付的货款具有非法占有目的。同时，对于山西某公司是否具备合同履行能力、是否实施了履行行为、合同未能履行的原因等问题，在案证据存在明显矛盾，不能认定山西某公司构成单位犯罪。公诉机关指控被告人张某搏犯合同诈骗罪，事实不清、证据不足，不予支持。依照《中华人民共和国刑事诉讼法》第二百条第（三）项等规定，作出证据不足、指控的犯罪不能成立的无罪判决。\n【（2016）鄂0625刑初252号】：法院认为，陈李胜、舒亚构成拒不支付劳动报酬罪，应数罪并罚;陈李胜在合同诈骗中系主犯，舒亚系从犯，应减轻处罚。判决陈李胜犯拒不支付劳动报酬罪，判处有期徒刑1年3个月，罚金1万元;犯合同诈骗罪，判处有期徒刑3年3个月，罚金5万元，决定执行有期徒刑4年3个月，罚金6万元。舒亚犯拒不支付劳动报酬罪，判处有期徒刑1年，罚金1万元;犯合同诈骗罪，判处有期徒刑2年6个月，罚金4万元，决定执行有期徒刑3年，罚金5万元。责令二人共同退赔被害人303800元，支付劳动者工资86212元。\n【（2016）鄂0625刑初252号】：法院认为，陈李胜、舒亚构成拒不支付劳动报酬罪，应数罪并罚;陈李胜在合同诈骗中系主犯，舒亚系从犯，应减轻处罚。判决陈李胜犯拒不支付劳动报酬罪，判处有期徒刑1年3个月，罚金1万元;犯合同诈骗罪，判处有期徒刑3年3个月，罚金5万元，决定执行有期徒刑4年3个月，罚金6万元。舒亚犯拒不支付劳动报酬罪，判处有期徒刑1年，罚金1万元;犯合同诈骗罪，判处有期徒刑2年6个月，罚金4万元，决定执行有期徒刑3年，罚金5万元。责令二人共同退赔被害人303800元，支付劳动者工资86212元。"
+          }
+        },
+        "目标": "请求法院判处被告人姜某甲从轻处罚",
+        "询问": "1. 被告人姜某甲，你在与药材经营户进行交易时，是否明确告知对方你的经营状况和资金周转情况？请说明当时的具体情况。\n\n2. 你在收到药材后，是否确实将货物发往成都进行销售？销售所得款项的具体用途是什么？请详细说明。\n\n3. 你在无法按时支付货款时，是否曾主动与药材经营户沟通协商还款计划？具体采取了哪些措施？\n\n4. 你出售房产和汽车后所得款项的去向是什么？为何在出售后中断通讯工具？请说明当时的具体情况。\n\n5. 你在经营过程中，是否有过虚构事实或隐瞒真相的行为？例如是否曾向药材经营户提供虚假的担保或承诺？\n\n6. 你是否有过将药材销售所得款项用于个人挥霍或其他与经营无关的用途？请具体说明。\n\n7. 你在案发前是否有过逃匿或躲避债务的行为？请说明你中断通讯工具后的具体行踪和意图。\n\n8. 你是否有过通过其他方式积极筹措资金以偿还债务？例如向亲友借款或寻求其他融资渠道？\n\n9. 你在经营过程中，是否曾有过其他正常的药材交易并按时支付货款的情况？请举例说明。\n\n10. 你对于目前尚未偿还的债务，是否有具体的还款计划或意愿？请说明你的打算。"
+      },
+      "被告人": {
+        "策略": "防御策略：1.说明因资金周转困难导致无法履约，主观上无非法占有故意\n2.强调在经营过程中曾多次偿还部分货款，证明有履约意愿\n3.指出本案更符合民事债务纠纷特征，应通过民事诉讼解决\n4.说明被告人无前科，系初犯，可酌情从轻处罚\n5.表明愿意积极筹措资金偿还剩余债务",
+        "记忆": "",
+        "目标": "请求法院从轻处罚"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人姜某甲是否具有非法占有的主观故意。查明情况：公诉人通过讯问证实被告人在资金链断裂后仍继续赊购药材、高买低卖、出售资产后逃匿等行为；辩护人强调被告人有部分还款行为。审判长认为需结合资金去向进一步查明。\n\n2.被告人签订合同时的实际履行能力。查明情况：公诉人指出被告人在已形成大额欠款情况下仍继续赊购；被告人辩称希望通过经营逐步偿还。审判长认为需核实被告人在各时间节点的资产负债情况。\n\n3.资金去向的正当性。查明情况：公诉人质疑127万余元未支付货款的具体用途；被告人解释用于经营成本但未能提供明细。审判长认为需调取相关财务凭证予以核实。\n\n4.逃匿行为的性质认定。查明情况：双方对出售资产后中断通讯的事实无争议，但对行为性质有分歧。审判长认为需结合逃匿期间行为表现综合判断。\n\n5.量刑情节的认定。查明情况：被告人承认错误但未取得被害人谅解，辩护人强调部分还款的悔罪表现。审判长认为需评估退赔可能性及社会危害性。\n\n6.涉案金额的准确认定。查明情况：起诉书列明各被害人金额，被告人无异议但强调已偿还部分。审判长认为需核对还款凭证与指控金额。\n\n7.经营困难与刑事责任的界限。查明情况：辩护人主张属商业风险，公诉人认为已超出正常经营风险范畴。审判长认为需结合行业惯例判断交易行为的合理性。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑事诉讼法第一百七十六条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中非法占有目的的认定标准",
+              "经营困难导致无法履行合同是否构成合同诈骗罪"
+            ],
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。",
+            "经营困难导致无法履行合同是否构成合同诈骗罪": "### 结论\n经营困难导致无法履行合同并不必然构成合同诈骗罪，关键在于行为人是否具有非法占有的主观目的和虚构事实、隐瞒真相的客观行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履行能力**：行为人在签订合同时是否具有实际履行合同的能力。例如，【（2022）津03刑终166号】中，法院认为在案证据不能证实被告人明知没有履行能力而签订合同，因此不构成合同诈骗罪。\n- **资金去向和用途**：合同款项是否用于合同约定的用途，或是否被用于个人消费、偿还债务等非法目的。例如，【（2018）冀0607刑初21号】中，被告人将款项用于个人消费等，被认定具有非法占有目的。\n- **合同履行情况**：行为人在合同签订后是否采取了积极的履行措施，以及合同未能履行的原因。例如，【（2016）京0108刑初33号】中，被告人明知公司无法履行合同，仍继续签订合同并收取费用，被认定为合同诈骗罪。\n- **主观故意**：行为人是否具有非法占有的主观故意，是否通过虚构事实或隐瞒真相的方式骗取对方财物。例如，【（2020）辽1321刑初85号】中，被告人以虚假的货车手续和房产证抵押，被认定具有非法占有目的。\n\n综上，经营困难本身并不构成合同诈骗罪，但如果行为人在签订合同时明知自己没有履行能力，通过虚构事实或隐瞒真相的方式骗取对方财物，并将款项用于非法目的，就可能构成合同诈骗罪。法院在判断时会综合考虑行为人的履行能力、资金去向、合同履行情况以及主观故意等因素。\n\n#####\n类似案件为：\n【（2022）津03刑终166号】：法院生效裁判认为：被告人张某搏作为山西某公司的法定代表人，在以山西某公司名义签订、履行合同过程中，虽与天津某公司产生纠纷并拖欠部分款项，但在案证据存在明显矛盾，不能证实被告人张某搏在明知没有履行能力的情况下仍采取欺骗手段与天津某公司签订煤炭买卖合同，且在合同签订后拒不履行合同导致合同履行不能并恶意逃避债务的指控事实，进而不能依据现有证据认定被告人张某搏对天津某公司支付的货款具有非法占有目的。同时，对于山西某公司是否具备合同履行能力、是否实施了履行行为、合同未能履行的原因等问题，在案证据存在明显矛盾，不能认定山西某公司构成单位犯罪。公诉机关指控被告人张某搏犯合同诈骗罪，事实不清、证据不足，不予支持。依照《中华人民共和国刑事诉讼法》第二百条第（三）项等规定，作出证据不足、指控的犯罪不能成立的无罪判决。\n【（2018）冀0607刑初21号】：法院认为，被告人韩红宇、王喜群以非法占有为目的，履行合同中虚报库存、隐瞒真相，骗取对方财物，数额特别巨大，其行为构成合同诈骗罪。被告人及其辩护人提出的辩解、辩护意见与查明事实不符，不予采纳。被告人韩红宇犯合同诈骗罪，判处有期徒刑十三年，剥夺政治权利三年，并处罚金人民币十万元，追缴违法所得3324975.46元；被告人王喜群犯合同诈骗罪，判处有期徒刑十一年，剥夺政治权利二年，并处罚金人民币五万元，追缴违法所得2134087元。违法所得返还被害人保定市博霞粮油收购有限公司。\n【（2016）京0108刑初33号】：法院认为，廖应杰作为公司负责人，明知公司资金链断裂，无法履行合同，仍继续招募代理商，收取代理费，主观上对行为违法性有明确认知，构成合同诈骗罪。法院判决廖应杰犯合同诈骗罪，判处有期徒刑十二年，罚金二十万元，与同案犯共同向被害人退赔违法所得。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.通过被告人在侦查阶段的供述证实其采用赊购和高买低卖方式获取药材后逃匿，符合刑法第224条\"收受货物后逃匿\"的构成要件。\n2.15名被害人的陈述及欠条、托运单据等书证形成完整证据链，证实被告人非法占有货款240.3582万元，数额特别巨大。\n3.被告人在资金链断裂后出售房产车辆并逃匿，主观上具有非法占有目的，客观上实施了欺骗行为，社会危害性严重。\n4.银行转账记录显示被告人存在高买低卖行为，与其\"资金周转困难\"供述矛盾，证明其主观恶意。\n5.被告人中断通讯逃匿后未采取任何补救措施，进一步证明其非法占有目的。\n\n防御策略：\n1.所有书证均经公安机关依法调取并附有官方证明，证据来源合法。\n2.被害人陈述与被告人口供、书证相互印证，证明力充分。\n3.银行转账记录等客观证据佐证资金流向，排除合理怀疑。\n4.被告人供述与客观证据一致，不存在刑讯逼供等非法取证情形。\n5.证据链条完整，能够形成闭合证明体系。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑事诉讼法第五十五条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中'收受货物后逃匿'的认定标准",
+              "在合同诈骗案件中，如何认定被告人具有非法占有目的"
+            ],
+            "合同诈骗罪中'收受货物后逃匿'的认定标准": "### 结论\n在合同诈骗罪中，“收受货物后逃匿”的认定标准主要涉及行为人主观上具有非法占有的目的，客观上实施了逃避支付货款的义务，导致对方当事人遭受损失且难以实现权利救济的行为。具体表现为行为人在签订、履行合同过程中，先履行小额合同以骗取对方信任，随后在收受货物后采取拒接电话、拉黑微信、关闭店铺、更换联系方式等手段逃避支付货款，最终导致对方当事人无法联系到行为人，无法追回损失。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观非法占有目的**：法院在【（2021）辽06刑终164号】、【（2018）粤0114刑初1517号】、【（2018）粤0306刑初6031号】中均强调了行为人主观上具有非法占有的目的，这是构成合同诈骗罪的关键因素。例如，【（2021）辽06刑终164号】中，被告人康某某在签订、履行合同过程中，先支付小额货款以骗取信任，随后在收受货物后逃匿，足以认定其主观上具有非法占有的目的。\n- **客观逃避支付义务**：在【（2018）粤0306刑初6031号】中，被告人陆春在收到货物后关闭店铺、更换联系方式，导致被害人无法联系，这被视为逃避支付货款的义务。法院认为，陆春的行为明显具有非法占有的目的，构成合同诈骗罪。\n- **损失难以实现权利救济**：【（2021）辽06刑终164号】中，法院指出，被告人康某某的行为使得各被害人遭受损失的同时难以实现权利救济，这是认定合同诈骗罪的另一个关键因素。\n\n综上，合同诈骗罪中的“收受货物后逃匿”不仅要求行为人主观上具有非法占有的目的，还要求客观上实施了逃避支付货款的义务，导致对方当事人遭受损失且难以实现权利救济。法院在认定时会综合考虑行为人的行为模式、逃避手段以及被害人的实际损失情况。\n\n#####\n类似案件为：\n【（2021）辽06刑终164号】：法院生效裁判认为：综合本案六起犯罪事实，被告人康某某采用冒用他人名义与多名草莓商户（口头）签订草莓购销合同，支付部分货款，骗取被害人信任，待被害人持续供货一段时间后就采用拒接电话、拉黑微信等方式逃避履行支付货款的义务，使得各被害人遭受损失的同时难以实现权利救济，其主观上有非法占有的目的，客观上实施了欺骗行为，使被害人陷入错误认识，该行为构成刑事犯罪，而非仅仅是民事纠纷。被告人康某某以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪，应予惩处。被告人曾支付过“小男孩果业”黄某兄弟部分货款1.19万元，在犯罪数额中予以扣除。被告人康某某犯罪所得，应当责令退赔。\n【（2018）粤0114刑初1517号】：法院认为，被告人徐宇雁以非法占有为目的，伙同汤某3在签订、履行合同过程中，收受对方当事人给付的货物后逃匿，数额特别巨大，其行为已构成合同诈骗罪。徐宇雁在共同犯罪中起次要作用，认定为从犯，依法可以从轻处罚。被告人徐宇雁犯合同诈骗罪，判处有期徒刑十年，并处罚金二十万元。责令被告人徐宇雁退赔违法所得给各被害人。\n判决已考虑了被告人的犯罪手段、危害后果及悔罪等情节，符合法律规定。如不服判决，可在接到判决书的第二日起十日内，通过本院或者直接向广东省广州市中级人民法院提出上诉。\n检察院指控的罪名成立，本院予以支持。\n【（2018）粤0306刑初6031号】：法院认为，陆春以非法占有为目的，签订、履行合同过程中，收受对方货物后逃匿，骗取财物，数额巨大，构成合同诈骗罪。陆春辩解与审理查明事实不符，不予采信。陆春与邓某1是否长期合作不影响定罪量刑。陆春转账给邓某2的5万元与本案无关，诈骗数额认定为536770元。深圳市宝安区人民法院判决，被告人陆春犯合同诈骗罪，判处有期徒刑五年，并处罚金人民币五万元；责令陆春退赔被害人邓某1人民币536770元。",
+            "在合同诈骗案件中，如何认定被告人具有非法占有目的": "### 结论\n在合同诈骗案件中，认定被告人具有非法占有目的需综合考虑多个因素，包括但不限于行为人的履约能力、履约行为、对取得财物的处置情况、合同未履行原因及事后态度等。行为人在签订合同时是否具有实际履行能力，签订和履行合同过程中是否存在欺诈行为，以及合同签订后是否采取了积极的履约行为是关键考量点。此外，行为人对取得财物的处置情况，如是否用于个人挥霍、非法活动或归还欠款，也是判断非法占有目的的重要依据。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有实际履行合同的能力是判断非法占有目的的关键。例如，【（2019）冀刑再5号】中，法院认为李某胜在签订合同时具有一定的履约能力，因此不构成合同诈骗罪。\n- **履约行为**：行为人在签订合同后是否采取了积极的履约行为，如是否为履行合同做了积极努力。【（2019）冀刑再5号】中，李某胜在合同签订后有积极的履约行为，如支付了部分货款，这表明他没有非法占有的目的。\n- **对取得财物的处置**：行为人对取得的财物是否用于正当用途，如用于企业经营，而非个人挥霍或非法活动。【（2022）津03刑终166号】中，法院认为张某搏将资金用于企业经营，没有证据证明其具有非法占有目的。\n- **合同未履行原因**：合同未能履行的原因是否为不可抗力或客观原因，而非行为人主观逃避履行。【（2023）甘03刑终4号】中，田某元和寇某在明知项目虚假的情况下仍继续施工，表明他们具有非法占有的目的。\n- **事后态度**：行为人在合同未能履行后的态度，如是否积极采取补救措施。【（2019）苏05刑再5号】中，倪某某在合同未能履行后没有采取积极补救措施，但法院认为不能仅凭此认定其具有非法占有目的。\n\n综上，认定合同诈骗罪中的非法占有目的需要综合考量行为人在签订合同时的履约能力、签订和履行合同过程中的行为、对取得财物的处置情况、合同未履行的原因以及事后态度。这些因素共同作用，决定了行为人是否具有非法占有的主观目的。\n\n#####\n类似案件为：\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2022）津03刑终166号】：法院生效裁判认为：被告人张某搏作为山西某公司的法定代表人，在以山西某公司名义签订、履行合同过程中，虽与天津某公司产生纠纷并拖欠部分款项，但在案证据存在明显矛盾，不能证实被告人张某搏在明知没有履行能力的情况下仍采取欺骗手段与天津某公司签订煤炭买卖合同，且在合同签订后拒不履行合同导致合同履行不能并恶意逃避债务的指控事实，进而不能依据现有证据认定被告人张某搏对天津某公司支付的货款具有非法占有目的。同时，对于山西某公司是否具备合同履行能力、是否实施了履行行为、合同未能履行的原因等问题，在案证据存在明显矛盾，不能认定山西某公司构成单位犯罪。公诉机关指控被告人张某搏犯合同诈骗罪，事实不清、证据不足，不予支持。依照《中华人民共和国刑事诉讼法》第二百条第（三）项等规定，作出证据不足、指控的犯罪不能成立的无罪判决。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.指出银行转账记录显示被告人曾多次偿还部分货款，表明其有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件2.强调托运单据等证据仅能证明货物运输情况，与诈骗行为无直接关联3.质疑公诉方未能提供充分证据证明被告人在签订合同时就具有非法占有目的\n\n防御策略：1.强调被告人因经营不善导致资金周转困难，主观上无非法占有故意2.指出被告人在经营过程中曾积极履行部分合同义务，偿还了101万余元货款3.说明被告人的行为更符合民事纠纷特征，应通过民事诉讼途径解决",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中如何区分民事欺诈与刑事诈骗？",
+              "被告人部分履行合同义务是否影响合同诈骗罪的认定？"
+            ],
+            "合同诈骗罪中如何区分民事欺诈与刑事诈骗？": "### 结论\n合同诈骗罪与民事欺诈的主要区别在于行为人是否具有非法占有的目的，以及行为是否扰乱了市场经济秩序。在判断时，需综合考虑行为人的履约能力、履约行为、对取得财物的处置情况、合同未履行原因及事后态度等，以确定行为人是否具有非法占有的目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **欺诈行为**：若行为人实施了欺诈行为，需进一步考察该行为是否在签订、履行合同中起到了决定性的作用，以区分于一般民事欺诈行为。【(2017)甘0802刑初113号】、【(2020)粤0305刑初66号】中，法院均认为行为人通过欺诈手段签订合同，骗取对方财物，构成合同诈骗罪。\n- **履约能力**：行为人是否具有实际履行能力是合同目的得以实现的保障和前提。【(2020)粤0305刑初66号】中，法院认为被告人沈建锋在签订合同时并无实际履行能力，且将收到的款项立即移做他用，构成合同诈骗罪。\n- **履约行为及违约的真实原因**：合同实际履行是实现合同目的的应有之义，也是考察非法占有目的的核心要素。【(2017)沪01刑终1350号】中，法院认为尽管张某未将约定的专款用于解除涉案房屋的司法查封导致交易失败，但综合全案证据，尚难以证实张某具有非法占有的目的。\n- **行为人收款后不予返还的原因、事后双方行为表现等有关客观事实**：若行为人收款后无逃匿、挥霍、用于违法犯罪活动等行为，而是将收取的钱款用于归还其他正常债务或者其他合法经营等正当用途的，认定行为人具有非法占有目的应特别慎重。【(2017)沪01刑终1350号】中，法院认为张某收款后的行为并未显示出非法占有的目的。\n\n综上，合同诈骗罪的认定需综合考虑行为人的欺诈行为、履约能力、履约行为、对取得财物的处置情况、合同未履行原因及事后态度等，以判断行为人是否具有非法占有的目的。在具体案例中，法院会根据这些因素进行综合评判，以确定行为性质。",
+            "被告人部分履行合同义务是否影响合同诈骗罪的认定？": "### 结论\n被告人部分履行合同义务并不必然排除其构成合同诈骗罪的可能性。关键在于被告人是否具有非法占有的目的，是否通过虚构事实或隐瞒真相的方式诱骗对方当事人继续履行合同，以及是否在合同签订和履行过程中存在其他欺诈行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，通过虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：法院在认定合同诈骗罪时，会重点考察被告人是否具有非法占有的目的。例如，【（2018）鲁1722刑初19号】中，汪志军虽然部分履行了合同，但其后以逃匿的方法逃避履行合同义务，被认定具有非法占有目的。而【（2019）赣1103刑初146号】中，法院认为白马多杰在支付首付款后未履行还款义务，且将挖掘机用于个人消费，表明其具有非法占有的目的。\n- **履行能力与欺骗行为**：法院会考察被告人是否有实际履行合同的能力，以及是否通过欺骗行为诱骗对方当事人继续履行合同。如【（2017）鲁0725刑初71号】中，胡学兵在没有实际履行能力的情况下，采取部分履行合同的方法，诱骗华荣公司继续履行合同，被认定为合同诈骗罪。\n- **资金流向与用途**：资金的去向和用途也是判断是否构成合同诈骗罪的重要因素。如【（2018）京02刑初26号】中，李×将骗取的钱款用于个人消费，表明其具有非法占有的目的。\n\n综上，被告人部分履行合同义务并不影响合同诈骗罪的认定，关键在于被告人是否具有非法占有的目的，是否通过欺骗行为诱骗对方当事人继续履行合同，以及资金的流向和用途是否表明其具有非法占有的目的。\n\n#####\n类似案件为：\n【（2018）鲁1722刑初19号】：法院认为，被告人汪志军在收受货款后，部分履行合同，余下款项挪用，采取逃匿方式逃避履行合同义务，数额巨大，构成合同诈骗罪。汪志军系累犯，应当从重处罚。汪志军到案后如实供述犯罪事实，可以从轻处罚。对于汪志军关于于某购买机器的辩解，认为证据不足，不予认定为诈骗，但不影响合同诈骗罪的成立。被告人汪志军犯合同诈骗罪，判处有期徒刑四年六个月，并处罚金五万，追缴赃款四十二万一千二百元退还被害人孟建仓。汪志军被羁押的期间自2017年3月7日起折抵刑期。\n【（2019）赣1103刑初146号】：法院认为，被告人白马多杰以非法占有为目的，通过部分履行合同的方式取得被害公司信任，后未履行还款义务，构成合同诈骗罪，数额特别巨大。被告人归案后如实供述，系坦白，退回部分挖掘机，取得部分被害公司谅解，依法可从轻处罚。法院判决被告人白马多杰犯合同诈骗罪，判处有期徒刑十年，并处罚金人民币四万元；责令被告人白马多杰退赔沃得国际融资租赁有限公司人民币65万元。\n【（2017）鲁0725刑初71号】：法院认为，被告人胡学兵在签订、履行合同过程中，没有实际履行能力，采取部分履行合同的方法，诱骗对方继续履行合同，以达到骗取财物的目的，其行为构成合同诈骗罪，诈骗数额特别巨大。法院认定被告人胡学兵犯合同诈骗罪，判处有期徒刑十一年，并处罚金10万元，考虑到胡学兵全部退赔并取得谅解，酌情从轻处罚。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.说明因资金周转困难导致无法履约，主观上无非法占有故意\n2.强调在经营过程中曾多次偿还部分货款，证明有履约意愿\n3.指出本案更符合民事债务纠纷特征，应通过民事诉讼解决\n4.说明被告人无前科，系初犯，可酌情从轻处罚\n5.表明愿意积极筹措资金偿还剩余债务",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人姜某甲是否具有非法占有的主观故意。查明情况：公诉人通过讯问证实被告人在资金链断裂后仍继续赊购药材、高买低卖、出售资产后逃匿等行为；辩护人强调被告人有部分还款行为。审判长认为需结合资金去向进一步查明。\n\n2.被告人签订合同时的实际履行能力。查明情况：公诉人指出被告人在已形成大额欠款情况下仍继续赊购；被告人辩称希望通过经营逐步偿还。审判长认为需核实被告人在各时间节点的资产负债情况。\n\n3.资金去向的正当性。查明情况：公诉人质疑127万余元未支付货款的具体用途；被告人解释用于经营成本但未能提供明细。审判长认为需调取相关财务凭证予以核实。\n\n4.逃匿行为的性质认定。查明情况：双方对出售资产后中断通讯的事实无争议，但对行为性质有分歧。审判长认为需结合逃匿期间行为表现综合判断。\n\n5.量刑情节的认定。查明情况：被告人承认错误但未取得被害人谅解，辩护人强调部分还款的悔罪表现。审判长认为需评估退赔可能性及社会危害性。\n\n6.涉案金额的准确认定。查明情况：起诉书列明各被害人金额，被告人无异议但强调已偿还部分。审判长认为需核对还款凭证与指控金额。\n\n7.经营困难与刑事责任的界限。查明情况：辩护人主张属商业风险，公诉人认为已超出正常经营风险范畴。审判长认为需结合行业惯例判断交易行为的合理性。\n\n8.被告人是否具有自首情节。查明情况：根据抓获经过显示被告人系被公安机关抓获，未主动投案。审判长认为不构成自首。\n\n9.被害人谅解情况。查明情况：被告人尚未与被害人达成和解或取得谅解。审判长认为需评估被告人的赔偿意愿和能力。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中如何认定非法占有目的？",
+              "经营困难导致的债务违约与合同诈骗罪如何区分？"
+            ],
+            "合同诈骗罪中如何认定非法占有目的？": "### 结论\n合同诈骗罪中认定非法占有目的需综合考虑行为人的履约能力、履约行为、对取得财物的处置情况、合同未履行原因及事后态度等多方面因素，不能仅凭行为人后来未履行合同就推定其签订合同时具有非法占有目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力，如【（2013）沪二中刑终字第145号】中，陆某缺乏履约能力，且无实际履约行为，事后又无承担违约责任的表现，被认定具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实质性的履约行为，如【（2019）苏05刑再5号】中，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，未被认定具有非法占有目的。\n- **对取得财物的处置情况**：行为人对通过合同取得的财物是否用于合同约定的用途，如【（2019）冀刑再5号】中，李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，未被认定具有非法占有目的。\n- **合同未履行原因**：未履行合同的原因是否正当，如【（2018）吉05刑抗1号】中，王某某因客观原因未全额支付货款，但事后积极承担义务、采取补救措施，未被认定具有非法占有目的。\n- **事后态度**：行为人在合同未履行后的态度，是否积极采取补救措施，如【（2023）苏01刑终67号】中，叶某林等人未采取任何补救措施，被认定具有非法占有目的。\n\n综上，合同诈骗罪中非法占有目的的认定需综合考量行为人在签订、履行合同过程中的多种行为表现，判断其主观上是否具有非法占有的故意。\n\n#####\n类似案件为：\n【（2013）沪二中刑终字第145号】：法院生效裁判认为，本案争议焦点为被告人陆某是否具有非法占有目的。陆某向被害人隐瞒根本无法履行合同的事实，将同一工程同时发包给三名被害人，合同履行时间、期限相近，工程地点、承包范围和价款相同。陆某在签订合同并收取工程保证金、定金后，未按约定安排被害人进场施工，在被害人多次催促后以种种理由进行拖延，没有任何实质性的履约行为。在合同不能履行，被害人多次向陆某催讨钱款的情形下，陆某没有采取任何有效途径阻止和减少被害人的损失，并逃匿。据此，应认定陆某具有非法占有他人财产的主观目的，对其行为应按照合同诈骗罪定罪惩处。故一审、二审作出如上裁判。\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。",
+            "经营困难导致的债务违约与合同诈骗罪如何区分？": "### 结论\n经营困难导致的债务违约与合同诈骗罪的区分主要在于行为人是否具有非法占有的目的和是否实施了虚构事实、隐瞒真相的行为。经营困难本身并不构成合同诈骗罪，关键在于行为人在签订、履行合同过程中是否故意隐瞒了其经营状况，是否虚构了事实或隐瞒了真相，以及是否将对方的财物非法占有。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：法院会考察行为人是否具有非法占有对方财物的目的。例如，【（2022）津03刑终166号】中，法院认为没有证据证明被告人张某搏对天津某公司支付的货款具有非法占有目的，因此不构成合同诈骗罪。\n- **虚构事实或隐瞒真相**：法院会审查行为人在签订、履行合同过程中是否采取了虚构事实或隐瞒真相的手段。如【（2019）云25刑初40号】中，被告人李汝斌在履行合同中隐瞒其公司经营困难的事实，伪造相关证明材料，让对方继续履行合同，被认定为合同诈骗罪。\n- **经营状况的透明度**：行为人在签订合同时是否如实告知了其经营状况。如【（2019）吉0381刑初554号】中，被告人王春秋在签订、履行合同过程中，未如实告知其经营状况，被认定为合同诈骗罪。\n- **资金的去向和用途**：行为人收到对方财物后，是否将资金用于合同约定的用途，或是否挪作他用。如【（2020）闽0132刑初198号】中，被告人张腾飞、张轩明将车辆贷款用于偿还公司其他债务，而非合同约定的用途，被认定为合同诈骗罪。\n\n综上，经营困难导致的债务违约与合同诈骗罪的区分在于行为人是否具有非法占有的目的，是否采取了虚构事实或隐瞒真相的手段，以及资金的去向和用途是否符合合同约定。法院在审理此类案件时，会综合考虑上述因素，以判断行为人的行为是否构成合同诈骗罪。\n\n#####\n类似案件为：\n【（2022）津03刑终166号】：法院生效裁判认为：被告人张某搏作为山西某公司的法定代表人，在以山西某公司名义签订、履行合同过程中，虽与天津某公司产生纠纷并拖欠部分款项，但在案证据存在明显矛盾，不能证实被告人张某搏在明知没有履行能力的情况下仍采取欺骗手段与天津某公司签订煤炭买卖合同，且在合同签订后拒不履行合同导致合同履行不能并恶意逃避债务的指控事实，进而不能依据现有证据认定被告人张某搏对天津某公司支付的货款具有非法占有目的。同时，对于山西某公司是否具备合同履行能力、是否实施了履行行为、合同未能履行的原因等问题，在案证据存在明显矛盾，不能认定山西某公司构成单位犯罪。公诉机关指控被告人张某搏犯合同诈骗罪，事实不清、证据不足，不予支持。依照《中华人民共和国刑事诉讼法》第二百条第（三）项等规定，作出证据不足、指控的犯罪不能成立的无罪判决。\n【（2019）云25刑初40号】：法院认为，李汝斌在签订、履行合同过程中，无实际履行能力，隐瞒事实，伪造证明材料，诱骗对方继续履行合同，骗取财物，数额特别巨大，构成合同诈骗罪，应追究刑事责任。李汝斌如实供述犯罪事实，认罪态度较好，可从轻处罚。李汝斌犯合同诈骗罪，判处有期徒刑十二年，并处罚金50万元，与前罪判处的有期徒刑五年，并处罚金2万元并罚，决定执行有期徒刑十六年，并处罚金52万元。涉案赃款继续追缴。\n【（2019）吉0381刑初554号】：法院认为，被告人王春秋以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪。公诉机关指控罪名成立，证据确凿。辩护人关于王春秋系自首的辩护意见，法院予以采纳；其他辩护意见，不予采纳。被告人王春秋犯合同诈骗罪，判处有期徒刑十二年，并处罚金人民币50万元；继续追缴王春秋违法所得，返还给被害人。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.通过被告人在侦查阶段的供述证实其采用赊购和高买低卖方式获取药材后逃匿，符合刑法第224条\"收受货物后逃匿\"的构成要件。\n2.15名被害人的陈述及欠条、托运单据等书证形成完整证据链，证实被告人非法占有货款240.3582万元，数额特别巨大。\n3.被告人在资金链断裂后出售房产车辆并逃匿，主观上具有非法占有目的，客观上实施了欺骗行为，社会危害性严重。\n4.银行转账记录显示被告人存在高买低卖行为，与其\"资金周转困难\"供述矛盾，证明其主观恶意。\n5.被告人中断通讯逃匿后未采取任何补救措施，进一步证明其非法占有目的。\n\n防御策略：\n1.所有书证均经公安机关依法调取并附有官方证明，证据来源合法。\n2.被害人陈述与被告人口供、书证相互印证，证明力充分。\n3.银行转账记录等客观证据佐证资金流向，排除合理怀疑。\n4.被告人供述与客观证据一致，不存在刑讯逼供等非法取证情形。\n5.证据链条完整，能够形成闭合证明体系。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑事诉讼法第一百七十六条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中非法占有目的的认定标准",
+              "赊购后逃匿是否构成合同诈骗罪"
+            ],
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。",
+            "赊购后逃匿是否构成合同诈骗罪": "### 结论\n赊购后逃匿的行为，当行为人以非法占有为目的，且数额达到较大或以上时，构成合同诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：这是构成合同诈骗罪的关键因素。例如，【（2017）内0525刑初62号】、【（2020）浙0304刑初335号】、【（2018）川3428刑初36号】、【（2019）内0523刑初555号】、【（2020）冀0105刑初438号】、【（2017）豫1727刑初824号】、【（2018）鄂01刑初27号】、【（2017）豫0108刑初27号】、【（2017）豫0102刑初334号】、【（2018）鲁0811刑初962号】等案例均强调了行为人非法占有目的的认定。\n- **数额**：合同诈骗罪的构成还要求数额达到较大或以上。例如，【（2017）内0525刑初62号】中数额较大，【（2020）浙0304刑初335号】中数额特别巨大，【（2018）川3428刑初36号】中数额巨大。\n- **逃匿行为**：在签订、履行合同过程中，行为人收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿，是合同诈骗罪的典型行为模式。例如，【（2017）内0525刑初62号】、【（2020）浙0304刑初335号】、【（2018）川3428刑初36号】等案例均涉及逃匿行为。\n\n综上，赊购后逃匿的行为，当行为人具有非法占有目的，且数额达到较大或以上时，构成合同诈骗罪。法院在判决时会综合考虑行为人的主观目的、逃匿行为以及具体数额等因素。如果行为人有积极履行合同的诚意和行动，且不存在非法占有目的，即使合同履行过程中存在一些欺骗性行为，也不构成合同诈骗罪。例如，【（2017）豫0108刑初27号】中提到，行为人虽未全额支付货款，但不能排除其抗辩理由的正当性，且不存在挥霍、隐匿财产等情形，因此不构成合同诈骗罪。\n\n#####\n类似案件为：\n【（2017）内0525刑初62号】：法院认为，被告人王某某以非法占有为目的，赊购车辆抵顶债务，骗取鼎信公司价值31000元的货物后逃匿，数额较大，其行为构成合同诈骗罪。鉴于被告人自愿认罪，其亲属赔偿了被害人全部经济损失，法院予以考虑。被告人王某某犯合同诈骗罪，判处拘役六个月，并处罚金3000元。\n【（2020）浙0304刑初335号】：法院认为，被告人吴联红以非法占有为目的，在签订、履行合同过程中，高价赊购货物后随即低价转让，骗取对方当事人财物，并逃匿，数额特别巨大，其行为已构成合同诈骗罪。法院判决被告人吴联红犯合同诈骗罪，判处有期徒刑十年三个月，并处罚金10万元；追缴违法所得1019250元，返还野狼鞋业。\n【（2018）川3428刑初36号】：法院认为，被告人王云江以非法占有为目的，在完全无履行能力的情况下，采取赊购方式高价买入牲畜后低价卖出，并在债权人多次讨债下逃匿，数额巨大，其行为已构成合同诈骗罪。四川省普格县人民法院判决如下：\n一、被告人王云江犯合同诈骗罪，判处有期徒刑八年，并处罚金人民币十万元。\n二、责令被告人王云江向本判决书中查明的30名被害人退赔损失合计人民币860,624.00元。\n判决生效后，被告人如不服，可在接到判决书的第二日起十日内，通过本院或者直接向凉山彝族自治州中级人民法院提出上诉。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.指出银行转账记录显示被告人曾多次偿还部分货款，表明其有履约意愿，不符合合同诈骗罪\"非法占有目的\"的主观要件2.强调托运单据等证据仅能证明货物运输情况，与诈骗行为无直接关联3.质疑公诉方未能提供充分证据证明被告人在签订合同时就具有非法占有目的4.指出部分被害人陈述显示被告人已偿还大部分货款，证明其有履约诚意5.强调被告人与部分被害人有长期正常交易记录，不符合诈骗行为特征\n\n防御策略：1.强调被告人因经营不善导致资金周转困难，主观上无非法占有故意2.指出被告人在经营过程中曾积极履行部分合同义务，偿还了101万余元货款3.说明被告人的行为更符合民事纠纷特征，应通过民事诉讼途径解决4.强调被告人出售房产车辆是为了偿还债务，并非为逃避责任5.指出被告人无前科，系初犯，主观恶性较小",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中如何区分民事欺诈与刑事诈骗？",
+              "在合同诈骗案件中，被告人部分履行合同义务是否影响非法占有目的的认定？"
+            ],
+            "合同诈骗罪中如何区分民事欺诈与刑事诈骗？": "### 结论\n合同诈骗罪与民事欺诈的主要区别在于行为人是否具有非法占有的目的，以及行为是否扰乱了市场经济秩序。在判断时，需综合考虑行为人的履约能力、履约行为、对取得财物的处置情况、合同未履行原因及事后态度等，以确定行为人是否具有非法占有的目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **欺诈行为**：若行为人实施了欺诈行为，需进一步考察该行为是否在签订、履行合同中起到了决定性的作用，以区分于一般民事欺诈行为。【(2017)甘0802刑初113号】、【(2020)粤0305刑初66号】中，法院均认为行为人通过欺诈手段签订合同，骗取对方财物，构成合同诈骗罪。\n- **履约能力**：行为人是否具有实际履行能力是合同目的得以实现的保障和前提。【(2020)粤0305刑初66号】中，法院认为被告人沈建锋在签订合同时并无实际履行能力，且将收到的款项立即移做他用，构成合同诈骗罪。\n- **履约行为及违约的真实原因**：合同实际履行是实现合同目的的应有之义，也是考察非法占有目的的核心要素。【(2017)沪01刑终1350号】中，法院认为尽管张某未将约定的专款用于解除涉案房屋的司法查封导致交易失败，但综合全案证据，尚难以证实张某具有非法占有的目的。\n- **行为人收款后不予返还的原因、事后双方行为表现等有关客观事实**：若行为人收款后无逃匿、挥霍、用于违法犯罪活动等行为，而是将收取的钱款用于归还其他正常债务或者其他合法经营等正当用途的，认定行为人具有非法占有目的应特别慎重。【(2017)沪01刑终1350号】中，法院认为张某收款后的行为并未显示出非法占有的目的。\n\n综上，合同诈骗罪的认定需综合考虑行为人的欺诈行为、履约能力、履约行为、对取得财物的处置情况、合同未履行原因及事后态度等，以判断行为人是否具有非法占有的目的。在具体案例中，法院会根据这些因素进行综合评判，以确定行为性质。",
+            "在合同诈骗案件中，被告人部分履行合同义务是否影响非法占有目的的认定？": "### 结论\n在合同诈骗案件中，被告人部分履行合同义务可能会影响非法占有目的的认定，但并非决定性因素。法院会综合考虑合同签订时的履约能力、合同签订后的履行情况、资金的去向和用途、未履约的原因以及事后态度等多方面因素，来判断被告人是否具有非法占有的目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：法院会考察被告人在签订合同时是否具有实际履行合同的能力。例如，【（2018）吉05刑抗1号】中，法院认为原审被告人王某某在签订合同时具有履约的现实可能性，且积极创造条件履行合同，因此不构成合同诈骗罪。\n- **履约行为**：即使被告人在履行合同的过程中存在欺骗行为，但如果在签订合同时具有履约的现实可能性，且积极创造条件履行合同，后续未履约有一定客观原因，事后又积极承担义务、采取补救措施，主动弥补对方损失，一般不认定具有非法占有的目的。【（2018）吉05刑抗1号】、【（2019）苏05刑再5号】等案例体现了这一点。\n- **资金去向和用途**：资金是否用于合同约定的用途，或者是否用于其他合法经营活动，是判断非法占有目的的重要因素。【（2019）赣1103刑初146号】中，法院详细分析了被告人支付款项的情况，以判断其非法占有目的是否明显。\n- **未履约原因**：未履约是否由不可抗力或客观原因造成，也会影响非法占有目的的认定。【（2019）赣1103刑初146号】中，法院认为被告人支付了部分款项，一定程度上说明其在履行合同上的意愿，非法占有故意不明显。\n- **事后态度**：被告人事后是否积极承担违约责任，是否采取补救措施，也是判断非法占有目的的因素之一。【（2018）吉05刑抗1号】中，原审被告人王某某在案发后将借款及利息归还债权人，并取得了债权人的谅解，这表明其事后态度良好，不构成合同诈骗罪。\n\n综上，部分履行合同义务可能表明被告人在一定程度上具有履行合同的意愿，但这并不自动排除非法占有目的的认定。法院会综合考虑上述因素，以判断被告人的主观目的。\n\n#####\n类似案件为：\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.说明因资金周转困难导致无法履约，主观上无非法占有故意\n2.强调在经营过程中曾多次偿还部分货款，证明有履约意愿\n3.指出本案更符合民事债务纠纷特征，应通过民事诉讼解决\n4.说明被告人无前科，系初犯，可酌情从轻处罚\n5.表明愿意积极筹措资金偿还剩余债务",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否具有非法占有的主观故意。查明情况：公诉人通过被告人在资金链断裂后仍继续赊购药材、高买低卖、出售资产后逃匿等行为证明其具有非法占有目的；辩护人强调被告人有部分还款行为，认为属于经营困难导致的民事纠纷。审判长认为需结合资金去向和行业惯例进一步查明。\n\n2.被告人签订合同时的实际履行能力。查明情况：公诉人指出被告人在已形成大额欠款情况下仍继续赊购，证明其无实际履行能力；被告人辩称希望通过经营逐步偿还。审判长认为需核实被告人在各时间节点的资产负债情况，特别是继续赊购时的财务状况。\n\n3.资金去向的正当性。查明情况：公诉人质疑127万余元未支付货款的具体用途，特别是21.5万元去向不明资金；被告人解释用于经营成本但未能提供明细。审判长认为需调取相关财务凭证予以核实，被告人对资金去向负有说明义务。\n\n4.高买低卖行为的商业合理性。查明情况：公诉人认为该行为违背商业逻辑，证明其非法占有目的；辩护人主张系经营困境下的应急措施。审判长认为需结合药材行业惯例判断该行为是否超出正常经营风险范畴。\n\n5.逃匿行为的性质认定。查明情况：双方对出售资产后中断通讯的事实无争议，但对行为性质有分歧。审判长认为需结合逃匿期间行为表现、与被害人的联系情况等综合判断。\n\n6.量刑情节的认定。查明情况：被告人承认错误但未取得被害人谅解，辩护人强调部分还款的悔罪表现；公诉人认为还款具有选择性。审判长认为需评估退赔可能性及社会危害性，特别是已偿还101万元占总额42%的比例。\n\n7.涉案金额的准确认定。查明情况：起诉书列明各被害人金额，被告人无异议但强调已偿还部分。审判长认为需核对还款凭证与指控金额，特别是部分被害人陈述中提到的已还款情况。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑事诉讼法第五十三条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪中非法占有目的的认定标准",
+              "经营困难与合同诈骗的界限"
+            ],
+            "合同诈骗罪中非法占有目的的认定标准": "### 结论\n合同诈骗罪中非法占有目的的认定需综合考虑行为人的履约能力、履约行为、事后态度、资金处置情况、合同签订背景、行为人是否实施欺诈行为及其在签订和履行合同过程中的作用、以及行为人收款后的行为表现等多方面因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人在签订合同时是否具有履行合同的能力。例如，【（2019）苏05刑再5号】中，法院认为倪某某在签订拆借资金合同时，其公司处于正常经营状态，有一定的净利润，因此不能仅因后来未履行合同就推定其签订合同时具有非法占有目的。\n- **履约行为**：行为人在签订合同后是否采取了实际的履约行为。如【（2023）苏01刑终67号】中，法院认定被告人在合同签订后未实际履行合同，仅形式性地发放产品制作手册、进行课程培训等，未提供实质性的服务。\n- **事后态度**：行为人在合同未履行后是否采取了积极的补救措施。如【（2018）吉05刑抗1号】中，法院认为王某某在借款到期后用他公司资金及其他房产作为重新置换抵押，案发后将借款及利息归还债权人，并取得了债权人的谅解，因此不构成合同诈骗罪。\n- **资金处置情况**：行为人对取得的财物是否用于正当用途，如用于企业经营，还是用于个人挥霍、非法活动等。如【（2019）冀刑再5号】中，法院认为李某胜将焦炭用于企业生产，未隐匿、转移、挥霍，因此不构成合同诈骗罪。\n- **合同签订背景**：合同签订时的背景，包括企业经营状态、合同签订后履行情况、资金去向和用途等。如【（2021）辽06刑终164号】中，法院认为康某某冒用他人名义签订合同，先履行小额合同诱骗对方继续履行合同，后逃匿，具有非法占有目的。\n- **欺诈行为及其作用**：行为人是否实施了欺诈行为，以及该行为在签订、履行合同过程中的作用。如【（2022）闽05刑终890号】中，法院认为陈某在没有货源的情况下，向被害人谎称有熔喷布货源，收取货款后携款逃匿，构成诈骗罪。\n\n综上，合同诈骗罪中非法占有目的的认定是一个综合判断过程，需要全面考量行为人在签订和履行合同过程中的各种表现，以及合同未履行后的态度和行为，以判断其主观上是否具有非法占有的目的。\n\n#####\n类似案件为：\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2023）苏01刑终67号】：法院生效裁判认为:被告人叶某林、谭某竑、石某、乔某坤以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额特别巨大，其行为已构成合同诈骗罪。\n1.被告人没有履行合同能力。根据《商业特许经营管理条例》第七条规定，特许人从事特许经营活动应当拥有成熟的经营模式，并具备为被特许人持续提供经营指导、技术支持和业务培训等服务的能力；特许人从事特许经营活动应当拥有至少两个直营店，且经营时间超过一年。本案中，“蜜XX”品牌仅有一家线下直营店且经营时间未超过一年，该线下直营店未进行过正常开店活动，其开设目的仅为营造盈利假象欺骗线下考察的加盟方，不具有市场竞争力的核心产品、服务及经受市场考验的盈利模式，没有成熟的经营和管理经验，无法为加盟商提供充分的技术支持和服务保障，运营能力不存在让加盟方盈利的可能性，没有履行合同的能力。\n2.被告人实施欺诈诱骗对方签订合同。本案中，被告人虚构“蜜XX”饮品品牌与其他知名品牌属同一集团或有合作关系，诱骗被害人至南京市秦淮区蜜XX直营店考察商谈，再由B公司派驻的商务团队在直营店内继续采取贴靠知名品牌、虚增经营业绩、购买知名品牌产品冒充自有产品等方式诱骗被害人签订加盟合同，属于典型的通过欺诈方式诱骗对方签订合同。\n3.签订合同后被告人未实际履行合同。特许加盟中，特许经营许可人要为被特许人持续提供经营指导、技术支持和业务培训等服务，使得加盟商能够获得一系列支持，减少市场经营风险。本案中，被告人在合同签订后形式性地发放产品制作手册、进行课程培训等，而合同约定的实质全面系统的市场评估、选址装修、开业指导、业务培训、广告宣传等服务均未履行，加盟商因此直接置身于市场风险之中，大量亏损、倒闭。而且，绝大部分加盟费未用于后续产品开发、品牌推广、技术指导等公司运营，无提高合同履行能力的资金筹集、产品研发等行为。A公司、B公司按照22:78的比例对所得加盟费分成，并由A公司承担河北维得公司派驻的线下商务及其他派出人员的工资、提成、食宿等费用。此种模式下78%的收入用于骗取加盟，只留22%的部分用于公司运营，再扣除基本的场地、人员等费用，能够用于产品开发、品牌推广、技术指导的已寥寥无几，无法为后续合同履行进行必要的资金投入，合同实际上已无法得到履行。\n4.被告人转移、隐匿骗取的财物。本案中，被告人不仅在收到加盟费后将绝大部分资金按照分成比例转给线上招商公司，留于公司运营的资金已所剩无几，加盟方在遭受损失后无法通过民事途径获得救济，而且在收到大量客户投诉后仅留下几名售后人员稳定客户情绪，之后迅速更换品牌和公司，切断与之前公司品牌的联系，将大量员工带至新公司，用新品牌以类似的方式继续从事特许经营招商加盟活动，无任何损失弥补的能力和行为，具有非法占有加盟费的主观目的。\n综合全案情节，叶某林、谭某竑在共同犯罪中起主要作用，系主犯。石某、乔某坤在共同犯罪中起次要作用，系从犯，依法应当减轻处罚。石某、乔某坤系自首，依法可以从轻处罚。故一、二审法院依法作出如上裁判。\n【（2018）吉05刑抗1号】：法院生效裁判认为：原审被告人王某某借款的目的是用于缴纳土地出让金。在借款到期后，又用他公司资金及其他房产作为重新置换抵押。案发后将借款及利息归还债权人，并取得了债权人的谅解，亦未逃匿。即王某某主观上无非法占有的故意，客观上亦无诈骗他人财物的行为。其行为不符合刑法第二百二十四条规定的情形，原审判决证据不足、适用法律错误，应予纠正。",
+            "经营困难与合同诈骗的界限": "### 结论\n经营困难与合同诈骗的界限在于行为人是否具有非法占有的目的，以及在签订、履行合同过程中是否采取了虚构事实、隐瞒真相等手段。经营困难本身并不构成合同诈骗，但若行为人利用经营困难的状况，通过欺骗手段获取他人财物，则可能构成合同诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，采取虚构事实或者隐瞒真相的方法，骗取对方当事人财物的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有的目的**：法院在判断是否构成合同诈骗罪时，会重点考察行为人是否具有非法占有的目的。例如，【（2019）云25刑初40号】中，法院认定被告人李汝斌在履行合同中隐瞒公司经营困难的事实，伪造相关证明材料，诱骗对方继续履行合同，主观上具有直接故意，构成合同诈骗罪。\n- **虚构事实或隐瞒真相**：行为人在签订、履行合同过程中是否采取了虚构事实或隐瞒真相的手段，也是判断是否构成合同诈骗罪的关键。如【（2020）鲁13刑终365号】中，法院认为刘存波在公司经营困难的情况下，所借款项未进入公司账户，也未用于公司生产经营，而是获取借款后逃匿，其行为符合诈骗罪的构成要件。\n- **合同诈骗罪与诈骗罪的界限**：合同诈骗罪与诈骗罪的界限在于诈骗行为是否发生在合同签订、履行过程中。如【（2017）冀0428刑初1号】中，法院认为吕某某的诈骗行为发生在合同的签订、履行过程中，因此定性为合同诈骗罪。\n\n综上，经营困难与合同诈骗的界限在于行为人是否具有非法占有的目的，以及是否在签订、履行合同过程中采取了欺骗手段。法院在判断时会综合考虑行为人的主观意图、行为手段以及是否发生在合同签订、履行过程中。\n\n#####\n类似案件为：\n【（2019）云25刑初40号】：法院认为，李汝斌在签订、履行合同过程中，无实际履行能力，隐瞒事实，伪造证明材料，诱骗对方继续履行合同，骗取财物，数额特别巨大，构成合同诈骗罪，应追究刑事责任。李汝斌如实供述犯罪事实，认罪态度较好，可从轻处罚。李汝斌犯合同诈骗罪，判处有期徒刑十二年，并处罚金50万元，与前罪判处的有期徒刑五年，并处罚金2万元并罚，决定执行有期徒刑十六年，并处罚金52万元。涉案赃款继续追缴。\n【（2020）鲁13刑终365号】：法院认为，刘存波以非法占有为目的，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪、诈骗罪。在公司经营困难情况下，刘存波所借款项未进入公司账户，也未用于公司生产经营，而是获取借款后逃匿，其非法占有的故意明显，符合诈骗罪的犯罪构成要件。撤销原审判决，刘存波犯合同诈骗罪，判处有期徒刑一年，并处罚金人民币三万元；犯诈骗罪，判处有期徒刑十年，并处罚金人民币七万元，决定执行有期徒刑十年，并处罚金人民币十万元。\n【（2017）冀0428刑初1号】：法院认为，吕某某以非法占有为目的，在签订、履行合同过程中，采用隐瞒真相、虚构事实的手段，骗取对方当事人数额较大财物，其行为已构成合同诈骗罪。合同诈骗罪与诈骗罪的界限关键在于诈骗行为是否在合同签订、履行过程中产生，吕某某的诈骗行为发生在合同的签订、履行过程中，故定性为合同诈骗罪。被告人吕某某犯合同诈骗罪，判处有期徒刑二年，并处罚金人民币一万元；责令被告人吕某某退赔被害人张某1被骗经济损失十五万元。如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向河北省邯郸市中级人民法院提出上诉。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否具有非法占有的主观故意。查明情况：公诉人通过被告人在资金链断裂后仍继续赊购药材、高买低卖、出售资产后逃匿等行为证明其具有非法占有目的；辩护人强调被告人有部分还款行为，认为属于经营困难导致的民事纠纷。审判长认为需结合资金去向和行业惯例进一步查明。\n\n2.被告人签订合同时的实际履行能力。查明情况：公诉人指出被告人在已形成大额欠款情况下仍继续赊购，证明其无实际履行能力；被告人辩称希望通过经营逐步偿还。审判长认为需核实被告人在各时间节点的资产负债情况，特别是继续赊购时的财务状况。\n\n3.资金去向的正当性。查明情况：公诉人质疑127万余元未支付货款的具体用途，特别是21.5万元去向不明资金；被告人解释用于经营成本但未能提供明细。审判长认为需调取相关财务凭证予以核实，被告人对资金去向负有说明义务。\n\n4.高买低卖行为的商业合理性。查明情况：公诉人认为该行为违背商业逻辑，证明其非法占有目的；辩护人主张系经营困境下的应急措施。审判长认为需结合药材行业惯例判断该行为是否超出正常经营风险范畴。\n\n5.逃匿行为的性质认定。查明情况：双方对出售资产后中断通讯的事实无争议，但对行为性质有分歧。审判长认为需结合逃匿期间行为表现、与被害人的联系情况等综合判断。\n\n6.量刑情节的认定。查明情况：被告人承认错误但未取得被害人谅解，辩护人强调部分还款的悔罪表现；公诉人认为还款具有选择性。审判长认为需评估退赔可能性及社会危害性，特别是已偿还101万元占总额42%的比例。\n\n7.涉案金额的准确认定。查明情况：起诉书列明各被害人金额，被告人无异议但强调已偿还部分。审判长认为需核对还款凭证与指控金额，特别是部分被害人陈述中提到的已还款情况。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百二十四条",
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第七十二条"
+            ],
+            "中华人民共和国刑法第二百二十四条": "有下列情形之一，以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产：（一）以虚构的单位或者冒用他人名义签订合同的；（二）以伪造、变造、作废的票据或者其他虚假的产权证明作担保的；（三）没有实际履行能力，以先履行小额合同或者部分履行合同的方法，诱骗对方当事人继续签订和履行合同的；（四）收受对方当事人给付的货物、货款、预付款或者担保财产后逃匿的；（五）以其他方法骗取对方当事人财物的。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第七十二条": "对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。宣告缓刑，可以根据犯罪情况，同时禁止犯罪分子在缓刑考验期限内从事特定活动，进入特定区域、场所，接触特定的人。被宣告缓刑的犯罪分子，如果被判处附加刑，附加刑仍须执行。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "合同诈骗罪数额特别巨大的量刑标准",
+              "合同诈骗罪中部分还款情节对量刑的影响",
+              "合同诈骗罪中逃匿行为对量刑的影响",
+              "合同诈骗罪类似案例的刑期和罚金标准"
+            ],
+            "合同诈骗罪数额特别巨大的量刑标准": "### 结论\n合同诈骗罪数额特别巨大的量刑标准，根据《中华人民共和国刑法》第二百二十四条，一般应处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。具体量刑时，法院会考虑犯罪数额、犯罪手段、犯罪后果、被告人的认罪态度、退赔情况、自首情节、前科情况等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：以非法占有为目的，在签订、履行合同过程中，骗取对方当事人财物，数额较大的，处三年以下有期徒刑或者拘役，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：法院在量刑时会根据犯罪数额的大小来确定量刑幅度。例如，【（2017）晋0881刑初38号】中，被告人王某某实际骗取的数额为527715.3元，被认定为数额特别巨大，量刑时以此数额作为基准。【（2018）京01刑终683号】中，被告人林某英合同诈骗数额特别巨大，被判处有期徒刑九年。\n- **认罪态度和退赔情况**：被告人是否认罪、是否主动退赔被害人的损失，是法院量刑时考虑的重要因素。例如，【（2017）晋0881刑初38号】中，被告人王某某的认罪态度和退赔情况被法院在量刑时酌情考虑。【（2018）京01刑终683号】中，被告人林某英认罪态度较好，具有自首情节，依法对其减轻处罚。\n- **自首情节**：被告人是否自动投案，如实供述自己的罪行，是法院量刑时考虑的重要情节。例如，【（2018）京01刑终683号】中，被告人林某英自动投案，如实供述，具有自首情节，依法对其减轻处罚。\n- **前科情况**：被告人是否有犯罪前科，是法院量刑时考虑的因素之一。例如，【（2017）晋0881刑初38号】中，被告人王某某有犯罪前科，被酌情从重处罚。\n\n综上，合同诈骗罪数额特别巨大的量刑，法院会综合考虑犯罪数额、认罪态度、退赔情况、自首情节、前科情况等因素，依法作出判决。\n\n#####\n类似案件为：\n【（2017）晋0881刑初38号】：法院认为，王某某以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪。王某某的诈骗数额应以实际取得的数额认定，合同标的数额作为量刑情节考虑。王某某有犯罪前科，应酌情从重处罚。依据相关法律，判决如下：\n一、被告人王某某犯合同诈骗罪，判处有期徒刑十年零六个月，并处罚金人民币10万元。\n二、被告人王某某诈骗所得527715.3元予以追缴，返还被害人。永济市人民法院判决王某某犯合同诈骗罪，考虑其犯罪数额特别巨大、有犯罪前科等情节，依法作出上述判决。\n【（2017）晋0881刑初38号】：法院认为，王某某以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪。王某某的诈骗数额应以实际取得的数额认定，合同标的数额作为量刑情节考虑。王某某有犯罪前科，应酌情从重处罚。依据相关法律，判决如下：\n一、被告人王某某犯合同诈骗罪，判处有期徒刑十年零六个月，并处罚金人民币10万元。\n二、被告人王某某诈骗所得527715.3元予以追缴，返还被害人。永济市人民法院判决王某某犯合同诈骗罪，考虑其犯罪数额特别巨大、有犯罪前科等情节，依法作出上述判决。\n【（2017）晋0881刑初38号】：法院认为，王某某以非法占有为目的，在签订、履行合同过程中，骗取他人财物，数额特别巨大，其行为已构成合同诈骗罪。王某某的诈骗数额应以实际取得的数额认定，合同标的数额作为量刑情节考虑。王某某有犯罪前科，应酌情从重处罚。依据相关法律，判决如下：\n一、被告人王某某犯合同诈骗罪，判处有期徒刑十年零六个月，并处罚金人民币10万元。\n二、被告人王某某诈骗所得527715.3元予以追缴，返还被害人。永济市人民法院判决王某某犯合同诈骗罪，考虑其犯罪数额特别巨大、有犯罪前科等情节，依法作出上述判决。",
+            "合同诈骗罪中部分还款情节对量刑的影响": "### 结论\n在合同诈骗罪中，案发前的还款行为对量刑有重要影响。法院通常会将案发前的还款视为量刑情节，从轻处罚。如果还款行为发生在案发后，其对量刑的影响较小，但仍然可以作为酌定从轻情节考虑。在认定还款事实时，法院遵循有利于被告人的原则，当存在合理怀疑时，应认定还款事实，从而减少诈骗金额。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了坦白可以从轻处罚。\n- **《中华人民共和国刑法》第七十二条第一款、第三款**：规定了缓刑的适用条件。\n- **《中华人民共和国刑法》第七十三条第二款、第三款**：规定了缓刑的考验期限。\n- **《中华人民共和国刑法》第五十二条**：规定了罚金的适用。\n- **《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第二百四十一条第一款第二项**：规定了对被告人有利的证据规则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **案发前的还款行为**：在【(2019)苏0117刑初276号】、【(2017)湘1102刑初166号】案例中，法院认为案发前的还款行为应当在诈骗金额中予以扣除，但同时作为量刑情节予以从重处罚。这表明案发前的还款行为对量刑有正面影响，可以减少诈骗金额，从而减轻刑罚。\n- **案发后的还款行为**：在【(2019)粤0305刑初1322号】案例中，法院认为案发后的还款行为虽然不能改变已成立的犯罪事实，但可以在量刑时作为酌定从轻情节考虑。这表明案发后的还款行为对量刑也有一定影响，可以作为从轻处罚的依据。\n- **还款证据的认定**：在【(2017)湘1102刑初166号】案例中，法院遵循有利于被告人的原则，当存在合理怀疑时，应认定还款事实，从而减少诈骗金额。这表明在认定还款事实时，法院倾向于保护被告人的权益，当还款证据引起合理怀疑时，应按照有利于被告人的原则认定还款事实。\n\n综上，案发前的还款行为对量刑有重要影响，可以减少诈骗金额，从而减轻刑罚。案发后的还款行为虽然不能改变已成立的犯罪事实，但可以在量刑时作为酌定从轻情节考虑。在认定还款事实时，法院遵循有利于被告人的原则，当存在合理怀疑时，应认定还款事实，从而减少诈骗金额。",
+            "合同诈骗罪中逃匿行为对量刑的影响": "### 结论\n合同诈骗罪中逃匿行为是构成犯罪的重要行为之一，表明行为人具有非法占有的目的，对量刑有直接影响。逃匿行为结合非法占有目的、犯罪数额、自首、退赔、取得谅解等因素，法院在量刑时会综合考虑，逃匿行为本身虽不直接决定量刑轻重，但与犯罪情节、悔罪态度等共同影响最终判决。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件，包括以非法占有为目的，在签订、履行合同过程中，收受对方当事人财物后逃匿的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的与逃匿行为**：表明行为人主观上具有非法占有的目的，是构成合同诈骗罪的关键。其中【（2018）粤0306刑初2894号】、【（2018）苏0303刑初604号】、【（2017）湘0903刑初87号】等案例均强调了逃匿行为与非法占有目的的关联性。\n- **犯罪数额**：数额巨大或特别巨大直接影响量刑的轻重。例如，【（2014）韶曲法刑初字第92号】中，被告人因数额特别巨大被判处有期徒刑十年。\n- **自首与退赔**：自首和退赔行为可以作为从轻或减轻处罚的情节。如【（2017）甘1228刑初9号】、【（2019）赣0428刑初16号】中，被告人因自首和退赔取得谅解，法院决定适用缓刑。\n- **犯罪情节与悔罪表现**：犯罪情节轻微、悔罪态度良好，可以作为从轻处罚的依据。【（2018）豫1104刑初88号】、【（2018）黑0382刑初181号】中，被告人因犯罪情节较轻、有悔罪表现，被宣告缓刑。\n\n综上，逃匿行为作为合同诈骗罪的构成要件之一，与非法占有目的、犯罪数额、自首、退赔、犯罪情节和悔罪态度等共同影响量刑。法院在判决时会综合考量这些因素，以确定最终的刑罚。\n\n#####\n类似案件为：\n【（2018）粤0306刑初2894号】：法院认为，被告人何某某以非法占有为目的，在签订、履行合同的过程中，收取对方当事人财物后逃匿，数额巨大，其行为已构成合同诈骗罪。何某某犯罪以后自动投案，如实供述自己的犯罪事实，有自首情节，可以对其减轻处罚。何某某辩称与杨某2合作，但未提供详细信息予以查证，且赃款由其本人收取，不影响定罪量刑。何某某直接对被害人实施诈骗骗取保证金，不认定为从犯。被告人何某某犯合同诈骗罪，判处有期徒刑二年六个月，并处罚金人民币二千元。何某某需退赔被害人郭某1、尧某、杨某1等人的经济损失。\n判决书全文体现了法律的公正与严肃，对犯罪行为进行了依法惩处，保护了被害人的合法权益。\n【（2018）苏0303刑初604号】：法院认为，被告人李某某以非法占有为目的，在签订、履行合同过程中，收受被害人陈某给付的保证金后逃匿，数额巨大，其行为已构成合同诈骗罪。被告人李某某曾因犯罪被二次判刑，量刑时予以考虑。徐州市云龙区人民法院判决如下：\n一、被告人李某某犯合同诈骗罪，判处有期徒刑六年，并处罚金人民币50000元。\n二、赃款依法继续追缴，发还被害人。\n上述判决体现了对合同诈骗罪的严格惩处，以及对被告人先前犯罪记录的考量，判决合法合理。\n检察院以被告人李某某犯合同诈骗罪，向徐州市云龙区人民法院提起公诉。\n被告及辩护人对上述事实及罪名均无异议。\n法院经审理查明，2015年7月，被告人李某某，江苏某建设工程有限公司法人，在明知徐州动漫城项目已被终止合同的情况下，使用伪造的与项目发包人签订的建设工程施工合同，骗取陈某的信任，与其签订内部承包工程施工合同，随后骗取陈某交付的工程保证金。\n法院认为，被告人李某某以非法占有为目的，在签订、履行合同过程中，收受被害人陈某给付的保证金后逃匿，数额巨大，其行为已构成合同诈骗罪。鉴于被告人李某某曾因犯罪被二次判刑，法院在量刑时予以了考虑。\n综上，徐州市云龙区人民法院判决被告人李某某犯合同诈骗罪，判处有期徒刑六年，并处罚金人民币50000元；赃款依法继续追缴，发还被害人。\n【（2017）湘0903刑初87号】：法院认为，刘某文以非法占有为目的，履行合同过程中收受对方货物后逃匿，数额巨大，构成合同诈骗罪。刘某文自愿认罪，退赔损失，取得谅解，可酌情从轻处罚。根据犯罪情节和悔罪表现，适用缓刑对社区无重大不良影响。法院判决刘某文犯合同诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金四万元。\n故本题答案为：\n检察院以被告人刘某文犯合同诈骗罪，向益阳市赫山区人民法院提起公诉。\n被告及辩护人提出，刘某文主观恶性不大，自愿认罪，积极退赃并取得被害人谅解，请求适用缓刑。\n法院经审理查明，刘某文与段某其签订销售合同，履行合同中，刘某文以低于成本价销售，段某其多次催要货款，刘某文支付部分后拖延。刘某文收取货物未付款并逃匿至新疆。刘某文被抓获后，至审理期间，已付清38万元欠款并赔偿段某其，取得谅解。\n法院认为，刘某文以非法占有为目的，履行合同过程中收受对方货物后逃匿，数额巨大，构成合同诈骗罪。刘某文自愿认罪，退赔损失，取得谅解，可酌情从轻处罚。根据犯罪情节和悔罪表现，适用缓刑对社区无重大不良影响。\n综上，法院判决刘某文犯合同诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金四万元。",
+            "合同诈骗罪类似案例的刑期和罚金标准": "### 结论\n合同诈骗罪的刑期和罚金标准主要受诈骗数额、被告人的主观恶性、犯罪手段、是否构成累犯、是否自首、是否立功、是否退赃、是否如实供述、是否从犯等因素影响。数额巨大或特别巨大的，刑期从三年以上至十年以上不等，罚金从数千元至数十万元不等；数额较大的，刑期一般在三年以下，罚金相对较低。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百二十四条**：规定了合同诈骗罪的构成要件和量刑标准。\n- **《中华人民共和国刑法》第六十七条**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第六十九条**：规定了数罪并罚的原则。\n- **《中华人民共和国刑法》第七十一条**：规定了判决宣告后，刑罚执行完毕以前，发现被判刑的犯罪分子在判决宣告以前还有其他罪没有判决的，应当对新发现的罪作出判决，把前后两个判决所判处的刑罚，依照本法第六十九条的规定，决定执行的刑罚。\n- **《中华人民共和国刑法》第八十六条**：规定了撤销假释的条件。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：数额特别巨大，刑期一般在十年以上，如【（2017）京02刑终445号】中杜建被判处有期徒刑二十年；数额巨大，刑期在三年以上十年以下，如【（2015）石刑初字第363号】中葛长山被判处有期徒刑三年九个月；数额较大，刑期在三年以下，如【（2017）苏0311刑初389号】中吴某某等人被判处三年以下有期徒刑。\n- **被告人的主观恶性**：如【（2017）京02刑终445号】中杜建的上诉理由未被采纳，因其主观恶性明显。\n- **是否构成累犯**：如【（2015）石刑初字第363号】中葛长山在假释考验期内犯新罪，被撤销假释，刑期加重。\n- **是否自首**：如【（2018）京01刑终683号】中林某英因自首被减轻处罚。\n- **是否立功**：如【（2017）苏0311刑初389号】中凡某某因立功被从轻处罚。\n- **是否退赃**：如【（2021）鄂10刑终76号】中童某某因积极退缴全部赃款被酌情从轻处罚。\n- **是否如实供述**：如【（2017）京02刑终445号】中杜建因未如实供述被维持原判。\n- **是否从犯**：如【（2020）粤0113刑初248号】中翟海松因从犯被从轻处罚。\n\n综上，合同诈骗罪的判罚尺度受到多种因素的影响，法院在量刑时会综合考虑上述因素，以确保判决的公正性和合理性。\n\n#####\n类似案件为：\n【（2017）苏0311刑初389号】：法院认为，被告人吴某某、阮辉、雍某某、种某某、张某某、常志强的行为均构成合同诈骗罪，依法应处三年以下有期徒刑或拘役，并处罚金。被告人凡某某的行为构成掩饰、隐瞒犯罪所得罪，依法应处三年以下有期徒刑、拘役或管制，并处或单处罚金。各被告人到案后均如实供述主要犯罪事实，系坦白，依法予以从轻处罚。凡某某到案后揭发他人犯罪行为，系立功，可从轻处罚。关于吴某某的辩护意见，吴某某在犯罪中起主要作用，并非从犯，且其行为不符合立功规定。关于张某某的辩护意见，张某某犯罪数额较大，且无退赃、退赔情节，不宜适用缓刑。法院对七名被告人分别判处有期徒刑，并处罚金。吴某某、阮辉、雍某某、张某某、种某某、常志强犯合同诈骗罪，分别判处二年五个月至十一个月不等的有期徒刑，并处罚金十万元至二万元不等。凡某某犯掩饰、隐瞒犯罪所得罪，判处有期徒刑一年六个月，并处罚金三万元。\n【（2017）苏0311刑初389号】：法院认为，被告人吴某某、阮辉、雍某某、种某某、张某某、常志强的行为均构成合同诈骗罪，依法应处三年以下有期徒刑或拘役，并处罚金。被告人凡某某的行为构成掩饰、隐瞒犯罪所得罪，依法应处三年以下有期徒刑、拘役或管制，并处或单处罚金。各被告人到案后均如实供述主要犯罪事实，系坦白，依法予以从轻处罚。凡某某到案后揭发他人犯罪行为，系立功，可从轻处罚。关于吴某某的辩护意见，吴某某在犯罪中起主要作用，并非从犯，且其行为不符合立功规定。关于张某某的辩护意见，张某某犯罪数额较大，且无退赃、退赔情节，不宜适用缓刑。法院对七名被告人分别判处有期徒刑，并处罚金。吴某某、阮辉、雍某某、张某某、种某某、常志强犯合同诈骗罪，分别判处二年五个月至十一个月不等的有期徒刑，并处罚金十万元至二万元不等。凡某某犯掩饰、隐瞒犯罪所得罪，判处有期徒刑一年六个月，并处罚金三万元。\n【（2020）粤0113刑初248号】：法院认为，被告人林庆旺、翟海松以非法占有为目的，在签订、履行合同过程中虚构事实、隐瞒真相，恶意骗取被害人财物，严重侵害经济合同管理秩序，扰乱市场经济秩序，侵害他人财产权益，其行为均已构成合同诈骗罪。被告人林庆旺合同诈骗数额巨大，依法应处三年以上十年以下有期徒刑，并处罚金；被告人翟海松合同诈骗数额较大，依法应处三年以下有期徒刑或者拘役，并处或者单处罚金。在部分犯罪事实中，二被告人因意志以外的原因未得逞，系犯罪未遂，可比照既遂犯从轻或减轻处罚。在共同犯罪中，林庆旺起主要作用，是主犯；翟海松起次要作用，是从犯，应从轻处罚。林庆旺退赔部分被害人经济损失或车辆，取得部分被害人谅解，可酌情从轻处罚。一、被告人林庆旺犯合同诈骗罪，判处有期徒刑二年，并处罚金人民币二万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月24日起执行至2021年4月23日止；罚金于本判决发生法律效力次日起十日内缴纳，上缴国库）。\n二、被告人翟海松犯合同诈骗罪，判处有期徒刑一年五个月，并处罚金人民币八千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月25日起执行至2020年9月24日止；罚金于本判决发生法律效力次日起十日内缴纳，上缴国库）。\n三、责令被告人林庆旺退赔被害人袁某2经济损失人民币55000元。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 120.0,
+    "fine": 200000.0,
+    "reprieve": 0.0
+  }
+]

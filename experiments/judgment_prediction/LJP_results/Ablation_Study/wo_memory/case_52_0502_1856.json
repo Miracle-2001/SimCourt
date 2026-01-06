@@ -1,0 +1,2036 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人展某，男，汉族，XXX年X月X日出生，户籍XXXXX，文化程度XXX，原任新疆生产建设兵团101团华亿公司总经理（正科级）。因涉嫌犯诈骗罪，于2015年9月29日被刑事拘留，同年10月2日延长拘留期限至10月29日，同年11月5日被释放并变更强制措施为监视居住；2016年3月29日因涉嫌犯国有公司人员滥用职权罪、诈骗罪被刑事拘留，同年4月7日被批准逮捕。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是新疆生产建设兵团101团华亿公司原总经理（正科级）。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "新疆生产建设兵团五家渠垦区人民检察院  \n起 诉 书  \n\n五垦检刑诉〔2016〕112号  \n\n被告人展某，男，汉族，XXX年X月X日出生，户籍XXXXX，文化程度XXX，原任新疆生产建设兵团101团华亿公司总经理（正科级）。因涉嫌犯诈骗罪，于2015年9月29日被刑事拘留，同年10月2日延长拘留期限至10月29日，同年11月5日被释放并变更强制措施为监视居住；2016年3月29日因涉嫌犯国有公司人员滥用职权罪、诈骗罪被刑事拘留，同年4月7日被批准逮捕。  \n\n本案由新疆生产建设兵团第六师公安局侦查终结，以被告人展某涉嫌诈骗罪，于2016年12月26日向本院移送起诉。本院受理后，依法告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2011年9月，101团为做好拆迁工作，专门成立4号地征收小组，由副团长张某甲负责，成员为团工交建商科、农业科、司法所、劳资科、信访科、华亿公司以及二连连队干部等人员。被告人展某作为101团华亿公司总经理，参与101团二连的公房征收工作。  \n\n2012年6月，青投公司的唐某让五家渠祥和房地产测绘公司经理冯某对被告人展某的平房进行测量评估。冯某派工作人员朱某与青投公司工作人员一起，在展某夫妻的参与下，对被告人展某在2005年临近新锅炉房南侧盖的两间砖混结构房屋和搭建的一间砖木结构房屋进行测量。测量过程中，展某夫妻使测量人员误认为面积为71.82平方米的老锅炉房属于其私房进行测量，并由鸿通房地产评估公司出具评估报告，评估价值120729元（该房屋此前已作为公房赔付）。此外，展某夫妻以维修新锅炉房为由向天新房地产公司提出补偿39910元要求。  \n\n2012年7月18日，吴某与天新房地产公司签订《协议搬迁补偿书》，选择产权置换，获取青湖·铭城小区两套楼房。同年9月19日，展某、吴某与天新房地产公司签订《搬迁补偿补充协议书》，获得补偿金92718元。  \n\n被告人展某通过上述方式共计骗取补偿款120729元。  \n\n认定上述事实的证据如下：  \n1. 书证：立案决定书、户籍信息、调取证据通知书、搬迁补偿补充协议书、评估报告、付款审批表等；  \n2. 证人证言：证人吴某、唐某、冯某、朱某、赵某甲、胥某、张某甲等人的证言；  \n3. 被告人供述：被告人展某的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人展某以非法占有为目的，虚构事实、隐瞒真相，骗取政府拆迁补偿款120729元，数额巨大，其行为触犯了《中华人民共和国刑法》第二百六十六条之规定，犯罪事实清楚，证据确实、充分，应当以诈骗罪追究其刑事责任。鉴于被告人展某犯罪未遂，可以比照既遂犯从轻处罚。建议判处被告人展某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n新疆生产建设兵团五家渠垦区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2016年12月26日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实有异议。测量时我不在场，没有故意误导测量人员将公房计入私房面积。维修费39910元是青投公司要求评估公司添加的，并非我提出的要求。我建造的私房确实存在，没有虚构事实或隐瞒真相的故意。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人展某，你在2012年6月测量房屋时，是否明确告知测量人员老锅炉房属于公房而非你的私房？请具体说明当时的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "测量时我不在场，是老锅炉房南侧的私房需要测量。青投公司工作人员张某乙带领测绘人员朱某进行测量时，我没有参与指引或说明。老锅炉房是公房，我从未主张过其所有权。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "作为华亿公司总经理，你参与101团二连公房征收工作时，是否清楚老锅炉房已作为公房赔付的事实？为何在评估时未对此进行说明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时确实知道老锅炉房是公房，但评估测量工作是由青投公司组织进行的，我没有参与具体的测量过程。作为被征收方，我认为评估公司应当自行核实房屋权属情况，而不是由我来主动说明。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于39910元维修费补偿，你向天新房地产公司提出该要求时，是否提供了真实的维修费用凭证？请说明维修费用的具体构成。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "维修费39910元是青投公司唐某要求评估公司以附属物名义添加的，我没有提供过维修费用清单或凭证。这笔费用并非由我主动提出要求。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在2012年9月19日与天新房地产公司签订《搬迁补偿补充协议书》时，是否知晓其中包含对老锅炉房的重复补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为补充协议是针对我实际建造的私房进行的补偿，不清楚其中是否包含对老锅炉房的重复补偿。评估报告是由评估公司出具的，我没有参与评估报告的编制过程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为国有公司管理人员，在获取补偿款后，该款项的实际用途是什么？是否用于个人支出？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "补偿款主要用于支付员工工资和公司运营支出，没有用于个人消费。作为华亿公司总经理，我严格按照公司财务制度使用资金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "案发后你是否主动向有关部门说明情况或退还相关款项？采取了哪些补救措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "案发后我没有主动向有关部门说明情况，也没有退还相关款项。当时我认为补偿是合法合理的，所以没有采取补救措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据评估报告显示，老锅炉房被评估为你的私房并计入补偿范围，你作为被评估房屋的权利人，为何在评估报告出具后未对其中明显错误提出异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "评估报告出具后，我确实看到了报告内容，但当时认为评估公司作为专业机构，其评估结果应该是准确的。我没有意识到报告中存在将公房计入私房面积的错误。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人展某，在测量人员对房屋进行测量评估时，你是否在场？是否向测量人员明确指示过哪些房屋属于你的私房？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "测量时我不在场，没有向测量人员指示过任何房屋。是老锅炉房南侧的私房需要测量，但具体测量工作是由青投公司工作人员带领测绘人员完成的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于老锅炉房被计入你的私房面积一事，你是否事先知情？是否曾向测量人员或相关工作人员表示过该锅炉房属于你的私房？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我事先不知情，也从未向任何人表示过老锅炉房属于我的私房。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "维修费39910元的补偿要求是由谁提出的？你是否参与制定或提供过相关维修费用清单？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "维修费39910元是青投公司唐某要求评估公司添加的，我没有参与制定或提供过维修费用清单。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "作为华亿公司总经理，你在101团二连公房征收工作中具体负责哪些工作？是否参与过公房与私房的确认工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我在征收工作中主要负责协调公司相关事务，没有参与过公房与私房的确认工作。具体权属确认是由团里其他部门负责的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在获得补偿款后，是否曾向相关部门反映过评估报告中可能存在错误的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向相关部门反映过评估报告可能存在错误的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与妻子吴某在签订搬迁补偿协议时，是否清楚协议中涉及的房屋面积和补偿金额的具体计算依据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不清楚具体计算依据，评估报告是由评估公司出具的，我们只是按照评估结果签订协议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人指控你骗取补偿款120729元，你认为这笔款项的取得是否存在不当之处？请说明理由。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认为这笔款项的取得不存在不当之处。因为评估报告是由专业评估公司出具，我作为被征收方，基于对评估公司专业性的信任接受了评估结果。我没有主动提供虚假信息或误导评估人员，也没有故意隐瞒房屋权属情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否曾向青投公司或评估公司提出过将老锅炉房纳入补偿范围的要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向青投公司或评估公司提出过将老锅炉房纳入补偿范围的要求。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人展某，你在2012年9月19日签订《搬迁补偿补充协议书》时，是否核对过协议中列明的补偿项目与评估报告内容是否一致？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有核对过协议内容与评估报告是否一致。当时认为评估公司出具的报告是准确的，所以直接签订了补充协议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2015年9月29日被刑事拘留后，为何在2015年11月5日被释放并变更强制措施为监视居住？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时公安机关认为证据不足，所以变更了强制措施为监视居住。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2012年7月18日签订《协议搬迁补偿书》时，是否知晓该协议中包含了老锅炉房的补偿内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道协议中是否包含老锅炉房的补偿内容。当时只关注了私房的补偿情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2012年6月测量房屋时，是否曾向青投公司或评估公司提供过任何关于房屋权属的书面证明材料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向青投公司或评估公司提供过任何关于房屋权属的书面证明材料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你作为华亿公司总经理，是否曾向团里相关部门核实过老锅炉房的权属情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向团里相关部门核实过老锅炉房的权属情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2004年2月29日，我妻子吴某与101团水电服务站签订《温室租赁合同》，租赁温室大棚1200平方米及锅炉房等辅助设施，租期至2014年2月28日。2005年，我在新锅炉房南侧借用二连公房西侧墙盖了两间砖混结构平房作为员工宿舍，并在老锅炉房南侧加盖一间砖混结构平房和砖木结构仓库。2011年9月，101团成立4号地征收小组，委托正阳评估公司测量公房，我的私房未被计入公房面积。2012年6月，青投公司唐某安排祥和测绘公司测量我的私房，测量人员朱某在青投公司工作人员张某乙的指引下，误将老锅炉房（公房）计入我的私房面积，评估总价值346386元（含虚构的维修费39910元）。2012年7月18日，吴某与天新房地产公司签订《协议搬迁补偿书》，选择两套楼房置换。同年9月，我与吴某提交报告要求额外补偿，获得92718元。  \n\n（2）犯案动机  \n我未主动虚构事实或隐瞒真相。测量时我不在场，青投公司工作人员和评估公司自行将公房计入我的私房面积。维修费39910元是青投公司唐某要求评估公司以附属物名义添加，非我提供清单。我认为房屋存在事实，未诱导错误测量，无非法占有目的。  \n\n（3）案发之后的处理  \n案发后我未自首。公安机关未提及我进行赔偿或达成和解。我未取得被害人谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述中明确表示\"测量时我不在场\"、\"维修费39910元是青投公司唐某要求评估公司以附属物名义添加\"，这些内容与公诉人指控被告人存在诈骗主观故意的证明目的缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在供述中承认知晓老锅炉房为公房，且未对评估报告中将公房计入私房面积提出异议，这一事实与其主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证据关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：立案决定书、户籍信息、调取证据通知书、搬迁补偿补充协议书、报告、吴某房地产价值评估表、吴某拥有位于五家渠市101团二连房地产征收补偿价值评估报告（附评估机构资质证明）、101团二连公有房地产拆迁补偿价值评估报告（附评估机构资质证明）、项目付款审批表、房地产价值评估表等，证实相关评估报告均由具有资质的评估机构出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "评估报告虽由专业机构出具，但其中将公房计入私房面积系评估公司工作失误所致，与被告人无关。被告人未参与测量过程，无法对评估结果施加影响。该证据不能证明被告人存在诈骗的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "评估报告虽由专业机构出具，但被告人作为被征收房屋的权利人，在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，放任错误结果发生，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就评估报告与被告人主观故意的关联性充分表达意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：101团二连公有房拆迁评估测绘分布草图及评估报告（附相关部门审核确认文件），证实正阳房地产测绘评估公司对101团二连的公有房屋进行了测绘评估，在绘制的分布图上标明了老锅炉房及私房位置，且测绘草图及评估报告已经过相关部门审核确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据仅能证明公房测绘评估情况，与被告人是否具有诈骗主观故意无直接关联。评估报告虽经相关部门审核确认，但被告人并未参与该审核过程，无法证明被告人对评估结果存在明知或放任的主观状态。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证据证明公房测绘评估已明确区分公房与私房位置，被告人作为华亿公司总经理，应当知晓老锅炉房为公房的事实，却在后续私房评估中未对错误评估结果提出异议，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就评估报告与被告人主观故意的关联性充分表达意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：101团二连征收补偿报告（附第三方审计报告），证实101团二连公有房屋的总面积为7286.49平方米，估价总价值为1238万元，且数据已经过第三方审计",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：委托方天新房地产公司委托乌鲁木齐志远房地产公司（附资质证明）对吴某位于五家渠市101团二连房地产征收补偿价值评估报告，证实委估对象房地产位于五家渠市101团二连，属吴某所有，且评估机构具有相应资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该评估报告虽由专业机构出具，但其中将公房计入私房面积系评估公司工作失误所致，与被告人无关。被告人未参与测量过程，无法对评估结果施加影响。该证据不能证明被告人存在诈骗的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该评估报告明确将老锅炉房计入被告人私房面积，被告人作为被征收房屋的权利人，在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就评估报告与被告人主观故意的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：天新房地产公司保障性住房建设项目付款签证、协议搬迁补偿书（附公证文件），证实2012年7月18日，天新房地产与吴某签订搬迁补偿协议，吴某选择青湖·铭城作为产权置换，且协议已经过公证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：结婚证、项目付款审批表、报告、职工伤残证、搬迁补偿补充协议书、收条，证实吴某与展某是夫妻关系",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：锅炉房维修费用清单（附财务审计报告），证实以锅炉房维修费的名义应向展某支付39910元，且维修费用清单已经过财务审计",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该维修费用清单系青投公司要求评估公司添加，与被告人无直接关联。被告人未主动提出该维修费要求，也未提供相关维修凭证，不能证明被告人存在诈骗的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "维修费用清单虽由青投公司提出，但被告人作为受益人未对虚构的维修费用提出异议，且在签订补偿协议时接受了该款项，其不作为行为与非法占有目的具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就维修费用清单与被告人主观故意的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：师市办阅（2011）14号《关于青格达生态区投资开发公司承建五家渠市101团保障性住房建设项目专题会议纪要》（附发布备案文件），证实2011年师市决定在101团4号地即101团二连建设保障性住房，且会议纪要已经正式发布并备案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人吴某说：“2004年，我承包了101团水电公司位于101团二连的温室大棚1200平方米及锅炉房等附属设施。2005年展某在锅炉房边上盖了几间房，作为员工宿舍、库房。测量时展某不在场。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人唐某说：“五家渠4号地的征收范围包括101团二连的公房、私房及其附属物的征收。阳光展叶大棚的承包人是吴某，4号地围绕锅炉房建造的那几处私房的被赔偿主体是吴某。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人冯某说：“青投公司在开发4号地时，祥和测绘公司参与测量了最后一户。唐某让我去测量锅炉房，我派朱某去测量，朱某测量完将测绘结果给我，我出具了正式评估报告，被补偿方是展某。”（附相关部门审核确认文件）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人朱某说：“2012年5、6月，冯某安排我到青投公司在101团二连4号地的办公地点测量房子。青投公司的工作人员说户主是展某。我测量了四间平房（含一个锅炉房），面积为180余平方米。”（附第三方监督记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明测量过程，但明确显示测量时被告人不在场，且测量人员是根据青投公司工作人员指示进行测量，与被告人是否存在诈骗主观故意无直接关联。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言证明测量人员将老锅炉房计入被告人私房面积，被告人作为被征收房屋的权利人，在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证人证言与被告人主观故意的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人赵某甲说：“2011年101团二连房屋拆迁成立了工作小组，连队、华亿公司、团财务科财、劳资科等一些部门的人员参加，拆迁工作由王某甲、王某乙负责。”（附工作小组成立正式文件）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人胥某说：“水电公司在温室大棚里建了两个锅炉房，老锅炉房是一间砖混的大房子，新锅炉房是一套二的砖混房子。水电公司改制后将智能温室大棚和锅炉房作为固定资产一并移交给101团。”（附法庭质证记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人张某甲说：“对4号地的征收，101团国资公司的展某参与了公有房屋的确认工作。”（附法庭质证记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人参与了公房确认工作，但无法证明被告人在私房评估过程中存在诈骗的主观故意。公房确认与私房评估是两个独立的工作环节，该证据与指控的诈骗行为缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言证明被告人作为华亿公司总经理，参与了公房确认工作，应当明确知晓老锅炉房为公房的事实。在后续私房评估过程中，被告人未对评估报告中将公房计入私房面积的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就被告人参与公房确认工作与其主观故意的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人薄某说：“4号地的公房测绘是由我公司负责的，测绘时有杨某、唐某、张某丙在场，展某也去过几次现场。展某提出接着锅炉房东墙的一间砖混结构的房子是他盖的。”（附第三方监督记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人在公房测绘时到过现场，并确认过自己建造的私房，与评估公司将公房错误计入私房面积的行为无直接关联。被告人确认私房的行为不能证明其对评估错误存在主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言证明被告人在公房测绘时到过现场，并明确知晓老锅炉房为公房的事实。在后续私房评估过程中，被告人未对评估报告中将公房计入私房面积的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就被告人参与公房测绘与其主观故意的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人廖某说：“在公房测绘过程中，锅炉房南侧紧挨着有一间房子，有一个穿黑西装的男子说这间房子是他私有的，在锅炉房东侧挨着还有两间私房，当时也测绘了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人杨某说：“二连办公室东边三四十米远有一锅炉房，是101团水电公司建的。展某到办公室提出阳光展叶大棚供暖的锅炉房他曾经维修过，并加盖了一些房屋。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人刘某说：“水电公司为大棚盖了两个锅炉房，除了展某盖的民工住房，其余都是公房。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人赵某乙说：“老锅炉房东面的几间平房不是公房。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人张某乙说：“2012年5、6月份，唐某告诉我冯某的测绘公司有人去4号地锅炉房测绘。我陪朱某去测绘现场，唐某说锅炉房是阳光展叶的配套设施是展某的。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言显示测量人员是根据唐某的指示将锅炉房认定为展某所有，而非展某本人提供虚假信息或主动误导。被告人未参与测量过程，该证据不能证明被告人存在诈骗的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言证明测量人员将老锅炉房认定为被告人所有是基于错误信息，被告人作为华亿公司总经理，明知老锅炉房为公房却未对评估报告中的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "双方已就证人证言与被告人主观故意的关联性充分表达意见。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人毛某说：“华亿公司是101团的国有公司，展某是总经理，负责经营管理。华亿公司参与了青湖铭城项目以及水泵厂公房的拆迁工作。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人张某丁说：“华亿公司是2009年成立的，我任公司资产部的部长。华亿公司总经理的职责是对101团国有资产进行监督管理。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人王某甲说：“101团二连拆迁是由张某甲找了他一个姓王某丙的朋友联系的测绘公司进行测绘的。”（附测绘公司资质证明）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n第一，关于被告人的主观故意。根据评估报告、付款审批表等书证，以及被告人本人的供述，其明知老锅炉房为公房，却在评估过程中未对明显错误的评估结果提出异议。根据《刑法》第十四条，明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，因而构成犯罪的，是故意犯罪。被告人的不作为行为已构成诈骗罪的故意要件。\n\n第二，关于客观行为。证人唐某、冯某的证言证实，被告人在评估过程中未主动说明房屋权属情况，放任评估公司将公房计入私房补偿范围。根据《刑法》第二百六十六条，以非法占有为目的，用虚构事实或者隐瞒真相的方法，骗取数额较大的公私财物的行为，构成诈骗罪。被告人的行为完全符合该罪的构成要件。\n\n第三，关于社会危害性。被告人作为国有公司管理人员，其行为不仅造成国家财产损失12万余元，还严重损害了政府公信力。根据《刑法》第六十一条，对于犯罪分子决定刑罚的时候，应当根据犯罪的事实、犯罪的性质、情节和对于社会的危害程度，依照本法的有关规定判处。鉴于被告人的特殊身份和行为的恶劣影响，应当从重处罚。\n\n第四，关于证据效力。所有书证均经合法程序调取，评估机构具有法定资质；证人证言经交叉询问核实，内容相互印证；被告人的职务身份通过工商登记等书证证实，证据链条完整，足以认定犯罪事实。\n\n综上，被告人展某的行为已构成诈骗罪，犯罪事实清楚，证据确实充分，请法庭依法判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于主观故意问题。根据被告人供述及证人朱某、张某乙的证言，测量时被告人不在场，评估公司将公房计入私房面积系工作失误所致。根据《刑法》第十四条，故意犯罪需具备明知且希望或放任的主观状态。本案中被告人未参与测量过程，也未主动提供虚假信息，缺乏诈骗的主观故意。\n\n第二，关于客观行为问题。维修费39910元系青投公司要求评估公司添加，并非被告人主动提出。根据《刑法》第二百六十六条，诈骗罪需具备虚构事实或隐瞒真相的行为。被告人基于对专业评估机构的合理信赖接受评估结果，不存在主动欺骗行为。\n\n第三，关于社会危害性问题。被告人实际建造的私房确实存在，补偿具有事实基础。款项主要用于公司运营支出，未用于个人消费。根据《刑法》第六十一条，量刑应考虑犯罪情节和社会危害程度。本案中被告人的行为社会危害性较小。\n\n第四，关于证据效力问题。评估报告虽由专业机构出具，但将公房计入私房面积系评估公司工作失误，与被告人无关。测量人员是根据青投公司工作人员指示进行测量，而非被告人提供虚假信息或主动误导。\n\n综上，本案证据不足以证明被告人具有诈骗的主观故意和客观行为，建议法庭充分考虑上述情节，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，被告人作为国有公司总经理，明知老锅炉房为公房且已获公房赔付，却在评估报告出具后未提出任何异议，其不作为行为已构成《刑法》第十四条规定的放任型故意。评估报告错误并非被告人不知情，而是其明知错误却故意不纠正。\n\n关于客观行为问题，被告人虽未直接参与测量，但其作为被征收房屋的权利人，在签订补偿协议时未履行最基本的核实义务，放任错误评估结果发生，符合《刑法》第二百六十六条规定的隐瞒真相的行为方式。\n\n关于社会危害性问题，被告人作为国有公司管理人员，其行为不仅造成国家财产损失，更严重破坏了国有资产管理秩序，损害了政府公信力。根据《刑法》第六十一条规定，应当从重处罚。\n\n关于证据效力问题，评估报告虽由专业机构出具，但被告人作为具有专业管理知识的国有公司负责人，应当且能够识别报告中的明显错误。其未提出异议的行为与评估错误具有直接因果关系。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，评估报告错误系评估公司工作失误所致，被告人未参与测量过程，无法对评估结果施加影响。根据《刑法》第十四条，故意犯罪需具备明知且希望或放任的主观状态，但本案中被告人基于对专业评估机构的合理信赖接受评估结果，不存在放任的主观故意。\n\n关于客观行为问题，公诉人指控被告人未履行核实义务构成不作为犯罪，但根据《城市房屋拆迁管理条例》规定，被征收方并无义务主动核实评估报告中的权属情况。评估公司作为专业机构应当自行核实房屋权属，被告人未提出异议的行为不构成刑法意义上的隐瞒真相。\n\n关于社会危害性问题，被告人实际建造的私房确实存在，补偿具有事实基础。款项主要用于公司运营支出，未用于个人消费，社会危害性显著低于普通诈骗案件。根据《刑法》第六十一条，量刑应充分考虑这一情节。\n\n关于证据效力问题，公诉人未能提供任何直接证据证明被告人存在诈骗的主观故意。评估报告错误与被告人的行为之间缺乏刑法上的因果关系，不能仅凭被告人未提出异议就推定其具有犯罪故意。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，评估报告明确将公房计入私房补偿范围，被告人作为国有公司管理人员，在明知老锅炉房权属的情况下，未履行最基本的核实义务，其不作为行为已构成《刑法》第十四条规定的放任型故意。评估报告错误与被告人的职务身份和专业认知能力直接相关。\n\n关于客观行为问题，被告人虽未直接参与测量，但其作为被征收房屋的权利人，在签订补偿协议时未对明显错误的评估结果提出异议，符合《刑法》第二百六十六条规定的隐瞒真相的行为方式。被告人的不作为与评估错误具有直接因果关系。\n\n关于社会危害性问题，被告人作为国有公司负责人，其行为不仅造成国家财产损失，更严重破坏了国有资产管理秩序。根据《刑法》第六十一条规定，应当从重处罚。被告人的特殊身份加重了其行为的社会危害性。\n\n关于证据效力问题，评估报告虽由专业机构出具，但被告人作为具有专业管理知识的国有公司负责人，应当且能够识别报告中的明显错误。其未提出异议的行为与评估错误具有直接因果关系，证据链条完整。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，评估报告错误系评估公司独立工作失误，与被告人无直接关联。根据《刑法》第十四条，犯罪故意需具备明知且希望或放任的主观状态，但本案中被告人既未参与测量过程，也未对评估人员施加任何影响，缺乏构成诈骗罪的主观要件。\n\n关于客观行为问题，维修费39910元系青投公司要求评估公司添加，被告人未主动提出该要求。根据《刑法》第二百六十六条，诈骗罪需具备虚构事实或隐瞒真相的积极行为，而被告人基于对专业评估机构的合理信赖接受评估结果，不构成刑法意义上的欺骗行为。\n\n关于社会危害性问题，被告人实际建造的私房确实存在，补偿具有事实基础。款项主要用于公司运营支出，未用于个人消费，社会危害性显著低于普通诈骗案件。根据《刑法》第六十一条，量刑应充分考虑这一情节。\n\n关于证据效力问题，公诉人未能提供任何直接证据证明被告人存在诈骗的主观故意。评估报告错误与被告人的行为之间缺乏刑法上的因果关系，不能仅凭被告人未提出异议就推定其具有犯罪故意。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人主观故意和客观行为已充分发表意见，接下来的辩论请围绕被告人作为国有公司总经理的身份是否影响行为定性展开，重点查明被告人在补偿款使用过程中是否存在利用职务便利的情形，以及其职责范围是否包含对评估报告的审核义务。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人职务身份问题，根据工商登记及证人毛某、张某丁的证言，被告人作为华亿公司总经理，职责明确包含对国有资产的监督管理。根据《企业国有资产法》第四十五条，国家出资企业的董事、监事、高级管理人员应当遵守法律、行政法规以及企业章程，对企业负有忠实义务和勤勉义务。被告人在评估报告审核环节未履行应尽的勤勉义务，放任国有资产流失，其不作为行为与职务身份直接相关。\n\n关于补偿款使用问题，虽然被告人辩称款项用于公司运营，但根据《刑法》第九十一条规定，公共财产包括国有财产。被告人作为国有公司管理人员，将本应属于国家的补偿款据为己有，已构成利用职务便利非法占有公共财物。\n\n关于评估报告审核义务问题，根据《国有资产评估管理办法》第十条规定，国有资产占有单位对评估报告负有审核义务。被告人作为华亿公司总经理，明知评估报告存在明显错误却未提出异议，违反了其作为国有资产管理者的法定职责。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人职务身份问题，华亿公司作为被征收方，被告人的职责范围不包含对评估报告的审核义务。根据《城市房屋拆迁管理条例》规定，评估报告应由评估机构独立完成并承担责任。被告人作为被征收方代表，基于对专业评估机构的合理信赖接受评估结果，不存在违反勤勉义务的情形。\n\n关于补偿款使用问题，款项确实用于公司运营支出，有相关财务凭证为证。根据《刑法》第九十一条规定，公共财产需具备权属明确性。本案补偿款系针对私房征收，权属存在争议，不能简单认定为公共财产。\n\n关于评估报告审核义务问题，《国有资产评估管理办法》第十条规定的审核义务针对的是国有资产占有单位主动委托的评估行为。本案评估由征收方青投公司组织，华亿公司作为被征收方不承担审核义务。被告人未提出异议的行为不构成职务违规。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人职务身份与行为定性已充分发表意见，接下来的辩论请围绕诈骗金额的认定标准问题展开，重点查明老锅炉房补偿和维修费补偿的具体构成及被告人的参与程度。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于诈骗金额认定问题，评估报告明确将老锅炉房71.82平方米计入私房补偿范围，评估价值120729元。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，诈骗公私财物价值三万元至十万元以上的，应当认定为\"数额巨大\"。被告人作为被征收方权利人在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为与诈骗金额的形成具有直接因果关系。\n\n关于维修费39910元，虽由青投公司提出，但被告人作为受益人未对虚构的维修费用提出异议，且在签订补偿协议时接受了该款项。根据《刑法》第二百六十六条，诈骗金额应当包括行为人实际非法占有的全部数额。被告人对两项补偿款均具有非法占有故意，应当累计计算诈骗金额。\n\n被告人的参与程度方面，虽未直接参与测量，但其作为国有公司管理人员，在评估报告出具后未履行最基本的核实义务，放任错误评估结果发生，其不作为行为与诈骗金额的形成具有直接因果关系。根据《刑法》第二十三条，已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。本案诈骗金额认定应当以评估报告确定的全部数额为准。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于诈骗金额认定问题，评估报告将老锅炉房计入私房面积系评估公司工作失误所致。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，诈骗罪需具备非法占有的主观故意。被告人未参与测量过程，也未对评估人员施加影响，缺乏对错误评估结果的主观故意。\n\n关于维修费39910元，该款项系青投公司要求评估公司添加，被告人未主动提出要求。根据《刑法》第二百六十六条，诈骗金额认定应以行为人主动实施的欺骗行为为限。被告人对该款项的取得不存在主观故意。\n\n被告人的参与程度方面，其作为被征收方，基于对专业评估机构的合理信赖接受评估结果，不存在刑法意义上的不作为犯罪。评估报告错误与被告人的行为之间缺乏刑法上的因果关系。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对诈骗金额认定问题已充分发表意见，接下来的辩论请围绕犯罪形态的认定问题展开，重点查明款项是否已被追回或实际控制，以及被告人对款项的实际支配情况。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于犯罪形态问题，根据《刑法》第二十三条，已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。本案中被告人已实际签订补偿协议并取得补偿款，款项已由被告人实际控制并用于公司运营支出，根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，诈骗罪既遂以行为人实际控制财物为标准。被告人的行为已构成诈骗罪既遂。\n\n关于款项追回情况，根据被告人供述，案发后其未主动退还相关款项，也未采取任何补救措施。根据《刑法》第六十四条，犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。本案中12万余元补偿款至今未被追回，国家财产损失已经实际发生。\n\n关于款项支配情况，被告人虽辩称款项用于公司运营，但根据《刑法》第九十一条规定，公共财产包括国有财产。被告人作为国有公司管理人员，将本应属于国家的补偿款据为己有，已实际支配该款项，符合诈骗罪既遂的构成要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于犯罪形态问题，根据《刑法》第二十三条规定，犯罪未遂需具备已经着手实行犯罪这一要件。本案中被告人并未实施任何主动欺骗行为，评估报告错误系评估公司工作失误所致，被告人基于合理信赖接受评估结果，不符合诈骗罪的构成要件，更谈不上犯罪既遂或未遂的问题。\n\n关于款项支配情况，补偿款确实用于公司运营支出，有相关财务凭证为证。根据《刑法》第九十一条规定，公共财产需具备权属明确性。本案补偿款系针对私房征收，权属存在争议，不能简单认定为公共财产。被告人作为公司负责人，按照公司财务制度使用资金，不存在非法占有目的。\n\n关于款项追回情况，虽然款项未被主动退还，但根据《刑法》第六十四条规定，追缴或退赔的前提是构成犯罪。本案被告人的行为不构成犯罪，因此不存在追缴或退赔的法律基础。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对犯罪形态认定问题已充分发表意见，接下来的辩论请围绕补偿款的实际用途问题展开，重点查明被告人所称用于公司运营的具体财务凭证，以确定款项流向与被告人主张是否一致。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于补偿款用途问题，根据被告人供述，其未提供任何财务凭证证明款项用于公司运营。根据《刑事诉讼法》第五十三条，对一切案件的判处都要重证据，重调查研究，不轻信口供。被告人仅凭口头辩解无法证明款项实际用途。\n\n根据《刑法》第九十一条规定，公共财产包括国有财产。被告人作为国有公司管理人员，将本应属于国家的补偿款据为己有，无论其声称用于何种用途，均不影响非法占有目的的认定。\n\n辩护人主张款项用于公司运营，但未能提供任何财务凭证予以佐证。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十二条，应当运用证据证明的案件事实包括被告人有无刑事责任能力、有无罪过等。本案中被告人对款项的非法占有目的已通过其明知评估错误却未提出异议的行为得到充分证明。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于补偿款用途问题，根据公司财务制度，华亿公司作为国有企业，所有资金使用均需经过正规审批程序。被告人作为公司负责人，使用补偿款支付员工工资和运营支出符合公司财务管理规定。根据《刑事诉讼法》第五十三条，公诉机关负有举证责任，如对款项用途存疑应提供相反证据。\n\n根据《刑法》第九十一条规定，公共财产的认定需以权属明确为前提。本案补偿款系针对私房征收产生，权属存在争议，不能简单认定为公共财产。被告人按照公司正常财务流程使用资金，不存在非法占有目的。\n\n辩护人注意到公诉人未提供任何证据证明款项被用于个人消费。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十二条，公诉机关应就指控的犯罪事实承担举证责任。在缺乏相反证据的情况下，应采信被告人的合理说明。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对补偿款用途问题已充分发表意见，接下来的辩论请围绕评估报告出具后被告人的反应问题展开，重点查明被告人看到评估报告后未提出异议的具体原因，以及其专业背景和职责要求是否应当使其对评估报告中的错误具有识别能力，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于评估报告问题，被告人作为国有公司总经理，具有专业管理知识和国有资产监管职责。根据《企业国有资产法》第四十五条，其对评估报告负有审核义务。评估报告将公房71.82平方米错误计入私房补偿范围，这一明显错误应当被具有专业背景的被告人识别。其未提出异议的行为，符合《刑法》第十四条规定的放任型故意。\n\n被告人的专业背景使其对房屋权属具有明确认知能力。根据证人张某甲、薄某的证言，被告人参与了公房确认工作，明确知晓老锅炉房为公房的事实。评估报告中的错误并非难以识别，被告人未履行最基本的核实义务，其不作为与诈骗结果具有直接因果关系。\n\n关于未提出异议的原因，被告人在供述中承认看到评估报告内容，但仅以\"信任评估公司专业性\"为由推卸责任。这种辩解与其作为国有资产管理者的职责要求明显不符。根据《刑法》第二百六十六条，不作为的隐瞒真相同样构成诈骗罪的客观要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于评估报告问题，被告人虽担任华亿公司总经理，但其职责范围不包含对评估报告的审核义务。根据《城市房屋拆迁管理条例》规定，评估报告应由评估机构独立完成并承担责任。被告人作为被征收方，基于对专业评估机构的合理信赖接受评估结果，符合常理。\n\n被告人的专业背景主要涉及企业管理，而非房地产评估领域。评估报告将公房计入私房面积属于专业技术错误，不应苛求非专业人士必须识别。根据《刑法》第十四条，犯罪故意需具备明知且希望或放任的主观状态，但被告人确实未意识到评估报告存在错误。\n\n关于未提出异议的原因，评估报告由具有资质的专业机构出具，被告人作为非专业人士合理信赖其准确性，不存在放任错误的主观故意。根据《刑法》第二百六十六条，诈骗罪需具备积极欺骗行为，单纯未提出异议不构成刑法意义上的隐瞒真相。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我对本案的事实认定和法律适用有以下陈述：第一，测量时我不在场，没有故意误导评估人员将公房计入私房面积；第二，维修费是青投公司要求评估公司添加的，并非我主动提出；第三，我建造的私房确实存在，没有虚构事实的故意；第四，我基于对专业评估机构的合理信赖接受了评估结果，没有非法占有的主观故意。请求法庭充分考虑这些事实，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "新疆生产建设兵团五家渠垦区人民法院\n刑事判决书\n（2016）五垦刑初字第112号\n\n公诉机关新疆生产建设兵团五家渠垦区人民检察院。\n\n被告人展某，男，汉族，XXX年X月X日出生，户籍XXXXX，文化程度XXX，原任新疆生产建设兵团101团华亿公司总经理（正科级）。因涉嫌犯诈骗罪，于2015年9月29日被刑事拘留，同年10月2日延长拘留期限至10月29日，同年11月5日被释放并变更强制措施为监视居住；2016年3月29日因涉嫌犯国有公司人员滥用职权罪、诈骗罪被刑事拘留，同年4月7日被批准逮捕。现羁押于五家渠市看守所。\n\n辩护人XXX，XXX律师事务所律师。\n\n新疆生产建设兵团五家渠垦区人民检察院于2016年12月26日以被告人展某犯诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。五家渠垦区人民检察院检察员XXX出庭支持公诉，被告人展某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n新疆生产建设兵团五家渠垦区人民检察院指控：2012年6月，被告人展某作为101团华亿公司总经理，在参与101团二连公房征收工作期间，通过隐瞒真相的方式，使测量人员误将面积为71.82平方米的老锅炉房（公房）计入其私房面积进行评估，骗取补偿款120729元。其行为已构成诈骗罪，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。\n\n被告人展某辩称测量时不在场，没有故意误导测量人员将公房计入私房面积，维修费39910元是青投公司要求评估公司添加的，并非其主动提出要求。辩护人提出评估报告错误系评估公司工作失误所致，被告人不存在诈骗的主观故意。\n\n经审理查明：2012年6月，青投公司组织对被告人展某位于101团二连的私房进行测量评估。测量过程中，测量人员误将面积为71.82平方米的老锅炉房（公房）计入展某私房面积，评估价值120729元。2012年7月18日，展某妻子吴某与天新房地产公司签订《协议搬迁补偿书》，同年9月19日签订《搬迁补偿补充协议书》，共获取补偿款120729元。上述事实有下列证据证实：\n1. 评估报告、付款审批表等书证；\n2. 证人吴某、唐某、冯某等人的证言；\n3. 被告人展某的供述。\n\n本院认为，被告人展某作为国有公司管理人员，在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为构成诈骗罪。鉴于被告人实际建造的私房确实存在，且评估错误主要由评估公司工作失误造成，可酌情从轻处罚。依照《中华人民共和国刑法》第二百六十六条、第七十二条之规定，判决如下：\n\n一、被告人展某犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币二万元；\n二、责令被告人展某退赔违法所得人民币120729元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向新疆生产建设兵团第六师中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2016年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人展某是否具有非法占有的主观故意。需要查明被告人在测量过程中是否存在主动虚构事实或隐瞒真相的行为，以及其对评估人员将公房计入私房面积的主观认知状态。\n\n2.评估报告中将老锅炉房计入被告人私房面积的具体过程及责任归属。需要查明评估人员误将公房计入私房面积的具体原因，以及被告人在此过程中是否起到诱导或默许作用。\n\n3.被告人作为国有公司总经理的身份是否影响其行为定性。需要查明被告人在拆迁补偿工作中是否利用了职务便利，其行为是否可能构成贪污罪而非诈骗罪。\n\n4.诈骗金额的认定标准。需要明确120729元补偿款中哪些部分属于不当得利，以及被告人对该金额的主观认知程度。\n\n5.犯罪形态的认定。公诉机关认为犯罪未遂，需要查明被告人的行为是否已经实际获得补偿款，以及未遂情节的具体表现。\n\n6.量刑情节的考量。需要查明被告人是否有自首、退赃、认罪认罚等从轻或减轻处罚的情节。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第二十三条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第二十三条": "已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。对于未遂犯，可以比照既遂犯从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "拆迁补偿中虚构房屋面积骗取补偿款的行为如何认定诈骗罪",
+              "国有公司人员利用职务便利骗取拆迁补偿款的定罪量刑标准"
+            ],
+            "拆迁补偿中虚构房屋面积骗取补偿款的行为如何认定诈骗罪": "### 结论\n在拆迁补偿中，行为人以非法占有为目的，通过虚构房屋面积、伪造房产证、隐瞒真相等手段骗取补偿款的行为，构成诈骗罪。如果行为人利用职务便利，其行为可能构成贪污罪。在认定诈骗罪时，需考虑行为人的主观目的、虚构事实的程度、是否利用职务便利、是否与国家工作人员勾结等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观目的**：行为人是否以非法占有为目的，虚构事实或隐瞒真相，是构成诈骗罪的关键。例如，【（2017）辽01刑初108号】中，被告人赵某甲伪造房产证，意图提高补偿标准，具有非法占有的目的，构成合同诈骗罪。\n- **虚构事实的程度**：虚构房屋面积、伪造房产证等行为，是构成诈骗罪的重要因素。如【（2019）闽0802刑初36号】中，被告人张荣生虚构其为被拆迁房屋的所有权人，骗取拆迁补偿款，构成诈骗罪。\n- **是否利用职务便利**：如果行为人利用职务便利，可能构成贪污罪。如【（2020）鄂05刑终79号】中，被告人陈某作为村基层组织人员，利用职务便利，采取虚构事实、隐瞒真相等手段，非法将公共财物占为己有，构成贪污罪。\n- **是否与国家工作人员勾结**：与国家工作人员勾结，可能构成贪污罪的共犯。如【（2014）鄂武汉中刑终字第00696号】中，原审被告人桂红林未正确履行职责，与上诉人刘长安共谋违法建房，骗取国家拆迁补偿款，构成诈骗罪，且桂红林为主犯。\n\n综上，拆迁补偿中虚构房屋面积骗取补偿款的行为，构成诈骗罪的关键在于行为人的非法占有目的、虚构事实的程度、是否利用职务便利以及是否与国家工作人员勾结。在具体案件中，法院会综合考虑上述因素，判断行为人的行为是否构成诈骗罪或贪污罪。\n\n#####\n类似案件为：\n【（2017）辽01刑初108号】：法院认为，赵某甲以非法占有为目的，虚构无产籍161.78平房产具有产籍的事实，与沈阳市铁西区土地储备交易中心签订房屋拆迁补偿协议，骗取补偿款，数额巨大，其行为构成合同诈骗罪。赵某甲的244.77平房产与相邻房产一致，应按同一标准补偿；王兴红砖厂动迁补偿主体确认过程中，赵某甲不存在虚构事实或隐瞒真相，不构成诈骗罪。被告人赵某甲犯合同诈骗罪，判处有期徒刑三年，并处罚金五万元。责令赵某甲退赔沈阳市铁西区土地储备交易中心合同诈骗款二十万五千六百二十二元。\n辽宁省沈阳市中级人民法院判决，被告人赵某甲犯合同诈骗罪，判处有期徒刑三年，并处罚金五万元，退赔沈阳市铁西区土地储备交易中心合同诈骗款二十万五千六百二十二元。\n【（2019）闽0802刑初36号】：法院认为，被告人张荣生以非法占有为目的，采用虚构事实、隐瞒真相的方法骗取拆迁补偿款，数额特别巨大，其行为构成诈骗罪。张荣生虽与征收单位签订补偿协议，但双方非市场经营主体，签订合同非市场交易行为，未侵犯市场交易秩序，故不应定性为合同诈骗罪。一、被告人张荣生犯诈骗罪，判处有期徒刑六年六个月，并处罚金人民币十万元（限于本判决生效之日起十日内缴清）。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年8月30日起至2025年2月28日止）\n 二、扣押在公安机关的赃款886564.71元，由公安机关依法归还龙岩市赣龙铁路扩能工程建设协调指挥部办公室。\n【（2014）鄂武汉中刑终字第00696号】：法院认为，桂红林、刘长安以非法获利为目的，在征地范围内违法建房，虚构房屋归属，隐瞒房屋性质，在华宇集团整体拆迁中骗取国家拆迁补偿款322万余元，行为构成诈骗罪，且数额特别巨大。桂红林为主犯，有自首情节；刘长安为从犯，有退出全部赃款的情节。法院判处桂红林犯诈骗罪，判处有期徒刑五年，并处罚金人民币五千元；刘长安犯诈骗罪，判处有期徒刑五年，并处罚金人民币五千元；桂红林、刘长安的犯罪所得予以没收，上缴国库。",
+            "国有公司人员利用职务便利骗取拆迁补偿款的定罪量刑标准": "### 结论\n国有公司人员利用职务便利骗取拆迁补偿款的行为，根据其行为性质和数额，可能构成贪污罪或诈骗罪，具体定罪量刑需考虑行为人的主体身份、行为手段、犯罪数额及是否具有从轻或减轻处罚的情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第三百八十二条**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。\n- **《中华人民共和国刑法》第三百八十三条**：对犯贪污罪的，根据情节轻重，分别依照下列规定处罚：（一）贪污数额较大或者有其他较重情节的，处三年以下有期徒刑或者拘役，并处罚金。（二）贪污数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金或者没收财产。（三）贪污数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产；数额特别巨大，并使国家和人民利益遭受特别重大损失的，处无期徒刑或者死刑，并处没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主体身份**：行为人是否属于国家工作人员或受委托管理、经营国有财产的人员。例如，【（2019）京刑终115号】中，黄某作为村基层组织人员，利用职务便利骗取国家拆迁补偿资金，构成贪污罪；【（2019）津0104刑初456号】中，齐欣身为国有公司中从事公务的人员，利用职务便利骗取国家房屋拆迁安置补偿款，构成贪污罪。\n- **行为手段**：行为人是否利用职务便利，采取虚构事实、隐瞒真相等手段骗取拆迁补偿款。例如，【（2019）津0104刑初456号】中，齐欣利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，构成贪污罪。\n- **犯罪数额**：骗取的拆迁补偿款数额是否达到数额较大、数额巨大或数额特别巨大的标准。例如，【（2019）京刑终115号】中，黄某骗取国家拆迁补偿资金数额特别巨大，构成贪污罪。\n- **从轻或减轻处罚的情节**：行为人是否具有自首、坦白、退赃、立功等情节。例如，【（2019）津0104刑初456号】中，齐欣归案后能够如实供述挪用公款的犯罪事实，系坦白，且在案发后主动退缴了全部涉案款，确有悔罪表现，可依法酌情从轻处罚。\n\n综上，国有公司人员利用职务便利骗取拆迁补偿款的定罪量刑，需综合考虑行为人的主体身份、行为手段、犯罪数额及是否具有从轻或减轻处罚的情节。\n\n#####\n类似案件为：\n【（2019）津0104刑初456号】：法院认为，齐欣身为国有公司从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，数额巨大，构成贪污罪；王皓天与齐欣等人相勾结，利用齐欣的职务便利，构成贪污罪共犯。齐欣挪用公款归个人使用，超过三个月未还，数额巨大，构成挪用公款罪。齐欣归案后如实供述挪用公款罪行，构成坦白，王皓天归案后如实供述犯罪事实，构成坦白，且齐欣案发后主动退缴全部涉案款，确有悔罪表现，可从轻处罚。一、被告人齐欣犯贪污罪，判处有期徒刑三年六个月，并处罚金20万元；犯挪用公款罪，判处有期徒刑五年六个月。决定执行有期徒刑七年六个月，并处罚金20万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月31日起至2026年7月30日止。罚金于本判决生效之日起三十日内缴纳）。\n被告人王皓天犯贪污罪，判处有期徒刑一年，并处罚金10万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月18日起至2020年1月17日止。罚金于本判决生效之日起三十日内缴纳）。\n二、本判决生效后，被告人齐欣退交的涉案款共计3182509元中的挪用公款2824420元发还天津市南开房地产开发公司、贪污款358089元依法予以没收。\n【（2019）津0104刑初456号】：法院认为，齐欣身为国有公司从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，数额巨大，构成贪污罪；王皓天与齐欣等人相勾结，利用齐欣的职务便利，构成贪污罪共犯。齐欣挪用公款归个人使用，超过三个月未还，数额巨大，构成挪用公款罪。齐欣归案后如实供述挪用公款罪行，构成坦白，王皓天归案后如实供述犯罪事实，构成坦白，且齐欣案发后主动退缴全部涉案款，确有悔罪表现，可从轻处罚。一、被告人齐欣犯贪污罪，判处有期徒刑三年六个月，并处罚金20万元；犯挪用公款罪，判处有期徒刑五年六个月。决定执行有期徒刑七年六个月，并处罚金20万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月31日起至2026年7月30日止。罚金于本判决生效之日起三十日内缴纳）。\n被告人王皓天犯贪污罪，判处有期徒刑一年，并处罚金10万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月18日起至2020年1月17日止。罚金于本判决生效之日起三十日内缴纳）。\n二、本判决生效后，被告人齐欣退交的涉案款共计3182509元中的挪用公款2824420元发还天津市南开房地产开发公司、贪污款358089元依法予以没收。\n【（2019）津0104刑初456号】：法院认为，齐欣身为国有公司从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，数额巨大，构成贪污罪；王皓天与齐欣等人相勾结，利用齐欣的职务便利，构成贪污罪共犯。齐欣挪用公款归个人使用，超过三个月未还，数额巨大，构成挪用公款罪。齐欣归案后如实供述挪用公款罪行，构成坦白，王皓天归案后如实供述犯罪事实，构成坦白，且齐欣案发后主动退缴全部涉案款，确有悔罪表现，可从轻处罚。一、被告人齐欣犯贪污罪，判处有期徒刑三年六个月，并处罚金20万元；犯挪用公款罪，判处有期徒刑五年六个月。决定执行有期徒刑七年六个月，并处罚金20万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月31日起至2026年7月30日止。罚金于本判决生效之日起三十日内缴纳）。\n被告人王皓天犯贪污罪，判处有期徒刑一年，并处罚金10万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月18日起至2020年1月17日止。罚金于本判决生效之日起三十日内缴纳）。\n二、本判决生效后，被告人齐欣退交的涉案款共计3182509元中的挪用公款2824420元发还天津市南开房地产开发公司、贪污款358089元依法予以没收。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过书证（评估报告、付款审批表等）证明展某虚构老锅炉房为私房的事实，骗取补偿款120729元，符合诈骗罪构成要件。2.证人证言（唐某、冯某等）证实展某利用职务便利误导测量人员，具有非法占有目的。3.展某作为国有公司总经理，其行为社会危害性较大，但鉴于犯罪未遂可从轻处罚。\n防御策略：1.所有书证均经合法程序取得，评估机构具有资质，证据链完整。2.证人证言经法庭质证，内容客观真实，不存在诱导性询问。3.被告人的职务身份通过工商登记等书证证实，与案件具有直接关联性。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第二十三条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第二十三条": "已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。对于未遂犯，可以比照既遂犯从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司人员利用职务便利骗取拆迁补偿款的行为如何定性？",
+              "诈骗罪中非法占有目的的认定标准是什么？"
+            ],
+            "国有公司人员利用职务便利骗取拆迁补偿款的行为如何定性？": "### 结论\n国有公司人员利用职务便利骗取拆迁补偿款的行为构成贪污罪。关键在于行为人是否利用了其在国有公司中的职务便利，以及是否涉及国家财产的非法占有。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百八十二条**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的身份**：行为人是否为国有公司中从事公务的人员，是否具有国家工作人员的身份。例如，【（2019）津0104刑初456号】中，被告人齐欣身为国有公司中从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，构成贪污罪。\n- **职务便利的利用**：行为人是否利用了其在国有公司中的职务便利。例如，【（2019）津0104刑初456号】中，被告人齐欣利用其作为拆迁征收指挥部二组组长的职务便利，审核通过了骗取拆迁安置补偿款的相关手续，构成贪污罪。\n- **非法占有的目的**：行为人是否以非法占有为目的，是否将国家财产非法占为己有。例如，【（2019）津0104刑初456号】中，被告人齐欣将公款归个人使用，超过三个月未还，构成挪用公款罪，同时其伙同他人骗取国家房屋拆迁安置补偿款，构成贪污罪。\n\n综上，国有公司人员利用职务便利骗取拆迁补偿款的行为，构成贪污罪的关键在于行为人是否利用了其在国有公司中的职务便利，以及是否涉及国家财产的非法占有。如果行为人利用职务便利，以非法占有为目的，非法占有国家财产，即构成贪污罪。\n\n#####\n类似案件为：\n【（2019）津0104刑初456号】：法院认为，齐欣身为国有公司从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，数额巨大，构成贪污罪；王皓天与齐欣等人相勾结，利用齐欣的职务便利，构成贪污罪共犯。齐欣挪用公款归个人使用，超过三个月未还，数额巨大，构成挪用公款罪。齐欣归案后如实供述挪用公款罪行，构成坦白，王皓天归案后如实供述犯罪事实，构成坦白，且齐欣案发后主动退缴全部涉案款，确有悔罪表现，可从轻处罚。一、被告人齐欣犯贪污罪，判处有期徒刑三年六个月，并处罚金20万元；犯挪用公款罪，判处有期徒刑五年六个月。决定执行有期徒刑七年六个月，并处罚金20万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月31日起至2026年7月30日止。罚金于本判决生效之日起三十日内缴纳）。\n被告人王皓天犯贪污罪，判处有期徒刑一年，并处罚金10万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月18日起至2020年1月17日止。罚金于本判决生效之日起三十日内缴纳）。\n二、本判决生效后，被告人齐欣退交的涉案款共计3182509元中的挪用公款2824420元发还天津市南开房地产开发公司、贪污款358089元依法予以没收。\n【（2019）津0104刑初456号】：法院认为，齐欣身为国有公司从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，数额巨大，构成贪污罪；王皓天与齐欣等人相勾结，利用齐欣的职务便利，构成贪污罪共犯。齐欣挪用公款归个人使用，超过三个月未还，数额巨大，构成挪用公款罪。齐欣归案后如实供述挪用公款罪行，构成坦白，王皓天归案后如实供述犯罪事实，构成坦白，且齐欣案发后主动退缴全部涉案款，确有悔罪表现，可从轻处罚。一、被告人齐欣犯贪污罪，判处有期徒刑三年六个月，并处罚金20万元；犯挪用公款罪，判处有期徒刑五年六个月。决定执行有期徒刑七年六个月，并处罚金20万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月31日起至2026年7月30日止。罚金于本判决生效之日起三十日内缴纳）。\n被告人王皓天犯贪污罪，判处有期徒刑一年，并处罚金10万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月18日起至2020年1月17日止。罚金于本判决生效之日起三十日内缴纳）。\n二、本判决生效后，被告人齐欣退交的涉案款共计3182509元中的挪用公款2824420元发还天津市南开房地产开发公司、贪污款358089元依法予以没收。\n【（2019）津0104刑初456号】：法院认为，齐欣身为国有公司从事公务的人员，利用职务便利，伙同他人骗取国家房屋拆迁安置补偿款，数额巨大，构成贪污罪；王皓天与齐欣等人相勾结，利用齐欣的职务便利，构成贪污罪共犯。齐欣挪用公款归个人使用，超过三个月未还，数额巨大，构成挪用公款罪。齐欣归案后如实供述挪用公款罪行，构成坦白，王皓天归案后如实供述犯罪事实，构成坦白，且齐欣案发后主动退缴全部涉案款，确有悔罪表现，可从轻处罚。一、被告人齐欣犯贪污罪，判处有期徒刑三年六个月，并处罚金20万元；犯挪用公款罪，判处有期徒刑五年六个月。决定执行有期徒刑七年六个月，并处罚金20万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月31日起至2026年7月30日止。罚金于本判决生效之日起三十日内缴纳）。\n被告人王皓天犯贪污罪，判处有期徒刑一年，并处罚金10万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2019年1月18日起至2020年1月17日止。罚金于本判决生效之日起三十日内缴纳）。\n二、本判决生效后，被告人齐欣退交的涉案款共计3182509元中的挪用公款2824420元发还天津市南开房地产开发公司、贪污款358089元依法予以没收。",
+            "诈骗罪中非法占有目的的认定标准是什么？": "### 结论\n诈骗罪中非法占有目的的认定标准需综合考虑行为人的履约能力、履约行为、对取得财物的处置情况、事后态度以及是否存在欺诈行为。具体而言，行为人是否具有实际履行合同的能力，是否采取了诈骗行为手段，是否具有实际履约行为，未履行合同的原因，对财物的主要处置方式，以及行为人的事后态度是否积极，都是判断非法占有目的的关键因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十二条**：规定以非法占有为目的，使用诈骗方法非法集资，数额较大的，构成集资诈骗罪。\n- **《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第四条第二款**：规定了集资诈骗罪中非法占有目的的认定标准，包括集资后不用于生产经营活动或者用于生产经营活动与筹集资金规模明显不成比例，抽逃、转移资金、隐匿财产，逃避返还资金，以及拒不交代资金去向，逃避返还资金等情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **履约能力**：行为人是否具有实际履行合同的能力是判断非法占有目的的重要因素。例如，【（2019）冀刑再5号】中，法院认为李某胜作为实体企业的经营人，有一定的经济实力，不能仅因合同缔结时的亏损状态就认定其没有履约能力。\n- **履约行为**：行为人是否采取了实际的履约行为，以及履约行为的诚意和程度。如【（2019）苏05刑再5号】中，法院认为倪某某在与尤某某签订拆借资金合同后，有实际的履约行为，不能仅因部分款项未归还就认定其具有非法占有目的。\n- **对取得财物的处置**：行为人对取得的财物的处置方式，如是否用于个人挥霍、非法活动、归还欠款等，是判断非法占有目的的重要依据。如【（2020）鲁1524刑初148号】中，陈某某将吸收的资金用于发放高额服务费、趴点费，肆意挥霍，符合非法占有目的的认定。\n- **事后态度**：行为人事后是否采取积极的补救措施，是否逃避责任，也是判断非法占有目的的重要因素。如【（2021）1002刑初初10号】中，边某山在续贷后未采取积极措施归还贷款，不能认定其主观上具有非法占有目的。\n- **欺诈行为**：行为人是否实施了欺诈行为，以及欺诈行为在签订、履行合同中的作用。如【（2013）沪二中刑终字第145号】中，陆某向被害人隐瞒无法履行合同的事实，收取保证金后未安排施工，符合欺诈行为的认定。\n\n综上，非法占有目的的认定需综合考虑行为人的履约能力、履约行为、对取得财物的处置情况、事后态度以及是否存在欺诈行为。行为人是否具有实际履行合同的能力，是否采取了实际的履约行为，对取得的财物的处置方式，以及行为人事后是否采取积极的补救措施，都是判断非法占有目的的关键因素。\n\n#####\n类似案件为：\n【（2019）冀刑再5号】：对于合同诈骗罪中的“非法占有目的”，主要可以从以下几方面审查：\n（1）关于主体资格是否真实的审查。在正常的经济交易活动中，交易主体签订合同目的是为了履行合同，达到交易的目的，所以交易的主体是真实的。而在刑事诈骗中，行为人签约时往往会以虚假身份出现，以虚构的单位或者假冒他人的名义签订合同从而达到行骗目的。在本案中，原审被告人李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等实体企业的经营人，签订合同使用的主体资格真实，未使用虚假身份。\n（2）关于行为人有无履约能力的审查。对于行为人的履约能力，切忌单纯根据合同缔结时的亏损状态进行认定，应当结合企业整体经营状况、所从事项目的风险等综合判断，如确有必要，可进行整体资产审计。在审查中应注意以下几点：行为人虽不具备全部履约条件，但有证据证明其在履行期限内具有相应的生产经营能力，履约有一定保障的；行为人缔结合同时有履行合同的能力，但在履行合同过程中，由于客观原因丧失了履约能力，导致无力归还他人财物的；行为人签订合同时没有履行合同的能力，但是在取得他人财物后为履行合同做了积极努力，但因其它客观原因丧失归还能力的，上述情形应认定行为人具有一定履约能力。在本案中，齐某水、贾某启、张某均证实李某胜所经营的徐州某钢铁公司当时经营效益较好，生铁刚出来就被买主买走，且李某胜主张有价值16万元的某科技股原始股票和位于徐州市的价值140万元的房产一套，有一定履约能力，但侦查机关未对上述财产状况及其还款能力问题进行调查取证、审计，原裁判认定李某胜没有履约能力的事实不清、证据不足。\n（3）关于实际履行合同的行为的审查。合同诈骗犯罪的行为人在签订合同时或在履行合同过程中没有履行或继续履行合同的主观意思，其目的在于利用签订合同的手段骗取对方财物，一般没有实际履约行为或为履行合同做出积极努力。即使有一些履行合同行为，也不过是为了掩人耳目，对合同条款细枝末节的部分履行一小部分而骗取更多的财物；行为人虽有履行合同的能力，但签订合同后没有为履行合同做任何努力或者仅履行少部分合同，将取得他人财物挥霍、用于其它非经营性活动，丧失归还能力的，应认定行为人具有非法占有的目的。司法实践中，“拆东墙补西墙”的行为不属于履约行为，应认定为行为人主观上具有非占有目的。在本案中，虽然李某胜公司与遵化市某物资经销社存在购销焦炭关系及部分货款未履行的基本事实清楚，但本案涉案的前几笔焦炭，李某胜已经给付了大部分货款。2800吨焦炭发到徐州后，也均用于李某胜公司生产。1998年9月5日，李某胜和张某到遵化齐某水处，与齐某水协商再继续发焦炭，然后三人到山西介休徐某民处，签订了2800吨焦炭还款协议，后李某胜陆续分两次向齐某水支付40万元，其具有积极的履约行为。\n（4）关于未履行合同原因的审查。在合同诈骗犯罪和合同经济纠纷中都会出现行为人没有履行合同的情形，但未履行合同并不一定是合同诈骗，还需具体分析其没有履行合同的主、客观两方面的原因。在合同诈骗犯罪中，行为人主观上逃避履行合同，客观上没有积极促成合同履行的行为，签订合同或收到货款、货物后肆意挥霍、转移隐匿；而在民事合同纠纷中，行为人为了获取经济利益，往往积极促成合同履行，合同最终未履行或未全部履行的原因往往具有正当、合理性。在本案中，根据李某胜供述，其因焦炭存在质量问题及未给其开具增值税发票，故对支付剩余货款存在争议，待争议解决后再行付款，未履约原因应具有正当性，属于平等主体协商调节范围内的行为，即使未履约，仍可通过民事途径予以解决。\n（5）关于是否隐匿、挥霍财产的审查。行为人主观故意不同，对合同标的物的处置方式也会有所不同。行为人将骗取的财物用于个人挥霍、非法活动、归还欠款、非经营性支出等方面的，一般可以认定行为人具有非法占有目的；对于行为人将骗取的资金用于实际经营活动，即使造成资金一定亏损或无法归还的，也不能以合同诈骗罪定罪处罚。这里财物的主要处置形式，指的是全部或大部分资金的走向、用途。在本案中，李某胜作为徐州某钢铁厂、某钢铁炉料有限公司等企业的经营人，有购买焦炭进行生产经营的需要，其向遵化市某物资经销社购买焦炭，焦炭运到徐州后，均用于企业生产，未隐匿、转移、挥霍。\n（6）关于行为人事后态度是否积极的审查。行为人的事后态度，也是区分行为人主观上有无诈骗故意的重要因素。如果行为人因自己的行为导致合同没有履行之后，不是及时通知对方，积极采取补救措施，以减少对方的损失，而是无正当理由搪塞应付，东躲西藏，避而不见，甚至收受对方财物后逃匿，一般可以认定其具有非法占有目的；相反如果行为人事后能积极采取补救措施，用实际行动赔偿或者减少对方损失，则不能认定其具有非法占有目的。值得注意的是，逃匿的原因是携款、财物潜逃还是为躲债隐匿，也应有所区别，单纯的因无法履行合同而躲债逃匿，不应直接认定为具有非法占有目的。在本案中，证人贾某启、齐某生虽然证实，李某胜的办公地点易址、徐州某钢铁公司电话是空号、李某胜手机停机，但李某胜在庭审时供述，其下属的经销公司办公地点确曾换过地方，但钢厂没有换过地方，公司总部也没有换过地方，齐某水的人去过其钢厂。李某胜在再审期间提供了徐州市徐州某钢铁公司电话缴费单、工商登记信息，用以证明其电话没有停机，徐州某钢铁公司没有变更过地址。原裁判认定李某胜办公地点转移、通讯中断、逃避债务的事实不清。\n综上，李某胜作为徐州某钢铁厂、徐州某钢铁公司等实体企业的经营人，主体资格真实，从事钢铁冶炼生产和销售，有一定的经济实力，其从齐某水处购买的焦炭也全部用于公司生产经营，并以现金和以物抵款的方式，陆续支付了齐某水部分焦炭款，认定其主观上具有非法占有目的的证据不充分，本案应属民事纠纷，再审依法对其改判无罪。\n【（2019）苏05刑再5号】：法院生效裁判认为：关于第一审判决认定非法吸收公众存款的事实，原审被告人倪某某对第一审判决查明的非法吸收公众存款的事实及定性均未提出异议。再审针对第一审判决认定的非法吸收公众存款的事实，经查明，与第一审判决一致。\n关于第一审判决认定合同诈骗的事实：（一）原审被告单位、原审被告人倪某某主观上并无“非法占有他人财物”的犯罪故意。经查，原审被告人倪某某与尤某某在2006年秋就拆借资金开始协商，实际达成协议在2007年1月。尤某某向倪某某按协议约定提供借款期间，原审被告单位均处于正常经营状态，2007年度吴江市甲公司在2007年1至5月连续盈利，有一定的净利润。倪某某在与尤某某协商拆借资金之前，倪某某所经营的原审被告单位确已长期存在为经营所需，而非法吸收大量公众存款的事实，但该事实不能就此推定原审被告单位、原审被告人倪某某对变相吸收的借贷资金具有非法占有的主观目的。而从涉案拆借资金合同的实际履行情况看，倪某某在与尤某某签订的持续多笔拆借交易中，案发前已经如约履行多笔拆借，涉案的全部拆借资金中大多数都是如期、足额归还本息的。以原审被告单位、原审被告人倪某某不能按约支付部分拆借本金为由，而认定倪某某在与尤某某协商、签订拆借合同之初，在客观上即不具有清偿的能力，进而推定其在主观上即具有“非法占有”犯罪目的，该事实认定证据不足。\n（二）倪某某并未向尤某某实施“虚构事实、隐瞒真相”等合同诈骗行为。本案涉案交易系由徐某某提出，其分别向倪某某及尤某某推荐了对方，并就合作模式提出了建议。本案现有在案证据不能证实尤某某是在倪某某“虚构事实、隐瞒真相”的欺骗之下、基于错误认识将资金出借给原审被告单位的。尤某某的陈述证实其对于空货流转、拆借资金的交易模式、内容均是明确知悉，且其曾亲自前往倪某某所属的原审被告单位考察并确定倪某某具有一定的经济实力后，为了赚取拆借资金利息而作出的上述借贷行为。\n（三）原审被告单位与扬州戊公司之间拆借资金的行为应当计入倪某某参与的非法吸收公众存款的部分。原审被告单位、原审被告人倪某某向扬州戊公司借款的用途除部分系购买生产原料、经营所用外，另主要用于归还先前非法吸收公众存款的借款本金及利息，这与本案非法吸收公众存款部分中原审被告人倪某某以购买原料等名义，与他人约定高额利息，向他人变相非法吸收公众存款的行为目的、性质相同。因此原审被告人倪某某所属原审被告单位与扬州戊公司之间拆借资金的行为符合非法吸收公众存款的犯罪构成。\n（四）原审被告单位吴江市甲公司、吴江市丁公司、上海丙公司各自参与变相非法吸收扬州戊公司借贷资金总额应分别计入各自犯罪数额。根据倪某某安排，上述原审被告单位分别以签订买卖合同，实现转账付款等方式共同完成变相吸收资金的行为，构成共同犯罪，且在共同犯罪中均起主要作用，均应共同承担向被害单位非法吸收资金的刑事责任，上述原审被告单位非法吸收被害单位资金总额应分别计入上述原审被告单位非法吸收公众存款犯罪的数额中。\n综上，原审被告单位吴江市甲公司、吴江市乙公司、上海丙公司、吴江市丁公司变相非法吸收公众存款，数额巨大，其行为均已构成非法吸收公众存款罪；原审被告人倪某某系上述原审被告单位直接负责的主管人员，应当以非法吸收公众存款罪论处。原审判决认定被告单位吴江市甲公司、吴江市丁公司、上海丙公司构成合同诈骗罪以及对上述单位直接负责的主管人员原审被告人倪某某以合同诈骗罪论处的定性错误，再审予以纠正。\n【（2020）鲁1524刑初148号】：法院生效裁判认为，被告人陈某某以非法占有为目的，使用诈骗方法非法集资，数额巨大，其行为构成集资诈骗罪。关于被告人陈某某的辩护人提出“陈某某不构成集资诈骗罪，构成非法吸收公众存款罪”的辩护意见。经查，陈某某利用虚假或夸大宣传某某实业运作阿胶产业、腐殖酸产业、“洗码”业务等方式欺骗公众，在公司无任何盈利的情况下，用吸收的资金发放高额服务费、趴点费，肆意挥霍，在资金链断裂后转移大量资金购买虚拟币且拒不交代虚拟币下落，致使巨额集资款无法返还。陈某某的行为符合《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》第四条第二款的规定，具有非法占有的目的，应当以集资诈骗罪定罪处罚。故法院依法作出如上裁判。"
+          }
+        },
+        "目标": "请求法院以诈骗罪判处被告人展某有期徒刑三年，缓刑五年，并处罚金人民币10万元",
+        "询问": "1. 被告人展某，你在2012年6月测量房屋时，是否明确告知测量人员老锅炉房属于公房而非你的私房？请具体说明当时的情况。\n\n2. 作为华亿公司总经理，你参与101团二连公房征收工作时，是否清楚老锅炉房已作为公房赔付的事实？为何在评估时未对此进行说明？\n\n3. 关于39910元维修费补偿，你向天新房地产公司提出该要求时，是否提供了真实的维修费用凭证？请说明维修费用的具体构成。\n\n4. 你在2012年9月19日与天新房地产公司签订《搬迁补偿补充协议书》时，是否知晓其中包含对老锅炉房的重复补偿款？\n\n5. 你作为国有公司管理人员，在获取补偿款后，该款项的实际用途是什么？是否用于个人支出？\n\n6. 案发后你是否主动向有关部门说明情况或退还相关款项？采取了哪些补救措施？"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人指控的诈骗罪缺乏被告人主观故意的直接证据，被告人在侦查阶段供述明确表示未主动虚构事实或隐瞒真相2.评估报告将公房计入私房面积系测量人员工作失误所致，现有证据无法证明被告人对错误测量存在教唆或明知3.维修费39910元系青投公司要求评估公司添加，与被告人无关\n防御策略：1.被告人在整个测量过程中未在场，无法对测量结果施加影响2.被告人对房屋权属无隐瞒行为，其私房建设事实存在3.被告人在案发后积极配合调查，无逃避责任行为",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第二十三条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第二十三条": "已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。对于未遂犯，可以比照既遂犯从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "拆迁补偿中误将公房计入私房面积是否构成诈骗罪？",
+              "国有公司人员参与拆迁工作但未主动提供虚假信息是否构成诈骗罪？"
+            ],
+            "拆迁补偿中误将公房计入私房面积是否构成诈骗罪？": "### 结论\n拆迁补偿中误将公房计入私房面积是否构成诈骗罪，关键在于行为人是否具有非法占有的目的，是否采取了虚构事实或隐瞒真相的手段，以及是否造成了国家或他人财产的损失。如果行为人故意误导或欺骗相关部门，将公房面积冒充私房面积以获取更多补偿，且数额较大，可能构成诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观故意**：如果行为人故意采取虚构事实或隐瞒真相的手段，以非法占有为目的，将公房面积冒充私房面积，以获取更多拆迁补偿，可能构成诈骗罪。例如，【（2019）赣1002刑初343号】中，被告人谢平泉、谢春华、廖兰以非法占有为目的，采取冒用他人名义、隐瞒被拆迁房屋所有人真相方式签订征收补偿协议，骗取国家拆迁款81万余元，构成诈骗罪。\n- **行为的客观表现**：行为人是否通过虚构事实或隐瞒真相的方式，使相关部门错误地将公房面积认定为私房面积，从而多获得拆迁补偿。例如，【（2013）饶中刑二终字第53号】中，上诉人鲍敖贵伙同原审被告人徐某甲采用隐瞒真相、虚增拆迁土地面积的方法，多领取国家土地拆迁补偿款人民币1433327.4元，构成诈骗罪。\n- **犯罪数额**：是否达到诈骗罪的数额标准，即数额较大、数额巨大或数额特别巨大。例如，【（2020）闽0111刑初305号】中，被告人隆庆祥、林月榕以非法占有为目的，采取虚构事实、隐瞒真相的手段，合伙骗取拆迁补偿，价值共计20.54万元，数额巨大，构成诈骗罪。\n\n综上，拆迁补偿中误将公房计入私房面积是否构成诈骗罪，主要取决于行为人的主观故意、行为的客观表现以及犯罪数额。如果行为人故意误导相关部门，将公房面积冒充私房面积以获取更多补偿，且数额较大，可能构成诈骗罪。\n\n#####\n类似案件为：\n【（2019）赣1002刑初343号】：法院认为，被告人谢平泉、谢春华、廖兰以非法占有为目的，采取冒用他人名义、隐瞒被拆迁房屋所有人真相方式签订征收补偿协议，骗取国家拆迁款81万余元，构成合同诈骗罪。现有证据不能证实涉案房屋为违章建筑，故指控涉案房屋为违章建筑证据不足。拆迁面积由近300平方米变成400多平方米系测量部门失误，不应计入被告人的诈骗金额。被告人具有自首、积极退赃、认罪态度好等情节。被告人谢平泉犯合同诈骗罪，判处有期徒刑二年零十个月，并处罚金80000元；被告人谢春华犯合同诈骗罪，判处有期徒刑一年零六个月，并处罚金70000元；被告人廖兰犯合同诈骗罪，判处有期徒刑一年零六个月，缓刑一年零六个月，并处罚金60000元。\n【（2013）饶中刑二终字第53号】：法院认为，鲍敖贵与徐某甲以非法占有为目的，采用隐瞒真相、虚增面积方法，多领取1433327.4元国家土地拆迁补偿款，构成诈骗罪，数额特别巨大；鲍敖贵给予国家工作人员4万元，构成行贿罪。\n在共同诈骗犯罪中，鲍敖贵是主犯，徐某甲是从犯，依法应当减轻处罚。鲍敖贵归案后，具有立功表现，依法可减轻处罚。徐某甲具有悔罪表现，且积极退赃，依法可宣告缓刑。原审判决维持对徐某甲的定罪量刑及追缴鲍敖贵、徐某甲非法所得的决定；撤销原审判决对鲍敖贵的量刑，改判鲍敖贵犯诈骗罪，判处五年有期徒刑，罚金五十万；犯行贿罪，判处一年有期徒刑，决定执行五年六个月有期徒刑，罚金五十万。\n【（2020）闽0111刑初305号】：法院认为，被告人隆庆祥、林月榕采取虚构事实、隐瞒真相的手段，合伙骗取拆迁补偿，价值共计20.54万元，数额巨大，构成诈骗罪。二被告人系自首，可从轻处罚；林月榕骗取的安置房公摊补偿面积因意志以外的原因未得逞，系犯罪未遂，可从轻处罚；二被告人积极退赃、缴纳罚金，有悔罪表现，可适用缓刑。一、被告人隆庆祥犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金人民币二万元。\n （缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n 二、被告人林月榕犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金人民币二万元。\n （缓刑考验期限，从判决确定之日起计算。罚金已缴纳）。\n 三、被告人隆庆祥退出的赃款人民币20.54万元予以没收，上缴国库。",
+            "国有公司人员参与拆迁工作但未主动提供虚假信息是否构成诈骗罪？": "### 结论\n国有公司人员参与拆迁工作但未主动提供虚假信息，若其明知虚假信息的存在并从中受益，仍可能构成诈骗罪的共犯。关键在于其是否具有非法占有的目的，是否参与了虚构事实或隐瞒真相的行为，以及是否具有自首、退赃等从轻或减轻处罚的情节。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：法院在判断是否构成诈骗罪时，会重点考察行为人是否具有非法占有的目的。例如，【（2020）内0104刑初292号】中，被告人云柯等人以非法占有为目的，虚构事实、隐瞒真相，骗取拆迁补偿款，构成诈骗罪。\n- **虚构事实或隐瞒真相**：行为人是否通过虚构事实或隐瞒真相的方式骗取财物，是构成诈骗罪的关键。如【（2017）京刑再4号】中，梁宝君提供虚假的合同、发票及收据，骗取拆迁补偿款，构成诈骗罪。\n- **自首、退赃等情节**：行为人是否具有自首、退赃等从轻或减轻处罚的情节，也会影响最终的判决。例如，【（2020）内0104刑初292号】中，被告人云柯主动退回违法所得，确有悔罪表现，法院酌情从轻处罚。\n\n综上，国有公司人员参与拆迁工作，即使未主动提供虚假信息，但若其明知虚假信息的存在并从中受益，且具有非法占有的目的，仍可能构成诈骗罪。自首、退赃等情节可作为从轻或减轻处罚的考量因素。\n\n#####\n类似案件为：\n【（2020）内0104刑初292号】：法院认为，被告人云柯、冯海飞、姚栓梅、田福义以非法占有为目的，虚构事实、隐瞒真相，骗取数额特别巨大的拆迁补偿款，其行为已构成诈骗罪。鉴于四被告人均具有自首、认罪认罚等情节，依法可以从轻或减轻处罚，其中云柯主动退回违法所得，可酌情从轻处罚。法院判决如下：\n一、冯海飞犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n二、姚栓梅犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n三、田福义犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n四、云柯犯诈骗罪，判处有期徒刑六年，并处罚金人民币二万元。\n五、对四被告人违法所得693660元，依法继续予以追缴，责令退赔玉泉区南三环征收指挥部（云柯已退439303元）。\n六、对用于犯罪的人民币5000元，依法予以没收，上缴国库。\n【（2017）京刑再4号】：法院认为，星光中心及直接负责的主管人员梁宝君，为获取不正当利益，给予国家工作人员财物，构成单位行贿罪，情节严重；梁宝君以非法占有为目的，提供虚假资料骗取拆迁补偿款，构成诈骗罪，且数额特别巨大，应与单位行贿罪并罚。梁宝君属于累犯，应从重处罚。鉴于其亲属代为退缴全部涉案赃款，梁宝君有一定的悔罪表现，予以从轻处罚。星光中心犯单位行贿罪，判处罚金人民币二十万元；梁宝君犯单位行贿罪，判处有期徒刑二年；犯诈骗罪，判处有期徒刑三年，并处罚金人民币十万元，决定执行有期徒刑三年六个月，并处罚金人民币十万元。扣押在案的梁宝君亲属代为退缴的违法所得中1327719.98元作为违法所得和对被告单位判处的罚金予以没收，上缴国库，其余部分发还梁宝君及亲属。\n本判决为终审判决。\n【（2020）内0104刑初292号】：法院认为，被告人云柯、冯海飞、姚栓梅、田福义以非法占有为目的，虚构事实、隐瞒真相，骗取数额特别巨大的拆迁补偿款，其行为已构成诈骗罪。鉴于四被告人均具有自首、认罪认罚等情节，依法可以从轻或减轻处罚，其中云柯主动退回违法所得，可酌情从轻处罚。法院判决如下：\n一、冯海飞犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n二、姚栓梅犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n三、田福义犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n四、云柯犯诈骗罪，判处有期徒刑六年，并处罚金人民币二万元。\n五、对四被告人违法所得693660元，依法继续予以追缴，责令退赔玉泉区南三环征收指挥部（云柯已退439303元）。\n六、对用于犯罪的人民币5000元，依法予以没收，上缴国库。"
+          }
+        },
+        "目标": "请求法院判处被告人展某无罪",
+        "询问": "1. 被告人展某，在测量人员对房屋进行测量评估时，你是否在场？是否向测量人员明确指示过哪些房屋属于你的私房？\n\n2. 关于老锅炉房被计入你的私房面积一事，你是否事先知情？是否曾向测量人员或相关工作人员表示过该锅炉房属于你的私房？\n\n3. 维修费39910元的补偿要求是由谁提出的？你是否参与制定或提供过相关维修费用清单？\n\n4. 作为华亿公司总经理，你在101团二连公房征收工作中具体负责哪些工作？是否参与过公房与私房的确认工作？\n\n5. 你在获得补偿款后，是否曾向相关部门反映过评估报告中可能存在错误的情况？\n\n6. 你与妻子吴某在签订搬迁补偿协议时，是否清楚协议中涉及的房屋面积和补偿金额的具体计算依据？\n\n7. 关于公诉人指控你骗取补偿款120729元，你认为这笔款项的取得是否存在不当之处？请说明理由。"
+      },
+      "被告人": {
+        "策略": "防御策略：1.坚持未主动虚构事实或隐瞒真相的供述，强调测量时不在场，无法对测量结果施加影响 2.指出评估报告将公房计入私房面积系测量人员工作失误所致，无证据证明被告人对错误测量存在教唆或明知 3.说明维修费39910元系青投公司要求评估公司添加，与被告人无关 4.强调被告人对房屋权属无隐瞒行为，其私房建设事实存在 5.指出被告人在案发后积极配合调查，无逃避责任行为",
+        "记忆": "",
+        "目标": "请求法院判处被告人展某无罪"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人展某是否具有非法占有的主观故意。查明情况：公诉人认为被告人在测量过程中存在默许评估人员将公房计入私房面积的行为，且未主动说明权属情况；辩护人主张被告人不在场且未主动提供虚假信息。审判长认为需要进一步查明被告人对评估报告错误的主观认知程度。\n\n2.评估报告中将老锅炉房计入私房面积的具体过程及责任归属。查明情况：被告人坚称测量时不在场且未参与评估过程，但作为被征收方未对明显错误的评估报告提出异议。审判长认为需要结合证人证言进一步核实测量过程的具体情况。\n\n3.被告人作为国有公司总经理的身份是否影响行为定性。查明情况：目前双方未就此展开充分辩论。审判长认为需要查明被告人在补偿款使用过程中是否存在利用职务便利的情形。\n\n4.诈骗金额的认定标准。查明情况：公诉人指控120729元为诈骗金额，被告人辩称该金额系评估公司自主确定。审判长认为需要区分老锅炉房补偿与维修费补偿的具体构成。\n\n5.犯罪形态的认定。查明情况：公诉机关认为犯罪未遂，但被告人已实际获得补偿款。审判长认为需要明确款项是否已被追回或实际控制。\n\n6.量刑情节的考量。查明情况：被告人未主动退赃或采取补救措施，但案件曾因证据不足变更强制措施。审判长认为需要综合评估案件的特殊情况。\n\n7.补偿款的实际用途。查明情况：被告人称用于公司运营，但未提供具体财务凭证。审判长认为需要调取相关财务记录进行核实。\n\n8.评估报告出具后被告人的反应。查明情况：被告人承认看到报告但未提出异议，辩称信任评估公司专业性。审判长认为需要评估这种不作为的主观过错程度。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第三百八十二条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第三百八十二条": "国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。受国家机关、国有公司、企业、事业单位、人民团体委托管理、经营国有财产的人员，利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有国有财物的，以贪污论。与前两款所列人员勾结，伙同贪污的，以共犯论处。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司管理人员在拆迁补偿中获取不当利益如何定性？",
+              "诈骗罪与贪污罪在主观故意方面的区别是什么？"
+            ],
+            "国有公司管理人员在拆迁补偿中获取不当利益如何定性？": "### 结论\n国有公司管理人员在拆迁补偿中获取不当利益的行为，如果缺乏合法依据，通常被定性为不当得利，需承担返还责任及可能的赔偿责任。若行为涉及利用职务便利，损害国家利益，可能构成犯罪，如行贿罪。\n\n### 核心法条\n- **《中华人民共和国民法典》第九百八十五条**：得利人没有法律根据取得不当利益的，受损失的人可以请求得利人返还取得的利益，但是有下列情形之一的除外：（一）为履行道德义务进行的给付；（二）债务到期之前的清偿；（三）明知无给付义务而进行的债务清偿。\n- **《中华人民共和国民法典》第九百八十七条**：得利人明知或者应当知道取得的利益没有法律根据的，受损失的人可以请求得利人返还其取得的利益并依法赔偿损失。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否具有合法依据**：如果国有公司管理人员获取的拆迁补偿利益没有合法依据，构成不当得利。例如，【（2022）京02民终3102号】中，李平通过改变房屋性质获取更多拆迁利益，损害了国家利益，被认定为无效合同，需返还拆迁利益。\n- **是否涉及职务便利**：利用职务便利获取不当利益，可能构成犯罪。如【（2020）津0102刑初118号】中，胡某为谋取不正当利益，给予国家工作人员财物，构成行贿罪。\n- **是否涉及合同效力**：合同的效力直接影响拆迁补偿的合法性。如【（2022）豫16民终1140号】中，胡福霞与河南博骐置业有限公司签订的《房屋拆迁补偿协议》被认定为有效，因不违反法律强制性规定。\n- **是否涉及不当得利的返还与赔偿**：不当得利的受损失方有权请求返还利益，并可要求赔偿损失。如【（2022）京01民终3308号】中，张月香、孙瑞青获取的款项有合法依据，不属于不当得利，无需返还。\n\n综上，国有公司管理人员在拆迁补偿中获取不当利益的行为，需根据其是否具有合法依据、是否涉及职务便利、合同效力以及不当得利的返还与赔偿原则进行综合判断。若行为缺乏合法依据，构成不当得利，需承担相应的法律责任。\n\n#####\n类似案件为：\n【（2022）京02民终3102号】：本院认为，本案核心争议在于合同效力及后果。依据双方约定，黄村供销社向李平出让了位于大兴区黄村镇七街火车站路北房屋的所有权与使用权，但李平未办理产权转移，房产证显示为集体产权性质，用途为商业。后房屋遇拆迁，黄村供销社提供证明，改变房屋性质为12人单位职工宿舍，使房屋按已购公房政策拆迁，兴创投资公司、兴创房产公司及李平和其指定的他人签订系列协议，李平因此获得额外拆迁利益，上述操作损害了国家利益和社会公共利益，故认定案涉拆迁协议及安置合同无效。合同无效后，依据法律规定，取得的财产应予返还，鉴于兴创房产公司已交付拆迁安置房，其返还房屋的主张应予支持。鉴于各方认可李平为拆迁利益实际占有者，李萍作为李平安排下签订协议的主体，应协助李平返还拆迁利益。综上，李平、李萍的上诉理由不成立，一审判决事实清晰，法律适用正确，应予维持。驳回上诉，维持原判。\n【（2020）津0102刑初118号】：法院认为，被告人胡某为谋取不正当利益，给予国家工作人员财物，情节严重，使国家利益遭受重大损失，其行为已构成行贿罪。鉴于胡某能如实供述，自愿认罪认罚，依法可从轻处罚。一、被告人胡某犯行贿罪，判处有期徒刑五年，并处罚金人民币20万元。\n(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年10月18日起至2024年10月17日止)\n（罚金限本判决生效之日起十日内缴纳）\n二、被告人胡某退赔的不正当财产性利益425.06168万元，依法发还天津市河东区城市管理委员会。\n【（2022）豫16民终1140号】：本院认为，上诉人博骐公司与被上诉人胡福霞所签《房屋拆迁补偿协议》属平等民事主体间的真实意思表示，非行政补偿协议，且协议签订与政府补偿无关，故协议有效。协议签订时间早于政府补偿发放，上诉人主张被迫签订协议无事实依据。无证据证明签订协议时存在欺诈、胁迫或显失公平的情况，被上诉人未乘人之危，协议内容未致其获取不当利益。因此，上诉人应履行协议，违约应担责。综上，上诉请求不成立，一审判决事实认定清楚，法律适用正确，应维持原判。驳回上诉，维持原判。",
+            "诈骗罪与贪污罪在主观故意方面的区别是什么？": "### 结论\n诈骗罪与贪污罪在主观故意方面的关键区别在于，诈骗罪的行为人以非法占有为目的，通过虚构事实或隐瞒真相的方式骗取财物；而贪污罪的行为人则是利用职务上的便利，以非法占有公共财物为目的，通过侵吞、窃取、骗取等手段非法占有公共财物。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **主观故意**：诈骗罪的行为人主观上具有非法占有的目的，通过欺骗手段获取财物；而贪污罪的行为人则是利用职务便利，以非法占有公共财物为目的。例如，【（2019）浙0303刑初541号】中，被告人陈达生利用职权便利骗取公共财物，构成贪污罪；而在【（2020）京0101刑初547号】中，被告人张涛以非法占有为目的，虚构事实、隐瞒真相，骗取腾退拆迁补偿款，构成诈骗罪。\n- **犯罪对象**：诈骗罪的犯罪对象可以是任何人的财物，而贪污罪的犯罪对象必须是公共财物。例如，【（2016）闽01刑终779号】中，原审被告人林某贤等人非法侵占本单位国有资产，构成贪污罪，而非私分国有资产罪。\n- **行为方式**：诈骗罪的行为方式是通过虚构事实或隐瞒真相的方式骗取财物；而贪污罪的行为方式则是利用职务上的便利，通过侵吞、窃取、骗取等手段非法占有公共财物。例如，【（2017）鄂07刑终86号】中，上诉人张紫权、盛和平采取虚构事实、隐瞒真相的手段，骗取国家扶持资金，构成诈骗罪。\n\n综上，诈骗罪与贪污罪在主观故意、犯罪对象和行为方式上存在明显区别，其中主观故意是区分两罪的关键因素。在判断行为人是否构成贪污罪时，需要重点考察行为人是否利用了职务上的便利，以及是否以非法占有公共财物为目的；而在判断是否构成诈骗罪时，则需关注行为人是否通过虚构事实或隐瞒真相的方式骗取财物。\n\n#####\n类似案件为：\n【（2019）浙0303刑初541号】：法院认为，被告人陈达生作为国家工作人员，利用职权便利骗取公共财物，数额巨大，构成贪污罪；其以非法占有为目的，采取隐瞒真相手段骗取公共财物，数额特别巨大，构成诈骗罪。陈达生实施的诈骗行为因意志以外的原因未得逞，系犯罪未遂，可比照既遂犯减轻处罚。陈达生系初次犯罪，能坦白贪污犯罪事实，其家属代为退出部分赃款，可予从轻处罚。一、被告人陈达生犯贪污罪，判处有期徒刑三年六个月，并处罚金人民币200000元；犯诈骗罪，判处有期徒刑三年三个月，并处罚金人民币20000元，决定执行有期徒刑五年六个月，并处罚金人民币220000元。罚金限本判决生效之日起十日内缴纳。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月20日起至2024年8月19日止。）\n二、扣押在案的赃款人民币20605元，予以没收；责令被告人陈达生继续退出其余赃款人民币603994元，予以没收。\n【（2020）京0101刑初547号】：法院认为，张涛伙同他人，利用他人职务便利，骗取腾退拆迁补偿款，数额特别巨大，构成贪污罪；以非法占有为目的，虚构事实、隐瞒真相，骗取腾退拆迁补偿款，数额特别巨大，构成诈骗罪，应数罪并罚。张涛系犯罪未遂，具有自首情节，且认罪认罚，可依法减轻处罚。一、被告人张涛犯贪污罪，判处有期徒刑四年,并处罚金人民币二十万元；犯诈骗罪，判处有期徒刑三年，并处罚金人民币三万元，决定执行有期徒刑五年，并处罚金人民币二十三万元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年9月24日起至2025年8月17日止。罚金于本判决生效后十日内缴纳）\n二、未随案移送的扣押物品由扣押机关依法处理。\n【（2016）闽01刑终779号】：原判认定原审被告人林某贤等人的行为构成私分国有资产罪的定性有误，其行为特征更符合贪污罪的犯罪构成要件，具体理由如下：\n私分国有资产罪与贪污罪的主要区别有三:一是犯罪主体不同，私分国有资产罪的犯罪主体是单位，不是个人，处罚的是单位的主管人员与直接责任人员，体现的也是单位的意志，贪污罪的主体是国家工作人员；二是犯罪对象不同，前罪的对象只能是国有资产，后罪的是包括国有资产在内的公共财产；三是犯罪客观方面不同。前罪是决定后在本单位内以公开的、表面合法的形式进行，后罪则是行为人相互勾结，利用职务上的便利，侵吞、窃取、骗取等方式非法占有公共财物。本案中，关于涉案20万元款项的性质，原审被告人林某贤、林某、都某供述及证人林某涛、林某标、林某文证言能相互印证到该款系以上人员通过截留部分销售利润形成的小金库，N公司系国有企业，公司的销售利润系国有资产，也属于公共财产的范畴。因此对于林某贤等人非法侵占本单位国有资产的行为，究竟如何定性，主要从其客观表现形式的两个方面考量：\n首先，从财务的流向上考察，私分国有资产罪中，财物的分配流向是发散从众的，即一般是单位的每一个成员或者大多数成员都会有份，尽管最后每个人实际所分的金额可能存在一些差别，但差别一般不会太大或者是大家按照能够接受的级别实行差额分配。共同犯贪污罪中，财物的分配流向是限缩的，一般仅限于参与决定的小范围人员，单位中的大部分成员并未分得财物。\n其次，从行为的样态来考量，私分国有资产罪行为实施方式至少在本单位内部是公开的，且单位的人员分得财物时都知晓是单位以合法的名义分配的。共同实施贪污罪中，除了参与分配的人员外，单位的其他人员并不清楚，财务分配属于隐秘的状态。\n对照本案证据：\n1.从财务的流向上考察：根据一审法院要求检察院退补后检察机关补充提供的S集团出具的《关于N公司2010年至2011年基本情况的说明》及相关文件，该公司当时在职员工数约为30人，除了领导班子成员之外，单位共设甲醇部、塑料部等七个部门。涉案的20万元仅分给林某贤、林某、都某、斯某喜、林某标五人，26万元也仅分给以上五人与林某文、林某涛7人，涉及的部门仅甲醇部、电石部两个部门，因此，涉案款项分配的范围是限缩的，不具有普及性。\n2.从行为的样态来考量：（1）证人李某某等三人均证实，他们并不知晓20万元或者26万元款项事宜，也并未从中分得款项。（2）证人林某涛、林某文、林某标证言及原审被告人林某、都某在侦查阶段都曾供述称都某给他们分钱时是私下偷偷地领取。（3）虽然林某文、林某标、都某等人在一、二审庭审中均称在都某处领取有签字，且都某给林某贤看过后予以销毁，但签字也无法改变小金库款项未入公司账，连合法的名义都不具备的真实情况。\n3.从行为所体现的意志主体来看：虽然林某贤称与林某等人碰头过并向斯某喜汇报过，但该供述得不到其他被告人供述的印证，且根据S集团出具的《关于N公司2010年至2011年基本情况的说明》及相关文件，案发时公司的领导班子成员有斯某喜、林某贤、都某、林某、林某标五人，无论是20万款项的汇报还是分配决定均是林某贤个人行为，根本无法体现单位集体的意志。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过评估报告、付款审批表等书证证实展某明知老锅炉房为公房仍默许其被计入私房补偿范围，具有非法占有故意。2.证人唐某、冯某证言证实展某利用总经理身份未主动说明房屋权属，放任错误评估结果，符合诈骗罪构成要件。3.强调展某作为国有公司管理人员，其行为不仅造成国家财产损失，还严重损害政府公信力，社会危害性较大，应从重处罚。\n\n防御策略：1.所有书证均经合法程序调取，评估机构具有法定资质，证据来源合法有效。2.证人证言经交叉询问核实，内容相互印证，不存在矛盾。3.被告人的职务身份与案件直接相关，通过工商登记等书证证实，证据链条完整。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第二十三条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第二十三条": "已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。对于未遂犯，可以比照既遂犯从轻或者减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司管理人员在拆迁补偿中虚构事实骗取补偿款的行为定性",
+              "诈骗罪中犯罪未遂的认定标准及量刑考量"
+            ],
+            "国有公司管理人员在拆迁补偿中虚构事实骗取补偿款的行为定性": "### 结论\n国有公司管理人员在拆迁补偿中虚构事实骗取补偿款的行为构成诈骗罪。关键在于行为人是否以非法占有为目的，采取虚构事实或隐瞒真相的手段，骗取国家或集体的拆迁补偿款，且数额达到较大或以上。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：行为人是否以非法占有为目的，这是构成诈骗罪的关键。例如，【（2017）吉01刑再3号】、【（2019）闽0802刑初36号】、【（2020）宁0104刑初57号】中，法院均认定行为人以非法占有为目的，虚构事实骗取拆迁补偿款，构成诈骗罪。\n- **虚构事实或隐瞒真相**：行为人是否采取虚构事实或隐瞒真相的手段，这也是构成诈骗罪的重要因素。如【（2019）宁0104刑初130号】、【（2014）郑刑二终字第338号】、【（2015）铜中刑终字第00081号】中，行为人通过虚构事实或隐瞒真相的方式，骗取国家拆迁补偿资金，构成诈骗罪。\n- **数额较大**：行为人骗取的拆迁补偿款是否达到数额较大或以上，是构成诈骗罪的必要条件。如【（2020）浙0382刑初584号】、【（2020）黔01刑终461号】、【（2021）鲁0811刑初175号】中，法院均认定行为人骗取的拆迁补偿款数额巨大，构成诈骗罪。\n- **自首、立功、退赃**：行为人是否具有自首、立功、退赃等情节，可能影响量刑。如【（2015）长刑终字第00172号】中，法院认定行为人具有自首、立功、退赃等情节，依法可从轻或减轻处罚。\n\n综上，国有公司管理人员在拆迁补偿中虚构事实骗取补偿款的行为，如果以非法占有为目的，采取虚构事实或隐瞒真相的手段，且数额达到较大或以上，构成诈骗罪。自首、立功、退赃等情节可能影响量刑。\n\n#####\n类似案件为：\n【（2017）吉01刑再3号】：法院认为，赵凤、宋亚君以非法占有为目的，采用虚构事实的手段，骗取国家拆迁补偿款，构成诈骗罪；孙卫东违反法律规定的权限和程序，滥用职权，构成滥用职权罪；张真违反土地管理法规，非法转让土地使用权，构成非法转让土地使用权罪；李宝山、高希娟帮助赵凤、宋亚君办理建房批件，骗取补偿款，构成诈骗罪。原审判决认定事实清楚，证据确实充分，定罪准确，审判程序合法，量刑适当。原审判决对李宝山、高希娟、孙卫东、张真定罪准确，审判程序合法，量刑适当，应予维持。原二审判决改变原一审判决认定赵凤、宋亚君的诈骗犯罪数额，维持原判量刑，未考虑原审上诉人认罪、悔罪，退缴全部赃款的上诉请求，量刑不当，予以改判。\n故判决维持原判决对孙卫东、张真、李宝山、高希娟的定罪量刑，改判赵凤、宋亚君诈骗罪的量刑，赵凤、宋亚君退缴的赃款返还给长春市二道区英俊镇人民政府。\n本判决为终审判决。\n【（2019）闽0802刑初36号】：法院认为，被告人张荣生以非法占有为目的，采用虚构事实、隐瞒真相的方法骗取拆迁补偿款，数额特别巨大，其行为构成诈骗罪。张荣生虽与征收单位签订补偿协议，但双方非市场经营主体，签订合同非市场交易行为，未侵犯市场交易秩序，故不应定性为合同诈骗罪。一、被告人张荣生犯诈骗罪，判处有期徒刑六年六个月，并处罚金人民币十万元（限于本判决生效之日起十日内缴清）。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年8月30日起至2025年2月28日止）\n 二、扣押在公安机关的赃款886564.71元，由公安机关依法归还龙岩市赣龙铁路扩能工程建设协调指挥部办公室。\n【（2020）宁0104刑初57号】：法院认为，纪武以非法占有为目的，采取虚构事实、隐瞒真相的方法，骗取拆迁补偿款1617210.8元，数额特别巨大，构成诈骗罪。法院判决纪武犯诈骗罪，判处有期徒刑十年，并处罚金八万元，已退赔的584000元予以没收，剩余犯罪所得1033210.8元责令退赔。",
+            "诈骗罪中犯罪未遂的认定标准及量刑考量": "### 结论\n诈骗罪中犯罪未遂的认定标准主要考虑行为人是否因意志以外的原因未能得逞，以及行为是否造成实际的财产损失或达到数额较大的标准。量刑时，法院会考虑犯罪既遂与未遂并存时的处理原则，即分别达到不同量刑幅度的，依照处罚较重的规定处罚；达到同一量刑幅度的，以诈骗罪既遂处罚，未遂部分作为量刑情节予以考虑。对于未遂部分，法院会根据其是否具有“其他严重情节”来决定是否从轻或减轻处罚，同时考虑行为的社会危害性、行为人的主观认识、客观阻碍因素、犯罪中止与未遂的区分、以及是否涉及公权力介入等因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第二十三条**：已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。对于未遂犯，可以比照既遂犯从轻或者减轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪既遂与未遂并存的处理原则**：法院在量刑时会比较既遂与未遂部分对应的法定刑幅度，选择较重的刑罚幅度，如果两者相同，则以既遂部分确定刑罚幅度。例如，【（2013）一中刑终字第4134号】中，王新明的合同诈骗犯罪行为既遂部分为30万元，未遂部分为70万元，法院最终以既遂部分确定刑罚幅度，将未遂部分作为量刑情节考虑。\n- **犯罪未遂的认定**：如果行为人因意志以外的原因未能得逞，且未造成实际的财产损失或达到数额较大的标准，可以认定为犯罪未遂。例如，【（2017）闽0206刑初36号】中，李志某、黄娜某发送诈骗信息21434次，但未实际骗取到财物，被认定为犯罪未遂。\n- **犯罪未遂的量刑考量**：对于未遂部分，法院会考虑其是否具有“其他严重情节”，如侵害对象不特定、社会影响恶劣等，来决定是否从轻或减轻处罚。例如，【（2021）湘1002刑初82号】中，林某冒充国家工作人员诈骗，其中未遂75000元，既遂25000元，法院在量刑时考虑了未遂部分的“其他严重情节”。\n- **犯罪中止与未遂的区分**：当被告人停止犯罪行为，既有主动性因素，又有客观阻碍因素时，法院会综合全案事实证据，判断是犯罪中止还是犯罪未遂。例如，【（2019）苏0213刑初769号】中，孙力军的诈骗行为因意志以外的原因未得逞，被认定为犯罪未遂。\n- **公权力介入对犯罪形态的影响**：如果公权力介入，如法院冻结涉案财物，导致财物处于“悬空”状态，此时被害人虽失去对财物的控制，但未实际遭受财产损害，行为人的行为可能被认定为犯罪未遂。例如，【（2019）沪0113刑初2524号】中，金某某的诈骗行为因公权力介入而未得逞，被认定为犯罪未遂。\n\n综上，诈骗罪中犯罪未遂的认定与量刑考量是一个复杂的过程，需要综合考虑犯罪行为的完成程度、行为人的主观意图、客观阻碍因素、以及公权力介入等多方面因素。法院在量刑时会遵循既遂与未遂并存的处理原则，同时考虑未遂部分的“其他严重情节”来决定是否从轻或减轻处罚。\n\n#####\n类似案件为：\n【（2013）一中刑终字第4134号】：法院生效裁判认为：王新明以非法占有为目的，冒用他人名义签订合同，其行为已构成合同诈骗罪。一审判决事实清楚，证据确实、充分，定性准确，审判程序合法，但未评价未遂70万元的犯罪事实不当，予以纠正。根据刑法及司法解释的有关规定，考虑王新明合同诈骗既遂30万元，未遂70万元但可对该部分减轻处罚，王新明如实供述犯罪事实，退赔全部赃款取得被害人的谅解等因素，原判量刑在法定刑幅度之内，且抗诉机关亦未对量刑提出异议，故应予维持。北京市石景山区人民检察院的抗诉意见及北京市人民检察院第一分院的支持抗诉意见，酌予采纳。鉴于二审期间王新明申请撤诉，撤回上诉的申请符合法律规定，故二审法院裁定依法准许撤回上诉，维持原判。\n本案争议焦点是，在数额犯中犯罪既遂与未遂并存时如何量刑。《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》第六条规定：“诈骗既有既遂，又有未遂，分别达到不同量刑幅度的，依照处罚较重的规定处罚；达到同一量刑幅度的，以诈骗罪既遂处罚。”因此，对于数额犯中犯罪行为既遂与未遂并存且均构成犯罪的情况，在确定全案适用的法定刑幅度时，先就未遂部分进行是否减轻处罚的评价，确定未遂部分所对应的法定刑幅度，再与既遂部分对应的法定刑幅度比较，确定全案适用的法定刑幅度。如果既遂部分对应的法定刑幅度较重或者二者相同的，应当以既遂部分对应的法定刑幅度确定全案适用的法定刑幅度，将包括未遂部分在内的其他情节作为确定量刑起点的调节要素进而确定基准刑。如果未遂部分对应的法定刑幅度较重的，应当以未遂部分对应的法定刑幅度确定全案适用的法定刑幅度，将包括既遂部分在内的其他情节，连同未遂部分的未遂情节一并作为量刑起点的调节要素进而确定基准刑。\n本案中，王新明的合同诈骗犯罪行为既遂部分为30万元，根据司法解释及北京市的具体执行标准，对应的法定刑幅度为有期徒刑三年以上十年以下；未遂部分为70万元，结合本案的具体情况，应当对该未遂部分减一档处罚，未遂部分法定刑幅度应为有期徒刑三年以上十年以下，与既遂部分30万元对应的法定刑幅度相同。因此，以合同诈骗既遂30万元的基本犯罪事实确定对王新明适用的法定刑幅度为有期徒刑三年以上十年以下，将未遂部分70万元的犯罪事实，连同其如实供述犯罪事实、退赔全部赃款、取得被害人谅解等一并作为量刑情节，故对王新明从轻处罚，判处有期徒刑六年，并处罚金人民币六万元。北京市石景山区人民法院经审理于2013年8月23日作出（2013）石刑初字第239号刑事判决，认为被告人王新明的行为已构成合同诈骗罪，数额巨大，同时鉴于其如实供述犯罪事实，在亲属帮助下退赔全部赃款，取得了被害人的谅解，依法对其从轻处罚。公诉机关北京市石景山区人民检察院指控罪名成立，但认为数额特别巨大且系犯罪未遂有误，予以更正。遂认定被告人王新明犯合同诈骗罪，判处有期徒刑六年，并处罚金人民币六千元。宣判后，公诉机关提出抗诉，认为犯罪数额应为100万元，数额特别巨大，而原判未评价70万元未遂，仅依据既遂30万元认定犯罪数额巨大，系适用法律错误。北京市人民检察院第一分院的支持抗诉意见与此一致。王新明以原判量刑过重为由提出上诉，在法院审理过程中又申请撤回上诉。北京市第一中级人民法院经审理于2013年12月2日作出（2013）一中刑终字第4134号刑事裁定：准许上诉人王新明撤回上诉，维持原判。\n【（2021）湘1002刑初82号】：法院认为，林某的行为已构成诈骗罪，数额巨大。案发后，林某自动投案并如实供述犯罪事实，系自首。在第二、三起诈骗犯罪过程中，犯罪已经着手实行，因意志以外的原因而未得逞，是犯罪未遂，可比照既遂犯减轻处罚。林某冒充国家工作人员、自首、部分犯罪未遂、认罪认罚、已赔偿被害人损失并取得谅解。法院判决被告人林某犯诈骗罪，判处有期徒刑一年，并处罚金人民币五千元。\n【（2019）苏0213刑初769号】：法院认为，被告人孙力军、方静以非法占有为目的，骗取他人房产，数额特别巨大，构成诈骗罪。孙力军诈骗既有既遂，又有未遂，以既遂处罚，未遂部分作为量刑情节考量；在共同犯罪中，孙力军系主犯，方静系从犯，方静如实供述罪行，认罪认罚，可减轻处罚。一、被告人孙力军犯诈骗罪，判处有期徒刑十一年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月24日起至2030年4月23日止），并处罚金人民币十万元（于本判决生效次日起三十日内一次性缴纳）。\n二、被告人方静犯诈骗罪，判处有期徒刑三年，缓刑四年（缓刑考验期限，从判决确定之日起计算），并处罚金人民币三万元（于本判决生效次日起三十日内一次性缴纳）。\n三、责令被告人孙力军、方静将无锡市锡山区春光苑8号302室、春光苑10号201室房屋产权返还被害人王某1；被告人孙力军为实施犯罪而交付给被害人王某1的本金余额15.73万元以及代为支付的涉案房屋土地出让金、建设规费20.13143万元，从王某1处依法予以追缴并没收；扣押在案的作案工具名片等物予以没收。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.指出公诉方缺乏直接证据证明被告人存在诈骗的主观故意，被告人在整个测量评估过程中未在场，无法对评估结果施加影响2.强调评估报告错误将公房计入私房面积系评估公司工作失误所致，与被告人无关3.质疑39910元维修费补偿与被告人的关联性，该款项系青投公司要求评估公司添加，被告人未主动提出\n\n防御策略：1.强调被告人实际建造的私房确实存在，补偿具有事实基础2.指出被告人对评估报告内容未提出异议是基于对专业评估机构的合理信赖",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第十六条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第十六条": "行为在客观上虽然造成了损害结果，但是不是出于故意或者过失，而是由于不能抗拒或者不能预见的原因所引起的，不是犯罪。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在拆迁补偿案件中，如何认定诈骗罪的主观故意？",
+              "评估公司错误将公房计入私房补偿范围，相关责任如何认定？"
+            ],
+            "在拆迁补偿案件中，如何认定诈骗罪的主观故意？": "### 结论\n在拆迁补偿案件中，认定诈骗罪的主观故意主要通过行为人是否采取虚构事实、隐瞒真相等手段，以及是否具有非法占有目的来判断。行为人超出委托授权范围，冒领拆迁补偿款占为己有，数额较大，应认定为诈骗罪。行为人非法占有被害人财产是通过欺骗方式所得，而非合法取得，不符合侵占罪的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **虚构事实、隐瞒真相**：行为人通过虚构事实或隐瞒真相，如虚构土地租赁合同、隐瞒负债状况等，以非法占有为目的，骗取拆迁补偿款，构成诈骗罪。例如，【（2019）京0114刑初829号】中，被告人王元虚构其妻子租赁土地的事实，骗取拆迁补偿款，数额特别巨大，构成诈骗罪。\n- **非法占有目的**：行为人以非法占有为目的，采取欺骗手段，冒领拆迁补偿款，数额较大，应认定为诈骗罪。例如，【（2021）鲁0811刑初175号】中，被告人郑某以非法占有为目的，虚构事实，隐瞒真相，骗取拆迁补偿款，数额巨大，构成诈骗罪。\n- **超出委托授权范围**：行为人超出被害人委托授权范围，采取欺骗手段，冒领拆迁补偿款，数额较大，应认定为诈骗罪。例如，【（2013）淮中刑二终字第0076号】中，行为人超出委托授权范围，采取虚构事实、隐瞒真相等手段，冒领被害人拆迁补偿款占为己有，数额较大，构成诈骗罪。\n\n综上，行为人在拆迁补偿案件中，通过虚构事实、隐瞒真相，超出委托授权范围，以非法占有为目的，冒领拆迁补偿款，数额较大，应认定为诈骗罪。行为人非法占有被害人财产是通过欺骗方式所得，而非合法取得，不符合侵占罪的构成要件。\n\n#####\n类似案件为：\n【（2019）京0114刑初829号】：法院认为，王元以非法占有为目的，虚构其妻租赁土地的事实，骗取拆迁补偿款，数额特别巨大，其行为已构成诈骗罪。土方归属不影响补偿款归属，王元及其妻并非实际承租人，无合法依据获取补偿款。王元提供虚假合同，冒充签名，主观上具有非法占有故意，客观上实施了诈骗行为。一、被告人王元犯诈骗罪，判处有期徒刑十一年，剥夺政治权利二年，并处罚金人民币十一万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2030年4月28日止。罚金限判决生效后十日内缴纳)。\n二、在案扣押机动车一辆，退回公安机关处理。\n三、责令被告人王元退赔北京市昌平区城南街道办事处人民币一百一十三万四千四百二十四元。\n【（2021）鲁0811刑初175号】：法院认为，郑某以非法占有为目的，虚构事实，隐瞒真相，骗取数额巨大的拆迁补偿款，构成诈骗罪。鉴于郑某自首、退赃、认罪认罚，系初犯、偶犯，可依法从轻处罚。法院判决被告人郑某犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金人民币三万元。",
+            "评估公司错误将公房计入私房补偿范围，相关责任如何认定？": "### 结论\n评估公司错误将公房计入私房补偿范围，相关责任认定主要取决于错误是否影响了国家利益、社会公共利益或合同双方的合法权益。如果错误导致补偿明显不公平，损害了公共利益或合同相对方的合理信赖利益，行政机关有权依据行政优益权变更或解除协议，但需确保程序正当，且不对无过错的行政相对人造成损害。如果错误未达到上述严重程度，应由评估机构承担相应的赔偿责任，而非直接损害国家或社会公共利益。\n\n### 核心法条\n- **《中华人民共和国合同法》第七十七条**：当事人协商一致，可以变更合同。\n- **《中华人民共和国合同法》第五十四条**：因重大误解订立的合同，当事人一方有权请求人民法院或者仲裁机构变更或者撤销。\n- **《国有土地上房屋征收与补偿条例》第三十四条**：房地产价格评估机构或者房地产估价师出具虚假或者有重大差错的评估报告，给当事人造成损失的，依法承担赔偿责任。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **评估错误的性质和影响**：如果评估错误导致补偿明显超出合理范围，损害了公共利益或合同相对方的合理信赖利益，行政机关有权依据行政优益权变更或解除协议。例如，【（2021）鲁01行终88号】中，评估错误导致补偿款远超应得数额，明显有悖公平、合理的拆迁补偿原则，政府有权变更协议。\n- **合同双方的法律地位**：在行政协议中，双方并不具有完全平等的法律地位，行政主体因公共利益需要，依法享有行政优益权，可以根据国家行政管理的需要，单方面依法变更或解除协议。例如，【（2021）鲁01行终88号】中，政府基于公共利益需要，有权单方面变更协议。\n- **评估机构的责任**：如果评估错误未达到损害公共利益的程度，应由评估机构承担相应的赔偿责任。例如，【（2020）辽1102行初1号】中，评估机构的过失导致面积计算错误，应由评估机构承担责任，而非直接损害国家或社会公共利益。\n\n综上，评估公司错误将公房计入私房补偿范围时，行政机关和评估机构的责任认定需综合考虑错误的性质、影响范围以及是否损害公共利益或合同相对方的合理信赖利益。行政机关在行使变更或解除权时，需确保程序正当，且不对无过错的行政相对人造成损害。评估机构在评估错误导致合同相对方损失时，应承担相应的赔偿责任。\n\n#####\n类似案件为：\n【（2021）鲁01行终88号】：本院认为，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表明显存在仓库评估单价认定错误的问题，导致侯桂锋依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。本案中，涉案行政协议约定的补偿款与行政相对人实际应获得的补偿款之间存在巨大偏差，远超社会普通大众的接受范围，显失公平，将导致社会公共利益的严重减损。济北街道办在发现涉案行政协议存在重大错误以后，即依据评估机构提交的修正评估结果表等材料，作出变更涉案《非住宅拆迁补偿安置协议书》的行政决定，并依法告知、送达，事实清楚，证据充分，程序正当，该变更行为符合公共利益需要且未对侯桂锋合法权益造成损害。侯桂锋对于涉案行政协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，在侯桂锋签字确认的《滨河新区集体土地上拆迁安置款项明细表》中亦能体现其所获补偿远远高于相似建筑面积的其他被拆迁人所获的补偿。故侯桂锋对其所获的补偿不具有合理的信赖利益，济北街道办作出涉案变更决定，要求侯桂锋将多领取的补偿款项退还济南市济阳区住房和城乡建设管理委员会，并无不当。判决撤销一审判决第一项，驳回被上诉人侯桂锋的诉讼请求。一、二审案件受理费各50元，均由被上诉人侯桂锋负担。本判决为终审判决。撤销济南市历下区人民法院(2020)鲁0102行初356号行政判决第一项；\n 二、驳回被上诉人侯桂锋的诉讼请求。\n【（2021）鲁01行终88号】：本院认为，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表明显存在仓库评估单价认定错误的问题，导致侯桂锋依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。本案中，涉案行政协议约定的补偿款与行政相对人实际应获得的补偿款之间存在巨大偏差，远超社会普通大众的接受范围，显失公平，将导致社会公共利益的严重减损。济北街道办在发现涉案行政协议存在重大错误以后，即依据评估机构提交的修正评估结果表等材料，作出变更涉案《非住宅拆迁补偿安置协议书》的行政决定，并依法告知、送达，事实清楚，证据充分，程序正当，该变更行为符合公共利益需要且未对侯桂锋合法权益造成损害。侯桂锋对于涉案行政协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，在侯桂锋签字确认的《滨河新区集体土地上拆迁安置款项明细表》中亦能体现其所获补偿远远高于相似建筑面积的其他被拆迁人所获的补偿。故侯桂锋对其所获的补偿不具有合理的信赖利益，济北街道办作出涉案变更决定，要求侯桂锋将多领取的补偿款项退还济南市济阳区住房和城乡建设管理委员会，并无不当。判决撤销一审判决第一项，驳回被上诉人侯桂锋的诉讼请求。一、二审案件受理费各50元，均由被上诉人侯桂锋负担。本判决为终审判决。撤销济南市历下区人民法院(2020)鲁0102行初356号行政判决第一项；\n 二、驳回被上诉人侯桂锋的诉讼请求。\n【（2020）辽1102行初1号】：本院认为，盘山县城乡一体化发展服务中心主张因评估机构错误导致协议签订时存在重大误解和显失公平，要求单方变更协议。然而，即便房屋面积有误，夏百操不存在主观故意，而是评估机构的过失，此情况下应由评估机构承担责任，不存在损害国家利益和社会公共利益。因此，对被告单方面变更协议的决定不予支持。原、被告签订的《房屋征收补偿安置协议》合法有效，双方应按协议履行。关于安置费用，虽协议未约定，但按照征收补偿方案，被告应每月支付500元安置补助费给夏百操直至住房实际交付。判决被告在判决生效后十五日内向夏百操交付85.77平方米回迁房屋，并自搬离日开始支付安置补助费。案件受理费由被告承担。被告盘山县城乡一体化发展服务中心在本判决生效后十五日内在回迁区域内交付原告夏百操一套85.77平方米房屋；并从2014年2月22日起至住房实际交付之日止，按每月500.00元给付原告夏百操安置补助费。\n 如未按本判决指定的期间履行金钱给付义务，应当依照《中华人民共和国民事诉讼法》第二百五十三条之规定，加倍支付迟延履行期间的债务利息。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.坚持未主动虚构事实或隐瞒真相的供述，强调测量时不在场，无法对测量结果施加影响 2.指出评估报告将公房计入私房面积系测量人员工作失误所致，无证据证明被告人对错误测量存在教唆或明知 3.说明维修费39910元系青投公司要求评估公司添加，与被告人无关 4.强调被告人对房屋权属无隐瞒行为，其私房建设事实存在 5.指出被告人在案发后积极配合调查，无逃避责任行为",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人展某是否具有非法占有的主观故意。查明情况：公诉人认为被告人在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性；辩护人主张被告人不在场且未主动提供虚假信息，评估错误系评估公司工作失误所致。审判长认为需要结合被告人的职责身份和具体行为进一步查明其主观认知程度。\n\n2.评估报告中将老锅炉房计入私房面积的具体过程及责任归属。查明情况：被告人坚称测量时不在场且未参与评估过程，但作为被征收方未对明显错误的评估报告提出异议。审判长认为需要结合证人证言进一步核实测量过程的具体情况，特别是青投公司工作人员与评估公司的互动过程。\n\n3.被告人作为国有公司总经理的身份是否影响行为定性。查明情况：目前双方未就此展开充分辩论。审判长认为需要查明被告人在补偿款使用过程中是否存在利用职务便利的情形，以及其职责范围是否包含对评估报告的审核义务。\n\n4.诈骗金额的认定标准。查明情况：公诉人指控120729元为诈骗金额，包括老锅炉房补偿和维修费补偿；被告人辩称该金额系评估公司自主确定。审判长认为需要区分两项补偿的具体构成及被告人的参与程度。\n\n5.犯罪形态的认定。查明情况：公诉机关认为犯罪未遂，但被告人已实际获得补偿款。审判长认为需要明确款项是否已被追回或实际控制，以及被告人对款项的实际支配情况。\n\n6.量刑情节的考量。查明情况：被告人未主动退赃或采取补救措施，但案件曾因证据不足变更强制措施。审判长认为需要综合评估案件的特殊情况，包括被告人的认罪态度和悔罪表现。\n\n7.补偿款的实际用途。查明情况：被告人称用于公司运营，但未提供具体财务凭证。审判长认为需要调取相关财务记录进行核实，以确定款项流向与被告人主张是否一致。\n\n8.评估报告出具后被告人的反应。查明情况：被告人承认看到报告但未提出异议，辩称信任评估公司专业性。审判长认为需要评估这种不作为的主观过错程度，特别是结合被告人的专业背景和职责要求。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司管理人员在拆迁补偿中未主动纠正评估错误是否构成诈骗罪",
+              "诈骗罪中不作为行为的主观故意认定标准"
+            ],
+            "国有公司管理人员在拆迁补偿中未主动纠正评估错误是否构成诈骗罪": "### 结论\n国有公司管理人员在拆迁补偿中未主动纠正评估错误的行为，如果导致国家财产遭受重大损失，可能构成玩忽职守罪；如果与他人合谋，采取虚构事实、隐瞒真相等方法骗取拆迁补偿款，则可能构成诈骗罪。关键在于行为人是否具有非法占有的目的，以及是否实施了欺骗行为。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百九十七条**：国家机关工作人员滥用职权或者玩忽职守，致使公共财产、国家和人民利益遭受重大损失的，处三年以下有期徒刑或者拘役；情节特别严重的，处三年以上七年以下有期徒刑。\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观意图**：如果行为人有非法占有的目的，且采取了虚构事实、隐瞒真相等欺骗手段，可能构成诈骗罪。例如，【（2016）京刑终120号】中，梁宝君提供虚假合同、发票、收据，导致评估公司提高了假山的评估价格，最终多获取了补偿款，构成诈骗罪。\n- **行为人的职责与行为**：如果行为人作为国有公司管理人员，未履行职责，导致国家财产遭受重大损失，可能构成玩忽职守罪。例如，【（2015）长刑终字第00010号】中，刘某某、闫某某、隋某某在拆迁补偿工作中未履行核实真伪的职责，导致国家拆迁补偿款被骗，构成玩忽职守罪。\n- **行为的后果**：如果行为导致国家财产遭受重大损失，或者行为人通过欺骗手段非法获取了数额较大的补偿款，可能构成犯罪。例如，【（2015）筑刑二终字第437号】中，袁小飞、刘荣芳通过购买村民户头进行“顶户”，使其本应按每平方米430元的标准进行补偿的无证房屋获得正常确权补偿，构成诈骗罪。\n\n综上，国有公司管理人员在拆迁补偿中未主动纠正评估错误的行为，是否构成犯罪，关键在于行为人的主观意图、职责与行为，以及行为的后果。如果行为人有非法占有的目的，采取了欺骗手段，或者未履行职责导致国家财产遭受重大损失，可能构成诈骗罪或玩忽职守罪。\n\n#####\n类似案件为：\n【（2016）京刑终120号】：法院认为，梁宝君的诈骗行为所造成的社会危害性较小，其家属积极退款弥补经济损失，对梁宝君所犯诈骗罪可认定为情节严重，考虑其家属积极退款弥补经济损失，对梁宝君的量刑予以改判。梁宝君犯单位行贿罪，判处有期徒刑二年，并处罚金人民币十万元；犯诈骗罪，判处有期徒刑三年，并处罚金人民币十万元；决定执行有期徒刑三年六个月，并处罚金人民币二十万元。扣押在案的梁宝君亲属代为退缴的违法所得中1427719.98元作为违法所得及罚金予以没收，上缴国库。其余部分发还梁宝君及亲属。\n【（2015）长刑终字第00010号】：法院认为，焦建林以非法占有为目的，虚构事实，伪造证件，诈骗国家财产，数额特别巨大，构成诈骗罪。刘某某、闫某某、隋某某严重不负责任，未依法履行职责，致使国家财产遭受重大损失，构成玩忽职守罪。焦建林犯诈骗罪，判处有期徒刑十年，罚金六十万元；刘某某犯玩忽职守罪，判处有期徒刑三年，缓刑三年；李某某、黄某某犯诈骗罪，判处有期徒刑三年，缓刑四年/五年，罚金十五万元；闫某某、隋某某犯玩忽职守罪，免予刑事处罚；追缴焦建林违法所得款2409127元，上缴国库。刘某某、焦建林的上诉理由及辩护意见不予采纳，维持原判；刘某某二审期间认罪、悔罪，可依法适用缓刑，改判缓刑。\n【（2015）筑刑二终字第437号】：法院认为，原审被告人袁小飞、刘荣芳以非法占有为目的，虚构事实、隐瞒真相，骗取国家拆迁补偿款，数额特别巨大，其行为已构成诈骗罪，应依法处罚。被告人在接受调查时主动交代罪行，系自首，依法可以从轻或者减轻处罚，决定对二人减轻处罚并宣告缓刑。原审被告人袁小飞、刘荣芳犯诈骗罪，判处有期徒刑三年，缓刑五年和三年，并处罚金人民币二万元和一万元；犯罪所得拆迁安置补偿款依法继续追缴，发还贵阳市花溪区房屋征收局；在案扣押的车辆发还刘荣芳。",
+            "诈骗罪中不作为行为的主观故意认定标准": "### 结论\n在诈骗罪中，不作为行为的主观故意认定需满足以下标准：行为人明知自己有告知义务，却故意隐瞒真实情况，使对方陷入错误判断并基于此错误判断作出意思表示。行为人的主观状态必须是故意，即行为人意识到自己的不作为会导致对方陷入错误认识，主观上存在希望或放纵这种结果发生的恶意。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **欺诈的故意**：行为人必须有使对方陷入错误判断并基于该错误判断作出意思表示的故意。例如，【（2017）沪0104刑初367号】中，被告人周鹏辉在无实际履约能力的情况下签订合同，后违反合同约定拒不支付费用，其非法占有的主观故意明显。\n- **欺诈行为**：行为人实施欺诈之故意的行为，包括虚构事实和隐瞒真相两种情形。如【（2018）沪0113刑初825号】中，被告人王某参与楚沂公司通过签订虚假的艺术品委托拍卖合同，骗取被害人钱款的行为，构成合同诈骗罪。\n- **因果关系**：欺诈行为与错误判断、错误判断与意思表示之间必须存在因果关系。例如，【（2019）京02刑初27号】中，被告人明知涉案公司无任何实际经营及拍卖活动，仍向被害人虚假承诺将被害人的藏品在境外高价拍卖，诱使被害人继续支付钱款，体现了欺诈行为与被害人错误判断之间的因果关系。\n\n综上，诈骗罪中不作为行为的主观故意认定，关键在于行为人是否明知自己有告知义务而故意隐瞒真实情况，以及这种不作为是否导致对方基于错误判断作出意思表示。在司法实践中，法院会综合考虑行为人的行为、被害人的陈述、合同、银行材料、成交确认书等证据，以确定行为人是否具有非法占有的主观故意。\n\n#####\n类似案件为：\n【（2017）沪0104刑初367号】：法院认为，周鹏辉在无实际履约能力情况下，通过签订合同收受手机，后违反合同约定拒不支付费用，非法占有的主观故意明显，构成合同诈骗罪，数额巨大。周鹏辉辩解与事实不符，不予采信。周鹏辉犯合同诈骗罪，判处有期徒刑六年，并处罚金五万元，责令其退赔违法所得给被害单位。\n本判决依据《中华人民共和国刑法》第二百二十四条第四项、第五十三条、第六十四条作出。\n【（2018）沪0113刑初825号】：法院认为，被告人王某结伙他人，在签订、履行合同过程中骗取对方当事人财物，数额较大，其行为已构成合同诈骗罪。王某作为成年人，对公司的诈骗行为应有清晰辨别，其供述与被害人陈述、同案关系人供述相印证，表明其具有诈骗的主观故意。在共同犯罪中，王某起次要作用，系从犯。上海市宝山区人民法院判决如下：\n1. 被告人王某犯合同诈骗罪，判处有期徒刑十个月，并处罚金人民币五千元。\n2. 责令被告人退赔各被害人的损失。\n法院认定被告人王某的行为构成合同诈骗罪，系从犯，依法应当从轻处罚。判决体现了对合同诈骗罪的惩处，维护了被害人的合法权益。\n【（2019）京02刑初27号】：法院认为，杨心宇、史芳铭、钟国强等28名被告人以非法占有为目的，采用编造虚假事实手段，诈骗被害人，构成诈骗罪。其中，杨心宇、史芳铭、钟国强等19名被告人犯罪数额特别巨大，情节特别严重；樊鸽等9名被告犯罪数额巨大，情节严重。鉴于部分被告人认罪认罚，退赃，依法予以从轻或减轻处罚。一、被告人史芳铭犯诈骗罪，判处有期徒刑十四年，剥夺政治权利三年，并处罚金人民币十四万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2032年1月17日止；罚金限本判决生效后30日内缴纳）。\n二、被告人杨心宇犯诈骗罪，判处有期徒刑十三年，剥夺政治权利三年，并处罚金人民币十三万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2031年1月17日止；罚金限本判决生效后30日内缴纳）。\n三、被告人钟国强犯诈骗罪，判处有期徒刑十二年，剥夺政治权利二年，并处罚金人民币十二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2030年1月17日止；罚金限本判决生效后30日内缴纳）。\n四、被告人万洁犯诈骗罪，判处有期徒刑十二年，剥夺政治权利二年，并处罚金人民币十二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2030年1月17日止；罚金限本判决生效后30日内缴纳）。\n五、被告人焦威犯诈骗罪，判处有期徒刑十年六个月，剥夺政治权利二年，并处罚金人民币十万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2028年7月17日止；罚金限本判决生效后30日内缴纳）。\n六、被告人赵永强犯诈骗罪，判处有期徒刑十年，剥夺政治权利二年，并处罚金人民币十万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2028年1月17日止；罚金限本判决生效后30日内缴纳）。\n七、被告人刘猛犯诈骗罪，判处有期徒刑六年，并处罚金人民币六万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2024年1月17日止；罚金限本判决生效后30日内缴纳）。\n八、被告人李莉娜犯诈骗罪，判处有期徒刑五年六个月，并处罚金人民币五万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2023年7月17日止；罚金限本判决生效后30日内缴纳）。\n九、被告人秦川犯诈骗罪，判处有期徒刑五年六个月，并处罚金人民币五万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2023年7月17日止；罚金限本判决生效后30日内缴纳）。\n十、被告人王宁犯诈骗罪，判处有期徒刑五年六个月，并处罚金人民币五万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2023年7月17日止；罚金限本判决生效后30日内缴纳）。\n十一、被告人徐凱艺犯诈骗罪，判处有期徒刑五年三个月，并处罚金人民币五万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2023年4月17日止；罚金限本判决生效后30日内缴纳）。\n十二、被告人柴明松犯诈骗罪，判处有期徒刑五年，并处罚金人民币五万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年3月22日起至2023年3月21日止；罚金限本判决生效后30日内缴纳）。\n十三、被告人王京犯诈骗罪，判处有期徒刑五年，并处罚金人民币五万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2023年1月17日止；罚金限本判决生效后30日内缴纳）。\n十四、被告人刘君祥犯诈骗罪，判处有期徒刑四年六个月，并处罚金人民币四万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2022年7月17日止；罚金限本判决生效后30日内缴纳）。\n十五、被告人徐秀峰犯诈骗罪，判处有期徒刑四年三个月，并处罚金人民币四万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2022年4月17日止；罚金限本判决生效后30日内缴纳）。\n十六、被告人徐少杰犯诈骗罪，判处有期徒刑四年三个月，并处罚金人民币四万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2022年4月17日止；罚金限本判决生效后30日内缴纳）。\n十七、被告人万琪璟犯诈骗罪，判处有期徒刑四年三个月，并处罚金人民币四万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2022年4月17日止；罚金限本判决生效后30日内缴纳）。\n十八、被告人刘国强犯诈骗罪，判处有期徒刑四年，并处罚金人民币四万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2022年1月17日止；罚金限本判决生效后30日内缴纳）。\n十九、被告人侯亚斌犯诈骗罪，判处有期徒刑三年三个月，并处罚金人民币三万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2021年4月17日止；罚金限本判决生效后30日内缴纳）。\n二十、被告人刘洋犯诈骗罪，判处有期徒刑三年三个月，并处罚金人民币三万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2021年4月17日止；罚金限本判决生效后30日内缴纳）。\n二十一、被告人杨冠伟犯诈骗罪，判处有期徒刑三年，并处罚金人民币三万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2021年1月17日止；罚金限本判决生效后30日内缴纳）。\n二十二、被告人刘婷犯诈骗罪，判处有期徒刑三年，并处罚金人民币三万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2021年1月17日止；罚金限本判决生效后30日内缴纳）。\n二十三、被告人樊鸽犯诈骗罪，判处有期徒刑二年六个月，并处罚金人民币二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2020年7月17日止；罚金限本判决生效后30日内缴纳）。\n二十四、被告人齐吉新犯诈骗罪，判处有期徒刑二年三个月，并处罚金人民币二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2020年4月17日止；罚金限本判决生效后30日内缴纳）。\n二十五、被告人姜加军犯诈骗罪，判处有期徒刑二年三个月，并处罚金人民币二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2020年4月17日止；罚金限本判决生效后30日内缴纳）。\n二十六、被告人荆桐犯诈骗罪，判处有期徒刑二年三个月，并处罚金人民币二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2020年4月17日止；罚金限本判决生效后30日内缴纳）。\n二十七、被告人张东东犯诈骗罪，判处有期徒刑二年，并处罚金人民币二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2020年1月17日止；罚金限本判决生效后30日内缴纳）。\n二十八、被告人刘哲犯诈骗罪，判处有期徒刑二年，并处罚金人民币二万元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月18日起至2020年1月17日止；罚金限本判决生效后30日内缴纳）。\n二十九、责令上述二十八名被告人在各自承担的退赔范围内退赔被害人的经济损失。\n三十、公诉机关移送的人民币一百二十六万一千八百二十元并入追缴项执行。\n三十一、随案移送的赃证物分别并入追缴项或变价款并入追缴项执行，或予以没收（详见清单，扣押物品存放于北京市公安局东城分局）。\n三十二、在案扣押的人民币四十八万元并入追缴项执行。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过评估报告、付款审批表等书证证实展某明知老锅炉房为公房仍默许其被计入私房补偿范围，具有非法占有故意。2.证人唐某、冯某证言证实展某利用总经理身份未主动说明房屋权属，放任错误评估结果，符合诈骗罪构成要件。3.强调展某作为国有公司管理人员，其行为不仅造成国家财产损失，还严重损害政府公信力，社会危害性较大，应从重处罚。\n\n防御策略：1.所有书证均经合法程序调取，评估机构具有法定资质，证据来源合法有效。2.证人证言经交叉询问核实，内容相互印证，不存在矛盾。3.被告人的职务身份与案件直接相关，通过工商登记等书证证实，证据链条完整。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司管理人员在拆迁补偿中未主动纠正评估错误是否构成诈骗罪？",
+              "评估报告错误导致多领补偿款但未主动说明是否具有非法占有故意？"
+            ],
+            "国有公司管理人员在拆迁补偿中未主动纠正评估错误是否构成诈骗罪？": "### 结论\n国有公司管理人员在拆迁补偿中未主动纠正评估错误，如果其行为导致国家财产遭受重大损失，可能构成玩忽职守罪，而非诈骗罪。诈骗罪的构成要求行为人以非法占有为目的，采取虚构事实、隐瞒真相的手段，骗取财物。国有公司管理人员的玩忽职守行为，即使造成国家财产损失，也因其缺乏非法占有的目的，不构成诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百九十七条**：国家机关工作人员滥用职权或者玩忽职守，致使公共财产、国家和人民利益遭受重大损失的，处三年以下有期徒刑或者拘役；情节特别严重的，处三年以上七年以下有期徒刑。本法另有规定的，依照规定。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观目的**：如果行为人以非法占有为目的，采取虚构事实、隐瞒真相的手段，骗取财物，则可能构成诈骗罪。例如，【（2016）京刑终120号】中，梁宝君提供虚假合同、发票，导致评估公司提高评估价格，最终多获取补偿款，构成诈骗罪。\n- **行为人的职责与失职**：如果行为人作为国有公司管理人员，未履行职责，导致国家财产遭受重大损失，可能构成玩忽职守罪。例如，【（2015）长刑终字第00010号】中，刘某某、闫某某、隋某某在拆迁补偿工作中未履行核实真伪的职责，导致国家财产损失，构成玩忽职守罪。\n- **行为人的配合与协助**：如果行为人配合他人实施诈骗行为，即使其本身不直接实施虚构事实、隐瞒真相的行为，也可能构成诈骗罪的共犯。例如，【（2020）内0104刑初292号】中，云柯、冯海飞、姚栓梅、田福义共同虚构事实，骗取拆迁补偿款，构成诈骗罪。\n\n综上，国有公司管理人员在拆迁补偿中未主动纠正评估错误，如果其行为导致国家财产遭受重大损失，可能构成玩忽职守罪。如果其行为还涉及非法占有目的，采取虚构事实、隐瞒真相的手段，可能构成诈骗罪。具体定罪量刑需根据行为人的主观目的、职责履行情况以及行为的配合与协助程度综合判断。\n\n#####\n类似案件为：\n【（2016）京刑终120号】：法院认为，梁宝君的诈骗行为所造成的社会危害性较小，其家属积极退款弥补经济损失，对梁宝君所犯诈骗罪可认定为情节严重，考虑其家属积极退款弥补经济损失，对梁宝君的量刑予以改判。梁宝君犯单位行贿罪，判处有期徒刑二年，并处罚金人民币十万元；犯诈骗罪，判处有期徒刑三年，并处罚金人民币十万元；决定执行有期徒刑三年六个月，并处罚金人民币二十万元。扣押在案的梁宝君亲属代为退缴的违法所得中1427719.98元作为违法所得及罚金予以没收，上缴国库。其余部分发还梁宝君及亲属。\n【（2015）长刑终字第00010号】：法院认为，焦建林以非法占有为目的，虚构事实，伪造证件，诈骗国家财产，数额特别巨大，构成诈骗罪。刘某某、闫某某、隋某某严重不负责任，未依法履行职责，致使国家财产遭受重大损失，构成玩忽职守罪。焦建林犯诈骗罪，判处有期徒刑十年，罚金六十万元；刘某某犯玩忽职守罪，判处有期徒刑三年，缓刑三年；李某某、黄某某犯诈骗罪，判处有期徒刑三年，缓刑四年/五年，罚金十五万元；闫某某、隋某某犯玩忽职守罪，免予刑事处罚；追缴焦建林违法所得款2409127元，上缴国库。刘某某、焦建林的上诉理由及辩护意见不予采纳，维持原判；刘某某二审期间认罪、悔罪，可依法适用缓刑，改判缓刑。\n【（2020）内0104刑初292号】：法院认为，被告人云柯、冯海飞、姚栓梅、田福义以非法占有为目的，虚构事实、隐瞒真相，骗取数额特别巨大的拆迁补偿款，其行为已构成诈骗罪。鉴于四被告人均具有自首、认罪认罚等情节，依法可以从轻或减轻处罚，其中云柯主动退回违法所得，可酌情从轻处罚。法院判决如下：\n一、冯海飞犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n二、姚栓梅犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n三、田福义犯诈骗罪，判处有期徒刑六年零六个月，并处罚金人民币二万元。\n四、云柯犯诈骗罪，判处有期徒刑六年，并处罚金人民币二万元。\n五、对四被告人违法所得693660元，依法继续予以追缴，责令退赔玉泉区南三环征收指挥部（云柯已退439303元）。\n六、对用于犯罪的人民币5000元，依法予以没收，上缴国库。",
+            "评估报告错误导致多领补偿款但未主动说明是否具有非法占有故意？": "### 结论\n评估报告错误导致多领补偿款但未主动说明，是否具有非法占有故意，主要取决于行为人在签订合同时的履约能力、后续的履约行为、对取得财物的处置情况、合同未履行的原因及事后态度等综合因素。如果行为人在签订合同时具有履约的现实可能性，且积极创造条件履行合同，后续未履约有一定客观原因，事后又积极承担义务、采取补救措施，主动弥补对方损失，一般不认定具有非法占有的目的，不构成合同诈骗罪。\n\n### 核心法条\n- **《最高人民法院关于审理行政协议案件若干问题的规定》第十六条第一款**：在履行行政协议过程中，可能出现严重损害国家利益、社会公共利益的情形，被告作出变更、解除协议的行政行为后，原告请求撤销该行为，人民法院经审理认为该行为合法的，判决驳回原告诉讼请求……\n- **《中华人民共和国合同法》第七十七条**：当事人协商一致，可以变更合同。\n- **《中华人民共和国公司法》第六十三条**：一人有限责任公司的股东不能证明公司财产独立于股东自己的财产的，应当对公司债务承担连带责任。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **评估报告的准确性**：如果评估报告存在重大错误，导致补偿款明显超出应得数额，且这种错误并非行政相对人故意或过失造成，但造成了国家利益的严重损害，行政机关有权基于公共利益需要，行使行政优益权变更协议。例如，【（2021）鲁01行终88号】、【（2021）鲁01行终98号】、【（2020）鲁0102行初373号】中，评估数据累加错误导致补偿款偏差过大，行政机关有权变更协议。\n- **行政相对人的主观过错**：如果行政相对人对于协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，行政相对人不具有合理的信赖利益，行政机关变更协议合法。例如，【（2021）鲁01行终88号】、【（2021）鲁01行终98号】中，行政相对人虽无过错，但因评估错误导致补偿款偏差过大，行政机关有权变更协议。\n- **合同诈骗罪的构成要件**：行为人使用真实身份签订合同，客观上具备履约能力，并有积极履行合同的行为，虽未全额支付货款但不能排除其抗辩理由的正当性，也不存在挥霍、隐匿财产等情形的，不能认定其主观上具有非法占有目的，不构成合同诈骗罪。例如，【（2019）云0325刑初70号】中，被告人胡娇在收到投资款后，确实将该投资款用于倒卖煤炭，但其收回煤款后，并未按约定将收回的款项归还投资人本金，也没有向投资人进行利润分红，其主观上具有非法占有他人财物的故意，构成合同诈骗罪。\n\n综上，评估报告错误导致多领补偿款，行为人未主动说明，是否构成非法占有故意，需综合考虑行为人在签订合同时的履约能力、后续的履约行为、对取得财物的处置情况、合同未履行的原因及事后态度等，以判断其主观目的。如果行为人无过错，且事后采取补救措施，一般不认定具有非法占有的目的。\n\n#####\n类似案件为：\n【（2021）鲁01行终88号】：本院认为，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表明显存在仓库评估单价认定错误的问题，导致侯桂锋依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。本案中，涉案行政协议约定的补偿款与行政相对人实际应获得的补偿款之间存在巨大偏差，远超社会普通大众的接受范围，显失公平，将导致社会公共利益的严重减损。济北街道办在发现涉案行政协议存在重大错误以后，即依据评估机构提交的修正评估结果表等材料，作出变更涉案《非住宅拆迁补偿安置协议书》的行政决定，并依法告知、送达，事实清楚，证据充分，程序正当，该变更行为符合公共利益需要且未对侯桂锋合法权益造成损害。侯桂锋对于涉案行政协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，在侯桂锋签字确认的《滨河新区集体土地上拆迁安置款项明细表》中亦能体现其所获补偿远远高于相似建筑面积的其他被拆迁人所获的补偿。故侯桂锋对其所获的补偿不具有合理的信赖利益，济北街道办作出涉案变更决定，要求侯桂锋将多领取的补偿款项退还济南市济阳区住房和城乡建设管理委员会，并无不当。判决撤销一审判决第一项，驳回被上诉人侯桂锋的诉讼请求。一、二审案件受理费各50元，均由被上诉人侯桂锋负担。本判决为终审判决。撤销济南市历下区人民法院(2020)鲁0102行初356号行政判决第一项；\n 二、驳回被上诉人侯桂锋的诉讼请求。\n【（2021）鲁01行终98号】：本院认为，济北街道办作为涉案村庄改造的实施主体，有权作出变更涉案行政协议的决定。根据评估结果表及修正后的评估结果表等证据，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表存在数据累加错误，导致崔善东所获补偿远超应获数额，显失公平，对社会公共利益造成重大影响。济北街道办在发现错误后，依据修正评估结果表作出变更决定，要求崔善东退还多领取的补偿款，事实清楚，证据充分，程序正当。崔善东对其所获补偿不具有合理信赖利益，变更决定符合公共利益需要且未损害其合法权益。济北街道办有权要求崔善东在判决生效后15日内返还多领取的补偿款，逾期按中国人民银行同期存款利率支付利息。综上，驳回上诉，维持原判。二审案件受理费由崔善东负担。驳回上诉，维持原判。\n【（2020）鲁0102行初373号】：本院认为，行政协议中行政机关在特定情形下享有单方变更或解除协议的行政优益权，以维护公共利益。本案中，被告济北街道办因第三方评估机构的累加计算错误，导致向原告多支付补偿款，属于严重损害国家利益的情形，其行使行政优益权变更协议合法。原告在整个协议订立及履行过程中无主观故意或过失，但评估数据累加错误属于被告内部审核问题，不能归咎于原告。被告济阳区政府的行政复议程序及决定合法。据此，判决驳回原告李某某的诉讼请求。案件受理费由原告负担。驳回原告李某某的诉讼请求。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：\n1.指出公诉方缺乏直接证据证明被告人存在诈骗的主观故意，被告人在整个测量评估过程中未在场，无法对评估结果施加影响\n2.强调评估报告错误将公房计入私房面积系评估公司工作失误所致，与被告人无关\n3.质疑39910元维修费补偿与被告人的关联性，该款项系青投公司要求评估公司添加，被告人未主动提出\n4.指出被告人未参与评估报告的编制过程，基于对专业评估机构的合理信赖接受了评估结果\n5.强调测量人员是根据青投公司工作人员指示进行测量，而非被告人提供虚假信息或主动误导\n\n防御策略：\n1.强调被告人实际建造的私房确实存在，补偿具有事实基础\n2.指出被告人对评估报告内容未提出异议是基于对专业评估机构的合理信赖\n3.说明被告人作为被征收方，无义务主动核实评估报告中的权属情况\n4.强调被告人未从补偿款中获取个人利益，款项主要用于公司运营支出\n5.指出被告人作为华亿公司总经理，在征收工作中仅负责协调事务，未参与公房与私房的确认工作",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第十四条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第十四条": "明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，因而构成犯罪的，是故意犯罪。故意犯罪，应当负刑事责任。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "在拆迁补偿案件中，如何认定诈骗罪的主观故意？",
+              "评估公司工作失误导致错误补偿，被补偿人是否构成诈骗罪？"
+            ],
+            "在拆迁补偿案件中，如何认定诈骗罪的主观故意？": "### 结论\n在拆迁补偿案件中，认定诈骗罪的主观故意主要通过行为人是否采取虚构事实、隐瞒真相等手段，以及是否具有非法占有目的来判断。行为人超出委托授权范围，冒领拆迁补偿款占为己有，数额较大，应认定为诈骗罪。行为人非法占有被害人财产是通过欺骗方式所得，而非合法取得，不符合侵占罪的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **虚构事实、隐瞒真相**：行为人通过虚构事实或隐瞒真相，如虚构土地租赁合同、隐瞒负债状况等，以非法占有为目的，骗取拆迁补偿款，构成诈骗罪。例如，【（2019）京0114刑初829号】中，被告人王元虚构其妻子租赁土地的事实，骗取拆迁补偿款，数额特别巨大，构成诈骗罪。\n- **非法占有目的**：行为人以非法占有为目的，采取欺骗手段，冒领拆迁补偿款，数额较大，应认定为诈骗罪。例如，【（2021）鲁0811刑初175号】中，被告人郑某以非法占有为目的，虚构事实，隐瞒真相，骗取拆迁补偿款，数额巨大，构成诈骗罪。\n- **超出委托授权范围**：行为人超出被害人委托授权范围，采取欺骗手段，冒领拆迁补偿款，数额较大，应认定为诈骗罪。例如，【（2013）淮中刑二终字第0076号】中，行为人超出委托授权范围，采取虚构事实、隐瞒真相等手段，冒领被害人拆迁补偿款占为己有，数额较大，构成诈骗罪。\n\n综上，行为人在拆迁补偿案件中，通过虚构事实、隐瞒真相，超出委托授权范围，以非法占有为目的，冒领拆迁补偿款，数额较大，应认定为诈骗罪。行为人非法占有被害人财产是通过欺骗方式所得，而非合法取得，不符合侵占罪的构成要件。\n\n#####\n类似案件为：\n【（2019）京0114刑初829号】：法院认为，王元以非法占有为目的，虚构其妻租赁土地的事实，骗取拆迁补偿款，数额特别巨大，其行为已构成诈骗罪。土方归属不影响补偿款归属，王元及其妻并非实际承租人，无合法依据获取补偿款。王元提供虚假合同，冒充签名，主观上具有非法占有故意，客观上实施了诈骗行为。一、被告人王元犯诈骗罪，判处有期徒刑十一年，剥夺政治权利二年，并处罚金人民币十一万元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月29日起至2030年4月28日止。罚金限判决生效后十日内缴纳)。\n二、在案扣押机动车一辆，退回公安机关处理。\n三、责令被告人王元退赔北京市昌平区城南街道办事处人民币一百一十三万四千四百二十四元。\n【（2021）鲁0811刑初175号】：法院认为，郑某以非法占有为目的，虚构事实，隐瞒真相，骗取数额巨大的拆迁补偿款，构成诈骗罪。鉴于郑某自首、退赃、认罪认罚，系初犯、偶犯，可依法从轻处罚。法院判决被告人郑某犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金人民币三万元。",
+            "评估公司工作失误导致错误补偿，被补偿人是否构成诈骗罪？": "### 结论\n评估公司工作失误导致错误补偿，被补偿人是否构成诈骗罪，关键在于被补偿人是否具有非法占有的目的和是否实施了虚构事实或隐瞒真相的行为。如果被补偿人明知补偿存在错误，且未主动纠正，而是利用错误获取不当利益，可能构成诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **被补偿人是否具有非法占有的目的**：如果被补偿人明知补偿存在错误，且未主动纠正，而是利用错误获取不当利益，可能构成诈骗罪。例如，【（2016）京刑终120号】中，梁宝君提供虚假合同、发票，导致评估公司提高补偿价格，最终多获取补偿款，构成诈骗罪。\n- **是否实施了虚构事实或隐瞒真相的行为**：如果被补偿人通过提供虚假材料或隐瞒真相的方式，使评估公司错误评估，导致错误补偿，可能构成诈骗罪。例如，【（2018）辽02刑终134号】中，吴国运采用虚构事实，隐瞒事实真相等手段，为他人骗得国家动迁补偿款，构成诈骗罪。\n- **是否主动纠正错误**：如果被补偿人在发现错误后主动向相关部门报告并纠正错误，可能不构成诈骗罪。例如，【（2020）冀0123刑初360号】中，赵建设自动投案，如实供述自己的部分罪行，全部退赃，构成自首，可以从轻处罚。\n- **是否具有自首情节**：如果被补偿人在案发后主动投案，如实供述自己的犯罪事实，构成自首，可以从轻处罚。例如，【（2022）青0104刑初6号】中，王**虽主动投案，但未对其实施的补签虚假合同及竣工验收单等主要犯罪事实如实供述，其行为不构成自首。\n\n综上，评估公司工作失误导致错误补偿，被补偿人是否构成诈骗罪，主要取决于被补偿人是否具有非法占有的目的，是否实施了虚构事实或隐瞒真相的行为，以及是否主动纠正错误或具有自首情节。如果被补偿人利用错误获取不当利益，且实施了欺诈行为，可能构成诈骗罪。\n\n#####\n类似案件为：\n【（2016）京刑终120号】：法院认为，梁宝君的诈骗行为所造成的社会危害性较小，其家属积极退款弥补经济损失，对梁宝君所犯诈骗罪可认定为情节严重，考虑其家属积极退款弥补经济损失，对梁宝君的量刑予以改判。梁宝君犯单位行贿罪，判处有期徒刑二年，并处罚金人民币十万元；犯诈骗罪，判处有期徒刑三年，并处罚金人民币十万元；决定执行有期徒刑三年六个月，并处罚金人民币二十万元。扣押在案的梁宝君亲属代为退缴的违法所得中1427719.98元作为违法所得及罚金予以没收，上缴国库。其余部分发还梁宝君及亲属。\n【（2018）辽02刑终134号】：法院认为，吴国运为使他人得到国家动迁补偿款，采用虚构事实、隐瞒真相手段，骗得国家动迁补偿款112万元，数额特别巨大，构成诈骗罪；程宝山伙同吴国运，采用虚构事实的方法，共同骗取国家动迁补偿款16万元，数额巨大，构成诈骗罪。原判认定的事实清楚，证据确实、充分，定罪准确，审判程序合法，但量刑不当。依法对吴国运的刑期予以调整，判处有期徒刑五年，并处罚金人民币十万元，依法报请最高人民法院核准后生效；程宝山犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金人民币二万元，自本判决送达之日起发生法律效力。\n吴国运的定罪与量刑依法报请最高人民法院核准后生效；程宝山的定罪与量刑自本判决送达之日起发生法律效力。\n【（2020）冀0123刑初360号】：法院认为，赵建设以非法占有为目的，在签订合同过程中，采取虚构事实或隐瞒真相的手段，骗取对方当事人财物，数额巨大，构成合同诈骗罪。赵建设自动投案，如实供述部分罪行，系自首，全部退赃，有立功表现，可从轻或减轻处罚。赵建设犯合同诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币15万元。\n法院判决内容体现了对赵建设从轻处罚的情节，包括自首、退赃、立功等，同时也认定了其合同诈骗的犯罪事实和数额巨大这一法定刑档。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.坚持未主动虚构事实或隐瞒真相的供述，强调测量时不在场，无法对测量结果施加影响 2.指出评估报告将公房计入私房面积系测量人员工作失误所致，无证据证明被告人对错误测量存在教唆或明知 3.说明维修费39910元系青投公司要求评估公司添加，与被告人无关 4.强调被告人对房屋权属无隐瞒行为，其私房建设事实存在 5.指出被告人在案发后积极配合调查，无逃避责任行为",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人展某是否具有非法占有的主观故意。查明情况：公诉人认为被告人在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性；辩护人主张被告人不在场且未主动提供虚假信息，评估错误系评估公司工作失误所致。审判长认为需要结合被告人的职责身份和具体行为进一步查明其主观认知程度。\n\n2.评估报告中将老锅炉房计入私房面积的具体过程及责任归属。查明情况：被告人坚称测量时不在场且未参与评估过程，但作为被征收方未对明显错误的评估报告提出异议。审判长认为需要结合证人证言进一步核实测量过程的具体情况，特别是青投公司工作人员与评估公司的互动过程。\n\n3.被告人作为国有公司总经理的身份是否影响行为定性。查明情况：公诉人认为被告人对国有资产负有监管职责，其不作为行为与职务身份直接相关；辩护人主张被告人不承担评估报告审核义务。审判长认为需要进一步查明被告人的具体职责范围。\n\n4.诈骗金额的认定标准。查明情况：公诉人指控120729元为诈骗金额，包括老锅炉房补偿和维修费补偿；被告人辩称该金额系评估公司自主确定。审判长认为需要区分两项补偿的具体构成及被告人的参与程度。\n\n5.犯罪形态的认定。查明情况：公诉机关认为犯罪未遂，但被告人已实际获得补偿款。审判长认为需要明确款项是否已被追回或实际控制，以及被告人对款项的实际支配情况。\n\n6.量刑情节的考量。查明情况：被告人未主动退赃或采取补救措施，但案件曾因证据不足变更强制措施。审判长认为需要综合评估案件的特殊情况，包括被告人的认罪态度和悔罪表现。\n\n7.补偿款的实际用途。查明情况：被告人称用于公司运营，但未提供具体财务凭证。审判长认为需要调取相关财务记录进行核实，以确定款项流向与被告人主张是否一致。\n\n8.评估报告出具后被告人的反应。查明情况：被告人承认看到报告但未提出异议，辩称信任评估公司专业性。审判长认为需要评估这种不作为的主观过错程度，特别是结合被告人的专业背景和职责要求。\n\n9.被告人是否具有诈骗罪的犯罪主体资格。查明情况：被告人作为国有公司管理人员，其身份是否构成特殊主体要件。审判长认为需要结合刑法相关规定进一步明确。\n\n10.评估报告错误的性质认定。查明情况：公诉人认为系被告人放任导致；辩护人主张系评估公司独立工作失误。审判长认为需要区分评估错误的性质及与被告人的关联程度。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第十四条",
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十一条",
+              "中华人民共和国刑法第六十四条",
+              "中华人民共和国刑法第九十一条"
+            ],
+            "中华人民共和国刑法第十四条": "明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，因而构成犯罪的，是故意犯罪。故意犯罪，应当负刑事责任。",
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十一条": "对于犯罪分子决定刑罚的时候，应当根据犯罪的事实、犯罪的性质、情节和对于社会的危害程度，依照本法的有关规定判处。",
+            "中华人民共和国刑法第六十四条": "犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。",
+            "中华人民共和国刑法第九十一条": "本法所称公共财产，是指下列财产：（一）国有财产；（二）劳动群众集体所有的财产；（三）用于扶贫和其他公益事业的社会捐助或者专项基金的财产。在国家机关、国有公司、企业、集体企业和人民团体管理、使用或者运输中的私人财产，以公共财产论。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司管理人员未对错误评估报告提出异议是否构成诈骗罪？",
+              "评估报告错误导致补偿款多付，被征收方未提出异议的法律责任如何认定？"
+            ],
+            "国有公司管理人员未对错误评估报告提出异议是否构成诈骗罪？": "国有公司管理人员未对错误评估报告提出异议的行为，本身并不直接构成诈骗罪。诈骗罪是指以非法占有为目的，用虚构事实或者隐瞒真相的方法，骗取数额较大的公私财物的行为。国有公司管理人员的职责是确保公司资产的安全和合理使用，以及遵守相关法律法规和公司规定。\n\n如果管理人员明知评估报告存在重大错误，且这种错误可能导致公司资产的不当流失或造成重大损失，而故意不提出异议，其行为可能构成玩忽职守罪、滥用职权罪或其他相关职务犯罪，具体取决于其行为的性质、后果以及相关法律的具体规定。\n\n例如，根据《中华人民共和国刑法》第三百九十七条的规定，国家机关工作人员滥用职权或者玩忽职守，致使公共财产、国家和人民利益遭受重大损失的，构成滥用职权罪或玩忽职守罪。\n\n因此，国有公司管理人员在面对错误评估报告时，应当根据其职责和所掌握的信息，及时提出异议并采取合理措施，以防止公司利益受损。如果其行为导致了严重的后果，可能需要承担相应的法律责任。在具体案件中，是否构成犯罪以及具体罪名，需要根据案件的具体事实和证据，结合相关法律规定进行判断。",
+            "评估报告错误导致补偿款多付，被征收方未提出异议的法律责任如何认定？": "### 结论\n评估报告错误导致补偿款多付，被征收方未提出异议的情况下，行政机关有权依据评估机构提交的修正评估结果，单方面变更行政协议，要求被征收方退还多领取的补偿款项，且不损害被征收方的合法权益。\n\n### 核心法条\n- **《最高人民法院关于审理行政协议案件若干问题的规定》第十六条第一款**：在履行行政协议过程中，可能出现严重损害国家利益、社会公共利益的情形，被告作出变更、解除协议的行政行为后，原告请求撤销该行为，人民法院经审理认为该行为合法的，判决驳回原告诉讼请求。\n- **《山东省行政程序规定》第一百零五条**：行政合同受法律保护，合同当事人不得擅自变更、中止或者解除合同。行政合同在履行过程中，出现严重损害国家利益或者公共利益的重大情形，行政机关有权变更或者解除合同。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **评估报告的准确性**：如果评估报告存在明显错误，导致补偿款与应获补偿款之间存在巨大偏差，行政机关有权依据修正后的评估结果变更行政协议。例如，【（2021）鲁01行终88号】中，法院认为评估结果表明显存在仓库评估单价认定错误的问题，导致被征收方依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。\n- **公共利益的考量**：行政机关的单方变更、解除权应受到一定限制，只能在国家法律政策和协议基础事实发生变化，或者履行协议会给国家利益或者社会公共利益带来重大损失的情况下才能行使。例如，【（2021）鲁01行终88号】中，法院认为政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。\n- **被征收方的信赖利益**：即使被征收方对于协议中的数据错误不存在过错，但如果协议约定的总价款与其应获补偿价款偏差过大，被征收方对其所获的补偿不具有合理的信赖利益。例如，【（2021）鲁01行终88号】中，法院认为被征收方对其所获的补偿不具有合理的信赖利益，行政机关作出涉案变更决定，要求被征收方将多领取的补偿款项退还并无不当。\n\n综上，评估报告错误导致补偿款多付，被征收方未提出异议的情况下，行政机关有权依据修正后的评估结果，单方面变更行政协议，要求被征收方退还多领取的补偿款项，且不损害被征收方的合法权益，前提是该变更行为符合公共利益需要且未对被征收方合法权益造成损害。\n\n#####\n类似案件为：\n【（2021）鲁01行终88号】：本院认为，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表明显存在仓库评估单价认定错误的问题，导致侯桂锋依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。本案中，涉案行政协议约定的补偿款与行政相对人实际应获得的补偿款之间存在巨大偏差，远超社会普通大众的接受范围，显失公平，将导致社会公共利益的严重减损。济北街道办在发现涉案行政协议存在重大错误以后，即依据评估机构提交的修正评估结果表等材料，作出变更涉案《非住宅拆迁补偿安置协议书》的行政决定，并依法告知、送达，事实清楚，证据充分，程序正当，该变更行为符合公共利益需要且未对侯桂锋合法权益造成损害。侯桂锋对于涉案行政协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，在侯桂锋签字确认的《滨河新区集体土地上拆迁安置款项明细表》中亦能体现其所获补偿远远高于相似建筑面积的其他被拆迁人所获的补偿。故侯桂锋对其所获的补偿不具有合理的信赖利益，济北街道办作出涉案变更决定，要求侯桂锋将多领取的补偿款项退还济南市济阳区住房和城乡建设管理委员会，并无不当。判决撤销一审判决第一项，驳回被上诉人侯桂锋的诉讼请求。一、二审案件受理费各50元，均由被上诉人侯桂锋负担。本判决为终审判决。撤销济南市历下区人民法院(2020)鲁0102行初356号行政判决第一项；\n 二、驳回被上诉人侯桂锋的诉讼请求。\n【（2021）鲁01行终88号】：本院认为，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表明显存在仓库评估单价认定错误的问题，导致侯桂锋依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。本案中，涉案行政协议约定的补偿款与行政相对人实际应获得的补偿款之间存在巨大偏差，远超社会普通大众的接受范围，显失公平，将导致社会公共利益的严重减损。济北街道办在发现涉案行政协议存在重大错误以后，即依据评估机构提交的修正评估结果表等材料，作出变更涉案《非住宅拆迁补偿安置协议书》的行政决定，并依法告知、送达，事实清楚，证据充分，程序正当，该变更行为符合公共利益需要且未对侯桂锋合法权益造成损害。侯桂锋对于涉案行政协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，在侯桂锋签字确认的《滨河新区集体土地上拆迁安置款项明细表》中亦能体现其所获补偿远远高于相似建筑面积的其他被拆迁人所获的补偿。故侯桂锋对其所获的补偿不具有合理的信赖利益，济北街道办作出涉案变更决定，要求侯桂锋将多领取的补偿款项退还济南市济阳区住房和城乡建设管理委员会，并无不当。判决撤销一审判决第一项，驳回被上诉人侯桂锋的诉讼请求。一、二审案件受理费各50元，均由被上诉人侯桂锋负担。本判决为终审判决。撤销济南市历下区人民法院(2020)鲁0102行初356号行政判决第一项；\n 二、驳回被上诉人侯桂锋的诉讼请求。\n【（2021）鲁01行终88号】：本院认为，涉案《非住宅拆迁补偿安置协议书》所依据的评估结果表明显存在仓库评估单价认定错误的问题，导致侯桂锋依补偿协议所获货币补偿数额大大超过应获数额，明显有悖公平、合理的拆迁补偿原则。政府为实现其行政管理目标，在行政协议中约定支付的款项来源于公共财政，不对该款项进行合理合法的控制，必然会对社会公共利益造成不利影响。本案中，涉案行政协议约定的补偿款与行政相对人实际应获得的补偿款之间存在巨大偏差，远超社会普通大众的接受范围，显失公平，将导致社会公共利益的严重减损。济北街道办在发现涉案行政协议存在重大错误以后，即依据评估机构提交的修正评估结果表等材料，作出变更涉案《非住宅拆迁补偿安置协议书》的行政决定，并依法告知、送达，事实清楚，证据充分，程序正当，该变更行为符合公共利益需要且未对侯桂锋合法权益造成损害。侯桂锋对于涉案行政协议中的数据错误不存在过错，但协议约定的总价款与其应获补偿价款偏差过大，在侯桂锋签字确认的《滨河新区集体土地上拆迁安置款项明细表》中亦能体现其所获补偿远远高于相似建筑面积的其他被拆迁人所获的补偿。故侯桂锋对其所获的补偿不具有合理的信赖利益，济北街道办作出涉案变更决定，要求侯桂锋将多领取的补偿款项退还济南市济阳区住房和城乡建设管理委员会，并无不当。判决撤销一审判决第一项，驳回被上诉人侯桂锋的诉讼请求。一、二审案件受理费各50元，均由被上诉人侯桂锋负担。本判决为终审判决。撤销济南市历下区人民法院(2020)鲁0102行初356号行政判决第一项；\n 二、驳回被上诉人侯桂锋的诉讼请求。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人展某是否具有非法占有的主观故意。查明情况：公诉人认为被告人在明知老锅炉房为公房的情况下，未对评估报告中的明显错误提出异议，其不作为行为与诈骗主观故意具有直接关联性；辩护人主张被告人不在场且未主动提供虚假信息，评估错误系评估公司工作失误所致。审判长认为需要结合被告人的职责身份和具体行为进一步查明其主观认知程度。\n\n2.评估报告中将老锅炉房计入私房面积的具体过程及责任归属。查明情况：被告人坚称测量时不在场且未参与评估过程，但作为被征收方未对明显错误的评估报告提出异议。审判长认为需要结合证人证言进一步核实测量过程的具体情况，特别是青投公司工作人员与评估公司的互动过程。\n\n3.被告人作为国有公司总经理的身份是否影响行为定性。查明情况：公诉人认为被告人对国有资产负有监管职责，其不作为行为与职务身份直接相关；辩护人主张被告人不承担评估报告审核义务。审判长认为需要进一步查明被告人的具体职责范围。\n\n4.诈骗金额的认定标准。查明情况：公诉人指控120729元为诈骗金额，包括老锅炉房补偿和维修费补偿；被告人辩称该金额系评估公司自主确定。审判长认为需要区分两项补偿的具体构成及被告人的参与程度。\n\n5.犯罪形态的认定。查明情况：公诉机关认为犯罪未遂，但被告人已实际获得补偿款。审判长认为需要明确款项是否已被追回或实际控制，以及被告人对款项的实际支配情况。\n\n6.量刑情节的考量。查明情况：被告人未主动退赃或采取补救措施，但案件曾因证据不足变更强制措施。审判长认为需要综合评估案件的特殊情况，包括被告人的认罪态度和悔罪表现。\n\n7.补偿款的实际用途。查明情况：被告人称用于公司运营，但未提供具体财务凭证。审判长认为需要调取相关财务记录进行核实，以确定款项流向与被告人主张是否一致。\n\n8.评估报告出具后被告人的反应。查明情况：被告人承认看到报告但未提出异议，辩称信任评估公司专业性。审判长认为需要评估这种不作为的主观过错程度，特别是结合被告人的专业背景和职责要求。\n\n9.被告人是否具有诈骗罪的犯罪主体资格。查明情况：被告人作为国有公司管理人员，其身份是否构成特殊主体要件。审判长认为需要结合刑法相关规定进一步明确。\n\n10.评估报告错误的性质认定。查明情况：公诉人认为系被告人放任导致；辩护人主张系评估公司独立工作失误。审判长认为需要区分评估错误的性质及与被告人的关联程度。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第二百六十六条",
+              "中华人民共和国刑法第六十七条",
+              "中华人民共和国刑法第七十二条"
+            ],
+            "中华人民共和国刑法第二百六十六条": "诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。",
+            "中华人民共和国刑法第七十二条": "对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合下列条件的，可以宣告缓刑，对其中不满十八周岁的人、怀孕的妇女和已满七十五周岁的人，应当宣告缓刑：（一）犯罪情节较轻；（二）有悔罪表现；（三）没有再犯罪的危险；（四）宣告缓刑对所居住社区没有重大不良影响。宣告缓刑，可以根据犯罪情况，同时禁止犯罪分子在缓刑考验期限内从事特定活动，进入特定区域、场所，接触特定的人。被宣告缓刑的犯罪分子，如果被判处附加刑，附加刑仍须执行。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "国有公司管理人员诈骗拆迁补偿款类似案例",
+              "诈骗罪数额巨大的刑期范围",
+              "诈骗罪适用缓刑的条件",
+              "诈骗罪罚金数额标准"
+            ],
+            "国有公司管理人员诈骗拆迁补偿款类似案例": "### 结论\n国有公司管理人员诈骗拆迁补偿款的案例中，关键因素包括行为人的主观故意、非法占有目的、行为手段（虚构事实、隐瞒真相）、犯罪数额、自首与立功情节、退赃情况、主从犯认定以及对社会的危害程度。法院在判决时会综合考虑上述因素，对行为人是否构成诈骗罪、贪污罪或非国家工作人员受贿罪进行定性，并根据犯罪情节的轻重进行量刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。\n- **《中华人民共和国刑法》第三百八十二条**：国家工作人员利用职务上的便利，侵吞、窃取、骗取或者以其他手段非法占有公共财物的，是贪污罪。\n- **《中华人民共和国刑法》第一百六十三条**：公司、企业或者其他单位的工作人员利用职务上的便利，索取他人财物或者非法收受他人财物，为他人谋取利益，数额较大的，处三年以下有期徒刑或者拘役，并处罚金；数额巨大的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的主观故意和非法占有目的**：法院会审查行为人是否具有非法占有的目的，以及是否采取了虚构事实、隐瞒真相等手段。例如，【（2014）鄂武汉中刑终字第00478号】、【（2017）渝05刑终982号】、【（2019）京刑终115号】中，行为人均以非法占有为目的，虚构事实，骗取国家拆迁补偿款，构成诈骗罪。\n- **犯罪数额**：犯罪数额是判断犯罪情节轻重的重要因素。如【（2017）渝05刑终982号】中，犯罪金额为54.5万元，属数额特别巨大；【（2019）京刑终115号】中，犯罪金额特别巨大，影响了量刑。\n- **自首与立功情节**：【（2014）鄂武汉中刑终字第00478号】、【（2017）渝05刑终982号】、【（2019）京刑终115号】中，行为人具有自首情节，依法可减轻处罚。\n- **退赃情况**：【（2017）渝05刑终982号】中，陈欢积极退出全部赃款，依法可对其从轻处罚。\n- **主从犯认定**：【（2022）黔01刑终509号】中，李某华系主犯，王某镔、詹某强系从犯，依法应当从轻、减轻处罚。\n- **对社会的危害程度**：【（2016）皖03刑终36号】中，厉某在缓刑考验期内又犯新罪，应当撤销缓刑，数罪并罚。\n\n综上，行为人的主观故意、非法占有目的、犯罪数额、自首与立功情节、退赃情况、主从犯认定以及对社会的危害程度是影响判决的关键因素。法院在判决时会综合考虑上述因素，对行为人进行定罪量刑。\n\n#####\n类似案件为：\n【（2014）鄂武汉中刑终字第00478号】：法院认为，龚某受国家机关委托行使职权时，违反规定处理公务，致国家利益遭受重大损失，其行为构成滥用职权罪；杨添强、万进、杨小青、朱俊龙、程钧以非法占有为目的，虚构事实骗取国家拆迁补偿款，数额特别巨大，构成诈骗罪。在诈骗犯罪中，杨添强、万进、杨小青、程钧起主要作用，系主犯；朱俊龙起次要作用，系从犯。程钧有立功表现，依法可以减轻处罚；程钧在缓刑考验期内又犯新罪，应撤销缓刑，与诈骗罪实行数罪并罚。法院以滥用职权罪判处龚某有期徒刑三年，缓刑三年；以诈骗罪判处杨添强有期徒刑八年六个月，并处罚金人民币二万元；判处万进有期徒刑八年，并处罚金人民币二万元；判处杨小青有期徒刑九年，并处罚金人民币二万元；判处朱俊龙有期徒刑五年，并处罚金人民币一万元；判处程钧有期徒刑六年，并处罚金人民币二万元，与前罪并罚，决定执行有期徒刑七年，并处罚金人民币二万元。\n【（2017）渝05刑终982号】：法院认为，周启建、董胜富、张开明、陈欢以非法占有为目的，伙同他人虚构事实，骗取国家征地拆迁安置补偿款，其行为均已构成诈骗罪。张开明在前罪判决宣告以后，刑罚执行完毕以前，发现其在判决宣告以前还有其他罪没有判决，应当对新发现的罪作出判决，把前后两个判决所判处的刑罚，依法实行数罪并罚。张开明具有坦白情节，依法可从轻处罚。董胜富具有自首情节，依法可减轻处罚。陈欢具有自首情节，并积极退出全部赃款，依法可对其从轻处罚，结合其犯罪事实和情节，适用缓刑对其所居住社区没有重大不良影响，依法可对其适用缓刑。周启建具有自首情节和立功表现，且在二审中退出本案所余全部赃款，认罪悔罪，对周启建适用缓刑对其所在社区无重大不良影响，故依法对周启建的量刑予以改判并适用缓刑。一审判决认定事实清楚，适用法律正确，审判程序合法，对原审被告人董胜富、张开明、陈欢的量刑适当。鉴于周启建在二审中退出本案所余全部赃款，依法对周启建的量刑予以改判并适用缓刑。\n【（2017）渝05刑终982号】：法院认为，周启建、董胜富、张开明、陈欢以非法占有为目的，伙同他人虚构事实，骗取国家征地拆迁安置补偿款，其行为均已构成诈骗罪。张开明在前罪判决宣告以后，刑罚执行完毕以前，发现其在判决宣告以前还有其他罪没有判决，应当对新发现的罪作出判决，把前后两个判决所判处的刑罚，依法实行数罪并罚。张开明具有坦白情节，依法可从轻处罚。董胜富具有自首情节，依法可减轻处罚。陈欢具有自首情节，并积极退出全部赃款，依法可对其从轻处罚，结合其犯罪事实和情节，适用缓刑对其所居住社区没有重大不良影响，依法可对其适用缓刑。周启建具有自首情节和立功表现，且在二审中退出本案所余全部赃款，认罪悔罪，对周启建适用缓刑对其所在社区无重大不良影响，故依法对周启建的量刑予以改判并适用缓刑。一审判决认定事实清楚，适用法律正确，审判程序合法，对原审被告人董胜富、张开明、陈欢的量刑适当。鉴于周启建在二审中退出本案所余全部赃款，依法对周启建的量刑予以改判并适用缓刑。",
+            "诈骗罪数额巨大的刑期范围": "### 结论\n诈骗罪数额巨大的刑期范围为三年以上十年以下有期徒刑，并处罚金。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定诈骗公私财物，数额巨大的，处三年以上十年以下有期徒刑，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **诈骗数额**：诈骗数额巨大是影响刑期的关键因素。例如，【（2019）粤1202刑初268号】中，被告人黎某焯诈骗金额巨大，法院依法在三年以上十年以下有期徒刑的幅度内量刑。\n- **从犯与主犯**：在共同犯罪中，从犯与主犯的区分会影响量刑。例如，【（2019）浙0681刑初712号】中，虽然被告人周黎、何攀攀、曹文灿、史王琦、吴永昌在犯罪集团中，但法院认为他们并非从犯，因为他们在具体实施过程中分工不同，无明显的主次之分。\n- **认罪态度与退赔情况**：被告人的认罪态度和是否退赔被害人的经济损失也会影响量刑。例如，【（2019）粤0981刑初137号】中，被告人吴晓峰归案后能如实供述其犯罪事实，认罪态度好，依法可以从轻处罚。\n- **诈骗对象**：诈骗老年人财物的，根据最高人民法院、最高人民检察院《关于办理诈骗刑事案件具体应用法律若干问题的解释》第二条，应当认定为“其他严重情节”，可能影响量刑。例如，【（2020）浙0421刑初302号】中，虽然未具体提及诈骗对象，但诈骗数额特别巨大，法院在量刑时考虑了这一情节。\n\n综上，诈骗罪数额巨大的刑期范围为三年以上十年以下有期徒刑，并处罚金，但具体量刑会根据诈骗数额、被告人在犯罪中的作用、认罪态度、退赔情况以及诈骗对象等因素进行调整。\n\n#####\n类似案件为：\n【（2019）粤1202刑初268号】：法院认为，黎某焯以非法占有为目的，虚构事实，隐瞒真相，骗取他人财物，数额巨大，其行为构成诈骗罪。鉴于黎某焯归案后如实供述罪行，退赔被害人全部经济损失并取得谅解，依法可以从轻处罚。诈骗金额巨大，且无减轻情节，论罪应在三年以上十年以下幅度内量刑。辩护人建议在三年以下有期徒刑的范围内量刑的建议不予采纳，但考虑到黎某焯是初犯、偶犯，且积极退赃、退赔，建议从轻处罚并适用缓刑的意见确有理据，予以采纳。被告人黎某焯犯诈骗罪，判处有期徒刑三年，缓刑三年，并处罚金一万五千元。\n（缓刑考验期从判决确定之日起计算。罚金限于判决生效后十日内缴清。）\n【（2019）浙0681刑初712号】：法院认为，被告人叶鹏鹏、周黎、何攀攀、曹文灿、史王琦、吴永昌以非法占有为目的，采用虚构事实、隐瞒真相的方法骗取他人财物，数额较大，构成诈骗罪，系共同犯罪，且为犯罪集团。被告人叶鹏鹏系犯罪集团首要分子，对其应当按照集团所犯的全部罪行处罚，且其诈骗金额接近“数额巨大”，具有“其他严重情节”，依法应处三年以上十年以下有期徒刑。被告人周黎、何攀攀、曹文灿、史王琦、吴永昌系犯罪集团成员，应当按照各自所参与的全部犯罪处罚。各被告人归案后均能如实供述自己罪行，被告人叶鹏鹏归案后虽未如实供述，但庭审中认罪悔罪，且积极退缴全部赃款，对各被告人分别予以从轻处罚。根据被告人曹文灿、史王琦的犯罪情节及认罪悔罪态度，依法适用缓刑。一、被告人叶鹏鹏犯诈骗罪，判处有期徒刑三年，并处罚金人民币五万元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一九年一月二十五日起至二0二二年一月二十四日止。罚金限判决生效后十日内缴\n 纳）；\n 二、被告人周黎犯诈骗罪，判处有期徒刑十个月，并处罚金人民币一万五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一九年一月二十五日起至二0一九年十一月日二十四止。罚金限判决生效后即缴纳）；\n 三、被告人何攀攀犯诈骗罪，判处有期徒刑十个月，并处罚金人民币一万五千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二0一九年一月二十五日起至二0一九年十一月二十四日止。罚金限判决生效后即缴纳）；\n 四、被告人曹文灿犯诈骗罪，判处有期徒刑十个月，缓刑一年三个月，并处罚金人民币二万元（缓刑考验期限从判决确定之日起计算。罚金限判决生效后即缴纳）；\n 五、被告人史王琦犯诈骗罪，判处有期徒刑九个月，缓刑一年二个月，并处罚金人民币一万五千元（缓刑考验期限从确定执行之日起计算。罚金限判决生效后即缴纳）；\n 六、被告人吴永昌犯诈骗罪，判处有期徒刑六个月，并处罚金人民币六千元（刑期从判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自二0一九年一月二十五日起至二0二0年二月十九日止。罚金限判决生效后十日内缴纳）；\n 七、扣押在案的款项10万元，其中69774元由扣押机关诸暨市公安局依法返还给各被害人；余款30226元由公安机关依法处理。\n【（2019）粤0981刑初137号】：法院认为，被告人吴晓峰无视国家法律，以虚构事实手段，骗取他人钱财，数额巨大，其行为已构成诈骗罪。鉴于吴晓峰归案后能如实供述犯罪事实，认罪态度好，依法可以从轻处罚。根据刑法规定，诈骗数额巨大，应在三年以上十年以下有期徒刑，并处罚金的幅度量刑。公诉机关量刑建议及被告人从轻处罚意见，法院予以采纳。一、被告人吴晓峰犯诈骗罪，判处有期徒刑四年，并处罚金人民币一万元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年11月28日起至2022年11月27日止；并处罚金人民币一万元，限于本判决生效后第二日起十日内向本院缴纳。）\n二、责令被告人吴晓峰在本判决生效后十日内退赔给被害人陈华权的财物人民币151000元。",
+            "诈骗罪适用缓刑的条件": "### 结论\n诈骗罪适用缓刑的条件主要包括：犯罪情节较轻、有悔罪表现、没有再犯罪的危险、积极退赔被害人经济损失并取得谅解、自愿认罪认罚、犯罪数额不大、社会危害性较小。对于未成年人犯罪，若其真诚认罪、悔罪，主观恶性不深，依法从宽处罚，符合缓刑适用条件的，依法适用缓刑。但对于诈骗数额巨大、有前科、社会危害性大、未积极退赔或未取得谅解的，一般不适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第二百六十六条**：规定了诈骗罪的构成要件。\n- **《中华人民共和国刑法》第六十七条第一款**：规定了自首可以从轻或减轻处罚。\n- **《中华人民共和国刑法》第七十二条第一、三款**：规定了适用缓刑的条件。\n- **《中华人民共和国刑法》第七十三条第一、三款**：规定了缓刑的考验期限。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与认罪认罚**：自首和认罪认罚是法院考虑从轻处罚的重要因素。例如，【（2021）粤0305刑初197号】、【（2020）苏0803刑初298号】、【（2020）苏0281刑初1136号】中，被告人均因自首和认罪认罚而获得从轻处罚。\n- **退赔与谅解**：积极退赔被害人经济损失并取得谅解是适用缓刑的重要条件。如【（2021）粤0305刑初197号】、【（2019）浙0225刑初375号】中，被告人因退赔并取得谅解而适用缓刑。\n- **犯罪数额与社会危害性**：犯罪数额巨大或社会危害性大的，一般不适用缓刑。如【（2020）苏0803刑初298号】、【（2024）川3301刑初11号】中，因犯罪数额巨大，法院未适用缓刑。\n- **未成年人犯罪**：对于未成年人犯罪，法院倾向于教育、感化、挽救为主，依法从宽处罚，符合缓刑适用条件的，依法适用缓刑。如相关观点中提到的未成年人犯罪案例。\n\n综上，诈骗罪适用缓刑需综合考虑犯罪情节、自首与认罪认罚、退赔与谅解、犯罪数额与社会危害性以及被告人的年龄等因素。\n\n#####\n类似案件为：\n【（2021）粤0305刑初197号】：法院认为，被告人符精虚构事实，骗取他人17000元，数额较大，其行为已构成诈骗罪。被告人具有自首、认罪认罚及已退赔被害人经济损失，取得被害人谅解的从轻情节。被告人犯罪情节较轻、有悔罪表现、没有再犯罪危险，符合适用缓刑的条件。法院判决被告人符精犯诈骗罪，判处拘役四个月，缓刑六个月，并处罚金人民币二千元。\n【（2020）苏0803刑初298号】：法院认为，被告人孙洪兵以非法占有为目的，诈骗他人财物，数额巨大，其行为构成诈骗罪。鉴于孙洪兵自首、认罪认罚、赔偿并取得谅解，依法可减轻处罚；但其诈骗数额巨大，且有诈骗犯罪前科，不具备适用缓刑的法定条件。被告人孙洪兵犯诈骗罪，判处有期徒刑二年，并处罚金人民币四万元。\n （刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年7月30日起至2022年7月29日止；罚金自本判决生效之日起十日内缴纳。）\n【（2020）苏0281刑初1136号】：法院认为，被告人汪洪海的行为已构成诈骗罪，鉴于其自首、认罪认罚、部分退赔等情节，但考虑到其犯罪情节及社会危害，不具备缓刑适用条件，决定不适用缓刑。一、被告人汪洪海犯诈骗罪，判处有期徒刑七个月（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，自2020年6月17日起至2020年12月16日止），并处罚金人民币三千元（罚金于本判决发生法律效力第二日起十日内一次性缴纳）。\n二、责令被告人汪洪海退出违法所得人民币12800元，发还被害人蔡某人民币7500元、被害人张某人民币5300元。",
+            "诈骗罪罚金数额标准": "### 结论\n诈骗罪的罚金数额标准并非固定，而是根据犯罪的具体情节、数额大小、被告人的经济状况以及犯罪行为的社会危害性等因素综合确定。在具体案件中，法院通常会根据《中华人民共和国刑法》第五十二条、第五十三条的规定，结合被告人的犯罪情节和经济状况，合理确定罚金数额。\n\n### 核心法条\n- **《中华人民共和国刑法》第五十二条**：判处罚金，应当根据犯罪情节决定罚金数额。\n- **《中华人民共和国刑法》第五十三条**：罚金在判决指定的期限内一次或者分期缴纳。期满不缴纳的，强制缴纳。对于不能全部缴纳罚金的，人民法院在任何时候发现被执行人有可以执行的财产，应当随时追缴。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额是确定罚金数额的重要因素。例如，【（2013）一中刑终字第1996号】中，被告人杨金凤诈骗数额特别巨大，被判处罚金人民币一万二千元；【（2017）冀0825刑初104号】中，被告人白某诈骗数额较小，被判处罚金人民币五千元。\n- **犯罪情节**：犯罪情节包括被告人的主观恶性、犯罪手段、犯罪后果等，也会影响罚金数额的确定。例如，【（2020）沪0112刑初1600号】中，法院认为公诉机关的罚金刑量刑建议尚不足以起到惩戒作用，对罚金数额进行了调整。\n- **被告人的经济状况**：被告人的经济状况也是法院在确定罚金数额时考虑的因素之一。例如，【（2013）一中刑终字第1996号】中，被告人杨金凤的罚金数额与【（2017）冀0825刑初104号】中被告人白某的罚金数额不同，可能与两被告人的经济状况有关。\n- **社会危害性**：犯罪行为对社会的危害程度也会影响罚金数额的确定。例如，【（2020）粤03刑终2352号】中，被告人刘某峰等人的犯罪行为严重扰乱社会秩序，法院在确定罚金数额时可能考虑了这一因素。\n\n综上，诈骗罪的罚金数额标准是根据犯罪的具体情节、数额大小、被告人的经济状况以及犯罪行为的社会危害性等因素综合确定的。法院在具体案件中会根据《中华人民共和国刑法》第五十二条、第五十三条的规定，结合上述因素合理确定罚金数额。\n\n#####\n类似案件为：\n【（2020）沪0112刑初1600号】：法院认为，被告人姚某某犯诈骗罪的事实清楚，证据确实、充分，指控罪名成立，主刑量刑建议适当，应予采纳；罚金刑量刑建议调整为二万元。被告人姚某某犯诈骗罪，判处有期徒刑一年，缓刑二年，并处罚金人民币二万元。\n(缓刑考验期限，从判决确定之日起计算。罚金自本判决生效之日起三十日内如数缴纳。)\n姚某某回到社区后，应当遵守法律、法规，服从监督管理，接受教育，完成公益劳动，做一名有益社会的公民。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 20000.0,
+    "reprieve": 48.0
+  }
+]

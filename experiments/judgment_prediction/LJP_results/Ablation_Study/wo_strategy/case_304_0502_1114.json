@@ -1,0 +1,1443 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人梅某，男，汉族，户籍XXX，因交通肇事犯罪受过处罚。因涉嫌犯强奸罪，于2017年6月22日主动投案并被刑事拘留。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "因交通肇事犯罪受过处罚。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "宣城市宣州区人民检察院  \n起 诉 书  \n\n宣州检刑诉〔2017〕370号  \n\n被告人梅某，男，汉族，户籍XXX，因交通肇事犯罪受过处罚（系过失犯罪）。因涉嫌犯强奸罪，于2017年6月22日主动投案并被刑事拘留。  \n\n本案由宣城市公安局宣州分局侦查终结，以被告人梅某涉嫌强奸罪，于2017年9月21日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年9月份的一天晚上8时许，被告人梅某在同村村民杨某甲家参与宴请后回到家中，在其家中的洗澡间洗浴。在此期间，遇同村的刘某甲（系2000年11月22日出生）来其经营的杂货店购物，梅某知其智力低下，遂与其在洗澡间内发生了性关系。事隔一、二日的一天傍晚，梅某利用刘某甲来其家中购物的时机，以同样的方式，再次与刘某甲发生了性关系。  \n\n另查明，2017年4月11日，被害人刘某甲父亲至当地派出所报案称，其女儿被人强奸致怀孕。同月19日刘某甲至宣城市人民医院行引产术，于同月21日娩出一死婴。经宣城市公安局物证鉴定中心亲缘关系鉴定，梅某为引产胎儿组织生物学父亲的似然比率为2.7869×109，系引产胎儿的生物学父亲。经安徽昌平司法鉴定所鉴定：刘某甲患有轻度精神发育迟滞；刘某甲无性防卫能力。  \n\n认定上述事实的证据如下：  \n1.书证：受案登记表、立案决定书、户籍证明、到案经过、刑事附带民事判决书及释放证明；  \n2.勘验、检查、辨认、侦查实验等笔录：现场勘验检查笔录、现场方位示意图及照片、辨认笔录及照片；  \n3.鉴定意见：安徽昌平司法鉴定所皖昌司鉴所［2017］司鉴字第65号司法鉴定意见书、宣城市公安局物证鉴定中心（宣）公（法物）鉴字［2017］301号法医物证鉴定书及鉴定意见通知书；  \n4.被害人陈述：被害人刘某甲的陈述；  \n5.证人证言：证人刘某乙、杨某乙、陈某、高某、荆某、吴某、璩某、杨某甲等人的证言；  \n6.被告人供述和辩解：被告人梅某的供述和辩解。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人梅某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人梅某明知她人是痴呆者而与之发生性行为，其行为已触犯《中华人民共和国刑法》第二百三十六条第一款之规定，犯罪事实清楚，证据确实、充分，应当以强奸罪追究其刑事责任。被告人梅某对未成年人实施性侵害且致其怀孕，应从重处罚。被告人梅某主动投案并如实供述犯罪事实，系自首，依法可以从轻处罚或减轻处罚。建议判处被告人梅某有期徒刑XX，缓刑XX，并处罚金XX。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n宣城市宣州区人民法院  \n\n检 察 官 XXX  \n2017年9月21日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪，对起诉书指控的事实没有异议。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你第一次与被害人发生性关系时，是否明知被害人患有精神发育迟滞？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她智力低下。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你第二次与被害人发生性关系时，是否确认过被害人的精神状态？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她智力有问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否采取任何避孕措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有采取避孕措施。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否使用暴力、胁迫或其他手段？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有使用暴力或胁迫手段。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，被害人是否表现出抗拒或不愿意的迹象？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人没有明显抗拒。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时未满18周岁？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她年纪不大，但具体年龄不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人无性防卫能力？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她智力有问题，但不知道具体无性防卫能力。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时已经怀孕？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道她当时已经怀孕。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人是同村村民且与你有亲属关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是同村村民，没有亲属关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时来你家的目的是购物？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她是来购物的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时处于经期？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道她是否处于经期。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人的父亲会因此事报案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时来你家的具体时间？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是傍晚时分。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时处于醉酒状态？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人没有醉酒。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与被害人发生性关系时，是否知道被害人当时来你家的具体日期？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是2016年9月的一天晚上和隔了一两天的傍晚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，关于案件基本事实已经询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，被害人是否主动表示过同意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人没有明确表示同意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，是否确认过被害人的年龄？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道她年纪不大，但具体年龄不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，是否注意到被害人的行为举止与正常人存在明显差异？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人行为举止确实与正常人不太一样。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，是否注意到被害人在语言表达和理解能力方面存在明显障碍？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人说话不太清楚，理解能力比较差。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，是否注意到被害人在日常生活中需要他人特别照顾？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人平时确实需要家人照顾。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，是否注意到被害人在购物过程中表现出对金钱数额的理解困难？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人买东西时确实不太会算账。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与被害人发生性关系时，是否注意到被害人在日常生活中是否有独立生活的能力？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人平时生活需要家人帮助，不太能独立生活。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，关于被告人对被害人认知状况的询问已经充分。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你与被害人发生性关系时，是否注意到被害人在性行为过程中表现出任何异常反应？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "被害人没有表现出明显异常反应。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年9月的一天晚上8点左右，我在同村村民杨某甲家参加宴请后回到家中，在洗澡间洗浴。期间，同村的刘某甲（2000年11月22日出生）来我经营的杂货店购物。我知道她智力低下，随后在洗澡间内与她发生了性关系。隔了一两天的一个傍晚，刘某甲再次来我家中购物时，我以同样的方式与她发生了第二次性关系。  \n\n2017年4月11日，被害人刘某甲的父亲向当地派出所报案，称其女儿被强奸致怀孕。同年4月19日，刘某甲在宣城市人民医院进行引产手术，并于4月21日娩出一死婴。经鉴定，我为引产胎儿的生物学父亲。  \n\n（2）犯案动机  \n我没有明确的犯案动机。当时在洗澡间内与刘某甲发生性关系时，知道她智力低下，但未考虑其他因素。  \n\n（3）案发之后的处理  \n2017年6月22日凌晨1时许，我主动到公安机关投案，如实供述了犯罪事实。目前尚未对被害人进行赔偿，也未达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：受案登记表，证明被害人刘某甲父亲报案称其女儿被强奸致怀孕，该登记表由公安机关正式受理并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：立案决定书，证明公安机关对案件立案侦查，该决定书由有权机关依法作出并注明法律依据",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：户籍证明，证明被告人梅某及被害人刘某甲的身份信息，该证明由公安机关出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：到案经过，证明被告人梅某于2017年6月22日凌晨1时许主动至公安机关投案，该到案经过有民警签字及时间记录佐证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：刑事附带民事判决书及释放证明，证明被告人梅某曾因交通肇事犯罪受过处罚，该判决书由法院正式出具，释放证明由监狱管理部门出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.勘验、检查、辨认、侦查实验等笔录：现场勘验检查笔录、现场方位示意图及照片，证明案发现场情况，该笔录由两名以上侦查人员签字并注明勘验过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.勘验、检查、辨认、侦查实验等笔录：辨认笔录及照片，证明相关证人对案发现场及涉案人员的辨认情况，该辨认笔录依法由见证人签字并记录辨认过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：接受证据材料清单、调取证据通知书及调取证据清单、提取笔录，证明公安机关依法调取和提取相关证据，该清单完整记录证据来源及交接人员信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.鉴定意见：安徽昌平司法鉴定所皖昌司鉴所［2017］司鉴字第65号司法鉴定意见书，证明被害人刘某甲患有轻度精神发育迟滞，无性防卫能力，该鉴定意见书由具备资质的鉴定机构及鉴定人出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人对该鉴定意见的关联性提出异议。鉴定意见仅能证明被害人案发时的精神状态，但无法直接证明被告人在案发当时对被害人无性防卫能力这一专业医学概念的主观认知程度。被告人供述中仅承认知道被害人智力低下，但不知道其无性防卫能力，这与鉴定意见的专业结论存在认知差距。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "鉴定意见系由具备资质的鉴定机构依法作出，客观反映了被害人案发时的精神状态。根据刑法规定，只要被告人明知被害人精神发育迟滞，无论其是否明确知晓\"无性防卫能力\"这一专业概念，均不影响强奸罪的成立。被告人在供述中明确承认知道被害人智力低下，这与鉴定意见能够相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对鉴定意见的争议焦点已经充分表达，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.鉴定意见：宣城市公安局物证鉴定中心（宣）公（法物）鉴字［2017］301号法医物证鉴定书及鉴定意见通知书，证明梅某为引产胎儿组织的生物学父亲，似然比率为2.7869×109，该鉴定书包含完整的检验方法及数据支持",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.被害人陈述：被害人刘某甲的陈述，证明其被梅某强奸的事实，该陈述在法定监护人在场情况下取得",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人对被害人陈述的证明力提出异议。被害人刘某甲经鉴定患有轻度精神发育迟滞且无性防卫能力，其陈述的真实性和准确性存疑，无法独立作为认定案件事实的依据，需要与其他证据相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被害人陈述虽存在一定认知障碍，但经法定监护人在场见证下依法取得，程序合法。且其陈述内容与被告人供述、物证鉴定等证据能够相互印证，具有证明效力。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对被害人陈述的证明力已充分表达各自观点，无需继续辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人刘某乙（被害人父亲）的证言，称“我发现女儿怀孕后，怀疑她被强奸，于是报警。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人杨某乙的证言，称“我听说刘某甲智力有问题，平时行为有些异常。”该证言基于证人对刘某甲的直接观察",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人陈某的证言，称“我见过梅某和刘某甲有过接触，但不知道具体发生了什么。”该证言中“接触”指两人在杂货店的正常交往",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人高某的证言，称“梅某平时在村里开杂货店，刘某甲经常去那里买东西。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人荆某的证言，称“我听说刘某甲怀孕了，但不知道是谁干的。”该证言中“听说”来源为村里人议论",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人吴某的证言，称“刘某甲智力有问题，村里人都知道。”该证言中“村里人都知道”为普遍认知",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人璩某的证言，称“梅某那天晚上在杨某甲家吃饭，后来回家了。”该证言中时间点与案发时间吻合",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人杨某甲的证言，称“那天晚上我请客，梅某来吃饭，后来他先回家了。”该证言中“先回家”有监控录像佐证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第二百三十六条第一款规定，强奸罪是指以暴力、胁迫或者其他手段强奸妇女的行为。本案中，被告人梅某明知被害人刘某甲系智力低下人员，仍两次与其发生性关系，并导致被害人怀孕引产的严重后果。\n\n关于定罪方面，被告人虽未使用暴力胁迫手段，但根据最高人民法院、最高人民检察院、公安部、司法部《关于依法惩治性侵害未成年人犯罪的意见》第二十一条规定，对已满十四周岁的未成年女性负有特殊职责的人员，利用其优势地位或者被害人孤立无援的境地，迫使未成年被害人就范的，应当认定为\"其他手段\"。本案被害人经鉴定无性防卫能力，被告人在明知被害人智力状况的情况下实施性行为，符合强奸罪的构成要件。\n\n关于量刑情节，需要指出三点：第一，被告人行为造成被害人怀孕引产的严重后果，根据《关于依法惩治性侵害未成年人犯罪的意见》第二十五条规定，应当从重处罚；第二，被害人系未成年人，依法应当从严惩处；第三，被告人具有自首情节，根据刑法第六十七条规定，可以从轻或减轻处罚。\n\n综上，被告人梅某的行为已构成强奸罪，犯罪事实清楚，证据确实充分，请法庭依法判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于自首情节。根据《刑法》第六十七条，被告人梅某主动投案并如实供述全部犯罪事实，依法构成自首。这一情节已在到案经过中得到充分证实，应当依法从轻或减轻处罚。\n\n二、关于主观认知程度。被告人虽知被害人智力低下，但根据其供述，确实不知被害人无性防卫能力这一专业医学概念。这与鉴定意见的专业结论存在认知差距，表明其主观恶性相对较轻。\n\n三、关于行为方式。被告人未使用暴力、胁迫手段，被害人在性行为过程中也未表现出明显抗拒，这与典型强奸案件存在区别。\n\n四、关于认罪态度。被告人自侦查阶段起即如实供述，庭审中认罪态度良好，根据《最高人民法院关于常见犯罪的量刑指导意见》，应当予以从宽考虑。\n\n五、关于前科情况。被告人虽有交通肇事前科，但系过失犯罪，与本案无关联性，不应作为从重处罚依据。\n\n综上，辩护人认为被告人具有法定从轻情节，建议法庭在量刑时充分考虑其自首、认罪态度等情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的主观认知问题，根据《刑法》规定，只要被告人明知被害人精神发育迟滞，就构成强奸罪的主观要件。被告人明确供述知道被害人智力低下、行为异常、需要家人照顾等事实，这已充分证明其主观认知程度。是否知晓\"无性防卫能力\"这一专业术语不影响犯罪构成。\n\n关于行为方式，被害人经鉴定无性防卫能力，其未表现出抗拒恰恰印证了其认知能力的缺陷。根据《关于依法惩治性侵害未成年人犯罪的意见》，利用被害人认知缺陷实施性侵害，同样构成强奸罪。\n\n关于前科问题，虽然交通肇事系过失犯罪，但表明被告人并非初犯，在量刑时应予以适当考虑。同时，被告人虽认罪但至今未对被害人进行任何赔偿，未取得谅解，这些情节请法庭在量刑时一并考量。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的主观认知问题，辩护人需要强调：根据《刑法》第十六条\"行为在客观上虽然造成了损害结果，但是不是出于故意或者过失，而是由于不能抗拒或者不能预见的原因所引起的，不是犯罪\"。被告人虽知被害人智力低下，但确实无法预见其无性防卫能力的专业医学认定，这与犯罪故意存在本质区别。\n\n关于赔偿问题，辩护人提请法庭注意：被告人在案发后即被采取强制措施，客观上限制了其赔偿能力。但根据《刑事诉讼法》第二百八十八条，被告人愿意赔偿且认罪认罚，可以依法从宽处理。\n\n关于前科问题，辩护人重申：交通肇事系过失犯罪，与本案性质完全不同。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，前科为过失犯罪的，一般不作为从重处罚情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观认知问题，根据《刑法》第二百三十六条及相关司法解释，只要行为人明知被害人精神发育迟滞，无论是否知晓\"无性防卫能力\"这一专业概念，均不影响强奸罪的成立。被告人在供述中明确承认知道被害人智力低下、行为异常、需要家人照顾等事实，这已充分证明其主观认知程度。\n\n关于赔偿问题，需要指出的是，自2017年6月22日被采取强制措施至今已近三个月，被告人及其家属完全有条件通过法定代理人进行赔偿或表达赔偿意愿，但至今未采取任何实际行动。这与辩护人提出的\"愿意赔偿\"主张存在明显矛盾。\n\n关于前科问题，虽然交通肇事系过失犯罪，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，有前科的被告人在量刑时应当酌情考虑其再犯可能性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观认知问题，辩护人提请法庭注意：根据《刑法》第十四条，犯罪故意要求行为人明知自己的行为会发生危害社会的结果。被告人虽知被害人智力低下，但确实无法预见其行为会导致被害人怀孕引产的严重后果，这一情节应在量刑时予以考虑。\n\n关于赔偿问题，需要说明的是：被告人在被采取强制措施后，其财产状况受到限制，且案件尚在审理阶段，赔偿程序尚未正式启动。根据《刑事诉讼法》规定，被告人有赔偿意愿，可在判决后通过合法途径履行赔偿义务。\n\n关于前科问题，辩护人再次强调：交通肇事系过失犯罪，与本案故意犯罪性质完全不同。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十九条，对过失犯罪前科应当与故意犯罪前科区别对待。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，对被害人及其家属表示深深的歉意。我主动投案并如实供述了全部犯罪事实，愿意接受法律的惩罚。我深知自己的行为给被害人造成了严重伤害，恳请法庭考虑我的自首情节和认罪态度，给予从宽处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "宣城市宣州区人民法院  \n刑事判决书  \n（2017）宣州刑初字第370号  \n\n公诉机关宣城市宣州区人民检察院。  \n被告人梅某，男，汉族，1980年X月X日出生，户籍地XXX，初中文化，个体经营者。因涉嫌犯强奸罪于2017年6月22日主动投案并被刑事拘留。  \n辩护人XXX，安徽XX律师事务所律师。  \n\n宣城市宣州区人民检察院以宣州检刑诉〔2017〕370号起诉书指控被告人梅某犯强奸罪，于2017年9月21日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。宣城市宣州区人民检察院指派检察员XXX出庭支持公诉，被告人梅某及其辩护人XXX到庭参加诉讼。本案现已审理终结。  \n\n宣城市宣州区人民检察院指控：2016年9月，被告人梅某明知被害人刘某甲（2000年11月22日出生）智力低下，仍两次与其发生性关系，致被害人怀孕引产。经鉴定，梅某为引产胎儿的生物学父亲，被害人刘某甲无性防卫能力。认为被告人行为已构成强奸罪，具有自首情节，建议判处有期徒刑XX，缓刑XX，并处罚金XX。  \n\n经审理查明：2016年9月，被告人梅某在同村村民家宴请后返回家中，明知被害人刘某甲（案发时未满18周岁）智力低下，仍两次在其家中洗澡间内与被害人发生性关系。2017年4月被害人因怀孕引产，经DNA鉴定确认梅某为胎儿生物学父亲。经司法鉴定，被害人刘某甲患有轻度精神发育迟滞，无性防卫能力。被告人梅某于2017年6月22日主动投案并如实供述犯罪事实。  \n\n上述事实有下列证据证实：  \n1.被告人梅某的供述，证实其明知被害人智力低下仍实施性行为；  \n2.被害人陈述及证人证言，证实被害人智力状况及案发经过；  \n3.司法鉴定意见书，证实被害人无性防卫能力及亲子关系；  \n4.书证材料，证实案件受理程序及被告人自首情节；  \n5.现场勘验笔录等，证实案发现场情况。  \n\n本院认为，被告人梅某明知被害人系智力低下人员而与之发生性关系，其行为已构成强奸罪。公诉机关指控罪名成立。被告人具有自首情节，依法可从轻处罚，但鉴于其行为造成被害人怀孕引产的严重后果，且侵害未成年人权益，应从重处罚。辩护人关于主观恶性较轻的辩护意见与查明事实不符，不予采纳。  \n\n依照《中华人民共和国刑法》第二百三十六条第一款、第六十七条第一款之规定，判决如下：  \n一、被告人梅某犯强奸罪，判处有期徒刑七年；  \n二、责令被告人梅某赔偿被害人刘某甲医疗费、护理费、精神损害抚慰金等各项经济损失共计人民币五万元。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向宣城市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长 XXX  \n2017年XX月XX日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，证明：\n   - 被告人在明知被害人智力低下的情况下，两次与被害人发生性关系\n   - 被害人因强奸致孕并引产\n   - 被告人为引产胎儿的生物学父亲\n   - 被告人主动投案并如实供述\n\n2. 公诉人出示了多项书证，包括：\n   - 受案登记表、立案决定书证明案件受理程序合法\n   - 户籍证明确认当事人身份\n   - 到案经过证明被告人自首情节\n   - 前科判决书证明被告人曾因交通肇事受过处罚\n\n3. 公诉人出示了现场勘验检查笔录、辨认笔录等，证明案发现场情况\n\n4. 公诉人出示了关键鉴定意见：\n   - 证明被害人患有轻度精神发育迟滞，无性防卫能力（辩护人对该证据的关联性提出异议）\n   - 证明被告人为引产胎儿的生物学父亲\n\n5. 公诉人出示了被害人陈述（辩护人对证明力提出异议）及多名证人证言，证明：\n   - 被害人智力状况为村民普遍认知\n   - 被告人与被害人有接触\n   - 案发时间线\n\n6. 辩护人未提供新证据，被告人不申请调取新证据或重新鉴定",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，证明：\n   - 被告人在明知被害人智力低下的情况下，两次与被害人发生性关系\n   - 被害人因强奸致孕并引产\n   - 被告人为引产胎儿的生物学父亲\n   - 被告人主动投案并如实供述\n\n2. 公诉人出示了多项书证，包括：\n   - 受案登记表、立案决定书证明案件受理程序合法\n   - 户籍证明确认当事人身份\n   - 到案经过证明被告人自首情节\n   - 前科判决书证明被告人曾因交通肇事受过处罚\n\n3. 公诉人出示了现场勘验检查笔录、辨认笔录等，证明案发现场情况\n\n4. 公诉人出示了关键鉴定意见：\n   - 证明被害人患有轻度精神发育迟滞，无性防卫能力（辩护人对该证据的关联性提出异议）\n   - 证明被告人为引产胎儿的生物学父亲\n\n5. 公诉人出示了被害人陈述（辩护人对证明力提出异议）及多名证人证言，证明：\n   - 被害人智力状况为村民普遍认知\n   - 被告人与被害人有接触\n   - 案发时间线\n\n6. 辩护人未提供新证据，被告人不申请调取新证据或重新鉴定",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，证明：\n   - 被告人在明知被害人智力低下的情况下，两次与被害人发生性关系\n   - 被害人因强奸致孕并引产\n   - 被告人为引产胎儿的生物学父亲\n   - 被告人主动投案并如实供述\n\n2. 公诉人出示了多项书证，包括：\n   - 受案登记表、立案决定书证明案件受理程序合法\n   - 户籍证明确认当事人身份\n   - 到案经过证明被告人自首情节\n   - 前科判决书证明被告人曾因交通肇事受过处罚\n\n3. 公诉人出示了现场勘验检查笔录、辨认笔录等，证明案发现场情况\n\n4. 公诉人出示了关键鉴定意见：\n   - 证明被害人患有轻度精神发育迟滞，无性防卫能力（辩护人对该证据的关联性提出异议）\n   - 证明被告人为引产胎儿的生物学父亲\n\n5. 公诉人出示了被害人陈述（辩护人对证明力提出异议）及多名证人证言，证明：\n   - 被害人智力状况为村民普遍认知\n   - 被告人与被害人有接触\n   - 案发时间线\n\n6. 辩护人未提供新证据，被告人不申请调取新证据或重新鉴定",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，证明：\n   - 被告人在明知被害人智力低下的情况下，两次与被害人发生性关系\n   - 被害人因强奸致孕并引产\n   - 被告人为引产胎儿的生物学父亲\n   - 被告人主动投案并如实供述\n\n2. 公诉人出示了多项书证，包括：\n   - 受案登记表、立案决定书证明案件受理程序合法\n   - 户籍证明确认当事人身份\n   - 到案经过证明被告人自首情节\n   - 前科判决书证明被告人曾因交通肇事受过处罚\n\n3. 公诉人出示了现场勘验检查笔录、辨认笔录等，证明案发现场情况\n\n4. 公诉人出示了关键鉴定意见：\n   - 证明被害人患有轻度精神发育迟滞，无性防卫能力（辩护人对该证据的关联性提出异议）\n   - 证明被告人为引产胎儿的生物学父亲\n\n5. 公诉人出示了被害人陈述（辩护人对证明力提出异议）及多名证人证言，证明：\n   - 被害人智力状况为村民普遍认知\n   - 被告人与被害人有接触\n   - 案发时间线\n\n6. 辩护人未提供新证据，被告人不申请调取新证据或重新鉴定\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成强奸罪，依据刑法第236条及两高两部关于性侵未成年人犯罪意见第21条\n- 强调被告人明知被害人智力低下仍实施性侵，并造成怀孕引产严重后果\n- 提出三项量刑情节：造成严重后果应从重、侵害未成年人应从严、自首可从轻\n\n2. 辩护人发表辩护意见：\n- 强调被告人具有自首情节\n- 认为被告人对\"无性防卫能力\"专业概念缺乏认知，主观恶性较轻\n- 指出未使用暴力胁迫手段，与典型强奸案存在区别\n- 说明被告人认罪态度良好\n- 辩称交通肇事前科系过失犯罪不应从重\n\n3. 控辩双方主要争议焦点：\n- 关于主观认知：公诉人认为明知智力低下即构成要件，辩护人主张缺乏专业认知影响主观恶性\n- 关于赔偿问题：公诉人指出未实际赔偿，辩护人解释强制措施限制赔偿能力\n- 关于前科影响：公诉人认为应酌情考虑再犯可能，辩护人主张过失前科应区别对待\n\n4. 补充辩论要点：\n- 辩护人援引刑法第16条主张部分结果不可预见\n- 公诉人重申司法解释对认知标准的规定\n- 双方就赔偿意愿与实际行为展开辩论\n- 对前科性质是否影响量刑进行多轮辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人承认明知被害人智力低下\n- 承认两次与被害人发生性关系且未采取避孕措施\n- 承认未使用暴力但被害人未明确表示同意\n- 知道被害人年纪不大但具体年龄不清楚\n- 知道被害人智力有问题但不知其无性防卫能力\n- 承认被害人行为举止与正常人不同，需要家人照顾\n\n2. 辩护人讯问被告人：\n- 被告人确认被害人未明确表示同意\n- 承认被害人语言表达和理解能力存在障碍\n- 承认被害人在购物时对金钱数额理解困难\n- 确认被害人日常生活需要他人特别照顾\n\n3. 审判长补充讯问：\n- 被告人确认被害人在性行为过程中未表现出明显异常反应\n\n（注：以上总结已过滤程序性问话，仅保留影响定罪量刑的关键事实）\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，证明：\n   - 被告人在明知被害人智力低下的情况下，两次与被害人发生性关系\n   - 被害人因强奸致孕并引产\n   - 被告人为引产胎儿的生物学父亲\n   - 被告人主动投案并如实供述\n\n2. 公诉人出示了多项书证，包括：\n   - 受案登记表、立案决定书证明案件受理程序合法\n   - 户籍证明确认当事人身份\n   - 到案经过证明被告人自首情节\n   - 前科判决书证明被告人曾因交通肇事受过处罚\n\n3. 公诉人出示了现场勘验检查笔录、辨认笔录等，证明案发现场情况\n\n4. 公诉人出示了关键鉴定意见：\n   - 证明被害人患有轻度精神发育迟滞，无性防卫能力（辩护人对该证据的关联性提出异议）\n   - 证明被告人为引产胎儿的生物学父亲\n\n5. 公诉人出示了被害人陈述（辩护人对证明力提出异议）及多名证人证言，证明：\n   - 被害人智力状况为村民普遍认知\n   - 被告人与被害人有接触\n   - 案发时间线\n\n6. 辩护人未提供新证据，被告人不申请调取新证据或重新鉴定\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成强奸罪，依据刑法第236条及两高两部关于性侵未成年人犯罪意见第21条\n- 强调被告人明知被害人智力低下仍实施性侵，并造成怀孕引产严重后果\n- 提出三项量刑情节：造成严重后果应从重、侵害未成年人应从严、自首可从轻\n\n2. 辩护人发表辩护意见：\n- 强调被告人具有自首情节\n- 认为被告人对\"无性防卫能力\"专业概念缺乏认知，主观恶性较轻\n- 指出未使用暴力胁迫手段，与典型强奸案存在区别\n- 说明被告人认罪态度良好\n- 辩称交通肇事前科系过失犯罪不应从重\n\n3. 控辩双方主要争议焦点：\n- 关于主观认知：公诉人认为明知智力低下即构成要件，辩护人主张缺乏专业认知影响主观恶性\n- 关于赔偿问题：公诉人指出未实际赔偿，辩护人解释强制措施限制赔偿能力\n- 关于前科影响：公诉人认为应酌情考虑再犯可能，辩护人主张过失前科应区别对待\n\n4. 补充辩论要点：\n- 辩护人援引刑法第16条主张部分结果不可预见\n- 公诉人重申司法解释对认知标准的规定\n- 双方就赔偿意愿与实际行为展开辩论\n- 对前科性质是否影响量刑进行多轮辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 84.0,
+    "fine": 50000.0,
+    "reprieve": 0.0
+  }
+]

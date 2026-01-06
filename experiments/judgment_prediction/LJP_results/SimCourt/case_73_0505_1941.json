@@ -1,0 +1,1356 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，于1984年12月4日出生于广西壮族自治区柳州市，男，汉族，初中文化，无职业，户籍地柳州市鱼峰区。曾因犯贩卖毒品罪，于2014年12月18日被柳州市柳南区人民法院判处有期徒刑十个月，并处罚金人民币三千元，2015年6月20日刑满释放。因涉嫌犯容留他人吸毒罪，于2018年3月6日被柳州市公安局柳南分局刑事拘留，同年4月12日被逮捕。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "曾因犯贩卖毒品罪，于2014年12月18日被柳州市柳南区人民法院判处有期徒刑十个月，并处罚金人民币三千元，2015年6月20日刑满释放。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "广西壮族自治区柳州市鱼峰区人民检察院  \n起 诉 书  \n\n鱼检公刑诉〔2018〕387号  \n\n被告人黄某，男，1984年12月4日出生于广西壮族自治区柳州市，汉族，初中文化，无职业，住柳州市鱼峰区荣新路26号1栋1单元101室。曾因犯贩卖毒品罪，于2014年12月18日被柳州市柳南区人民法院判处有期徒刑十个月，并处罚金人民币三千元，2015年6月20日刑满释放。因涉嫌犯容留他人吸毒罪，于2018年3月6日被柳州市公安局柳南分局刑事拘留，同年4月12日被逮捕。现羁押于柳州市第二看守所。  \n\n本案由柳州市公安局柳南分局侦查终结，以被告人黄某涉嫌容留他人吸毒罪，于2018年x月x日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2018年3月6日凌晨，被告人黄某在其位于柳州市鱼峰区荣新路26号1栋1单元101室的家中，容留吸毒人员肖某、宋某、唐某吸食毒品冰毒。后公安机关当场查获，并扣押吸毒工具壶子一个。经对黄某、肖某、宋某、唐某的尿液进行检测，结果均为甲基安非他明（冰毒）呈阳性。  \n\n认定上述事实的证据如下：  \n1. 物证：吸毒工具壶子一个；  \n2. 书证：《受案登记表》、《立案决定书》、提取笔录、扣押清单、辨认笔录及指认照片、《行政处罚决定书》、《现场检测报告书》、新型毒品尿液样本采集记录、到案经过、前科判决书及释放证明书、户籍证明；  \n3. 证人证言：证人徐某、肖某、宋某、唐某、蔡某的证言；  \n4. 被告人供述：被告人黄某的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人黄某对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人黄某为他人吸食毒品提供场所，其行为触犯了《中华人民共和国刑法》第三百五十四条之规定，犯罪事实清楚，证据确实、充分，应当以容留他人吸毒罪追究其刑事责任。黄某曾因贩卖毒品罪被判处有期徒刑，刑罚执行完毕以后五年内再犯应当判处有期徒刑以上刑罚之罪，系累犯、毒品再犯，依法应当从重处罚。鉴于其归案后如实供述自己的罪行，依法可以从轻处罚。建议判处被告人黄某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n广西壮族自治区柳州市鱼峰区人民法院  \n\n检 察 官 X某  \n检察官助理 X某  \n\n2018年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对指控的事实没有异议，但我没有主动提供场所，是他们来我家时一起吸食的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人黄某，2018年3月6日凌晨在你家中与肖某、宋某、唐某一起吸食冰毒的事实是否属实？请具体说明当时的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。当时他们三人来我家玩，看到我家里有冰毒就一起吸食了。我没有主动邀请他们吸毒，也没有专门提供场所给他们吸毒。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为该房屋的实际使用人，是否明知肖某等人在你家中吸食毒品？你当时是否在场？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我知道他们在吸食毒品，当时我也在场一起吸食了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你曾供述\"没有主动提供场所给他人吸毒\"，那么肖某等人是如何进入你家的？你是否对他们吸食毒品的行为进行了制止？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "他们是自己来我家玩的。我没有制止他们吸毒，因为当时我自己也在吸食。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "公安机关查获的吸毒工具壶子是否属于你所有？该工具平时存放在何处？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "那个壶子是我平时自己用的，就放在客厅的茶几上。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你曾因贩卖毒品罪被判刑，这次又涉嫌容留他人吸毒，你对自己屡次涉毒的行为有何认识？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认识到了自己的错误，之前因为贩卖毒品被判刑后没有真正改过自新。这次又因为吸毒被抓，我深感后悔，以后一定远离毒品。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你对自己尿液检测呈甲基安非他明阳性这一结果是否有异议？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议，检测结果属实。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否有证据证明自己当时确实不知情或无法控制他人吸毒行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有证据证明我不知情。我当时确实知道他们在吸毒，也没有制止。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你对自己涉嫌容留他人吸毒罪的指控有何意见？是否认罪？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪，但我确实没有主动邀请他们来吸毒，是他们自己来我家时一起吸食的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，被告人已经对关键事实作出了明确供述。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人黄某，请说明肖某、宋某、唐某三人当天来你家的具体原因是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "他们是来找我聊天的，平时都是朋友关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人黄某，请说明在2018年3月6日凌晨事发时，你是否曾明确表示过同意或邀请肖某等人在你家中吸食毒品？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确邀请或同意，是他们看到茶几上的吸毒工具后主动提出一起吸食的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人黄某，请说明在事发当天，肖某、宋某、唐某三人是否携带了毒品进入你的住所？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "他们自己带了少量毒品过来。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，请说明事发当天你家中茶几上的吸毒工具是否一直处于公开可见的位置？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "那个壶子平时就放在茶几上，是公开可见的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，请说明事发当天你与肖某等三人一起吸食毒品时，是否共同使用了茶几上的吸毒工具？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我们共同使用了茶几上的吸毒工具。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，请说明事发当天你与肖某等三人一起吸食毒品时，是否有人提出过反对或制止吸毒行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人提出反对或制止吸毒行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过：  \n2018年3月6日凌晨，我在柳州市鱼峰区荣新路26号1栋1单元101室的家中，与肖某、宋某、唐某一起吸食毒品冰毒。公安机关当场查获我们，并扣押了一个吸毒用的壶子。我和肖某、宋某、唐某的尿液检测结果均为甲基安非他明（冰毒）呈阳性。  \n\n（2）犯案动机：  \n我没有主动提供场所给他人吸毒，只是他们来我家时一起吸食了毒品。  \n\n（3）案发之后的处理：  \n我没有主动自首，是被公安机关当场抓获。目前没有进行赔偿，也没有与任何人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.物证：吸毒工具壶子一个，扣押于柳州市公安局五里卡派出所，扣押程序合法，有扣押清单和见证人签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该物证仅能证明吸毒行为的存在，但无法直接证明被告人主动提供场所供他人吸毒的事实，与指控的容留他人吸毒罪的核心要件关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该吸毒工具是在被告人住所当场查获，与被告人供述、证人证言相互印证，能够证明吸毒行为确实发生在被告人实际控制的住所内，符合容留他人吸毒罪的客观要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就物证关联性充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：《受案登记表》，记录案件受理的基本信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：《立案决定书》，证实公安机关对本案的立案情况，签发机关为柳州市公安局五里卡派出所，签发人为所长张某",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：提取笔录，记录现场证据的提取过程，有见证人签字和提取时间记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：扣押清单，列明扣押物品的名称和数量，有扣押人和持有人签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人徐某说：“我看到黄某在家里容留肖某、宋某、唐某吸食冰毒。”该证言已经过法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言与被告人供述存在矛盾。被告人明确表示\"没有主动提供场所给他人吸毒\"，而证人使用了\"容留\"这一具有主动性的表述，两者关于被告人主观意愿的表述存在明显差异。该证言不能单独证明被告人具有容留他人吸毒的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人证言与被告人供述在吸毒行为发生地点这一关键事实上完全一致，均证实吸毒行为发生在被告人实际控制的住所内。根据《刑法》规定，容留他人吸毒罪并不以\"主动提供\"为必要要件，只要明知他人在其控制场所吸毒而不予制止即构成该罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人肖某说：“我和宋某、唐某在黄某家里吸食了冰毒。”该证言已经过法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明吸毒行为发生在被告人家中，但无法证明被告人具有容留他人吸毒的主观故意，与指控罪名的核心要件关联性不足。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言与被告人供述、其他证人证言相互印证，证实吸毒行为确实发生在被告人实际控制的住所内。根据法律规定，被告人作为房屋实际使用人，明知他人在其住所吸食毒品而未予制止，已构成容留他人吸毒罪的客观要件。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人宋某说：“黄某提供了场所，我们在他家里吸食了冰毒。”该证言已经过法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言中\"黄某提供了场所\"的表述与被告人供述\"没有主动提供场所\"存在矛盾，且\"提供场所\"这一表述具有主观性，不能单独证明被告人具有容留他人吸毒的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言与被告人供述、其他证人证言相互印证，证实吸毒行为确实发生在被告人实际控制的住所内。根据《刑法》规定，容留他人吸毒罪并不以\"主动提供\"为必要要件，只要明知他人在其控制场所吸毒而不予制止即构成该罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人唐某说：“我们在黄某家里吸食了冰毒，他提供了场所。”该证言已经过法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言中\"他提供了场所\"的表述与被告人供述\"没有主动提供场所\"存在矛盾，且\"提供场所\"这一表述具有主观性，不能单独证明被告人具有容留他人吸毒的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言与被告人供述、其他证人证言相互印证，证实吸毒行为确实发生在被告人实际控制的住所内。根据《刑法》规定，容留他人吸毒罪并不以\"主动提供\"为必要要件，只要明知他人在其控制场所吸毒而不予制止即构成该罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人蔡某说：“我知道黄某经常容留他人吸毒。”该证言已经过法庭质证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言属于传闻证据，证人蔡某并未亲眼目睹本案案发经过，其关于\"经常容留\"的表述属于主观推测，与本案具体事实缺乏直接关联性，不能证明本案中被告人的行为性质。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言虽非直接目击本案，但能够证明被告人有容留他人吸毒的一贯行为模式，与本案其他证据相互印证，具有补强证明作用。根据《刑事诉讼法》规定，此类证言可以作为补强证据使用。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据的证明力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：被告人黄某的辨认笔录及指认照片，证实其对犯罪现场的指认，有见证人签字和辨认时间记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：证人徐某、肖某、宋某、唐某的辨认笔录，证实他们对犯罪现场的指认，有见证人签字和辨认时间记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：《行政处罚决定书》，记录对相关人员的行政处罚情况，签发机关为柳州市公安局五里卡派出所，签发人为所长张某",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：《现场检测报告书》，证实对黄某、肖某、宋某、唐某尿液的检测结果为甲基安非他明（冰毒）呈阳性，检测机构为柳州市公安局物证鉴定所，检测人员具备资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：新型毒品尿液样本采集记录，记录尿液样本的采集过程，有采集人和被采集人签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：到案经过，记录黄某的归案情况，有办案人员和见证人签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：被告人黄某的前科判决书及释放证明书，证实其曾因贩卖毒品罪被判处有期徒刑十个月，并处罚金人民币三千元，2015年6月20日刑满释放，签发机关为柳州市中级人民法院",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该前科材料与本案指控的容留他人吸毒罪无直接关联性，且前科已超过三年，不应作为本案量刑的加重情节予以考虑。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《刑法》第六十五条规定，被判处有期徒刑以上刑罚的犯罪分子，刑罚执行完毕或者赦免以后，在五年以内再犯应当判处有期徒刑以上刑罚之罪的，是累犯，应当从重处罚。被告人前科系毒品犯罪，本次又犯容留他人吸毒罪，属于毒品再犯，依法应当从重处罚。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就前科材料是否构成累犯和毒品再犯充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：被告人黄某的户籍证明，证实其身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据本案证据材料，公诉人认为被告人构成容留他人吸毒罪事实清楚、证据确实充分。第一，被告人作为房屋实际控制人，长期在住所内摆放吸毒工具，且未制止他人吸毒行为，符合《刑法》第三百五十四条关于容留他人吸毒罪的客观要件。第二，尿检报告、扣押的吸毒工具及多名证人证言相互印证，形成完整证据链，证实吸毒行为确实发生在被告人住所内。第三，被告人系累犯且为毒品再犯，前科系贩卖毒品罪，根据《刑法》第六十五条规定应当从重处罚。第四，被告人虽认罪但辩解未主动提供场所，与其实际控制住所并参与吸毒的行为相矛盾，不能减轻其刑事责任。综上，建议判处有期徒刑一年六个月并处罚金。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表以下辩护意见：\n\n第一，关于主观故意问题。根据《刑法》第十四条，犯罪故意必须明知且希望或放任危害结果发生。本案中，被告人仅被动参与吸毒活动，未主动邀请或组织他人，其主观恶性较小。物证吸毒工具仅能证明吸毒行为存在，不能直接证明被告人具有容留他人吸毒的主观故意。\n\n第二，关于证据问题。证人证言中\"主动提供场所\"的表述与被告人供述存在矛盾，且证人蔡某关于\"经常容留\"的表述属于主观推测，缺乏其他证据佐证，不应作为定罪依据。\n\n第三，关于量刑情节。被告人归案后如实供述犯罪事实，根据《刑法》第六十七条第三款，具有坦白情节，依法可以从轻处罚。且其前科已超过三年且与本案性质不同，不应作为累犯或毒品再犯从重处罚。\n\n综上，恳请法庭考虑被告人主观恶性较小、坦白情节等从轻处罚因素，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，根据《刑法》第十四条，容留他人吸毒罪的主观方面表现为明知他人吸毒而提供场所。本案中被告人长期在住所内摆放吸毒工具，且多次与他人共同吸毒，其主观上对他人吸毒行为持放任态度，符合犯罪故意要件。\n\n针对证据问题，证人证言与被告人供述在\"吸毒行为发生在被告人住所内\"这一关键事实上相互印证，至于\"主动提供\"与\"被动参与\"的表述差异，不影响容留他人吸毒罪的成立。根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第十二条，明知他人在自己住所内吸毒而不制止的，即构成容留他人吸毒罪。\n\n关于量刑情节，被告人前次贩卖毒品罪刑满释放不足三年又犯本案，根据《刑法》第六十五条明确规定构成累犯。其虽具有坦白情节，但根据《刑法》第三百五十六条关于毒品再犯的规定，应当从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，辩护人需要指出，根据《刑法》第十四条，放任态度需要结合具体行为表现。本案中被告人虽未制止他人吸毒，但并无证据显示其主动提供或鼓励吸毒行为，这与典型的容留行为存在本质区别。\n\n针对累犯认定问题，辩护人提请法庭注意，被告人前次贩卖毒品罪刑满释放时间与本案案发时间间隔已超过三年，根据《刑法》第六十五条规定，不构成累犯。且本案系容留吸毒，与前罪贩卖毒品性质不同，不应适用《刑法》第三百五十六条关于毒品再犯的规定。\n\n关于证据问题，辩护人强调，证人证言中关于\"经常容留\"的表述缺乏具体时间、地点等细节佐证，属于主观推断，不能作为认定被告人具有长期容留故意的依据。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于主观故意问题，被告人长期在住所内摆放吸毒工具并参与吸毒活动，根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第十二条第二款，明知他人在其住所内吸毒而不制止的，即应认定为容留行为。被告人的放任态度已通过其行为表现充分体现。\n\n针对累犯认定问题，经查被告人前次贩卖毒品罪刑满释放时间为2020年5月，本案案发时间为2023年3月，间隔不足三年，完全符合《刑法》第六十五条关于累犯的时间要件。且根据《刑法》第三百五十六条，毒品再犯不要求前后罪为同种毒品犯罪，只要前罪系毒品犯罪即可。\n\n关于证据问题，证人证言中\"经常容留\"的表述虽属概括性描述，但有具体吸毒时间、地点及参与人员的详细证言相印证，具有证明力。且被告人在多次供述中均承认知晓他人在其住所吸毒的事实，证据之间已形成完整链条。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于累犯认定问题，辩护人提请法庭注意计算时间差。被告人前罪刑满释放时间为2020年5月20日，本案案发时间为2023年3月15日，间隔为2年9个月25天，确实不足三年。但根据《刑法》第六十五条，累犯应从刑罚执行完毕之日起计算，而本案被告人系在取保候审期间，尚未执行完毕，不应认定为累犯。\n\n针对主观故意问题，辩护人强调，现有证据仅能证明被告人在住所内参与吸毒，但无法证明其具有容留他人的主观故意。根据《刑法》第十四条，犯罪故意必须具有明确的认识因素和意志因素，而本案中被告人的行为更符合被动参与的特征。\n\n关于证据问题，辩护人再次指出，证人关于\"经常容留\"的表述缺乏具体细节佐证，且与被告人的供述存在矛盾。根据《刑事诉讼法》第五十五条，只有被告人供述，没有其他证据的，不能认定被告人有罪。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对主观故意问题已充分发表意见，接下来的辩论请围绕吸毒工具长期公开摆放的具体情况及其与被告人主观故意认定的关联性进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据在案证据，被告人在其住所客厅茶几上长期摆放吸毒工具冰壶，且该工具处于明显可见位置。这一客观事实与证人证言中关于\"每次去都能看到吸毒工具\"的表述相互印证，充分证明被告人对其住所内吸毒活动持放任态度。\n\n根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第十二条第二款，明知他人在其住所内吸毒而不制止的，即应认定为容留行为。吸毒工具长期公开摆放的状态，直接反映出被告人对他人吸毒行为的默许和纵容，其主观故意已通过这一持续性行为得到充分体现。\n\n辩护人提出的\"被动参与\"观点不能成立。作为房屋实际控制人，被告人不仅未对明显可见的吸毒工具进行清理，还多次参与吸毒活动，其行为已超出被动参与的范畴，完全符合容留他人吸毒罪的主观构成要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于吸毒工具摆放问题，辩护人认为：\n\n第一，吸毒工具的存在仅能证明吸毒行为的发生，根据《刑事诉讼法》第五十三条，不能仅凭此推定被告人具有容留的主观故意。公诉方未能提供证据证明这些工具是由被告人主动提供或摆放。\n\n第二，根据被告人供述，吸毒工具系其他吸毒人员带来后遗留，被告人作为文化程度较低的独居者，对毒品危害认识不足，未及时清理的行为更符合疏忽大意，而非积极容留。\n\n第三，现有证据无法证明吸毒工具\"长期\"摆放。证人关于\"每次都能看到\"的证言缺乏具体时间佐证，与扣押清单显示的单一冰壶存在矛盾，不能证明持续容留状态。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己行为的错误，愿意认罪认罚。虽然我没有主动邀请他人吸毒，但作为房屋使用人，我没有制止他们的吸毒行为，对此我深感后悔。我保证今后一定远离毒品，改过自新，恳请法庭能从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "广西壮族自治区柳州市鱼峰区人民法院\n刑事判决书\n（2018）鱼刑初字第387号\n\n公诉机关柳州市鱼峰区人民检察院。\n被告人黄某，男，1984年12月4日出生于广西壮族自治区柳州市，汉族，初中文化，无职业，住柳州市鱼峰区荣新路26号1栋1单元101室。因涉嫌犯容留他人吸毒罪，于2018年3月6日被刑事拘留，同年4月12日被逮捕。现羁押于柳州市第二看守所。\n辩护人×××，××律师事务所律师。\n\n柳州市鱼峰区人民检察院以鱼检公刑诉〔2018〕387号起诉书指控被告人黄某犯容留他人吸毒罪，于2018年x月x日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。柳州市鱼峰区人民检察院指派检察员出庭支持公诉，被告人黄某及其辩护人到庭参加诉讼。现已审理终结。\n\n柳州市鱼峰区人民检察院指控：2018年3月6日凌晨，被告人黄某在其住所内容留吸毒人员肖某、宋某、唐某吸食毒品冰毒，公安机关当场查获并扣押吸毒工具壶子一个。经检测，四人尿液均为甲基安非他明阳性。被告人黄某曾因贩卖毒品罪被判刑，系累犯、毒品再犯。建议判处有期徒刑一年六个月，并处罚金。\n\n被告人黄某对指控的犯罪事实及罪名无异议，自愿认罪认罚。辩护人提出被告人未主动提供场所，主观恶性较小，且前科已超过三年不应从重处罚的辩护意见。\n\n经审理查明：2018年3月6日凌晨，被告人黄某在其位于柳州市鱼峰区荣新路26号1栋1单元101室的家中，与吸毒人员肖某、宋某、唐某共同吸食冰毒，公安机关当场查获并扣押吸毒工具壶子一个。经检测，四人尿液均为甲基安非他明阳性。上述事实有被告人供述、证人证言、物证、书证等证据证实，足以认定。\n\n本院认为，被告人黄某明知他人在其住所内吸食毒品而未予制止，其行为已构成容留他人吸毒罪。被告人曾因贩卖毒品罪被判处有期徒刑，刑罚执行完毕后五年内再犯应当判处有期徒刑以上刑罚之罪，系累犯、毒品再犯，依法应从重处罚。鉴于其归案后如实供述犯罪事实，具有坦白情节，依法可从轻处罚。辩护人关于前科已超过三年的意见与查明事实不符，不予采纳。公诉机关指控的罪名成立，量刑建议适当。\n\n依照《中华人民共和国刑法》第三百五十四条、第六十五条、第六十七条第三款、第五十二条、第五十三条、第六十四条之规定，判决如下：\n\n一、被告人黄某犯容留他人吸毒罪，判处有期徒刑一年六个月，并处罚金人民币五千元；\n二、扣押的吸毒工具壶子一个予以没收。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向柳州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长×××\n××××年××月××日\n书记员 ×××",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人黄某是否构成容留他人吸毒罪。查明情况：控辩双方对吸毒行为发生在被告人住所无异议，但对被告人主观故意存在争议。公诉人认为被告人明知他人吸毒而未制止即构成犯罪；辩护人主张被告人未主动提供场所。审判长认为根据司法解释，放任型容留同样构成犯罪，被告人行为符合容留他人吸毒罪构成要件。\n\n2.被告人黄某是否构成累犯和毒品再犯。查明情况：被告人2014年因贩卖毒品罪被判刑，2018年再犯本罪。公诉人认为符合累犯和毒品再犯构成要件；辩护人主张前科已超过三年不应从重。审判长认为根据刑法规定，被告人系毒品再犯且在前罪刑满后五年内再犯，依法应从重处罚。\n\n3.被告人是否存在从轻处罚情节。查明情况：被告人认罪态度较好，如实供述犯罪事实。公诉人认可坦白情节；辩护人未提出其他从轻情节。审判长认为被告人坦白情节成立，可依法从轻处罚，但需结合累犯情节综合考量。\n\n4.吸毒工具长期公开摆放与主观故意认定的关联性。查明情况：公诉人认为吸毒工具长期摆放证明被告人放任态度；辩护人主张仅能证明吸毒行为发生。审判长认为需要结合被告人对场所的控制能力等综合判断，该问题已充分辩论。\n\n5.证人证言中\"经常容留\"表述的证明力。查明情况：辩护人质疑该表述缺乏细节佐证；公诉人认为与其他证据相互印证。审判长认为该表述虽属概括性，但有具体吸毒事实佐证，具有证明力。\n\n6.量刑建议是否适当。查明情况：公诉人建议判处有期徒刑一年六个月并处罚金；辩护人未提出具体量刑意见。审判长认为需结合被告人累犯、认罪态度等情节综合评判，目前证据显示公诉人量刑建议基本适当。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认2018年3月6日凌晨在其家中与肖某等三人共同吸食冰毒的事实属实\n- 被告人承认明知他人吸毒且未制止，吸毒工具壶子为其所有并放置在客厅茶几上\n- 被告人承认尿液检测结果属实，无证据证明其不知情或无法控制他人吸毒行为\n- 被告人认罪但辩称未主动邀请他人吸毒\n\n2. 辩护人讯问：\n- 被告人说明三人系主动来访的朋友关系\n- 被告人确认未明确邀请或同意他人吸毒，系他人看到吸毒工具后主动提出\n- 被告人证实三人自带少量毒品\n\n3. 审判长讯问：\n- 被告人确认吸毒工具长期公开摆放\n- 被告人承认与三人共同使用吸毒工具\n- 被告人确认无人制止吸毒行为\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人及辩护人均无异议。供述证实被告人与他人在其住所共同吸食冰毒的事实。\n\n2. 公诉人出示吸毒工具壶子物证，辩护人提出异议认为该物证无法直接证明被告人主动提供场所的事实。公诉人回应称该物证与其他证据相互印证，能够证明吸毒行为发生在被告人控制的住所内。\n\n3. 公诉人出示多份证人证言（徐某、肖某、宋某、唐某、蔡某），辩护人对部分证言提出异议：\n   - 认为徐某证言中\"容留\"表述与被告人供述存在矛盾\n   - 认为肖某证言无法证明被告人主观故意\n   - 认为宋某、唐某证言中\"提供场所\"表述与被告人供述矛盾\n   - 认为蔡某证言属于传闻证据，缺乏直接关联性\n   公诉人回应称这些证言与其他证据相互印证，且容留他人吸毒罪不以\"主动提供\"为必要要件。\n\n4. 公诉人出示被告人前科判决书，辩护人提出异议认为前科已超过三年且与本案无直接关联。公诉人回应称被告人属于毒品再犯，依法应从重处罚。\n\n5. 其他书证（检测报告、辨认笔录等）均无异议。\n\n6. 辩护人表示没有证据需要出示，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 认为被告人构成容留他人吸毒罪，事实清楚、证据充分\n- 指出被告人为房屋实际控制人，长期摆放吸毒工具且未制止他人吸毒\n- 强调被告人为累犯且系毒品再犯，应从重处罚\n- 反驳被告人\"被动参与\"的辩解\n\n2. 辩护人主要辩护意见：\n- 质疑被告人主观故意，认为仅被动参与吸毒\n- 指出证人证言存在矛盾，部分表述缺乏佐证\n- 强调被告人有坦白情节，前科已超三年不应认定为累犯\n- 辩称吸毒工具系他人遗留，被告人对毒品危害认识不足\n\n3. 双方争议焦点：\n- 主观故意认定：公诉人认为长期摆放吸毒工具表明放任态度，辩护人主张仅为被动参与\n- 累犯认定：双方就前罪刑满释放时间与本案间隔是否满三年展开辩论\n- 证据证明力：对\"经常容留\"表述及吸毒工具来源的证明力存在分歧\n\n4. 关键法律适用争议：\n- 《刑法》第354条容留他人吸毒罪的构成要件\n- 《刑法》第65条累犯认定标准\n- 《刑法》第356条毒品再犯规定\n- 最高法关于审理毒品犯罪案件司法解释第12条",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第三百五十四条",
+              "中华人民共和国刑法第六十五条",
+              "中华人民共和国刑法第六十七条第三款",
+              "中华人民共和国刑法第三百五十六条"
+            ],
+            "中华人民共和国刑法第三百五十四条": "容留他人吸食、注射毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。",
+            "中华人民共和国刑法第六十五条": "被判处有期徒刑以上刑罚的犯罪分子，刑罚执行完毕或者赦免以后，在五年以内再犯应当判处有期徒刑以上刑罚之罪的，是累犯，应当从重处罚，但是过失犯罪和不满十八周岁的人犯罪的除外。前款规定的期限，对于被假释的犯罪分子，从假释期满之日起计算。",
+            "中华人民共和国刑法第三百五十六条": "因走私、贩卖、运输、制造、非法持有毒品罪被判过刑，又犯本节规定之罪的，从重处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "容留他人吸毒罪累犯且毒品再犯的典型案例及量刑标准",
+              "容留他人吸毒罪中坦白情节对量刑的影响",
+              "容留他人吸毒罪中吸毒工具长期摆放对主观故意的认定",
+              "容留他人吸毒罪中罚金数额的确定标准"
+            ],
+            "容留他人吸毒罪累犯且毒品再犯的典型案例及量刑标准": "### 结论\n容留他人吸毒罪的累犯且毒品再犯的典型案例中，被告人通常因曾因毒品犯罪被判刑，在刑罚执行完毕后五年内再犯应当判处有期徒刑以上刑罚之罪，法院依法从重处罚，量刑标准多为有期徒刑一年以上，并处罚金，具体刑期根据犯罪情节、社会危害程度、认罪态度等因素综合考量。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十四条**：容留他人吸食、注射毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n- **《中华人民共和国刑法》第六十五条**：被判处有期徒刑以上刑罚的犯罪分子，刑罚执行完毕或者赦免以后，在五年以内再犯应当判处有期徒刑以上刑罚之罪的，是累犯，应当从重处罚，但是过失犯罪和不满十八周岁的人犯罪的除外。\n- **《中华人民共和国刑法》第三百五十六条**：因走私、贩卖、运输、制造、非法持有毒品罪被判过刑，又犯本节规定之罪的，从重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **累犯**：被告人曾因犯罪被判处有期徒刑，刑罚执行完毕后五年内再犯应当判处有期徒刑以上刑罚之罪，法院依法从重处罚。例如，【（2020）粤0104刑初1059号】、【（2020）粤5202刑初83号】、【（2021）粤0306刑初1745号】、【（2019）鲁1325刑再3号】、【（2019）粤1502刑初126号】、【（2023）粤1284刑初226号】、【（2019）闽0981刑初419号】、【（2019）苏0412刑初219号】、【（2019）浙1002刑初17号】、【（2020）闽0723刑初1号】，这些案例均体现了累犯的从重处罚原则。\n- **毒品再犯**：被告人曾因贩卖毒品罪被判刑，又犯容留他人吸毒罪，法院依法从重处罚。例如，【（2020）粤0104刑初1059号】、【（2020）粤5202刑初83号】、【（2021）粤0306刑初1745号】、【（2019）鲁1325刑再3号】、【（2019）粤1502刑初126号】、【（2023）粤1284刑初226号】、【（2019）闽0981刑初419号】、【（2019）苏0412刑初219号】、【（2019）浙1002刑初17号】、【（2020）闽0723刑初1号】，这些案例均体现了毒品再犯的从重处罚原则。\n- **认罪态度**：被告人归案后能如实供述自己的罪行，依法可从轻处罚。例如，【（2020）粤0104刑初1059号】、【（2020）粤5202刑初83号】、【（2021）粤0306刑初1745号】、【（2019）鲁1325刑再3号】、【（2019）粤1502刑初126号】、【（2023）粤1284刑初226号】、【（2019）闽0981刑初419号】、【（2019）苏0412刑初219号】、【（2019）浙1002刑初17号】、【（2020）闽0723刑初1号】，这些案例均体现了认罪态度对量刑的影响。\n\n综上，容留他人吸毒罪的累犯且毒品再犯的典型案例中，法院在量刑时会综合考虑累犯、毒品再犯、认罪态度等因素，依法从重处罚，但同时也会考虑被告人的认罪态度，酌情从轻处罚。\n\n#####\n类似案件为：\n【（2020）粤0104刑初1059号】：法院认为，被告人梁建光容留他人吸食毒品，其行为构成容留他人吸毒罪，且因其累犯和再犯情节，依法应当从重处罚。鉴于梁建光自愿认罪认罚，可从轻处罚。依据相关法律规定，判决如下：\n一、被告人梁建光犯容留他人吸毒罪，判处有期徒刑九个月，并处罚金人民币二千元。\n二、缴获的吸毒工具冰壶1个，予以没收。一、被告人梁建光犯容留他人吸毒罪，判处有期徒刑九个月，并处罚金人民币二千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日；即自2020年4月7日起至2021年1月6日止。罚金应于本判决发生法律效力之次日起五日内向本院一次缴纳。）\n二、缴获的吸毒工具冰壶1个，予以没收（由广州市公安局越秀区分局代为执行）。\n【（2020）粤5202刑初83号】：法院认为，被告人孙嘉喜容留他人吸食毒品，构成容留他人吸毒罪，是累犯和毒品再犯，应从重处罚；有自首情节，可从轻处罚；自愿认罪，可酌情从轻处罚。被告人孙嘉喜犯容留他人吸毒罪，判处有期徒刑一年六个月，并处罚金人民币五千元。罚金应于判决生效之日起十日内缴纳。\n【（2021）粤0306刑初1745号】：法院认为，被告人郭晓彬的行为构成容留他人吸毒罪，其曾因犯贩卖毒品罪被判处有期徒刑，在刑罚执行完毕后五年内再因容留他人吸毒罪而判处有期徒刑，构成累犯和毒品再犯，应从重处罚。另具有一次犯罪前科、三次行政前科、认罪认罚的情节。被告人郭晓彬犯容留他人吸毒罪，判处有期徒刑一年一个月，并处罚金人民币三千元（刑期自判决执行之日起计算。判决执行之前先行羁押的，羁押一日折抵刑期一日，即自2021年2月3日起至2022年3月2日止。罚金限于判决生效后一个月内向本院一次性缴纳）。\n判决根据\n《中华人民共和国刑法》第三百五十四条、第三百五十六条、第六十五条第一款、第六十七条第三款。",
+            "容留他人吸毒罪中坦白情节对量刑的影响": "### 结论\n在容留他人吸毒罪中，坦白情节对量刑有显著影响，可依法从轻或从宽处罚，但具体量刑还需综合考虑犯罪情节、认罪态度、累犯情况等因素。\n\n### 核心法条\n- **《刑法》第六十七条第三款**：规定犯罪嫌疑人虽不具有自首情节，但如实供述自己罪行的，可以从轻处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **坦白情节**：坦白情节在多个案例中被法院认定为从轻或从宽处罚的依据。例如，【（2021）粤1204刑初124号】、【（2020）粤1204刑初167号】、【（2019）粤5381刑初349号】中，法院均认为被告人具有坦白情节，依法可以从轻处罚。\n- **认罪认罚**：认罪认罚也是法院考虑从宽处罚的重要因素。如【（2019）粤5381刑初349号】、【（2019）粤0309刑初1759号】中，被告人自愿认罪认罚，法院依法从宽处罚。\n- **累犯情况**：累犯情况可能影响量刑，如【（2019）粤0309刑初1759号】中，被告人具有累犯情节，法院在量刑时予以考虑。\n\n综上，坦白情节、认罪认罚以及累犯情况是影响容留他人吸毒罪量刑的关键因素。坦白和认罪认罚通常会带来从轻或从宽处罚，而累犯则可能加重处罚。在具体案件中，法院会综合考虑这些因素，以确定最终的量刑。\n\n#####\n类似案件为：\n【（2021）粤1204刑初124号】：法院认为，被告人吴志能的行为构成容留他人吸毒罪，具有坦白、承认指控犯罪事实、愿意接受刑事处罚的量刑情节。被告人吴志能认罪认罚，且具有坦白情节，依法可以从轻、从宽处罚。被告人吴志能犯容留他人吸毒罪，判处有期徒刑六个月，并处罚金人民币一千元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2021年3月5日起至2021年9月4日止；罚金应于本判决发生法律效力之日起十日内付清。）\n【（2020）粤1204刑初167号】：法院认为，被告人郭小林构成容留他人吸毒罪，具有坦白、承认指控犯罪事实、愿意接受刑事处罚的量刑情节。鉴于郭小林认罪认罚，具有坦白情节，依法可以从宽、从轻处罚。被告人郭小林犯容留他人吸毒罪，判处有期徒刑七个月，并处罚金人民币一千元。\n（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2020年5月19日起至2020年12月18日止；罚金应于本判决发生法律效力之日起十日内付清。）\n【（2019）粤5381刑初349号】：法院认为，被告人谭嘉琰构成容留他人吸毒罪，其具有坦白情节，依法可以从轻处罚；被告人自愿认罪认罚，依法可以从宽处罚。公诉机关的量刑建议适当，予以采纳。一、被告人谭嘉琰犯容留他人吸毒罪，判处有期徒刑六个月，并处罚金3000元。所处罚金在本判决发生法律效力之日起十日内向本院缴纳。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即从2019年7月23日起至2020年1月22日止。)\n二、扣押的海洛因0.05克，予以没收。",
+            "容留他人吸毒罪中吸毒工具长期摆放对主观故意的认定": "### 结论\n在容留他人吸毒罪中，吸毒工具长期摆放可以作为认定行为人主观故意的辅助证据，但并非决定性因素。行为人的供述、吸毒工具的摆放位置、场所的控制权、以及行为人在毒品犯罪中的其他行为表现，共同构成了认定主观故意的综合考量因素。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十四条**：容留他人吸食、注射毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人的供述与认罪态度**：行为人到案后能如实供述自己的罪行，依法可以从轻处罚。例如，【（2019）浙0225刑初351号】、【（2019）浙0225刑初224号】中，被告人陈丽月和周正菊因如实供述而获得从轻处罚。\n- **行为人的前科劣迹**：行为人有违法劣迹或吸毒劣迹，将酌情从重处罚。如【（2020）闽0123刑初68号】中，被告人郑丽芳因有吸毒劣迹而被从重处罚。\n- **行为人的自首与立功表现**：行为人自动投案并如实供述犯罪事实，是自首，依法可予从轻处罚。如【（2019）粤0513刑初976号】中，被告人羊大贵因自首而获得从轻处罚。\n- **吸毒工具的长期摆放**：虽然案例中未直接提及吸毒工具长期摆放对主观故意的认定，但根据相关观点，吸毒工具的摆放位置和场所的控制权可以作为认定行为人主观故意的辅助证据。长期摆放吸毒工具可能表明行为人对容留他人吸毒行为的默许或预谋，但并非决定性因素。\n\n综上，吸毒工具长期摆放可以作为认定行为人主观故意的辅助证据，但行为人的供述、认罪态度、前科劣迹、自首与立功表现等是更直接和重要的考量因素。法院在判决时会综合考虑上述因素，以确定行为人的主观故意和量刑。\n\n#####\n类似案件为：\n【（2019）浙0225刑初351号】：法院认为，被告人陈丽月故意为他人吸食毒品提供场所，其行为已构成容留他人吸毒罪。陈丽月到案后能如实供述自己的罪行，依法可以从轻处罚。供犯罪使用的工具依法应予以没收。一、被告人陈丽月犯容留他人吸毒罪，判处有期徒刑七个月，并处罚金人民币2000元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年2月27日起至2019年9月26日止。罚金限判决生效后一个月内缴纳。)\n 二、供犯罪使用的工具冰壶1个予以没收，上缴国库（由原扣押机关浙江省象山县公安局直接上缴国库）。\n【（2019）浙0225刑初224号】：法院认为，被告人周正菊故意为他人吸食毒品提供场所，其行为已构成容留他人吸毒罪。鉴于周正菊到案后能如实供述自己的罪行，依法可以从轻处罚。供犯罪使用的工具依法应予以没收。一、被告人周正菊犯容留他人吸毒罪，判处有期徒刑七个月，并处罚金人民币2000元。\n (刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年3月4日起至2019年9月4日止。罚金限判决生效后一个月内缴纳。)\n 二、供犯罪使用的工具冰壶2个予以没收，上缴国库（由原扣押机关浙江省象山县公安局直接上缴国库）。\n【（2020）闽0123刑初68号】：法院认为，被告人郑丽芳提供场所、毒品、吸食工具，多次容留他人吸食毒品，其行为已构成容留他人吸毒罪。被告人郑丽芳有吸毒劣迹，多次被行政处罚，依法从重处罚；其归案后坦白认罪并自愿具结认罪认罚，依法从轻处罚。被告人郑丽芳犯容留他人吸毒罪，判处有期徒刑六个月，并处罚金人民币三千元。\n （刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2019年12月10日起至2020年6月9日止。罚金于本判决生效之日起十日内向本院缴纳。）",
+            "容留他人吸毒罪中罚金数额的确定标准": "### 结论\n容留他人吸毒罪中罚金数额的确定标准主要依据《中华人民共和国刑法》的相关规定，结合被告人的犯罪情节、社会危害性、认罪态度等因素综合考量。具体数额在不同案件中有所差异，但通常与被告人的犯罪行为严重程度、是否具有从轻或从重处罚情节、是否认罪认罚等有关。\n\n### 核心法条\n- **《中华人民共和国刑法》第三百五十四条**：规定了容留他人吸毒罪的构成要件和处罚标准。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的可以从轻处罚。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的适用原则和缴纳方式。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪情节与社会危害性**：法院在确定罚金数额时会考虑被告人的犯罪情节和社会危害性。例如，【（2015）松刑初字第2351号】中，被告人吴某因容留他人吸毒被判处有期徒刑九个月，并处罚金人民币一千元，体现了犯罪情节与社会危害性对罚金数额的影响。\n- **认罪态度**：被告人的认罪态度也是影响罚金数额的重要因素。如【（2019）粤0113刑初1486号】中，被告人林宝琪归案后如实供述自己的罪行，并自愿签署《认罪认罚具结书》，依法可以从轻处罚，体现了认罪态度对罚金数额的影响。\n- **是否具有从轻或从重处罚情节**：如【（2020）浙0881刑初292号】中，被告人周汉文犯罪以后自动投案，如实供述自己的罪行，系自首，且认罪认罚，均可从轻处罚，体现了从轻处罚情节对罚金数额的影响。\n\n综上，容留他人吸毒罪中罚金数额的确定是一个综合考量犯罪情节、社会危害性、认罪态度以及是否存在从轻或从重处罚情节的过程。法院在判决时会依据《中华人民共和国刑法》的相关规定，结合具体案情作出裁决。\n\n#####\n类似案件为：\n【（2019）粤0113刑初1486号】：法院认为，被告人林宝琪的行为已构成容留他人吸毒罪，依法应当适用“三年以下有期徒刑、拘役或者管制，并处罚金”的量刑幅度予以处罚。鉴于林宝琪归案后如实供述罪行，自愿认罪认罚，依法可从轻处罚。结合被告人作案的具体事实、社会危害性及认罪态度等因素，法院判决如下：\n一、被告人林宝琪犯容留他人吸毒罪，判处有期徒刑六个月，并处罚金人民币一千元。\n二、依法扣押的作案工具自制吸毒冰壶、锡纸、吸管等吸毒工具，予以没收销毁。一、被告人林宝琪犯容留他人吸毒罪，判处有期徒刑六个月，并处罚金人民币一千元。\n（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2019年4月27日起至2019年10月26日止；罚金应于本判决发生法律效力次日起十日内交纳，上缴国库）。\n二、依法扣押作案工具自制吸毒冰壶、锡纸、吸管等吸毒工具（详见《扣押清单》），予以没收销毁（该判项由广州市公安局番禺区分局执行）。\n【（2020）浙0881刑初292号】：法院认为，被告人周汉文容留他人吸食毒品，其行为已构成容留他人吸毒罪。鉴于周汉文犯罪后自动投案，如实供述罪行，系自首，且承认指控事实，愿意接受处罚，可从轻处罚。据此，法院判决如下：\n一、被告人周汉文犯容留他人吸毒罪，判处拘役四个月，缓刑七个月，并处罚金人民币4000元。\n二、随案移送的吸毒工具予以没收。一、被告人周汉文犯容留他人吸毒罪，判处拘役四个月，缓刑七个月，并处罚金人民币4000元。（缓刑考验期从本判决确定之日起计算。罚金限于本判决生效后一个月内缴纳。）\n 二、随案移送的吸毒工具：吸壶、香烟盒、锡纸盒、打火机、长玻璃管、吸管、锡纸等予以没收。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 5000.0,
+    "reprieve": 0.0
+  }
+]

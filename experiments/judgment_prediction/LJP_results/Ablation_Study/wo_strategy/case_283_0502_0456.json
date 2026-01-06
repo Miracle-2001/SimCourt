@@ -1,0 +1,2091 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人刘某甲，性别男，户籍XXX被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "长春市南关区人民检察院  \n起 诉 书  \n\n长南检一部刑诉〔2019〕166号  \n\n被告人刘某甲，男，户籍XXX。因涉嫌职务侵占罪，于2019年5月5日被长春市公安局朝阳区分局刑事拘留，现羁押于长春市看守所。  \n\n本案由长春市公安局朝阳区分局侦查终结，以被告人刘某甲涉嫌职务侵占罪，于2019年8月13日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2018年1月至5月间，被告人刘某甲利用担任哈尔滨顶津食品有限公司长春分公司销售员的职务便利，采取低价出售公司货物并截留货款的手段，侵占公司货款人民币215592元。经鉴定，涉案康师傅冰红茶等15项饮料价值人民币222592元。案发前，被告人返还被害单位人民币7000元。  \n\n认定上述事实的证据如下：  \n1. 书证：抓获经过、情况说明、微信交易记录、银行转账记录、银行交易明细、转账明细、借条、收条、劳动合同书、出货明细表、出货单、临时羁押证明、在逃人员登记表；  \n2. 证人证言：证人米某、郑某、陈某、刘某乙、李某甲、张某甲、张某乙、马某、许某、叶某、唐某、徐某、赵某、齐某、李某乙、王某、孙某、娄某的证言；  \n3. 鉴定意见：长春市价格认证中心出具的鉴定意见；  \n4. 其他证据：辨认笔录及照片、书面材料、营业执照、常住人口数据查询详细信息。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人刘某甲对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人刘某甲利用职务便利，将本单位财物非法据为己有，数额较大，其行为触犯了《中华人民共和国刑法》第二百七十一条第一款之规定，犯罪事实清楚，证据确实、充分，应当以职务侵占罪追究其刑事责任。被告人刘某甲到案后如实供述犯罪事实，系坦白，根据《中华人民共和国刑法》第六十七条第三款之规定，依法可以从轻处罚。建议判处被告人刘某甲有期徒刑XX，缓刑XX，并责令退赔被害单位人民币XX元，判处罚金人民币XX元。  \n\n此致  \n长春市南关区人民法院  \n\n检 察 官 纪某  \n检察官助理 XXX  \n2019年8月13日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪。我确实利用职务便利低价销售公司货物并截留了货款。案发后我已经返还了7000元，但还没有完全赔偿公司损失。我深刻认识到自己的错误，愿意继续赔偿公司损失，希望法庭能从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，请具体说明你是如何利用职务便利低价销售公司货物并截留货款的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我利用销售员的身份，在向客户销售康师傅冰红茶等饮料时，以低于公司规定的价格出售，然后只将部分货款上交公司，私自截留了差额部分。具体操作是通过微信和银行转账收取客户货款后，只向公司报备部分金额。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款具体金额是多少？这些钱款都用于什么用途了？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "经鉴定，我实际截留的货款金额是215592元。这些钱主要用于偿还个人债务和日常生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你从2018年1月至5月间实施上述行为，为何在2019年5月才被公司发现？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司可能因为销售账目较大，一时没有发现异常。我是通过小额多次的方式截留货款的，每次金额不大，所以没有立即被发现。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与客户之间的交易是否都签订了正规的销售合同？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大部分交易没有签订正规销售合同，主要是通过口头约定和微信沟通完成的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款中，最大单笔金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最大单笔截留金额是3万元左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款涉及多少家客户？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "涉及8家客户。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与这8家客户之间是否存在其他利益关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "涉及8家客户都是正常业务往来，不存在其他利益关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款是否都通过个人银行账户或微信账户收取？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都是通过我的个人银行账户和微信账户收取的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款中，最小单笔金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最小单笔截留金额是2000元左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款具体涉及哪些品类的饮料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "涉及康师傅冰红茶、绿茶、茉莉蜜茶等15种饮料品类。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你截留的货款中，是否有一部分是通过现金方式收取的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有通过现金方式收取，全部都是通过银行转账和微信支付。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在公司工作期间，是否曾因业绩突出获得过表彰或奖励？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "工作期间曾获得过两次月度销售冠军的奖励。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与这8家客户合作的时间有多长？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "与其中3家客户合作超过2年，其他5家合作时间在1年左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你截留的货款中有多少是用于偿还个人债务的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大约15万元用于偿还个人债务，其余用于日常生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与公司之间是否存在工资或提成方面的纠纷？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有工资或提成方面的纠纷。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有主动向公司坦白过自己的违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动向公司坦白过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有能力继续偿还剩余的公司损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我目前经济状况比较困难，但我会尽力通过分期等方式偿还剩余的公司损失。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你截留的货款中，是否有一部分是用于家庭紧急开支？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，有约5万元用于支付家人的医疗费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你所说的家人医疗费用具体是什么情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我母亲在2017年底突发脑溢血住院治疗，需要支付手术费和后续康复费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗的具体时间是什么时候？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2017年12月至2018年1月期间。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗的费用是否已经全部报销或获得其他形式的补偿？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我母亲的部分医疗费用通过医保报销了，但还有约3万元需要自费支付。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，公司是否知晓你的家庭经济困难情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司不知道我的家庭经济困难情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，是否曾向公司申请过经济援助或预支工资？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向公司申请过经济援助或预支工资。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗的具体医院名称是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "长春市中心医院。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，是否曾向亲友或其他渠道寻求过经济帮助？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我向亲友借了约5万元用于支付医疗费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，是否保留有相关的医疗费用凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有保留部分医疗费用收据和住院记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，是否曾向公司提出过请假申请？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2018年1月我母亲住院期间，我向公司请了3天事假照顾母亲。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，是否曾向公司提出过延长假期或调整工作安排的申请？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向公司提出过延长假期或调整工作安排的申请。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲住院治疗期间，是否曾向公司提出过经济困难补助申请？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向公司提出过经济困难补助申请。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后的康复治疗费用是否也是你截留货款的原因之一？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，母亲出院后的康复治疗费用也是我截留货款的原因之一。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后需要多长时间进行康复治疗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "母亲出院后需要持续3个月的康复治疗。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后的康复治疗具体包括哪些项目？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "包括针灸、理疗和药物治疗，每周需要3次康复治疗。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后的康复治疗费用具体金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "出院后的康复治疗费用总共约2万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后的康复治疗是否已经全部完成？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，母亲出院后的康复治疗已经全部完成。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后的康复治疗是否取得了预期效果？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "取得了预期效果，母亲的身体状况有所好转。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你母亲出院后的康复治疗是否保留了相关的医疗费用凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有保留部分康复治疗的收费单据和病历记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你母亲住院治疗和康复期间，是否曾向公司提出过经济困难补助申请？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向公司提出过经济困难补助申请。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。2018年1月至5月间，我在担任哈尔滨顶津食品有限公司长春分公司销售员期间，利用职务便利，将公司的康师傅冰红茶等饮料低价出售给客户，并截留了部分货款。经鉴定，涉及的15项饮料实际货款为215592元，市场价值为222592元。案发前，我返还了被害单位7000元。  \n\n（2）犯案动机。由于个人经济压力较大，我产生了通过低价销售公司货物并截留部分货款来缓解自身财务困难的想法。  \n\n（3）案发之后的处理。我没有主动自首，公安机关在侦查过程中将我抓获。案发后我返还了部分货款7000元，但尚未完全赔偿被害单位损失。目前未与被害单位达成和解，也未取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：抓获经过，证实被告人刘某甲被抓获的经过，由长春市公安局朝阳区分局依法出具，载明抓获时间、地点及程序符合《刑事诉讼法》相关规定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：情况说明，由哈尔滨顶津食品有限公司长春分公司出具并加盖公章，内容与案件事实相符，经公安机关核实确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：微信交易记录，由公安机关依法调取并出具提取说明，包含完整交易时间、金额及对方账户信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：银行转账记录，由中国人民银行长春中心支行协助调取，包含账户全称、交易日期及完整流水号",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：银行交易明细，由中国工商银行长春分行提供并加盖业务章，记录涵盖涉案时段全部存取款及转账记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：转账明细，经公安机关与银行系统数据比对确认，包含交易双方账户信息及资金流向说明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：借条，经笔迹鉴定确认系刘某甲本人签署，附有见证人李某甲的签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：收条，记载款项交付时间、金额及用途，经司法鉴定确认形成时间与案件事实相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：劳动合同书，经哈尔滨顶津食品有限公司人力资源部确认备案，包含双方签字及劳动部门鉴证章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：出货明细表，由公司仓储系统自动生成，经审计部门核对与实物出库记录一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：出货单，每单均有经办人张某乙、复核人马某双重签字确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：临时羁押证明，由长春市看守所依法出具，载明入所体检记录及办案机关交接手续",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：在逃人员登记表，由公安部全国在逃人员信息系统生成，包含案件编号及上网追逃审批记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人米某的证言经公安机关制作询问笔录，并与其银行账户收款记录相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人郑某的证言与公司监控录像记录的货物交接过程相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人陈某的证言经法庭当庭质证，其作为财务人员提交了对应的账款差异报表",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人刘某乙的证言与审计报告载明的货款短缺金额一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人李某甲的证言经公证处公证，陈述内容与微信聊天记录相互佐证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人张某甲的证言有其签名的书面陈述材料，并附员工身份证明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人张某乙的证言与货物运输GPS轨迹记录相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人马某的证言经侦查实验验证，其所述货物装卸过程符合实际操作规范",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人许某的证言与被告人供述的关键时间点吻合",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人叶某作为公司监察部主任，其证言附有公司规章制度文本作为依据",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人唐某的证言与扣押物品清单记载的货物批号对应",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.证人证言：证人徐某的证言经测谎仪测试显示未作虚假陈述",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.证人证言：证人赵某的证言有同期录音录像资料佐证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.证人证言：证人齐某的证言与公司追回货款的银行入账凭证相符",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人李某乙的证言经其他三名证人独立陈述印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.证人证言：证人王某的证言与其工作日志记载的货物调度记录一致",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.证人证言：证人孙某的证言经会计师事务所测算，所述损失金额与财务数据误差率小于3%",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.证人证言：证人娄某的证言与被告人手机提取的销售沟通录音相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.鉴定意见：由长春市价格认证中心出具，鉴定人员具备司法鉴定资质，附完整取样照片及市场比价依据",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n第一，关于定罪问题。被告人刘某甲利用职务便利侵占公司财物215,592元，事实清楚、证据确实充分，其行为完全符合《刑法》第二百七十一条规定的职务侵占罪构成要件。33项证据相互印证，形成完整证据链，被告人亦当庭认罪。\n\n第二，关于量刑情节。根据《刑法》第六十七条第三款，被告人到案后如实供述，构成坦白，依法可以从轻处罚。但需注意，被告人并非主动投案，而是在被抓获后供述，不符合自首条件。\n\n第三，关于辩护人提出的从轻情节。虽然被告人部分款项用于母亲医疗，但根据证据显示，其既未向公司申请救助，也未主动终止犯罪，反而持续实施侵占行为长达5个月，主观恶性较大。\n\n第四，关于退赔情况。被告人仅退还7,000元，占涉案金额比例极低，尚未与被害单位达成和解，社会危害性尚未完全消除。\n\n综上，建议法庭在考虑坦白情节的同时，也要充分考虑犯罪持续时间长、涉案金额大、退赔比例低等从重情节，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于量刑情节。被告人虽不构成自首，但根据《刑法》第六十七条第三款，其到案后如实供述全部犯罪事实，认罪态度良好，依法可以从轻处罚。被告人在庭审中始终保持认罪悔罪态度，具有明显的悔罪表现。\n\n第二，关于犯罪动机。被告人截留的部分款项（约5万元）用于支付母亲脑溢血住院及康复治疗费用，这一特殊家庭情况虽不能免除其罪责，但根据《最高人民法院关于常见犯罪的量刑指导意见》，可以酌情从轻考虑。\n\n第三，关于退赔情况。被告人已返还7,000元，并表示愿意继续赔偿。考虑到其家庭经济困难，建议法庭允许其分期偿还剩余款项。\n\n第四，关于工作表现。被告人在公司工作期间曾两次获得月度销售冠军，说明其平时工作表现良好，此次犯罪系初犯、偶犯。\n\n综上，恳请法庭充分考虑被告人的认罪态度、特殊家庭情况、工作表现等因素，依法从轻处罚，并考虑适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻情节，公诉人补充以下意见：\n\n第一，关于家庭困难因素。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，因生活困难犯罪需同时满足\"确因生活所迫\"和\"没有其他违法收入来源\"两个要件。本案中被告人既有正常工资收入，又曾向亲友借款5万元，其经济困难程度尚不足以成为从轻处罚的充分理由。\n\n第二，关于退赔意愿。根据《刑法》第六十四条，退赔是犯罪分子的法定义务。被告人仅退还3.2%的涉案金额，远未达到《最高人民法院关于常见犯罪的量刑指导意见》规定的\"全部退赃退赔\"标准，不能作为从宽处罚的依据。\n\n第三，关于工作表现。被告人的既往工作表现与本案犯罪事实无直接关联，根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第二百三十一条，不能作为量刑的酌定从轻情节。\n\n第四，关于犯罪持续时间。被告人从2018年1月至5月持续实施犯罪，时间跨度长达5个月，涉及8家客户15种商品，主观恶性较大，社会危害性严重。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的补充意见，辩护人作如下回应：\n\n第一，关于家庭困难因素。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，虽然被告人尚有工资收入，但其母亲突发脑溢血产生的巨额医疗费用确属不可预见的重大经济负担。被告人为支付医疗费用已向亲友借款5万元，仍无法完全覆盖治疗支出，符合\"确因生活所迫\"的情形。\n\n第二，关于退赔问题。被告人已返还7,000元，虽比例不高，但考虑到其母亲后续仍需康复治疗的经济压力，其还款意愿是真实的。建议法庭在量刑时考虑给予合理的还款期限。\n\n第三，关于犯罪持续时间。虽然犯罪行为持续5个月，但被告人每次截留金额较小，最大单笔仅3万元，且主要用于解决家庭紧急医疗需求，与恶性侵占行为存在区别。\n\n第四，被告人系初犯，此前无任何违法记录，且当庭认罪态度诚恳。根据《刑法》第七十二条，符合适用缓刑的条件。恳请法庭给予改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻情节，公诉人补充以下意见：\n\n第一，关于家庭困难因素。根据在案证据，被告人母亲的治疗发生在2017年底至2018年初，而犯罪行为发生在2018年1月至5月，且截留款项中仅约23%用于医疗支出，其余77%用于偿还个人债务和日常开支，不符合\"确因生活所迫\"的构成要件。\n\n第二，关于犯罪主观恶性。被告人采取低价销售、截留差价的方式，涉及8家客户15种商品，手法隐蔽且具有持续性，反映出其主观上具有明显的非法占有目的。\n\n第三，关于社会危害性。被告人的行为不仅造成公司20余万元的直接经济损失，还严重破坏了商业诚信和公司管理秩序，社会危害性较大。\n\n第四，关于赔偿问题。案发至今已超过一年，被告人仅退还7000元，占涉案金额的3.2%，且未与被害单位达成任何赔偿协议，其悔罪表现和赔偿意愿有待进一步考察。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的补充意见，辩护人作如下补充说明：\n\n第一，关于款项用途比例问题。虽然医疗支出占比23%，但根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对于因家庭生活困难引发的犯罪，在量刑时应与其他恶性犯罪有所区别。被告人母亲突发重大疾病确属不可抗力因素。\n\n第二，关于赔偿能力问题。被告人目前仍在积极筹措资金，其母亲后续治疗确实影响了赔偿进度。根据《刑法》第六十七条第三款，被告人认罪态度良好，愿意制定切实可行的还款计划。\n\n第三，关于社会危害性评估。被告人的犯罪行为针对特定企业，未造成广泛社会影响，且其作为销售冠军曾为企业创造可观效益，整体社会危害性相对可控。\n\n第四，恳请法庭根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，综合考虑被告人家庭特殊情况、认罪态度及悔罪表现，在法定刑幅度内从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人的犯罪动机和退赔情况已充分发表意见，接下来的辩论请围绕被告人母亲医疗费用的具体金额和支付凭证，以及被告人所称向亲友借款5万元的相关证据进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人提出的医疗费用问题，公诉人注意到以下关键事实：\n\n第一，根据被告人供述，其母亲治疗时间为2017年12月至2018年1月，而本案犯罪行为发生在2018年1月至5月，存在时间上的延续性。但被告人当庭仅出示部分医疗凭证，未能提供完整的医疗费用支出证明，无法证实其主张的5万元医疗费用全部用于母亲治疗。\n\n第二，根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十五条，当事人应当对其主张的从轻情节承担举证责任。被告人虽声称向亲友借款5万元，但未提供任何借据或证人证言予以佐证，该主张缺乏证据支持。\n\n第三，即便部分款项用于医疗支出，根据银行流水显示，被告人截留的215,592元中仅有约23%用于医疗，其余77%用于偿还个人债务和日常开支，明显超出合理医疗支出范围。\n\n第四，被告人母亲治疗期间，其既未向公司申请救助，也未停止犯罪行为，反而持续实施侵占行为长达5个月，反映出其主观上并非单纯为解决医疗困难。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于医疗费用问题，辩护人补充说明如下：\n\n第一，被告人母亲在长春市中心医院住院治疗及后续康复期间确实产生了较大医疗支出。虽然部分凭证因时间原因未能完整保存，但现有医疗收据和住院记录能够证实治疗事实及基本费用情况。\n\n第二，关于向亲友借款5万元的情况，虽然未保留书面借据，但根据被告人的银行流水记录显示，在2017年12月至2018年1月期间确有相应金额的资金往来，与被告人陈述的借款时间、用途能够相互印证。\n\n第三，根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十五条，对于被告人提出的从轻情节，应当结合全案证据综合判断。被告人关于医疗支出的陈述与其他证据不存在矛盾，且符合常理。\n\n第四，虽然医疗支出占比较小，但考虑到被告人母亲突发脑溢血属于重大疾病，治疗费用确属必要支出。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》，在量刑时应予酌情考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人母亲医疗费用问题已发表意见，接下来的辩论请围绕被告人所称向亲友借款5万元的具体情况，包括借款时间、金额、用途及还款情况进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人主张的5万元借款问题，公诉人指出以下关键点：\n\n第一，根据《刑事诉讼法》第五十条，证据必须经过查证属实才能作为定案根据。被告人虽声称借款5万元用于母亲治疗，但既未提供借据等书证，也未申请相关借款人出庭作证，该主张缺乏有效证据支持。\n\n第二，银行流水记录仅能证明资金往来，无法证实款项性质。根据《最高人民法院关于适用刑事诉讼法的解释》第九十二条，对被告人提出的从轻情节，应当由被告人提供相关证据。\n\n第三，即便存在借款，根据被告人供述，其截留货款中仅约5万元用于医疗，其余15万元用于偿还其他债务和日常开支，明显超出合理医疗支出范围。\n\n第四，被告人母亲治疗主要发生在2017年底至2018年初，而犯罪行为持续至2018年5月，时间上不具有完全对应性，不能成为持续犯罪的正当理由。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于5万元借款问题，辩护人补充以下意见：\n\n第一，根据银行流水记录显示，2017年12月至2018年1月期间确有5万元资金转入被告人账户，时间与被告人母亲住院治疗期高度吻合，能够佐证借款事实。\n\n第二，根据《最高人民法院关于适用刑事诉讼法的解释》第九十四条，对于当事人提出的有利于己的事实，应当结合全案证据综合判断。被告人关于借款用途的陈述与医疗费用支出情况能够相互印证。\n\n第三，虽然借款未签订书面协议，但考虑到亲友间借贷的特殊性，这种交易习惯符合社会常理。被告人已提供部分医疗凭证，证明资金实际用于母亲治疗。\n\n第四，该借款事实虽不能免除罪责，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，可以证明被告人实施犯罪前已穷尽合法救济途径。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对给公司造成的损失表示真诚的悔过。我认罪认罚，愿意继续赔偿公司损失。恳请法庭考虑我母亲患病需要照顾的特殊情况，以及我认罪态度良好、系初犯等因素，能够从轻处罚。我保证今后一定遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "长春市南关区人民法院\n刑事判决书\n（2019）吉0102刑初166号\n\n公诉机关长春市南关区人民检察院。\n被告人刘某甲，男，户籍XXX。因涉嫌职务侵占罪，于2019年5月5日被长春市公安局朝阳区分局刑事拘留，现羁押于长春市看守所。\n辩护人XXX（姓名、性别、工作单位和职务）。\n\n长春市南关区人民检察院于2019年8月13日以被告人刘某甲犯职务侵占罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。长春市南关区人民检察院检察员纪某出庭支持公诉，被告人刘某甲及其辩护人XXX等到庭参加诉讼。本案现已审理终结。\n\n长春市南关区人民检察院指控：2018年1月至5月间，被告人刘某甲利用担任哈尔滨顶津食品有限公司长春分公司销售员的职务便利，采取低价出售公司货物并截留货款的手段，侵占公司货款人民币215592元。经鉴定，涉案康师傅冰红茶等15项饮料价值人民币222592元。案发前，被告人返还被害单位人民币7000元。公诉机关认为，被告人刘某甲的行为已构成职务侵占罪，应依法惩处。\n\n经审理查明，2018年1月至5月，被告人刘某甲在担任哈尔滨顶津食品有限公司长春分公司销售员期间，利用职务便利，将公司康师傅冰红茶等15种饮料低价销售给8家客户，通过微信和银行转账方式截留货款共计215592元。其中约5万元用于支付其母亲脑溢血治疗费用，其余款项用于偿还个人债务及日常生活开支。案发前已返还7000元。上述事实有被告人供述、微信交易记录、银行转账凭证、证人证言、价格鉴定意见等33项证据证实，证据间相互印证，足以认定。\n\n本院认为，被告人刘某甲利用职务便利，将本单位财物非法占为己有，数额较大，其行为已构成职务侵占罪。公诉机关指控的犯罪事实清楚，证据确实、充分，罪名成立。被告人到案后如实供述犯罪事实，系坦白，依法可从轻处罚。鉴于被告人认罪态度较好，部分款项用于母亲医疗支出，且愿意继续赔偿损失，可酌情从轻处罚。辩护人关于从轻处罚的意见予以采纳。依照《中华人民共和国刑法》第二百七十一条第一款、第六十七条第三款、第七十二条第一款、第七十三条第二款、第三款、第六十四条之规定，判决如下：\n\n一、被告人刘某甲犯职务侵占罪，判处有期徒刑二年，缓刑三年；\n二、被告人刘某甲退赔被害单位哈尔滨顶津食品有限公司长春分公司人民币208592元；\n三、被告人刘某甲处罚金人民币五万元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向长春市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2019年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了33项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述、犯案动机、案发后处理情况）\n- 书证（抓获经过、情况说明、微信交易记录、银行转账记录等12项财务凭证）\n- 18名证人的证言（均与其他证据相互印证）\n- 长春市价格认证中心出具的鉴定意见\n\n2. 被告人对公诉人出示的全部33项证据均表示无异议。\n\n3. 辩护人未提出任何证据，对公诉人出示的全部证据亦无异议。\n\n4. 被告人明确表示不申请调取新证据、通知新证人到庭或申请重新鉴定勘验。\n\n（注：该阶段所有证据均被控辩双方认可，无争议证据，被告人持续保持认罪态度）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了33项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述、犯案动机、案发后处理情况）\n- 书证（抓获经过、情况说明、微信交易记录、银行转账记录等12项财务凭证）\n- 18名证人的证言（均与其他证据相互印证）\n- 长春市价格认证中心出具的鉴定意见\n\n2. 被告人对公诉人出示的全部33项证据均表示无异议。\n\n3. 辩护人未提出任何证据，对公诉人出示的全部证据亦无异议。\n\n4. 被告人明确表示不申请调取新证据、通知新证人到庭或申请重新鉴定勘验。\n\n（注：该阶段所有证据均被控辩双方认可，无争议证据，被告人持续保持认罪态度）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了33项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述、犯案动机、案发后处理情况）\n- 书证（抓获经过、情况说明、微信交易记录、银行转账记录等12项财务凭证）\n- 18名证人的证言（均与其他证据相互印证）\n- 长春市价格认证中心出具的鉴定意见\n\n2. 被告人对公诉人出示的全部33项证据均表示无异议。\n\n3. 辩护人未提出任何证据，对公诉人出示的全部证据亦无异议。\n\n4. 被告人明确表示不申请调取新证据、通知新证人到庭或申请重新鉴定勘验。\n\n（注：该阶段所有证据均被控辩双方认可，无争议证据，被告人持续保持认罪态度）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了33项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述、犯案动机、案发后处理情况）\n- 书证（抓获经过、情况说明、微信交易记录、银行转账记录等12项财务凭证）\n- 18名证人的证言（均与其他证据相互印证）\n- 长春市价格认证中心出具的鉴定意见\n\n2. 被告人对公诉人出示的全部33项证据均表示无异议。\n\n3. 辩护人未提出任何证据，对公诉人出示的全部证据亦无异议。\n\n4. 被告人明确表示不申请调取新证据、通知新证人到庭或申请重新鉴定勘验。\n\n（注：该阶段所有证据均被控辩双方认可，无争议证据，被告人持续保持认罪态度）\n\n法庭辩论阶段总结：\n\n1. 公诉人主要观点：\n- 被告人刘某甲职务侵占215,592元事实清楚，证据充分，构成职务侵占罪\n- 被告人虽坦白但不构成自首，退赔比例仅3.2%，社会危害性大\n- 被告人家庭困难主张证据不足，医疗支出仅占23%，其余用于个人消费\n- 犯罪行为持续5个月，涉及8家客户15种商品，主观恶性较大\n\n2. 辩护人主要观点：\n- 被告人认罪态度良好，母亲突发脑溢血产生巨额医疗费用\n- 已返还7,000元并愿意继续赔偿，建议分期偿还\n- 提供部分医疗凭证证明5万元用于母亲治疗\n- 银行流水显示2017年12月至2018年1月有5万元资金往来佐证借款事实\n- 系初犯、偶犯，工作表现良好，建议适用缓刑\n\n3. 争议焦点：\n- 被告人母亲医疗费用的真实性和金额（约5万元）\n- 向亲友借款5万元用于医疗的证据充分性\n- 医疗支出占比较小（23%）是否影响从轻量刑\n- 持续5个月的犯罪行为与家庭困难的时间关联性",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认利用销售员身份低价销售公司货物并截留货款215,592元\n- 截留方式为通过微信和银行转账收取客户货款后只上交部分金额\n- 款项主要用于偿还个人债务(约15万元)和日常生活开支\n- 涉及8家客户，最大单笔3万元，最小单笔2000元\n- 涉及康师傅冰红茶等15种饮料品类\n- 全部通过银行转账和微信支付，无现金交易\n\n2. 辩护人讯问：\n- 被告人曾获两次月度销售冠军\n- 截留部分款项(约5万元)用于支付母亲脑溢血住院及康复治疗费用\n- 母亲2017年12月至2018年1月在长春市中心医院治疗\n- 后续3个月康复治疗费用约2万元\n- 曾向亲友借款5万元但仍存在经济困难\n- 保留有部分医疗费用凭证但未向公司申请补助\n\n3. 被告人陈述：\n- 对起诉书指控的犯罪事实和罪名无异议\n- 已返还7,000元但尚未完全赔偿\n- 认罪并表示愿意继续赔偿损失\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了33项证据，包括：\n- 被告人在侦查阶段的供述（认罪供述、犯案动机、案发后处理情况）\n- 书证（抓获经过、情况说明、微信交易记录、银行转账记录等12项财务凭证）\n- 18名证人的证言（均与其他证据相互印证）\n- 长春市价格认证中心出具的鉴定意见\n\n2. 被告人对公诉人出示的全部33项证据均表示无异议。\n\n3. 辩护人未提出任何证据，对公诉人出示的全部证据亦无异议。\n\n4. 被告人明确表示不申请调取新证据、通知新证人到庭或申请重新鉴定勘验。\n\n（注：该阶段所有证据均被控辩双方认可，无争议证据，被告人持续保持认罪态度）\n\n法庭辩论阶段总结：\n\n1. 公诉人主要观点：\n- 被告人刘某甲职务侵占215,592元事实清楚，证据充分，构成职务侵占罪\n- 被告人虽坦白但不构成自首，退赔比例仅3.2%，社会危害性大\n- 被告人家庭困难主张证据不足，医疗支出仅占23%，其余用于个人消费\n- 犯罪行为持续5个月，涉及8家客户15种商品，主观恶性较大\n\n2. 辩护人主要观点：\n- 被告人认罪态度良好，母亲突发脑溢血产生巨额医疗费用\n- 已返还7,000元并愿意继续赔偿，建议分期偿还\n- 提供部分医疗凭证证明5万元用于母亲治疗\n- 银行流水显示2017年12月至2018年1月有5万元资金往来佐证借款事实\n- 系初犯、偶犯，工作表现良好，建议适用缓刑\n\n3. 争议焦点：\n- 被告人母亲医疗费用的真实性和金额（约5万元）\n- 向亲友借款5万元用于医疗的证据充分性\n- 医疗支出占比较小（23%）是否影响从轻量刑\n- 持续5个月的犯罪行为与家庭困难的时间关联性",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 24.0,
+    "fine": 50000.0,
+    "reprieve": 36.0
+  }
+]

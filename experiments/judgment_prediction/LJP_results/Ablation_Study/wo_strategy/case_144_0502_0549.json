@@ -1,0 +1,1629 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人曾某，男，XXX年X月X日出生，户籍XXXXX，汉族，文化程度XXX。因涉嫌信用卡诈骗罪，于2016年6月30日主动投案，同日被取保候审。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "惠安县人民检察院  \n起 诉 书  \n\n惠检金检诉刑诉〔2016〕18号  \n\n被告人曾某，男，XXX年X月X日出生，户籍XXXXX，汉族，文化程度XXX。因涉嫌信用卡诈骗罪，于2016年6月30日主动投案，同日被取保候审。  \n\n本案由惠安县公安局侦查终结，以被告人曾某涉嫌信用卡诈骗罪，于2016年11月17日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2012年11月5日，被告人曾某向中国工商银行惠安支行申领牡丹信用卡一张。后持卡透支消费，自2015年9月28日还款人民币3100元后未再还款，拖欠透支本金合计人民币29942.52元。经中国工商银行惠安支行多次催收（包括2015年10月25日起电话、短信催收；2016年1月26日、2月23日信函催收；2016年1月25日上门催收），超过三个月仍不归还。2016年6月30日，被告人曾某主动投案并还清全部欠款。  \n\n认定上述事实的证据如下：  \n1. 书证：受立案材料、信用卡申请表、身份证复印件、信用卡调查审查审批表、泉州市住房公积金查询结果、申请人声明、个人信用报告、申明与承诺、个人客户信用报告、特别关注客户信息系统个人客户查询记录、工商银行终端交易平台交易截图、中国工商银行对账单、工商银行催收记录（含电话、短信、信函、上门催收）、国内挂号信函、手机还款催告函、上门催收照片及现场检测报告书、还款凭证、补充说明、投案经过、户籍证明；  \n2. 证人证言：证人郑某（银行工作人员）关于催收过程的证言；  \n3. 被告人供述：被告人曾某对犯罪事实的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人曾某对指控的犯罪事实和证据无异议。  \n\n本院认为，被告人曾某以非法占有为目的，超过规定期限透支信用卡，经发卡银行多次催收后超过三个月仍不归还，透支本金人民币29942.52元，数额较大，其行为触犯《中华人民共和国刑法》第一百九十六条第一款第（四）项、第二款，犯罪事实清楚，证据确实、充分，应当以信用卡诈骗罪追究其刑事责任。被告人曾某主动投案并如实供述，系自首，依法可从轻处罚；已归还全部透支本金，可酌情从轻处罚。建议判处被告人曾某拘役XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n惠安县人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2016年11月17日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实和罪名没有异议。我确实因为经济困难未能按时还款，但我已经主动投案并还清全部欠款，愿意认罪悔改。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你申领信用卡时是否清楚信用卡透支消费后需要按时还款的义务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我清楚信用卡透支后需要按时还款的义务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你从2015年9月28日最后一次还款后，到2016年6月30日投案期间，是否有其他收入来源？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "那段时间我确实没有稳定的收入来源，经济状况比较困难。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行在2015年10月至2016年6月期间对你进行了多次催收，你是否收到这些催收通知？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "收到了银行的催收通知。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在收到银行催收通知后，为何没有及时还款或与银行协商还款计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时经济确实困难，无力偿还欠款。我也因为害怕和羞愧，没有主动与银行沟通协商还款计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在2016年6月30日主动投案时，是否已经准备好全部欠款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我投案时已经准备好全部欠款，当天就还清了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时申领信用卡时提供的个人资料和收入证明是否真实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我申领信用卡时提供的个人资料和收入证明都是真实的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支信用卡的29942.52元主要用于哪些消费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于日常生活开支和部分医疗费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支的29942.52元中，医疗费用具体占多少金额？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "医疗费用大约占1万元左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支的1万元医疗费用具体用于治疗什么疾病？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于治疗慢性胃炎和腰椎间盘突出。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支的1万元医疗费用是否有相关的医疗记录或发票可以证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有部分医疗记录和发票，但可能不完整。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支的1万元医疗费用中，是否包含医保报销部分？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分医疗费用已经通过医保报销。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支的1万元医疗费用中，医保报销后个人实际支付金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "医保报销后个人实际支付金额大约是6000元左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支的6000元医疗费用是否保存有相关的医疗发票和报销凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分医疗发票和报销凭证还保存着。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支消费的29942.52元中，除医疗费用外，其余19942.52元具体用于哪些消费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要用于日常生活开支，包括房租、水电费、食品等基本生活支出。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支消费的19942.52元日常生活开支中，是否有大额消费项目？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有大额消费项目，都是日常小额支出。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支消费的19942.52元日常生活开支中，是否有奢侈品消费或非必要支出？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有奢侈品消费或非必要支出，都是维持基本生活的必要开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时透支消费的19942.52元日常生活开支中，是否有通过信用卡取现的情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有部分通过信用卡取现的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时通过信用卡取现的金额具体是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大约有5000元左右是通过信用卡取现的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时通过信用卡取现的5000元具体用于什么用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大约5000元取现主要用于支付房租和部分紧急医疗费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，关于透支款项的具体用途已经询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在2015年9月至2016年6月期间是否有尝试寻找工作或其他收入来源？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有尝试寻找工作，但因为年龄和身体状况原因，未能找到合适的工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时是否有向亲友寻求帮助来偿还信用卡欠款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向亲友寻求帮助，但亲友经济状况也不好，未能借到足够的钱来还款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时透支消费的医疗费用是否包含治疗腰椎间盘突出的康复治疗费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "包含部分腰椎间盘突出的康复治疗费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时是否有向银行说明你的经济困难情况并尝试协商还款计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动向银行说明情况并协商还款计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时透支消费的医疗费用是否保存有相关的医疗记录或发票？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "部分医疗记录和发票还保存着。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你当时是否有向银行说明你的医疗状况和经济困难情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向银行说明医疗状况和经济困难情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，关于被告人的经济状况和透支款项用途已经询问清楚。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时透支消费的29942.52元中，除医疗费用和日常生活开支外，是否还有其他用途？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有其他用途，都是用于医疗费用和日常生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你当时透支消费的医疗费用是否包含治疗慢性胃炎的药物费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "包含治疗慢性胃炎的药物费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。  \n2012年11月5日，我向中国工商银行惠安支行申领了一张牡丹信用卡。之后，我持该卡进行透支和消费。自2015年9月28日还款人民币3100元后，因经济困难未再还款，拖欠透支本金合计人民币29942.52元。中国工商银行惠安支行于2015年10月25日起多次通过电话、短信催收；2016年1月26日、2016年2月23日发送信函催收；2016年1月25日上门催收。超过三个月后，我仍未归还欠款。2016年6月30日，我主动到惠安县公安局小岞派出所投案，并于同日向中国工商银行惠安支行还清所欠本金。  \n\n（2）犯案动机。  \n我因个人经济困难，无法按时偿还信用卡透支款项，导致拖欠银行本金。  \n\n（3）案发之后的处理。  \n2016年6月30日，我主动到公安机关投案，并如实供述自己的行为。同日，我向中国工商银行惠安支行还清全部透支本金。银行未提及是否达成谅解或签署和解协议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：受立案材料，证明案件已依法立案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人郑某证言，郑某说：“我是银行工作人员，曾某的信用卡透支后经多次催收仍未还款，我们采取了电话、短信、信函和上门催收等措施。”，并附有郑某的银行工作证复印件及劳动合同，证明其身份及与案件的关联性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：信用卡申请表，证明被告人曾某向中国工商银行惠安支行申领牡丹信用卡的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：身份证复印件，证明被告人曾某的身份信息，该复印件由银行在办理信用卡时核对原件后留存",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：信用卡调查审查审批表，证明银行对被告人曾某的信用卡申请进行了审核",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：泉州市住房公积金查询结果，证明被告人曾某的公积金缴存情况，该结果由泉州市住房公积金管理中心出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：申请人声明，证明被告人曾某在申请信用卡时签署的相关声明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：个人信用报告，证明被告人曾某的信用记录，该报告由中国人民银行征信中心出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：申明与承诺，证明被告人曾某在信用卡使用过程中的相关承诺",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：个人客户信用报告，证明被告人曾某的信用状况，该报告由中国人民银行征信中心出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：特别关注客户信息系统个人客户查询记录，证明银行对被告人曾某的信用状况进行了监控，该记录由工商银行系统自动生成并加盖银行公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：工商银行终端交易平台交易截图，证明被告人曾某的信用卡交易记录，该截图由银行系统生成并附有系统操作员签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：中国工商银行对账单，证明被告人曾某的信用卡透支和消费明细，该对账单由银行系统生成并加盖银行业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：工商银行的催收记录，证明银行对被告人曾某进行了多次催收，包括电话、短信、信函和上门催收，记录中详细列明了催收时间、方式、内容及催收人员信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：国内挂号信函，证明银行通过信函方式催收被告人曾某的欠款，附有挂号信函存根及签收记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：手机还款催告函，证明银行通过短信方式催收被告人曾某的欠款，附有短信发送记录及运营商出具的通话详单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：上门催收照片，证明银行工作人员上门催收被告人曾某的欠款，照片上显示有拍摄时间及地点水印",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：现场检测报告书及照片，证明银行工作人员上门催收时的现场情况，报告书由银行工作人员及见证人签字确认，照片上显示有拍摄时间及地点水印",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：还款凭证，证明被告人曾某于2016年6月30日向中国工商银行惠安支行还清所欠本金",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：补充说明，证明银行对催收过程和还款情况的补充说明，该说明由银行负责人签字并加盖银行公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：投案经过，证明被告人曾某于2016年6月30日主动到惠安县公安局小岞派出所投案，该材料由派出所民警出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.书证：户籍证明，证明被告人曾某的户籍信息，该证明由公安机关出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.书证：还款凭证，证明被告人曾某于2016年6月30日向中国工商银行惠安支行还清所欠本金",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.1.书证：投案情况说明，证明被告人曾某于2016年6月30日主动到惠安县公安局小岞派出所投案自首，该说明由派出所民警出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，根据《中华人民共和国刑法》第一百九十六条，被告人曾某以非法占有为目的，超过规定期限透支信用卡，经发卡银行多次催收后超过三个月仍不归还，透支本金人民币29942.52元，数额较大，其行为已构成信用卡诈骗罪。\n\n关于犯罪构成要件，被告人主观上明知还款义务却因经济困难未履行，客观上实施了透支行为且经多次催收后超过三个月未还，完全符合该罪的构成要件。虽然被告人辩称透支款项用于医疗和生活必需开支，但这并不影响非法占有目的的认定。根据《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条，持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行两次催收后超过3个月仍不归还的，应当认定为\"恶意透支\"。\n\n关于量刑情节，被告人具有以下从宽处罚情节：1.主动投案并如实供述，构成自首，根据刑法第六十七条可以从轻处罚；2.已归还全部透支本金，可酌情从轻处罚。但需注意的是，被告人在长达九个月的催收期间未主动与银行沟通协商，反映出一定的主观恶性。\n\n综上，建议法庭在认定犯罪事实的基础上，综合考虑被告人的自首情节和退赔情况，依法判处拘役并适用缓刑，同时处以罚金。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人认为本案应从以下方面考量从轻处罚情节：\n\n第一，被告人具有法定从轻情节。根据《刑法》第六十七条，被告人主动投案并如实供述，构成自首，依法应当从轻处罚。投案情况说明等证据已充分证实这一点。\n\n第二，被告人认罪态度良好。从庭审表现看，被告人对所有指控事实和证据均无异议，当庭表示认罪悔改，具有明显的悔罪表现。\n\n第三，被告人已全额偿还欠款。根据还款凭证，被告人在投案当日即偿还全部透支本金29942.52元，未给银行造成实际损失。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于退赃退赔的，可以减少基准刑的30%以下。\n\n第四，透支款项用途具有合理性。根据被告人供述，透支款项主要用于医疗费用和基本生活开支，其中6000元为医保报销后的自付医疗费用，5000元取现用于支付房租和紧急医疗费用，均属必要支出，反映出被告人不具有挥霍性消费的主观恶意。\n\n综上，辩护人建议法庭充分考虑被告人的自首情节、认罪态度、全额退赔以及透支款项的合理用途，依法从轻处罚。鉴于被告人系初犯、偶犯，且已深刻认识错误，建议适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的透支款项用途合理性，公诉人需要指出：根据《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条第二款，持卡人因重大疾病等特殊情况透支用于基本生活开支的，应当结合持卡人信用记录、还款能力和意愿等事实综合判断。本案中，被告人虽称透支用于医疗和生活开支，但未能提供完整的医疗证明，且长达九个月未与银行沟通协商，反映出还款意愿不足。此外，根据银行催收记录，被告人在多次催收后仍不履行还款义务，其行为已符合\"恶意透支\"的构成要件。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的还款意愿问题，辩护人需要补充说明：被告人在经济状况稍有改善后立即主动投案并全额还款，这一行为本身就体现了其还款意愿。根据《最高人民法院关于审理拒不执行判决、裁定刑事案件适用法律若干问题的解释》第二条，被告人在案发前主动履行义务的，可以酌情从宽处理。本案中，被告人在未被采取强制措施前即主动投案还款，应当予以从宽考量。至于医疗证明问题，虽然部分票据不完整，但被告人的慢性胃炎和腰椎间盘突出病症属实，其医疗支出具有合理性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的还款意愿问题，公诉人需要强调：根据《刑法》第一百九十六条，信用卡诈骗罪的构成要件中，经银行两次催收后超过三个月不还款即构成\"恶意透支\"。被告人在长达九个月的催收期间，既未主动与银行沟通，也未采取任何还款措施，直至投案当日才偿还欠款。这种被动还款行为与主动履行还款义务存在本质区别。虽然被告人最终还款，但不能改变其先前行为已符合犯罪构成要件的事实。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的被动还款问题，辩护人需要指出：根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条，犯罪后自动投案并如实供述的，应当认定为自首。被告人虽未在催收期间及时还款，但在未被采取强制措施前主动投案并全额还款，这一行为符合自首的法定要件。根据《刑法》第六十七条，对于自首的犯罪分子，可以从轻或者减轻处罚。本案中，被告人的自首情节应当得到充分考量。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我深刻认识到自己的错误，对拖欠信用卡欠款的行为表示真诚的悔过。我因经济困难未能及时还款，但已经主动投案并全额偿还了欠款。我保证今后一定遵纪守法，恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "惠安县人民法院\n刑事判决书\n（2016）惠刑初字第XX号\n\n公诉机关惠安县人民检察院。\n\n被告人曾某，男，XXX年X月X日出生，汉族，户籍XXXXX，文化程度XXX。因涉嫌信用卡诈骗罪，于2016年6月30日主动投案，同日被取保候审。\n\n辩护人XXX（姓名、性别、工作单位和职务）。\n\n惠安县人民检察院于2016年11月17日以被告人曾某犯信用卡诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。惠安县人民检察院检察员XXX出庭支持公诉，被告人曾某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n惠安县人民检察院指控：2012年11月5日，被告人曾某向中国工商银行惠安支行申领牡丹信用卡一张。后持卡透支消费，自2015年9月28日还款人民币3100元后未再还款，拖欠透支本金合计人民币29942.52元。经中国工商银行惠安支行多次催收（包括2015年10月25日起电话、短信催收；2016年1月26日、2月23日信函催收；2016年1月25日上门催收），超过三个月仍不归还。2016年6月30日，被告人曾某主动投案并还清全部欠款。其行为触犯《中华人民共和国刑法》第一百九十六条第一款第（四）项、第二款，应当以信用卡诈骗罪追究其刑事责任。被告人曾某主动投案并如实供述，系自首，依法可从轻处罚；已归还全部透支本金，可酌情从轻处罚。建议判处被告人曾某拘役XX，缓刑XX，并处罚金人民币XX元。\n\n被告人曾某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。\n\n经审理查明，2012年11月5日，被告人曾某向中国工商银行惠安支行申领牡丹信用卡一张。后持卡透支消费，自2015年9月28日还款人民币3100元后未再还款，拖欠透支本金合计人民币29942.52元。经中国工商银行惠安支行多次催收（包括2015年10月25日起电话、短信催收；2016年1月26日、2月23日信函催收；2016年1月25日上门催收），超过三个月仍不归还。2016年6月30日，被告人曾某主动投案并还清全部欠款。\n\n上述事实，有被告人曾某的供述，证人郑某的证言，信用卡申请表、银行交易记录、催收记录、还款凭证、投案经过等书证证实，证据确实、充分，足以认定。\n\n本院认为，被告人曾某以非法占有为目的，超过规定期限透支信用卡，经发卡银行多次催收后超过三个月仍不归还，透支本金人民币29942.52元，数额较大，其行为已构成信用卡诈骗罪。公诉机关指控的罪名成立。被告人曾某主动投案并如实供述，系自首，依法可从轻处罚；已归还全部透支本金，可酌情从轻处罚。辩护人关于被告人具有自首情节、认罪态度良好、已全额退赔等辩护意见，本院予以采纳。综合考虑被告人的犯罪事实、性质、情节及社会危害程度，依照《中华人民共和国刑法》第一百九十六条第一款第（四）项、第二款、第六十七条第一款、第七十二条第一款、第三款、第七十三条第一款、第三款、第五十二条、第五十三条之规定，判决如下：\n\n一、被告人曾某犯信用卡诈骗罪，判处拘役五个月，缓刑六个月，并处罚金人民币二万元；\n\n二、被告人曾某退赔的透支本金人民币29942.52元已全部偿还，不再另行追缴。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向泉州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n2016年XX月XX日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。\n\n举证质证阶段总结：\n\n1. 公诉人出示了24项证据，包括：\n- 被告人在侦查阶段的供述，证实其信用卡透支及还款情况\n- 银行催收记录（电话、短信、信函、上门催收）\n- 信用卡申请及使用相关文件\n- 银行交易记录及对账单\n- 还款凭证\n- 投案经过证明\n- 户籍证明等\n\n2. 辩护人出示了1项证据：\n- 被告人的投案情况说明\n\n3. 被告人对所有出示的证据均表示无异议，辩护人对公诉人出示的证据无异议，公诉人对辩护人出示的证据无异议。\n\n4. 被告人表示不申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查。\n\n（注：所有证据均围绕被告人信用卡透支、银行催收、还款及投案等关键事实展开，控辩双方对证据均无异议）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。\n\n举证质证阶段总结：\n\n1. 公诉人出示了24项证据，包括：\n- 被告人在侦查阶段的供述，证实其信用卡透支及还款情况\n- 银行催收记录（电话、短信、信函、上门催收）\n- 信用卡申请及使用相关文件\n- 银行交易记录及对账单\n- 还款凭证\n- 投案经过证明\n- 户籍证明等\n\n2. 辩护人出示了1项证据：\n- 被告人的投案情况说明\n\n3. 被告人对所有出示的证据均表示无异议，辩护人对公诉人出示的证据无异议，公诉人对辩护人出示的证据无异议。\n\n4. 被告人表示不申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查。\n\n（注：所有证据均围绕被告人信用卡透支、银行催收、还款及投案等关键事实展开，控辩双方对证据均无异议）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。\n\n举证质证阶段总结：\n\n1. 公诉人出示了24项证据，包括：\n- 被告人在侦查阶段的供述，证实其信用卡透支及还款情况\n- 银行催收记录（电话、短信、信函、上门催收）\n- 信用卡申请及使用相关文件\n- 银行交易记录及对账单\n- 还款凭证\n- 投案经过证明\n- 户籍证明等\n\n2. 辩护人出示了1项证据：\n- 被告人的投案情况说明\n\n3. 被告人对所有出示的证据均表示无异议，辩护人对公诉人出示的证据无异议，公诉人对辩护人出示的证据无异议。\n\n4. 被告人表示不申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查。\n\n（注：所有证据均围绕被告人信用卡透支、银行催收、还款及投案等关键事实展开，控辩双方对证据均无异议）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。\n\n举证质证阶段总结：\n\n1. 公诉人出示了24项证据，包括：\n- 被告人在侦查阶段的供述，证实其信用卡透支及还款情况\n- 银行催收记录（电话、短信、信函、上门催收）\n- 信用卡申请及使用相关文件\n- 银行交易记录及对账单\n- 还款凭证\n- 投案经过证明\n- 户籍证明等\n\n2. 辩护人出示了1项证据：\n- 被告人的投案情况说明\n\n3. 被告人对所有出示的证据均表示无异议，辩护人对公诉人出示的证据无异议，公诉人对辩护人出示的证据无异议。\n\n4. 被告人表示不申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查。\n\n（注：所有证据均围绕被告人信用卡透支、银行催收、还款及投案等关键事实展开，控辩双方对证据均无异议）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 指控被告人构成信用卡诈骗罪，符合刑法第196条规定的\"恶意透支\"要件\n- 指出被告人虽辩称透支用于医疗和生活开支，但不影响非法占有目的的认定\n- 认可被告人具有自首和全额退赔两个从轻情节\n- 建议判处拘役并适用缓刑，同时处以罚金\n\n2. 辩护人发表辩论意见：\n- 强调被告人具有自首法定从轻情节\n- 指出被告人认罪态度良好且当庭悔罪\n- 说明被告人已全额偿还欠款，未造成银行实际损失\n- 主张透支款项主要用于医疗和基本生活开支，具有合理性\n- 建议适用缓刑\n\n3. 控辩双方争议焦点：\n- 关于透支款项用途的合理性（公诉人认为医疗证明不完整，辩护人强调医疗支出属实）\n- 关于还款意愿的认定（公诉人认为长期不还款反映主观恶性，辩护人强调主动投案还款体现悔意）\n- 关于\"恶意透支\"要件的适用（公诉人坚持符合法定要件，辩护人主张应从宽考量）\n\n4. 主要量刑情节：\n- 从重因素：经多次催收超过3个月不还款\n- 从轻因素：自首、全额退赔、认罪认罚、初犯、透支款项用于必要支出",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人询问被告人信用卡使用情况，被告人承认清楚还款义务但因经济困难未能按时还款；\n2. 被告人确认收到银行多次催收通知，但因经济困难及心理因素未及时还款或协商；\n3. 被告人陈述透支款项用途：\n   - 医疗费用约1万元（含6000元自付部分），用于治疗慢性胃炎和腰椎间盘突出，有部分医疗记录和发票；\n   - 其余19942.52元用于日常生活基本开支，含5000元取现用于支付房租和紧急医疗费用；\n4. 被告人确认无奢侈品消费或非必要支出；\n5. 辩护人补充询问显示被告人曾尝试找工作及寻求亲友帮助未果，但未主动向银行说明困难情况。\n\n举证质证阶段总结：\n\n1. 公诉人出示了24项证据，包括：\n- 被告人在侦查阶段的供述，证实其信用卡透支及还款情况\n- 银行催收记录（电话、短信、信函、上门催收）\n- 信用卡申请及使用相关文件\n- 银行交易记录及对账单\n- 还款凭证\n- 投案经过证明\n- 户籍证明等\n\n2. 辩护人出示了1项证据：\n- 被告人的投案情况说明\n\n3. 被告人对所有出示的证据均表示无异议，辩护人对公诉人出示的证据无异议，公诉人对辩护人出示的证据无异议。\n\n4. 被告人表示不申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查。\n\n（注：所有证据均围绕被告人信用卡透支、银行催收、还款及投案等关键事实展开，控辩双方对证据均无异议）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 指控被告人构成信用卡诈骗罪，符合刑法第196条规定的\"恶意透支\"要件\n- 指出被告人虽辩称透支用于医疗和生活开支，但不影响非法占有目的的认定\n- 认可被告人具有自首和全额退赔两个从轻情节\n- 建议判处拘役并适用缓刑，同时处以罚金\n\n2. 辩护人发表辩论意见：\n- 强调被告人具有自首法定从轻情节\n- 指出被告人认罪态度良好且当庭悔罪\n- 说明被告人已全额偿还欠款，未造成银行实际损失\n- 主张透支款项主要用于医疗和基本生活开支，具有合理性\n- 建议适用缓刑\n\n3. 控辩双方争议焦点：\n- 关于透支款项用途的合理性（公诉人认为医疗证明不完整，辩护人强调医疗支出属实）\n- 关于还款意愿的认定（公诉人认为长期不还款反映主观恶性，辩护人强调主动投案还款体现悔意）\n- 关于\"恶意透支\"要件的适用（公诉人坚持符合法定要件，辩护人主张应从宽考量）\n\n4. 主要量刑情节：\n- 从重因素：经多次催收超过3个月不还款\n- 从轻因素：自首、全额退赔、认罪认罚、初犯、透支款项用于必要支出",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 5.0,
+    "fine": 20000.0,
+    "reprieve": 6.0
+  }
+]

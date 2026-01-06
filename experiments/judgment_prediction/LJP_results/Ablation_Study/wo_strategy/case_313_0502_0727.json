@@ -1,0 +1,1533 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人邢某甲，男，XXX年X月X日出生，户籍XXXXX，汉族，XXX文化程度，任随县骏源石材有限公司法定代表人。因涉嫌犯非法占用农用地罪，于2017年12月19日到随县森林公安局投案自首。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖北省随县人民检察院  \n起 诉 书  \n\n鄂随县检刑诉〔2018〕232号  \n\n被告人邢某甲，男，XXX年X月X日出生，户籍XXXXX，汉族，XXX文化程度，任随县骏源石材有限公司法定代表人。因涉嫌犯非法占用农用地罪，于2017年12月19日到随县森林公安局投案自首。  \n\n本案由随县森林公安局侦查终结，以被告人邢某甲及被告单位随县骏源石材有限公司涉嫌非法占用农用地罪，于20xx年x月x日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人和认罪认罚可能导致的法律后果，依法讯问了被告人，听取了辩护人的意见，审查了全部案件材料。  \n\n经依法审查查明：  \n2015年2月23日，随县淮河镇王家湾村村民陈某与邢某乙签订《山场转包合同书》，将黑沟山场转包给邢某乙。2016年3月3日，双方重新签订合同明确山场界线。邢某乙承包山场后，与随县铜鑫石材有限公司合办采矿许可证，并筹备建厂。2016年5月22日，黑沟采石场施工队与铜鑫公司签订《采石场承包合同书》。次日，被告人邢某甲注册成立骏源公司并任法定代表人。2016年6月6日，骏源公司在未办理林地占用手续的情况下，与林某甲签订《石材开采承揽合同》，后林某乙受让开采权并实施开采。2016年11月10日，骏源公司与杜某签订《合伙协议书》共建加工厂，期间未办理林地占用手续，仅通过租用合同支付租金占用林地25.5亩。  \n\n2017年8月17日，随县林业调查规划设计队认定骏源公司占用林地5.9公顷。2018年调查确认总占用林地11.31公顷，其中邢某甲直接负责期间占用5.9公顷。案发后，骏源公司完成植被恢复并通过验收。  \n\n认定上述事实的证据如下：  \n1. 书证：受案登记表、到案经过、营业执照、采矿许可证、林权证、各类合同及租用协议；  \n2. 证人证言：赵某、邢某乙、陈某等18名证人的证言；  \n3. 勘验笔录：现场勘验、检查笔录及照片；  \n4. 视听资料：无人机航拍照片及卫片截图；  \n5. 鉴定意见：林业调查规划设计队出具的现场调查报告；  \n6. 书证：林地占用现状调查图、地类分布图、植被恢复验收证明；  \n7. 被告人供述：邢某甲的供述和辩解。  \n\n本院认为，被告单位随县骏源石材有限公司及被告人邢某甲违反土地管理法规，非法占用林地11.31公顷（邢某甲直接负责期间占用5.9公顷），改变土地用途，造成林地大量毁坏，其行为触犯《中华人民共和国刑法》第三百四十二条，犯罪事实清楚，证据确实、充分，应当以非法占用农用地罪追究刑事责任。被告人邢某甲主动投案自首，依法可以从轻或减轻处罚；被告单位完成植被恢复，可酌情从轻处罚。建议判处被告单位随县骏源石材有限公司罚金XX元，判处被告人邢某甲有期徒刑XX，缓刑XX，并处罚金XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n随县人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实没有异议，我认罪悔罪。在案发后，我主动投案自首，并积极配合公司完成了林地植被恢复工作，栽种了7000株松树和1000株木瓜树，通过了林业部门的验收。我愿意接受法律的处罚。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，请说明你在2016年6月6日与林某甲签订《石材开采承揽合同》时，是否知晓需要办理林地占用手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我知道需要办理林地占用手续，但因为急于开工，就先与村民签订了租用合同，想着后续再补办手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，请说明你在2016年11月10日与杜某签订《合伙协议书》时，为何仍未办理林地占用手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我错误地认为只要支付了村民租金就可以继续使用林地，对办理正式手续存在侥幸心理，导致手续一直拖延未办。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明在2017年8月17日林业部门认定占用林地5.9公顷后，为何至2018年调查时占用面积扩大至11.31公顷？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在2017年8月17日林业部门认定后，我于2017年11月23日就未再参与经营，12月19日主动投案。后续扩大的占用面积是在我离开后发生的，不在我的直接负责期间内。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你在2017年11月23日离开公司经营时，是否向公司其他管理人员交代过林地占用手续办理事宜？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实没有特别向其他管理人员交代林地手续的事，这是我的疏忽。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你在2016年5月22日黑沟采石场施工队与铜鑫公司签订《采石场承包合同书》时，是否已经知晓该地块属于林地性质？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我知道该地块属于林地性质，但认为只要取得采矿权就可以进行开采，对林地占用手续的认识不够充分。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你在2016年3月3日重新签订合同明确山场界线时，是否已经知晓该地块的林地性质？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时在重新签订合同时，我知道该地块属于林地性质，但认为只要取得村民同意并支付租金就可以进行开采活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否已经知晓公司即将占用的林地需要办理相关审批手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实知道需要办理林地审批手续，但因为急于开展业务，就先进行了开采活动，计划后续补办手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你在2017年12月19日投案自首时，是否已经知晓公司占用林地的具体面积？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2017年12月19日我投案时，已经知晓林业部门认定的5.9公顷占用面积，但对后续扩大的面积并不知情。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司后，是否曾向林业部门咨询过林地占用手续的办理流程？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有主动向林业部门咨询过林地占用手续的办理流程，这是我的疏忽。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，请说明你在2016年6月6日注册成立骏源公司时，是否已经取得了采矿许可证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时已经取得了采矿许可证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，采矿许可证上是否明确标注了需要办理林地占用手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "采矿许可证上没有明确标注需要办理林地占用手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司后，是否曾向相关部门咨询过采矿许可证与林地占用手续之间的关系？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有专门向相关部门咨询过采矿许可证与林地占用手续之间的关系。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日与林某甲签订《石材开采承揽合同》时，是否向林某甲告知过需要办理林地占用手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有向林某甲明确告知需要办理林地占用手续。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否咨询过专业法律人士关于林地占用手续的问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有咨询过专业法律人士关于林地占用手续的问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否了解林地占用手续的具体办理流程和所需时间？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我对林地占用手续的具体办理流程和所需时间了解不够充分。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否了解林地占用手续未办理可能带来的法律后果？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我对未办理林地占用手续的法律后果认识不足。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否查阅过相关法律法规关于林地占用的规定？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有专门查阅过相关法律法规关于林地占用的规定。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否收到过相关部门关于需要办理林地占用手续的书面通知？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有收到相关部门关于需要办理林地占用手续的书面通知。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否收到过林业部门关于林地保护的相关宣传材料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有收到林业部门关于林地保护的相关宣传材料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否了解采矿许可证与林地占用手续之间的区别？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我对采矿许可证与林地占用手续之间的区别认识不够清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否已经知晓该地块属于国家规定的生态公益林？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我没有明确知晓该地块属于国家规定的生态公益林。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否知晓林地占用需要经过林业主管部门审批？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我知道林地占用需要经过林业主管部门审批。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否知晓林地占用需要缴纳相关费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我知道林地占用需要缴纳相关费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否知晓林地占用需要编制使用林地可行性报告？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我对林地占用需要编制使用林地可行性报告的具体要求不够了解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "请说明你在2016年6月6日注册成立骏源公司时，是否知晓林地占用需要取得村民委员会或村民代表大会的同意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我知道林地占用需要取得村民同意，所以与村民签订了租用合同并支付了租金。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年2月23日，我与随县淮河镇王家湾村村民陈某签订《山场转包合同书》及补充协议，以80万元价格承包黑沟山场。因合同界线不明，2016年3月3日重新签订合同，明确界线后继续承包。我与铜鑫公司合办采矿许可证，并筹备修路、建厂。后邀请杨某、孙某、李某等人入股，协议由我全权负责经营管理，石材厂前期挂靠铜鑫公司。2016年5月22日，李某以黑沟采石场施工队名义与铜鑫公司签订承包合同。次日，我注册成立骏源公司并任法定代表人。6月6日，骏源公司在未办理林地占用手续的情况下，与林某甲签订开采承揽合同，后林某甲将工程转给林某乙。林某乙雇挖机在采矿范围内开采。2016年11月10日，我代表骏源公司与杜某签订合伙协议，共建星和石材加工厂，由杜某负责粉碎石料，我承诺办理占地手续。开采期间，骏源公司未办理林地占用手续，仅与村民签订租用合同支付租金，租用约25.5亩林地。2017年8月17日，随县林业调查规划设计队认定骏源公司占用林地5.9公顷。11月23日，随县公安局立案侦查，我未再参与经营。12月19日，我向随县森林公安局投案。  \n\n（2）犯案动机  \n为经营石材厂获取经济利益，在未取得林地占用手续的情况下，通过租用村民林地的方式开采石材并加工销售。  \n\n（3）案发之后的处理  \n2017年12月19日，我主动向随县森林公安局投案。骏源公司对占用林地进行了植被恢复，2018年9月13日经林业部门验收合格，栽种松树7000株、木瓜树1000株等。未提及与被害人达成赔偿或和解协议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：随县森林公安局《受案登记表》及办案民警出具的《到案经过》，证明案件受理及被告人邢某甲到案情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人赵某说：“邢某甲承包山场后未办理林地手续就开始开采，我参与了部分合作谈判。”该证言与书证《山场转包合同书》及《租用合同》中关于未办理林地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.证人证言：证人邢某乙说：“我与陈某签订山场转包合同后，将开采权交给邢某甲，但未核实林地手续是否齐全。”该证言与书证《山场转包合同书》及陈某证言中关于未办理林地占用手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人陈某说：“我将黑沟山场转包给邢某乙，约定用途为石材开采，但未要求其办理林地占用手续。”该证言与书证《林权证》《山场转包合同书》及邢某乙证言中关于未办理林地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人后某说：“骏源公司租用我家林地时仅支付租金，未出示任何合法占用文件。”该证言与书证《租用合同》及《收条》中关于未出示占用文件的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人杜某说：“我与邢某甲合伙建加工厂时，他承诺办理占地手续，但始终未提供。”该证言与书证《合伙协议书》及《租用合同》中关于未办理占地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人林某乙说：“我承包开采石材时，骏源公司未告知林地手续问题，直接让我开工。”该证言与书证《石材开采承揽合同》及赵某证言中关于未办理林地手续的内容相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：骏源公司《营业执照》、铜鑫公司《营业执照》及《采矿许可证》，证明涉案主体资质及采矿权归属",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：陈某的《林权证》及与邢某乙签订的《山场转包合同书》，证明山场权属及转包事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：骏源公司与林某甲签订的《石材开采承揽合同》，证明开采业务承包关系",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：铜鑫公司与黑沟采石场施工队签订的《采石场承包合同书》，证明采矿权分包事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：骏源公司与杜某签订的《合伙协议书》，证明加工厂合作情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：邢某甲与村民签订的《租用合同》及村民出具的收款《收条》，证明林地租用及费用支付",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.勘验笔录：随县森林公安局《现场勘验、检查笔录》及占用林地现场照片，记录毁林范围及现状，该笔录由随县森林公安局盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.视听资料：无人机航拍占用林地现场照片10张及2014-2018年卫片截图4张，显示林地破坏时间线，该资料由随县森林公安局依法采集并附有取证说明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：《随县骏源石材有限公司占用土地现状调查图》《地类分布图》等，标注占用土地类型及面积，该调查图由随县林业局盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.鉴定意见：随县林业调查规划设计队2017年8月17日《现场调查报告》，认定初期占用林地5.9公顷，该报告由随县林业调查规划设计队盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.鉴定意见：随县林业调查规划设计队2018年7月30日、9月20日两份《占用林地现场调查报告》，确认总占用林地11.31公顷，该报告由随县林业调查规划设计队盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：随县林业局淮河林业管理站出具的植被恢复验收《证明》及照片，证明复绿合格，该证明由淮河林业管理站盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：随县林业局出具的骏某未办理林地占用手续的《证明》，证实违法事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.21.书证：随县森林公安局出具的《邢某甲投案情况说明》，证明被告人邢某甲于2017年12月19日主动投案自首",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "2.书证：随县林业局淮河林业管理站出具的《植被恢复验收合格证明》及照片，证明骏源公司已按要求完成林地植被恢复工作并经林业部门验收合格，该证明由淮河林业管理站盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪问题\n被告人邢某甲作为公司法定代表人，明知需要办理林地占用手续却未办理，在2016年6月至2017年11月期间直接负责造成5.9公顷林地毁坏，其行为完全符合《刑法》第三百四十二条规定的非法占用农用地罪的构成要件。被告人在讯问中明确承认知晓林地性质及审批要求，却因侥幸心理未办理手续，主观故意明显。\n\n二、关于量刑情节\n1. 被告人具有自首情节，根据《刑法》第六十七条第一款规定，可以从轻或减轻处罚；\n2. 被告单位已完成植被恢复并通过验收，根据《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第六条规定，可酌情从轻处罚；\n3. 被告人认罪悔罪态度较好，可依法从宽处理。\n\n三、关于责任范围\n根据林业部门调查报告，被告人直接负责期间造成5.9公顷林地毁坏，2018年扩大的11.31公顷中超出部分不应归责于被告人。但被告人在离开公司时未妥善交接林地手续办理事宜，存在管理过失。\n\n四、量刑建议\n综合考虑犯罪事实、情节及社会危害程度，建议判处被告单位罚金，对被告人判处有期徒刑并适用缓刑，同时处以罚金。\n\n以上意见请法庭予以采纳。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于自首情节\n被告人邢某甲于2017年12月19日主动向随县森林公安局投案，如实供述犯罪事实，符合《刑法》第六十七条关于自首的规定，依法应当从轻或减轻处罚。\n\n二、关于认罪态度\n被告人当庭认罪悔罪，对起诉书指控的犯罪事实无异议，积极配合调查，认罪态度良好。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，应当予以从宽处理。\n\n三、关于危害后果的补救\n被告单位已按要求完成植被恢复工作，栽种松树7000株、木瓜树1000株，并通过林业部门验收。根据《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第六条规定，可酌情从轻处罚。\n\n四、关于责任范围\n林业部门调查报告显示，被告人直接负责期间占用林地面积为5.9公顷，2018年扩大的11.31公顷中超出部分不在被告人直接负责范围内，请法庭在量刑时予以区分。\n\n五、关于主观恶性\n被告人虽知晓需要办理林地手续，但对具体办理流程和法律后果认识不足，且已通过租用合同取得村民同意并支付租金，主观恶性较小。\n\n综上，恳请法庭充分考虑被告人的自首情节、认罪态度及补救措施，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于主观故意问题\n辩护人提出被告人对林地手续认识不足，但根据被告人供述，其明确知晓需要办理林地占用审批手续，却因\"急于开工\"和\"侥幸心理\"而未办理，主观故意明显。根据《刑法》第十四条，这种明知行为可能发生危害社会结果而放任的心理态度，已构成故意犯罪。\n\n二、关于责任范围问题\n虽然2018年扩大的占用面积不在被告人直接负责期间，但被告人在2017年11月离开公司时未妥善交接林地手续办理事宜，存在管理过失，对后续违法行为的发生负有一定责任。\n\n三、关于量刑建议\n公诉人已充分考虑被告人的自首、认罪悔罪及植被恢复等从轻情节，提出的量刑建议符合《刑法》第六十七条及《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第六条的规定，建议法庭予以采纳。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于主观故意问题，需要补充说明的是，被告人在取得采矿许可证时，该证照并未明确标注需要办理林地占用手续。根据《行政许可法》第三十条规定，行政机关应当公示行政许可事项、依据、条件、数量、程序等，但被告人未能从采矿许可审批中获得关于林地手续的明确提示，这在一定程度上影响了被告人对林地手续重要性的认识。\n\n关于责任范围问题，虽然被告人离开公司时未专门交代林地手续事宜，但根据公司管理常规，后续经营者应当自行了解并遵守相关法律规定。2018年扩大的占用面积是在被告人完全脱离经营后发生的，不应将这部分责任归咎于被告人。\n\n关于量刑建议，辩护人提请法庭特别注意被告人在案发后第一时间主动投案，并积极组织完成植被恢复工作，其补救措施及时有效。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对于犯罪情节较轻、有悔罪表现的初犯，应当依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于采矿许可证问题\n辩护人提出采矿许可证未标注林地手续要求，但根据《森林法》第三十七条规定，进行勘查、开采矿藏必须依法办理林地占用手续，这是法律明确规定的义务。被告人作为企业法定代表人，应当知晓并遵守相关法律规定，不能以许可证未标注为由免除其法律责任。\n\n二、关于管理责任问题\n被告人作为公司实际控制人，在明知林地手续未办理的情况下离开公司，未尽到合理交接义务，导致违法行为持续。根据《公司法》第一百四十七条，公司高管应当遵守法律、行政法规，被告人存在管理失职。\n\n三、关于量刑平衡问题\n本案已充分考虑被告人自首、认罪悔罪等从轻情节，但非法占用5.9公顷林地的客观危害不容忽视。根据《最高人民法院关于审理破坏林地资源刑事案件具体应用法律若干问题的解释》第一条，非法占用并毁坏防护林地5亩以上即构成犯罪，本案涉案面积远超立案标准。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于采矿许可证问题，需要指出的是，虽然《森林法》规定了林地占用手续，但被告人在取得采矿许可时确实未获得相关提示。根据《行政处罚法》第三十三条，初次违法且危害后果轻微并及时改正的，可以不予行政处罚。本案中被告人在案发后立即投案并完成植被恢复，符合从轻处理的条件。\n\n关于管理责任问题，被告人离开公司时虽未专门交代林地手续，但根据公司经营常规，后续经营者应当自行了解并遵守法律规定。2018年扩大的占用面积是在被告人完全脱离经营后发生的，不应将这部分责任归咎于被告人。\n\n关于量刑平衡问题，提请法庭注意，被告人直接负责的5.9公顷林地已全部完成植被恢复，实际危害后果已得到有效弥补。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于积极赔偿损失、修复环境的，可以减轻基准刑的30%以下。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的违法行为深感悔恨，认罪认罚。在经营过程中，我因法律意识淡薄和侥幸心理，未及时办理林地占用手续，造成了林地破坏。案发后我主动投案，并积极组织公司完成了5.9公顷林地的植被恢复工作，栽种了7000株松树和1000株木瓜树，通过了林业部门的验收。恳请法庭考虑我的自首情节、认罪态度和补救措施，给予从轻处罚。我保证今后一定遵纪守法，绝不再犯。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "随县人民法院\n刑事判决书\n（20xx）鄂13xx刑初xx号\n\n公诉机关随县人民检察院。\n被告人邢某甲，男，xxx年x月x日出生，汉族，xx文化程度，户籍地xxxx，任随县骏源石材有限公司法定代表人。因涉嫌犯非法占用农用地罪，于2017年12月19日到随县森林公安局投案自首，同日被取保候审。\n辩护人xxx，xx律师事务所律师。\n\n随县人民检察院以鄂随县检刑诉〔2018〕232号起诉书指控被告单位随县骏源石材有限公司及被告人邢某甲犯非法占用农用地罪，于20xx年x月x日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。随县人民检察院指派检察员xxx出庭支持公诉，被告人邢某甲及其辩护人xxx到庭参加诉讼。本案现已审理终结。\n\n随县人民检察院指控：2016年6月至2017年12月期间，被告单位随县骏源石材有限公司在未办理林地占用手续的情况下，非法占用林地11.31公顷（其中被告人邢某甲直接负责期间占用5.9公顷），造成林地大量毁坏。被告人邢某甲作为公司法定代表人，对此负有直接责任。其行为触犯《中华人民共和国刑法》第三百四十二条，构成非法占用农用地罪。被告人邢某甲具有自首情节，被告单位已完成植被恢复，建议判处被告单位罚金，判处被告人邢某甲有期徒刑并适用缓刑，并处罚金。\n\n被告人邢某甲对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人具有自首、认罪悔罪、完成植被恢复等从宽处罚情节，且2018年扩大的占用面积不应归责于被告人。\n\n经审理查明：2016年6月6日，被告人邢某甲作为随县骏源石材有限公司法定代表人，在明知需要办理林地占用手续的情况下，未依法办理相关手续即签订开采合同并实施开采活动。至2017年8月17日，经随县林业调查规划设计队认定，被告单位非法占用林地5.9公顷。2018年调查确认总占用林地11.31公顷，其中5.9公顷系被告人邢某甲直接负责期间占用。案发后，被告单位已完成植被恢复并通过验收。被告人邢某甲于2017年12月19日主动投案自首。\n\n上述事实，有经庭审质证、确认的下列证据证实：\n1.被告人在侦查阶段的供述；\n2.书证：营业执照、合同、林权证等；\n3.证人证言18份；\n4.勘验笔录及照片；\n5.视听资料；\n6.鉴定意见：林业调查报告；\n7.植被恢复验收证明；\n8.投案自首证明等。\n\n本院认为，被告单位随县骏源石材有限公司及被告人邢某甲违反土地管理法规，非法占用林地，改变土地用途，造成林地毁坏，其行为已构成非法占用农用地罪。公诉机关指控的罪名成立。被告人邢某甲作为公司直接负责的主管人员，应承担刑事责任。鉴于被告人邢某甲具有自首情节，认罪态度较好，被告单位已完成植被恢复，依法可以从轻处罚。辩护人关于从宽处罚的意见予以采纳。依照《中华人民共和国刑法》第三百四十二条、第六十七条第一款、第七十二条第一款、第七十三条第二款、第三款、第五十二条、第五十三条之规定，判决如下：\n\n一、被告单位随县骏源石材有限公司犯非法占用农用地罪，判处罚金人民币二十万元；\n二、被告人邢某甲犯非法占用农用地罪，判处有期徒刑一年六个月，缓刑二年，并处罚金人民币五万元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向随州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 xxx\n20xx年x月x日\n书记员 xxx",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n- 被告人在侦查阶段的供述，证实其明知需要办理林地占用手续但未办理的事实\n- 书证（营业执照、合同等）证明涉案主体资质及违法事实\n- 证人证言（18名证人）证实被告人未办理林地手续的情况\n- 勘验笔录和视听资料显示林地破坏情况\n- 鉴定意见（林业部门调查报告）确认占用林地面积\n- 书证证明植被恢复情况\n\n2. 辩护人出示了2项证据：\n- 被告人投案自首证明\n- 植被恢复验收合格证明\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人明确表示不申请调取新证据或重新鉴定。\n\n（注：本阶段主要确认了案件事实和证据的合法性，被告人对所有证据均无异议，且已主动投案并完成植被恢复工作，这些都将影响最终量刑）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n- 被告人在侦查阶段的供述，证实其明知需要办理林地占用手续但未办理的事实\n- 书证（营业执照、合同等）证明涉案主体资质及违法事实\n- 证人证言（18名证人）证实被告人未办理林地手续的情况\n- 勘验笔录和视听资料显示林地破坏情况\n- 鉴定意见（林业部门调查报告）确认占用林地面积\n- 书证证明植被恢复情况\n\n2. 辩护人出示了2项证据：\n- 被告人投案自首证明\n- 植被恢复验收合格证明\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人明确表示不申请调取新证据或重新鉴定。\n\n（注：本阶段主要确认了案件事实和证据的合法性，被告人对所有证据均无异议，且已主动投案并完成植被恢复工作，这些都将影响最终量刑）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n- 被告人在侦查阶段的供述，证实其明知需要办理林地占用手续但未办理的事实\n- 书证（营业执照、合同等）证明涉案主体资质及违法事实\n- 证人证言（18名证人）证实被告人未办理林地手续的情况\n- 勘验笔录和视听资料显示林地破坏情况\n- 鉴定意见（林业部门调查报告）确认占用林地面积\n- 书证证明植被恢复情况\n\n2. 辩护人出示了2项证据：\n- 被告人投案自首证明\n- 植被恢复验收合格证明\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人明确表示不申请调取新证据或重新鉴定。\n\n（注：本阶段主要确认了案件事实和证据的合法性，被告人对所有证据均无异议，且已主动投案并完成植被恢复工作，这些都将影响最终量刑）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n- 被告人在侦查阶段的供述，证实其明知需要办理林地占用手续但未办理的事实\n- 书证（营业执照、合同等）证明涉案主体资质及违法事实\n- 证人证言（18名证人）证实被告人未办理林地手续的情况\n- 勘验笔录和视听资料显示林地破坏情况\n- 鉴定意见（林业部门调查报告）确认占用林地面积\n- 书证证明植被恢复情况\n\n2. 辩护人出示了2项证据：\n- 被告人投案自首证明\n- 植被恢复验收合格证明\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人明确表示不申请调取新证据或重新鉴定。\n\n（注：本阶段主要确认了案件事实和证据的合法性，被告人对所有证据均无异议，且已主动投案并完成植被恢复工作，这些都将影响最终量刑）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：明确被告人行为符合非法占用农用地罪构成要件，主观故意明显\n- 量刑情节：指出被告人具有自首、完成植被恢复、认罪悔罪等从轻处罚情节\n- 责任范围：确认被告人直接负责期间造成5.9公顷林地毁坏\n- 提出量刑建议：建议判处被告单位罚金，对被告人适用缓刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 强调被告人自首情节应依法从轻处罚\n- 指出被告人认罪态度良好，当庭认罪悔罪\n- 说明被告单位已完成植被恢复并通过验收\n- 主张2018年扩大的占用面积不应归责于被告人\n- 认为被告人对林地手续认识不足，主观恶性较小\n\n3. 控辩双方主要争议焦点：\n- 关于主观故意：公诉人认为被告人明知故犯，辩护人主张认识不足\n- 关于责任范围：对2018年扩大占用面积的归责问题存在分歧\n- 关于量刑标准：双方就具体从宽幅度存在不同意见\n\n4. 补充辩论要点：\n- 辩护人提出采矿许可证未标注林地手续要求\n- 公诉人援引《森林法》强调法定义务\n- 双方就管理责任归属展开辩论\n- 对植被恢复效果的量刑影响进行评估\n\n（注：省略了程序性发言和重复性表述，仅保留影响定罪量刑的实质性辩论内容）",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在2016年6月6日签订开采合同时知晓需办理林地占用手续，但因急于开工未及时办理\n- 被告人在2016年11月签订合伙协议时仍因侥幸心理未办理手续\n- 被告人确认2017年8月认定的5.9公顷占用面积在其负责期间，2018年扩大的11.31公顷中超出部分不在其直接负责范围内\n- 被告人承认知晓地块林地性质但未充分重视审批手续\n\n2. 辩护人讯问：\n- 被告人确认已取得采矿许可证但未标注需办理林地手续\n- 被告人承认未咨询过法律人士或相关部门关于林地手续的具体要求\n- 被告人表示对林地占用手续的法律后果认识不足\n\n3. 审判长讯问：\n- 被告人确认知晓需经林业部门审批和缴纳费用\n- 被告人对编制可行性报告等具体要求认识不足\n- 被告人通过签订租用合同取得村民同意\n\n4. 被告人态度：\n- 对起诉书指控的犯罪事实无异议\n- 认罪悔罪\n- 主动投案自首\n- 已配合完成植被恢复工作\n\n举证质证阶段总结：\n\n1. 公诉人出示了21项证据，包括：\n- 被告人在侦查阶段的供述，证实其明知需要办理林地占用手续但未办理的事实\n- 书证（营业执照、合同等）证明涉案主体资质及违法事实\n- 证人证言（18名证人）证实被告人未办理林地手续的情况\n- 勘验笔录和视听资料显示林地破坏情况\n- 鉴定意见（林业部门调查报告）确认占用林地面积\n- 书证证明植被恢复情况\n\n2. 辩护人出示了2项证据：\n- 被告人投案自首证明\n- 植被恢复验收合格证明\n\n3. 被告人和辩护人对公诉人出示的全部证据均无异议，公诉人对辩护人出示的证据也无异议。\n\n4. 被告人明确表示不申请调取新证据或重新鉴定。\n\n（注：本阶段主要确认了案件事实和证据的合法性，被告人对所有证据均无异议，且已主动投案并完成植被恢复工作，这些都将影响最终量刑）\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：明确被告人行为符合非法占用农用地罪构成要件，主观故意明显\n- 量刑情节：指出被告人具有自首、完成植被恢复、认罪悔罪等从轻处罚情节\n- 责任范围：确认被告人直接负责期间造成5.9公顷林地毁坏\n- 提出量刑建议：建议判处被告单位罚金，对被告人适用缓刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 强调被告人自首情节应依法从轻处罚\n- 指出被告人认罪态度良好，当庭认罪悔罪\n- 说明被告单位已完成植被恢复并通过验收\n- 主张2018年扩大的占用面积不应归责于被告人\n- 认为被告人对林地手续认识不足，主观恶性较小\n\n3. 控辩双方主要争议焦点：\n- 关于主观故意：公诉人认为被告人明知故犯，辩护人主张认识不足\n- 关于责任范围：对2018年扩大占用面积的归责问题存在分歧\n- 关于量刑标准：双方就具体从宽幅度存在不同意见\n\n4. 补充辩论要点：\n- 辩护人提出采矿许可证未标注林地手续要求\n- 公诉人援引《森林法》强调法定义务\n- 双方就管理责任归属展开辩论\n- 对植被恢复效果的量刑影响进行评估\n\n（注：省略了程序性发言和重复性表述，仅保留影响定罪量刑的实质性辩论内容）",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 18.0,
+    "fine": 50000.0,
+    "reprieve": 24.0
+  }
+]

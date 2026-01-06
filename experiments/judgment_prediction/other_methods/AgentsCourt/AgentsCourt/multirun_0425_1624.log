@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "/home/bjtuzky/SimCourt/AgentCourt/baselines/AgentsCourt/AgentsCourt/judge_case_refine.py", line 3, in <module>
+    from openai import OpenAI
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/__init__.py", line 11, in <module>
+    from ._client import Client, OpenAI, Stream, Timeout, Transport, AsyncClient, AsyncOpenAI, AsyncStream, RequestOptions
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/_client.py", line 28, in <module>
+    from .resources import files, images, models, batches, embeddings, completions, moderations
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/resources/__init__.py", line 83, in <module>
+    from .fine_tuning import (
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/resources/fine_tuning/__init__.py", line 3, in <module>
+    from .jobs import (
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/resources/fine_tuning/jobs/__init__.py", line 3, in <module>
+    from .jobs import (
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/resources/fine_tuning/jobs/jobs.py", line 17, in <module>
+    from .checkpoints import (
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/resources/fine_tuning/jobs/checkpoints.py", line 18, in <module>
+    from ....types.fine_tuning.jobs import checkpoint_list_params
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/types/fine_tuning/__init__.py", line 5, in <module>
+    from .fine_tuning_job import FineTuningJob as FineTuningJob
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/openai/types/fine_tuning/fine_tuning_job.py", line 126, in <module>
+    class FineTuningJob(BaseModel):
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/pydantic/_internal/_model_construction.py", line 221, in __new__
+    set_model_fields(cls, bases, config_wrapper, ns_resolver)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/pydantic/_internal/_model_construction.py", line 593, in set_model_fields
+    fields, class_vars = collect_model_fields(cls, bases, config_wrapper, ns_resolver, typevars_map=typevars_map)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/pydantic/_internal/_fields.py", line 158, in collect_model_fields
+    if _typing_extra.is_classvar_annotation(ann_type):
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/pydantic/_internal/_typing_extra.py", line 264, in is_classvar_annotation
+    if str_ann is not None and _classvar_re.match(str_ann):
+KeyboardInterrupt

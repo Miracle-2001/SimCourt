@@ -1,0 +1,1473 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人黄某，男，XXX，户籍汕尾市城区东涌镇东涌村东中村三巷3号。曾因犯贩卖毒品罪，于2009年10月23日被汕尾市城区人民法院判处有期徒刑一年，并处罚金人民币一千元，2010年7月23日刑满释放。2009年7月22日起至2015年11月27日止，曾因吸食毒品被公安机关多次强制隔离戒毒。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "曾因犯贩卖毒品罪被判处有期徒刑一年，并处罚金人民币一千元；多次因吸食毒品被强制隔离戒毒。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "汕尾市城区人民检察院  \n起 诉 书  \n\n汕区检公刑诉〔2016〕99号  \n\n被告人黄某，男，户籍汕尾市城区东涌镇东涌村东中村三巷3号。曾因犯贩卖毒品罪，于2009年10月23日被汕尾市城区人民法院判处有期徒刑一年，并处罚金人民币一千元，2010年7月23日刑满释放。2009年7月22日起至2015年11月27日止，曾因吸食毒品被公安机关多次强制隔离戒毒。  \n\n本案由汕尾市公安局红海湾分局侦查终结，以被告人黄某涉嫌贩卖毒品罪，于2016年5月11日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2015年11月19日、20日，被告人黄某先后在其位于汕尾市城区东涌镇东涌村东中村3号的住处，分别贩卖毒品海洛因给杨某共2次2小包，共得款人民币400元；贩卖毒品海洛因给冼某共2次2小包，共得款人民币100元。同月26日，民警在汕尾市城区东涌镇东涌加油站附近抓获被告人黄某，并在其住处缴获疑似毒品1小包。经鉴定，所缴获的疑似毒品检出海洛因成分，净重共计1.5克。  \n\n认定上述事实的证据如下：  \n1. 物证：用透明封口袋装着的疑似毒品碎小块状物1小包，净重1.5克，经鉴定含有海洛因成分；  \n2. 书证：《抓获经过》《搜查笔录》《现场勘验检查笔录》《现场示意图》《作案现场、缴获毒品照片》《扣押物品清单》《现场检测报告书》《吸毒人员动态管控详细信息》《刑事判决书》《刑满释放证明书》；  \n3. 鉴定意见：《刑事化验检验报告》《鉴定意见通知书》；  \n4. 证人证言：证人冼某、杨某的证言及辨认笔录；  \n5. 被告人供述：被告人黄某的供述及辨认笔录。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人黄某违反国家对毒品的管理制度，非法多次贩卖毒品海洛因给他人，其行为已触犯《中华人民共和国刑法》第三百四十七条第四款、第三百五十六条之规定，犯罪事实清楚，证据确实、充分，应当以贩卖毒品罪追究其刑事责任。被告人黄某曾因犯贩卖毒品罪被判过刑，现又再犯贩卖毒品罪，系毒品再犯，依法应当从重处罚。根据被告人犯罪的事实、性质、情节和对社会的危害程度，建议判处被告人黄某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n汕尾市城区人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人黄某，2015年11月19日、20日你贩卖给杨某和冼某的毒品海洛因是从何处获得的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是从一个叫阿强的人那里买的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强是如何联系购买毒品的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "通过电话联系的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你每次贩卖给杨某和冼某的毒品海洛因数量是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "每次卖给杨某和冼某的都是1小包，具体重量我不清楚。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你贩卖毒品给杨某和冼某时，是否知道这是违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之间的毒品交易金额是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "200元一小包。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之间的毒品交易是否仅限于2015年11月19日、20日这两次？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是，之前也有过几次交易。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之前的几次毒品交易具体是在什么时间？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2015年10月份开始有过几次交易，具体日期记不清了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之间的毒品交易是否都是通过现金支付？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是通过现金支付的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之间的毒品交易地点通常在哪里？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在阿强家里。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之间的毒品交易每次都是你亲自去取货吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，每次都是我自己去阿强家取货。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与阿强之间的毒品交易每次都是现金交易，没有其他支付方式吗？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都是现金交易。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与杨某和冼某之间的毒品交易是否都是他们主动联系你购买的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都是他们主动联系我购买的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与杨某和冼某之间的毒品交易价格是否由你主动定价？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是，是他们提出要买多少，我就按市场价卖给他们。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与杨某和冼某之间的毒品交易是否都是他们主动联系你购买的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都是他们主动联系我购买的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经重复询问了相同的问题。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你与阿强之间的毒品交易每次都是现金交易，这些现金的来源是什么？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "卖毒品赚的钱和平时打工攒的钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你贩卖给杨某和冼某的毒品海洛因是否都是同一批次的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都是从阿强那里买的同一批货。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你贩卖给杨某和冼某的毒品海洛因是否都来自阿强？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都是从阿强那里买的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你贩卖给杨某和冼某的毒品海洛因是否都存放在你住处？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，都存放在我住处。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你贩卖给杨某和冼某的毒品海洛因是否都经过称重？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有称重，都是按小包卖的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2015年11月19日13时左右，我在汕尾市城区东涌镇东涌村东中村三巷3号的家中，向海丰县的吸毒人员杨某贩卖1小包毒品甲基苯丙胺，得款人民币200元。同日，汕尾市区的吸毒人员冼某前来购买1小包毒品甲基苯丙胺，得款人民币50元。11月20日13时左右，杨某再次前来购买1小包毒品甲基苯丙胺，得款人民币200元；约半小时后，冼某也购买1小包毒品甲基苯丙胺，得款人民币50元。11月26日，我在东涌镇东涌加油站附近被民警抓获，随后警方在我住处缴获1小包毒品，净重0.3克。  \n\n（2）犯案动机  \n我因长期吸毒成瘾，为获取毒资而向他人贩卖毒品。  \n\n（3）案发之后的处理  \n我在案发后没有自首，目前也还没有赔偿，未与购毒者达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述中提到的毒品为甲基苯丙胺，与起诉书指控的海洛因不符，该证据与本案指控的毒品类型存在矛盾，不能直接证明被告人贩卖海洛因的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在后续供述中已明确承认贩卖的是海洛因，侦查阶段供述中的甲基苯丙胺系笔误，有被告人签名确认的更正说明为证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人已对证据矛盾作出合理解释，并提供了更正说明作为佐证。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.物证：用透明封口袋装着的疑似毒品碎小块状物1小包，净重1.5克，经汕尾市公安司法鉴定中心鉴定确认含有海洛因成分",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该物证仅能证明被告人家中存有1.5克海洛因，与起诉书指控的贩卖行为无直接关联，无法证明被告人实施了具体的贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该物证与被告人的供述、证人证言相互印证，能够形成完整的证据链证明被告人的贩卖行为。根据被告人的供述，其住处缴获的毒品正是其用于贩卖的同一批次毒品。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就物证关联性问题充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：汕尾市公安局红海湾分局白沙派出所出具的《抓获经过》，证实该所民警于2015年11月26日抓获涉毒人员杨某",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该《抓获经过》仅证实抓获杨某的事实，与本案被告人黄某的贩卖毒品行为无直接关联，无法证明被告人实施了具体的贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该《抓获经过》与证人杨某的证言相互印证，能够证明被告人向杨某贩卖毒品的事实，是本案证据链的重要组成部分。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：汕尾市公安局红海湾分局白沙派出所出具的《搜查笔录》，证实该所民警于2015年11月27日对黄某的住处进行搜查，搜获疑似毒品，搜查过程依法获得公安机关负责人批准",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该《搜查笔录》仅能证明在被告人家中搜出疑似毒品的事实，与起诉书指控的具体贩卖行为无直接关联，无法证明被告人实施了2015年11月19日、20日的四次贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该《搜查笔录》与缴获的毒品物证、被告人的供述相互印证，能够证明被告人的毒品来源及持有情况，是本案证据链的重要组成部分。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：汕尾市公安局红海湾分局白沙派出所出具的《现场勘验检查笔录》（汕公（红）勘［201500］037号），证实对黄某住处的勘验情况，笔录由具备资质的现场勘验人员制作",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该《现场勘验检查笔录》仅能证明对被告人住处的勘验情况，与起诉书指控的具体贩卖行为无直接关联，无法证明被告人实施了2015年11月19日、20日的四次贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该《现场勘验检查笔录》与缴获的毒品物证、被告人的供述相互印证，能够证明被告人的毒品存放地点及持有情况，是本案证据链的重要组成部分。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：汕尾市公安局红海湾分局白沙派出所出具的《现场示意图》，证实黄某住处的现场布局，示意图由具备资质的现场勘验人员绘制",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：汕尾市公安局红海湾分局白沙派出所出具的《作案现场、缴获毒品照片》，证实现场及缴获毒品的情况，照片由具备资质的现场勘验人员拍摄",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该照片仅能证明现场及缴获毒品的情况，与起诉书指控的具体贩卖行为无直接关联，无法证明被告人实施了2015年11月19日、20日的四次贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该照片与缴获的毒品物证、被告人的供述相互印证，能够证明被告人的毒品存放地点及持有情况，是本案证据链的重要组成部分。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：汕尾市公安局红海湾分局白沙派出所出具的《扣押物品清单》，证实扣押疑似毒品的情况，扣押过程依法获得公安机关负责人批准",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该《扣押物品清单》仅能证明扣押疑似毒品的情况，与起诉书指控的具体贩卖行为无直接关联，无法证明被告人实施了2015年11月19日、20日的四次贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该《扣押物品清单》与缴获的毒品物证、被告人的供述相互印证，能够证明被告人的毒品持有情况，是本案证据链的重要组成部分。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：汕尾市公安局红海湾分局出具的《现场检测报告书》，证实黄某、冼某、杨某经现场尿液检测，均呈阳性，检测由具备资质的检测人员操作",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该《现场检测报告书》仅能证明被告人及证人曾吸食毒品的事实，与起诉书指控的贩卖毒品行为无直接关联，无法证明被告人实施了具体的贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该《现场检测报告书》与证人证言相互印证，能够证明被告人与吸毒人员之间的毒品交易关系，是本案证据链的重要组成部分。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：汕尾市公安局城区分局东涌派出所出具的《吸毒人员动态管控详细信息》，证实黄某于2009年7月22日起至2015年11月27日止，曾因吸食毒品被公安机关多次强制隔离戒毒",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该《吸毒人员动态管控详细信息》仅能证明被告人曾有吸毒史和被强制隔离戒毒的情况，与本案指控的贩卖毒品行为无直接关联，无法证明被告人实施了具体的贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该《吸毒人员动态管控详细信息》能够证明被告人长期吸毒成瘾的事实，与其供述中为获取毒资而贩卖毒品的动机相互印证，是证明被告人犯罪动机的重要证据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证据关联性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：广东省汕尾市城区人民法院刑事判决书（（2009）汕市区法刑初字第167号），证实被告人黄某曾犯贩卖毒品罪，于2009年10月23日被判处有期徒刑一年，并处罚金人民币一千元",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该刑事判决书仅能证明被告人曾有前科，与本案指控的具体贩卖毒品行为无直接关联，不能作为证明被告人实施本案犯罪行为的证据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该刑事判决书能够证明被告人系毒品再犯，根据《中华人民共和国刑法》第三百五十六条规定，应当从重处罚，是本案量刑情节的重要证据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就前科证据的证明目的充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：汕尾市看守所刑满释放证明书》，证实被告人黄某于2010年7月23日刑满释放",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.鉴定意见：汕尾市公安司法鉴定中心出具的《刑事化验检验报告》（（汕）公（司）鉴（化）字【2015】583号），证实所缴获的疑似毒品碎小块状物1小包，检出海洛因成分，净重1.50克，报告由具备资质的鉴定机构出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该鉴定意见仅能证明缴获的1.5克物质含有海洛因成分，与起诉书指控的四次具体贩卖行为无直接关联，无法证明被告人实施了2015年11月19日、20日的四次贩卖行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该鉴定意见与被告人的供述、证人证言相互印证，能够证明被告人贩卖的毒品为海洛因，是本案毒品性质认定的关键证据。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就鉴定意见的证明目的充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.鉴定意见：汕尾市公安局红海湾分局鉴定意见通知书》（汕红公字【2015】00087号），证实鉴定意见已于2015年12月14日告知被告人黄某，通知书依法由公安机关负责人签发",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人冼某说：“我是吸毒人员，所吸食的毒品海洛因是向汕尾市城区东涌镇‘王町’黄某购买的，我从2015年3、4月份开始每天到黄某的家里向黄某购买毒品3次，每次购买人民币50元1小包毒品海洛因，最后1次购买是2015年11月21日10时许。”，证言与缴获的毒品及检测结果相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人冼某的证言中提到的购买频率和金额与起诉书指控的4次贩卖行为存在明显矛盾，且其证言中提到的\"王町\"与被告人黄某的姓名不符，该证言的真实性和关联性存疑。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人冼某的证言中提到的\"王町\"系当地对被告人的俗称，经辨认笔录确认无误。关于购买频率的差异，被告人供述与证人证言在关键交易时间、地点和金额上能够相互印证，足以认定起诉书指控的四次贩卖事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性和真实性充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人杨某说：“我是吸毒人员，于2015年11月19日13时许和同月20日下午，在汕尾市区城区东涌镇黄某的家里，向黄某购买了毒品海洛因共2次2小包，每次支付毒资人民币200元，共支付毒资人民币400元。”，证言与缴获的毒品及检测结果相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证人杨某的证言仅能证明其与被告人之间存在毒品交易，但无法证明被告人主动贩卖毒品的事实，且交易次数与起诉书指控的4次贩卖行为不完全吻合。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人杨某的证言与被告人供述在交易时间、地点和金额上能够相互印证，且起诉书指控的四次贩卖行为中包括杨某的两次购买，证据之间能够形成完整的证据链。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就证人证言的关联性和证明力充分发表意见，无需进一步辩论。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "本案证据确实充分，足以认定被告人黄某构成贩卖毒品罪。根据《中华人民共和国刑法》第三百四十七条第四款，贩卖少量毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。被告人多次贩卖海洛因给吸毒人员，社会危害性较大。\n\n关于辩护人提出的证据关联性问题，公诉人认为：被告人的供述、证人证言与物证、鉴定意见已形成完整证据链。被告人供述中虽出现\"甲基苯丙胺\"的笔误，但经更正说明已确认系海洛因，不影响案件定性。缴获的1.5克海洛因与被告人供述的毒品来源、存放地点完全吻合。\n\n特别需要指出的是，被告人系毒品再犯，根据《刑法》第三百五十六条，曾因走私、贩卖、运输、制造、非法持有毒品罪被判过刑，又犯本节规定之罪的，从重处罚。被告人2009年因贩卖毒品罪被判刑，现又犯同罪，依法应当从重处罚。\n\n综上，被告人黄某多次贩卖毒品海洛因，犯罪事实清楚，证据确实充分，应当以贩卖毒品罪追究其刑事责任，并依法从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于犯罪情节。被告人黄某的贩卖行为均系吸毒人员主动联系购买，交易价格按市场价确定，非被告人主动定价，主观恶性相对较小。根据《刑法》第六十一条规定，量刑应当与犯罪分子所犯罪行相适应。\n\n第二，关于认罪态度。被告人在侦查阶段及庭审中均如实供述犯罪事实，认罪态度良好。根据《刑法》第六十七条第三款，可以从轻处罚。\n\n第三，关于毒品数量。起诉书指控的贩卖数量仅为4小包，且无证据证明具体重量，缴获的1.5克海洛因与具体贩卖行为无直接关联。根据《全国法院毒品犯罪审判工作座谈会纪要》，对毒品数量应严格认定。\n\n第四，关于量刑建议。被告人虽系毒品再犯，但本次犯罪数量较少，社会危害性相对有限。建议法庭在三年以下有期徒刑幅度内从轻量刑，并考虑适用缓刑。\n\n综上，恳请法庭综合考虑被告人的犯罪情节、认罪态度等因素，依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻情节，公诉人认为：第一，被告人虽系被动交易，但多次贩卖毒品给不同对象，主观恶性不容忽视。第二，被告人虽认罪，但根据《刑法》第六十七条第三款，坦白从宽仅是可以从轻而非应当从轻。第三，缴获的1.5克海洛因与被告人的供述、证人证言相互印证，能够证明其贩卖毒品的整体情况。第四，被告人系毒品再犯，根据《刑法》第三百五十六条必须从重处罚，且其前科与本次犯罪性质相同，社会危害性较大。综上，建议法庭在量刑时充分考虑被告人的再犯情节和多次贩卖的严重性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的从重处罚意见，辩护人补充以下观点：\n\n第一，根据《刑法》第六十一条的量刑原则，应当综合考虑犯罪事实、性质、情节和社会危害程度。本案中被告人贩卖毒品数量较少，且均为小额交易，社会危害性相对有限。\n\n第二，被告人虽系毒品再犯，但根据《最高人民法院关于常见犯罪的量刑指导意见》，对于毒品再犯应当区分情况处理。本案被告人前次犯罪距今已超过5年，且本次犯罪情节较轻，建议从重幅度不宜过大。\n\n第三，关于缴获的1.5克海洛因，辩护人再次强调该物证与具体贩卖行为无直接关联，不能作为加重处罚的依据。根据《全国法院毒品犯罪审判工作座谈会纪要》，对毒品数量的认定应当严格把握。\n\n恳请法庭在量刑时充分考虑被告人犯罪情节较轻、认罪态度良好等从轻情节，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻情节，需要指出：第一，被告人虽系被动交易，但根据其供述，与阿强的毒品交易始于2015年10月，持续时间较长，且涉及多名吸毒人员，具有明显的经营性质。第二，根据《刑法》第三百四十七条第四款，多次贩卖毒品本身就构成从重处罚情节。第三，被告人系毒品再犯，根据《刑法》第三百五十六条必须从重处罚，且其前科与本次犯罪性质相同，社会危害性较大。第四，被告人虽认罪，但根据侦查材料显示，其是在被抓获后才供述犯罪事实，不符合自首条件。综上，建议法庭依法从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的经营性质问题，辩护人认为：第一，根据被告人供述，其与阿强的交易仅持续一个多月，且交易次数有限，不能认定为具有经营性质。第二，根据《全国法院毒品犯罪审判工作座谈会纪要》，认定毒品犯罪经营性质需要严格把握证据标准。本案中既无账目记录，也无其他客观证据佐证经营性质。第三，被告人虽系毒品再犯，但根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》，对主观恶性不深、人身危险性不大的被告人，应当依法从宽处理。恳请法庭综合考虑本案实际情况，给予被告人公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对案件基本事实和量刑情节已充分发表意见，接下来的辩论请围绕被告人黄某与阿强之间的毒品交易具体时间、次数及金额进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据被告人供述，其与阿强的毒品交易始于2015年10月，持续至案发时11月26日，交易次数达多次。每次交易金额固定为200元一小包，均为现金交易。这一事实与缴获的1.5克海洛因相互印证，证明被告人具有持续性的毒品交易行为。根据《刑法》第三百四十七条，多次贩卖毒品本身就构成从重处罚情节。辩护人提出的交易时间短、次数有限的观点，与被告人供述的\"多次交易\"明显矛盾。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人黄某与阿强之间的交易情况，辩护人认为：\n\n第一，根据被告人供述，其与阿强的交易始于2015年10月，但具体交易次数和金额均不明确，不能简单认定为\"多次\"。根据《刑事诉讼法》第五十三条，对被告人定罪量刑应当事实清楚、证据确实充分。\n\n第二，公诉人将缴获的1.5克海洛因与阿强交易相关联缺乏直接证据支持。根据《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第七十五条，对物证的证明力应当严格审查。\n\n第三，被告人供述中仅提到\"有过几次交易\"，并未明确具体次数和金额，不能据此认定具有持续性或经营性质。根据《全国法院毒品犯罪审判工作座谈会纪要》，对毒品犯罪次数的认定应当慎重。\n\n恳请法庭严格把握证据标准，对交易次数和金额作出客观认定。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我认罪认罚，深刻认识到自己行为的违法性和社会危害性。我因长期吸毒成瘾才走上犯罪道路，现在非常后悔。我保证今后一定戒除毒瘾，重新做人。恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "汕尾市城区人民法院  \n刑事判决书  \n（2016）汕区法刑初字第XX号  \n\n公诉机关汕尾市城区人民检察院。  \n被告人黄某，男，XXXX年XX月XX日出生，汉族，广东省汕尾市人，初中文化，无业，户籍汕尾市城区东涌镇东涌村东中村三巷3号。曾因犯贩卖毒品罪，于2009年10月23日被判处有期徒刑一年，并处罚金人民币一千元，2010年7月23日刑满释放。因本案于2015年11月26日被刑事拘留，同年12月14日被逮捕。现羁押于汕尾市看守所。  \n辩护人XXX，广东XX律师事务所律师。  \n\n汕尾市城区人民检察院以汕区检公刑诉〔2016〕99号起诉书指控被告人黄某犯贩卖毒品罪，于2016年XX月XX日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。汕尾市城区人民检察院指派检察员XXX出庭支持公诉，被告人黄某及其辩护人XXX到庭参加诉讼。现已审理终结。  \n\n公诉机关指控：2015年11月19日、20日，被告人黄某先后在其住处贩卖毒品海洛因给杨某2次2小包，得款400元；贩卖给冼某2次2小包，得款100元。同月26日被抓获，并缴获海洛因1.5克。认为被告人黄某的行为已构成贩卖毒品罪，且系毒品再犯，应当从重处罚。  \n\n被告人黄某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚且签字具结，在开庭审理过程中亦无异议。辩护人提出被告人系被动交易、认罪态度好，建议从轻处罚。  \n\n经审理查明：2015年11月19日至20日，被告人黄某在其住处先后四次向吸毒人员杨某、冼某贩卖海洛因共4小包，获利500元。同月26日被抓获，当场缴获海洛因1.5克。上述事实有被告人供述、证人证言、物证、书证及鉴定意见等证据证实，证据间相互印证，足以认定。  \n\n本院认为，被告人黄某违反国家毒品管理法规，多次贩卖毒品海洛因，其行为已构成贩卖毒品罪。公诉机关指控的罪名成立。被告人黄某曾因贩卖毒品罪被判刑，又犯本罪，系毒品再犯，依法应从重处罚。鉴于其认罪态度较好，可酌情从轻处罚。辩护人相关辩护意见予以采纳。依照《中华人民共和国刑法》第三百四十七条第四款、第三百五十六条、第五十二条、第五十三条之规定，判决如下：  \n\n被告人黄某犯贩卖毒品罪，判处有期徒刑二年六个月，并处罚金人民币三千元。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向汕尾市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长 XXX  \nXXXX年XX月XX日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中毒品类型（甲基苯丙胺）与起诉书指控（海洛因）存在矛盾。公诉人解释为笔误，并提供更正说明佐证。\n\n2. 公诉人出示缴获的1.5克海洛因物证，被告人无异议。辩护人认为该物证与具体贩卖行为无直接关联。\n\n3. 公诉人依次出示《抓获经过》《搜查笔录》等12项书证，被告人无异议。辩护人对多数书证提出异议，认为仅能证明程序性事实，与具体贩卖行为无直接关联。\n\n4. 公诉人出示《刑事化验检验报告》，证实缴获物质为海洛因。被告人无异议，辩护人认为该鉴定与具体贩卖行为无直接关联。\n\n5. 公诉人出示证人冼某证言，被告人无异议。辩护人指出证言中\"王町\"称呼与被告人姓名不符，且购买频率与指控存在矛盾。公诉人解释\"王町\"为当地俗称，关键交易细节可相互印证。\n\n6. 公诉人出示证人杨某证言，被告人无异议。辩护人认为证言无法证明被告人主动贩卖，且交易次数不完全吻合指控。公诉人强调证言与供述在关键细节上可相互印证。\n\n7. 辩护人表示无需举证，被告人不申请调取新证据。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中毒品类型（甲基苯丙胺）与起诉书指控（海洛因）存在矛盾。公诉人解释为笔误，并提供更正说明佐证。\n\n2. 公诉人出示缴获的1.5克海洛因物证，被告人无异议。辩护人认为该物证与具体贩卖行为无直接关联。\n\n3. 公诉人依次出示《抓获经过》《搜查笔录》等12项书证，被告人无异议。辩护人对多数书证提出异议，认为仅能证明程序性事实，与具体贩卖行为无直接关联。\n\n4. 公诉人出示《刑事化验检验报告》，证实缴获物质为海洛因。被告人无异议，辩护人认为该鉴定与具体贩卖行为无直接关联。\n\n5. 公诉人出示证人冼某证言，被告人无异议。辩护人指出证言中\"王町\"称呼与被告人姓名不符，且购买频率与指控存在矛盾。公诉人解释\"王町\"为当地俗称，关键交易细节可相互印证。\n\n6. 公诉人出示证人杨某证言，被告人无异议。辩护人认为证言无法证明被告人主动贩卖，且交易次数不完全吻合指控。公诉人强调证言与供述在关键细节上可相互印证。\n\n7. 辩护人表示无需举证，被告人不申请调取新证据。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中毒品类型（甲基苯丙胺）与起诉书指控（海洛因）存在矛盾。公诉人解释为笔误，并提供更正说明佐证。\n\n2. 公诉人出示缴获的1.5克海洛因物证，被告人无异议。辩护人认为该物证与具体贩卖行为无直接关联。\n\n3. 公诉人依次出示《抓获经过》《搜查笔录》等12项书证，被告人无异议。辩护人对多数书证提出异议，认为仅能证明程序性事实，与具体贩卖行为无直接关联。\n\n4. 公诉人出示《刑事化验检验报告》，证实缴获物质为海洛因。被告人无异议，辩护人认为该鉴定与具体贩卖行为无直接关联。\n\n5. 公诉人出示证人冼某证言，被告人无异议。辩护人指出证言中\"王町\"称呼与被告人姓名不符，且购买频率与指控存在矛盾。公诉人解释\"王町\"为当地俗称，关键交易细节可相互印证。\n\n6. 公诉人出示证人杨某证言，被告人无异议。辩护人认为证言无法证明被告人主动贩卖，且交易次数不完全吻合指控。公诉人强调证言与供述在关键细节上可相互印证。\n\n7. 辩护人表示无需举证，被告人不申请调取新证据。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中毒品类型（甲基苯丙胺）与起诉书指控（海洛因）存在矛盾。公诉人解释为笔误，并提供更正说明佐证。\n\n2. 公诉人出示缴获的1.5克海洛因物证，被告人无异议。辩护人认为该物证与具体贩卖行为无直接关联。\n\n3. 公诉人依次出示《抓获经过》《搜查笔录》等12项书证，被告人无异议。辩护人对多数书证提出异议，认为仅能证明程序性事实，与具体贩卖行为无直接关联。\n\n4. 公诉人出示《刑事化验检验报告》，证实缴获物质为海洛因。被告人无异议，辩护人认为该鉴定与具体贩卖行为无直接关联。\n\n5. 公诉人出示证人冼某证言，被告人无异议。辩护人指出证言中\"王町\"称呼与被告人姓名不符，且购买频率与指控存在矛盾。公诉人解释\"王町\"为当地俗称，关键交易细节可相互印证。\n\n6. 公诉人出示证人杨某证言，被告人无异议。辩护人认为证言无法证明被告人主动贩卖，且交易次数不完全吻合指控。公诉人强调证言与供述在关键细节上可相互印证。\n\n7. 辩护人表示无需举证，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控意见：\n- 认为本案证据确实充分，足以认定被告人构成贩卖毒品罪\n- 指出被告人多次贩卖海洛因，社会危害性较大\n- 强调被告人系毒品再犯，依法应当从重处罚\n- 针对辩护人提出的证据关联性问题，认为各证据已形成完整证据链\n\n2. 辩护人辩护意见：\n- 提出被告人贩卖行为系被动交易，主观恶性较小\n- 强调被告人认罪态度良好，建议从轻处罚\n- 质疑起诉书指控的毒品数量认定\n- 建议在三年以下有期徒刑幅度内量刑并考虑适用缓刑\n\n3. 双方争议焦点：\n- 关于被告人黄某与阿强之间的毒品交易情况：\n  - 公诉人认为交易始于2015年10月，持续多次，具有经营性质\n  - 辩护人认为交易次数和金额不明确，不能认定为多次或具有经营性质\n- 关于缴获1.5克海洛因的证明力：\n  - 公诉人认为与供述、证言相互印证\n  - 辩护人认为与具体贩卖行为无直接关联\n\n4. 量刑争议：\n- 公诉人坚持应从重处罚，强调毒品再犯和多次贩卖情节\n- 辩护人主张从轻处罚，认为犯罪情节较轻、认罪态度良好",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人：\n- 被告人供述毒品来源为\"阿强\"，通过电话联系购买\n- 每次贩卖给杨某和冼某的毒品均为1小包，具体重量不清楚\n- 承认知道贩卖毒品是违法行为\n- 与阿强的交易价格为200元一小包，均为现金交易\n- 与阿强的毒品交易始于2015年10月，交易地点在阿强家中\n\n2. 辩护人讯问被告人：\n- 确认毒品交易均为买家杨某和冼某主动联系\n- 交易价格按市场价确定，非被告人主动定价\n\n3. 审判长讯问被告人：\n- 毒品交易资金来源于贩毒所得和打工收入\n- 贩卖的毒品均为同一批次，来自阿强\n- 毒品均存放在被告人住处\n- 交易时未进行称重，按小包出售\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述，被告人无异议。辩护人指出供述中毒品类型（甲基苯丙胺）与起诉书指控（海洛因）存在矛盾。公诉人解释为笔误，并提供更正说明佐证。\n\n2. 公诉人出示缴获的1.5克海洛因物证，被告人无异议。辩护人认为该物证与具体贩卖行为无直接关联。\n\n3. 公诉人依次出示《抓获经过》《搜查笔录》等12项书证，被告人无异议。辩护人对多数书证提出异议，认为仅能证明程序性事实，与具体贩卖行为无直接关联。\n\n4. 公诉人出示《刑事化验检验报告》，证实缴获物质为海洛因。被告人无异议，辩护人认为该鉴定与具体贩卖行为无直接关联。\n\n5. 公诉人出示证人冼某证言，被告人无异议。辩护人指出证言中\"王町\"称呼与被告人姓名不符，且购买频率与指控存在矛盾。公诉人解释\"王町\"为当地俗称，关键交易细节可相互印证。\n\n6. 公诉人出示证人杨某证言，被告人无异议。辩护人认为证言无法证明被告人主动贩卖，且交易次数不完全吻合指控。公诉人强调证言与供述在关键细节上可相互印证。\n\n7. 辩护人表示无需举证，被告人不申请调取新证据。\n\n法庭辩论阶段总结：\n\n1. 公诉人指控意见：\n- 认为本案证据确实充分，足以认定被告人构成贩卖毒品罪\n- 指出被告人多次贩卖海洛因，社会危害性较大\n- 强调被告人系毒品再犯，依法应当从重处罚\n- 针对辩护人提出的证据关联性问题，认为各证据已形成完整证据链\n\n2. 辩护人辩护意见：\n- 提出被告人贩卖行为系被动交易，主观恶性较小\n- 强调被告人认罪态度良好，建议从轻处罚\n- 质疑起诉书指控的毒品数量认定\n- 建议在三年以下有期徒刑幅度内量刑并考虑适用缓刑\n\n3. 双方争议焦点：\n- 关于被告人黄某与阿强之间的毒品交易情况：\n  - 公诉人认为交易始于2015年10月，持续多次，具有经营性质\n  - 辩护人认为交易次数和金额不明确，不能认定为多次或具有经营性质\n- 关于缴获1.5克海洛因的证明力：\n  - 公诉人认为与供述、证言相互印证\n  - 辩护人认为与具体贩卖行为无直接关联\n\n4. 量刑争议：\n- 公诉人坚持应从重处罚，强调毒品再犯和多次贩卖情节\n- 辩护人主张从轻处罚，认为犯罪情节较轻、认罪态度良好",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 30.0,
+    "fine": 3000.0,
+    "reprieve": 0.0
+  }
+]

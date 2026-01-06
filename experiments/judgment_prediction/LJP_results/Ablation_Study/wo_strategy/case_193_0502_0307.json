@@ -1,0 +1,1467 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人贺某，于XXXX年X月X日出生，女，汉族，文化程度XXX，户籍XXXXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "杭州市上城区人民检察院  \n起 诉 书  \n\n杭上检公诉刑诉〔2018〕27号  \n\n被告人贺某，女，XXXX年X月X日出生，汉族，文化程度XXX，户籍XXXXX。因涉嫌合同诈骗罪，于2016年12月28日被杭州市公安局滨江分局抓获，同日被刑事拘留，现羁押于杭州市看守所。  \n\n本案由杭州市公安局滨江分局侦查终结，以被告人贺某涉嫌合同诈骗罪，于20xx年x月x日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n\n2014年3月，谢某（另案处理）注册成立杭州客易电子商务有限公司（以下简称客易公司），以公司名义从事淘宝代运营诈骗活动。公司内设推广部、招商部、客服部，分工实施诈骗行为。推广部发布代运营加盟广告吸引客户咨询；招商部通过虚假销量图、返还加盟费图及话术渲染加盟前景，谎称公司具备优质货源和客服支持能力，诱导客户签订《网络销售代销商协议书》并支付加盟费；客服部仅提供网店注册、装修等简单服务。2014年4月至2015年6月，被告人贺某作为招商部业务员，参与骗取被害人杨某等人加盟费共计人民币222740元，个人非法获利58163元。  \n\n认定上述事实的证据如下：  \n\n1. 被害人陈某、金某、张某甲、李某甲、李某乙、钟某、张某乙等人的陈述及自述材料，证实受骗经过；  \n2. 书证：《网络销售代销商协议书》、收据、转账记录，证实合同签订及款项支付；  \n3. 证人谢某、刘某、方某、吴某、易某的证言，证实公司运营模式及诈骗手段；  \n4. 银行账户交易明细、业绩表、工资发放统计光盘，证实贺某涉案金额及获利情况；  \n5. 电子证物检查笔录，证实公司虚假宣传资料；  \n6. 归案经过、户籍证明、缴款票据，证实被告人到案情况及退赃事实；  \n7. 被告人贺某的供述和辩解，对犯罪事实供认不讳。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人贺某伙同他人，以非法占有为目的，在无实际履行能力的情况下骗取财物，数额巨大，其行为触犯《中华人民共和国刑法》第二百二十四条第一款第（三）项、第二十五条第一款，犯罪事实清楚，证据确实、充分，应当以合同诈骗罪追究其刑事责任。被告人贺某在共同犯罪中起次要作用，系从犯，依法应当减轻处罚；自愿认罪并退缴违法所得，可酌情从轻处罚。根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，建议判处被告人贺某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n杭州市上城区人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪认罚。我已经退缴了全部违法所得58163元，愿意接受法律的惩处。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在客易公司招商部工作期间，具体负责哪些工作内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我负责通过公司提供的话术和虚假销售数据，与客户沟通并说服他们签订代运营协议，收取加盟费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否清楚公司提供的销售数据和宣传资料是虚假的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我后来意识到公司提供的销售数据和宣传资料是虚假的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你与公司其他部门是如何配合实施诈骗行为的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "推广部负责吸引客户咨询，招商部负责说服客户签约，客服部只提供基础服务。我们按照公司安排的分工进行配合。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在招商部工作期间，共参与了多少起诈骗案件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我参与了7起诈骗案件，涉案金额共计222740元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否知道公司实际并不具备为加盟商提供优质货源和客服支持的能力？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我后来知道公司实际上不具备这些能力。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你个人非法获利的58163元是如何计算和分配的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "58163元是根据我的业绩提成计算的，公司按照签约金额的一定比例给我发放提成。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否曾向客户承诺过具体的销售业绩或利润回报？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我按照公司提供的话术模板，向客户承诺过具体的销售业绩和利润回报。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否曾向客户明确说明过公司无法兑现承诺的销售业绩和利润回报？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向客户说明过公司无法兑现承诺的情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否曾向公司管理层反映过招商过程中存在的虚假宣传问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向公司管理层反映过虚假宣传问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否曾向客户明确说明过加盟费的具体用途和公司实际提供的服务内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向客户明确说明过加盟费的具体用途和公司实际提供的服务内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否曾向客户明确说明过加盟后可能面临的风险和公司不承担的责任？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向客户说明过加盟后可能面临的风险和公司不承担的责任。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你是否曾向客户明确说明过公司实际提供的服务与承诺的服务之间存在重大差异？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向客户说明过服务与承诺之间的差异。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你加入客易公司时，公司是否对你进行过正规的业务培训？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司提供了统一的话术模板和销售技巧培训，但没有进行正规的业务培训。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否明确告知过你这些宣传资料和销售数据的真实性？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有明确告知宣传资料和销售数据的真实性。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们的工作内容进行过监督或检查？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司有主管会定期检查我们的工作进度和业绩完成情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们设定过具体的业绩指标或考核标准？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司给我们设定了每月必须完成的签约金额指标，完成情况与工资提成直接挂钩。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，是否曾因业绩不达标而受到过公司的处罚或警告？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有，我曾因未完成业绩指标被公司扣发过部分提成。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否提供过真实的成功案例供你向客户展示？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有提供过真实的成功案例。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否曾明确告知过你们这些行为可能涉嫌违法？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有明确告知过这些行为可能涉嫌违法。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们使用的话术模板进行过修改或更新？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司定期更新话术模板，要求我们按照最新版本与客户沟通。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们与客户的通话进行过录音或监控？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司会对我们的通话进行录音，主管会抽查通话质量。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们与客户签订的合同内容进行过具体说明或培训？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有对合同内容进行具体说明或培训，只要求我们按照标准流程让客户签约。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们与客户沟通的内容设定过具体的限制或要求？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司要求我们必须按照提供的话术模板与客户沟通，不能擅自更改承诺内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否曾对你们进行过法律风险方面的培训或提示？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有对我们进行过法律风险方面的培训或提示。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否对你们与客户沟通的内容进行过录音或文字记录？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司会对我们的通话进行录音，主管会定期抽查通话内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在招商部工作期间，公司是否曾明确告知过你们不得向客户透露公司实际运营情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "公司没有明确告知过不得向客户透露公司实际运营情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在招商部工作期间，是否曾向客户明确说明过公司实际提供的服务与承诺的服务之间存在重大差异？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向客户说明过服务与承诺之间的差异。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2014年4月，我入职杭州客易电子商务有限公司，担任招商部业务员。公司由谢某成立，内设推广部、招商部、客服部。推广部发布淘宝代运营加盟广告吸引客户咨询，招商部通过虚假销量图、返还加盟费图及话术诱导客户签订《网络销售代销商协议书》，骗取加盟费。客服部仅提供注册网店、店铺装修等基础服务。2014年4月至2015年6月，我参与骗取客户加盟费共计222740元，个人获利58163元。2016年12月28日，我在杭州滨江区果速送公司被公安机关抓获。  \n\n（2）犯案动机  \n公司承诺提供优质货源、客服支持等虚假服务，实际无履行能力。我按照公司提供的“话术”与客户沟通，未主动核实公司承诺的真实性，目的是完成业绩并获取提成。  \n\n（3）案发之后的处理  \n我被抓获后未自首。在法院审理期间退缴个人违法所得58163元。未提及与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.被害人陈述：被害人陈某陈述：“我与客易公司签订《网络销售代销商协议书》，支付了加盟费，但公司仅提供了简单的网店注册和装修服务，未兑现承诺的优质货源和客服支持，导致我的网店无法运营。”经公安机关核实，陈某的陈述与其提供的聊天记录、转账凭证相符，且与其他被害人证言相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.被害人陈述：被害人金某陈述：“贺某向我展示了虚假的销量图和返还加盟费图，诱导我支付加盟费，但后续服务完全不符合承诺，我的网店几乎没有订单。”经公安机关调查，金某提供的截图与公司内部虚假宣传资料一致，其陈述属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.被害人陈述：被害人张某甲陈述：“客易公司承诺提供全方位服务并返还加盟费，但实际只提供了基础服务，且货源经常缺货，客服响应极慢。”经核实，张某甲的投诉记录与公司客服日志记载内容一致，其陈述可信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.被害人陈述：被害人李某甲陈述：“我支付加盟费后，客易公司仅帮我注册了网店，后续推广和货源支持均为虚假承诺，网店无法盈利。”公安机关调取其网店后台数据证实经营异常，陈述属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：被害人李某乙陈述：“贺某用话术渲染加盟前景，但公司实际无货源和客服储备，我的网店很快倒闭。”经查证，公司仓库租赁合同及员工名单证实无实际运营能力，陈述可信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.被害人陈述：被害人钟某陈述：“客易公司以升级套餐为名骗取我额外费用，但升级后服务仍无改善，刷单制造的销量假象很快被平台发现。”平台违规记录与钟某提供的付款凭证相互印证，陈述属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.被害人陈述：被害人张某乙陈述：“我加盟后发现公司提供的服务与承诺严重不符，投诉后被敷衍处理，加盟费无法追回。”其投诉录音与公司内部处理流程记录相符，陈述真实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：《网络销售代销商协议书》、收据、转账记录，证明被害人与客易公司签订合同并支付加盟费的事实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人谢某证言：“客易公司是我与刘某开设，盈利主要来自加盟费，公司无实际货源，仅少数客户获得返还加盟费。”经公安机关讯问核实，谢某的证言与公司账目、被害人陈述一致。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人刘某证言：“公司官网销量数据虚假，刷钻服务无法兑现，90%客户因服务不到位停止经营，加盟费转为公司纯收益。”其证言经与网站后台数据比对，内容属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人方某证言：“公司业务部提成比例按业绩分级，谢某负责发放工资，公司无仓库和稳定货源，客户订单极少。”经核实工资表及提成制度文件，证言可信。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人吴某证言：“公司销售提成最低13%，最高25%，且从未制定退加盟费流程。”该证言与公司财务制度文件相互印证。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人易某证言：“客易公司提成制度鼓励业务员夸大承诺，实际无法履行合同义务。”经查证培训录音资料，证言属实。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：银行账户交易明细、业绩表、工资发放统计光盘，证明贺某参与骗取加盟费222740元，个人获利58163元。经司法会计鉴定，证据来源合法。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：协助查询财产通知书，证明公安机关对涉案资金流向的调查情况。该通知书由公安机关依法出具，程序合法。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：归案经过，证明贺某于2016年12月28日在杭州滨江区被抓获。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：户籍证明，证明贺某的自然人身份信息。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：缴款票据，证明贺某退缴违法所得58163元。经法院财务部门确认，票据合法有效。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.电子数据：电子证物检查笔录，证明公安机关对谢某、方某的电脑硬盘及U盘提取的电子证据，包含虚假宣传资料及业绩数据。该笔录由具有资质的鉴定机构依法制作",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第二百二十四条，被告人贺某以非法占有为目的，在签订、履行合同过程中，使用虚假宣传手段骗取被害人财物，涉案金额达222740元，数额巨大，其行为已构成合同诈骗罪。本案证据确实充分，被告人当庭认罪认罚，且已退缴全部违法所得58163元。\n\n关于量刑情节：第一，被告人在共同犯罪中起次要作用，系从犯，根据刑法第二十七条，应当从轻或减轻处罚；第二，被告人认罪态度较好，主动退赃，根据《最高人民法院关于常见犯罪的量刑指导意见》，可酌情从宽处理；第三，被告人无前科劣迹，系初犯。\n\n综合全案事实、性质、情节及社会危害程度，公诉机关认为应当以合同诈骗罪追究被告人刑事责任，建议判处有期徒刑XX，缓刑XX，并处罚金人民币XX元。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，关于被告人的主观恶性。被告人作为公司普通业务员，其行为完全受公司管理制度约束，按照公司统一提供的话术模板开展工作，未主动策划或主导诈骗行为。根据《刑法》第二十七条，对于从犯应当从轻、减轻处罚。\n\n第二，关于认罪态度。被告人当庭认罪认罚，如实供述全部犯罪事实，且在案件审理过程中主动退缴全部违法所得58163元，表现出良好的悔罪态度。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，应当依法从宽处理。\n\n第三，关于犯罪情节。被告人系初犯、偶犯，无前科劣迹，其犯罪行为主要受公司管理制度驱使，个人主观恶性相对较小。根据《刑法》第六十七条第三款，可以从轻处罚。\n\n第四，关于社会危害性。被告人的违法所得已全部退缴，未造成被害人经济损失无法挽回的严重后果，社会危害性相对较小。\n\n综上，辩护人认为被告人具有法定和酌定从轻处罚情节，恳请法庭充分考虑其从犯地位、认罪态度及退赃表现，依法从轻判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从犯情节，公诉人需要补充说明：根据《刑法》第二十七条，虽然被告人系从犯，但其作为招商部业务员直接参与实施了7起诈骗行为，涉案金额达22万余元，个人非法获利5.8万余元，在共同犯罪中起到了具体实施诈骗行为的重要作用。虽然其行为受公司管理制度约束，但被告人当庭承认明知公司宣传资料虚假仍继续使用，主观上具有明显的犯罪故意。\n\n关于认罪态度，被告人虽当庭认罪认罚并退赃，但需要指出的是，其系被公安机关抓获归案，并非主动投案，根据《刑法》第六十七条，不能认定为自首情节。退赃行为虽可酌情从轻，但已退缴的违法所得仅为其个人获利部分，尚未对被害人进行全额退赔。\n\n关于社会危害性，本案涉及7名被害人，造成经济损失22万余元，严重扰乱了市场经济秩序，社会危害性不容忽视。被告人作为具体实施诈骗行为的人员，其行为直接导致了被害人的经济损失。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的从犯作用问题，辩护人需要强调：根据在案证据显示，被告人完全按照公司统一提供的话术模板和虚假宣传资料开展工作，其行为具有明显的从属性和被动性。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第七条，对于受单位指派参与诈骗活动的从犯，应当依法从轻处罚。\n\n关于退赃问题，虽然被告人系被抓获归案，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于积极退赃退赔的被告人，应当综合考虑犯罪性质、退赃退赔行为对损害结果所能弥补的程度等情况予以从宽处理。被告人已退缴全部个人违法所得，表明其真诚悔罪的态度。\n\n关于社会危害性，辩护人注意到本案被害人的经济损失主要系公司整体诈骗行为所致，被告人作为基层业务员，其个人行为对整体危害结果的影响相对有限。恳请法庭在量刑时充分考虑这一因素。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从犯作用问题，需要指出：根据《刑法》第二十七条，虽然被告人系从犯，但其作为招商部业务员直接实施了诈骗行为，参与7起案件，涉案金额达22万余元，在共同犯罪中起到了具体实施的重要作用。被告人明知公司宣传资料虚假仍继续使用，主观恶性明显。\n\n关于退赃问题，需要补充说明：被告人虽退缴了个人违法所得，但根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，退赃退赔应当以弥补被害人实际损失为原则。本案中被告人仅退缴个人获利部分，尚未对被害人进行全额退赔，其悔罪表现仍有不足。\n\n关于社会危害性，本案涉案金额已达\"数额巨大\"标准，严重扰乱了市场经济秩序。根据《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》第一条，诈骗公私财物价值三万元至十万元以上的，应当认定为刑法第二百六十六条规定的\"数额巨大\"。被告人参与诈骗金额远超该标准，社会危害性不容忽视。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于从犯地位问题，需要强调被告人在公司层级中处于最基层，完全按照公司制定的标准化流程和话术开展工作，缺乏自主决策权。根据《刑法》第二十七条，对于受制于上级指令、在犯罪中起次要作用的从犯，应当减轻处罚。\n\n关于退赃问题，虽然被告人未能全额退赔被害人损失，但已尽其所能退缴全部个人违法所得。根据《最高人民法院关于适用财产刑若干问题的规定》第四条，被告人积极退赃的行为应当作为酌定从轻处罚情节予以考虑。\n\n关于社会危害性，辩护人认同本案确实造成了严重后果，但需要指出被告人的行为与公司主犯存在本质区别。被告人的违法所得仅占涉案总额的26%，其个人行为对整体危害结果的贡献度相对有限。恳请法庭在量刑时充分考虑这一比例关系。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对给被害人造成的损失表示真诚的歉意。我认罪认罚，已经退缴了全部违法所得58163元。我完全接受法庭的审判，恳请法庭能考虑我是初犯、从犯，且认罪态度良好，给予从轻处罚的机会。我保证今后一定遵纪守法，做一个对社会有用的人。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "杭州市上城区人民法院\n刑事判决书\n（2018）杭上刑初字第27号\n\n公诉机关杭州市上城区人民检察院。\n被告人贺某，女，XXXX年X月X日出生，汉族，文化程度XXX，户籍XXXXX。因涉嫌合同诈骗罪，于2016年12月28日被杭州市公安局滨江分局抓获，同日被刑事拘留，现羁押于杭州市看守所。\n辩护人XXX（写明姓名、性别、工作单位和职务）。\n\n杭州市上城区人民检察院于20xx年x月x日以被告人贺某犯合同诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。杭州市上城区人民检察院检察长（或员）XXX出庭支持公诉，被告人贺某及其辩护人XXX等到庭参加诉讼。本案现已审理终结。\n\n杭州市上城区人民检察院指控：2014年3月，谢某（另案处理）注册成立杭州客易电子商务有限公司，以公司名义从事淘宝代运营诈骗活动。2014年4月至2015年6月，被告人贺某作为招商部业务员，参与骗取被害人杨某等人加盟费共计人民币222740元，个人非法获利58163元。公诉机关认为被告人贺某的行为构成合同诈骗罪，数额巨大，系从犯，建议判处有期徒刑并适用缓刑，并处罚金。\n\n经审理查明：2014年4月，被告人贺某入职杭州客易电子商务有限公司招商部，在明知公司无实际履行能力的情况下，使用虚假销量图、返还加盟费图及公司提供的话术模板，诱骗被害人签订《网络销售代销商协议书》，骗取7名被害人加盟费共计222740元，个人非法获利58163元。案发后，被告人贺某退缴全部违法所得58163元。\n\n上述事实，有经庭审质证、确认的下列证据证实：\n1. 被告人贺某的供述和辩解；\n2. 被害人陈某等7人的陈述及自述材料；\n3. 证人谢某等5人的证言；\n4. 《网络销售代销商协议书》、收据、转账记录等书证；\n5. 银行账户交易明细、业绩表、工资发放统计光盘；\n6. 电子证物检查笔录；\n7. 归案经过、户籍证明、缴款票据。\n\n本院认为，被告人贺某以非法占有为目的，在签订、履行合同过程中骗取他人财物，数额巨大，其行为已构成合同诈骗罪。公诉机关指控的罪名成立。被告人贺某在共同犯罪中起次要作用，系从犯，依法应当减轻处罚；其认罪态度较好，已退缴全部违法所得，可酌情从轻处罚。辩护人关于被告人系从犯、认罪态度好、已退赃的辩护意见予以采纳。依照《中华人民共和国刑法》第二百二十四条第一款第（三）项、第二十五条第一款、第二十七条、第七十二条、第七十三条第二款、第三款、第五十二条、第五十三条、第六十四条的规定，判决如下：\n\n一、被告人贺某犯合同诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币五万元；\n二、被告人贺某退缴的违法所得人民币五万八千一百六十三元依法予以没收，上缴国库。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向杭州市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n20xx年x月x日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了20项证据，包括：\n- 被告人在侦查阶段的供述，证实其参与诈骗的经过、动机及退赃情况\n- 7名被害人的陈述，证实受骗经过及公司未兑现承诺的事实\n- 5名证人的证言，证实公司运营模式及诈骗手段\n- 书证包括合同、转账记录、银行交易明细等，证实涉案金额及资金流向\n- 电子数据证实公司使用虚假宣传资料\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了20项证据，包括：\n- 被告人在侦查阶段的供述，证实其参与诈骗的经过、动机及退赃情况\n- 7名被害人的陈述，证实受骗经过及公司未兑现承诺的事实\n- 5名证人的证言，证实公司运营模式及诈骗手段\n- 书证包括合同、转账记录、银行交易明细等，证实涉案金额及资金流向\n- 电子数据证实公司使用虚假宣传资料\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了20项证据，包括：\n- 被告人在侦查阶段的供述，证实其参与诈骗的经过、动机及退赃情况\n- 7名被害人的陈述，证实受骗经过及公司未兑现承诺的事实\n- 5名证人的证言，证实公司运营模式及诈骗手段\n- 书证包括合同、转账记录、银行交易明细等，证实涉案金额及资金流向\n- 电子数据证实公司使用虚假宣传资料\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了20项证据，包括：\n- 被告人在侦查阶段的供述，证实其参与诈骗的经过、动机及退赃情况\n- 7名被害人的陈述，证实受骗经过及公司未兑现承诺的事实\n- 5名证人的证言，证实公司运营模式及诈骗手段\n- 书证包括合同、转账记录、银行交易明细等，证实涉案金额及资金流向\n- 电子数据证实公司使用虚假宣传资料\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人贺某构成合同诈骗罪，涉案金额222740元，数额巨大\n- 指出被告人系从犯，认罪认罚并退缴违法所得58163元\n- 建议判处有期徒刑并适用缓刑，并处罚金\n\n2. 辩护人发表辩护意见：\n- 强调被告人主观恶性小，系受公司管理制度约束\n- 指出被告人认罪态度好，已退缴全部违法所得\n- 认为被告人系初犯、偶犯，社会危害性相对较小\n- 请求法庭从轻处罚\n\n3. 控辩双方主要争议焦点：\n- 关于从犯地位：辩护人强调被告人行为被动性，公诉人指出其直接实施诈骗行为\n- 关于退赃问题：辩护人认为已退缴全部个人所得，公诉人指出未全额退赔被害人\n- 关于社会危害性：辩护人认为个人贡献度有限，公诉人强调涉案金额已达\"数额巨大\"标准\n\n4. 重要量刑情节确认：\n- 被告人系从犯\n- 已退缴个人全部违法所得58163元\n- 认罪认罚态度良好\n- 无前科劣迹，系初犯\n- 未全额退赔被害人损失",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人承认在招商部工作期间使用虚假销售数据和话术诱骗客户签约\n- 被告人明知公司宣传资料虚假且不具备承诺的运营能力\n- 被告人参与7起诈骗案件，涉案金额222740元，个人获利58163元\n- 被告人承认未向客户说明公司无法兑现承诺、加盟费用途及服务差异等关键信息\n\n2. 辩护人讯问：\n- 被告人证实公司未提供正规业务培训和法律风险提示\n- 公司设定业绩指标并监控员工通话，但未告知宣传资料真实性\n- 被告人按公司要求使用统一话术模板，未接受过合同内容培训\n- 公司未提供真实成功案例，且对员工沟通内容有严格限制\n\n3. 被告人当庭表示认罪认罚，已退缴全部违法所得58163元\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了20项证据，包括：\n- 被告人在侦查阶段的供述，证实其参与诈骗的经过、动机及退赃情况\n- 7名被害人的陈述，证实受骗经过及公司未兑现承诺的事实\n- 5名证人的证言，证实公司运营模式及诈骗手段\n- 书证包括合同、转账记录、银行交易明细等，证实涉案金额及资金流向\n- 电子数据证实公司使用虚假宣传资料\n\n2. 被告人对所有证据均表示无异议。\n\n3. 辩护人对所有证据均表示无异议。\n\n4. 辩护人未提出新的证据。\n\n5. 被告人未申请调取新证据或通知新证人到庭。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人贺某构成合同诈骗罪，涉案金额222740元，数额巨大\n- 指出被告人系从犯，认罪认罚并退缴违法所得58163元\n- 建议判处有期徒刑并适用缓刑，并处罚金\n\n2. 辩护人发表辩护意见：\n- 强调被告人主观恶性小，系受公司管理制度约束\n- 指出被告人认罪态度好，已退缴全部违法所得\n- 认为被告人系初犯、偶犯，社会危害性相对较小\n- 请求法庭从轻处罚\n\n3. 控辩双方主要争议焦点：\n- 关于从犯地位：辩护人强调被告人行为被动性，公诉人指出其直接实施诈骗行为\n- 关于退赃问题：辩护人认为已退缴全部个人所得，公诉人指出未全额退赔被害人\n- 关于社会危害性：辩护人认为个人贡献度有限，公诉人强调涉案金额已达\"数额巨大\"标准\n\n4. 重要量刑情节确认：\n- 被告人系从犯\n- 已退缴个人全部违法所得58163元\n- 认罪认罚态度良好\n- 无前科劣迹，系初犯\n- 未全额退赔被害人损失",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 50000.0,
+    "reprieve": 48.0
+  }
+]

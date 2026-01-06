@@ -1,0 +1,1881 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人展某，男，汉族，XXX年X月X日出生，户籍XXXXX，文化程度XXX，原任新疆生产建设兵团101团华亿公司总经理（正科级）。因涉嫌犯诈骗罪，于2015年9月29日被刑事拘留，同年10月2日延长拘留期限至10月29日，同年11月5日被释放并变更强制措施为监视居住；2016年3月29日因涉嫌犯国有公司人员滥用职权罪、诈骗罪被刑事拘留，同年4月7日被批准逮捕。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是新疆生产建设兵团101团华亿公司总经理（正科级）。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "新疆生产建设兵团五家渠垦区人民检察院  \n起 诉 书  \n\n五垦检刑诉〔2016〕112号  \n\n被告人展某，男，汉族，XXX年X月X日出生，户籍XXXXX，文化程度XXX，原任新疆生产建设兵团101团华亿公司总经理（正科级）。因涉嫌犯诈骗罪，于2015年9月29日被刑事拘留，同年10月2日延长拘留期限至10月29日，同年11月5日被释放并变更强制措施为监视居住；2016年3月29日因涉嫌犯国有公司人员滥用职权罪、诈骗罪被刑事拘留，同年4月7日被批准逮捕。  \n\n本案由新疆生产建设兵团第六师公安局侦查终结，以被告人展某涉嫌诈骗罪，于2016年12月26日向本院移送起诉。本院受理后，依法告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2011年9月，101团为做好拆迁工作，专门成立4号地征收小组，由副团长张某甲负责，成员为团工交建商科、农业科、司法所、劳资科、信访科、华亿公司以及二连连队干部等人员。被告人展某作为101团华亿公司总经理，参与101团二连的公房征收工作。  \n\n2012年6月，青投公司的唐某让五家渠祥和房地产测绘公司经理冯某对被告人展某的平房进行测量评估。冯某派工作人员朱某与青投公司工作人员一起，在展某夫妻的参与下，对被告人展某在2005年临近新锅炉房南侧盖的两间砖混结构房屋和搭建的一间砖木结构房屋进行测量。测量过程中，展某夫妻使测量人员误认为面积为71.82平方米的老锅炉房属于其私房进行测量，并由鸿通房地产评估公司出具评估报告，评估价值120729元（该房屋此前已作为公房赔付）。此外，展某夫妻以维修新锅炉房为由向天新房地产公司提出补偿39910元要求。  \n\n2012年7月18日，吴某与天新房地产公司签订《协议搬迁补偿书》，选择产权置换，获取青湖·铭城小区两套楼房。同年9月19日，展某、吴某与天新房地产公司签订《搬迁补偿补充协议书》，获得补偿金92718元。  \n\n被告人展某通过上述方式共计骗取补偿款120729元。  \n\n认定上述事实的证据如下：  \n1. 书证：立案决定书、户籍信息、调取证据通知书、搬迁补偿补充协议书、评估报告、付款审批表等；  \n2. 证人证言：证人吴某、唐某、冯某、朱某、赵某甲、胥某、张某甲等人的证言；  \n3. 被告人供述：被告人展某的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人展某以非法占有为目的，虚构事实、隐瞒真相，骗取政府拆迁补偿款120729元，数额巨大，其行为触犯了《中华人民共和国刑法》第二百六十六条之规定，犯罪事实清楚，证据确实、充分，应当以诈骗罪追究其刑事责任。鉴于被告人展某犯罪未遂，可以比照既遂犯从轻处罚。建议判处被告人展某有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n新疆生产建设兵团五家渠垦区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2016年12月26日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的事实有异议。我没有主动虚构事实或隐瞒真相，测量时我不在场，是青投公司工作人员和评估公司自行将公房计入我的私房面积。维修费39910元是青投公司唐某要求评估公司添加的，不是我提出的要求。我没有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你声称测量时不在场，那么2012年6月测量时你妻子吴某是否在场？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我妻子吴某当时在场。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你妻子吴某在测量时是否向工作人员明确指出老锅炉房属于公房而非你们的私房？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我妻子当时没有明确指出老锅炉房属于公房。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，是否清楚老锅炉房的产权归属？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我清楚老锅炉房属于公房。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在签订《搬迁补偿补充协议书》时，是否明知老锅炉房已经作为公房赔付过？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我明知老锅炉房属于公房。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在明知老锅炉房属于公房且已赔付的情况下，为何在签订补偿协议时没有主动提出并纠正这一错误？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为评估报告已经出具，且是青投公司工作人员和评估公司共同确认的结果，就没有主动提出异议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在明知评估报告存在错误的情况下，为何仍然与天新房地产公司签订了《搬迁补偿补充协议书》并领取了补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为评估报告已经经过正规程序确认，且补偿款已经审批通过，就没有提出异议。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在明知评估报告存在错误的情况下，为何没有向101团领导或征收小组汇报这一情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为评估报告已经经过正规程序确认，就没有向领导汇报这个情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在明知评估报告存在错误的情况下，为何在2012年9月签订《搬迁补偿补充协议书》时没有主动退还多领取的补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为评估报告已经经过正规程序确认，补偿款是合法获得的，所以没有主动退还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在明知评估报告存在错误的情况下，为何在2015年9月第一次被刑事拘留后，仍未主动退还多领取的补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时认为评估报告已经经过正规程序确认，补偿款是合法获得的，所以没有主动退还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在2012年7月18日吴某与天新房地产公司签订《协议搬迁补偿书》时，是否知晓该协议内容？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时知晓协议内容。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在2012年7月18日吴某与天新房地产公司签订《协议搬迁补偿书》时，是否参与了该协议的协商过程？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时参与了部分协商过程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在2012年9月19日签订《搬迁补偿补充协议书》时，是否明知该协议中包含了对老锅炉房的补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时明知协议中包含了对老锅炉房的补偿款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你作为华亿公司总经理，在2012年7月18日签订《协议搬迁补偿书》时，是否向天新房地产公司或青投公司工作人员提出过老锅炉房属于公房的事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时没有向天新房地产公司或青投公司工作人员提出过老锅炉房属于公房的事实。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，被告人已经多次确认明知老锅炉房属于公房且已赔付的事实，相关事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，请问在测量评估过程中，青投公司工作人员和评估公司是否曾向你或你妻子明确询问过老锅炉房的产权归属情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有明确询问过老锅炉房的产权归属情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问在签订《搬迁补偿补充协议书》时，天新房地产公司或青投公司工作人员是否曾向你核实过老锅炉房的产权情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向我核实过老锅炉房的产权情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问在2012年6月测量评估时，青投公司工作人员和评估公司是否提供了完整的房屋产权证明文件供你们核对？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供完整的房屋产权证明文件供我们核对。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问在2012年6月测量评估时，青投公司工作人员和评估公司是否告知你们测量范围包括老锅炉房？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有告知我们测量范围包括老锅炉房。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问在2012年7月18日签订《协议搬迁补偿书》时，青投公司或天新房地产公司是否向你们提供了完整的补偿清单和评估依据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供完整的补偿清单和评估依据。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问在2012年6月测量评估时，青投公司工作人员和评估公司是否曾明确告知你们老锅炉房将被计入补偿范围？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有告知我们老锅炉房将被计入补偿范围。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "请问在2012年6月测量评估时，青投公司工作人员和评估公司是否曾要求你们提供房屋产权证明文件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要求我们提供房屋产权证明文件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，相关事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "请问被告人在2012年6月测量评估时，是否曾向青投公司工作人员或评估公司人员出示过老锅炉房的产权证明文件？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有出示过老锅炉房的产权证明文件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你在2012年9月19日签订《搬迁补偿补充协议书》时，是否知道该协议中包含了老锅炉房的补偿款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我知道协议中包含了老锅炉房的补偿款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你在2012年6月测量评估时，是否曾主动向青投公司工作人员或评估公司人员说明老锅炉房属于公房？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动说明老锅炉房属于公房。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你在2012年6月测量评估时，是否曾看到测量人员将老锅炉房计入你的私房面积？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有看到测量人员将老锅炉房计入我的私房面积。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2012年6月测量评估时，是否曾向青投公司工作人员或评估公司人员提供过任何关于老锅炉房的书面材料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过关于老锅炉房的书面材料。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2004年2月29日，我妻子吴某与101团水电服务站签订《温室租赁合同》，租赁温室大棚1200平方米及锅炉房等辅助设施，租期至2014年2月28日。2005年，我在新锅炉房南侧借用二连公房西侧墙盖了两间砖混结构平房作为员工宿舍，并在老锅炉房南侧加盖一间砖混结构平房和砖木结构仓库。2011年9月，101团成立4号地征收小组，委托正阳评估公司测量公房，我的私房未被计入公房面积。2012年6月，青投公司唐某安排祥和测绘公司测量我的私房，测量人员朱某在青投公司工作人员张某乙的指引下，误将老锅炉房（公房）计入我的私房面积，评估总价值346386元（含虚构的维修费39910元）。2012年7月18日，吴某与天新房地产公司签订《协议搬迁补偿书》，选择两套楼房置换。同年9月，我与吴某提交报告要求额外补偿，获得92718元。  \n\n（2）犯案动机  \n我未主动虚构事实或隐瞒真相。测量时我不在场，青投公司工作人员和评估公司自行将公房计入我的私房面积。维修费39910元是青投公司唐某要求评估公司以附属物名义添加，非我提供清单。我认为房屋存在事实，未诱导错误测量，无非法占有目的。  \n\n（3）案发之后的处理  \n案发后我未自首。公安机关未提及我进行赔偿或达成和解。我未取得被害人谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人在侦查阶段的供述中明确表示\"未主动虚构事实或隐瞒真相\"、\"测量时不在场\"、\"无非法占有目的\"，这些内容与公诉人指控的诈骗罪主观故意要件存在矛盾，该证据反而证明被告人缺乏诈骗罪的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人在侦查阶段供述中承认明知老锅炉房属于公房且已赔付的事实，在明知评估错误的情况下仍签订补偿协议并领取补偿款，且未向领导汇报评估错误情况，这些行为足以证明其具有非法占有的主观故意。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已经充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：立案决定书、户籍信息、调取证据通知书、搬迁补偿补充协议书、报告、吴某房地产价值评估表、吴某拥有位于五家渠市101团二连房地产征收补偿价值评估报告（附评估机构资质证明）、101团二连公有房地产拆迁补偿价值评估报告（附评估机构资质证明）、项目付款审批表、房地产价值评估表等，证实相关评估报告均由具有资质的评估机构出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "评估报告虽然由具有资质的评估机构出具，但评估过程中存在重大程序瑕疵，评估人员未核实房屋产权归属情况，也未要求被告人提供产权证明文件，该证据不能证明被告人存在故意欺骗评估机构的行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "评估报告虽然存在程序瑕疵，但被告人作为华亿公司总经理，明知老锅炉房属于公房且已赔付的事实，却在评估过程中未主动说明情况，在签订补偿协议时也未提出异议，其行为已构成故意隐瞒真相。评估报告的程序瑕疵不能免除被告人的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对评估报告的证据效力已充分发表意见，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：101团二连公有房拆迁评估测绘分布草图及评估报告（附相关部门审核确认文件），证实正阳房地产测绘评估公司对101团二连的公有房屋进行了测绘评估，在绘制的分布图上标明了老锅炉房及私房位置，且测绘草图及评估报告已经过相关部门审核确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证据仅能证明正阳公司对公有房屋进行了测绘评估，但无法证明被告人在评估过程中存在故意欺骗行为。评估报告经过相关部门审核确认，恰恰说明评估错误的责任不应由被告人承担，而应由评估机构和审核部门负责。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证据明确显示老锅炉房已被标注为公房，且经过相关部门审核确认，被告人作为华亿公司总经理明知这一事实却未在后续评估中提出异议，其主观故意明显。评估机构和审核部门的责任不能免除被告人的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已充分表达，法庭已清楚记录在案。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：101团二连征收补偿报告（附第三方审计报告），证实101团二连公有房屋的总面积为7286.49平方米，估价总价值为1238万元，且数据已经过第三方审计",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：委托方天新房地产公司委托乌鲁木齐志远房地产公司（附资质证明）对吴某位于五家渠市101团二连房地产征收补偿价值评估报告，证实委估对象房地产位于五家渠市101团二连，属吴某所有，且评估机构具有相应资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该评估报告仅能证明评估机构具有资质，但无法证明评估过程中被告人有故意欺骗行为。评估报告将老锅炉房错误计入私房面积，恰恰说明评估机构未尽到核实产权归属的责任，而非被告人存在欺骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该评估报告明确将老锅炉房错误计入私房面积，被告人作为华亿公司总经理明知这一错误却未提出异议，其主观故意明显。评估机构的资质不能免除被告人故意隐瞒真相的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已充分表达，法庭已清楚记录在案。公诉人请继续出示下一条证据。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：天新房地产公司保障性住房建设项目付款签证、协议搬迁补偿书（附公证文件），证实2012年7月18日，天新房地产与吴某签订搬迁补偿协议，吴某选择青湖·铭城作为产权置换，且协议已经过公证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：结婚证、项目付款审批表、报告、职工伤残证、搬迁补偿补充协议书、收条，证实吴某与展某是夫妻关系",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：锅炉房维修费用清单（附财务审计报告），证实以锅炉房维修费的名义应向展某支付39910元，且维修费用清单已经过财务审计",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该维修费用清单仅能证明存在维修费用支出，但无法证明该费用系被告人主动提出或存在欺骗行为。根据被告人供述，该维修费是青投公司唐某要求评估公司添加的，并非被告人主动要求，因此该证据与指控的诈骗行为缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该维修费用清单虽由青投公司提出，但被告人作为华亿公司总经理明知老锅炉房属于公房且已赔付的事实，在明知维修费用包含公房部分的情况下仍接受该款项，其行为已构成非法占有。财务审计报告证实该款项已实际支付给被告人，与诈骗行为具有直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对维修费用清单的证据效力已充分发表意见，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：师市办阅（2011）14号《关于青格达生态区投资开发公司承建五家渠市101团保障性住房建设项目专题会议纪要》（附发布备案文件），证实2011年师市决定在101团4号地即101团二连建设保障性住房，且会议纪要已经正式发布并备案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.证人证言：证人吴某说：“2004年，我承包了101团水电公司位于101团二连的温室大棚1200平方米及锅炉房等附属设施。2005年展某在锅炉房边上盖了几间房，作为员工宿舍、库房。测量时展某不在场。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人唐某说：“五家渠4号地的征收范围包括101团二连的公房、私房及其附属物的征收。阳光展叶大棚的承包人是吴某，4号地围绕锅炉房建造的那几处私房的被赔偿主体是吴某。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人冯某说：“青投公司在开发4号地时，祥和测绘公司参与测量了最后一户。唐某让我去测量锅炉房，我派朱某去测量，朱某测量完将测绘结果给我，我出具了正式评估报告，被补偿方是展某。”（附相关部门审核确认文件）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明评估公司参与了测量工作，但无法证明被告人在测量过程中存在故意欺骗行为。评估公司将老锅炉房错误计入私房面积，恰恰说明评估机构未尽到核实产权归属的责任，而非被告人存在欺骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言明确显示评估公司将老锅炉房错误计入私房面积，被告人作为华亿公司总经理明知这一错误却未提出异议，其主观故意明显。评估机构未尽核实责任不能免除被告人故意隐瞒真相的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人朱某说：“2012年5、6月，冯某安排我到青投公司在101团二连4号地的办公地点测量房子。青投公司的工作人员说户主是展某。我测量了四间平房（含一个锅炉房），面积为180余平方米。”（附第三方监督记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明测量人员根据青投公司工作人员指示进行测量，但无法证明被告人有故意欺骗行为。测量人员未核实房屋产权归属即进行测量，责任在于评估机构而非被告人。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言明确显示测量人员在青投公司工作人员指示下将老锅炉房错误计入私房面积，被告人作为华亿公司总经理明知这一错误却未提出异议，其主观故意明显。测量人员未核实产权归属的责任不能免除被告人故意隐瞒真相的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人赵某甲说：“2011年101团二连房屋拆迁成立了工作小组，连队、华亿公司、团财务科财、劳资科等一些部门的人员参加，拆迁工作由王某甲、王某乙负责。”（附工作小组成立正式文件）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人胥某说：“水电公司在温室大棚里建了两个锅炉房，老锅炉房是一间砖混的大房子，新锅炉房是一套二的砖混房子。水电公司改制后将智能温室大棚和锅炉房作为固定资产一并移交给101团。”（附法庭质证记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人张某甲说：“对4号地的征收，101团国资公司的展某参与了公有房屋的确认工作。”（附法庭质证记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人参与了公有房屋确认工作，但无法证明被告人在评估过程中存在故意欺骗行为。参与确认工作与后续评估错误无直接因果关系，该证据与指控的诈骗行为缺乏直接关联性。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言明确显示被告人参与了公有房屋确认工作，其作为华亿公司总经理对老锅炉房属于公房的事实具有明确认知，却在后续评估过程中未提出异议，其主观故意明显。参与确认工作与评估错误具有直接关联性，证明被告人对公房情况完全知情却故意隐瞒。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据16的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人薄某说：“4号地的公房测绘是由我公司负责的，测绘时有杨某、唐某、张某丙在场，展某也去过几次现场。展某提出接着锅炉房东墙的一间砖混结构的房子是他盖的。”（附第三方监督记录）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明被告人对自建房屋进行了说明，但无法证明被告人对老锅炉房的产权归属存在欺骗行为。评估机构未核实产权即进行测绘，责任在于评估机构而非被告人。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言明确显示被告人参与了公房测绘工作，并对自建房屋进行了说明，其作为华亿公司总经理对老锅炉房属于公房的事实具有明确认知，却在后续评估过程中未提出异议，其主观故意明显。评估机构未尽核实责任不能免除被告人故意隐瞒真相的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据17的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人廖某说：“在公房测绘过程中，锅炉房南侧紧挨着有一间房子，有一个穿黑西装的男子说这间房子是他私有的，在锅炉房东侧挨着还有两间私房，当时也测绘了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明有人声称锅炉房南侧房屋为私有，但无法证明该\"穿黑西装的男子\"就是被告人，且与老锅炉房的产权归属无直接关联，不能证明被告人存在欺骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言虽未明确指认\"穿黑西装的男子\"为被告人，但结合其他证据可以证实被告人在测量现场，且作为华亿公司总经理对老锅炉房属于公房的事实具有明确认知。被告人在明知老锅炉房属于公房的情况下未提出异议，其主观故意明显。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据18的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人杨某说：“二连办公室东边三四十米远有一锅炉房，是101团水电公司建的。展某到办公室提出阳光展叶大棚供暖的锅炉房他曾经维修过，并加盖了一些房屋。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人刘某说：“水电公司为大棚盖了两个锅炉房，除了展某盖的民工住房，其余都是公房。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人赵某乙说：“老锅炉房东面的几间平房不是公房。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅涉及老锅炉房东面几间平房的产权归属，与本案争议的老锅炉房本身产权无关，不能证明被告人对老锅炉房存在欺骗行为。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言虽仅涉及老锅炉房东面几间平房的产权归属，但结合其他证据可以证实被告人对老锅炉房属于公房的事实具有明确认知。被告人在明知老锅炉房属于公房的情况下未提出异议，其主观故意明显。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据21的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人张某乙说：“2012年5、6月份，唐某告诉我冯某的测绘公司有人去4号地锅炉房测绘。我陪朱某去测绘现场，唐某说锅炉房是阳光展叶的配套设施是展某的。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证言仅能证明青投公司工作人员唐某向测量人员提供了错误信息，但无法证明被告人对该错误信息知情或参与其中。测量人员未核实产权归属即进行测量，责任在于评估机构和青投公司工作人员，而非被告人。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "该证言明确显示青投公司工作人员向测量人员提供了错误信息，被告人作为华亿公司总经理明知老锅炉房属于公房的事实，却在测量和评估过程中未提出异议，其主观故意明显。青投公司工作人员的错误信息不能免除被告人故意隐瞒真相的法律责任。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方对证据22的争议焦点已充分表达，法庭已清楚记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人毛某说：“华亿公司是101团的国有公司，展某是总经理，负责经营管理。华亿公司参与了青湖铭城项目以及水泵厂公房的拆迁工作。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人张某丁说：“华亿公司是2009年成立的，我任公司资产部的部长。华亿公司总经理的职责是对101团国有资产进行监督管理。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.证人证言：证人王某甲说：“101团二连拆迁是由张某甲找了他一个姓王某丙的朋友联系的测绘公司进行测绘的。”（附测绘公司资质证明）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人现就本案发表如下公诉意见：\n\n一、关于犯罪事实的认定。根据被告人供述及证人证言，被告人展某作为华亿公司总经理，明知老锅炉房属于公房且已赔付的事实，却在评估测量过程中未主动说明情况，在签订补偿协议时也未提出异议，其行为已构成故意隐瞒真相。根据《中华人民共和国刑法》第二百六十六条，以非法占有为目的，用虚构事实或者隐瞒真相的方法，骗取数额较大的公私财物的行为构成诈骗罪。\n\n二、关于主观故意的认定。被告人虽辩称无非法占有故意，但其作为国有资产管理人员，明知评估错误仍签订协议并领取补偿款，且在被刑事拘留后仍未退还，其主观故意明显。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，行为人明知自己的行为会导致他人财产损失而希望或放任这种结果发生的，应当认定为具有非法占有的目的。\n\n三、关于犯罪数额的认定。被告人通过隐瞒老锅炉房产权归属的方式，骗取补偿款120729元，数额巨大。根据《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》第一条，诈骗公私财物价值三万元至十万元以上的，应当认定为刑法第二百六十六条规定的\"数额巨大\"。\n\n四、关于量刑建议。鉴于被告人犯罪未遂，根据《中华人民共和国刑法》第二十三条，可以比照既遂犯从轻处罚。建议判处被告人展某有期徒刑三年，缓刑四年，并处罚金人民币五万元。\n\n综上，被告人展某的行为已构成诈骗罪，请法庭依法判处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于犯罪构成的认定。根据《刑法》第二百六十六条，诈骗罪需具备非法占有的主观故意和虚构事实、隐瞒真相的客观行为。本案中，评估机构未履行核实义务，被告人未主动提供虚假信息，不符合诈骗罪的构成要件。评估错误的责任应归于评估机构，而非被告人。\n\n二、关于主观故意的认定。被告人在侦查阶段明确表示\"无非法占有目的\"，且评估过程中未被询问产权情况，签订协议时未获完整产权文件，这些事实表明被告人缺乏诈骗的主观故意。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，不能仅凭结果推定主观故意。\n\n三、关于犯罪形态的认定。即使认定构成犯罪，也应考虑被告人在评估过程中未主动参与误导，评估报告经正规程序确认，犯罪情节显著轻微。根据《刑法》第十三条，情节显著轻微危害不大的，不认为是犯罪。\n\n四、关于量刑情节。被告人在庭审中如实供述，认罪态度良好。根据《刑法》第六十七条第三款，可以从轻处罚。且本案系评估机构工作失误引发，被告人主观恶性较小，建议从宽处理。\n\n综上，请求法庭充分考虑评估机构的过错责任及被告人缺乏主观故意的事实，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于犯罪构成的认定。被告人作为华亿公司总经理，明知老锅炉房属于公房且已赔付的事实，却在评估测量过程中未主动说明情况，在签订补偿协议时也未提出异议，其行为已构成刑法意义上的\"隐瞒真相\"。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第二条，行为人明知是他人财物而采取欺骗手段非法占有的，应当认定为诈骗罪。\n\n二、关于主观故意的认定。被告人虽辩称无非法占有故意，但其在明知评估错误的情况下仍签订协议并领取补偿款，且在被刑事拘留后仍未退还，这一系列行为足以证明其具有非法占有的主观故意。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，行为人明知自己的行为会导致他人财产损失而希望或放任这种结果发生的，应当认定为具有非法占有的目的。\n\n三、关于评估机构责任问题。评估机构的程序瑕疵不能免除被告人的法律责任。被告人作为国有资产管理人员，对公房情况具有明确认知，其未履行如实告知义务的行为与评估错误具有直接因果关系。根据《中华人民共和国刑法》第十四条，明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，因而构成犯罪的，是故意犯罪。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于隐瞒真相的认定。公诉人指控被告人构成\"隐瞒真相\"，但根据《刑法》规定，隐瞒真相需以积极作为方式实施。本案中评估机构未履行核实义务，被告人作为被动接受方，不存在刑法意义上的欺骗行为。根据《最高人民法院关于审理诈骗案件具体应用法律若干问题的解释》第二条，不能将消极不作为等同于诈骗行为。\n\n二、关于主观故意的认定。公诉人以被告人未退还补偿款推定其具有非法占有目的，但根据《刑事诉讼法》第五十三条，定罪需排除合理怀疑。被告人在评估过程中未被询问产权情况，签订协议时未获完整产权文件，这些事实均表明其缺乏诈骗的主观故意。\n\n三、关于因果关系问题。评估报告经过青投公司、评估公司等多方确认，错误结果系多环节共同造成，不能将责任全部归咎于被告人。根据《刑法》因果关系理论，被告人的行为与损害结果之间缺乏直接、必然的因果关系。\n\n四、关于量刑情节补充。被告人系初犯，无前科劣迹，且涉案金额相对较小，社会危害性较低。根据《最高人民法院关于常见犯罪的量刑指导意见》，应当从宽处罚。建议法庭充分考虑这些从轻情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于隐瞒真相的认定。根据《刑法》第二百六十六条，诈骗罪的\"隐瞒真相\"既包括积极作为也包括消极不作为。被告人作为国有资产管理人员，明知老锅炉房属于公房且已赔付的事实，却在评估、签约过程中未履行如实告知义务，这种消极不作为同样构成刑法意义上的欺骗行为。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第二条，行为人明知是他人财物而采取欺骗手段非法占有的，应当认定为诈骗罪。\n\n二、关于主观故意的认定。被告人作为华亿公司总经理，长期参与公房确认工作，对老锅炉房产权归属具有明确认知。其在明知评估错误的情况下仍签订协议并领取补偿款，这一系列行为足以证明其具有非法占有的主观故意。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，行为人明知自己的行为会导致他人财产损失而希望或放任这种结果发生的，应当认定为具有非法占有的目的。\n\n三、关于因果关系问题。评估机构的程序瑕疵不能切断被告人不作为与损害结果之间的因果关系。被告人作为知情者，其未履行告知义务的行为直接导致了评估错误的持续和补偿款的错误发放。根据《刑法》因果关系理论，被告人的不作为与损害结果之间存在直接、必然的因果关系。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于不作为与诈骗行为的界限。根据《刑法》理论，不作为构成犯罪必须以行为人具有特定的作为义务为前提。本案中，评估机构作为专业机构负有核实产权的主要义务，被告人作为被评估方并无主动告知的法定义务。公诉人将评估机构的失职责任转嫁给被告人，违背了责任自负原则。\n\n二、关于主观故意的证明标准。根据《刑事诉讼法》第五十五条，认定被告人有罪必须达到\"证据确实、充分\"的标准。现有证据仅能证明被告人知晓老锅炉房产权情况，但无法证明其具有非法占有的主观目的。公诉人仅凭结果推定故意，不符合刑事证明规则。\n\n三、关于犯罪形态的补充意见。即使认定被告人有责，也应考虑评估报告经过多级审核确认，错误结果系多环节共同造成。根据《刑法》共同犯罪理论，不能将全部责任归责于被告人一方。建议法庭充分考虑各方的过错程度。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人主观故意和客观行为已充分发表意见，接下来的辩论请围绕被告人作为华亿公司总经理在评估过程中是否具有主动核实评估范围的职责义务进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于职责义务的认定。根据《企业国有资产法》第十二条，国家出资企业管理者应当忠实维护企业国有资产权益。被告人作为华亿公司总经理，对国有资产负有监督管理职责，在评估过程中明知老锅炉房属于公房却未履行核实义务，违反了其作为国有资产管理者的法定职责。\n\n二、关于不作为的违法性。根据《刑法》第十四条，明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生，因而构成犯罪的，是故意犯罪。被告人作为专业管理人员，对评估范围错误具有明确认知却未予纠正，其不作为具有明显的违法性。\n\n三、关于责任主体的认定。评估机构的程序瑕疵不能免除被告人的法律责任。被告人作为国有资产直接管理者，对公房情况具有专业认知优势，其未履行核实义务的行为直接导致了评估错误的持续。根据《刑法》因果关系理论，被告人的不作为与损害结果之间存在直接因果关系。\n\n四、关于主观故意的补充。被告人长期参与公房确认工作，对评估范围错误具有明确认知，却在多个环节未予纠正，其主观故意明显。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第一条，这种明知会导致他人财产损失而放任结果发生的情形，应当认定为具有非法占有的目的。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于职责义务的认定。根据《企业国有资产监督管理暂行条例》第十三条，国有资产管理者主要职责是对企业重大事项进行决策和监督，而非对具体评估行为进行核实。被告人作为华亿公司总经理，其职责范围不包含对评估机构具体测量行为的监督，公诉人扩大解释了被告人的职责范围。\n\n二、关于不作为的违法性。评估机构作为专业机构，根据《房地产估价规范》负有核实产权的主要义务。被告人在未被询问产权情况、未获完整产权文件的情况下，不存在刑法意义上的不作为违法性。根据《刑法》罪刑法定原则，不能将道德义务等同于法律义务。\n\n三、关于责任主体的认定。评估报告经过青投公司、评估公司等多方专业机构确认，错误结果系多环节共同造成。根据《侵权责任法》第十二条，二人以上分别实施侵权行为造成同一损害，能够确定责任大小的，各自承担相应的责任。不能将评估机构的专业失职责任转嫁给被告人。\n\n四、关于主观故意的补充。被告人虽知晓老锅炉房产权情况，但评估过程中未被询问、未获完整文件，其未主动说明情况属于正常认知局限，不能据此推定具有非法占有故意。根据《刑事诉讼法》第五十五条，认定被告人有罪必须排除合理怀疑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人职责义务已充分发表意见，接下来的辩论请围绕被告人在评估过程中是否曾向评估机构或相关部门提出过老锅炉房产权归属的异议进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据法庭调查阶段被告人供述及证人证言，被告人作为华亿公司总经理，明知老锅炉房属于公房且已赔付的事实，却在评估测量过程中未主动向评估机构或相关部门提出异议。根据《刑法》第十四条，这种明知评估错误却放任结果发生的行为，已构成刑法意义上的故意犯罪。被告人在签订补偿协议时明知包含老锅炉房补偿款却未提出异议，在被刑事拘留后仍未退还补偿款，这一系列行为充分证明其具有非法占有的主观故意。评估机构的程序瑕疵不能免除被告人作为国有资产管理者的法律责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于异议提出的义务归属。根据《房地产估价规范》，评估机构作为专业机构负有核实产权的主要义务。被告人在未被明确询问产权情况、未获完整产权文件的情况下，不存在法定的主动提出异议义务。公诉人将专业机构的核实责任转嫁给被评估方，违背了专业分工原则。\n\n二、关于不作为的法律评价。刑法上的不作为犯罪需以行为人具有特定作为义务为前提。本案中评估机构未履行核实职责，被告人作为被评估方无法律上的作为义务，其未主动提出异议不构成刑法意义上的欺骗行为。根据《刑法》罪刑法定原则，不能将道德义务等同于法律义务。\n\n三、关于主观故意的认定。被告人虽知晓老锅炉房产权情况，但评估过程中评估机构未履行核实程序，被告人未获知评估范围包括老锅炉房，其未提出异议不能推定具有非法占有故意。根据《刑事诉讼法》证明标准，公诉人指控的主观故意缺乏充分证据支持。\n\n四、关于因果关系的补充。评估错误系评估机构未核实、青投公司错误指引等多环节共同造成，不能将责任全部归责于被告人未提出异议这一单一因素。根据《刑法》因果关系理论，被告人的行为与损害结果之间缺乏直接、必然的因果关系。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人在评估过程中是否曾提出异议已充分发表意见，接下来的辩论请围绕被告人在2012年7月18日签订《协议搬迁补偿书》时，是否明知该协议中包含了老锅炉房的补偿款进行展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据法庭调查阶段被告人供述，被告人在2012年7月18日签订《协议搬迁补偿书》时明确知晓协议内容并参与了部分协商过程。作为华亿公司总经理，被告人明知老锅炉房属于公房且已赔付的事实，却在协议签订时未对包含老锅炉房补偿款提出异议。根据《刑法》第十四条，这种明知协议内容错误却放任结果发生的行为，已构成刑法意义上的故意犯罪。被告人在明知评估错误的情况下仍签订协议并领取补偿款，其主观故意明显。评估报告的程序瑕疵不能免除被告人作为知情者的法律责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于协议内容的认知程度。根据法庭调查，被告人在签订协议时虽知晓包含老锅炉房补偿款，但评估机构未提供完整产权文件，被告人无法确认评估范围是否合法包含该部分。根据《合同法》第五十四条，重大误解订立的合同可撤销，不能简单将合同签订等同于诈骗故意。\n\n二、关于主观故意的认定。公诉人以被告人知晓协议内容推定其具有非法占有目的，但根据《刑事诉讼法》第五十三条，定罪需排除合理怀疑。被告人基于对评估报告合法性的合理信赖签订协议，不能证明其具有诈骗的主观故意。\n\n三、关于作为义务的界限。评估机构作为专业机构未履行核实义务，青投公司作为委托方未提供完整产权资料，被告人作为被补偿方无法律义务主动核实评估范围。根据《刑法》罪刑法定原则，不能将合同相对方的合理信赖认定为刑事犯罪。\n\n四、关于因果关系的补充。协议错误系评估机构、青投公司等多方专业主体共同造成，不能将责任全部归责于被告人。根据《侵权责任法》第十二条，应当根据各方过错程度分担责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长，我对自己的行为表示深刻反省。作为华亿公司总经理，我本应更加谨慎地对待评估和补偿事宜。虽然我没有主动提供虚假信息，但我确实在明知老锅炉房属于公房的情况下，没有及时向评估机构和相关部门说明情况。我愿意退还多领取的补偿款，并接受法律的惩处。请求法庭考虑我的一贯表现和认罪态度，给予从轻处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "新疆生产建设兵团五家渠垦区人民法院\n刑事判决书\n（2016）五垦刑初字第112号\n\n公诉机关新疆生产建设兵团五家渠垦区人民检察院。\n被告人展某，男，汉族，XXX年X月X日出生，户籍XXXXX，文化程度XXX，原任新疆生产建设兵团101团华亿公司总经理（正科级）。因涉嫌犯诈骗罪，于2015年9月29日被刑事拘留，同年10月2日延长拘留期限至10月29日，同年11月5日被释放并变更强制措施为监视居住；2016年3月29日因涉嫌犯国有公司人员滥用职权罪、诈骗罪被刑事拘留，同年4月7日被批准逮捕。\n辩护人XXX（写明姓名、性别、工作单位和职务）。\n\n新疆生产建设兵团五家渠垦区人民检察院于2016年12月26日以被告人展某犯诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。新疆生产建设兵团五家渠垦区人民检察院检察员XXX出庭支持公诉，被告人展某及其辩护人XXX等到庭参加诉讼。本案现已审理终结。\n\n新疆生产建设兵团五家渠垦区人民检察院指控：2012年6月，被告人展某作为101团华亿公司总经理，在明知老锅炉房属于公房且已赔付的情况下，仍通过隐瞒真相的方式，使测量人员误将老锅炉房计入其私房面积，骗取补偿款120729元。其行为已构成诈骗罪，建议判处有期徒刑三年，缓刑四年，并处罚金人民币五万元。\n\n经审理查明：2011年9月，101团成立4号地征收小组，被告人展某作为华亿公司总经理参与公房征收工作。2012年6月，在测量评估过程中，展某明知老锅炉房属于公房且已赔付，未主动说明情况，致使评估机构将老锅炉房计入其私房面积，评估价值120729元。同年7月18日，展某妻子吴某与天新房地产公司签订《协议搬迁补偿书》，获取两套楼房置换及补偿金92718元。案发后，展某未退还补偿款。\n\n上述事实，有经庭审质证、确认的下列证据证实：\n1. 被告人在侦查阶段的供述；\n2. 评估报告、测绘草图、搬迁补偿协议等书证；\n3. 证人吴某、唐某、冯某、朱某等人的证言；\n4. 维修费用清单及财务审计报告；\n5. 工作小组成立文件等相关书证。\n\n本院认为，被告人展某作为国有公司管理人员，明知老锅炉房属于公房且已赔付，在评估测量过程中未主动说明情况，致使评估机构错误计算补偿款，其行为已构成诈骗罪。公诉机关指控的罪名成立。鉴于被告人展某犯罪未遂，可依法从轻处罚。辩护人关于评估机构存在过错、被告人无诈骗故意的辩护意见，与查明事实不符，不予采纳。\n\n依照《中华人民共和国刑法》第二百六十六条、第二十三条、第七十二条、第七十三条、第六十四条之规定，判决如下：\n\n一、被告人展某犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币五万元；\n二、被告人展某退赔违法所得人民币十二万零七百二十九元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向新疆生产建设兵团第六师中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长XXX\n2016年XX月XX日\n书记员XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人辩称未主动虚构事实或隐瞒真相，测量时不在场，无非法占有目的\n- 辩护人指出该证据证明被告人缺乏诈骗罪的主观故意\n\n2. 公诉人出示评估报告等书证：\n- 证实评估机构具有资质但存在程序瑕疵\n- 辩护人认为评估错误责任在评估机构而非被告人\n\n3. 公诉人出示测绘草图及评估报告：\n- 证实老锅炉房被标注为公房且经过审核\n- 辩护人认为该证据不能证明被告人存在欺骗行为\n\n4. 公诉人出示维修费用清单：\n- 证实存在39910元维修费用支出\n- 辩护人指出该费用系青投公司提出，与被告人无关\n\n5. 公诉人出示证人证言：\n- 多名证人证实被告人参与公房确认工作，明知老锅炉房属于公房\n- 辩护人认为证人证言不能证明被告人存在欺骗行为\n- 重点证人证言包括：\n   - 朱某证言：测量时将老锅炉房计入私房面积\n   - 张某乙证言：唐某告知测量人员锅炉房属于展某\n   - 张某甲证言：被告人参与公有房屋确认工作\n\n6. 控辩双方争议焦点：\n- 公诉人认为被告人明知评估错误仍领取补偿款，具有非法占有故意\n- 辩护人认为评估错误责任在评估机构，被告人无欺骗行为",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人辩称未主动虚构事实或隐瞒真相，测量时不在场，无非法占有目的\n- 辩护人指出该证据证明被告人缺乏诈骗罪的主观故意\n\n2. 公诉人出示评估报告等书证：\n- 证实评估机构具有资质但存在程序瑕疵\n- 辩护人认为评估错误责任在评估机构而非被告人\n\n3. 公诉人出示测绘草图及评估报告：\n- 证实老锅炉房被标注为公房且经过审核\n- 辩护人认为该证据不能证明被告人存在欺骗行为\n\n4. 公诉人出示维修费用清单：\n- 证实存在39910元维修费用支出\n- 辩护人指出该费用系青投公司提出，与被告人无关\n\n5. 公诉人出示证人证言：\n- 多名证人证实被告人参与公房确认工作，明知老锅炉房属于公房\n- 辩护人认为证人证言不能证明被告人存在欺骗行为\n- 重点证人证言包括：\n   - 朱某证言：测量时将老锅炉房计入私房面积\n   - 张某乙证言：唐某告知测量人员锅炉房属于展某\n   - 张某甲证言：被告人参与公有房屋确认工作\n\n6. 控辩双方争议焦点：\n- 公诉人认为被告人明知评估错误仍领取补偿款，具有非法占有故意\n- 辩护人认为评估错误责任在评估机构，被告人无欺骗行为",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人辩称未主动虚构事实或隐瞒真相，测量时不在场，无非法占有目的\n- 辩护人指出该证据证明被告人缺乏诈骗罪的主观故意\n\n2. 公诉人出示评估报告等书证：\n- 证实评估机构具有资质但存在程序瑕疵\n- 辩护人认为评估错误责任在评估机构而非被告人\n\n3. 公诉人出示测绘草图及评估报告：\n- 证实老锅炉房被标注为公房且经过审核\n- 辩护人认为该证据不能证明被告人存在欺骗行为\n\n4. 公诉人出示维修费用清单：\n- 证实存在39910元维修费用支出\n- 辩护人指出该费用系青投公司提出，与被告人无关\n\n5. 公诉人出示证人证言：\n- 多名证人证实被告人参与公房确认工作，明知老锅炉房属于公房\n- 辩护人认为证人证言不能证明被告人存在欺骗行为\n- 重点证人证言包括：\n   - 朱某证言：测量时将老锅炉房计入私房面积\n   - 张某乙证言：唐某告知测量人员锅炉房属于展某\n   - 张某甲证言：被告人参与公有房屋确认工作\n\n6. 控辩双方争议焦点：\n- 公诉人认为被告人明知评估错误仍领取补偿款，具有非法占有故意\n- 辩护人认为评估错误责任在评估机构，被告人无欺骗行为",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人辩称未主动虚构事实或隐瞒真相，测量时不在场，无非法占有目的\n- 辩护人指出该证据证明被告人缺乏诈骗罪的主观故意\n\n2. 公诉人出示评估报告等书证：\n- 证实评估机构具有资质但存在程序瑕疵\n- 辩护人认为评估错误责任在评估机构而非被告人\n\n3. 公诉人出示测绘草图及评估报告：\n- 证实老锅炉房被标注为公房且经过审核\n- 辩护人认为该证据不能证明被告人存在欺骗行为\n\n4. 公诉人出示维修费用清单：\n- 证实存在39910元维修费用支出\n- 辩护人指出该费用系青投公司提出，与被告人无关\n\n5. 公诉人出示证人证言：\n- 多名证人证实被告人参与公房确认工作，明知老锅炉房属于公房\n- 辩护人认为证人证言不能证明被告人存在欺骗行为\n- 重点证人证言包括：\n   - 朱某证言：测量时将老锅炉房计入私房面积\n   - 张某乙证言：唐某告知测量人员锅炉房属于展某\n   - 张某甲证言：被告人参与公有房屋确认工作\n\n6. 控辩双方争议焦点：\n- 公诉人认为被告人明知评估错误仍领取补偿款，具有非法占有故意\n- 辩护人认为评估错误责任在评估机构，被告人无欺骗行为\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 认为被告人作为华亿公司总经理，明知老锅炉房属公房且已赔付，却在评估测量过程中未主动说明情况，构成故意隐瞒真相，符合诈骗罪构成要件。\n- 指出被告人在明知评估错误情况下仍签订协议并领取补偿款，且在被刑事拘留后仍未退还，证明其具有非法占有主观故意。\n- 强调评估机构程序瑕疵不能免除被告人责任，其不作为与损害结果存在直接因果关系。\n- 建议判处有期徒刑三年，缓刑四年，并处罚金五万元。\n\n2. 辩护人辩护要点：\n- 主张评估机构未履行核实义务，被告人未主动提供虚假信息，不符合诈骗罪构成要件。\n- 认为被告人缺乏诈骗主观故意，评估过程中未被询问产权情况，签订协议时未获完整产权文件。\n- 指出即使构成犯罪，也因评估报告经正规程序确认，犯罪情节显著轻微。\n- 强调被告人系初犯，认罪态度良好，建议从宽处理。\n\n3. 争议焦点：\n- 围绕被告人作为华亿公司总经理是否具有主动核实评估范围的职责义务展开辩论。\n- 针对被告人在评估过程中是否曾向评估机构或相关部门提出过老锅炉房产权归属异议进行辩论。\n- 就被告人在签订《协议搬迁补偿书》时是否明知包含老锅炉房补偿款展开辩论。\n\n4. 核心分歧：\n- 公诉人认为被告人的不作为构成刑法意义上的欺骗行为，辩护人主张被告人无主动告知的法定义务。\n- 公诉人以结果推定被告人具有非法占有目的，辩护人认为缺乏充分证据支持主观故意。\n- 公诉人强调被告人责任不可免除，辩护人主张错误系多环节共同造成，应分担责任。",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问：\n- 被告人确认其妻子吴某在测量时在场且未指出老锅炉房属于公房\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人在明知评估错误的情况下仍签订补偿协议并领取补偿款\n- 被告人未向领导汇报评估错误情况\n- 被告人在被刑事拘留后仍未退还补偿款\n- 被告人参与了补偿协议的协商过程并知晓协议内容\n\n2. 辩护人讯问：\n- 被告人表示评估过程中未被明确询问老锅炉房产权的归属\n- 签订协议时未收到完整的产权证明文件和补偿清单\n- 评估公司未告知测量范围包括老锅炉房\n\n3. 审判长讯问：\n- 被告人确认未主动说明老锅炉房属于公房\n- 被告人知道协议中包含老锅炉房补偿款\n- 被告人未提供过老锅炉房的产权证明文件\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人承认明知老锅炉房属于公房且已赔付的事实\n- 被告人辩称未主动虚构事实或隐瞒真相，测量时不在场，无非法占有目的\n- 辩护人指出该证据证明被告人缺乏诈骗罪的主观故意\n\n2. 公诉人出示评估报告等书证：\n- 证实评估机构具有资质但存在程序瑕疵\n- 辩护人认为评估错误责任在评估机构而非被告人\n\n3. 公诉人出示测绘草图及评估报告：\n- 证实老锅炉房被标注为公房且经过审核\n- 辩护人认为该证据不能证明被告人存在欺骗行为\n\n4. 公诉人出示维修费用清单：\n- 证实存在39910元维修费用支出\n- 辩护人指出该费用系青投公司提出，与被告人无关\n\n5. 公诉人出示证人证言：\n- 多名证人证实被告人参与公房确认工作，明知老锅炉房属于公房\n- 辩护人认为证人证言不能证明被告人存在欺骗行为\n- 重点证人证言包括：\n   - 朱某证言：测量时将老锅炉房计入私房面积\n   - 张某乙证言：唐某告知测量人员锅炉房属于展某\n   - 张某甲证言：被告人参与公有房屋确认工作\n\n6. 控辩双方争议焦点：\n- 公诉人认为被告人明知评估错误仍领取补偿款，具有非法占有故意\n- 辩护人认为评估错误责任在评估机构，被告人无欺骗行为\n\n法庭辩论阶段总结：\n\n1. 公诉人指控要点：\n- 认为被告人作为华亿公司总经理，明知老锅炉房属公房且已赔付，却在评估测量过程中未主动说明情况，构成故意隐瞒真相，符合诈骗罪构成要件。\n- 指出被告人在明知评估错误情况下仍签订协议并领取补偿款，且在被刑事拘留后仍未退还，证明其具有非法占有主观故意。\n- 强调评估机构程序瑕疵不能免除被告人责任，其不作为与损害结果存在直接因果关系。\n- 建议判处有期徒刑三年，缓刑四年，并处罚金五万元。\n\n2. 辩护人辩护要点：\n- 主张评估机构未履行核实义务，被告人未主动提供虚假信息，不符合诈骗罪构成要件。\n- 认为被告人缺乏诈骗主观故意，评估过程中未被询问产权情况，签订协议时未获完整产权文件。\n- 指出即使构成犯罪，也因评估报告经正规程序确认，犯罪情节显著轻微。\n- 强调被告人系初犯，认罪态度良好，建议从宽处理。\n\n3. 争议焦点：\n- 围绕被告人作为华亿公司总经理是否具有主动核实评估范围的职责义务展开辩论。\n- 针对被告人在评估过程中是否曾向评估机构或相关部门提出过老锅炉房产权归属异议进行辩论。\n- 就被告人在签订《协议搬迁补偿书》时是否明知包含老锅炉房补偿款展开辩论。\n\n4. 核心分歧：\n- 公诉人认为被告人的不作为构成刑法意义上的欺骗行为，辩护人主张被告人无主动告知的法定义务。\n- 公诉人以结果推定被告人具有非法占有目的，辩护人认为缺乏充分证据支持主观故意。\n- 公诉人强调被告人责任不可免除，辩护人主张错误系多环节共同造成，应分担责任。",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 36.0,
+    "fine": 50000.0,
+    "reprieve": 48.0
+  }
+]

@@ -1,0 +1,1743 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人成某，性别男，汉族，户籍XXX，文化程度XXX。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "临汾市尧都区人民检察院  \n起 诉 书  \n\n尧检刑检刑诉〔2018〕157号  \n\n被告人成某，男，汉族，户籍XXX，文化程度XXX。因涉嫌诈骗罪，于20xx年x月x日被临汾市公安局尧都分局刑事拘留，现羁押于临汾市看守所。  \n\n本案由临汾市公安局尧都分局侦查终结，以被告人成某涉嫌诈骗罪，于2018年5月18日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年9月至2017年12月期间，被告人成某以非法占有为目的，虚构事实，多次骗取他人财物，具体事实如下：  \n1. 2016年9月，以办理B2驾驶本为由骗取董某19200元；  \n2. 2016年12月，以代还信用卡为由骗取段某51000元；  \n3. 2017年1月，以代还信用卡为由骗取郭某甲11000元；  \n4. 2017年2月，以代还信用卡为由骗取张某甲14000元；  \n5. 2017年3月，以代还信用卡为由骗取周某11922元；  \n6. 2017年4月，以代还信用卡为由骗取贾某13851元、韩某38000元；  \n7. 2017年5月，以代还信用卡为由骗取孙某17000元；  \n8. 2017年8月，以代还信用卡为由骗取杨某18211元（已退还）；  \n9. 2017年10月，以代还信用卡为由骗取窦某12000元、郭某乙8000元；  \n10. 2017年11月，以代还信用卡为由骗取冯某6000元、何某23520元、杨某22000元、尚某9902元、张某乙118000元、许某28000元；  \n11. 2017年12月，以代还信用卡为由骗取卢某6710元、岳某19001元。  \n\n上述诈骗金额共计361467元，赃款均被用于赌博。案发后，被告人成某退还部分被害人赃款。  \n\n认定上述事实的证据如下：  \n1. 被害人陈述：董某、段某、郭某甲等19名被害人的陈述及辨认笔录；  \n2. 书证：中国光大银行、兴业银行、中信银行、交通银行、建设银行、中国银行的信用卡查询流水及交易明细、业务凭证客户回单、微信转账记录；  \n3. 证人证言：证人张某丙的证言；  \n4. 被告人供述：被告人成某的讯问笔录；  \n5. 其他证据：被告人成某的户籍证明等。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人成某对指控的犯罪事实和证据没有异议，并自愿认罪。  \n\n本院认为，被告人成某以非法占有为目的，虚构事实、隐瞒真相，多次骗取他人财物，数额巨大，其行为触犯了《中华人民共和国刑法》第二百六十六条之规定，犯罪事实清楚，证据确实、充分，应当以诈骗罪追究其刑事责任。被告人成某多次实施诈骗，应酌情从重处罚；鉴于其当庭能如实供述犯罪事实，认罪态度较好，可从轻处罚；能退还部分赃款，可酌情从轻处罚。建议判处被告人成某有期徒刑XX，缓刑XX，并处罚金XX，责令退赔各被害人损失。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n临汾市尧都区人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2018年5月18日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪。我对自己的行为感到非常后悔，愿意接受法律的惩罚。我已经退还了部分赃款，今后会尽力赔偿被害人的全部损失。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你为何要虚构办理B2驾驶本的事实骗取董某19200元？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时赌博欠债，急需用钱，就编造了能办理B2驾照的谎言骗取了董某的钱款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何选择以\"代还信用卡\"作为主要诈骗手段？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为信用卡代还业务比较常见，容易取得被害人信任，而且可以快速套现用于赌博。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你诈骗所得的钱款具体是如何用于赌博的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大部分钱款是通过网上赌博平台输掉的，还有一部分是在地下赌场输掉的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你诈骗所得的钱款中，为何只退还了杨某18211元，而没有退还其他被害人的钱款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时赌博成瘾，资金周转困难，只能选择性地退还了部分被害人的钱款。杨某催得比较紧，我就先还了他的钱。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何在2017年8月选择退还杨某18211元，而没有选择退还其他被害人的钱款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时杨某催得比较紧，而且我手头刚好有部分资金，就先还了他的钱。其他被害人的钱款我确实没有能力全部偿还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你为何在2017年12月最后一次诈骗后停止了犯罪行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时已经欠下太多债务，实在无力继续维持这个骗局，而且被害人们开始联合起来追讨，我害怕事情败露。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你与被害人之间是否存在真实的信用卡代还业务往来？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "之前确实有过真实的信用卡代还业务往来，但后来因为赌博成瘾，就开始虚构事实骗取钱财。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你最初开始实施诈骗行为时，是否已经意识到这是违法犯罪行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最初确实没有意识到这是违法犯罪行为，只是想着临时周转一下资金。后来随着金额越来越大，才明白已经触犯了法律。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向部分被害人承诺过还款计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人承诺过还款计划，但因为赌博成瘾，资金周转困难，最终没能兑现承诺。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向家人或朋友寻求过帮助来偿还被害人的损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向家人寻求过帮助，但因为涉案金额较大，家人也无法全部偿还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有主动向公安机关投案自首的情节？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动投案自首。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人提供过任何形式的借条或书面还款承诺？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提供过借条，但大部分都没有书面凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向家人或朋友寻求过专业帮助来戒除赌瘾？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向家人寻求过帮助戒除赌瘾，但没有寻求过专业机构的帮助。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人说明过你存在赌博问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向被害人说明过赌博问题。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人承诺过利息或其他回报来获取他们的信任？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人承诺过利息回报来获取信任。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你是否有向被害人提供过真实的信用卡代还服务记录或交易凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有向部分被害人提供过真实的信用卡代还服务记录，但后来虚构事实的交易没有提供真实凭证。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你为何在2017年8月选择退还杨某18211元，而没有选择退还其他被害人的钱款？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时杨某催得比较紧，而且我手头刚好有部分资金，就先还了他的钱。其他被害人的钱款我确实没有能力全部偿还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年9月，我在临汾市××区以办理B2驾驶本为由，收取董某19200元，款项用于赌博。  \n2016年12月7日，在尧都区木材巷，我让段某代还兴业银行信用卡42000元、中国银行信用卡27000元，后通过POS机刷出16000元并转出用于赌博，谎称信用卡被锁。归还段某2000元。  \n2017年1月15日，在尧都区某小区，我让郭某甲代还光大银行信用卡23000元，转出后谎称卡被锁。归还郭某甲12000元。  \n2017年2月14日，在尧都区某镇张某甲的饭店，我让张某甲代还中信银行信用卡20600元，通过POS机刷出2600元并转出用于赌博，谎称卡被锁。归还张某甲4000元。  \n2017年3月31日，在尧都区某地，我让周某代还交通银行信用卡35000元，通过POS机刷出14078元并转出用于赌博，谎称银行系统升级。归还周某9000元。  \n2017年4月1日，在尧都区某村，我让贾某代还光大银行信用卡28600元，通过POS机刷出14249元并转出用于赌博，谎称密码使用频繁。归还贾某500元。  \n2017年4月29日，在尧都区河汾路韩某的汽车租赁公司，我让韩某代还建设银行信用卡40000元并转出，谎称信用卡被锁。归还韩某2000元。  \n2017年5月，在尧都区泽尧商贸城，我让孙某代还中信银行信用卡38000元，通过POS机刷出20000元并转出用于赌博，谎称信用卡被锁。归还孙某1000元。  \n2017年8月30日，在尧都区某村，我让杨某代还兴业银行信用卡35000元，通过POS机刷出26694元并转出用于赌博。次日又让杨某代还光大银行信用卡18500元，转出9905元。归还杨某18211元。  \n2017年10月，在尧都区向阳路，我让窦某代还中信银行信用卡16000元并转出用于赌博，谎称信用卡额度降低。归还窦某4000元。  \n2017年10月1日，在襄汾县某镇郭某乙的装饰商店，我让郭某乙代还光大银行信用卡24500元，通过POS机刷出11500元并转出，谎称信用卡被冻结。用支付宝转款5000元。  \n2017年11月2日，在尧都区建设路，我让冯某代还建设银行信用卡6800元并转出用于赌博。归还冯某800元。  \n2017年11月9日，在尧都区水厂附近，我让何某代还兴业银行信用卡40000元，谎称8000元未到账，何某再次还款8000元。通过POS机刷出20200元并转出用于赌博，谎称银行系统升级。归还何某4280元。  \n2017年11月13日，在尧都区魏村镇杨某的内衣店，我让杨某代还光大银行信用卡30000元并转出，谎称银行系统升级。归还杨某8000元。  \n2017年11月29日，在尧都区花果街，我让尚某代还建设银行信用卡27000元，通过POS机刷出13888元并转出，谎称卡被冻结。归还尚某3220元。  \n2017年11月20日，在襄汾县某镇张某丁的饭店，我让张某丁代还中信银行信用卡31500元，通过POS机刷出9350元并转出，谎称信用卡被锁。归还张某丁4150元。  \n2017年11月15日，在襄汾县许某的手机店，我让许某代还建设银行信用卡40000元，谎称10000元未到账，许某又还款10000元。通过POS机刷出20000元并转出，谎称银行系统升级。归还许某2000元。  \n2017年12月10日，在襄汾县南辛店，我让卢某代还建设银行信用卡39109元，通过POS机刷出32399元并转出，谎称信用卡消费次数过多。  \n2017年12月17日，在尧都区建设路，我让岳某代还兴业银行信用卡40000元，通过POS机刷出17999元并转出，谎称信用卡被冻结。归还岳某3000元。  \n\n（2）犯案动机  \n我以非法占有为目的，虚构事实骗取他人财物，主要用于赌博。  \n\n（3）案发之后的处理  \n我在案发后没有自首。部分赃款已归还被害人，但未全部退赔。未与被害人达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.被害人陈述：被害人董某陈述：“2016年9月，成某某以能办理B2驾驶本为由，骗走我19200元，后来发现是假的。”经公安机关核实，董某的陈述与银行转账记录、微信聊天记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.被害人陈述：被害人段某陈述：“2016年12月，成某某让我帮他代还信用卡，我先后还款42000元和27000元，后来他只还了2000元，其余钱都被他转走了。”经公安机关核实，段某的陈述与银行流水、POS机交易记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.被害人陈述：被害人郭某甲陈述：“2017年1月，成某某让我代还信用卡23000元，后来他只还了12000元，剩下的钱他说卡被锁了。”经公安机关核实，郭某甲的陈述与银行交易明细、微信转账记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.被害人陈述：被害人张某甲陈述：“2017年2月，成某某让我代还信用卡20600元，我用POS机刷出2600元，后来他转走了钱，只还了4000元。”经公安机关核实，张某甲的陈述与POS机交易记录、银行流水等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.被害人陈述：被害人周某陈述：“2017年3月，成某某让我代还信用卡35000元，我用POS机刷出14078元，后来他转走了钱，只还了9000元。”经公安机关核实，周某的陈述与银行交易明细、POS机交易记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.被害人陈述：被害人贾某陈述：“2017年4月，成某某让我代还信用卡28600元，我用POS机刷出14249元，后来他转走了钱，只还了500元。”经公安机关核实，贾某的陈述与银行流水、POS机交易记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.被害人陈述：被害人韩某陈述：“2017年4月，成某某让我代还信用卡40000元，后来他转走了钱，只还了2000元。”经公安机关核实，韩某的陈述与银行交易明细、微信转账记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.被害人陈述：被害人孙某陈述：“2017年5月，成某某让我代还信用卡38000元，我用POS机刷出20000元，后来他转走了钱，只还了1000元。”经公安机关核实，孙某的陈述与POS机交易记录、银行流水等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.被害人陈述：被害人杨某陈述：“2017年8月，成某某让我代还信用卡35000元和18500元，后来他转走了钱，但案发后全部还清了。”经公安机关核实，杨某的陈述与银行交易明细、还款凭证等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.被害人陈述：被害人窦某陈述：“2017年10月，成某让我代还信用卡16000元，后来他转走了钱，只还了4000元。”经公安机关核实，窦某的陈述与银行流水、微信转账记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.被害人陈述：被害人郭某乙陈述：“2017年10月，成某让我代还信用卡24500元，我用POS机刷出11500元，后来他转走了钱，只还了5000元。”经公安机关核实，郭某乙的陈述与POS机交易记录、银行交易明细等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.被害人陈述：被害人冯某陈述：“2017年11月，成某让我代还信用卡6800元，后来他转走了钱，只还了800元。”经公安机关核实，冯某的陈述与银行流水、微信转账记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.被害人陈述：被害人何某陈述：“2017年11月，成某让我代还信用卡40000元和8000元，我用POS机刷出20200元，后来他转走了钱，只还了4280元。”经公安机关核实，何某的陈述与POS机交易记录、银行交易明细等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.被害人陈述：被害人杨某陈述：“2017年11月，成某让我代还信用卡30000元，后来他转走了钱，只还了8000元。”经公安机关核实，杨某的陈述与银行流水、微信转账记录等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.被害人陈述：被害人尚某陈述：“2017年11月，成某让我代还信用卡27000元，我用POS机刷出13888元，后来他转走了钱，只还了3220元。”经公安机关核实，尚某的陈述与POS机交易记录、银行交易明细等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.被害人陈述：被害人张某丁陈述：“2017年11月，成某让我代还信用卡31500元，我用POS机刷出9350元，后来他转走了钱，只还了4150元。”经公安机关核实，张某丁的陈述与POS机交易记录、银行流水等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.被害人陈述：被害人许某陈述：“2017年11月，成某让我代还信用卡40000元和10000元，我用POS机刷出20000元，后来他转走了钱，只还了2000元。”经公安机关核实，许某的陈述与POS机交易记录、银行交易明细等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.被害人陈述：被害人卢某陈述：“2017年12月，成某让我代还信用卡39109元，我用POS机刷出32399元，后来他转走了钱，一分没还。”经公安机关核实，卢某的陈述与POS机交易记录、银行流水等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.被害人陈述：被害人岳某陈述：“2017年12月，成某让我代还信用卡40000元，我用POS机刷出17999元，后来他转走了钱，只还了3000元。”经公安机关核实，岳某的陈述与POS机交易记录、银行交易明细等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：中国光大银行信用卡查询流水及交易明细，显示成某的信用卡还款和转账记录，该流水及交易明细由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：兴业银行信用卡查询流水及交易明细，显示成某的信用卡还款和转账记录，该流水及交易明细由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.书证：中信银行信用卡查询流水及交易明细，显示成某的信用卡还款和转账记录，该流水及交易明细由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.书证：交通银行信用卡查询流水及交易明细，显示成某的信用卡还款和转账记录，该流水及交易明细由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.书证：建设银行信用卡查询流水及交易明细，显示成某的信用卡还款和转账记录，该流水及交易明细由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.书证：中国银行对账单，显示成某的信用卡还款和转账记录，该对账单由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.书证：微信转账记录，显示成某与被害人之间的资金往来，该转账记录经公安机关核实与银行流水等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.书证：业务凭证客户回单，显示成某的信用卡还款和转账记录，该回单由银行官方出具并盖章确认",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.证人证言：证人张某丙证言：“我见过成某多次找人代还信用卡，后来发现他是在骗钱。”经公安机关核实，张某丙的证言与被害人陈述、银行流水等证据相互印证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.书证：被告人成某户籍证明，证实其身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面\n被告人成某以非法占有为目的，在长达一年多时间内，先后对19名被害人实施诈骗，诈骗金额高达361467元，其行为完全符合《中华人民共和国刑法》第二百六十六条关于诈骗罪的构成要件。被告人虚构办理B2驾驶本、代还信用卡等事实，骗取被害人财物后全部用于赌博挥霍，主观恶性明显。\n\n二、关于量刑情节\n1.从重处罚情节：被告人作案时间跨度长、次数多、金额巨大，社会危害性严重。根据《最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释》第一条，诈骗金额在10万元以上即属\"数额巨大\"，本案金额远超该标准。\n\n2.从轻处罚情节：被告人当庭认罪态度较好，如实供述犯罪事实，根据刑法第六十七条第三款可以从轻处罚；已退还部分赃款18211元，可酌情从轻。\n\n三、关于辩护人提出的辩护意见\n1.关于\"最初未意识到行为违法\"的辩解，公诉人认为，被告人在实施多起诈骗后必然认识到其行为的违法性，但仍持续作案，不能减轻其主观恶性。\n\n2.关于\"曾有过真实信用卡代还业务\"的辩解，公诉人认为，这恰恰说明被告人利用被害人信任实施诈骗，主观恶性更大。\n\n四、量刑建议\n综合本案犯罪事实、性质、情节和社会危害程度，建议判处被告人成某有期徒刑七年至九年，并处罚金，责令退赔全部被害人损失。鉴于被告人未全部退赃、未取得被害人谅解，且诈骗所得全部用于赌博挥霍，不宜适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于被告人主观恶性方面\n1.被告人最初确实从事过真实的信用卡代还业务，后因赌博成瘾才逐步走上犯罪道路，其主观恶性较纯粹以诈骗为生的犯罪分子有所区别。根据《刑法》第六十一条，量刑时应考虑犯罪分子的主观恶性程度。\n\n二、关于认罪态度方面\n1.被告人当庭认罪悔罪，如实供述全部犯罪事实，根据《刑法》第六十七条第三款，可以从轻处罚。\n2.被告人已退还部分被害人杨某18211元，表明其有悔罪表现和赔偿意愿。\n\n三、关于量刑建议\n1.考虑到被告人系初犯，无前科劣迹，根据《最高人民法院关于常见犯罪的量刑指导意见》，可以酌情从轻处罚。\n2.被告人家庭经济困难，但已表示愿意尽力赔偿被害人损失，建议法庭在量刑时予以考虑。\n3.建议法庭综合考虑被告人认罪态度、部分退赃等情节，在法定刑幅度内从轻处罚。\n\n四、关于赌博成瘾问题\n1.被告人因赌博成瘾导致犯罪，建议法庭在量刑时考虑这一特殊情节，并建议判处后对其进行必要的心理干预和戒赌治疗。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的主观恶性问题，公诉人认为，被告人在长达一年多时间内持续实施19起诈骗行为，诈骗金额高达36万余元，且全部用于赌博挥霍，其主观恶性与一般诈骗犯罪并无本质区别。根据《刑法》第二百六十六条及相关司法解释，多次诈骗应酌情从重处罚。\n\n关于认罪态度和退赃问题，公诉人注意到被告人仅退还了杨某一人18211元，占诈骗总额不足5%，且是在被害人强烈追讨下被动退还，不能充分体现其悔罪诚意。根据《最高人民法院关于常见犯罪的量刑指导意见》，退赃退赔应从实际退赔金额和主动性两方面综合考量。\n\n关于辩护人提出的家庭经济困难问题，公诉人认为，被告人在实施诈骗期间将全部赃款用于赌博挥霍，其家庭经济状况不能成为从轻处罚的理由。根据《刑法》第六十四条规定，犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的主观恶性问题，辩护人认为需要补充说明：被告人的犯罪行为确实具有持续性，但根据其供述，最初确实存在真实的信用卡代还业务往来，后因赌博成瘾才逐步走上犯罪道路。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对于因特定原因初次犯罪的，应酌情从宽处理。\n\n关于退赃问题，虽然目前退赔比例不高，但被告人当庭明确表示愿意继续赔偿被害人损失，并已向家人寻求帮助筹措资金。根据《刑法》第六十七条第三款，被告人认罪态度良好，愿意积极退赔，应当予以从宽考量。\n\n辩护人特别提请法庭注意，被告人系初犯，无前科劣迹，且当庭认罪悔罪态度诚恳。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于初犯、偶犯，在量刑时应与惯犯有所区别。建议法庭在量刑时充分考虑这些从宽情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的\"因赌博成瘾初次犯罪\"的从宽情节，公诉人认为，被告人在长达16个月期间持续实施19起诈骗行为，已形成稳定的犯罪模式，不应简单认定为初次犯罪。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第十一条，对多次进行诈骗的，应当累计计算诈骗数额并从重处罚。\n\n关于退赔意愿问题，公诉人提请法庭注意，被告人仅在被害人杨某强烈追讨下被动退还5%赃款，其余18名被害人分文未退。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于仅口头表示愿意赔偿但无实际行为的，不应从轻处罚。\n\n辩护人提出的家庭经济困难问题，与被告人将全部赃款用于赌博挥霍的事实形成鲜明对比，恰恰说明其主观恶性和社会危害性。根据《刑法》第六十四条规定，退赔被害人损失是被告人的法定义务，不能因经济困难而免除。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的犯罪持续性，辩护人认为需要指出：虽然犯罪时间跨度较长，但被告人实施诈骗行为具有明显的赌博成瘾诱因，根据《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》中关于成瘾性犯罪从宽处理的精神，建议法庭在量刑时予以考虑。\n\n关于退赔问题，被告人当庭表示愿意通过家人帮助继续赔偿，这种积极态度应当予以肯定。根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，被告人认罪悔罪并愿意赔偿的，可以依法从宽处理。\n\n辩护人特别提请法庭注意，被告人已深刻认识到赌博的危害性，当庭表示愿意接受戒赌治疗。根据《刑法》第六十一条规定的教育改造目的，建议在量刑时考虑对其适用有利于戒除赌瘾的刑罚执行方式。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人的主观恶性和退赔情况已发表意见，接下来的辩论请围绕被告人赌博成瘾的具体情况及其对犯罪行为的影响程度展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于被告人赌博成瘾问题，公诉人认为：\n\n1. 根据《刑法》第二百六十六条规定，诈骗罪的构成要件并不考虑犯罪动机，赌博成瘾不能成为减轻罪责的法定事由。被告人将全部诈骗所得用于赌博挥霍，反而证明其主观恶性深重。\n\n2. 被告人持续16个月实施19起诈骗行为，已形成稳定的犯罪模式，根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》第十一条，应当累计计算诈骗数额并从重处罚。\n\n3. 赌博成瘾不能成为从轻处罚的理由。相反，根据《最高人民法院关于常见犯罪的量刑指导意见》，将赃款用于违法犯罪活动或非法经营活动的，应当从严惩处。\n\n4. 被告人未主动寻求戒赌帮助，反而利用赌博成瘾作为持续犯罪的借口，其行为性质更为恶劣。根据《刑法》第六十一条规定，量刑应当与犯罪分子所犯罪行和承担的刑事责任相适应。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于被告人赌博成瘾问题，辩护人发表如下意见：\n\n1. 根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对于因特定原因初次犯罪的，应酌情从宽处理。被告人因赌博成瘾导致犯罪，其主观恶性与以诈骗为业的惯犯有所区别。\n\n2. 虽然赌博成瘾不是法定从轻情节，但根据《刑法》第六十一条规定的刑罚个别化原则，在量刑时应考虑犯罪的具体原因和犯罪人的特殊情况。\n\n3. 被告人当庭表示愿意接受戒赌治疗，表明其有改造意愿。根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，认罪悔罪态度应当予以考量。\n\n4. 辩护人提请法庭注意，被告人的犯罪行为模式与一般诈骗犯罪有所区别，其诈骗所得全部用于赌博而非奢侈消费，反映出其行为受赌博成瘾影响较大。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "方才控辩双方针对被告人赌博成瘾问题已发表意见，接下来的辩论请围绕被告人是否具有自首情节及归案后是否如实供述犯罪事实的具体情况展开，由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于自首情节，根据案卷材料及被告人供述，被告人系被公安机关抓获归案，未主动投案，不符合《刑法》第六十七条关于自首的构成要件。虽然被告人归案后如实供述犯罪事实，但根据《刑法》第六十七条第三款，只能认定为坦白，依法可以从轻处罚，但不能认定为自首。\n\n关于如实供述问题，被告人虽在侦查阶段和庭审中均能如实供述犯罪事实，但考虑到其诈骗行为持续时间长、次数多、金额大，且仅选择性退还极少量赃款，其认罪态度和悔罪表现仍显不足。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于仅口头认罪但未积极退赃退赔的，从轻幅度应当从严掌握。\n\n辩护人提出的被告人系因赌博成瘾导致犯罪的观点，不能改变其多次实施诈骗的客观事实。根据《最高人民法院关于审理诈骗案件具体应用法律的若干问题的解释》，对多次诈骗的，应当累计计算诈骗数额并从重处罚。被告人如实供述的情节，已在起诉书量刑建议中予以充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于自首情节，辩护人认同公诉人意见，被告人确无主动投案行为，不符合《刑法》第六十七条关于自首的构成要件。但需要强调的是，被告人归案后始终如实供述全部犯罪事实，包括19起诈骗行为的详细经过，根据《刑法》第六十七条第三款，应当认定为坦白，依法可以从轻处罚。\n\n关于如实供述问题，被告人在侦查阶段和庭审中均能稳定供述，对诈骗金额、手段、资金去向等关键事实供认不讳，认罪态度诚恳。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于如实供述全部犯罪事实的，可以减少基准刑的20%以下。\n\n虽然被告人目前退赔比例不高，但其当庭表示愿意通过家人帮助继续赔偿，这种积极态度应当予以肯定。根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，认罪悔罪态度应当作为量刑的重要考量因素。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我对自己的犯罪行为深感悔恨，认罪认罚。我辜负了被害人的信任，给他们的生活造成了严重损失。我深刻认识到赌博的危害性，愿意接受法律的惩罚。我会尽力筹措资金赔偿被害人损失，并承诺今后远离赌博，重新做人。恳请法庭能从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "临汾市尧都区人民法院\n刑事判决书\n（2018）晋刑初字第157号\n\n公诉机关临汾市尧都区人民检察院。\n被告人成某，男，汉族，19XX年X月X日出生，户籍XXX，文化程度XXX。因涉嫌诈骗罪于20XX年X月X日被刑事拘留，现羁押于临汾市看守所。\n辩护人XXX，XXX律师事务所律师。\n\n临汾市尧都区人民检察院以尧检刑检刑诉〔2018〕157号起诉书指控被告人成某犯诈骗罪，于2018年5月18日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。临汾市尧都区人民检察院指派检察员XXX出庭支持公诉，被告人成某及其辩护人XXX到庭参加诉讼。本案现已审理终结。\n\n临汾市尧都区人民检察院指控：2016年9月至2017年12月期间，被告人成某以非法占有为目的，虚构办理B2驾驶本和代还信用卡等事实，先后骗取19名被害人共计361467元，赃款均用于赌博。案发后退还部分被害人赃款18211元。公诉机关认为被告人成某的行为构成诈骗罪，数额巨大，建议判处有期徒刑7-9年，并处罚金。\n\n被告人成某对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚并在开庭审理过程中无异议。辩护人提出被告人因赌博成瘾逐步犯罪，与职业诈骗犯有别，认罪态度好，建议从轻处罚。\n\n经审理查明：2016年9月至2017年12月，被告人成某以办理B2驾驶本和代还信用卡为由，先后骗取董某等19名被害人共计361467元，具体事实如下：（1）2016年9月骗取董某19200元；（2）2016年12月骗取段某51000元；（3）2017年1月骗取郭某甲11000元；（4）2017年2月骗取张某甲14000元；（5）2017年3月骗取周某11922元；（6）2017年4月骗取贾某13851元、韩某38000元；（7）2017年5月骗取孙某17000元；（8）2017年8月骗取杨某18211元（已退还）；（9）2017年10月骗取窦某12000元、郭某乙8000元；（10）2017年11月骗取冯某6000元、何某23520元、杨某22000元、尚某9902元、张某乙118000元、许某28000元；（11）2017年12月骗取卢某6710元、岳某19001元。案发后，被告人退还杨某18211元，其余赃款343256元未退还。上述事实有被告人供述、被害人陈述、银行交易流水、POS机交易记录、微信转账记录等证据证实，证据确实、充分。\n\n本院认为，被告人成某以非法占有为目的，虚构事实骗取他人财物，数额巨大，其行为已构成诈骗罪。公诉机关指控的罪名成立。被告人成某多次实施诈骗，持续时间长，社会危害性大，应依法惩处。鉴于其到案后如实供述犯罪事实，认罪态度较好，可依法从轻处罚。辩护人关于被告人认罪态度好的辩护意见予以采纳，但关于赌博成瘾影响主观恶性的意见不予采纳。依照《中华人民共和国刑法》第二百六十六条、第六十七条第三款、第六十四条之规定，判决如下：\n\n一、被告人成某犯诈骗罪，判处有期徒刑八年，并处罚金人民币十万元；\n二、责令被告人成某退赔各被害人损失共计人民币343256元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向临汾市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 XXX\n20XX年X月X日\n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，详细说明了2016年9月至2017年12月期间实施的19起诈骗行为，包括诈骗手段（虚构办理B2驾驶本、代还信用卡）、诈骗金额（共计361467元）、资金用途（主要用于赌博）以及部分退赃情况。被告人和辩护人均无异议。\n\n2. 公诉人依次出示了19名被害人的陈述，详细说明了每起诈骗案件的具体经过、被骗金额、部分还款情况，并指出这些陈述均与银行流水、POS机交易记录等证据相互印证。被告人和辩护人对所有被害人陈述均无异议。\n\n3. 公诉人出示了相关书证，包括：\n   - 六家银行（光大、兴业、中信、交通、建设、中国银行）的信用卡查询流水及交易明细\n   - 微信转账记录\n   - 业务凭证客户回单\n   - 被告人户籍证明\n   所有书证均由银行官方出具并盖章确认，被告人和辩护人均无异议。\n\n4. 公诉人出示了证人张某丙的证言，证实曾见过被告人多次找人代还信用卡实施诈骗。被告人和辩护人无异议。\n\n5. 辩护人表示没有证据需要出示，被告人也表示不申请调取新的证据或通知新的证人到庭。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，详细说明了2016年9月至2017年12月期间实施的19起诈骗行为，包括诈骗手段（虚构办理B2驾驶本、代还信用卡）、诈骗金额（共计361467元）、资金用途（主要用于赌博）以及部分退赃情况。被告人和辩护人均无异议。\n\n2. 公诉人依次出示了19名被害人的陈述，详细说明了每起诈骗案件的具体经过、被骗金额、部分还款情况，并指出这些陈述均与银行流水、POS机交易记录等证据相互印证。被告人和辩护人对所有被害人陈述均无异议。\n\n3. 公诉人出示了相关书证，包括：\n   - 六家银行（光大、兴业、中信、交通、建设、中国银行）的信用卡查询流水及交易明细\n   - 微信转账记录\n   - 业务凭证客户回单\n   - 被告人户籍证明\n   所有书证均由银行官方出具并盖章确认，被告人和辩护人均无异议。\n\n4. 公诉人出示了证人张某丙的证言，证实曾见过被告人多次找人代还信用卡实施诈骗。被告人和辩护人无异议。\n\n5. 辩护人表示没有证据需要出示，被告人也表示不申请调取新的证据或通知新的证人到庭。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，详细说明了2016年9月至2017年12月期间实施的19起诈骗行为，包括诈骗手段（虚构办理B2驾驶本、代还信用卡）、诈骗金额（共计361467元）、资金用途（主要用于赌博）以及部分退赃情况。被告人和辩护人均无异议。\n\n2. 公诉人依次出示了19名被害人的陈述，详细说明了每起诈骗案件的具体经过、被骗金额、部分还款情况，并指出这些陈述均与银行流水、POS机交易记录等证据相互印证。被告人和辩护人对所有被害人陈述均无异议。\n\n3. 公诉人出示了相关书证，包括：\n   - 六家银行（光大、兴业、中信、交通、建设、中国银行）的信用卡查询流水及交易明细\n   - 微信转账记录\n   - 业务凭证客户回单\n   - 被告人户籍证明\n   所有书证均由银行官方出具并盖章确认，被告人和辩护人均无异议。\n\n4. 公诉人出示了证人张某丙的证言，证实曾见过被告人多次找人代还信用卡实施诈骗。被告人和辩护人无异议。\n\n5. 辩护人表示没有证据需要出示，被告人也表示不申请调取新的证据或通知新的证人到庭。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，详细说明了2016年9月至2017年12月期间实施的19起诈骗行为，包括诈骗手段（虚构办理B2驾驶本、代还信用卡）、诈骗金额（共计361467元）、资金用途（主要用于赌博）以及部分退赃情况。被告人和辩护人均无异议。\n\n2. 公诉人依次出示了19名被害人的陈述，详细说明了每起诈骗案件的具体经过、被骗金额、部分还款情况，并指出这些陈述均与银行流水、POS机交易记录等证据相互印证。被告人和辩护人对所有被害人陈述均无异议。\n\n3. 公诉人出示了相关书证，包括：\n   - 六家银行（光大、兴业、中信、交通、建设、中国银行）的信用卡查询流水及交易明细\n   - 微信转账记录\n   - 业务凭证客户回单\n   - 被告人户籍证明\n   所有书证均由银行官方出具并盖章确认，被告人和辩护人均无异议。\n\n4. 公诉人出示了证人张某丙的证言，证实曾见过被告人多次找人代还信用卡实施诈骗。被告人和辩护人无异议。\n\n5. 辩护人表示没有证据需要出示，被告人也表示不申请调取新的证据或通知新的证人到庭。\n\n庭审辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：被告人成某符合诈骗罪构成要件，主观恶性明显\n- 量刑情节：作案时间长、次数多、金额巨大（36万余元）应从重；认罪态度好、部分退赃可从轻\n- 反驳辩护意见：持续作案表明主观恶性大；仅退还5%赃款且系被动\n- 量刑建议：有期徒刑7-9年，并处罚金，不适用缓刑\n\n2. 辩护人发表辩论意见：\n- 主观恶性：因赌博成瘾逐步犯罪，与职业诈骗犯有别\n- 认罪态度：如实供述、部分退赃、愿意赔偿\n- 量刑建议：初犯无前科，建议从轻\n- 特殊情节：赌博成瘾需心理干预\n\n3. 双方争议焦点：\n- 赌博成瘾是否影响量刑：公诉人认为不减轻罪责，辩护人主张酌情从宽\n- 退赔情况：公诉人指出退赔比例极低，辩护人强调赔偿意愿\n- 犯罪持续性：公诉人认为形成稳定犯罪模式，辩护人主张受赌博成瘾影响\n\n4. 自首与坦白情节：\n- 双方确认无自首情节\n- 均认可被告人如实供述构成坦白，可从轻\n\n5. 最终立场：\n- 公诉人坚持7-9年有期徒刑量刑建议\n- 辩护人请求在法定刑幅度内从轻处罚",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人成某在2016年9月至2017年12月期间，以办理B2驾驶本和代还信用卡为由，先后诈骗19名被害人共计361467元，赃款均用于赌博。\n2. 被告人对起诉书指控的犯罪事实和罪名无异议，当庭认罪，表示后悔并愿意赔偿被害人损失。\n3. 公诉人讯问重点：\n   - 被告人承认因赌博欠债实施诈骗\n   - 选择\"代还信用卡\"作为主要诈骗手段的原因\n   - 诈骗所得钱款全部用于赌博\n   - 仅选择性退还杨某18211元的原因\n   - 2017年12月停止犯罪的原因\n4. 辩护人讯问重点：\n   - 被告人与被害人曾有过真实信用卡代还业务\n   - 被告人最初未意识到行为违法\n   - 曾向部分被害人承诺还款但未兑现\n   - 未主动投案自首\n   - 曾向部分被害人提供借条和承诺利息\n   - 未寻求专业戒赌帮助\n\n举证质证阶段总结：\n\n1. 公诉人出示了被告人在侦查阶段的供述，详细说明了2016年9月至2017年12月期间实施的19起诈骗行为，包括诈骗手段（虚构办理B2驾驶本、代还信用卡）、诈骗金额（共计361467元）、资金用途（主要用于赌博）以及部分退赃情况。被告人和辩护人均无异议。\n\n2. 公诉人依次出示了19名被害人的陈述，详细说明了每起诈骗案件的具体经过、被骗金额、部分还款情况，并指出这些陈述均与银行流水、POS机交易记录等证据相互印证。被告人和辩护人对所有被害人陈述均无异议。\n\n3. 公诉人出示了相关书证，包括：\n   - 六家银行（光大、兴业、中信、交通、建设、中国银行）的信用卡查询流水及交易明细\n   - 微信转账记录\n   - 业务凭证客户回单\n   - 被告人户籍证明\n   所有书证均由银行官方出具并盖章确认，被告人和辩护人均无异议。\n\n4. 公诉人出示了证人张某丙的证言，证实曾见过被告人多次找人代还信用卡实施诈骗。被告人和辩护人无异议。\n\n5. 辩护人表示没有证据需要出示，被告人也表示不申请调取新的证据或通知新的证人到庭。\n\n庭审辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：被告人成某符合诈骗罪构成要件，主观恶性明显\n- 量刑情节：作案时间长、次数多、金额巨大（36万余元）应从重；认罪态度好、部分退赃可从轻\n- 反驳辩护意见：持续作案表明主观恶性大；仅退还5%赃款且系被动\n- 量刑建议：有期徒刑7-9年，并处罚金，不适用缓刑\n\n2. 辩护人发表辩论意见：\n- 主观恶性：因赌博成瘾逐步犯罪，与职业诈骗犯有别\n- 认罪态度：如实供述、部分退赃、愿意赔偿\n- 量刑建议：初犯无前科，建议从轻\n- 特殊情节：赌博成瘾需心理干预\n\n3. 双方争议焦点：\n- 赌博成瘾是否影响量刑：公诉人认为不减轻罪责，辩护人主张酌情从宽\n- 退赔情况：公诉人指出退赔比例极低，辩护人强调赔偿意愿\n- 犯罪持续性：公诉人认为形成稳定犯罪模式，辩护人主张受赌博成瘾影响\n\n4. 自首与坦白情节：\n- 双方确认无自首情节\n- 均认可被告人如实供述构成坦白，可从轻\n\n5. 最终立场：\n- 公诉人坚持7-9年有期徒刑量刑建议\n- 辩护人请求在法定刑幅度内从轻处罚",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 96.0,
+    "fine": 100000.0,
+    "reprieve": 0.0
+  }
+]

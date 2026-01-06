@@ -1,0 +1,1791 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人曾某，男，XXX年X月X日出生，户籍XXXXX，汉族，文化程度XXX。因涉嫌信用卡诈骗罪，于2016年6月30日主动投案，同日被取保候审。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "惠安县人民检察院  \n起 诉 书  \n\n惠检金检诉刑诉〔2016〕18号  \n\n被告人曾某，男，XXX年X月X日出生，户籍XXXXX，汉族，文化程度XXX。因涉嫌信用卡诈骗罪，于2016年6月30日主动投案，同日被取保候审。  \n\n本案由惠安县公安局侦查终结，以被告人曾某涉嫌信用卡诈骗罪，于2016年11月17日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2012年11月5日，被告人曾某向中国工商银行惠安支行申领牡丹信用卡一张。后持卡透支消费，自2015年9月28日还款人民币3100元后未再还款，拖欠透支本金合计人民币29942.52元。经中国工商银行惠安支行多次催收（包括2015年10月25日起电话、短信催收；2016年1月26日、2月23日信函催收；2016年1月25日上门催收），超过三个月仍不归还。2016年6月30日，被告人曾某主动投案并还清全部欠款。  \n\n认定上述事实的证据如下：  \n1. 书证：受立案材料、信用卡申请表、身份证复印件、信用卡调查审查审批表、泉州市住房公积金查询结果、申请人声明、个人信用报告、申明与承诺、个人客户信用报告、特别关注客户信息系统个人客户查询记录、工商银行终端交易平台交易截图、中国工商银行对账单、工商银行催收记录（含电话、短信、信函、上门催收）、国内挂号信函、手机还款催告函、上门催收照片及现场检测报告书、还款凭证、补充说明、投案经过、户籍证明；  \n2. 证人证言：证人郑某（银行工作人员）关于催收过程的证言；  \n3. 被告人供述：被告人曾某对犯罪事实的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人曾某对指控的犯罪事实和证据无异议。  \n\n本院认为，被告人曾某以非法占有为目的，超过规定期限透支信用卡，经发卡银行多次催收后超过三个月仍不归还，透支本金人民币29942.52元，数额较大，其行为触犯《中华人民共和国刑法》第一百九十六条第一款第（四）项、第二款，犯罪事实清楚，证据确实、充分，应当以信用卡诈骗罪追究其刑事责任。被告人曾某主动投案并如实供述，系自首，依法可从轻处罚；已归还全部透支本金，可酌情从轻处罚。建议判处被告人曾某拘役XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n惠安县人民法院  \n\n检 察 官 XXX  \n检察官助理 XXX  \n2016年11月17日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "审判长，我有需要陈述的。首先我承认透支信用卡的事实，但并非出于非法占有目的，而是因为当时经济困难无力偿还。在银行催收期间，我一直保持通讯畅通，积极配合银行协商还款事宜，从未逃避催收。2016年6月30日我主动投案并全额还清欠款，表明我有悔改的诚意。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人曾某，你在2015年9月28日还款3100元后，为何长达9个月未再还款？请说明具体原因。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我经营的生意出现严重亏损，家庭经济陷入困境，确实无力偿还欠款。但我一直与银行保持联系，说明我的困难情况，并非故意拖欠。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "银行通过电话、短信、信函及上门催收共计7次，你为何在多次催收后仍拒不还款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实面临严重的经济困难，虽然银行多次催收，但我确实无力偿还。我从未拒绝与银行沟通，也一直在想办法筹措资金。最终在2016年6月30日，我通过向亲友借款才得以还清全部欠款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在申领信用卡时提供的个人信用报告显示有稳定收入，为何后来会出现经济困难？透支款项具体用于何种用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我在申领信用卡时确实有稳定收入，但后来因经营不善导致生意亏损，收入来源中断。透支款项主要用于日常经营周转和生活开支。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在2016年6月30日主动投案并还款，是基于什么考虑？此前为何不主动与银行协商还款方案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时经济状况确实非常困难，无法与银行达成可行的还款方案。后来通过亲友帮助筹到资金后，我立即主动投案并还款，表明我愿意承担责任的诚意。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你最后一次与银行沟通的具体时间、内容是什么？当时是否向银行说明过还款计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "最后一次与银行沟通是在2016年1月银行上门催收时。当时我向银行工作人员说明了我的经济困难情况，但因确实无力偿还，未能提出具体的还款计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你在2015年9月28日还款3100元后，是否曾向银行申请过延期还款或分期还款？银行是否同意？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实向银行提出过延期还款的请求，但由于我的信用状况已经恶化，银行没有同意我的申请。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你在银行催收期间是否始终保持通讯畅通，能否具体说明你与银行保持联系的方式和频率？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在催收期间我一直保持手机畅通，银行通过电话和短信联系我时都能及时接听和回复。具体来说，我每个月都会接到2-3次银行的催收电话，也会收到相应的催收短信。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你在透支信用卡时是否具有还款意愿？请具体说明在透支期间及逾期后采取了哪些还款措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在透支时我确实有还款意愿。2015年9月28日我尽力偿还了3100元，之后虽然经济困难，但我一直与银行保持联系说明情况。在2016年6月30日筹到资金后立即全额还清了欠款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你提到因经济困难导致无法按时还款，能否详细说明具体的经济困难情况？是否保留有相关证明材料？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我的小本生意因市场环境恶化出现严重亏损，导致资金链断裂。同时家中老人患病需要支付医疗费用，双重压力下确实无力偿还信用卡欠款。我有保留当时的医疗费用单据和生意亏损的相关账目记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "银行催收期间，你是否保持通讯畅通并配合银行工作？有无变更联系方式或住址等逃避催收的行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在银行催收期间，我一直保持手机畅通，从未变更联系方式或住址。银行通过电话、短信、信函和上门催收时，我都积极配合，没有逃避行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你于2016年6月30日主动投案并全额还款，是基于什么考虑？此前是否有与银行协商还款的计划？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我意识到欠款问题必须解决，在亲友帮助下筹到资金后，立即主动投案并还款。此前因经济困难确实无力与银行达成可行的还款计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "信用卡透支款项的具体用途是什么？是否用于个人消费以外的其他用途？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "透支款项主要用于生意经营周转和家庭日常开支，包括支付货款、员工工资等经营支出，以及家庭基本生活费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "在银行多次催收后，你未能按时还款的主要原因是什么？是否存在故意拖延或拒绝还款的主观意图？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "主要原因是当时确实面临严重的经济困难，无力偿还欠款。我从未故意拖延或拒绝还款，一直与银行保持联系说明情况，在有能力偿还后立即全额还款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就被告人的还款意愿、经济状况、与银行的沟通情况等关键问题进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你在2015年9月28日还款3100元后，是否曾向银行提供过任何形式的还款承诺或书面还款计划？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "当时我确实向银行口头表达过还款意愿，但因经济困难未能提供具体的书面还款计划。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2016年1月银行上门催收后至2016年6月30日投案前这段时间，是否继续与银行保持联系？具体联系过几次？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在这段时间内，我继续与银行保持电话联系，大约每月1-2次，主要是向银行说明我的经济状况和还款意愿。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2016年1月银行上门催收后至2016年6月30日投案前这段时间，是否曾尝试通过其他途径筹措资金偿还欠款？具体采取了哪些措施？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在这段时间内，我确实尝试过向亲友借款来偿还欠款，但由于当时经济环境不好，亲友也面临困难，直到2016年6月才最终筹到资金。期间我还尝试寻找其他工作机会来增加收入。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2016年1月银行上门催收后至2016年6月30日投案前这段时间，是否曾向银行提供过任何形式的财产状况证明或经济困难证明？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "在这段时间内，我没有向银行提供过正式的财产状况证明或经济困难证明，只是在电话沟通中口头说明了我的困难情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你在2016年6月30日主动投案时，是否向公安机关如实供述了全部犯罪事实？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我在投案时向公安机关如实供述了全部事实，包括透支金额、逾期时间和还款情况等。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。  \n2012年11月5日，我向中国工商银行惠安支行申领了一张牡丹信用卡。之后，我持该卡进行透支和消费。自2015年9月28日还款人民币3100元后，因经济困难未再还款，拖欠透支本金合计人民币29942.52元。中国工商银行惠安支行于2015年10月25日起多次通过电话、短信催收；2016年1月26日、2016年2月23日发送信函催收；2016年1月25日上门催收。超过三个月后，我仍未归还欠款。2016年6月30日，我主动到惠安县公安局小岞派出所投案，并于同日向中国工商银行惠安支行还清所欠本金。  \n\n（2）犯案动机。  \n我因个人经济困难，无法按时偿还信用卡透支款项，导致拖欠银行本金。  \n\n（3）案发之后的处理。  \n2016年6月30日，我主动到公安机关投案，并如实供述自己的行为。同日，我向中国工商银行惠安支行还清全部透支本金。银行未提及是否达成谅解或签署和解协议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人供述仅能证明存在逾期还款的事实，但无法证明被告人具有非法占有的主观故意。根据《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条，单纯因经济困难导致无法还款的情形，不应认定为信用卡诈骗罪。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人明知无还款能力仍持续透支消费，且经银行7次催收后长达9个月未还款，仅口头说明困难但未提供任何经济困难证明，其行为已超出正常经济困难范畴，符合司法解释关于\"以非法占有为目的\"的认定标准。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就被告人主观故意问题充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：受立案材料，证明案件已依法立案",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.证人证言：证人郑某证言，郑某说：“我是银行工作人员，曾某的信用卡透支后经多次催收仍未还款，我们采取了电话、短信、信函和上门催收等措施。”，并附有郑某的银行工作证复印件及劳动合同，证明其身份及与案件的关联性",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该证人证言仅能证明银行进行了催收，但无法证明被告人存在逃避催收或拒不还款的情形。相反，被告人始终保持通讯畅通并最终主动还款，这与信用卡诈骗罪要求的\"经催收后仍不归还\"的构成要件不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证人证言与银行催收记录相互印证，证明被告人经7次催收超过三个月仍未还款，符合刑法第196条规定的\"经催收后仍不归还\"的构成要件。被告人虽最终还款，但已造成银行资金长期处于风险状态，破坏金融管理秩序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就银行催收事实及法律适用充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：信用卡申请表，证明被告人曾某向中国工商银行惠安支行申领牡丹信用卡的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：身份证复印件，证明被告人曾某的身份信息，该复印件由银行在办理信用卡时核对原件后留存",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：信用卡调查审查审批表，证明银行对被告人曾某的信用卡申请进行了审核",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：泉州市住房公积金查询结果，证明被告人曾某的公积金缴存情况，该结果由泉州市住房公积金管理中心出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：申请人声明，证明被告人曾某在申请信用卡时签署的相关声明",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：个人信用报告，证明被告人曾某的信用记录，该报告由中国人民银行征信中心出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：申明与承诺，证明被告人曾某在信用卡使用过程中的相关承诺",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：个人客户信用报告，证明被告人曾某的信用状况，该报告由中国人民银行征信中心出具",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：特别关注客户信息系统个人客户查询记录，证明银行对被告人曾某的信用状况进行了监控，该记录由工商银行系统自动生成并加盖银行公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：工商银行终端交易平台交易截图，证明被告人曾某的信用卡交易记录，该截图由银行系统生成并附有系统操作员签字",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：中国工商银行对账单，证明被告人曾某的信用卡透支和消费明细，该对账单由银行系统生成并加盖银行业务章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：工商银行的催收记录，证明银行对被告人曾某进行了多次催收，包括电话、短信、信函和上门催收，记录中详细列明了催收时间、方式、内容及催收人员信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "该催收记录仅能证明银行进行了催收行为，但无法证明被告人存在逃避或拒绝还款的主观故意。相反，记录显示被告人始终保持通讯畅通并最终主动还款，这与信用卡诈骗罪要求的\"经催收后仍不归还\"的构成要件不符。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，辩护人对证据提出了异议，你是否要进行回复？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "催收记录与被告人供述相互印证，证明被告人经7次催收超过三个月仍未还款，符合刑法第196条规定的\"经催收后仍不归还\"的构成要件。被告人虽最终还款，但已造成银行资金长期处于风险状态，破坏金融管理秩序。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "控辩双方已就催收记录的证据效力充分发表意见，法庭已记录在案。",
+    "interrupt": 1,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：国内挂号信函，证明银行通过信函方式催收被告人曾某的欠款，附有挂号信函存根及签收记录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.书证：手机还款催告函，证明银行通过短信方式催收被告人曾某的欠款，附有短信发送记录及运营商出具的通话详单",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.书证：上门催收照片，证明银行工作人员上门催收被告人曾某的欠款，照片上显示有拍摄时间及地点水印",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.书证：现场检测报告书及照片，证明银行工作人员上门催收时的现场情况，报告书由银行工作人员及见证人签字确认，照片上显示有拍摄时间及地点水印",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.书证：还款凭证，证明被告人曾某于2016年6月30日向中国工商银行惠安支行还清所欠本金",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.书证：补充说明，证明银行对催收过程和还款情况的补充说明，该说明由银行负责人签字并加盖银行公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.书证：投案经过，证明被告人曾某于2016年6月30日主动到惠安县公安局小岞派出所投案，该材料由派出所民警出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.书证：户籍证明，证明被告人曾某的户籍信息，该证明由公安机关出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.书证：还款凭证，证明被告人曾某于2016年6月30日向中国工商银行惠安支行还清所欠本金",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.1.书证：投案情况说明，证明被告人曾某于2016年6月30日主动到惠安县公安局小岞派出所投案自首，该说明由派出所民警出具并加盖公章",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据刑法第196条规定，被告人曾某恶意透支信用卡本金29942.52元，经银行7次催收后超过三个月仍未归还，其行为已构成信用卡诈骗罪。现有银行催收记录、交易明细等书证形成完整证据链，证实被告人透支时明知无还款能力，且未提供任何经济困难证明，具有非法占有目的。虽然被告人主动投案并还款，但长达9个月未履行还款义务，仅作口头说明而未采取实质措施，主观恶性明显。鉴于透支金额已达数额较大标准，严重破坏金融管理秩序，建议法庭依法从重处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人认为本案不构成信用卡诈骗罪，理由如下：\n\n第一，根据《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条，单纯因经济困难导致无法还款的情形不应认定为信用卡诈骗罪。被告人虽未提供经济困难证明，但主动投案并全额还款的行为，充分证明其不具有非法占有目的。\n\n第二，银行催收记录不能证明被告人\"经催收后仍不归还\"的客观要件。被告人始终保持通讯畅通并配合催收，且最终全额还款，不符合该罪名的构成要件。\n\n第三，被告人具有自首情节，认罪态度良好，已全额退赔，社会危害性较小。根据刑法第六十七条，可以从轻或减轻处罚。\n\n综上，恳请法庭认定被告人不构成信用卡诈骗罪，或依法从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的三点意见，公诉人逐一回应如下：\n\n第一，根据《解释》第六条第二款，持卡人明知没有还款能力而大量透支的，应当认定为\"以非法占有为目的\"。被告人透支时无稳定收入来源，且长达9个月未采取任何实质还款措施，仅口头说明困难，符合该款规定情形。\n\n第二，银行催收记录显示7次有效催收后超过三个月未还，完全符合刑法第196条\"经催收后仍不归还\"的客观要件。被告人在催收期间虽保持通讯畅通，但未履行还款义务，不能改变其行为的违法性。\n\n第三，被告人虽具有自首情节并全额还款，但这是在案发9个月后，其主观恶性和行为危害性已经形成。根据《解释》第十条，恶意透支数额在1万元以上不满10万元的，应当认定为\"数额较大\"，依法应予刑事处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人的回应，辩护人补充以下意见：\n\n第一，公诉人援引《解释》第六条第二款存在适用错误。被告人透支时虽无稳定收入，但案发后主动投案并全额还款的行为，恰恰证明其不具有\"明知无还款能力而大量透支\"的主观故意。根据《解释》第六条第三款，透支后主动归还全部款项的，应当从轻处罚。\n\n第二，银行催收记录仅能证明催收行为的存在，不能证明被告人具有\"拒不归还\"的主观恶意。被告人始终配合催收工作，最终全额还款，这与典型的信用卡诈骗行为存在本质区别。\n\n第三，虽然透支金额达到追诉标准，但根据《解释》第十条第二款，恶意透支数额在公安机关立案前已偿还全部透支款息的，可以从轻处罚。本案被告人在立案前已全额还款，社会危害性显著降低。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人补充意见，公诉人作如下回应：\n\n第一，《解释》第六条第三款关于从轻处罚的规定，并不否定犯罪构成。被告人透支时无还款能力且未采取实质还款措施长达9个月，已符合\"非法占有目的\"的认定标准。其事后还款行为仅影响量刑，不影响定罪。\n\n第二，银行催收记录明确显示7次有效催收后超过三个月未还，完全符合刑法第196条规定的客观要件。被告人虽保持通讯畅通，但未履行还款义务，其行为性质已构成\"拒不归还\"。\n\n第三，虽然被告人在立案前还款，但根据《解释》第十条第二款，该情节仅属\"可以从轻处罚\"的酌定情节。考虑到透支金额已达数额较大标准，且拖延还款时间长达9个月，其行为已严重破坏金融管理秩序，应当依法追究刑事责任。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人需要强调以下关键点：\n\n第一，关于非法占有目的的认定标准，《解释》第六条明确要求综合判断。被告人透支后主动投案并全额还款的行为，与\"明知无还款能力而大量透支\"的主观故意存在本质区别。根据《解释》第六条第三款，这种情形应当从轻处罚。\n\n第二，银行催收记录仅证明催收行为的存在，不能证明被告人具有\"拒不归还\"的主观恶意。被告人始终保持通讯畅通并配合催收工作，最终全额还款，这与典型的信用卡诈骗行为存在明显差异。\n\n第三，根据《解释》第十条第二款，被告人在立案前已偿还全部透支款息，社会危害性显著降低。结合其自首情节和良好认罪态度，建议法庭充分考虑从轻处罚的法定情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "审判长，我承认因经济困难导致信用卡逾期未还的事实。在银行催收期间，我一直保持通讯畅通，积极配合银行协商还款事宜，从未逃避催收。2016年6月30日我主动投案并全额还清欠款，以实际行动表明悔改诚意。恳请法庭考虑我的实际情况和认罪态度，给予从轻处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "惠安县人民法院  \n刑事判决书  \n（2016）惠刑初字第XX号  \n\n公诉机关惠安县人民检察院。  \n被告人曾某，男，XXX年X月X日出生，汉族，户籍XXXXX，文化程度XXX。因涉嫌信用卡诈骗罪，于2016年6月30日主动投案，同日被取保候审。  \n辩护人XXX（姓名），XXX律师事务所律师。  \n\n惠安县人民检察院于2016年11月17日以被告人曾某犯信用卡诈骗罪，向本院提起公诉。本院受理后，依法组成合议庭，公开开庭审理了本案。惠安县人民检察院检察员XXX出庭支持公诉，被告人曾某及其辩护人XXX到庭参加诉讼。本案现已审理终结。  \n\n公诉机关指控：2012年11月5日，被告人曾某向中国工商银行惠安支行申领牡丹信用卡一张。后持卡透支消费，自2015年9月28日还款人民币3100元后未再还款，拖欠透支本金合计人民币29942.52元。经银行多次催收（包括电话、短信、信函及上门催收），超过三个月仍不归还。2016年6月30日，被告人曾某主动投案并还清全部欠款。公诉机关认为被告人曾某的行为构成信用卡诈骗罪，具有自首情节，建议判处拘役并适用缓刑。  \n\n被告人曾某对指控事实无异议，辩称因经济困难无力偿还，但始终与银行保持联系，最终主动还款。辩护人提出被告人无非法占有目的，具有自首、全额退赔等从宽情节，建议从轻处罚或宣告无罪。  \n\n经审理查明：  \n1. 被告人曾某于2012年11月申领信用卡后透支消费，截至2015年9月拖欠本金29942.52元；  \n2. 银行自2015年10月起实施7次有效催收（含电话、短信、信函及上门催收），催收程序合法；  \n3. 被告人曾某在催收期间保持通讯畅通，未逃避债务，但因经营亏损及家庭支出确实无力偿还；  \n4. 2016年6月30日主动投案并全额还款，归案后如实供述。  \n\n上述事实有下列证据证实：  \n1. 被告人供述与辩解；  \n2. 银行催收记录、还款凭证等书证；  \n3. 证人郑某证言；  \n4. 投案情况说明等自首材料。  \n\n本院认为：  \n1. 被告人曾某经两次以上有效催收超过三个月未还款，透支金额达29942.52元，符合信用卡诈骗罪构成要件；  \n2. 虽因经济困难导致拖欠，但透支时明知还款能力不足，主观上具有放任的间接故意；  \n3. 主动投案并全额退赔，自首成立，依法从轻处罚；  \n4. 犯罪情节较轻，确有悔罪表现，符合缓刑适用条件。  \n\n依照《中华人民共和国刑法》第一百九十六条第一款第（四）项、第六十七条第一款、第七十二条之规定，判决如下：  \n被告人曾某犯信用卡诈骗罪，判处拘役三个月，缓刑六个月，并处罚金人民币二万元。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或直接向泉州市中级人民法院提出上诉。  \n\n审判长 XXX  \n2016年XX月XX日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人曾某是否具有非法占有为目的的主观故意。需要查明其透支信用卡时的经济状况、透支款项用途及后续还款态度等事实。\n\n2.银行催收程序是否符合法律规定。需要核实银行催收的次数、方式及时间间隔等是否符合\"两次有效催收且超过三个月未还\"的法定要件。\n\n3.被告人曾某的自首情节认定。需要审查其投案时间、供述内容及还款行为等是否符合自首的法定条件。\n\n4.涉案金额是否达到信用卡诈骗罪的立案标准。需要确认透支本金29942.52元的计算依据及准确性。\n\n5.被告人曾某的还款行为是否影响定罪量刑。需要评估其主动还清全部欠款的情节对案件处理的影响。\n\n6.是否适用缓刑。需要综合考量被告人的犯罪情节、悔罪表现及社会危害性等因素。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡诈骗罪中'以非法占有为目的'的认定标准",
+              "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪"
+            ],
+            "信用卡诈骗罪中'以非法占有为目的'的认定标准": "### 结论\n信用卡诈骗罪中'以非法占有为目的'的认定标准需综合考量行为人的还款能力、透支款项的用途、透支后的还款态度及是否逃避催收等多方面因素。行为人在透支时具有归还意思，因客观原因导致无法按时还款，且未逃避催收，不应认定为具有非法占有目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定恶意透支，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：规定了恶意透支的认定标准，包括持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行两次催收后超过三个月仍不归还的，应当认定为恶意透支。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人透支时的还款能力**：如果行为人在透支时具有归还能力，但由于客观原因（如交通事故、经营困难等）导致无法按时还款，不应认定为具有非法占有目的。例如，【（2016）冀09刑终273号】、【（2015）穗越法刑初字第1311号】、【（2019）吉02刑终3号】中，行为人因客观原因未能还款，但未逃避催收，法院未认定其具有非法占有目的。\n- **透支款项的用途**：如果透支款项用于合法经营，因客观原因导致无法偿还，不应认定为具有非法占有目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人将透支款项用于合法经营，因经营上的客观原因导致无法偿还，法院未认定其具有非法占有目的。\n- **透支后的还款态度及是否逃避催收**：如果行为人在透支后有积极的还款行为，未逃避催收，不应认定为具有非法占有目的。例如，【（2016）冀09刑终273号】中，孙某某在银行催收后还款14000元，保证人代为还款，法院未认定其具有非法占有目的。\n- **行为人是否具有非法占有的目的**：应从行为人是否具有还款能力、透支款项的用途、透支后的还款态度及是否逃避催收等多方面综合判断。例如，【（2018）京03刑终192号】中，王某虽将透支款项用于投资经营，但因经营不善导致暂时无还款能力，且在银行催收长达三年多的时间内，其不仅无任何还款行为和表示，还以变换联系电话等方式躲避银行催收，法院认定其具有非法占有目的。\n\n综上，'以非法占有为目的'的认定需综合考量行为人的还款能力、透支款项的用途、透支后的还款态度及是否逃避催收等多方面因素，不能仅凭单一因素作出判断。\n\n#####\n类似案件为：\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2019）吉02刑终3号】：法院生效裁判认为，关于被告人罗某赫及其辩护人提出的罗某赫不具有非法占有的目的，不符合信用卡诈骗罪的犯罪构成，应构成妨害信用卡管理罪的上诉理由和辩护意见，以及吉林市人民检察院提出的认定罗某赫主观上具有非法占有目的的事实不清、证据不足的出庭意见，经查，罗某赫未经允许利用钟某臣的身份信息在银行办理信用卡，但预留的邮寄地址、联系电话以及接收电子账单邮箱均是其本人真实信息，自2017年5月2日起，罗某赫利用该信用卡消费、提现、使用36笔，共计人民币81748元；在银行通过系统自动增加逾期利息和违约金但从未进行过催收的情况下，罗某赫自2017年7月3日起，陆续归还卡内款项，截至2018年3月25日，已返还28笔，共计人民币38947元；3月27日，在钟某臣及银行发现罗某赫的犯罪事实并与之联系后，罗某赫主动到银行将剩余款项全部偿还，可见，罗某赫并不想非法占有他人财物，主观上不具备信用卡诈骗罪要求的非法占有目的，故其行为不构成信用卡诈骗罪。综上，罗某赫的犯罪行为、主观罪过及侵害的法益符合妨害信用卡管理罪的犯罪构成，应以妨害信用卡管理罪定罪处罚。故二审法院依法作出如上判决。吉林省吉林市龙潭区人民法院于2018年12月18日作出（2018）吉0203刑初458号刑事判决：被告人罗某赫犯信用卡诈骗罪，判处有期徒刑二年六个月，并处罚金人民币八万元。宣判后，罗某赫提出上诉。吉林省吉林市中级人民法院于2019年3月12日作出（2019）吉02刑终3号刑事判决：一、撤销吉林省吉林市龙潭区人民法院（2018）吉0203刑初458号刑事判决，即被告人罗某赫犯信用卡诈骗罪，判处有期徒刑二年六个月，并处罚金人民币八万元；二、上诉人（原审被告人）罗某赫犯妨害信用卡管理罪，判处拘役四个月，并处罚金人民币一万元。",
+            "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪": "### 结论\n信用卡透支后经催收超过三个月未还并不必然构成信用卡诈骗罪。关键在于是否具有非法占有的目的，以及透支后的具体行为是否符合法律规定的恶意透支条件。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的定义。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的含义，规定了应当认定为以非法占有为目的的六种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：是否在透支时就具有非法占有的目的，如【（2014）一中刑终字第8号】中，法院认为被告人并非以诈骗之目的申请办理信用卡，且在使用后的一段时间内按期归还信用卡欠款，因此不构成信用卡诈骗罪。\n- **透支后的具体行为**：是否采取了逃避银行催收的行为，如改变联系方式、逃匿等，如【（2015）西刑初字第733号】中，法院认为被告人高姗姗的行为侵害了国家金融票证管理制度及他人财产所有权，构成信用卡诈骗罪。\n- **还款能力与还款意愿**：是否具有还款能力，以及是否在透支后有积极的还款意愿和行为，如【（2019）青0121刑初192号】中，法院认为被告人李**在案发后能如实供述自己的罪行，认罪悔罪，对其可酌情从轻处罚。\n- **透支款项的用途**：是否用于合法用途，如用于合法经营，因客观原因导致无法归还，如【（2015）西刑初字第733号】中，法院认为被告人高姗姗的行为构成信用卡诈骗罪，但未提及透支款项的用途。\n\n综上，信用卡透支后经催收超过三个月未还是否构成信用卡诈骗罪，关键在于是否具有非法占有的目的，透支后的具体行为是否逃避催收，以及是否有还款能力和意愿。如果透支款项用于合法经营，因客观原因导致无法归还，且没有逃避催收的行为，通常不构成信用卡诈骗罪。如果透支后采取了逃避催收的行为，或者明知没有还款能力而大量透支，通常会被认定为具有非法占有的目的，构成信用卡诈骗罪。\n\n#####\n类似案件为：\n【（2019）青0121刑初192号】：法院认为，李**恶意透支信用卡资金，数额巨大，经发卡银行多次催收后超过三个月仍未归还，构成信用卡诈骗罪；使用伪造证件，虚构事实，骗取他人现金，数额巨大，构成诈骗罪。李**能如实供述罪行，认罪悔罪，可从轻处罚。李**犯数罪，应数罪并罚。被告人李**犯信用卡诈骗罪，判处有期徒刑五年零九个月，并处罚金四万元；犯诈骗罪，判处有期徒刑七年零二个月，并处罚金一万元；数罪并罚，决定执行有期徒刑十年零六个月，并处罚金五万元。责令李**退赔工商银行及各被害人经济损失，随案移送的伪造证件及信用卡依法予以没收。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过银行催收记录、交易明细等书证形成完整证据链，证明被告人曾某恶意透支29942.52元且经多次催收超过三个月未还，符合刑法第196条\"恶意透支\"的构成要件。2.被告人虽主动投案并还款，但透支时已明知无还款能力，具有非法占有目的，其经济困难不能阻却犯罪故意。3.透支金额达数额较大标准，破坏金融管理秩序，具有社会危害性，应从重处罚。\n防御策略：1.银行催收记录包含电话、短信、信函及上门催收等原始凭证，经银行盖章确认，证明效力充分。2.交易明细由银行系统自动生成，与被告人供述相互印证，不存在取证瑕疵。3.投案经过由公安机关出具，与还款凭证时间吻合，可确认自首情节，但该情节已在量刑建议中体现从宽幅度。",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡诈骗罪中非法占有目的的认定标准",
+              "信用卡透支后经催收不还的司法认定"
+            ],
+            "信用卡诈骗罪中非法占有目的的认定标准": "### 结论\n信用卡诈骗罪中非法占有目的的认定需综合考量行为人的还款能力、还款意愿、透支资金的用途、是否逃避催收、是否具有欺诈行为以及是否用于合法经营等多方面因素，坚持主客观相统一的原则，避免单纯根据损失结果客观归罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定恶意透支，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为，构成信用卡诈骗罪。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的含义，规定了应当认定为以非法占有为目的的六种情形，并强调了非法占有目的的独立要件地位和综合考量原则。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **还款能力和意愿**：如【（2016）冀09刑终273号】中，法院认为孙某某在开卡购车进行透支时具有归还意思表示，虽因客观原因（交通事故）造成无力按时还款，但不能认定具有非法占有的目的。\n- **透支资金的用途**：如【（2015）穗越法刑初字第1311号】中，法院认为被告人将透支款项用于合法经营，因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”。\n- **是否逃避催收**：如【（2018）京03刑终192号】中，法院认为王某虽将透支钱款用于投资经营，后期因经营不善导致暂时无还款能力，但在银行向其催收长达三年多的时间内，其不仅无任何还款行为和表示，还以变换联系电话等方式躲避银行催收，显见其具有逃避债务的非法占有目的。\n- **是否具有欺诈行为**：如【（2017）浙01刑终444号】中，法院认为被告人非法持有他人信用卡，数量较大，构成妨害信用卡管理罪，与是否具有非法占有目的的诈骗罪区分。\n- **是否用于合法经营**：如【（2015）穗越法刑初字第1311号】中，法院认为被告人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。\n\n综上，非法占有目的的认定需综合考量行为人的还款能力、还款意愿、透支资金的用途、是否逃避催收、是否具有欺诈行为以及是否用于合法经营等多方面因素，且应坚持主客观相统一的原则，避免单纯根据损失结果客观归罪。\n\n#####\n类似案件为：\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2017）浙01刑终444号】：法院认为，赖冠宇、杨华军、王家朋以非法占有为目的，虚构事实，骗取他人数额较大的财物，构成诈骗罪；赖冠宇、张志豪非法持有他人信用卡，数量较大，构成妨害信用卡管理罪。赖冠宇、张志豪在妨害信用卡管理罪中，应处一万元以上十万元以下罚金，原判低于法定标准，应予纠正。赖冠宇、杨华军、王家朋犯诈骗罪，赖冠宇、张志豪犯妨害信用卡管理罪。赖冠宇诈骗罪处一年六个月有期徒刑，罚金五千元；妨害信用卡管理罪处一年六个月有期徒刑，罚金一万元，两罪并罚，决定执行二年六个月有期徒刑，罚金一万五千元。杨华军诈骗罪处一年四个月有期徒刑，罚金五千元。王家朋诈骗罪处一年三个月有期徒刑，罚金五千元。张志豪妨害信用卡管理罪处一年三个月有期徒刑，罚金一万元。责令被告人对非法所得予以退赔。",
+            "信用卡透支后经催收不还的司法认定": "### 结论\n信用卡透支后经催收不还的司法认定，关键在于判断持卡人是否具有非法占有的目的，以及是否满足“经发卡银行两次催收后超过3个月仍不归还”的客观条件。非法占有目的的认定需综合考量持卡人的信用记录、还款能力和意愿、申领和透支信用卡的状况、透支资金的用途、透支后的表现、未按规定还款的原因等情节。同时，对于持卡人将透支款项用于合法经营，因客观原因导致无法归还的，不应认定为恶意透支。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定恶意透支的构成要件，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的含义，规定了应当认定为以非法占有为目的的6种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的的认定**：非法占有目的必须存在于透支时，即透支时具有归还的意思，透支后由于客观原因不能归还的，不能认定为具有非法占有的目的。例如，【（2016）冀09刑终273号】中，孙某某在开卡购车进行透支时具有归还意思表示，虽然在透支后由于客观原因（交通事故）造成无力按时还款，但不能就此认定孙某某具有非法占有的目的。\n- **催收的次数和时间**：必须存在经发卡银行两次催收后超过3个月仍不归还的行为。例如，【（2015）双刑初字第00015号】中，晏宝某在银行两次催收后超过3个月仍不归还透支款，构成信用卡诈骗罪。\n- **透支款项的用途**：如果透支款项用于合法经营，因客观原因导致无法归还的，不应认定为恶意透支。例如，【（2016）冀0902刑初202号】中，闫希勇恶意透支，经银行催收后仍不归还，构成信用卡诈骗罪，但其透支款项的用途未在案例中明确，故未涉及此关键因素。\n- **还款行为**：持卡人在催收后有还款行为的，不应认定为恶意透支。例如，【（2016）冀09刑终273号】中，孙某某在银行催收后还款14000元，保证人也代为还款，因此孙某某在客观上不存在经发卡银行两次催收后超过3个月仍不归还的行为。\n\n综上，非法占有目的的认定、催收的次数和时间、透支款项的用途以及还款行为是判断信用卡透支后经催收不还是否构成恶意透支的关键因素。其中，非法占有目的的认定尤为重要，需综合考量多种因素，以避免客观归罪，实现主客观相统一。\n\n#####\n类似案件为：\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。\n【（2016）冀0902刑初202号】：法院认为，被告人闫希勇恶意透支信用卡，经银行催收后仍不归还，数额较大，其行为已构成信用卡诈骗罪；以非法占有为目的，隐瞒真相，骗取他人合法财物，数额特别巨大，其行为已构成诈骗罪。被告人犯数罪，应数罪并罚。被告人闫希勇犯信用卡诈骗罪，判处有期徒刑二年，并处罚金5万元；犯诈骗罪，判处有期徒刑十一年零六个月，并处罚金30万元；决定执行有期徒刑十二年零六个月，并处罚金35万元。追缴被告人闫希勇违法所得返还被害单位中国银行股份有限公司沧州分行和被害人王红军。\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。"
+          }
+        },
+        "目标": "请求法院判处被告人曾某信用卡诈骗罪，建议判处拘役并处罚金",
+        "询问": "1. 被告人曾某，你在2015年9月28日还款3100元后，为何长达9个月未再还款？请说明具体原因。（针对非法占有目的的主观故意认定）\n\n2. 银行通过电话、短信、信函及上门催收共计7次，你为何在多次催收后仍拒不还款？（针对\"经催收后仍不归还\"的客观要件）\n\n3. 你在申领信用卡时提供的个人信用报告显示有稳定收入，为何后来会出现经济困难？透支款项具体用于何种用途？（针对透支资金用途与还款能力的关联性）\n\n4. 你在2016年6月30日主动投案并还款，是基于什么考虑？此前为何不主动与银行协商还款方案？（针对自首情节的主动性认定）\n\n5. 你最后一次与银行沟通的具体时间、内容是什么？当时是否向银行说明过还款计划？（针对逃避催收行为的认定）"
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.公诉人指控的\"非法占有目的\"证据不足，现有证据仅能证明经济困难导致的逾期还款，不符合《刑法》第196条恶意透支的主观要件 2.银行催收记录中未体现被告人存在逃避催收行为，与司法解释规定的\"经催收后仍不归还\"的客观要件存在差异 3.透支款项用途证据缺失，无法证明资金用于非法用途\n防御策略：1.被告人主动投案并全额还款，出具投案情况说明证明自首情节 2.提供经济困难证明材料，证明逾期系客观原因导致 3.强调被告人在催收期间保持通讯畅通，积极配合银行协商，无逃避行为 4.引用(2015)穗越法刑初字第1311号判例，证明经济困难导致的逾期不必然构成犯罪",
+        "记忆": "",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪？",
+              "经济困难导致信用卡逾期还款是否构成非法占有目的？"
+            ],
+            "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪？": "### 结论\n信用卡透支后经催收超过三个月未还并不必然构成信用卡诈骗罪。关键在于行为人是否具有非法占有的目的，以及透支行为是否符合法律规定的恶意透支的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条第二款**：规定恶意透支的构成要件，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：进一步明确了恶意透支的含义，规定了应当认定为以非法占有为目的的六种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：是否在透支时具有归还的意思，透支后由于客观原因不能归还的，不能认定为具有非法占有的目的。例如，【（2014）一中刑终字第8号】中，法院认为被告人王心某并非以诈骗之目的申请办理信用卡，且在使用后的一段时间内按期归还信用卡欠款，故不构成信用卡诈骗罪。\n- **还款能力和意愿**：行为人是否有还款能力和还款意愿，是否采取了积极的还款措施。例如，【（2017）甘1123刑初183号】中，被告人及时向发卡行归还了信用卡本息，退赔了被害人经济损失，并取得谅解，法院认为其具有悔罪表现，对其宣告缓刑。\n- **透支后的表现**：是否逃避银行催收，是否与银行保持联系并积极沟通。例如，【（2016）吉0322刑初201号】中，被告人杨某因犯合同诈骗罪被判处刑罚，在判决宣告以后，刑罚执行完毕以前，发现其在判决宣告以前还有其他罪没有判决，但因其已归还全部款项，法院考虑了这一情节。\n- **透支款项的用途**：是否用于合法经营，因客观原因导致无法归还透支款项的，不能认定“以非法占有为目的”。例如，【（2019）青0121刑初192号】中，法院认为被告人使用工商银行信用卡的行为不属于恶意透支，不应认定为信用卡诈骗。\n\n综上，信用卡透支后经催收超过三个月未还是否构成信用卡诈骗罪，关键在于行为人是否具有非法占有的目的，以及透支行为是否符合法律规定的恶意透支的构成要件。法院在判断时会综合考虑行为人的还款能力和意愿、透支后的表现、透支款项的用途等因素。\n\n#####\n类似案件为：\n【（2017）甘1123刑初183号】：法院认为，赵某某超过规定期限透支信用卡，并在发卡行两次催收后三个月内仍未归还，构成信用卡诈骗罪；在明知自己负债无力偿还的情况下，利用伪造担保人身份证的方式骗取他人借款并逃避债务，构成诈骗罪。鉴于赵某某及时归还信用卡本息，退赔被害人经济损失，取得谅解，且认罪态度良好，决定对其宣告缓刑。法院判决被告人赵某某犯信用卡诈骗罪，判处拘役六个月，缓刑一年，并处罚金2万元；犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金1万元。决定执行有期徒刑三年，缓刑四年，并处罚金3万元。\n【（2016）吉0322刑初201号】：法院认为，杨某以非法占有为目的，超过规定期限透支信用卡，经银行多次催收后超过三个月仍未归还，数额较大，其行为已构成信用卡诈骗罪。杨某在判决宣告后，刑罚执行完毕前，发现其在判决宣告前还有其他罪未判决，应数罪并罚。鉴于杨某已归还全部款项，酌情从轻处罚。被告人杨某犯信用卡诈骗罪，判处有期徒刑六个月，并处罚金20000元，与前罪合同诈骗罪判处的三年有期徒刑及30000元罚金并罚，决定执行有期徒刑三年三个月，并处罚金50000元。罚金需于判决生效后十日内一次性缴纳。\n【（2019）青0121刑初192号】：法院认为，李**恶意透支信用卡资金，数额巨大，经发卡银行多次催收后超过三个月仍未归还，构成信用卡诈骗罪；使用伪造证件，虚构事实，骗取他人现金，数额巨大，构成诈骗罪。李**能如实供述罪行，认罪悔罪，可从轻处罚。李**犯数罪，应数罪并罚。被告人李**犯信用卡诈骗罪，判处有期徒刑五年零九个月，并处罚金四万元；犯诈骗罪，判处有期徒刑七年零二个月，并处罚金一万元；数罪并罚，决定执行有期徒刑十年零六个月，并处罚金五万元。责令李**退赔工商银行及各被害人经济损失，随案移送的伪造证件及信用卡依法予以没收。",
+            "经济困难导致信用卡逾期还款是否构成非法占有目的？": "### 结论\n经济困难导致信用卡逾期还款，若行为人没有逃避催收、没有改变联系方式、没有挥霍透支资金、没有隐匿财产等行为，且有积极还款的意愿和行为，不能认定其具有非法占有目的，不构成恶意透支型信用卡诈骗罪。\n\n### 核心法条\n- **《刑法》第一百九十六条第二款**：规定恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：规定了恶意透支的含义，以及应当认定为以非法占有为目的的6种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人透支款项的用途**：如果行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项，不能认定其具有非法占有目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人将透支款项用于合法经营，因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”。\n- **行为人的还款态度和行为**：如果行为人在透支后有积极的还款行为，即使经济困难，也表明其没有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人在银行的催收下，两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，表明其有还款意愿。\n- **行为人是否逃避催收**：如果行为人没有逃避催收，没有改变联系方式，没有隐匿财产，表明其没有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n\n综上，经济困难导致信用卡逾期还款，若行为人有积极的还款意愿和行为，没有逃避催收，没有改变联系方式，没有挥霍透支资金，没有隐匿财产等行为，不能认定其具有非法占有目的，不构成恶意透支型信用卡诈骗罪。法院在判断是否构成恶意透支时，会综合考虑行为人的还款态度、还款行为、透支款项的用途以及是否逃避催收等因素。\n\n#####\n类似案件为：\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。"
+          }
+        },
+        "目标": "请求法院判处被告人曾某无罪或免于刑事处罚",
+        "询问": "1. 被告人，你在透支信用卡时是否具有还款意愿？请具体说明在透支期间及逾期后采取了哪些还款措施？\n\n2. 你提到因经济困难导致无法按时还款，能否详细说明具体的经济困难情况？是否保留有相关证明材料？\n\n3. 银行催收期间，你是否保持通讯畅通并配合银行工作？有无变更联系方式或住址等逃避催收的行为？\n\n4. 你于2016年6月30日主动投案并全额还款，是基于什么考虑？此前是否有与银行协商还款的计划？\n\n5. 信用卡透支款项的具体用途是什么？是否用于个人消费以外的其他用途？\n\n6. 在银行多次催收后，你未能按时还款的主要原因是什么？是否存在故意拖延或拒绝还款的主观意图？\n\n7. 你是否有其他财产或收入来源可用于偿还欠款？当时是否主动向银行说明过自身财务状况？"
+      },
+      "被告人": {
+        "策略": "防御策略：1.向法庭说明逾期还款系因经济困难导致，并非出于非法占有目的 2.强调被告人在催收期间保持通讯畅通，积极配合银行协商，无逃避催收行为 3.指出银行催收记录中未体现被告人存在逃避行为，不符合\"经催收后仍不归还\"的客观要件 4.说明被告人主动投案并全额还款的事实，证明其具有悔罪表现 5.引用(2015)穗越法刑初字第1311号判例，证明经济困难导致的逾期不必然构成犯罪",
+        "记忆": "",
+        "目标": "请求法院判处被告人曾某无罪或免于刑事处罚"
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人曾某是否具有非法占有为目的的主观故意。查明情况：被告人辩称透支款项用于合法经营和生活开支，因经济困难无力偿还，且一直保持与银行沟通；公诉人通过多次催收未还款的事实主张其具有非法占有目的。审判长认为需结合透支款项用途、还款态度等综合判断。\n\n2.银行催收程序是否符合法律规定。查明情况：起诉书列明了电话、短信、信函及上门催收共7次，时间跨度符合\"两次有效催收且超过三个月未还\"要件。控辩双方对此无争议，审判长认为催收程序合法有效。\n\n3.被告人曾某的自首情节认定。查明情况：被告人主动投案并如实供述，已全额还款，符合自首条件。控辩双方均认可该情节，审判长认为自首成立。\n\n4.涉案金额是否达到信用卡诈骗罪的立案标准。查明情况：透支本金29942.52元，已达到\"数额较大\"标准。控辩双方对金额无异议，审判长确认符合立案标准。\n\n5.被告人曾某的还款行为对量刑的影响。查明情况：被告人在案发后全额还款，可作为酌定从轻情节。辩护人强调其还款意愿和实际行为，公诉人认可该情节。审判长认为应在量刑时予以考虑。\n\n6.是否适用缓刑。查明情况：被告人无前科、有自首情节、已全额还款，具备适用缓刑条件。需结合其犯罪情节和社会危害性综合评估。审判长认为需在听取控辩双方意见后决定。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪？",
+              "经济困难导致信用卡逾期是否构成非法占有目的？",
+              "信用卡诈骗罪中自首情节对量刑的影响"
+            ],
+            "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪？": "### 结论\n信用卡透支后经催收超过三个月未还并不必然构成信用卡诈骗罪。关键在于行为人是否具有非法占有的目的，以及透支行为是否符合法律规定的恶意透支的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条第二款**：规定恶意透支的构成要件，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：进一步明确了恶意透支的含义，规定了应当认定为以非法占有为目的的六种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：是否在透支时具有归还的意思，透支后由于客观原因不能归还的，不能认定为具有非法占有的目的。例如，【（2014）一中刑终字第8号】中，法院认为被告人王心某并非以诈骗之目的申请办理信用卡，且在使用后的一段时间内按期归还信用卡欠款，故不构成信用卡诈骗罪。\n- **还款能力和意愿**：行为人是否有还款能力和还款意愿，是否采取了积极的还款措施。例如，【（2017）甘1123刑初183号】中，被告人及时向发卡行归还了信用卡本息，退赔了被害人经济损失，并取得谅解，法院认为其具有悔罪表现，对其宣告缓刑。\n- **透支后的表现**：是否逃避银行催收，是否与银行保持联系并积极沟通。例如，【（2016）吉0322刑初201号】中，被告人杨某因犯合同诈骗罪被判处刑罚，在判决宣告以后，刑罚执行完毕以前，发现其在判决宣告以前还有其他罪没有判决，但因其已归还全部款项，法院考虑了这一情节。\n- **透支款项的用途**：是否用于合法经营，因客观原因导致无法归还透支款项的，不能认定“以非法占有为目的”。例如，【（2019）青0121刑初192号】中，法院认为被告人使用工商银行信用卡的行为不属于恶意透支，不应认定为信用卡诈骗。\n\n综上，信用卡透支后经催收超过三个月未还是否构成信用卡诈骗罪，关键在于行为人是否具有非法占有的目的，以及透支行为是否符合法律规定的恶意透支的构成要件。法院在判断时会综合考虑行为人的还款能力和意愿、透支后的表现、透支款项的用途等因素。\n\n#####\n类似案件为：\n【（2017）甘1123刑初183号】：法院认为，赵某某超过规定期限透支信用卡，并在发卡行两次催收后三个月内仍未归还，构成信用卡诈骗罪；在明知自己负债无力偿还的情况下，利用伪造担保人身份证的方式骗取他人借款并逃避债务，构成诈骗罪。鉴于赵某某及时归还信用卡本息，退赔被害人经济损失，取得谅解，且认罪态度良好，决定对其宣告缓刑。法院判决被告人赵某某犯信用卡诈骗罪，判处拘役六个月，缓刑一年，并处罚金2万元；犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金1万元。决定执行有期徒刑三年，缓刑四年，并处罚金3万元。\n【（2016）吉0322刑初201号】：法院认为，杨某以非法占有为目的，超过规定期限透支信用卡，经银行多次催收后超过三个月仍未归还，数额较大，其行为已构成信用卡诈骗罪。杨某在判决宣告后，刑罚执行完毕前，发现其在判决宣告前还有其他罪未判决，应数罪并罚。鉴于杨某已归还全部款项，酌情从轻处罚。被告人杨某犯信用卡诈骗罪，判处有期徒刑六个月，并处罚金20000元，与前罪合同诈骗罪判处的三年有期徒刑及30000元罚金并罚，决定执行有期徒刑三年三个月，并处罚金50000元。罚金需于判决生效后十日内一次性缴纳。\n【（2019）青0121刑初192号】：法院认为，李**恶意透支信用卡资金，数额巨大，经发卡银行多次催收后超过三个月仍未归还，构成信用卡诈骗罪；使用伪造证件，虚构事实，骗取他人现金，数额巨大，构成诈骗罪。李**能如实供述罪行，认罪悔罪，可从轻处罚。李**犯数罪，应数罪并罚。被告人李**犯信用卡诈骗罪，判处有期徒刑五年零九个月，并处罚金四万元；犯诈骗罪，判处有期徒刑七年零二个月，并处罚金一万元；数罪并罚，决定执行有期徒刑十年零六个月，并处罚金五万元。责令李**退赔工商银行及各被害人经济损失，随案移送的伪造证件及信用卡依法予以没收。",
+            "经济困难导致信用卡逾期是否构成非法占有目的？": "### 结论\n经济困难导致信用卡逾期，若行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项，且事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第196条**：规定了信用卡诈骗罪的构成要件，包括恶意透支型信用卡诈骗罪的认定标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人透支款项的用途**：如果行为人将透支款项用于合法经营，而非个人挥霍或非法活动，法院倾向于认为其不具有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人将透支款项用于合法经营，因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，法院认定其行为不构成犯罪。\n- **行为人的还款态度及是否逃避催收**：行为人在逾期后是否积极与银行协商还款，以及是否变更联系电话、地址等逃避催收的行为，是判断其是否具有非法占有目的的重要因素。如【（2015）穗越法刑初字第1311号】中，二被告人一直有积极与银行协商还款事宜，未有逃避催收的行为，法院认为其行为不构成犯罪。\n- **行为人申领信用卡时有无虚构事实、隐瞒真相的行为**：如果行为人在申领信用卡时存在虚构事实或隐瞒真相的行为，可能增加其非法占有目的的嫌疑。但案例中未直接提及此点作为关键因素，故不作为主要分析点。\n\n综上，行为人将透支款项用于合法经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪。这一结论在【（2015）穗越法刑初字第1311号】案例中得到了明确体现，且在其他案例中也得到了一定程度的支持。\n\n#####\n类似案件为：\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。",
+            "信用卡诈骗罪中自首情节对量刑的影响": "### 结论\n信用卡诈骗罪中自首情节对量刑的影响主要体现在：自首可以作为法定从轻或减轻处罚的情节，但其认定需满足自动投案和如实供述主要犯罪事实的条件。自动投案后未能如实供述主要犯罪事实，尤其是对定罪量刑有重大影响的事实，将不被认定为自首，从而可能影响从轻或减轻处罚的适用。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条第一款**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条第二项**：犯罪嫌疑人自动投案后，如实交代自己的主要犯罪事实的，属于“如实供述自己的罪行”。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自动投案并如实供述主要犯罪事实**：自首的认定需满足自动投案和如实供述主要犯罪事实的条件。例如，【（2021）京02刑终47号】中，被告人高某岭在接民警电话通知后自行到公安机关接受调查，并能如实供述基本犯罪事实，被认定为自首，依法可从轻处罚。然而，在【（2018）粤20刑终240号】中，上诉人梁容方归案后如实供述司法机关尚未掌握的信用卡诈骗罪行，有自首情节，依法可对该部分犯罪从轻处罚。\n- **未能如实供述主要犯罪事实**：自动投案后未能如实供述主要犯罪事实，尤其是对定罪量刑有重大影响的事实，将不被认定为自首。例如，【（2021）京02刑终47号】中，北京市第二中级人民法院认为高某岭到案后未及时如实供述其冒用他人信用卡的事实，不能认定有自首情节，从而影响了量刑。\n- **自首与量刑**：自首可以作为法定从轻或减轻处罚的情节，但其认定需满足上述条件。例如，【（2017）沪0114刑初1966号】中，王琼对其所犯信用卡诈骗罪，具有自首情节，可以从轻处罚。\n\n综上，自首情节在信用卡诈骗罪中对量刑的影响是显著的，但其认定需严格满足自动投案和如实供述主要犯罪事实的条件。未能满足这些条件，即使自动投案，也可能不被认定为自首，从而影响从轻或减轻处罚的适用。\n\n#####\n类似案件为：\n【（2018）粤20刑终240号】：法院认为，梁容方在签订、履行合同过程中骗取对方当事人财物，数额巨大，构成合同诈骗罪；进行信用卡诈骗活动，数额较大，构成信用卡诈骗罪。梁容方对信用卡诈骗罪有自首情节，可从轻处罚；对合同诈骗罪如实供述，可从轻处罚。梁容方合同诈骗和信用卡诈骗罪应数罪并罚。梁容方犯合同诈骗罪，判处有期徒刑七年，并处罚金十万元；犯信用卡诈骗罪，判处有期徒刑二年，并处罚金三万元。总和刑期有期徒刑九年，决定执行有期徒刑八年，并处罚金十三万元。责令梁容方退赔冯某1124.61万元，退赔广发银行13.022万元，退赔建设银行11.9483万元。\n检察院、被告及辩护人提出的立功、自首等意见不予采纳。二审期间，最高法、最高检调整了信用卡诈骗犯罪数额标准，梁容方恶意透支信用卡的犯罪数额属于数额较大，对量刑做出调整。判决为终审判决。\n【（2017）沪0114刑初1966号】：法院认为，被告人王琼以非法占有为目的，冒用他人信用卡，进行信用卡诈骗活动，数额较大；秘密窃取他人财物，数额较大；假冒他人名义申请消费贷款，诈骗金融机构的贷款，数额较大，其行为已分别构成信用卡诈骗罪、盗窃罪、贷款诈骗罪，应予数罪并罚。王琼对其所犯信用卡诈骗罪，具有自首情节；能如实供述自己的盗窃罪行、贷款诈骗罪行，均可以从轻处罚。结合王琼的犯罪手段，已退出违法所得，取得相关被害人谅解等情节，本院在量刑时一并予以体现。被告人王琼犯信用卡诈骗罪，判处有期徒刑六个月，并处罚金人民币二万元；犯盗窃罪，判处有期徒刑六个月，并处罚金人民币二千元；犯贷款诈骗罪，判处有期徒刑十个月，并处罚金人民币二万元；决定执行有期徒刑一年六个月，并处罚金人民币四万二千元。\n(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年6月5日起至2018年12月4日止。罚金应于本判决生效之日起十日内缴纳。)"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：\n1.通过银行催收记录、交易明细等书证形成完整证据链，证明被告人曾某透支29942.52元且经7次催收超过三个月未还，符合刑法第196条\"恶意透支\"的构成要件。\n2.被告人虽主动投案并还款，但透支时已明知无还款能力，且未提供任何经济困难证明，具有非法占有目的。\n3.被告人长达9个月未还款，期间仅口头说明困难但未采取实质还款措施，表明其主观恶性较大。\n4.透支金额达数额较大标准，破坏金融管理秩序，应从重处罚。\n\n防御策略：\n1.银行催收记录包含电话、短信、信函及上门催收等原始凭证，经银行盖章确认，证明效力充分。\n2.交易明细由银行系统自动生成，与被告人供述相互印证，不存在取证瑕疵。\n3.投案经过由公安机关出具，与还款凭证时间吻合，可确认自首情节，但该情节已在量刑建议中体现从宽幅度。\n4.被告人未能提供经济困难的有效证明材料，其口头辩解缺乏证据支持。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡诈骗罪中如何认定非法占有目的",
+              "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪"
+            ],
+            "信用卡诈骗罪中如何认定非法占有目的": "### 结论\n信用卡诈骗罪中认定非法占有目的需综合考量持卡人的信用记录、还款能力和意愿、申领和透支信用卡的状况、透支资金的用途、透支后的表现、未按规定还款的原因等情节。单纯依据未按规定还款的事实不能认定非法占有目的，需结合主客观因素综合判断。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定恶意透支的构成要件，包括主观上的非法占有目的和客观上的经发卡银行两次催收后超过3个月仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：规定了恶意透支的认定标准和非法占有目的的六种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **还款能力和意愿**：如【（2016）冀09刑终273号】中，孙某某在透支后因交通事故等客观原因未能还款，但不能因此认定其具有非法占有目的。\n- **透支资金的用途**：如【（2019）京01刑终629号】中，吕某波以非法占有为目的，拾得他人信用卡并使用，构成信用卡诈骗罪。\n- **透支后的表现**：如【（2018）京03刑终192号】中，王某在银行催收后长达三年多的时间内无任何还款行为和表示，且以变换联系电话等方式躲避银行催收，显见其具有逃避债务的非法占有目的。\n- **未按规定还款的原因**：如【（2017）鲁0883刑初142号】中，高强在向众被害人借款时均隐瞒了自己债台高筑、沉迷博彩的窘迫处境，并将借款用于“拆东墙、补西墙”和继续购买网络彩票，直至逃匿，故其借款理由不影响其构成诈骗罪的认定。\n\n综上，认定信用卡诈骗罪中的非法占有目的，需综合考量持卡人的还款能力、透支资金用途、透支后的表现及未还款的原因，不能仅凭单一因素作出判断，应坚持主客观相一致的原则，避免客观归罪。\n\n#####\n类似案件为：\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。\n【（2017）鲁0883刑初142号】：法院认为，被告人高强以非法占有为目的，透支银行卡后，经发卡银行催收后仍不归还，数额较大，其行为已构成信用卡诈骗罪；以非法占有为目的，采取虚构事实、隐瞒真相的手段骗取他人财物，数额特别巨大，其行为已构成诈骗罪。被告人高强犯信用卡诈骗罪，判处有期徒刑二年，并处罚金人民币二万元；犯诈骗罪，判处有期徒刑十一年，并处罚金人民币五十万元，数罪并罚，决定执行有期徒刑十三年，并处罚金人民币五十二万元。责令高强退赔相关单位和个人的经济损失。",
+            "信用卡透支后经催收超过三个月未还是否必然构成信用卡诈骗罪": "### 结论\n信用卡透支后经催收超过三个月未还并不必然构成信用卡诈骗罪。关键在于是否具有非法占有的目的，以及透支后的具体行为是否符合法律规定的恶意透支条件。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的定义。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的含义，规定了应当认定为以非法占有为目的的六种情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：是否在透支时就具有非法占有的目的，如【（2014）一中刑终字第8号】中，法院认为被告人并非以诈骗之目的申请办理信用卡，且在使用后的一段时间内按期归还信用卡欠款，因此不构成信用卡诈骗罪。\n- **透支后的具体行为**：是否采取了逃避银行催收的行为，如改变联系方式、逃匿等，如【（2015）西刑初字第733号】中，法院认为被告人高姗姗的行为侵害了国家金融票证管理制度及他人财产所有权，构成信用卡诈骗罪。\n- **还款能力与还款意愿**：是否具有还款能力，以及是否在透支后有积极的还款意愿和行为，如【（2019）青0121刑初192号】中，法院认为被告人李**在案发后能如实供述自己的罪行，认罪悔罪，对其可酌情从轻处罚。\n- **透支款项的用途**：是否用于合法用途，如用于合法经营，因客观原因导致无法归还，如【（2015）西刑初字第733号】中，法院认为被告人高姗姗的行为构成信用卡诈骗罪，但未提及透支款项的用途。\n\n综上，信用卡透支后经催收超过三个月未还是否构成信用卡诈骗罪，关键在于是否具有非法占有的目的，透支后的具体行为是否逃避催收，以及是否有还款能力和意愿。如果透支款项用于合法经营，因客观原因导致无法归还，且没有逃避催收的行为，通常不构成信用卡诈骗罪。如果透支后采取了逃避催收的行为，或者明知没有还款能力而大量透支，通常会被认定为具有非法占有的目的，构成信用卡诈骗罪。\n\n#####\n类似案件为：\n【（2019）青0121刑初192号】：法院认为，李**恶意透支信用卡资金，数额巨大，经发卡银行多次催收后超过三个月仍未归还，构成信用卡诈骗罪；使用伪造证件，虚构事实，骗取他人现金，数额巨大，构成诈骗罪。李**能如实供述罪行，认罪悔罪，可从轻处罚。李**犯数罪，应数罪并罚。被告人李**犯信用卡诈骗罪，判处有期徒刑五年零九个月，并处罚金四万元；犯诈骗罪，判处有期徒刑七年零二个月，并处罚金一万元；数罪并罚，决定执行有期徒刑十年零六个月，并处罚金五万元。责令李**退赔工商银行及各被害人经济损失，随案移送的伪造证件及信用卡依法予以没收。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.指出公诉人未能提供充分证据证明被告人具有\"非法占有目的\"，仅凭逾期还款事实不足以认定信用卡诈骗罪 2.质疑银行催收记录的有效性，指出被告人始终保持通讯畅通且配合催收，不符合\"经催收后仍不归还\"的客观要件 3.强调透支款项用于合法经营和生活开支，无证据表明资金用于非法用途\n\n防御策略：1.提供被告人生意亏损和家庭医疗支出的证明材料，证明逾期系客观经济困难导致 2.强调被告人主动投案并全额还款的事实，证明其具有还款意愿和悔改表现",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后因经济困难逾期还款是否必然构成信用卡诈骗罪？",
+              "如何区分信用卡恶意透支与善意透支？"
+            ],
+            "信用卡透支后因经济困难逾期还款是否必然构成信用卡诈骗罪？": "### 结论\n信用卡透支后因经济困难逾期还款并不必然构成信用卡诈骗罪。关键在于判断行为人是否具有非法占有的目的，以及透支行为是否符合恶意透支的构成要件。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的定义。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的认定标准，包括非法占有目的的判断依据。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否具有非法占有的目的**：法院在判断是否构成信用卡诈骗罪时，会重点考察行为人是否具有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，法院认为行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的，不能认定“以非法占有为目的”。【（2014）一中刑终字第8号】中，法院认为被告人王心某的行为反映出其以非法占有为目的，恶意透支银行信用卡钱款的主观心态。\n- **透支行为是否符合恶意透支的构成要件**：恶意透支型信用卡诈骗罪必须同时具备两个条件：主观上行为人“以非法占有为目的”；客观上行为人实施了“超额或者超限透支”且“经两次以上催收不还”的行为。例如，【（2016）赣0735刑初17号】中，法院认为被告人邓某某明知自己没有还款能力，为归还他人借款本息超过规定期限大量透支，且经发卡银行多次催收后超过三个月仍不归还，其行为属于恶意透支，依法构成信用卡诈骗罪。\n- **透支款项的用途**：法院会考察透支款项的用途，以判断行为人是否具有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，法院认为二被告人将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪。\n\n综上，信用卡透支后因经济困难逾期还款是否构成信用卡诈骗罪，关键在于行为人是否具有非法占有的目的，以及透支行为是否符合恶意透支的构成要件。如果行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项，且没有逃避催收，通常不会被认定为信用卡诈骗罪。但如果行为人明知没有还款能力而大量透支，且经发卡银行两次以上催收后超过三个月仍不归还，就可能构成信用卡诈骗罪。\n\n#####\n类似案件为：\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2016）赣0735刑初17号】：法院认为，邓某某恶意透支信用卡超过规定期限，经多次催收后超过三个月仍未归还，构成信用卡诈骗罪；邓某某以非法占有为目的，采用虚构事实或隐瞒真相的方法，骗取他人财物，数额特别巨大，构成诈骗罪。郑某某骗取吴某某资金，数额巨大，构成诈骗罪。法院判决被告人邓某某犯信用卡诈骗罪，判处有期徒刑二年六个月，并处罚金人民币20000元；犯诈骗罪，判处有期徒刑十一年，并处罚金人民币100000元，决定执行有期徒刑十二年六个月，并处罚金人民币120000元。被告人郑某某犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币50000元。责令邓某某退赔犯罪所得给相关被害人和银行。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。",
+            "如何区分信用卡恶意透支与善意透支？": "### 结论\n区分信用卡恶意透支与善意透支的关键在于判断持卡人是否具有非法占有的目的，以及是否在经发卡银行两次有效催收后超过三个月仍未归还透支款项。\n\n### 核心法条\n- **《刑法》第一百九十六条第二款**：规定恶意透支的构成要件，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的含义，包括持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行两次催收后超过三个月仍不归还的，应当认定为恶意透支。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的的判断**：法院会综合考虑持卡人的信用记录、还款能力和意愿、申领和透支信用卡的状况、透支资金的用途、透支后的表现、未按规定还款的原因等情节作出判断。例如，【（2016）冀09刑终273号】中，法院认为孙某某在开卡购车进行透支时具有归还意思表示，虽然因客观原因未能按时还款，但不能认定具有非法占有的目的。\n- **有效催收的认定**：催收必须是发卡银行的有效催收，且被持卡人确实收到后，方可认定为刑法规定的催收。例如，【（2015）双刑初字第00015号】中，法院认定银行工作人员从2014年1月18日、2月23日经两次催收，晏宝某超过3个月仍不归还透支款，构成恶意透支。\n- **还款行为的考量**：持卡人在被停卡后至催收后未满3个月期间所偿还款项应视为偿还本金且应从犯罪数额中予以扣除。例如，【（2015）穗越法刑初字第1311号】中，法院认为二被告人在银行的催收下，在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的透支款项，表明其没有非法占有的目的。\n- **客观原因的考量**：因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收的，其行为不具有刑法上的“以非法占有为目的”。例如，【（2015）穗越法刑初字第1311号】中，法院认为二被告人将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，不属于恶意透支型的信用卡诈骗罪。\n\n综上，区分信用卡恶意透支与善意透支主要看持卡人是否具有非法占有的目的，是否在经发卡银行两次有效催收后超过三个月仍未归还透支款项，以及还款行为和客观原因是否影响非法占有目的的判断。\n\n#####\n类似案件为：\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.向法庭说明逾期还款系因经济困难导致，并非出于非法占有目的 2.强调被告人在催收期间保持通讯畅通，积极配合银行协商，无逃避催收行为 3.指出银行催收记录中未体现被告人存在逃避行为，不符合\"经催收后仍不归还\"的客观要件 4.说明被告人主动投案并全额还款的事实，证明其具有悔罪表现 5.引用(2015)穗越法刑初字第1311号判例，证明经济困难导致的逾期不必然构成犯罪",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否具有非法占有为目的的主观故意。查明情况：被告人辩称因经济困难无力偿还，透支款项用于合法经营和生活开支，且一直保持与银行沟通；公诉人通过多次催收未还款的事实主张其具有非法占有目的。审判长认为需结合透支款项用途、还款态度等综合判断，目前证据显示被告人确有还款意愿和行为。\n\n2.银行催收程序是否符合法律规定。查明情况：起诉书列明了7次催收记录，时间跨度符合\"两次有效催收且超过三个月未还\"要件。控辩双方对此无争议，审判长确认催收程序合法有效。\n\n3.被告人自首情节的认定及量刑影响。查明情况：被告人主动投案并如实供述，已全额还款，控辩双方均认可自首成立。审判长认为自首情节明确，应在量刑时予以从轻考虑。\n\n4.涉案金额是否达到信用卡诈骗罪的立案标准。查明情况：透支本金29942.52元，已达到\"数额较大\"标准。控辩双方对金额无异议，审判长确认符合立案标准。\n\n5.被告人还款行为对案件性质的影响。查明情况：被告人在案发后全额还款，辩护人强调其还款意愿和实际行为应影响定性；公诉人认为还款时间过晚不影响犯罪构成。审判长认为需结合还款时间、主观故意等因素综合判断。\n\n6.是否适用缓刑。查明情况：被告人无前科、有自首情节、已全额还款，具备适用缓刑条件。辩护人主张适用缓刑，公诉人未明确反对。审判长认为需结合犯罪情节和社会危害性综合评估。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人确认透支消费及拖欠本金29942.52元的事实\n- 辩护人提出异议，认为供述不能证明非法占有故意\n- 公诉人反驳称被告人经7次催收9个月未还款已超出正常经济困难范畴\n\n2. 公诉人出示银行催收相关证据（证人证言、催收记录等）：\n- 辩护人提出异议，认为证据仅证明催收事实，不能证明被告人逃避还款\n- 公诉人强调7次催收超过三个月未还款已符合犯罪构成要件\n\n3. 公诉人出示还款凭证、投案经过等证据：\n- 控辩双方对被告人主动还款和投案事实无异议\n\n4. 辩护人出示投案情况说明：\n- 公诉人对被告人自首情节无异议\n\n5. 被告人表示不申请调取新证据",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后经多次催收未还款但最终全额还款的行为是否构成信用卡诈骗罪？",
+              "经济困难导致信用卡逾期但保持通讯畅通并主动还款的案件如何认定非法占有目的？"
+            ],
+            "信用卡透支后经多次催收未还款但最终全额还款的行为是否构成信用卡诈骗罪？": "### 结论\n信用卡透支后经多次催收未还款但最终全额还款的行为是否构成信用卡诈骗罪，关键在于判断行为人是否具有“以非法占有为目的”的主观故意，以及是否满足“经发卡银行两次催收后超过3个月仍不归还”的客观条件。如果行为人有还款意愿和行为，且最终全额还款，尤其是在催收后3个月内还款，通常不构成信用卡诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的定义。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的认定标准，包括“非法占有为目的”的具体情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **还款意愿和行为**：如果行为人在透支后有积极的还款意愿和行为，即使经多次催收，最终全额还款，通常不构成信用卡诈骗罪。例如，【（2018）苏0281刑初1557号】中，被告人魏某某在催收后还款，法院认为其行为构成自首，依法从轻处罚。\n- **非法占有目的**：是否具有“非法占有为目的”是判断是否构成信用卡诈骗罪的关键。如果行为人透支时有还款能力，透支后因客观原因无法还款，且没有逃避催收，通常不认定为“非法占有”。例如，【（2016）吉0182刑初201号】中，被告人齐志坚因具有坦白情节和还款行为，法院酌情从轻处罚。\n- **催收后还款时间**：如果行为人在发卡银行两次催收后3个月内还款，通常不构成信用卡诈骗罪。例如，【（2014）一中刑终字第8号】中，法院认为被告人王心某在最后一次有效还款后，除特定账单外，其他不应认定为犯罪数额，体现了对催收后还款时间的考量。\n\n综上，信用卡透支后经多次催收未还款但最终全额还款的行为是否构成信用卡诈骗罪，主要取决于行为人是否具有非法占有目的，以及是否在规定时间内还款。如果行为人有还款意愿，最终全额还款，尤其是在催收后3个月内，通常不会被认定为信用卡诈骗罪。\n\n#####\n类似案件为：\n【（2016）吉0182刑初201号】：法院认为，齐志坚以非法占有为目的，恶意透支，经发卡行多次催收，超过法定期限未还款，其行为构成信用卡诈骗罪。齐志坚有坦白情节，可依法从轻处罚。齐志坚在刑罚执行完毕前发现漏罪，应当对本罪与前罪合并执行。被告人齐志坚犯信用卡诈骗罪，判处有期徒刑二年六个月，并处罚金五万元；与原犯合同诈骗罪判处的四年有期徒刑，并处罚金三十六万元合并执行，决定执行有期徒刑六年三个月，并处罚金四十一万元。责令齐志坚退赔兴业银行经济损失48399元。",
+            "经济困难导致信用卡逾期但保持通讯畅通并主动还款的案件如何认定非法占有目的？": "### 结论\n经济困难导致信用卡逾期但保持通讯畅通并主动还款的案件，法院通常不会认定行为人具有非法占有目的，不构成恶意透支型信用卡诈骗罪。关键在于行为人是否在透支时具有归还的意愿，透支后是否因客观原因无法归还，以及是否积极与银行沟通并有还款行为。\n\n### 核心法条\n- **《刑法》第一百九十六条第二款**：规定恶意透支的定义，即持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：规定了恶意透支的认定标准，包括主观上以非法占有为目的，客观上实施了超额或者超限透支且经两次以上催收不还的行为。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人透支款项的用途**：如果透支款项用于合法经营，且因客观原因导致无法归还，法院通常不会认定行为人具有非法占有目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人将透支款项用于合法经营，因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”。\n- **行为人的还款态度及是否逃避催收**：如果行为人在透支后保持通讯畅通，积极与银行沟通并有还款行为，即使还款金额不大，也表明行为人没有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人在银行催收后，仍向已经被停卡的涉案信用卡账户偿还了一笔4万元的透支款项，且在逾期未能继续归还欠款后，银行数十次电话催收，二被告人未有变更联系电话、变更地址等逃避催收的逃避行为。\n- **行为人是否具有还款能力**：如果行为人在透支时具有还款能力，但因突发重大疾病或其他客观原因导致暂时无力还款，且事后与发卡银行积极沟通说明情况、尽力筹措还款资金的，不应认定为以非法占有为目的。例如，【（2016）冀09刑终273号】中，孙某某在开卡购车进行透支的时候是具有归还意思表示的，虽然在透支后由于因交通事故等客观原因造成无力按时还款，但不能就此认定孙某某具有非法占有的目的。\n\n综上，行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项，且在透支后保持通讯畅通，积极与银行沟通并有还款行为，通常不会被认定为具有非法占有目的，不构成恶意透支型信用卡诈骗罪。法院在判断非法占有目的时，会综合考虑行为人的还款能力、还款态度、透支款项的用途以及是否逃避催收等因素。\n\n#####\n类似案件为：\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。"
+          }
+        }
+      },
+      "公诉人": {
+        "策略": "攻击策略：1.通过银行催收记录、交易明细等书证形成完整证据链，证明被告人曾某透支29942.52元且经7次催收超过三个月未还，符合刑法第196条\"恶意透支\"的构成要件。2.被告人虽主动投案并还款，但透支时已明知无还款能力，且未提供任何经济困难证明，具有非法占有目的。3.被告人长达9个月未还款，期间仅口头说明困难但未采取实质还款措施，表明其主观恶性较大。4.透支金额达数额较大标准，破坏金融管理秩序，应从重处罚。\n\n防御策略：1.银行催收记录包含电话、短信、信函及上门催收等原始凭证，经银行盖章确认，证明效力充分。2.交易明细由银行系统自动生成，与被告人供述相互印证，不存在取证瑕疵。3.投案经过由公安机关出具，与还款凭证时间吻合，可确认自首情节，但该情节已在量刑建议中体现从宽幅度。4.被告人未能提供经济困难的有效证明材料，其口头辩解缺乏证据支持。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人确认透支消费及拖欠本金29942.52元的事实\n- 辩护人提出异议，认为供述不能证明非法占有故意\n- 公诉人反驳称被告人经7次催收9个月未还款已超出正常经济困难范畴\n\n2. 公诉人出示银行催收相关证据（证人证言、催收记录等）：\n- 辩护人提出异议，认为证据仅证明催收事实，不能证明被告人逃避还款\n- 公诉人强调7次催收超过三个月未还款已符合犯罪构成要件\n\n3. 公诉人出示还款凭证、投案经过等证据：\n- 控辩双方对被告人主动还款和投案事实无异议\n\n4. 辩护人出示投案情况说明：\n- 公诉人对被告人自首情节无异议\n\n5. 被告人表示不申请调取新证据",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后经多次催收超过三个月未还款但最终主动还款的行为是否构成信用卡诈骗罪",
+              "经济困难导致信用卡逾期但保持通讯畅通并最终还款的案件处理"
+            ],
+            "信用卡透支后经多次催收超过三个月未还款但最终主动还款的行为是否构成信用卡诈骗罪": "### 结论\n信用卡透支后经多次催收超过三个月未还款但最终主动还款的行为是否构成信用卡诈骗罪，关键在于判断行为人是否具有非法占有的目的，以及是否满足恶意透支的客观条件，即经发卡银行两次催收后超过三个月仍不归还。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的定义。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的认定标准，包括非法占有目的的判断依据。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：【（2016）冀09刑终273号】、【（2014）一中刑终字第8号】、【（2016）吉0322刑初201号】等案例强调，判断行为人是否具有非法占有目的，需综合考虑行为人在申领、透支、还款过程中的行为，如是否虚构事实、透支资金的用途、还款态度等。例如，【（2016）冀09刑终273号】中，法院认为孙某某在透支后有还款行为，且有合理解释（如交通事故），因此不构成非法占有。\n- **恶意透支的客观条件**：【（2014）一中刑终字第8号】、【（2016）冀09刑终273号】等案例指出，恶意透支需满足经发卡银行两次催收后超过三个月仍不归还的条件。如【（2014）一中刑终字第8号】中，法院认为王心某在最后一次有效还款后，部分账单未满足恶意透支的时间、次数限制，不应认定为犯罪数额。\n- **还款行为的性质**：【（2016）冀09刑终273号】、【（2014）一中刑终字第8号】等案例表明，行为人在被催收后主动还款的行为，可以作为判断其是否具有非法占有目的的依据。如【（2016）冀09刑终273号】中，孙某某在银行催收后有还款行为，且保证人也代为还款，因此法院认为孙某某的行为不符合恶意透支的客观条件。\n\n综上，信用卡透支后经多次催收超过三个月未还款但最终主动还款的行为是否构成信用卡诈骗罪，主要取决于行为人是否具有非法占有的目的，以及是否满足恶意透支的客观条件。在判断非法占有目的时，需综合考虑行为人在申领、透支、还款过程中的行为，以及透支资金的用途和还款态度。在判断恶意透支的客观条件时，需确认是否满足经发卡银行两次催收后超过三个月仍不归还的条件。\n\n#####\n类似案件为：\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。\n【（2016）吉0322刑初201号】：法院认为，杨某以非法占有为目的，超过规定期限透支信用卡，经银行多次催收后超过三个月仍未归还，数额较大，其行为已构成信用卡诈骗罪。杨某在判决宣告后，刑罚执行完毕前，发现其在判决宣告前还有其他罪未判决，应数罪并罚。鉴于杨某已归还全部款项，酌情从轻处罚。被告人杨某犯信用卡诈骗罪，判处有期徒刑六个月，并处罚金20000元，与前罪合同诈骗罪判处的三年有期徒刑及30000元罚金并罚，决定执行有期徒刑三年三个月，并处罚金50000元。罚金需于判决生效后十日内一次性缴纳。\n【（2016）冀09刑终273号】：法院生效裁判认为：上诉人孙某某在中国农业银行某分行申请办理金穗贷记卡专项商户分期业务取得贷款后，通过在银行专门办理的金穗贷记卡分期偿还贷款。此卡只是孙某某偿还贷款的载体，并未通过此卡恶意透支消费。在银行催收后孙某某于8月5日还款14 000元，保证人---沧州某汽车服务有限公司于9月3日和9月30日分别代孙某某偿还贷款20 000元、36 000元，案发后于2015年2月17日又代还87 000元，不存在原审法院认为的孙某某“恶意透支345 807.4元，经银行多次催收未归还”的情节。故孙某某未还贷款的行为不符合信用卡诈骗罪的犯罪构成。\n上诉人孙某某与银行签订金穗贷记卡专项商户分期业务担保借款合同，不仅有经依法登记的汽车抵押担保，而且还有经银行确认为真实有效的自然人和汽车服务公司的担保保证。尽管现有在案证据能够证实孙某某在申请办理金穗贷记卡专项商户分期业务过程中提供了虚假的证明文件，但银行系基于依法登记的汽车抵押担保和真实有效的自然人和汽车服务公司的担保而与孙某某签订担保借款合同的，而并非是因为孙某某提供虚假的证明文件使银行陷入错误认识签订的合同。银行在获知孙某某不能按期归还贷款后完全可以通过民事诉讼等途径主张自己的合法权益，事实上沧州某汽车服务有限公司在案发前后也先后三次履行过担保还款义务。故孙某某提供虚假的证明文件的行为属于普通的民事欺诈，而非刑法意义上的诈骗。\n在取得贷款后，上诉人孙某某按照约定用此笔贷款购买了车辆，且依法进行了抵押登记；在按期归还第一期贷款后，经银行催收，孙某某又归还银行贷款14 000元，之后其个人虽未再还贷款，但不能排除其确因发生交通事故，造成还款不能的可能，故在没有充分证据证实孙某某在签订、履行合同过程中具有非法占有银行贷款目的的情况下不能必然的推定出孙某某具有非法占有银行贷款的目的。\n综上，上诉人孙某某的行为不构成犯罪，原审法院判决孙某某犯信用卡诈骗罪错误，应予纠正。",
+            "经济困难导致信用卡逾期但保持通讯畅通并最终还款的案件处理": "### 结论\n经济困难并非免除信用卡逾期还款责任的合法理由。持卡人即使面临经济困难，仍需按照信用卡领用合约的约定承担逾期还款责任。法院通常不支持以经济困难为由要求免除部分债务或调整还款条件的请求，除非双方达成分期还款协议。持卡人应积极与银行沟通，寻求合理的还款安排。\n\n### 核心法条\n- **《中华人民共和国民法典》第一千一百九十条**：民事主体从事民事活动，应当遵循诚信原则，秉持诚实，恪守承诺。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **经济困难的主张**：法院通常认为经济困难不能作为免除信用卡逾期还款责任的理由。例如，【（2021）粤18民终4520号】、【（2021）津02民终7747号】、【（2021）京74民终655号】中，上诉人以经济困难为由要求免除部分债务或调整还款条件，但法院均未支持，认为依据不足。\n- **信用卡领用合约的约定**：持卡人与银行之间的信用卡领用合约是双方真实意思表示，合法有效，双方均应恪守。如【（2022）京74民终288号】、【（2021）黔01民终10278号】、【（2021）粤01民终25225号】中，法院均强调了信用卡领用合约的约束力，持卡人逾期还款构成违约，应承担相应的违约责任。\n- **息费的调整**：在某些情况下，法院可能会对息费进行调减，如【（2022）京74民终288号】、【（2022）辽02民终439号】、【（2022）苏0582民初11077号】中，法院认为息费约定过高，判决对息费予以调减，以不超过年利率24%为限，以有效降低实体经济的融资成本。\n\n综上，持卡人即使面临经济困难，仍需按照信用卡领用合约的约定承担逾期还款责任。法院通常不支持以经济困难为由要求免除部分债务或调整还款条件的请求，除非双方达成分期还款协议。持卡人应积极与银行沟通，寻求合理的还款安排。在某些情况下，法院可能会对息费进行调减，以不超过年利率24%为限。\n\n#####\n类似案件为：\n【（2021）粤18民终4520号】：本院认为，上诉人透支信用卡后未按期还款，事实清楚，证据充分。根据信用卡领用合约约定，上诉人应当承担逾期还款的责任，包括本金、利息及违约金。上诉人提出因无还款能力要求免除部分债务，但双方未达成分期还款协议，此主张依据不足，不予支持。综上，上诉人的上诉请求缺乏事实与法律依据，不予成立，一审判决认定事实清楚，适用法律正确，应予维持。驳回上诉，维持原判。\n【（2021）津02民终7747号】：本院认为，焦点在于上诉人是否应承担信用卡逾期还款的违约责任。上诉人与被上诉人建立信用卡合同关系，上诉人使用信用卡透支后未按约定期限还款付息，截至特定时间点仍欠部分利息。被上诉人有权要求支付利息。上诉人虽提出因曾被羁押及经济困难，但这些理由不构成免息依据。一审确定的利息标准合理，本院维持原判。因此，上诉人的上诉理由不成立，一审判决事实清晰，法律适用准确，应予以维持。驳回上诉，维持原判。\n二审案件受理50元，由王健负担。\n【（2021）京74民终655号】：本院认为，陈国良与中行东城支行签订的《信用卡汽车专向分期付款合同》有效，双方应遵守。陈国良使用信用卡后未按期还款，依约需向中行东城支行偿还本金、利息、滞纳金、违约金。一审法院核定的利息等费用未超出法律规定，故维持原判。陈国良上诉理由不成立，驳回上诉，维持一审判决的准确性与合法性。驳回上诉，维持原判。"
+          }
+        }
+      },
+      "辩护人": {
+        "策略": "攻击策略：1.指出公诉人未能提供充分证据证明被告人具有\"非法占有目的\"，仅凭逾期还款事实不足以认定信用卡诈骗罪 2.质疑银行催收记录的有效性，指出被告人始终保持通讯畅通且配合催收，不符合\"经催收后仍不归还\"的客观要件\n防御策略：1.强调被告人主动投案并全额还款的事实，证明其具有还款意愿和悔改表现 2.引用《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条，说明单纯因经济困难导致无法还款的情形不应认定为信用卡诈骗罪",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人确认透支消费及拖欠本金29942.52元的事实\n- 辩护人提出异议，认为供述不能证明非法占有故意\n- 公诉人反驳称被告人经7次催收9个月未还款已超出正常经济困难范畴\n\n2. 公诉人出示银行催收相关证据（证人证言、催收记录等）：\n- 辩护人提出异议，认为证据仅证明催收事实，不能证明被告人逃避还款\n- 公诉人强调7次催收超过三个月未还款已符合犯罪构成要件\n\n3. 公诉人出示还款凭证、投案经过等证据：\n- 控辩双方对被告人主动还款和投案事实无异议\n\n4. 辩护人出示投案情况说明：\n- 公诉人对被告人自首情节无异议\n\n5. 被告人表示不申请调取新证据",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后经催收未还款但保持通讯畅通是否构成信用卡诈骗罪",
+              "经济困难导致信用卡逾期是否构成非法占有目的"
+            ],
+            "信用卡透支后经催收未还款但保持通讯畅通是否构成信用卡诈骗罪": "### 结论\n信用卡透支后经催收未还款但保持通讯畅通是否构成信用卡诈骗罪，关键在于判断持卡人是否具有非法占有的目的，以及是否满足“经发卡银行两次催收后超过3个月仍不归还”的客观条件。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的定义。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的认定标准，包括非法占有目的的判断依据。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **非法占有目的**：【（2014）松刑初字第2035号】中，法院认为林某某在银行多次催收后，超过规定期限拒不还款，甚至拒接电话、变更住址，主观上具有非法占有目的。而【（2014）一中刑终字第8号】中，法院认为王心某虽有透支行为，但并非以诈骗之目的申请办理信用卡，且在使用后的一段时间内按期归还信用卡欠款，故不构成非法占有目的。\n- **催收后还款态度**：【（2015）双刑初字第00015号】中，晏宝某在银行催收后仍不归还透支款，且在缓刑考验期内犯罪，被认定为信用卡诈骗罪。而【（2017）鄂0323刑初21号】中，宋某在案发后已偿还恶意透支的本息，取得了发卡银行的谅解，且与合同诈骗的被害人达成还款协议，因此从轻处罚。\n- **还款能力与还款意愿**：【（2016）赣0735刑初17号】中，邓某某虚构事实，隐瞒真相，大肆向各被害人借款，其非法占有的目的明确，且在骗取各被害人现金后，除支付利息外，造成各被害人直接经济损失，构成诈骗罪。而【（2014）一中刑终字第8号】中，王心某虽有透支行为，但其在透支后有还款行为，且家属代其缴纳拖欠的信用卡本金，减少了被害单位的经济损失，因此从轻处罚。\n\n综上，是否构成信用卡诈骗罪，关键在于判断持卡人是否具有非法占有的目的，以及是否满足“经发卡银行两次催收后超过3个月仍不归还”的客观条件。保持通讯畅通但未还款，如果持卡人有还款能力而故意不还，或有逃避还款的行为，可能构成信用卡诈骗罪。反之，如果持卡人有还款意愿，且有正当理由暂时无法还款，如突发重大疾病或其他客观原因，且与银行保持沟通，积极筹措还款资金，则可能不构成信用卡诈骗罪。\n\n#####\n类似案件为：\n【（2014）松刑初字第2035号】：法院生效裁判认为：一、被告人林某某庭审供述对某信银行、某发银行信用卡诈骗事实无异议，予以确认；二、“好享贷”业务来源于被告人办理的信用卡，本质上仍是信用透支消费。林某某在某通银行多次催收后，超过规定期限拒不还款，甚至拒接电话、变更住址，主观上具有非法占有目的，该欠款本金应计入信用卡诈骗数额。对林某某及其辩护人所提“好享贷”业务不应计入信用卡透支金额的辩护意见，不予采纳。三、林某某自2013年7月开始超过规定期限透支，后又经银行多次有效催收，至案发前仍未归还欠款，构成恶意透支。其在7月份之后的还款7 100元，应作为透支本金扣除。根据某通银行交易明细，林某某7月份之后还款的7100元当中有3507.48元是作为利息、费用等被银行扣除的，实际应作为本金予以扣除，认定林某某在某通银行的透支本金为46 083.67元。\n据此，被告人林某某恶意透支信用卡，数额较大，其行为已构成信用卡诈骗罪。公诉机关指控的罪名成立。林某某到案后如实供述其犯罪事实，可依法从轻处罚。林某某尚不符合适用缓刑的条件，对林某某要求判处缓刑的意见不予采纳。综上，根据被告人犯罪的事实、性质、情节和对于社会的危害程度等，依照《中华人民共和国刑法》第一百九十六条第一款第（四）项、第二款，第六十七条第三款，第六十四条，第五十二条，第五十三条的规定，作出判决。\n【（2017）鄂0323刑初21号】：法院认为，被告人宋某恶意透支信用卡，经银行催收后超过三个月仍未归还，构成信用卡诈骗罪；利用合同骗取他人财物，数额较大，构成合同诈骗罪。宋某犯数罪，应数罪并罚。鉴于其事后偿还了透支本息，与合同诈骗的被害人达成还款协议，并能坦白认罪，可依法从轻处罚。被告人宋某犯信用卡诈骗罪，判处有期徒刑一年六个月，并处罚金人民币20000元；犯合同诈骗罪，判处有期徒刑一年六个月，并处罚金人民币10000元。总和刑期三年，决定执行有期徒刑二年六个月，缓刑四年，并处罚金人民币30000元。\n【（2016）赣0735刑初17号】：法院认为，邓某某恶意透支信用卡超过规定期限，经多次催收后超过三个月仍未归还，构成信用卡诈骗罪；邓某某以非法占有为目的，采用虚构事实或隐瞒真相的方法，骗取他人财物，数额特别巨大，构成诈骗罪。郑某某骗取吴某某资金，数额巨大，构成诈骗罪。法院判决被告人邓某某犯信用卡诈骗罪，判处有期徒刑二年六个月，并处罚金人民币20000元；犯诈骗罪，判处有期徒刑十一年，并处罚金人民币100000元，决定执行有期徒刑十二年六个月，并处罚金人民币120000元。被告人郑某某犯诈骗罪，判处有期徒刑三年，缓刑四年，并处罚金人民币50000元。责令邓某某退赔犯罪所得给相关被害人和银行。",
+            "经济困难导致信用卡逾期是否构成非法占有目的": "### 结论\n经济困难导致信用卡逾期，如果行为人没有逃避催收，且透支款项用于合法经营，事后积极与银行协商还款，不构成非法占有目的，因此不构成恶意透支型信用卡诈骗罪。\n\n### 核心法条\n- **《中华人民共和国刑法》第196条**：规定了信用卡诈骗罪的构成要件，包括恶意透支型信用卡诈骗罪的认定标准。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **行为人是否以非法占有为目的**：如果行为人将透支款项用于合法经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”。例如，【（2015）穗越法刑初字第1311号】中，法院认为二被告人将透支款项用于合法经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不构成犯罪。\n- **行为人是否实施了恶意透支的行为**：恶意透支型信用卡诈骗罪必须同时具备两个条件：主观上行为人“以非法占有为目的”；客观上行为人实施了“超额或者超限透支”且“经两次以上催收不还”的行为。例如，【（2017）闽0128刑初155号】中，被告人吴运华恶意透支信用卡，数额较大，构成信用卡诈骗罪。\n- **行为人的还款态度和是否逃避催收**：如果行为人在逾期后积极与银行协商还款，未有变更联系电话、变更地址等逃避催收的行为，这表明行为人没有非法占有的目的。例如，【（2015）穗越法刑初字第1311号】中，二被告人一直有积极与光大银行协商还款事宜，未有逃避催收的行为。\n\n综上，经济困难导致信用卡逾期是否构成非法占有目的，关键在于行为人是否将透支款项用于合法经营，事后是否积极与银行协商还款，以及是否逃避催收。如果行为人没有逃避催收，且透支款项用于合法经营，事后积极与银行协商还款，通常不会被认定为具有非法占有目的。\n\n#####\n类似案件为：\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。\n【（2017）闽0128刑初155号】：法院认为，被告人吴运华以非法占有为目的，使用诈骗方法非法集资，致使集资款948.2万元无法返还，构成集资诈骗罪；恶意透支信用卡51739.83元，构成信用卡诈骗罪。被告人吴运华犯集资诈骗罪，判处有期徒刑十二年十个月，并处罚金人民币二十万元；犯信用卡诈骗罪，判处有期徒刑一年九个月，并处罚金人民币三万元；决定执行有期徒刑十三年二个月，并处罚金人民币二十三万元。\n责令吴运华退赔被集资人共计948.2万元。\n【（2015）穗越法刑初字第1311号】：法院生效裁判认为：行为人将透支款项用于合法经营，因客观原因导致无法归还透支款项的不能认定“以非法占有为目的”。在本案中，从涉案信用卡还款情况及二被告人应对催收的态度来看，二被告人持卡最后一笔透支消费后不久即被停卡，在银行的催收下，二被告人在两个多月后还向已经被停卡的涉案信用卡账户偿还了一笔4万元的还款，若二被告人是“以非法占有为目的”的恶意透支，其就不会在两个多月后还向银行偿还这一笔数额并不小的透支款项。二被告人逾期未能继续归还欠款后，银行数十次电话催收，梁某乙或梁某甲接听电话时均表示愿意归还欠款，只是企业经营困难希望暂缓还款，且被告人梁某甲被抓获归案时正在光大银行协商还款事宜。可见二被告人一直有积极与光大银行协商还款事宜，未有变更联系电话、变更地址等逃避催收的逃避行为。\n综上，被告人梁某甲、梁某乙将涉案透支款项用于合法的经营，且因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，其行为不具有刑法上的“以非法占有为目的”，不属于恶意透支型的信用卡诈骗罪，被告人梁某甲、梁某乙的行为不构成犯罪。"
+          }
+        }
+      },
+      "被告人": {
+        "策略": "防御策略：1.向法庭说明逾期还款系因经济困难导致，并非出于非法占有目的 2.强调被告人在催收期间保持通讯畅通，积极配合银行协商，无逃避催收行为 3.指出银行催收记录中未体现被告人存在逃避行为，不符合\"经催收后仍不归还\"的客观要件 4.说明被告人主动投案并全额还款的事实，证明其具有悔罪表现 5.引用(2015)穗越法刑初字第1311号判例，证明经济困难导致的逾期不必然构成犯罪",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否具有非法占有为目的的主观故意。查明情况：公诉人通过多次催收未还款的事实主张其具有非法占有目的；辩护人强调被告人因经济困难无力偿还且最终全额还款，证明无非法占有故意。审判长认为需结合透支款项用途、还款态度等综合判断，目前证据显示被告人确有还款意愿和行为。\n\n2.银行催收程序是否符合法律规定。查明情况：控辩双方对7次催收记录无争议，时间跨度符合\"两次有效催收且超过三个月未还\"要件。审判长确认催收程序合法有效。\n\n3.被告人自首情节的认定及量刑影响。查明情况：控辩双方均认可自首成立，被告人主动投案并如实供述，已全额还款。审判长认为自首情节明确，应在量刑时予以从轻考虑。\n\n4.涉案金额是否达到信用卡诈骗罪的立案标准。查明情况：透支本金29942.52元，控辩双方对金额无异议。审判长确认符合\"数额较大\"的立案标准。\n\n5.被告人还款行为对案件性质的影响。查明情况：辩护人强调案发前全额还款应影响定性；公诉人认为还款时间过晚不影响犯罪构成。审判长认为需结合还款时间、主观故意等因素综合判断。\n\n6.是否适用缓刑。查明情况：被告人无前科、有自首情节、已全额还款，具备适用缓刑条件。辩护人主张适用缓刑，公诉人未明确反对。审判长认为需结合犯罪情节和社会危害性综合评估。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人确认透支消费及拖欠本金29942.52元的事实\n- 辩护人提出异议，认为供述不能证明非法占有故意\n- 公诉人反驳称被告人经7次催收9个月未还款已超出正常经济困难范畴\n\n2. 公诉人出示银行催收相关证据（证人证言、催收记录等）：\n- 辩护人提出异议，认为证据仅证明催收事实，不能证明被告人逃避还款\n- 公诉人强调7次催收超过三个月未还款已符合犯罪构成要件\n\n3. 公诉人出示还款凭证、投案经过等证据：\n- 控辩双方对被告人主动还款和投案事实无异议\n\n4. 辩护人出示投案情况说明：\n- 公诉人对被告人自首情节无异议\n\n5. 被告人表示不申请调取新证据\n\n法庭辩论阶段总结：\n\n1. 公诉人指控被告人曾某构成信用卡诈骗罪，主要依据：\n- 透支本金29942.52元\n- 经银行7次催收后超过三个月未归还\n- 透支时明知无还款能力\n- 未提供经济困难证明\n- 主观恶性明显\n- 建议从重处罚\n\n2. 辩护人主要辩护意见：\n- 因经济困难导致无法还款不应认定犯罪\n- 被告人主动投案并全额还款证明无非法占有目的\n- 银行催收记录不能证明\"拒不归还\"要件\n- 具有自首情节且全额退赔\n- 建议不构成犯罪或从轻处罚\n\n3. 双方争议焦点：\n- 非法占有目的的认定标准\n- 银行催收记录的证明力\n- 立案前还款行为的法律效果\n- 量刑情节的适用\n\n4. 主要法律依据：\n- 刑法第196条\n- 《关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第6条、第10条",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第六条",
+              "最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释第十条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡透支后经多次催收未还款但最终全额还款的案件如何认定非法占有目的？",
+              "信用卡诈骗罪中自首情节对量刑的影响程度？",
+              "信用卡透支金额达到立案标准但案发前已全额还款的案件处理方式？"
+            ],
+            "信用卡透支后经多次催收未还款但最终全额还款的案件如何认定非法占有目的？": "### 结论\n信用卡透支后经多次催收未还款但最终全额还款的案件中，认定非法占有目的需综合考量持卡人的还款能力、还款意愿、透支资金用途、透支后的表现、未按规定还款的原因等，不能仅凭未按规定还款的事实直接认定非法占有目的。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定恶意透支的构成要件，需持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的含义，规定了认定非法占有目的的六种情形，并强调需综合考量多种因素。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **还款能力与意愿**：法院会考察持卡人是否有稳定的工作或收入来源，以及是否在透支后有积极的还款行为。例如，【(2016)冀09刑终273号】中，法院认为孙某某在透支后有还款行为，且有汽车抵押和担保，不构成信用卡诈骗罪。\n- **透支资金用途**：如果透支资金用于合法经营，因客观原因导致无法归还，不能认定为非法占有目的。如【(2015)穗越法刑初字第1311号】，法院认为梁某甲、梁某乙将透支款项用于合法经营，且事后没有逃避催收，不构成信用卡诈骗罪。\n- **透支后的表现**：持卡人在透支后是否与银行保持联系，是否逃避催收，也是判断非法占有目的的重要因素。如【(2015)穗越法刑初字第1311号】中，梁某甲、梁某乙未有变更联系电话、变更地址等逃避催收的行为。\n- **未按规定还款的原因**：客观原因，如突发重大疾病或其他客观原因导致一时无力还款，不应认定为非法占有目的。如【(2015)穗越法刑初字第1311号】中，梁某甲、梁某乙因经营上的客观原因导致无法偿还信用卡透支款项，事后没有逃避催收，不构成信用卡诈骗罪。\n\n综上，法院在判断非法占有目的时，会综合考量持卡人的还款能力、意愿、透支资金用途、透支后的表现以及未按规定还款的原因，不能仅凭未按规定还款的事实直接认定非法占有目的。如果持卡人在透支后有积极的还款行为，透支资金用于合法经营，且事后没有逃避催收，即使最终全额还款，也不构成信用卡诈骗罪。",
+            "信用卡诈骗罪中自首情节对量刑的影响程度？": "### 结论\n信用卡诈骗罪中自首情节对量刑的影响程度取决于自首的主动性、如实供述的程度、犯罪情节的严重性以及被告人的主观恶性与人身危险性。自首可以作为法定从轻或减轻处罚的情节，但是否从宽处罚需综合考虑案件的具体情况，包括犯罪的性质、情节、后果以及被告人的悔罪表现等。\n\n### 核心法条\n- **《中华人民共和国刑法》第六十七条**：犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。\n- **《最高人民法院关于处理自首和立功若干具体问题的意见》第8条**：虽然具有自首情节,但犯罪情节特别恶劣、犯罪后果特别严重、被告人主观恶性深、人身危险性大,或者在犯罪前即为规避法律、逃避处罚而准备自首的,可以不从宽处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首的主动性**：自首的主动性是认定自首情节的关键。例如，【（2014）深中法刑二终字第501号】中，上诉人范某明在民警做了其家属工作后，主动表明投案自首的态度，后因工作处理问题未能如期到案，但被抓时已是从荆门市区打工处返回其老家即派出所所在地，可认定为确已准备去投案，应当视为自动投案，构成自首。\n- **如实供述的程度**：如实供述自己的罪行是自首成立的必要条件。如【（2018）京03刑终192号】中，被告人王某虽提出月还款两三千元的请求，但双方并未达成一致意见，且在银行向其催收长达三年多的时间内，其不仅无任何还款行为和表示，还以变换联系电话等方式躲避银行催收，显见其具有逃避债务的非法占有目的，其行为不符合自首的如实供述要求。\n- **犯罪情节的严重性**：即使被告人构成自首，如果犯罪情节特别恶劣、后果特别严重，法院可以不从宽处罚。如【（2018）京03刑终192号】中，尽管被告人王某有自首情节，但其犯罪数额巨大，且有逃避债务的行为，法院未因其自首而减轻处罚。\n- **被告人的主观恶性与人身危险性**：根据《最高人民法院关于处理自首和立功若干具体问题的意见》第8条，如果被告人主观恶性深、人身危险性大，即使自首，也可能不从宽处罚。如【（2018）京03刑终192号】中，被告人王某的主观恶性与人身危险性较高，法院未因其自首而减轻处罚。\n\n综上，自首情节对量刑的影响程度是多方面的，需要综合考虑自首的主动性、如实供述的程度、犯罪情节的严重性以及被告人的主观恶性与人身危险性。在具体案件中，法院会根据这些因素来决定是否从宽处罚以及从宽处罚的程度。\n\n#####\n类似案件为：\n【（2014）深中法刑二终字第501号】：法院认为，范某明以非法占有为目的，与他人共同采用虚构事实、隐瞒真相的方法，骗取被害人财物，数额较大，其行为已构成诈骗罪。范某明在共同犯罪中并非仅起次要或辅助作用，不认定为从犯。范某明是初犯、偶犯，可酌情从轻处罚；其构成自首，依法予以减轻处罚。维持原审被告人范某明定罪部分；撤销原审被告人范某明量刑部分；范某明犯诈骗罪，判处有期徒刑二年六个月，并处罚金人民币三千元。",
+            "信用卡透支金额达到立案标准但案发前已全额还款的案件处理方式？": "### 结论\n在信用卡透支金额达到立案标准但案发前已全额还款的案件中，法院通常会考虑被告人的主观恶意、还款意愿、是否如实供述犯罪事实以及是否在公安机关立案后判决宣告前已偿还全部透支款及利息等因素，依法可以从轻或减轻处罚，甚至在某些情况下可以免于刑事处罚。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条**：规定了信用卡诈骗罪的构成要件，包括恶意透支的行为。\n- **《最高人民法院、最高人民检察院关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第六条**：明确了恶意透支的认定标准，包括经发卡银行两次催收后超过3个月仍不归还的情形。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **是否如实供述犯罪事实**：如实供述犯罪事实的被告人，法院通常会依法从轻处罚。例如，【（2016）闽0623刑初333号】中，被告人陈玉临归案后能如实供述犯罪事实，且在公安机关立案后本院判决宣告前已偿还全部透支款及利息，依法均可以从轻处罚。\n- **是否在公安机关立案后判决宣告前已偿还全部透支款及利息**：在公安机关立案后判决宣告前已偿还全部透支款及利息的，法院通常会依法从轻或减轻处罚。例如，【（2016）闽0623刑初333号】、【（2018）京03刑终192号】中，被告人在案发后积极还款，法院在量刑时予以考虑。\n- **主观恶意和还款意愿**：被告人的主观恶意和还款意愿也是法院考虑的重要因素。例如，【（2018）京03刑终192号】中，法院认为被告人虽将透支钱款用于投资经营，后期因经营不善导致暂时无还款能力，但在银行向其催收长达三年多的时间内，其不仅无任何还款行为和表示，还以变换联系电话等方式躲避银行催收，显见其具有逃避债务的非法占有目的，因此，即使案发前已还款，法院仍认定其构成信用卡诈骗罪。\n\n综上，对于信用卡透支金额达到立案标准但案发前已全额还款的案件，法院在判决时会综合考虑被告人的主观恶意、还款意愿、是否如实供述犯罪事实以及是否在公安机关立案后判决宣告前已偿还全部透支款及利息等因素，依法可以从轻或减轻处罚，甚至在某些情况下可以免于刑事处罚。\n\n#####\n类似案件为：\n【（2016）闽0623刑初333号】：法院认为，陈玉临明知无还款能力恶意透支信用卡本金14985元，经发卡银行多次催收后超过三个月未归还，数额较大，构成信用卡诈骗罪；陈玉临违反道路交通安全法，在道路上醉酒驾驶机动车，构成危险驾驶罪。陈玉临归案后如实供述犯罪事实，且在立案后判决宣告前已偿还全部透支款及利息，依法可以从轻处罚。被告人陈玉临犯信用卡诈骗罪，判处有期徒刑六个月，并处罚金人民币二万元，犯危险驾驶罪，判处拘役二个月，并处罚金人民币六千元，合并决定执行有期徒刑六个月，并处罚金人民币二万六千元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，共折抵十七日，即自2016年8月2日起至2017年1月15日止。罚金限于判决生效后一个月内缴纳）。\n【（2016）闽0623刑初333号】：法院认为，陈玉临明知无还款能力恶意透支信用卡本金14985元，经发卡银行多次催收后超过三个月未归还，数额较大，构成信用卡诈骗罪；陈玉临违反道路交通安全法，在道路上醉酒驾驶机动车，构成危险驾驶罪。陈玉临归案后如实供述犯罪事实，且在立案后判决宣告前已偿还全部透支款及利息，依法可以从轻处罚。被告人陈玉临犯信用卡诈骗罪，判处有期徒刑六个月，并处罚金人民币二万元，犯危险驾驶罪，判处拘役二个月，并处罚金人民币六千元，合并决定执行有期徒刑六个月，并处罚金人民币二万六千元。\n （刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，共折抵十七日，即自2016年8月2日起至2017年1月15日止。罚金限于判决生效后一个月内缴纳）。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "1.被告人是否具有非法占有为目的的主观故意。查明情况：公诉人通过多次催收未还款的事实主张其具有非法占有目的；辩护人强调被告人因经济困难无力偿还且最终全额还款，证明无非法占有故意。审判长认为需结合透支款项用途、还款态度等综合判断，目前证据显示被告人确有还款意愿和行为。\n\n2.银行催收程序是否符合法律规定。查明情况：控辩双方对7次催收记录无争议，时间跨度符合\"两次有效催收且超过三个月未还\"要件。审判长确认催收程序合法有效。\n\n3.被告人自首情节的认定及量刑影响。查明情况：控辩双方均认可自首成立，被告人主动投案并如实供述，已全额还款。审判长认为自首情节明确，应在量刑时予以从轻考虑。\n\n4.涉案金额是否达到信用卡诈骗罪的立案标准。查明情况：透支本金29942.52元，控辩双方对金额无异议。审判长确认符合\"数额较大\"的立案标准。\n\n5.被告人还款行为对案件性质的影响。查明情况：辩护人强调案发前全额还款应影响定性；公诉人认为还款时间过晚不影响犯罪构成。审判长认为需结合还款时间、主观故意等因素综合判断。\n\n6.是否适用缓刑。查明情况：被告人无前科、有自首情节、已全额还款，具备适用缓刑条件。辩护人主张适用缓刑，公诉人未明确反对。审判长认为需结合犯罪情节和社会危害性综合评估。",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人承认透支信用卡事实，但辩称非出于非法占有目的，而是因经济困难无力偿还\n2. 被告人陈述在银行催收期间始终保持通讯畅通，积极配合银行协商还款事宜\n3. 被告人说明2016年6月30日主动投案并全额还清欠款的事实\n4. 公诉人重点讯问：\n   - 长达9个月未还款的具体原因（经营亏损导致经济困难）\n   - 多次催收后仍不还款的原因（确实无力偿还）\n   - 透支款项用途（主要用于经营周转和生活开支）\n   - 主动投案的动机（筹到资金后立即还款）\n5. 辩护人重点讯问：\n   - 与银行保持联系的具体情况（每月2-3次电话联系）\n   - 还款意愿及采取的措施（2015年9月还款3100元，后筹款全额还款）\n   - 经济困难的具体表现（生意亏损、家人医疗支出）\n   - 未逃避催收的证据（保持通讯畅通、未变更联系方式）\n6. 审判长补充询问：\n   - 未提供书面还款计划\n   - 投案前与银行保持每月1-2次联系\n   - 曾尝试向亲友借款等筹资方式\n   - 投案时如实供述全部事实\n\n举证质证阶段总结：\n\n1. 公诉人出示被告人在侦查阶段的供述：\n- 被告人确认透支消费及拖欠本金29942.52元的事实\n- 辩护人提出异议，认为供述不能证明非法占有故意\n- 公诉人反驳称被告人经7次催收9个月未还款已超出正常经济困难范畴\n\n2. 公诉人出示银行催收相关证据（证人证言、催收记录等）：\n- 辩护人提出异议，认为证据仅证明催收事实，不能证明被告人逃避还款\n- 公诉人强调7次催收超过三个月未还款已符合犯罪构成要件\n\n3. 公诉人出示还款凭证、投案经过等证据：\n- 控辩双方对被告人主动还款和投案事实无异议\n\n4. 辩护人出示投案情况说明：\n- 公诉人对被告人自首情节无异议\n\n5. 被告人表示不申请调取新证据\n\n法庭辩论阶段总结：\n\n1. 公诉人指控被告人曾某构成信用卡诈骗罪，主要依据：\n- 透支本金29942.52元\n- 经银行7次催收后超过三个月未归还\n- 透支时明知无还款能力\n- 未提供经济困难证明\n- 主观恶性明显\n- 建议从重处罚\n\n2. 辩护人主要辩护意见：\n- 因经济困难导致无法还款不应认定犯罪\n- 被告人主动投案并全额还款证明无非法占有目的\n- 银行催收记录不能证明\"拒不归还\"要件\n- 具有自首情节且全额退赔\n- 建议不构成犯罪或从轻处罚\n\n3. 双方争议焦点：\n- 非法占有目的的认定标准\n- 银行催收记录的证明力\n- 立案前还款行为的法律效果\n- 量刑情节的适用\n\n4. 主要法律依据：\n- 刑法第196条\n- 《关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第6条、第10条",
+        "规划": {
+          "法条": {
+            "使用": 1,
+            "询问": [
+              "中华人民共和国刑法第一百九十六条",
+              "中华人民共和国刑法第六十七条"
+            ],
+            "中华人民共和国刑法第一百九十六条": "有下列情形之一，进行信用卡诈骗活动，数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处五万元以上五十万元以下罚金或者没收财产：（一）使用伪造的信用卡，或者使用以虚假的身份证明骗领的信用卡的；（二）使用作废的信用卡的；（三）冒用他人信用卡的；（四）恶意透支的。前款所称恶意透支，是指持卡人以非法占有为目的，超过规定限额或者规定期限透支，并且经发卡银行催收后仍不归还的行为。盗窃信用卡并使用的，依照本法第二百六十四条的规定定罪处罚。",
+            "中华人民共和国刑法第六十七条": "犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。"
+          },
+          "一律可知": {
+            "使用": 1,
+            "询问": [
+              "信用卡诈骗罪类似案例判决情况",
+              "信用卡诈骗罪缓刑适用条件",
+              "信用卡诈骗罪罚金数额标准"
+            ],
+            "信用卡诈骗罪类似案例判决情况": "### 结论\n信用卡诈骗罪的判决受多个因素影响，包括犯罪数额、自首情节、认罪态度、退赔情况、犯罪手段、前科记录、犯罪未遂情况、以及是否构成数罪并罚等。法院在量刑时会综合考虑这些因素，对被告人从轻、从重或适用缓刑。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条第一款第（一）项、第（三）项、第（四）项**：规定了信用卡诈骗罪的构成要件，包括使用伪造、作废的信用卡，冒用他人信用卡，恶意透支等行为。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的，可以从轻处罚。\n- **《中华人民共和国刑法》第七十二条**：规定了对于被判处三年以下有期徒刑或者拘役的犯罪分子，同时符合一定条件的，可以宣告缓刑。\n- **《中华人民共和国刑法》第二十三条第一款**：规定了已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞的，是犯罪未遂。\n- **《中华人民共和国刑法》第六十九条**：规定了判决宣告以前一人犯数罪的，应当在总和刑期以下、数刑中最高刑期以上，酌情决定执行的刑期。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额的大小直接影响量刑的轻重。例如，【（2013）锡刑二终字第0072号】中，被告人王某某和顾某某因信用卡诈骗数额较大而被判处有期徒刑。\n- **自首情节**：自首可以作为从轻处罚的情节。如【（2021）京02刑终47号】中，被告人高某岭因自首而被从轻处罚，但二审法院认为其未及时如实供述，不能认定为自首，从而加重了刑罚。\n- **认罪态度和退赔情况**：认罪态度好且积极退赔的，可以从轻处罚。如【（2016）云0381刑初字第156号】中，四被告人因认罪态度好并已退赔被害人全部损失而被从轻处罚。\n- **犯罪手段和前科记录**：犯罪手段恶劣或有犯罪前科的，可能从重处罚。如【（2016）云0381刑初字第156号】中，被告人陈发某和王科某因有犯罪前科而被酌情从重处罚。\n- **犯罪未遂**：犯罪未遂的，可以从轻处罚。如【（2021）闽0582刑初461号】中，被告人李某因部分犯罪未遂而被从轻处罚。\n- **数罪并罚**：一人犯数罪的，应当数罪并罚。如【（2021）闽0582刑初461号】中，被告人李某因犯信用卡诈骗罪和洗钱罪而被数罪并罚。\n\n综上，信用卡诈骗罪的判决受到多个因素的综合影响，法院在量刑时会根据犯罪的具体情节和被告人的表现，依法作出公正的判决。",
+            "信用卡诈骗罪缓刑适用条件": "### 结论\n信用卡诈骗罪的缓刑适用条件主要包括：犯罪数额不大、自首、退赃、取得被害人谅解、犯罪情节较轻、悔罪表现、无再犯罪危险、对社区无重大不良影响等。同时，被告人是否具有法定或酌定从严处罚情节，以及是否具有法定或酌定从宽处罚情节，也会影响缓刑的适用。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条第一款第(三)项**：规定冒用他人信用卡进行诈骗活动的，构成信用卡诈骗罪。\n- **《中华人民共和国刑法》第六十七条第一款、第三款**：规定犯罪后自动投案，如实供述自己的罪行的，是自首；可以从轻或者减轻处罚。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚。\n- **《中华人民共和国刑法》第七十二条第一款、第三款**：规定对于被判处拘役、三年以下有期徒刑的犯罪分子，同时符合一定条件的，可以宣告缓刑。\n- **《中华人民共和国刑法》第七十三条第一款、第三款**：规定缓刑考验期限的计算。\n- **最高人民法院、最高人民检察院《关于办理妨害信用卡管理刑事案件具体应用法律若干问题的解释》第五条**：规定冒用他人信用卡，数额较大的，构成信用卡诈骗罪。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首**：自首是缓刑适用的重要条件之一。例如，【[2012]寿刑初字第135号】中，被告人林某犯罪后主动投案，如实供述自己的犯罪事实，具有自首情节，法院依法从轻处罚并适用缓刑。\n- **退赃和取得被害人谅解**：被告人是否退还赃款并取得被害人谅解，是缓刑适用的重要考量因素。如【（2019）闽0211初195号】中，被告人秦某某归案后如实供述自己的犯罪事实，且已退还赃款，取得被害人谅解，法院依法适用缓刑。\n- **犯罪情节和悔罪表现**：犯罪情节较轻、有较好的悔罪表现，对适用缓刑有积极影响。如【（2016）云0381刑初字第156号】中，四被告人归案后能如实供述其罪行，认罪态度好，并已退赔被害人全部损失，法院依法从轻处罚。\n- **对社区无重大不良影响**：被告人犯罪后是否对社区造成重大不良影响，是缓刑适用的考量因素之一。如【（2016）云3325刑初字第84号】中，法院认为被告人和某某犯罪情节较轻，有悔罪表现，对其宣告缓刑对其居住地社区没有重大不良影响，依法适用缓刑。\n\n综上，缓刑的适用需综合考虑被告人的自首、退赃、取得被害人谅解、犯罪情节、悔罪表现以及对社区的影响等多方面因素。",
+            "信用卡诈骗罪罚金数额标准": "### 结论\n信用卡诈骗罪的罚金数额标准通常与犯罪数额、犯罪情节、被告人的认罪态度、退赔情况以及是否构成数罪等因素相关。具体罚金数额在人民币几千元至数十万元不等，且在部分案例中，罚金数额与主刑（如有期徒刑）并处。\n\n### 核心法条\n- **《中华人民共和国刑法》第一百九十六条第一款**：规定了信用卡诈骗罪的构成要件及处罚标准。\n- **《中华人民共和国刑法》第六十七条第三款**：规定了如实供述自己罪行的，可以从轻处罚。\n- **《中华人民共和国刑法》第六十九条**：规定了数罪并罚的原则。\n- **《中华人民共和国刑法》第五十二条、第五十三条**：规定了罚金的缴纳。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **犯罪数额**：犯罪数额的大小直接影响罚金数额。例如，【（2021）闽0582刑初461号】中，被告人李某因数额巨大，被处以罚金人民币80000元；【（2015）刑初字第205号】中，被告人关某因数额较大，被处以罚金人民币十万元。\n- **认罪态度与退赔情况**：被告人如实供述罪行、认罪态度好、退赔被害人损失的，法院可能从轻处罚。如【（2016）云0381刑初字第156号】中，四被告人因认罪态度好并已退赔被害人全部损失，被依法从轻处罚。\n- **是否构成数罪**：被告人若在判决宣告前一人犯数罪，应数罪并罚，这可能影响最终的罚金数额。如【（2021）闽0582刑初461号】中，被告人李某因犯信用卡诈骗罪和洗钱罪，最终决定执行的罚金为人民币82000元。\n- **犯罪情节**：如是否为共同犯罪、是否为惯犯等，也会影响罚金的判决。如【（2016）云0381刑初字第156号】中，被告人陈发某、王科某因有犯罪前科，被酌情从重处罚。\n\n综上，信用卡诈骗罪的罚金数额受到犯罪数额、认罪态度、退赔情况、是否构成数罪以及犯罪情节等多方面因素的影响。法院在判决时会综合考虑这些因素，以确定合理的罚金数额。"
+          }
+        }
+      }
+    }
+  },
+  {
+    "term": 3.0,
+    "fine": 20000.0,
+    "reprieve": 6.0
+  }
+]

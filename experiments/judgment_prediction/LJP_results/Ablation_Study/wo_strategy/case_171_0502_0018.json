@@ -1,0 +1,1293 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人贾某，性别男，汉族，户籍XXX，无前科。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "河北省石家庄市藁城区人民检察院  \n起 诉 书  \n\n藁检公诉刑诉〔2019〕1554号  \n\n被告人贾某，男，汉族，户籍XXX，无前科。  \n\n本案由石家庄市藁城区公安局侦查终结，以被告人贾某涉嫌故意毁坏财物罪，于20xx年x月x日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2019年3月4日10时许，被告人贾某开车路过石家庄市藁城区协和医院门口时，看见张某甲的一辆车牌号为冀Ａ×××××的汽车停在协和医院门口。贾某因与张某甲之间存在经济纠纷（张某甲欠其6万元未还），遂产生报复心理。贾某将自己所驾驶的车辆停在路边，戴上口罩后，从后备箱取出扳手，将张某甲汽车的前风挡玻璃及两个倒车镜砸坏。经石家庄市藁城区发展和改革局价格认证中心认定，被毁坏财物价值共计10892元。  \n\n认定上述事实的证据如下：  \n1. 书证：报警案件登记表、受案登记表、立案决定书；  \n2. 书证：价格认定结论书及资质证明文件；  \n3. 书证：勘验笔录、方位图、现场照片及勘验人员资质证明；  \n4. 书证：辨认笔录、辨认照片、辨认说明及制作人员资质证明；  \n5. 书证：入股协议书复印件及公证/鉴定机构认证文件；  \n6. 书证：车辆维修定损情况及出具机构资质证明；  \n7. 书证：抓获经过；  \n8. 书证：人民警察证；  \n9. 书证：在逃人员登记／撤销表；  \n10. 书证：个人电子档案及来源合法性说明；  \n11. 书证：户籍证明信及无前科证明；  \n12. 视听资料：监控视频及提取过程合法性说明；  \n13. 书证：调解书、谅解书、收条；  \n14. 证人证言：证人胡某、张某乙的证言及取证程序合法性说明；  \n15. 被害人陈述：受害人张某甲的陈述及取证程序合法性说明；  \n16. 被告人供述：贾某对犯罪事实的供述。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人贾某对指控的犯罪事实和证据无异议，并自愿认罪。  \n\n本院认为，被告人贾某故意毁坏他人财物，数额较大，其行为触犯了《中华人民共和国刑法》第二百七十五条之规定，犯罪事实清楚，证据确实、充分，应当以故意毁坏财物罪追究其刑事责任。被告人贾某当庭自愿认罪，积极退赔受害人经济损失并取得谅解，可酌情从轻处罚。建议判处被告人贾某拘役XX，缓刑XX，并处罚金人民币XX元。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n河北省石家庄市藁城区人民法院  \n\n检  察  官  叶某  \n检察官助理  XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人贾某，你与被害人张某甲之间的6万元经济纠纷具体是什么原因产生的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "这6万元是张某甲向我借的工程款，当时说好三个月内还清，但一直拖欠未还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时为什么要选择用砸车的方式来解决问题？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我当时看到张某甲和他妻子有说有笑地去办事，想到他有钱却不还我，一时冲动就做出了砸车的错误行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时使用的扳手是从哪里来的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "扳手是我自己放在车后备箱里的工具。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你当时是否知道砸坏他人车辆是违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我知道这是违法的，但当时被愤怒冲昏了头脑。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车时是否注意到现场有监控摄像头？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有注意监控摄像头的事。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车后是否立即离开现场？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我砸完车后就立即开车离开了。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车后是否主动联系过被害人张某甲？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动联系过张某甲。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车时是否戴了口罩？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我戴了蓝色口罩。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车时是否注意到现场有其他目击者？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我戴了口罩，没有注意周围是否有其他目击者。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车时是否注意到被害人的车辆内是否有人？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有注意车内是否有人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你砸车后是否主动向公安机关投案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有主动投案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，公诉人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人贾某，你与张某甲之间的借款是否有书面借条或其他书面凭证？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有书面借条。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "借条上是否明确约定了还款期限和利息？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "借条上约定了三个月内还清，但没有约定利息。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与张某甲之间的借款纠纷是否曾尝试过通过法律途径解决？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有通过法律途径解决。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "在案发前你是否曾多次向张某甲催讨过欠款？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我多次催讨过欠款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你砸车时是否饮酒或受到其他精神刺激？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有饮酒，也没有受到其他精神刺激。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你砸车时是否知道车辆的具体价值？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道具体价值。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你砸车后是否主动赔偿了被害人的损失？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，我已经赔偿了被害人的全部损失，并取得了书面谅解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与张某甲之间的借款纠纷是否曾向他人提起过或寻求过帮助？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向他人提起过或寻求过帮助。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与张某甲之间的借款纠纷是否曾向当地人民调解委员会或其他调解机构寻求过调解？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有寻求过调解。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你与张某甲之间的借款纠纷是否曾向当地派出所或公安机关报过案？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有报过案。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你砸车时是否注意到被害人的车辆是否停放在医院急救通道等特殊位置？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有注意到车辆是否停放在特殊位置。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，我没有需要讯问的问题了。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，辩护人讯问结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过。2019年3月4日上午10时许，我驾驶胡某的黑色比亚迪F3轿车（车牌号冀A×××××）路过石家庄市藁城区协和医院门口时，看见张某甲的灰色沃尔沃越野车（车牌号冀A×××××）停在医院门口。我将车停在张某甲的车后方，戴上蓝色口罩后下车，从后备箱取出扳手，用扳手砸击张某甲车辆的前风挡玻璃约十下，并砸坏两个倒车镜。随后我驾车离开，将车归还给胡某。次日胡某电话询问我是否砸车，我承认并被告诫。\n\n（2）犯案动机。我因张某甲拖欠我家6万元债务未还，且当时见到张某甲与妻子说笑前往行政服务中心，心生愤怒，遂产生砸车报复的念头。\n\n（3）案发之后的处理。我在案发后未主动自首。案件进入诉讼阶段后，我与张某甲达成民事赔偿协议，赔偿其损失并取得书面谅解。公安机关未提及自首情节。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：报警案件登记表、受案登记表、立案决定书，证明案件的发生及公安机关的受理情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：石家庄市藁城区发展和改革局价格认证中心价格认定结论书及资质证明文件，证明张某甲汽车被损坏的前风挡玻璃及两个倒车镜价值为10892元，并说明价格认证中心具有合法资质及认定程序合规",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：勘验笔录、方位图、现场照片及勘验人员资质证明，证明案发现场的情况及车辆损坏的具体位置和程度，并说明勘验过程及人员资质合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：辨认笔录、辨认照片、辨认说明及制作人员资质证明，证明贾某对作案工具及现场的辨认情况，并说明制作过程及人员资质合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：入股协议书的复印件及公证/鉴定机构认证文件，证明贾某与张某甲之间存在经济纠纷，并说明复印件经过公证或鉴定机构认证",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：张某甲名下冀Ａ×××××维修定损情况及出具机构资质证明，证明车辆损坏的维修情况，并说明出具机构具有合法资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：抓获经过，证明贾某被公安机关抓获的过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：人民警察证，证明办案民警的身份",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：在逃人员登记／撤销表，证明贾某的涉案情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：个人电子档案及来源合法性说明，证明贾某的个人信息，并说明来源合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：贾某户籍证明信及无前科证明及出具机构资质文件，证明贾某的身份及无犯罪记录，并说明出具机构合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.视听资料：监控视频及提取过程合法性说明，证明贾某作案的过程，并说明提取过程及完整性合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人胡某的证言及取证程序合法性说明，证明贾某承认砸车行为，并说明证言经过合法取证程序",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人张某乙的证言及取证程序合法性说明，证明贾某在协和医院门口砸车，并说明证言经过合法取证程序",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.被害人陈述：受害人张某甲的陈述及取证程序合法性说明，证明贾某用扳手砸坏车辆，并说明陈述经过合法取证程序",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人要求出示以下证据予以证实：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "1.13.书证：调解书、谅解书、收条，证明双方达成民事赔偿协议，贾某取得受害人谅解",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人，对辩护人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪方面。被告人贾某故意毁坏他人财物，经鉴定价值10892元，已达到《中华人民共和国刑法》第二百七十五条规定的\"数额较大\"标准，构成故意毁坏财物罪。被告人当庭认罪，证据确实充分。\n\n二、关于量刑情节。1.被告人虽因经济纠纷引发犯罪，但采取暴力手段解决纠纷，主观恶性明显；2.被告人明知违法仍实施犯罪，且为逃避侦查佩戴口罩，具有反侦查意识；3.案发后未主动投案，系被公安机关抓获归案；4.虽已赔偿被害人损失并取得谅解，但系在案件进入诉讼阶段后所为。\n\n三、量刑建议。根据《最高人民法院关于常见犯罪的量刑指导意见》，建议在法定刑幅度内从重处罚。考虑到被告人认罪态度较好、已赔偿损失等情节，建议判处拘役XX，缓刑XX，并处罚金。\n\n四、社会警示意义。本案警示公民应通过合法途径解决经济纠纷，任何以私力救济方式损害他人合法权益的行为都将受到法律制裁。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于量刑情节方面：\n1. 被告人已全额赔偿被害人损失10892元，并取得被害人书面谅解，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，可以酌情从宽处罚。\n\n2. 被告人认罪态度良好，在侦查阶段和庭审中均如实供述犯罪事实，根据《中华人民共和国刑法》第六十七条第三款，可以从轻处罚。\n\n3. 本案系因民间借贷纠纷引发，被告人在多次催讨无果后一时冲动犯罪，主观恶性较小。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第二十二条，可以酌情从宽处理。\n\n4. 被告人系初犯、偶犯，无前科劣迹，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第十四款，可以酌情从轻处罚。\n\n二、关于社会危害性：\n1. 被告人的行为仅造成财产损失，未危及人身安全，社会危害性相对较小。\n\n2. 被告人在案发时处于清醒状态，能够控制行为程度，未造成更严重后果。\n\n三、量刑建议：\n综合考量被告人认罪悔罪态度、赔偿谅解情况、初犯偶犯等情节，建议法庭对被告人从轻处罚，适用缓刑。这样既体现了法律的严肃性，也给予被告人改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于赔偿谅解情节。虽然被告人已赔偿损失并取得谅解，但需注意该赔偿行为发生在案件进入诉讼阶段后，并非主动、及时赔偿，其悔罪表现有限。根据《最高人民法院关于常见犯罪的量刑指导意见》，此类事后赔偿的从宽幅度应当从严把握。\n\n二、关于主观恶性问题。被告人明知违法仍精心准备工具、佩戴口罩实施犯罪，具有明显的反侦查意识，其主观恶性不容低估。经济纠纷不能成为实施违法行为的正当理由，根据《刑法》第二百七十五条的立法精神，应当对此类私力救济行为予以否定性评价。\n\n三、关于社会危害性。被告人在公共场所实施毁坏财物行为，不仅侵害了被害人财产权，更破坏了社会公共秩序。虽然未造成人身伤害，但其行为方式具有公然性，社会影响恶劣。\n\n四、关于量刑平衡。辩护人提出的从轻情节已在公诉意见中充分考量，但需注意本案不存在自首等法定从轻情节，且被告人是被抓获归案。根据罪责刑相适应原则，建议法庭在量刑时保持适当严厉，以实现法律效果与社会效果的统一。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于赔偿时间问题。虽然赔偿行为发生在诉讼阶段，但根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，被告人积极赔偿并取得谅解的，可以依法从宽处理，不应因赔偿时间而否定其悔罪诚意。\n\n二、关于主观恶性问题。被告人虽佩戴口罩，但未刻意选择隐蔽时间作案，且使用随身工具而非专门准备作案工具，其行为更多是情绪失控下的冲动行为，而非预谋犯罪。根据《刑法》第六十一条，量刑应当与犯罪性质、情节相适应。\n\n三、关于社会危害性评估。本案发生在医院门口非高峰时段，未造成公共秩序严重混乱，且财物损失已全额赔偿，社会危害性已得到有效弥补。根据宽严相济刑事政策，应当给予改过自新机会。\n\n四、关于量刑平衡。被告人系初犯、偶犯，且已深刻认识错误，根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对初犯、偶犯应当酌情从宽处理，以实现教育挽救目的。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于赔偿行为的法律评价。根据《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第五百零五条，赔偿谅解情节的从宽幅度应当与赔偿的主动性、及时性相挂钩。本案被告人系在公安机关侦破案件后才进行赔偿，其悔罪表现明显弱于主动赔偿情形。\n\n二、关于犯罪主观方面。被告人不仅准备了作案工具，还特意佩戴口罩实施犯罪，具有明显的规避侦查意识。根据《刑法》第十四条关于故意犯罪的规定，这种有预谋的犯罪形态应当与临时起意的冲动犯罪严格区分。\n\n三、关于社会危害性的补充说明。医院作为公共场所，被告人的行为实际造成了公共场所秩序的破坏。根据《最高人民法院、最高人民检察院关于办理寻衅滋事刑事案件适用法律若干问题的解释》第四条，在公共场所实施毁财行为应当从严评价。\n\n四、关于量刑建议的再强调。考虑到被告人系被抓获归案，且未在第一时间赔偿损失，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于被动到案且事后赔偿的，从宽幅度应当严格控制在较小范围内。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于赔偿主动性。虽然被告人在案发后未立即赔偿，但在案件处理过程中主动全额赔偿并取得谅解，体现了悔罪诚意。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，赔偿被害人经济损失并取得谅解的，可以减少基准刑的40%以下。\n\n二、关于犯罪预谋性。被告人使用随身工具实施犯罪，虽有佩戴口罩行为，但未刻意选择隐蔽时间地点，更多是情绪失控下的冲动行为。根据《刑法》第六十一条，量刑应当与犯罪性质、情节相适应，本案应区别于有预谋的恶性犯罪。\n\n三、关于社会危害性补充。案发地点虽在医院门口，但发生在正常工作时段，未造成公共秩序严重混乱。根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十六条，对初犯、偶犯应当体现从宽精神。\n\n四、关于量刑建议。被告人系初犯、偶犯，无前科劣迹，已深刻认识错误并积极弥补损失。根据《刑法》第七十二条，符合适用缓刑条件，建议法庭给予改过自新机会。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，因一时冲动采取了违法的报复手段。我对给被害人造成的损失表示真诚的歉意，并已全额赔偿。我保证今后一定通过合法途径解决纠纷，恳请法庭从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "河北省石家庄市藁城区人民法院\n刑事判决书\n（20xx）×刑初字第××号\n\n公诉机关河北省石家庄市藁城区人民检察院。\n被告人贾某，男，汉族，户籍XXX，无前科。因涉嫌故意毁坏财物罪于20xx年x月x日被刑事拘留，现取保候审。\n辩护人×××，××律师事务所律师。\n\n河北省石家庄市藁城区人民检察院以藁检公诉刑诉〔2019〕1554号起诉书指控被告人贾某犯故意毁坏财物罪，于20xx年x月x日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。藁城区人民检察院检察官叶某出庭支持公诉，被告人贾某及其辩护人×××到庭参加诉讼。本案现已审理终结。\n\n公诉机关指控：2019年3月4日10时许，被告人贾某因与被害人张某甲存在6万元经济纠纷，在石家庄市藁城区协和医院门口，使用扳手故意毁坏张某甲车辆的前风挡玻璃及倒车镜，经鉴定损失价值10892元。被告人贾某对指控的犯罪事实和罪名无异议，自愿认罪认罚。\n\n经审理查明：2019年3月4日10时许，被告人贾某因与被害人张某甲存在6万元借款纠纷未解决，在石家庄市藁城区协和医院门口，使用扳手故意毁坏张某甲车辆的前风挡玻璃及两个倒车镜。经石家庄市藁城区发展和改革局价格认证中心认定，被毁坏财物价值10892元。案发后，被告人贾某已赔偿被害人全部损失并取得谅解。\n\n上述事实有被告人的供述、被害人陈述、证人证言、价格认定结论书、勘验笔录、辨认笔录、监控视频、调解书、谅解书等证据证实，足以认定。\n\n本院认为，被告人贾某故意毁坏他人财物，数额较大，其行为已构成故意毁坏财物罪。公诉机关指控的罪名成立。鉴于被告人贾某认罪态度较好，已赔偿被害人损失并取得谅解，可酌情从轻处罚。辩护人关于从轻处罚的辩护意见予以采纳。依照《中华人民共和国刑法》第二百七十五条、第七十二条之规定，判决如下：\n\n被告人贾某犯故意毁坏财物罪，判处拘役四个月，缓刑六个月，并处罚金人民币五千元。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向河北省石家庄市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长×××\n××××年××月××日\n书记员 ×××",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认作案经过、动机及事后处理）\n- 案件受理相关书证\n- 价格认定结论书（确认损失价值10892元）\n- 现场勘验材料\n- 辨认笔录\n- 经济纠纷证明文件\n- 车辆维修定损材料\n- 抓获经过\n- 民警身份证明\n- 在逃登记表\n- 个人电子档案\n- 户籍及无前科证明\n- 监控视频\n- 证人胡某、张某乙证言\n- 被害人张某甲陈述\n\n2. 被告人对所有公诉方证据均表示无异议。\n\n3. 辩护人出示了调解书、谅解书、收条，证明被告人已赔偿被害人并取得谅解。\n\n4. 公诉人对辩护人出示的证据无异议。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认作案经过、动机及事后处理）\n- 案件受理相关书证\n- 价格认定结论书（确认损失价值10892元）\n- 现场勘验材料\n- 辨认笔录\n- 经济纠纷证明文件\n- 车辆维修定损材料\n- 抓获经过\n- 民警身份证明\n- 在逃登记表\n- 个人电子档案\n- 户籍及无前科证明\n- 监控视频\n- 证人胡某、张某乙证言\n- 被害人张某甲陈述\n\n2. 被告人对所有公诉方证据均表示无异议。\n\n3. 辩护人出示了调解书、谅解书、收条，证明被告人已赔偿被害人并取得谅解。\n\n4. 公诉人对辩护人出示的证据无异议。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认作案经过、动机及事后处理）\n- 案件受理相关书证\n- 价格认定结论书（确认损失价值10892元）\n- 现场勘验材料\n- 辨认笔录\n- 经济纠纷证明文件\n- 车辆维修定损材料\n- 抓获经过\n- 民警身份证明\n- 在逃登记表\n- 个人电子档案\n- 户籍及无前科证明\n- 监控视频\n- 证人胡某、张某乙证言\n- 被害人张某甲陈述\n\n2. 被告人对所有公诉方证据均表示无异议。\n\n3. 辩护人出示了调解书、谅解书、收条，证明被告人已赔偿被害人并取得谅解。\n\n4. 公诉人对辩护人出示的证据无异议。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认作案经过、动机及事后处理）\n- 案件受理相关书证\n- 价格认定结论书（确认损失价值10892元）\n- 现场勘验材料\n- 辨认笔录\n- 经济纠纷证明文件\n- 车辆维修定损材料\n- 抓获经过\n- 民警身份证明\n- 在逃登记表\n- 个人电子档案\n- 户籍及无前科证明\n- 监控视频\n- 证人胡某、张某乙证言\n- 被害人张某甲陈述\n\n2. 被告人对所有公诉方证据均表示无异议。\n\n3. 辩护人出示了调解书、谅解书、收条，证明被告人已赔偿被害人并取得谅解。\n\n4. 公诉人对辩护人出示的证据无异议。\n\n5. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：确认被告人构成故意毁坏财物罪，数额达到法定标准\n- 量刑情节：指出被告人具有主观恶性、反侦查意识、被动归案等从重情节\n- 提出量刑建议：建议在法定刑幅度内从重处罚，考虑缓刑\n\n2. 辩护人发表辩护意见：\n- 强调被告人已全额赔偿并取得谅解、认罪态度良好等从宽情节\n- 指出案件系民间借贷纠纷引发，主观恶性较小\n- 建议法庭从轻处罚并适用缓刑\n\n3. 控辩双方主要争议焦点：\n- 关于赔偿谅解情节的从宽幅度\n- 关于被告人主观恶性的认定\n- 关于犯罪行为社会危害性的评估\n- 关于量刑平衡的把握\n\n4. 双方补充辩论：\n- 公诉人强调赔偿非主动性、犯罪预谋性及公共场所危害性\n- 辩护人重申被告人悔罪诚意、初犯偶犯情节及适用缓刑条件",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人宣读起诉书，指控被告人贾某因经济纠纷故意毁坏他人车辆，经鉴定财物损失价值10892元。\n2. 被告人贾某对起诉书指控的犯罪事实和罪名无异议。\n3. 公诉人讯问：\n   - 确认6万元欠款为工程借款\n   - 被告人承认因愤怒冲动砸车\n   - 使用自备扳手作案\n   - 明知违法但情绪失控\n   - 未注意监控和目击者\n   - 未主动投案\n4. 辩护人讯问：\n   - 确认借款有书面借条但无利息约定\n   - 曾多次催讨未果\n   - 作案时清醒且不知车辆价值\n   - 已全额赔偿并取得谅解\n   - 未尝试法律途径解决纠纷\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n- 被告人在侦查阶段的供述（承认作案经过、动机及事后处理）\n- 案件受理相关书证\n- 价格认定结论书（确认损失价值10892元）\n- 现场勘验材料\n- 辨认笔录\n- 经济纠纷证明文件\n- 车辆维修定损材料\n- 抓获经过\n- 民警身份证明\n- 在逃登记表\n- 个人电子档案\n- 户籍及无前科证明\n- 监控视频\n- 证人胡某、张某乙证言\n- 被害人张某甲陈述\n\n2. 被告人对所有公诉方证据均表示无异议。\n\n3. 辩护人出示了调解书、谅解书、收条，证明被告人已赔偿被害人并取得谅解。\n\n4. 公诉人对辩护人出示的证据无异议。\n\n5. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 定罪方面：确认被告人构成故意毁坏财物罪，数额达到法定标准\n- 量刑情节：指出被告人具有主观恶性、反侦查意识、被动归案等从重情节\n- 提出量刑建议：建议在法定刑幅度内从重处罚，考虑缓刑\n\n2. 辩护人发表辩护意见：\n- 强调被告人已全额赔偿并取得谅解、认罪态度良好等从宽情节\n- 指出案件系民间借贷纠纷引发，主观恶性较小\n- 建议法庭从轻处罚并适用缓刑\n\n3. 控辩双方主要争议焦点：\n- 关于赔偿谅解情节的从宽幅度\n- 关于被告人主观恶性的认定\n- 关于犯罪行为社会危害性的评估\n- 关于量刑平衡的把握\n\n4. 双方补充辩论：\n- 公诉人强调赔偿非主动性、犯罪预谋性及公共场所危害性\n- 辩护人重申被告人悔罪诚意、初犯偶犯情节及适用缓刑条件",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 4.0,
+    "fine": 5000.0,
+    "reprieve": 6.0
+  }
+]

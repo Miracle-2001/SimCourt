@@ -1,0 +1,1791 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人刘某甲，XXXX年X月X日出生，男，汉族，XXX文化，户籍XXXXX，国家工作人员。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是国家公职人员。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "重庆市万州区人民检察院  \n起 诉 书  \n\n渝万州检刑诉〔2017〕420号  \n\n被告人刘某甲，男，XXXX年X月X日出生，汉族，XXX文化，户籍XXXXX，国家工作人员，原任重庆建设有限公司副总经理、重庆房地产开发有限公司董事长。因涉嫌受贿罪，于2016年5月10日被重庆市国资委纪委通知到案，同日被刑事拘留。  \n\n本案由重庆市万州区人民检察院侦查终结，以被告人刘某甲涉嫌受贿罪，于2017年6月16日向本院移送起诉。本院受理后，已告知被告人有权委托辩护人，依法讯问了被告人，听取了辩护人的意见，审查了全部案件材料。  \n\n经依法审查查明：  \n2008年至2015年，被告人刘某甲在担任重庆建设有限公司副总经理、重庆房地产开发有限公司董事长期间，利用职务之便，非法收受他人财物共计人民币545.1万元，为他人谋取利益。具体犯罪事实如下：  \n\n1. 与张某共同收受沈某400万元：  \n2011年，刘某甲与张某共谋，以虚增工程款的方式与沈某签订体育公园项目施工合同，约定沈某支付600万元好处费。沈某按刘某甲安排，向刘某乙私人账户及共管账户转账400万元，后刘某甲、张某通过共管账户操作掩盖受贿事实，并用于购买商铺等用途。  \n\n2. 单独收受沈某价值58.1万元的丰田越野车一辆：  \n2011年2月，沈某为感谢刘某甲在体育公园项目中的关照，购买丰田越野车赠送刘某甲，刘某甲长期占有使用直至案发后退还。  \n\n3. 单独收受陈某甲180万元：  \n2007年至2008年，刘某甲利用职务便利，帮助陈某乙承揽工程，收受陈某乙分四次送予的80万元好处费。  \n\n4. 单独收受赵某7万元：  \n2014年至2015年，刘某甲为赵某的门业公司谋取利益，两次收受赵某通过罗某送予的7万元。  \n\n认定上述事实的证据如下：  \n1. 书证：受案登记表、任职文件、企业法人营业执照、体育公园合作协议书、银行交易明细、新车订购单、工程施工合同、扣押清单、到案情况说明、立功检举材料、户籍证明等；  \n2. 证人证言：沈某、张某、陈某乙、赵某、罗某、刘某乙等23名证人的证言；  \n3. 物证：丰田越野车一辆；  \n4. 被告人供述：刘某甲对犯罪事实供认不讳。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。  \n\n本院认为，被告人刘某甲身为国家工作人员，利用职务便利非法收受他人财物545.1万元，数额特别巨大，其行为触犯了《中华人民共和国刑法》第三百八十五条、第三百八十六条之规定，犯罪事实清楚，证据确实、充分，应当以受贿罪追究其刑事责任。刘某甲在共同犯罪中起主要作用，系主犯；具有自首、立功情节，且退缴部分违法所得，可依法从轻或减轻处罚。建议判处被告人刘某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n重庆市万州区人民法院  \n\n检 察 官 XXX  \n20xx年x月x日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我对起诉书指控的犯罪事实和罪名没有异议，我认罪悔罪。在羁押期间我已经深刻认识到自己的错误，并积极配合调查，主动退缴了部分违法所得，也检举了他人犯罪。我真诚悔过，愿意接受法律的惩处。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人刘某甲，关于你与张某共同收受沈某400万元的事实，请详细说明你是如何与张某共谋，通过虚增工程款的方式实施受贿的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2010年体育公园项目招标时，我和张某商量通过虚增工程量的方式提高合同金额。我们与沈某约定，在合同总价中增加600万元作为好处费。实际操作中，沈某按照我的指示，将400万元分多次转入我哥哥刘某乙的私人账户和共管账户。为掩盖事实，我们伪造了借款协议。2015年，我和张某用共管账户中的112万多元购买了商铺。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于你收受沈某赠送的丰田越野车，请说明你是如何长期占有使用该车辆的？是否办理过相关过户手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "沈某在2011年2月直接将新车交付给我使用，车辆登记在沈某名下，没有办理过户手续。我一直使用这辆车到2016年案发前才退还。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于你收受陈某甲180万元的事实，请具体说明这四次收受的时间、地点、金额及具体事由？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2007年底到2008年初，陈某乙为承揽工程，承诺给我工程造价1%的好处费。我分四次收受：第一次是在2007年12月，在办公室收受20万元；第二次是2008年1月，在工地附近收受20万元；第三次是2008年3月，在餐厅收受20万元；第四次是2008年5月，在停车场收受20万元。总共收受80万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于你收受赵某7万元的事实，请具体说明这两次收受的时间、地点、金额及具体事由？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "2014年底，赵某为感谢我帮助其公司进入供应商数据库，通过罗某在办公室送给我5万元。2015年3月，赵某又通过罗某在停车场送给我2万元。两次共收受7万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于你与张某共同收受的400万元，请说明这些款项的具体去向和使用情况？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "400万元主要分为三部分使用：第一部分112.5737万元用于购买商铺；第二部分约200万元通过共管账户进行资金周转；剩余部分用于个人消费支出。具体资金流向在银行交易明细中都有记录。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于你与张某共同收受的400万元，请说明为何实际收受金额与约定的600万元好处费存在200万元差额？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "沈某表示资金周转困难，实际只支付了400万元。我们考虑到长期合作关系，也就没有继续追要剩余的200万元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，公诉人已经就主要犯罪事实进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于你与张某共同收受的400万元，请说明为何选择通过你哥哥刘某乙的账户进行转账？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "因为当时觉得通过亲属账户转账比较隐蔽，不容易被发现。我哥哥刘某乙的账户平时资金往来较多，这样操作可以掩盖受贿款项的真实性质。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于你收受沈某赠送的丰田越野车，请说明在2011年至2016年期间，该车辆的使用费用（如保险、维修等）是由谁支付的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "车辆的使用费用包括保险、维修、油费等都是由我个人支付的，沈某只负责购车款。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，辩护人已经就关键问题进行了充分讯问。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于你与张某共同收受的400万元，请说明为何在2015年才使用部分款项购买商铺，之前这些资金是如何存放和管理的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "400万元主要存放在共管账户和我哥哥刘某乙的私人账户中。前期资金主要用于项目周转和短期理财，2015年看到商铺投资机会，才决定用部分款项购买商铺。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于你检举他人犯罪的情况，请具体说明检举的内容和查证情况。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我检举了某公司负责人李某在工程项目中行贿的行为。经检察机关查证，李某确实存在向多名公职人员行贿的事实，相关案件已经立案侦查。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于你主动退缴部分违法所得的情况，请具体说明退缴的金额、时间及退缴方式。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我哥哥刘某乙在2016年案发后退缴了300万元至重庆市人民检察院第二分院，后又退缴100万元至法院。我的亲属还代为退缴了87万元违法所得，并缴纳了60万元罚金。这些退缴都是通过银行转账方式完成的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于你收受陈某甲180万元的事实，起诉书显示是收受陈某乙80万元，请说明为何存在100万元的差额？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "起诉书中的80万元是正确的，是我记错了。实际收受陈某乙的金额是80万元，分四次每次20万元收受的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "关于你检举他人犯罪的情况，请说明检举的具体时间及检举方式。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "我是在2016年6月羁押期间，通过书面材料向检察机关检举的。检举材料详细说明了李某行贿的具体事实和相关证据。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2008年至2015年，我在担任重庆建设有限公司副总经理、重庆房地产开发有限公司董事长期间，利用职务便利，收受他人财物。具体事实如下：  \n- 2010年，我与张某共同收受沈某400万元。沈某承建体育公园项目，我安排其通过刘某乙的私人账户和共管账户操作资金，并伪造借款协议掩盖事实。2015年，我与张某用共管账户中的112.5737万元购买商铺。  \n- 2011年，沈某为感谢我在体育公园项目上的关照，送我一辆价值58.1万元的丰田越野车，我一直使用该车直至案发前退还。  \n- 2007年至2008年，陈某乙为承揽工程，承诺给我工程造价1%的好处费，我收受其80万元。  \n- 2014年至2015年，赵某为感谢我帮助其公司进入供应商数据库，通过罗某送给我7万元。  \n\n（2）犯案动机  \n我收受财物是为了在工程项目中为他人谋取利益，并从中获取个人好处。  \n\n（3）案发之后的处理  \n2016年5月10日，我被重庆市国资委纪委工作人员通知到案。案发后，我的哥哥刘某乙退缴违法所得300万元至重庆市人民检察院第二分院，另退缴100万元至法院。我的亲属代为退缴违法所得87万元，并缴纳罚金60万元。我在羁押期间检举他人犯罪，经查证属实。我没有自首，目前没有与被害人达成谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.书证：受案登记表，证明案件受理情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：任职文件（由重庆建设有限公司及重庆房地产开发有限公司上级主管单位出具并加盖公章），证明被告人刘某甲担任重庆建设有限公司副总经理、重庆房地产开发有限公司董事长的职务情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：企业法人营业执照（经工商部门核发且在有效期内），证明相关公司的合法经营资格",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：体育公园合作协议书，证明房地产公司与重庆房地产公司合作修建体育公园的约定",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：银行交易明细（由银行官方出具并加盖业务章），证明沈某向刘某甲的哥哥刘某乙的私人账户及共管账户转账的资金流向",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：新车订购单（有销售方盖章及沈某作为购车人签字确认），证明沈某购买丰田越野车并送给刘某甲的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：工程施工合同（经住建公司与沈某双方签字盖章并在住建部门备案），证明住建公司与沈某签订的体育公园项目施工合同",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：扣押清单（由办案机关依法制作并有执法人员签字确认），证明案发后扣押的涉案财物情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：到案情况说明（由办案机关出具并加盖公章），证明被告人刘某甲被通知到案的经过",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.书证：立功检举材料（经公安机关查证属实并出具书面确认文件），证明刘某甲检举他人犯罪并经查证属实的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.书证：户籍证明，证明被告人刘某甲的身份信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人沈某说：“我按照刘某甲的安排，先后向刘某乙的私人账户和共管账户转账400万元，并购买了一辆丰田越野车送给刘某甲。”（有银行交易记录和新车订购单佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人张某说：“我与刘某甲共谋让沈某承建体育公园项目，并商量从沈某处收取600万元，由两人平分。”（有工程施工合同及银行转账记录佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人陈某乙说：“我为了承揽重庆置业公司二期工程，向刘某甲承诺给予工程造价1%的好处费，并分四次送给刘某甲80万元。”（有工程合同及银行转账凭证佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人赵某说：“我通过罗某向刘某甲推荐门业公司，并两次通过罗某送给刘某甲7万元以感谢其关照。”（有罗某证言及银行转账记录佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人罗某说：“我帮赵某向刘某甲推荐门业公司，并代赵某两次送给刘某甲共计7万元。”（有赵某证言及资金往来记录佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人刘某乙说：“我按照刘某甲的安排，接收了沈某转账的200万元，并参与了共管账户的操作。”（有银行交易明细及共管账户记录佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人李某甲说：“我了解体育公园项目的部分情况，刘某甲和张某在该项目中起主导作用。”（有项目会议纪要及合作协议佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人林某说：“我参与了体育公园项目的部分工作，知道刘某甲和沈某之间的资金往来。”（有项目文件及转账记录佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.证人证言：证人陈某丙说：“我了解刘某甲在住建公司分管的工作范围及其与陈某乙的往来。”（有公司内部文件及会议记录佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.证人证言：证人李某乙说：“我知道刘某甲长期使用沈某赠送的丰田越野车，且该车未纳入公司管理。”（有车辆使用登记及公司资产清单佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "23.证人证言：证人范某说：“我了解刘某甲使用丰田越野车的情况，该车主要用于其个人使用。”（有车辆GPS记录及证人证言佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "24.证人证言：证人何某说：“我了解房地产公司与重庆房地产公司联建体育公园的部分事实。”（有合作协议及项目文件佐证）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "25.书证：重庆劳务公司与重庆某企业管理咨询有限公司的借款协议（经双方签字盖章并有相关银行流水佐证），证明刘某甲与沈某伪造公司间借贷以掩盖受贿事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "26.书证：房地产公司收款凭证、收据复印件（经与原件核对一致），证明部分资金往来情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "27.书证：情况说明（由共管账户开户银行出具并盖章），证明共管账户的操作及资金退回情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "28.物证：丰田越野车一辆（经办案机关依法扣押并登记在扣押清单中），证明刘某甲收受沈某贿赂的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "29.书证：专项账户设立及资金支付记录（由银行出具并加盖业务章），证明体育公园项目资金的支付情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "30.书证：商铺申购记录（附购房合同及付款凭证），证明刘某甲、张某用共管账户资金购买商铺的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "31.书证：共管账户注销记录（由银行出具并加盖业务章），证明案发后共管账户被注销的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "32.书证：门面诚意金退回记录（附银行流水及收款方确认书），证明刘某甲的妻子退回112.5737万元门面诚意金的事实",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "33.书证：退缴违法所得记录（由办案机关出具书面确认），证明刘某乙退缴300万元及刘某甲亲属退缴87万元的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "34.书证：罚金缴纳记录（由法院财务部门出具确认），证明刘某甲亲属缴纳60万元罚金的情况",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人发表如下辩论意见：\n\n一、关于定罪问题。被告人刘某甲身为国家工作人员，利用职务便利为他人谋取利益，非法收受他人财物共计545.1万元，其行为完全符合《刑法》第三百八十五条关于受贿罪的构成要件。被告人当庭认罪，且所有证据相互印证，足以认定。\n\n二、关于量刑情节。1.被告人具有坦白情节，根据《刑法》第六十七条第三款，可以从轻处罚；2.检举他人犯罪行为经查证属实，根据《刑法》第六十八条，构成立功，可以从轻或减轻处罚；3.已退缴大部分赃款487万元并缴纳罚金60万元，可酌情从轻处罚。\n\n三、关于量刑建议。综合考虑受贿数额特别巨大、持续时间长、部分赃款通过亲属账户转移等从重情节，以及坦白、立功、退赃等从轻情节，建议判处有期徒刑十年至十二年，并处没收财产。\n\n四、需要强调的是，被告人收受400万元贿赂时与张某共谋，通过虚增工程款方式实施，手段隐蔽，社会危害性大，在量刑时应予充分考虑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n一、关于量刑情节。1.被告人具有自首情节，根据《刑法》第六十七条第一款规定，犯罪以后自动投案，如实供述自己的罪行的，是自首，可以从轻或者减轻处罚。被告人系被通知到案后立即如实供述全部犯罪事实，符合自首的构成要件。2.被告人认罪态度良好，当庭认罪悔罪，积极配合调查，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，可以依法从宽处理。3.被告人已退缴绝大部分违法所得487万元并缴纳罚金60万元，最大限度弥补了国家损失。4.被告人检举他人犯罪行为经查证属实，构成立功，根据《刑法》第六十八条规定，可以从轻或者减轻处罚。\n\n二、关于量刑建议。虽然受贿数额特别巨大，但考虑到被告人具有自首、立功、退赃等多项法定从轻、减轻情节，且认罪悔罪态度诚恳，建议在法定刑幅度内从轻处罚，判处有期徒刑八年至十年。\n\n三、需要特别说明的是，被告人收受的400万元中，部分资金实际用于公司经营周转，主观恶性相对较小；且丰田越野车虽长期使用但实际由被告人个人承担使用费用，社会危害性相对较轻。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于自首情节的认定。根据《刑法》第六十七条第一款规定，自首必须是自动投案。本案中被告人系被通知到案，不符合自动投案的要件，依法不能认定为自首。但被告人到案后如实供述，符合坦白情节，可以从轻处罚。\n\n二、关于400万元资金性质问题。辩护人提出部分资金用于公司经营周转，但该笔款项系通过虚增工程款方式获取，本质上仍属受贿所得，不影响受贿罪的成立。且被告人将部分资金用于购买商铺，明显具有非法占有的主观故意。\n\n三、关于丰田越野车的使用费用承担问题。虽然被告人个人支付了使用费用，但该车长期由其占有使用，所有权未转移仅是为了掩盖受贿事实，不影响受贿数额的认定。\n\n四、关于量刑建议。辩护人建议判处八年至十年有期徒刑明显过轻。本案受贿数额特别巨大，持续时间长达七年，且采用虚增工程款等隐蔽手段，社会危害性严重。虽具有坦白、立功等从轻情节，但仍应在十年以上量刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于自首情节的认定。根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条，经司法机关通知到案后如实供述的，应当视为自动投案。被告人接到通知后主动到案并如实供述全部犯罪事实，符合自首的构成要件。\n\n二、关于400万元资金性质问题。虽然资金来源于虚增工程款，但被告人实际用于公司经营周转的部分客观上减少了国家损失，这与完全用于个人挥霍的情形存在本质区别，在量刑时应予区分考量。\n\n三、关于量刑建议。根据《最高人民法院关于常见犯罪的量刑指导意见》，对于具有自首、立功、退赃等多项从宽情节的案件，可以减少基准刑的30%以下。本案被告人同时具备多项法定从轻情节，建议在十年以下量刑更为适当。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "一、关于自首问题。根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条第二款，犯罪嫌疑人被司法机关采取强制措施后如实供述的，不能认定为自动投案。本案被告人系被通知到案，属于被动归案，依法不能认定为自首。\n\n二、关于400万元资金用途问题。辩护人提出部分资金用于公司经营，但根据在案证据显示，该笔资金主要用于购买商铺等个人用途，且通过亲属账户转移，具有明显的非法占有目的。根据《刑法》第三百八十五条，受贿罪的构成不以赃款用途为要件。\n\n三、关于量刑建议。本案受贿金额达545.1万元，远超\"数额特别巨大\"标准，且持续时间长达7年，采用虚增工程款等隐蔽手段，社会危害性严重。虽具有坦白、立功等情节，但根据《最高人民法院关于常见犯罪的量刑指导意见》，受贿数额在300万元以上的，基准刑为十年以上有期徒刑。综合考虑本案情节，十年至十二年量刑建议适当。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "一、关于自首问题。根据《最高人民法院关于处理自首和立功若干具体问题的意见》第一条，犯罪嫌疑人经司法机关口头或电话通知后，主动到案并如实供述的，应当视为自动投案。本案被告人系接到通知后主动前往，并未采取强制措施，符合自首的认定标准。\n\n二、关于400万元资金用途。虽然部分资金用于购买商铺，但根据被告人供述和银行流水显示，确有部分资金用于公司经营周转，客观上减少了国家损失。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于赃款部分用于正当用途的，在量刑时可酌情从轻考虑。\n\n三、关于量刑建议。被告人除自首、立功外，还主动退缴了绝大部分赃款487万元，并缴纳罚金60万元，退赃比例高达89.3%。根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第九款，对于退赃、退赔的，可以减少基准刑的30%以下。综合考虑被告人的全部从宽情节，建议在十年以下量刑更为适当。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "尊敬的审判长、各位法官：\n我对自己所犯的罪行深感悔恨，完全认罪认罚。在担任领导职务期间，我没有守住廉洁底线，辜负了组织的培养和信任。案发后，我积极配合调查，主动退缴了全部违法所得，并检举他人犯罪线索。我深刻认识到自己的错误，愿意接受法律的惩处。恳请法庭能考虑我的认罪态度和退赃表现，给予从宽处理。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "重庆市万州区人民法院  \n刑事判决书  \n（2017）渝万州刑初字第420号  \n\n公诉机关重庆市万州区人民检察院。  \n被告人刘某甲，男，XXXX年X月X日出生，汉族，XXX文化，户籍XXXXX，原任重庆建设有限公司副总经理、重庆房地产开发有限公司董事长。因涉嫌受贿罪于2016年5月10日被刑事拘留，现羁押于重庆市万州区看守所。  \n辩护人×××，××律师事务所律师。  \n\n重庆市万州区人民检察院以渝万州检刑诉〔2017〕420号起诉书指控被告人刘某甲犯受贿罪，于2017年6月16日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。重庆市万州区人民检察院指派检察员×××出庭支持公诉，被告人刘某甲及其辩护人×××到庭参加诉讼。现已审理终结。  \n\n公诉机关指控：2008年至2015年，被告人刘某甲利用职务便利，非法收受他人财物共计人民币545.1万元。具体事实包括：1.与张某共同收受沈某400万元；2.收受沈某价值58.1万元的丰田越野车；3.收受陈某乙80万元；4.收受赵某7万元。公诉机关认为其行为构成受贿罪，具有坦白、立功情节，建议判处有期徒刑10-12年。  \n\n被告人刘某甲对指控事实、罪名及量刑建议无异议，自愿认罪认罚。辩护人提出被告人具有自首、退赃等从轻情节，建议判处8-10年有期徒刑。  \n\n经审理查明：  \n一、2011年，被告人刘某甲与张某共谋，通过虚增工程款方式收受沈某400万元，其中112.5737万元用于购买商铺；  \n二、2011年2月收受沈某价值58.1万元的丰田越野车并长期占有使用；  \n三、2007年至2008年收受陈某乙80万元；  \n四、2014年至2015年收受赵某7万元。案发后，被告人亲属退缴违法所得487万元，缴纳罚金60万元。  \n\n上述事实有被告人供述、证人证言、银行交易明细、扣押清单等34项证据证实，证据间相互印证，足以认定。  \n\n本院认为，被告人刘某甲身为国家工作人员，利用职务便利非法收受财物545.1万元，其行为已构成受贿罪，且数额特别巨大。公诉机关指控成立。被告人具有立功、坦白情节，且退缴大部分赃款，依法可从轻处罚。辩护人所提自首情节与查明事实不符，不予采纳。  \n\n依照《中华人民共和国刑法》第三百八十五条、第三百八十六条、第六十七条第三款、第六十八条、第六十四条之规定，判决如下：  \n一、被告人刘某甲犯受贿罪，判处有期徒刑十年，并处罚金人民币一百万元；  \n二、追缴被告人刘某甲违法所得人民币五百四十五万一千元，予以没收，上缴国库。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向重庆市第二中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。  \n\n审判长×××  \n二〇一七年××月××日  \n书记员×××",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）\n\n举证质证阶段总结：\n\n1. 公诉人出示了34项证据，包括：\n- 被告人在侦查阶段的供述，详细供认了2008-2015年间收受沈某、陈某乙、赵某等人贿赂的具体事实（400万元、丰田越野车、80万元、7万元等）\n- 任职文件、营业执照等证明被告人主体身份的书证\n- 体育公园项目相关合同、银行交易明细、伪造的借款协议等书证\n- 扣押清单显示扣押丰田越野车等涉案财物\n- 到案情况说明证实被告人系被通知到案\n- 立功检举材料证实被告人有立功表现\n- 25份证人证言（沈某、张某、陈某乙等）佐证受贿事实\n- 退缴违法所得记录显示亲属已退缴487万元及缴纳60万元罚金\n\n2. 被告人对全部34项证据均表示无异议\n\n3. 辩护人对全部34项证据均表示无异议\n\n4. 辩护人表示无需举证\n\n5. 被告人表示不申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）\n\n举证质证阶段总结：\n\n1. 公诉人出示了34项证据，包括：\n- 被告人在侦查阶段的供述，详细供认了2008-2015年间收受沈某、陈某乙、赵某等人贿赂的具体事实（400万元、丰田越野车、80万元、7万元等）\n- 任职文件、营业执照等证明被告人主体身份的书证\n- 体育公园项目相关合同、银行交易明细、伪造的借款协议等书证\n- 扣押清单显示扣押丰田越野车等涉案财物\n- 到案情况说明证实被告人系被通知到案\n- 立功检举材料证实被告人有立功表现\n- 25份证人证言（沈某、张某、陈某乙等）佐证受贿事实\n- 退缴违法所得记录显示亲属已退缴487万元及缴纳60万元罚金\n\n2. 被告人对全部34项证据均表示无异议\n\n3. 辩护人对全部34项证据均表示无异议\n\n4. 辩护人表示无需举证\n\n5. 被告人表示不申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）\n\n举证质证阶段总结：\n\n1. 公诉人出示了34项证据，包括：\n- 被告人在侦查阶段的供述，详细供认了2008-2015年间收受沈某、陈某乙、赵某等人贿赂的具体事实（400万元、丰田越野车、80万元、7万元等）\n- 任职文件、营业执照等证明被告人主体身份的书证\n- 体育公园项目相关合同、银行交易明细、伪造的借款协议等书证\n- 扣押清单显示扣押丰田越野车等涉案财物\n- 到案情况说明证实被告人系被通知到案\n- 立功检举材料证实被告人有立功表现\n- 25份证人证言（沈某、张某、陈某乙等）佐证受贿事实\n- 退缴违法所得记录显示亲属已退缴487万元及缴纳60万元罚金\n\n2. 被告人对全部34项证据均表示无异议\n\n3. 辩护人对全部34项证据均表示无异议\n\n4. 辩护人表示无需举证\n\n5. 被告人表示不申请调取新证据或通知新证人",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）\n\n举证质证阶段总结：\n\n1. 公诉人出示了34项证据，包括：\n- 被告人在侦查阶段的供述，详细供认了2008-2015年间收受沈某、陈某乙、赵某等人贿赂的具体事实（400万元、丰田越野车、80万元、7万元等）\n- 任职文件、营业执照等证明被告人主体身份的书证\n- 体育公园项目相关合同、银行交易明细、伪造的借款协议等书证\n- 扣押清单显示扣押丰田越野车等涉案财物\n- 到案情况说明证实被告人系被通知到案\n- 立功检举材料证实被告人有立功表现\n- 25份证人证言（沈某、张某、陈某乙等）佐证受贿事实\n- 退缴违法所得记录显示亲属已退缴487万元及缴纳60万元罚金\n\n2. 被告人对全部34项证据均表示无异议\n\n3. 辩护人对全部34项证据均表示无异议\n\n4. 辩护人表示无需举证\n\n5. 被告人表示不申请调取新证据或通知新证人\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 认定被告人行为构成受贿罪，涉案金额545.1万元\n- 提出被告人具有坦白、立功、退赃等从轻情节\n- 建议判处10-12年有期徒刑，并处没收财产\n- 特别指出400万元贿赂通过虚增工程款方式实施，手段隐蔽\n\n2. 辩护人发表辩护意见：\n- 主张被告人具有自首情节\n- 强调认罪态度良好、退缴大部分赃款487万元\n- 提出400万元中部分用于公司经营，主观恶性较小\n- 建议判处8-10年有期徒刑\n\n3. 双方主要争议焦点：\n- 自首情节认定：是否构成自动投案\n- 400万元资金性质及用途认定\n- 量刑幅度争议：10年以上或10年以下\n\n4. 补充辩论要点：\n- 公诉人坚持不能认定自首，认为系被动归案\n- 辩护人援引司法解释主张应认定自首\n- 双方对400万元资金实际用途存在分歧\n- 就退赃比例（89.3%）及从宽幅度展开辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 被告人刘某甲对起诉书指控的受贿545.1万元的犯罪事实和罪名均无异议，表示认罪悔罪，并说明已退缴部分违法所得和检举他人犯罪。\n\n2. 公诉人重点讯问：\n- 与张某共同收受沈某400万元的共谋过程及资金去向（通过虚增工程款、使用亲属账户转账、部分用于购买商铺）\n- 收受丰田越野车的使用情况（长期占有使用未过户）\n- 收受陈某甲80万元的具体细节（分四次每次20万元）\n- 收受赵某7万元的具体经过\n- 400万元与约定600万元的差额原因\n\n3. 辩护人讯问：\n- 通过亲属账户转账的目的（隐蔽性）\n- 丰田越野车使用费用的承担情况（由被告人个人支付）\n\n4. 审判长补充讯问：\n- 400万元资金的管理情况（前期用于周转理财）\n- 检举他人犯罪的具体内容（李某行贿案）\n- 退缴违法所得的具体情况（共退缴487万元）\n- 收受金额的确认（实际收受陈某乙80万元）\n- 检举的具体时间和方式（2016年6月书面检举）\n\n举证质证阶段总结：\n\n1. 公诉人出示了34项证据，包括：\n- 被告人在侦查阶段的供述，详细供认了2008-2015年间收受沈某、陈某乙、赵某等人贿赂的具体事实（400万元、丰田越野车、80万元、7万元等）\n- 任职文件、营业执照等证明被告人主体身份的书证\n- 体育公园项目相关合同、银行交易明细、伪造的借款协议等书证\n- 扣押清单显示扣押丰田越野车等涉案财物\n- 到案情况说明证实被告人系被通知到案\n- 立功检举材料证实被告人有立功表现\n- 25份证人证言（沈某、张某、陈某乙等）佐证受贿事实\n- 退缴违法所得记录显示亲属已退缴487万元及缴纳60万元罚金\n\n2. 被告人对全部34项证据均表示无异议\n\n3. 辩护人对全部34项证据均表示无异议\n\n4. 辩护人表示无需举证\n\n5. 被告人表示不申请调取新证据或通知新证人\n\n法庭辩论阶段总结：\n\n1. 公诉人发表辩论意见：\n- 认定被告人行为构成受贿罪，涉案金额545.1万元\n- 提出被告人具有坦白、立功、退赃等从轻情节\n- 建议判处10-12年有期徒刑，并处没收财产\n- 特别指出400万元贿赂通过虚增工程款方式实施，手段隐蔽\n\n2. 辩护人发表辩护意见：\n- 主张被告人具有自首情节\n- 强调认罪态度良好、退缴大部分赃款487万元\n- 提出400万元中部分用于公司经营，主观恶性较小\n- 建议判处8-10年有期徒刑\n\n3. 双方主要争议焦点：\n- 自首情节认定：是否构成自动投案\n- 400万元资金性质及用途认定\n- 量刑幅度争议：10年以上或10年以下\n\n4. 补充辩论要点：\n- 公诉人坚持不能认定自首，认为系被动归案\n- 辩护人援引司法解释主张应认定自首\n- 双方对400万元资金实际用途存在分歧\n- 就退赃比例（89.3%）及从宽幅度展开辩论",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 120.0,
+    "fine": 1000000.0,
+    "reprieve": 0.0
+  }
+]

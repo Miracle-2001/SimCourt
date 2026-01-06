@@ -1,0 +1,1383 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人吴某甲，性别男，XXX年X月X日出生，户籍XXXXX，民族XXX，文化程度XXX。因涉嫌犯买卖国家机关证件罪，于2016年11月9日被查获归案。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "我没有受过其他法律处分。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "北京市朝阳区人民检察院  \n起 诉 书  \n\n京朝检公诉刑诉〔2017〕136号  \n\n被告人吴某甲，男，XXX年X月X日出生，户籍XXXXX，民族XXX，文化程度XXX。因涉嫌犯买卖国家机关证件罪，于2016年11月9日被查获归案。  \n\n本案由北京市公安局朝阳分局侦查终结，以被告人吴某甲涉嫌买卖国家机关证件罪，于2017年2月8日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2016年11月9日4时许，被告人吴某甲驾驶一辆克隆出租车（车牌号为×××）在北京市朝阳区朝来绿色家园附近载客时，被民警查获。民警从其车内起获出租车营运证1张、驾驶员服务监督卡1张。经北京市公安局物证鉴定中心鉴定，上述证件均系伪造。  \n\n认定上述事实的证据如下：  \n1. 物证：克隆出租车一辆，车内有伪造的出租车营运证及驾驶员服务监督卡；  \n2. 物证：伪造的出租车营运证一张（经鉴定）；  \n3. 物证：伪造的驾驶员服务监督卡一张（经鉴定）；  \n4. 证人证言：证人陈某、沈某、李某、张某、吴某乙的证言；  \n5. 书证：北京市交通委员会运输管理局出租汽车管理处出具的证明材料；  \n6. 鉴定意见：机动车牌证鉴定报告；  \n7. 勘验检查笔录：民警对涉案车辆的勘验记录；  \n8. 书证：扣押清单、到案经过、起赃经过；  \n9. 被告人吴某甲的供述及其身份材料。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人吴某甲对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人吴某甲买卖国家机关证件，其行为触犯了《中华人民共和国刑法》第二百八十条第一款之规定，犯罪事实清楚，证据确实、充分，应当以买卖国家机关证件罪追究其刑事责任。鉴于被告人吴某甲系初犯，能够如实供述主要罪行，依法可以从轻处罚。建议判处被告人吴某甲有期徒刑XX，缓刑XX，并处罚金人民币XX元。  \n\n此致  \n北京市朝阳区人民法院  \n\n检 察 官 徐某  \n2017年2月8日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你驾驶的克隆出租车是从何处获得的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是从二手车市场购买的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买这辆克隆出租车时是否知道车上配备的营运证件是伪造的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是伪造的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造的营运证件共花费了多少钱？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "3000元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你使用这辆克隆出租车从事非法营运有多长时间了？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "一个月左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你使用伪造证件从事非法营运期间，共获得多少非法收入？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "大概5000元左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时是否知道这是违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是违法的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，对方是否告知过你这些证件的来源？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道具体来源。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时是通过什么渠道联系到卖家的？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "通过朋友介绍的。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你使用伪造证件从事非法营运期间，是否发生过乘客投诉或其他纠纷？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有发生过投诉或纠纷。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，是否知道伪造国家机关证件是犯罪行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道是犯罪行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件后，是否对证件进行过任何形式的修改或加工？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有进行过修改或加工。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，对方是否向你提供过其他伪造证件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过其他伪造证件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你使用伪造证件从事非法营运期间，是否曾向乘客出示过这些伪造证件？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向乘客出示过伪造证件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，是否知道这些伪造证件的具体制作过程？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "不知道具体制作过程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，对方是否向你提供过伪造证件的样本或模板？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过样本或模板。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，是否知道这些伪造证件可能给社会公共安全带来的危害？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能会带来危害。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，对方是否向你承诺过这些伪造证件能够通过正规检查？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有承诺过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，是否与卖家签订过任何形式的书面协议或收据？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有签订过任何书面协议或收据。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你购买伪造证件时，是否知道这些伪造证件可能给乘客带来的安全隐患？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能会带来安全隐患。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，关于买卖伪造证件的基本事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你购买这辆克隆出租车的主要用途是什么？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "为了从事出租车营运业务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否有人向你承诺过使用伪造证件不会被查处？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人向我承诺过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否知道正规出租车营运需要办理哪些合法手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道需要办理正规营运证和驾驶员服务监督卡。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你从事非法营运期间是否发生过任何交通事故或违法行为？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有发生过交通事故或违法行为。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否有人向你介绍过正规出租车营运证的办理流程？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "有人向我介绍过正规手续的办理流程。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否考虑过通过正规渠道办理营运手续？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "考虑过，但因为正规手续办理时间长、费用高，所以选择了购买伪造证件。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买伪造证件时是否知道正规出租车营运证的办理费用大概是多少？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道正规手续办理费用大概在2万元左右。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你从事非法营运期间是否曾向乘客收取过高于正规出租车标准的费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有收取过高于正规标准的费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否有人向你保证过这些伪造证件能够通过日常检查？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人向我保证过。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否有人向你介绍过伪造证件的具体使用方法和注意事项？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人向我介绍过伪造证件的具体使用方法和注意事项。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你购买这辆克隆出租车时，是否有人向你承诺过这些伪造证件与正规证件在外观上完全一致？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有人向我承诺过伪造证件与正规证件外观完全一致。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，关于被告人购买和使用伪造证件的基本事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你购买伪造证件时是否知道这些伪造证件可能给正规出租车行业带来的不正当竞争影响？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能会带来不正当竞争影响。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你购买伪造证件时是否知道这些证件可能被用于其他违法犯罪活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能会被用于其他违法犯罪活动。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你购买伪造证件时是否知道这些证件可能被用于逃避交通监管？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "知道可能会被用于逃避交通监管。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2016年11月9日4时许，我驾驶一辆车牌号为×××的出租车在北京市朝阳区朝来绿色家园营运时被民警查获。车内被搜出出租车营运证1张、驾驶员服务监督卡1张。经鉴定，这些证件均系伪造。  \n\n（2）犯案动机  \n我购买并使用伪造的出租车营运证及驾驶员服务监督卡是为了从事出租车营运业务。  \n\n（3）案发之后的处理  \n我被查获归案后，如实供述了主要罪行。目前没有提及自首、赔偿或达成谅解的情况。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.物证：车牌号为×××的克隆出租车一辆，车内有出租车营运证及驾驶员服务监督卡。经北京市公安局交通管理局车辆管理所鉴定，该机构具有机动车鉴定资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.物证：出租车营运证一张（经北京市公安局物证鉴定中心鉴定系伪造，鉴定方法为与真证进行材质、印章、防伪标识等比对）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.物证：驾驶员服务监督卡一张（经北京市公安局物证鉴定中心鉴定系伪造，鉴定方法为与真证进行材质、印章、防伪标识等比对）",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.证人证言：证人陈某说：“我看到吴某甲驾驶一辆出租车在朝阳区朝来绿色家园附近载客，车上有运营证和监督卡。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.证人证言：证人沈某说：“我在事发当天凌晨看到一辆出租车停在路边，司机行为可疑，后来警察来了。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.证人证言：证人李某说：“我是附近居民，经常看到这辆出租车在夜间出没，觉得不太正常。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.证人证言：证人张某说：“我是出租车公司员工，确认这辆车的车牌和证件不属于我们公司。”经核实，张某系××出租车公司人事部主管，与公司签订正式劳动合同",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.证人证言：证人吴某乙说：“我是吴某甲的亲戚，知道他最近开出租车，但不知道是克隆车。”",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：北京市交通委员会运输管理局出租汽车管理处出具的证明材料，证实涉案出租车营运证及驾驶员服务监督卡系伪造。该证明材料加盖公章，具有法律效力",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.鉴定意见：机动车牌证鉴定报告（由北京市公安局物证鉴定中心出具），确认涉案出租车营运证及驾驶员服务监督卡均系伪造，鉴定方法包括材质检测、印章比对、防伪标识鉴定等",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.勘验检查笔录：民警对涉案克隆出租车及车内物品的勘验记录。该记录由两名以上民警依法制作，全程录像，完整合法",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.书证：扣押清单，列明从吴某甲车内起获的出租车营运证和驾驶员服务监督卡。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.书证：公安机关出具的到案经过，说明吴某甲在例行检查时被查获，过程合法，记录完整，具有法律效力",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.书证：公安机关出具的起赃经过，记录从吴某甲车内起获伪造证件的过程。该记录由办案民警依法制作，全程录像，具有法律效力",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.书证：被告人吴某甲的身份材料，证明其个人基本信息",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第二百八十条第一款规定，买卖国家机关证件的行为构成犯罪。本案中，被告人吴某甲明知是伪造的出租车营运证和驾驶员服务监督卡，仍花费3000元购买并使用，从事非法营运活动一个月，获利5000元，其行为已构成买卖国家机关证件罪。\n\n被告人主观上明知伪造证件的违法性，客观上实施了购买和使用行为，犯罪事实清楚，证据确实充分。虽然被告人系初犯且如实供述，但考虑到其明知伪造证件可能带来的公共安全隐患、行业不正当竞争等危害，仍选择购买使用，主观恶性明显。\n\n建议法庭综合考虑被告人的认罪态度和犯罪情节，依法判处有期徒刑并处罚金。同时提醒法庭注意，被告人为谋取非法利益而购买伪造证件的行为，不仅扰乱了出租车行业管理秩序，更可能为其他违法犯罪活动提供便利，应当依法予以惩处。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n第一，被告人系初犯，此前无任何违法犯罪记录，根据《刑法》第六十七条第三款，可以从轻处罚。\n\n第二，被告人归案后如实供述全部犯罪事实，认罪态度良好，根据《刑法》第六十七条第三款关于坦白从宽的规定，可以从轻处罚。\n\n第三，被告人犯罪情节较轻，使用伪造证件时间仅一个月，获利仅5000元，且未造成实际危害后果，未发生交通事故或乘客投诉，社会危害性较小。\n\n第四，被告人购买伪造证件系因正规手续办理费用较高，主观恶性不深，且未对证件进行任何修改加工，犯罪手段简单。\n\n第五，被告人当庭认罪悔罪，愿意接受法律处罚，具有明显的悔罪表现。\n\n综上，恳请法庭充分考虑被告人的从轻情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻情节，公诉人补充以下意见：\n\n第一，被告人虽系初犯，但主观上明知伪造证件的违法性和社会危害性，仍主动购买使用，其主观恶性不容忽视。根据《刑法》第六十一条规定，量刑应当根据犯罪的事实、性质、情节和对社会的危害程度决定。\n\n第二，被告人虽如实供述，但本案系在执法检查中被查获，并非主动投案，不符合自首条件。根据《刑法》第六十七条规定，坦白从宽应当与自首区别对待。\n\n第三，被告人非法营运时间虽短，但伪造国家机关证件的行为本身已严重破坏社会管理秩序，其潜在危害性不容低估。根据《刑法》第二百八十条第一款规定，买卖国家机关证件罪不以实际危害后果为构成要件。\n\n第四，被告人明知正规手续办理流程而选择违法途径，反映出其漠视法律的主观态度。辩护人提出的\"主观恶性不深\"的辩护意见与事实不符。\n\n综上，公诉人坚持认为应当依法惩处，同时建议法庭在量刑时考虑被告人的认罪态度，但不应过度从宽。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的几点意见，辩护人补充以下观点：\n\n第一，被告人虽系被查获归案，但根据《最高人民法院关于处理自首和立功具体应用法律若干问题的解释》第一条，被告人在被查获后立即如实供述全部犯罪事实，且供述稳定一致，符合\"如实供述\"的法定从轻情节。\n\n第二，被告人使用伪造证件期间未发生任何实际危害后果，且未向乘客出示伪造证件，表明其主观上并非意图利用伪造证件实施其他违法犯罪活动。根据《刑法》第六十一条规定的罪责刑相适应原则，应当考虑其实际社会危害程度。\n\n第三，被告人选择购买伪造证件确实存在经济因素考量，其非法营运期间收费符合行业标准，未谋取超额利润，反映出其主观恶性相对有限。\n\n第四，被告人当庭认罪悔罪态度诚恳，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第七款，对于当庭自愿认罪的被告人，可以酌情从轻处罚。\n\n恳请法庭综合考虑被告人的犯罪动机、实际危害程度及悔罪表现，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的观点，公诉人补充以下意见：\n\n第一，根据《刑法》第二百八十条第一款规定，买卖国家机关证件罪是行为犯，不以实际危害后果为构成要件。被告人明知伪造证件的违法性仍购买使用，其行为本身已严重破坏社会管理秩序。\n\n第二，被告人虽未向乘客出示伪造证件，但根据其供述，购买伪造证件的目的就是为了从事非法营运，实质上已经利用了伪造证件实施违法行为。\n\n第三，经济困难不能成为违法行为的正当理由。被告人明知正规手续办理流程却选择违法途径，反映出其主观上对法律的漠视态度。\n\n第四，根据《最高人民法院关于常见犯罪的量刑指导意见》，对于买卖国家机关证件等妨害社会管理秩序犯罪，应当综合考虑犯罪手段、情节及社会危害程度从严把握从宽幅度。\n\n综上，公诉人坚持认为应当依法惩处，同时建议法庭在量刑时严格把握从宽幅度，确保罪责刑相适应。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的几点意见，辩护人补充以下辩护意见：\n\n第一，根据《刑法》第六十七条第三款，被告人虽非自首，但在侦查阶段和庭审中均如实供述犯罪事实，认罪态度稳定，依法可以从轻处罚。\n\n第二，被告人犯罪持续时间短、获利金额小，根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于犯罪情节较轻的，应当从宽处罚。\n\n第三，被告人未实际使用伪造证件从事其他违法犯罪活动，也未造成乘客权益受损等实际危害后果，社会危害性相对较小。\n\n第四，被告人系初犯，此前无违法犯罪记录，根据《最高人民法院关于贯彻宽严相济刑事政策的若干意见》第十九条，对初犯、偶犯应当依法从宽处理。\n\n第五，被告人当庭表示认罪悔罪，愿意接受法律处罚，具有明显的悔罪表现，符合从宽处理的条件。\n\n恳请法庭充分考虑被告人的从轻情节，依法从宽处理。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，对购买和使用伪造证件的行为感到非常后悔。我认罪认罚，愿意接受法律的制裁。我保证今后一定遵纪守法，绝不再犯类似错误。恳请法庭能够从轻处罚，给我一个改过自新的机会。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "北京市朝阳区人民法院  \n刑事判决书  \n（2017）京0105刑初136号  \n\n公诉机关北京市朝阳区人民检察院。  \n被告人吴某甲，男，XXX年X月X日出生，汉族，户籍XXXXX，文化程度XXX。因涉嫌犯买卖国家机关证件罪，于2016年11月9日被查获归案，现取保候审。  \n辩护人XXX，北京市XX律师事务所律师。  \n\n北京市朝阳区人民检察院以京朝检公诉刑诉〔2017〕136号起诉书指控被告人吴某甲犯买卖国家机关证件罪，于2017年2月8日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。北京市朝阳区人民检察院指派检察员徐某出庭支持公诉，被告人吴某甲及其辩护人XXX到庭参加诉讼。本案现已审理终结。  \n\n北京市朝阳区人民检察院指控：2016年11月9日4时许，被告人吴某甲驾驶一辆克隆出租车在北京市朝阳区朝来绿色家园附近载客时被民警查获，车内起获伪造的出租车营运证及驾驶员服务监督卡各1张。经鉴定，上述证件均系伪造。公诉机关认为，被告人吴某甲的行为已构成买卖国家机关证件罪，建议判处有期徒刑并处罚金。  \n\n被告人吴某甲对指控的犯罪事实、罪名及量刑建议没有异议，自愿认罪认罚。辩护人提出被告人系初犯、如实供述、认罪态度良好，犯罪情节较轻，未造成实际危害后果，请求从宽处理的辩护意见。  \n\n经审理查明：2016年10月，被告人吴某甲为从事出租车营运业务，购买一辆克隆出租车及伪造的出租车营运证、驾驶员服务监督卡，共支付3000元。2016年11月9日4时许，吴某甲驾驶该车在北京市朝阳区朝来绿色家园附近载客时被民警查获。经北京市公安局物证鉴定中心鉴定，涉案证件均系伪造。吴某甲非法营运期间获利约5000元。  \n\n上述事实，有经庭审质证确认的物证、书证、证人证言、鉴定意见、勘验检查笔录及被告人供述等证据证实，足以认定。  \n\n本院认为，被告人吴某甲买卖国家机关证件，其行为已构成买卖国家机关证件罪，依法应予惩处。北京市朝阳区人民检察院指控被告人吴某甲犯买卖国家机关证件罪的事实清楚，证据确实、充分，指控罪名成立。鉴于被告人吴某甲系初犯，到案后如实供述罪行，认罪态度较好，确有悔罪表现，依法可从轻处罚并适用缓刑。辩护人相关辩护意见本院予以采纳。依照《中华人民共和国刑法》第二百八十条第一款、第六十七条第三款、第七十二条第一款、第三款、第七十三条第二款、第三款、第五十二条、第五十三条、第六十四条之规定，判决如下：  \n\n一、被告人吴某甲犯买卖国家机关证件罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币五千元（缓刑考验期限，从判决确定之日起计算；罚金于本判决生效后十日内缴纳）；  \n二、没收伪造的出租车营运证及驾驶员服务监督卡。  \n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向北京市第三中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。  \n\n审判长 XXX  \n人民陪审员 XXX  \n人民陪审员 XXX  \n二〇一七年X月X日  \n书记员 XXX",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其购买并使用伪造证件从事非法营运的事实\n   - 物证：克隆出租车及车内伪造的营运证、驾驶员服务监督卡\n   - 5份证人证言，证实被告人使用伪造证件从事非法营运的情况\n   - 北京市交通委员会出具的伪造证件证明材料\n   - 机动车牌证鉴定报告，确认证件系伪造\n   - 勘验检查笔录、扣押清单等程序性文书\n   - 被告人身份材料\n\n2. 被告人对公诉人出示的全部16项证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部16项证据均表示无异议。\n\n4. 辩护人表示无需出示其他证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其购买并使用伪造证件从事非法营运的事实\n   - 物证：克隆出租车及车内伪造的营运证、驾驶员服务监督卡\n   - 5份证人证言，证实被告人使用伪造证件从事非法营运的情况\n   - 北京市交通委员会出具的伪造证件证明材料\n   - 机动车牌证鉴定报告，确认证件系伪造\n   - 勘验检查笔录、扣押清单等程序性文书\n   - 被告人身份材料\n\n2. 被告人对公诉人出示的全部16项证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部16项证据均表示无异议。\n\n4. 辩护人表示无需出示其他证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其购买并使用伪造证件从事非法营运的事实\n   - 物证：克隆出租车及车内伪造的营运证、驾驶员服务监督卡\n   - 5份证人证言，证实被告人使用伪造证件从事非法营运的情况\n   - 北京市交通委员会出具的伪造证件证明材料\n   - 机动车牌证鉴定报告，确认证件系伪造\n   - 勘验检查笔录、扣押清单等程序性文书\n   - 被告人身份材料\n\n2. 被告人对公诉人出示的全部16项证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部16项证据均表示无异议。\n\n4. 辩护人表示无需出示其他证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其购买并使用伪造证件从事非法营运的事实\n   - 物证：克隆出租车及车内伪造的营运证、驾驶员服务监督卡\n   - 5份证人证言，证实被告人使用伪造证件从事非法营运的情况\n   - 北京市交通委员会出具的伪造证件证明材料\n   - 机动车牌证鉴定报告，确认证件系伪造\n   - 勘验检查笔录、扣押清单等程序性文书\n   - 被告人身份材料\n\n2. 被告人对公诉人出示的全部16项证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部16项证据均表示无异议。\n\n4. 辩护人表示无需出示其他证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人吴某甲构成买卖国家机关证件罪，事实清楚、证据充分\n- 指出被告人主观明知违法性，客观实施购买使用行为\n- 强调伪造证件可能带来的公共安全隐患和行业不正当竞争\n- 建议依法判处有期徒刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 提出被告人系初犯、如实供述、认罪态度良好等从轻情节\n- 强调犯罪情节较轻，使用时间短、获利少且未造成实际危害\n- 指出被告人因正规手续费用高而违法，主观恶性不深\n- 请求法庭从宽处理\n\n3. 公诉人补充意见：\n- 反驳辩护人关于主观恶性不深的观点\n- 强调买卖国家机关证件罪是行为犯，不以实际危害为要件\n- 指出经济困难不能成为违法理由\n- 建议严格把握从宽幅度\n\n4. 辩护人补充辩护：\n- 重申被告人如实供述、情节轻微等从轻情节\n- 强调未造成实际危害后果\n- 指出被告人认罪悔罪态度诚恳\n- 再次请求从宽处理\n\n5. 公诉人最后意见：\n- 坚持应依法惩处\n- 强调伪造证件行为本身已破坏社会管理秩序\n- 建议量刑时严格把握从宽幅度",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于买卖伪造证件的事实：\n- 被告人承认从二手车市场购买克隆出租车，明知车上配备的营运证件是伪造的\n- 购买伪造证件花费3000元，使用伪造证件从事非法营运约1个月，获利约5000元\n- 被告人明知买卖和使用伪造证件是违法行为，通过朋友介绍购买伪造证件\n- 被告人未对证件进行修改，也未向乘客出示过伪造证件\n\n2. 辩护人询问被告人相关情况：\n- 被告人购买克隆出租车是为了从事出租车营运业务\n- 被告人知道正规手续办理流程，但因正规手续办理时间长、费用高（约2万元）而选择购买伪造证件\n- 被告人从事非法营运期间未发生交通事故或违法行为，也未收取高于正规标准的费用\n\n3. 审判长补充询问：\n- 被告人承认知道伪造证件可能带来的危害，包括社会公共安全隐患、行业不正当竞争影响以及可能被用于其他违法犯罪活动和逃避交通监管\n\n举证质证阶段总结：\n\n1. 公诉人依次出示了16项证据，包括：\n   - 被告人在侦查阶段的供述，证实其购买并使用伪造证件从事非法营运的事实\n   - 物证：克隆出租车及车内伪造的营运证、驾驶员服务监督卡\n   - 5份证人证言，证实被告人使用伪造证件从事非法营运的情况\n   - 北京市交通委员会出具的伪造证件证明材料\n   - 机动车牌证鉴定报告，确认证件系伪造\n   - 勘验检查笔录、扣押清单等程序性文书\n   - 被告人身份材料\n\n2. 被告人对公诉人出示的全部16项证据均表示无异议。\n\n3. 辩护人对公诉人出示的全部16项证据均表示无异议。\n\n4. 辩护人表示无需出示其他证据。\n\n5. 被告人表示不申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人吴某甲构成买卖国家机关证件罪，事实清楚、证据充分\n- 指出被告人主观明知违法性，客观实施购买使用行为\n- 强调伪造证件可能带来的公共安全隐患和行业不正当竞争\n- 建议依法判处有期徒刑并处罚金\n\n2. 辩护人发表辩护意见：\n- 提出被告人系初犯、如实供述、认罪态度良好等从轻情节\n- 强调犯罪情节较轻，使用时间短、获利少且未造成实际危害\n- 指出被告人因正规手续费用高而违法，主观恶性不深\n- 请求法庭从宽处理\n\n3. 公诉人补充意见：\n- 反驳辩护人关于主观恶性不深的观点\n- 强调买卖国家机关证件罪是行为犯，不以实际危害为要件\n- 指出经济困难不能成为违法理由\n- 建议严格把握从宽幅度\n\n4. 辩护人补充辩护：\n- 重申被告人如实供述、情节轻微等从轻情节\n- 强调未造成实际危害后果\n- 指出被告人认罪悔罪态度诚恳\n- 再次请求从宽处理\n\n5. 公诉人最后意见：\n- 坚持应依法惩处\n- 强调伪造证件行为本身已破坏社会管理秩序\n- 建议量刑时严格把握从宽幅度",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 6.0,
+    "fine": 5000.0,
+    "reprieve": 12.0
+  }
+]

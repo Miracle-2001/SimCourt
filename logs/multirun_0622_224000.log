@@ -1,0 +1,131 @@
+In main..
+simu_list: [0]
+----- simulation id = 0 -----
+除审判长外的其他人员入场
+creating agent  审判长
+query_model deepseek-v3-250324 0
+length: 6006
+[22:40:12] INFO     HTTP Request: POST https://svip.xty.app/v1/chat/completions "HTTP/1.1   _client.py:1025
+                    200 OK"                                                                                
+Result: {
+    "法条":{
+        "使用":1,
+        "询问":["中华人民共和国刑法第一百三十三条之一","中华人民共和国刑法第六十七条","中华人民共和国刑事诉讼法第十五条"]
+    },
+    "一律可知":{
+        "使用":1,
+        "询问":["危险驾驶罪中血液酒精含量197mg/100ml的典型案例及量刑","无证驾驶且醉酒驾驶的从重处罚情节认定","危险驾驶罪中取得被害人谅解对量刑的影响"]
+    }
+}
+Usage: {'completion_tokens': None, 'prompt_tokens': None}
+Queries 审判长 {
+    "法条":{
+        "使用":1,
+        "询问":["中华人民共和国刑法第一百三十三条之一","中华人民共和国刑法第六十七条","中华人民共和国刑事诉讼法第十五条"]
+    },
+    "一律可知":{
+        "使用":1,
+        "询问":["危险驾驶罪中血液酒精含量197mg/100ml的典型案例及量刑","无证驾驶且醉酒驾驶的从重处罚情节认定","危险驾驶罪中取得被害人谅解对量刑的影响"]
+    }
+}
+query_model deepseek-v3-250324 0
+length: 1520
+[22:41:04] INFO     HTTP Request: POST https://svip.xty.app/v1/chat/completions "HTTP/1.1   _client.py:1025
+                    200 OK"                                                                                
+Result: 中华人民共和国刑法第一百三十三条之一|中华人民共和国刑法第六十七条|中华人民共和国刑事诉讼法第十五条|最高人民法院 最高人民检察院 公安部关于办理醉酒驾驶机动车刑事案件适用法律若干问题的意见第十条|最高人民法院 最高人民检察院 公安部 司法部关于办理醉酒危险驾驶刑事案件的意见第十条第一项|最高人民法院 最高人民检察院 公安部 司法部关于办理醉酒危险驾驶刑事案件的意见第十一条|最高人民法院 最高人民检察院 公安部 司法部关于办理醉酒危险驾驶刑事案件的意见第十条第八项|最高人民法院 最高人民检察院 公安部 司法部关于办理醉酒危险驾驶刑事案件的意见第十四条第二项
+Usage: {'completion_tokens': None, 'prompt_tokens': None}
+Generate QA_pair 审判长 {'危险驾驶罪中血液酒精含量197mg/100ml的典型案例及量刑': '### 结论\n血液酒精含量197mg/100ml的危险驾驶罪被告人，根据案件具体情况，可能面临从重处罚，但若具备自首、认罪认罚、赔偿谅解等情节，法院在量刑时会予以考虑，可能适用缓刑。\n\n### 核心法条\n- **《最高人民法院、最高人民检察院、公安部关于办理醉酒驾驶机动车刑事案件适用法律若干问题的意见》第十条**：规定了醉酒驾驶机动车，血液酒精含量达到200毫克/100毫升以上的，从重处罚。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **血液酒精含量**：血液酒精含量达到197mg/100ml，接近从重处罚的临界值，法院会从重处罚。例如，【（2018）黑01刑终250号】中，李某血液酒精含量197.46mg/100ml，法院认定其犯罪情节并非轻微，支持了检察机关的抗诉意见，认为原审判决不当。\n- **认罪态度与悔罪表现**：被告人如实供述、自愿认罪认罚，法院可能从轻处罚。如【（2023）苏1283刑初508号】中，朱某自首并认罪认罚，法院从轻处罚。\n- **赔偿与谅解**：被告人赔偿被害人并取得谅解，法院可能酌情从轻处罚。如【（2023）苏1283刑初508号】中，朱某赔偿被害人并取得谅解，法院在量刑时予以考虑。\n- **适用缓刑的条件**：即使血液酒精含量高，若被告人认罪态度好、赔偿谅解、无其他从重情节，法院可能适用缓刑。如【（2024）粤0118刑初294号】中，韦某杰虽犯危险驾驶罪，但鉴于其认罪态度及悔罪表现，法院决定适用缓刑。\n\n综上，血液酒精含量接近或超过从重处罚标准的危险驾驶罪被告人，法院在量刑时会综合考虑其认罪态度、是否赔偿谅解等因素，决定是否从重处罚及是否适用缓刑。\n\n#####\n类似案件为：\n【（2018）黑01刑终250号】：法院认为，李某在道路上醉酒驾驶机动车，构成危险驾驶罪。鉴于其血液酒精含量接近200mg/100ml，原审认定犯罪情节轻微不当，应依法从重处罚。一、维持黑龙江省依兰县人民法院（2017）黑0123刑初215字号刑事判决的定罪部分，即被告人李某犯危险驾驶罪；\n二、撤销黑龙江省依兰县人民法院（2017）黑0123刑初215字号刑事判决的量刑部分，即判处被告人李某免予刑事处罚；\n三、原审被告人李某犯危险驾驶罪，判处拘役五个月，并处罚金人民币二万元。\n（自2018年6月1日起至2018年10月31日止；罚金从本判决生效之日起一个月内缴纳）', '无证驾驶且醉酒驾驶的从重处罚情节认定': '### 结论\n无证驾驶且醉酒驾驶的行为在司法实践中被认定为从重处罚情节，但具体判罚需综合考虑醉驾行为的危险性、行为人的认罪态度、是否造成实际危害后果、是否具有其他从重或从轻处罚情节等因素。\n\n### 核心法条\n- **《最高人民法院、最高人民检察院、公安部、司法部关于办理醉酒危险驾驶刑事案件的意见》第十条第一项**：规定醉驾造成交通事故并负事故全部或主要责任的，从重处理。\n- **《最高人民法院、最高人民检察院、公安部、司法部关于办理醉酒危险驾驶刑事案件的意见》第十一条**：规定醉驾具有自首、坦白、自愿认罪认罚、造成交通事故后赔偿损失或者取得谅解等情形的，从宽处理。\n- **《最高人民法院、最高人民检察院、公安部、司法部关于办理醉酒危险驾驶刑事案件的意见》第十条第八项**：在高速公路上醉酒驾驶的，从重处理。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **醉酒程度和无证驾驶**：无证驾驶被认定为从重处罚情节，但2023年施行的新规定指出，未取得机动车驾驶证驾驶摩托车的，不再属于从重处罚情形。例如，【（2023）粤0112刑初1160号】、【（2023）浙0481刑初685号】、【（2023）粤01刑终1544号】，这些案例中，法院考虑了无证驾驶和醉酒驾驶的综合影响，但对摩托车驾驶的无证状态不再作为从重处罚。\n- **认罪态度和赔偿情况**：被告人归案后如实供述、认罪认罚、赔偿损失或取得谅解，可以作为从轻处罚的情节。例如，【（2019）晋11刑终251号】中，上诉人霍某因归案后如实供述、赔偿被害人经济损失并取得谅解，法院对其从轻处罚。\n- **是否造成实际危害后果**：未造成实际危害结果的醉驾行为，法院可能酌情从宽处罚。例如，【（2023）粤0112刑初1068号】中，被告人吕某杰虽然醉酒程度较低，但因无证驾驶被认定为从重情节，但未提及实际危害后果，法院结合认罪认罚等情节，采纳了公诉机关的量刑建议。\n\n综上，无证驾驶且醉酒驾驶的行为在司法实践中被认定为从重处罚情节，但具体判罚需综合考虑多种因素，包括醉驾行为的危险性、行为人的认罪态度、是否造成实际危害后果、是否具有其他从重或从轻处罚情节等。新规定对无证驾驶摩托车的处罚有所调整，体现了宽严相济的刑事政策。\n\n#####\n类似案件为：\n【（2023）粤0112刑初1160号】：法院认为，被告人宋正林醉酒后无证驾驶，并在本案以外有饮酒驾驶的情形，应从重处罚。鉴于其能够如实供述、认罪认罚，公诉机关提出的量刑建议合理，予以采纳。被告人宋正林犯危险驾驶罪，判处拘役一个半月,缓刑三个月（缓刑考验期从判决确定之日起计算），并处罚金三千元（在判决生效次日起五日内一次性缴清，因被告人本案相关行为已被公安机关处以罚款1440元，应予以扣减，被告人宋正林还需向本院缴纳罚金1560元）。', '危险驾驶罪中取得被害人谅解对量刑的影响': '### 结论\n在危险驾驶罪中，取得被害人谅解通常作为酌定量刑情节，对量刑产生积极影响，尤其是当被告人认罪悔罪、积极赔偿损失时，法院可能从轻处罚或适用缓刑。然而，对于犯罪危害性大、情节严重或主观恶性较深的案件，即使取得谅解，也不应轻易适用缓刑或从轻处罚。\n\n### 核心法条\n- **《最高人民法院、最高人民检察院、公安部、司法部关于办理醉酒危险驾驶刑事案件的意见》（高检发办字〔2023〕187号）第十四条第二项**：规定“造成交通事故且负事故全部或者主要责任，未赔偿损失”的情形，一般不适用缓刑，但积极协商、放弃赔偿要求等同于取得谅解，不应排除缓刑适用。\n\n### 案例分析\n根据相关案例，需要考虑以下几个方面：\n- **自首与认罪态度**：自首、认罪认罚是影响量刑的重要因素。例如，【（2022）鲁1323刑初106号】中，被告人赵琪在事故现场等待处理，到案后如实供述，系自首，可从轻处罚。\n- **赔偿与谅解**：积极赔偿被害人经济损失并取得谅解，是量刑时的重要考量因素。如【（2022）鲁0126刑初148号】，被告人李某认罪认罚，具有自首情节，已赔偿事故相对方损失并取得谅解，对其可以从轻处罚。\n- **犯罪性质与社会危害性**：对于严重危害社会治安、犯罪情节特别恶劣的案件，即使取得谅解，量刑时也应慎重。如黑社会性质组织犯罪，即使取得谅解，量刑时仍需从严把握，以保证罪责刑相一致。\n- **缓刑适用**：取得谅解与积极赔偿是适用缓刑的重要条件，但需结合犯罪性质、情节、后果及被告人的主观恶性、人身危险性等因素综合评判。如【（2023）粤1322刑初426号】，被告人林某无证驾驶，发生交通事故，负主要责任，但因自首、认罪认罚、赔偿并取得谅解，法院在量刑时予以考量，采纳了量刑建议。\n\n综上，取得被害人谅解在危险驾驶罪的量刑中具有重要作用，但其影响程度需结合案件具体情况，尤其是犯罪的性质、情节、后果及被告人的主观恶性、人身危险性等因素综合评判。\n\n#####\n类似案件为：\n【（2022）鲁1323刑初106号】：法院认为，赵琪构成危险驾驶罪，鉴于其自首、赔偿被害人并取得谅解，可从轻处罚。决定对赵琪从轻处罚，并适用缓刑。被告人赵琪犯危险驾驶罪，判处拘役二个月，缓刑三个月，并处罚金人民币二万元。\n（缓刑考验期限，从判决确定之日起计算。罚金已缴纳。）', '中华人民共和国刑法第一百三十三条之一': '在道路上驾驶机动车，有下列情形之一的，处拘役，并处罚金：（一）追逐竞驶，情节恶劣的；（二）醉酒驾驶机动车的；（三）从事校车业务或者旅客运输，严重超过额定乘员载客，或者严重超过规定时速行驶的；（四）违反危险化学品安全管理规定运输危险化学品，危及公共安全的。机动车所有人、管理人对前款第三项、第四项行为负有直接责任的，依照前款的规定处罚。有前两款行为，同时构成其他犯罪的，依照处罚较重的规定定罪处罚。', '中华人民共和国刑法第六十七条': '犯罪以后自动投案，如实供述自己的罪行的，是自首。对于自首的犯罪分子，可以从轻或者减轻处罚。其中，犯罪较轻的，可以免除处罚。被采取强制措施的犯罪嫌疑人、被告人和正在服刑的罪犯，如实供述司法机关还未掌握的本人其他罪行的，以自首论。犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。'}
+query_model deepseek-v3-250324 0
+length: 8899
+[22:41:13] INFO     HTTP Request: POST https://svip.xty.app/v1/chat/completions "HTTP/1.1   _client.py:1025
+                    200 OK"                                                                                
+Result: 1.被告人何玉梅血液酒精含量为197mg/100ml是否构成危险驾驶罪的从重处罚情节
+2.被告人无证驾驶行为是否应当作为危险驾驶罪的从重处罚情节
+3.被告人何玉梅认罪认罚、赔偿损失并取得被害人谅解的情节对量刑的影响
+4.本案是否符合适用缓刑的条件
+5.被告人何玉梅归案后如实供述的行为是否构成自首或坦白情节
+Usage: {'completion_tokens': None, 'prompt_tokens': None}
+query_model deepseek-v3-250324 0
+length: 6908
+[22:41:22] INFO     HTTP Request: POST https://svip.xty.app/v1/chat/completions "HTTP/1.1   _client.py:1025
+                    200 OK"                                                                                
+Result: 1.被告人何玉梅，2024年5月8日凌晨3时37分，你是否驾驶藏B26272小型普通客车在左贡县珠冉新区川渝江湖菜门口发生交通事故？
+
+2.事发时你血液中的酒精含量经鉴定为197mg/100ml，你是否清楚这是醉酒驾驶的标准？当时为何要酒后驾车？
+
+3.你是否有合法的机动车驾驶证？为何在无证的情况下驾驶机动车？
+
+4.事故发生后，你是否主动报警并留在现场等候处理？是否如实向公安机关供述了全部事实？
+
+5.你与被害人周宗碧是否已达成和解协议并赔偿损失？赔偿金额是多少？
+
+6.你对于检察机关指控的危险驾驶罪是否有异议？是否自愿认罪认罚？
+
+7.你是否有其他需要向法庭说明的情况？
+Usage: {'completion_tokens': None, 'prompt_tokens': None}
+creating agent  公诉人
+query_model deepseek-v3-250324 0
+length: 6517
+[22:41:34] INFO     HTTP Request: POST https://svip.xty.app/v1/chat/completions "HTTP/1.1   _client.py:1025
+                    200 OK"                                                                                
+Result: {
+    "法条":{
+        "使用":1,
+        "询问":["中华人民共和国刑法第一百三十三条之一","中华人民共和国刑事诉讼法第十五条","中华人民共和国刑事诉讼法第一百七十六条"]
+    },
+    "一律可知":{
+        "使用":1,
+        "询问":["危险驾驶罪中血液酒精含量197mg/100ml的典型案例及量刑","无证驾驶且醉酒驾驶的从重处罚情节认定","危险驾驶罪中取得被害人谅解对量刑的影响"]
+    }
+}
+Usage: {'completion_tokens': None, 'prompt_tokens': None}
+Queries 公诉人 {
+    "法条":{
+        "使用":1,
+        "询问":["中华人民共和国刑法第一百三十三条之一","中华人民共和国刑事诉讼法第十五条","中华人民共和国刑事诉讼法第一百七十六条"]
+    },
+    "一律可知":{
+        "使用":1,
+        "询问":["危险驾驶罪中血液酒精含量197mg/100ml的典型案例及量刑","无证驾驶且醉酒驾驶的从重处罚情节认定","危险驾驶罪中取得被害人谅解对量刑的影响"]
+    }
+}
+Traceback (most recent call last):
+  File "/home/bjtuzky/Codes/multirun.py", line 117, in <module>
+    main()
+  File "/home/bjtuzky/Codes/multirun.py", line 109, in main
+    simulation.start_simluation(simu_id, model, model, model, model, model)
+  File "/home/bjtuzky/Codes/frontEnd.py", line 200, in start_simluation
+    self.run_simulation(simulation_id=int(simulation_id))
+  File "/home/bjtuzky/Codes/main.py", line 1029, in run_simulation
+    self.prosecution =self.create_agent(self.config["all_description"], self.config["prosecution"], self.prosecutor_model, log_think=self.log_think)
+  File "/home/bjtuzky/Codes/main.py", line 160, in create_agent
+    nowAgent.preparation(self.case_data["charge"],self.case_data["prosecution_statement_sub"],self.case_data["defendant_information"]+request+fact,"公诉人出示的："+str(self.case_data["evidence"][0])+"辩护人出示的："+str(self.case_data["evidence"][1]))
+  File "/home/bjtuzky/Codes/agent.py", line 543, in preparation
+    QA_pair=self.plan(info+task)
+  File "/home/bjtuzky/Codes/agent.py", line 343, in plan
+    answer=self.yilvkezhi_retriever(query)
+  File "/home/bjtuzky/Codes/agent.py", line 255, in yilvkezhi_retriever
+    response = requests.request("POST", url, headers=headers, data=payload)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/http/client.py", line 1368, in getresponse
+    response.begin()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/http/client.py", line 317, in begin
+    version, status, reason = self._read_status()
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/http/client.py", line 278, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/bjtuzky/.conda/envs/rag/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

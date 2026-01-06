@@ -1,0 +1,5 @@
+先进入role中的main_court.py跑三轮庭审辩论
+然后用当前目录下的judge_analysis_record跑初审
+然后用当前目录下的judge_case_refine跑最后判决
+
+（judge_final_once没用）

@@ -1,0 +1,1575 @@
+[
+  {
+    "role": "书记员",
+    "content": "法庭肃静，现在宣布法庭纪律：\n一、诉讼参与人和旁听人员请自觉遵守法庭规则，维护法庭秩序，不得鼓掌、喧哗、吵闹和实施其他妨碍审判活动的行为；\n二、旁听人员在旁听时不得随意走动和进入审判区，不得发言、提问；\n三、诉讼参与人、旁听人员、新闻记者未经审判长许可不得录音、录像和摄影，携带的通讯工具请调成振动或关机状态；\n四、保持法庭内整洁，不准吸烟和随地吐痰；\n五、对于违反法庭规则的人，审判长或者独任审判员可以口头警告、训诫、也可以没收录音、录像和摄影器材，责令退出法庭或者经院长批准予以罚款、拘留。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长入庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "全体坐下！",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "书记员",
+    "content": "报告审判长，庭前准备工作已经就绪，可以开庭。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开庭！传被告人到庭。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "请执勤法警给被告人打开戒俱。",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人严某，性别男，户籍XXXXX，曾有行政处罚劣迹。因涉嫌犯开设赌场罪，于2017年8月18日被公安机关抓获。被告人，刚才所宣读的你的身份情况属实吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "属实。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否是中共党员、人大代表、政协委员或国家公职人员？或其他政治身份？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不是。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你历史上是否受过其他法律处分？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "2015年因赌博被行政拘留15日。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "你是否申请审判员、书记员、公诉人回避？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面告知诉讼权利。根据《中华人民共和国刑事诉讼法》第二十八条、第二十九条、第三十条、第三十一条、第三十二条、第一百九十七条、第一百九十八条及《最高人民法院关于适用<中华人民共和国刑事诉讼法>的解释》第一百九十三条的规定，被告人在法庭审理过程中依法享有下列诉讼权利：1.可以申请审判员、书记员、公诉人回避；2.可以提出证据、申请通知新的证人到庭、调取新的证据，申请重新鉴定或者勘验、检查；3.被告人可以自行辩护；4.被告人可以在法庭辩论终结后作最后陈述。被告人，以上本庭宣布的各项诉讼权利，你都听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Preparation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Preparation"
+  },
+  {
+    "role": "审判长",
+    "content": "现在开始法庭调查。由公诉人宣读起诉书。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "湖南省长沙市天心区人民检察院  \n起 诉 书  \n\n长天检刑诉〔2017〕589号  \n\n被告人严某，男，户籍XXXXX，曾有行政处罚劣迹。因涉嫌犯开设赌场罪，于2017年8月18日被公安机关抓获。  \n\n本案由长沙市公安局天心分局侦查终结，以被告人严某涉嫌开设赌场罪，于2017年10月16日向本院移送起诉。本院受理后，依法讯问了被告人，审查了全部案件材料。  \n\n经依法审查查明：  \n2017年4月份以来，被告人严某在本市天心区黑石铺街道披塘安置小区一期8栋开设一无名电游室，内设1组打鱼机和1组熊猫机，并聘请李某甲、张某甲（均另案处理）为其负责管理运营。2017年6月21日23时许，赌博违法人员谢某、李某乙、李某丙、连某、王某、伍某在被告人严某开设的电游室进行赌博时被公安机关查获，公安机关依法扣押了赌博用的打鱼机、熊猫机的主板和赌资人民币2000元。截至该电游室被查获，被告人严某共非法获利约人民币12000元。经鉴定，被告人严某电游室所用的打鱼机和熊猫机均为具有赌博功能电子游戏设施设备，每组8台，均能独立供一人进行赌博活动操作。  \n\n认定上述事实的证据如下：  \n1.物证：赌博用的打鱼机、熊猫机的主板和赌资人民币2000元；  \n2.书证：赌博机器照片、归案情况说明、羁押证明、证据保全清单、收缴物品清单、微信交易记录截图、行政处罚决定书、户籍资料；  \n3.证人证言：证人李某甲、张某甲、谢某、李某乙、李某丙、连某、王某、伍某、童某、张某乙的证言；  \n4.被告人供述和辩解；  \n5.鉴定意见：打鱼机和熊猫机均为具有赌博功能电子游戏设施设备；  \n6.辨认笔录。  \n\n上述证据收集程序合法，内容客观真实，足以认定指控事实。被告人严某对指控的犯罪事实和证据没有异议。  \n\n本院认为，被告人严某以营利为目的，开设电游赌博室赌博，设置十台以上赌博机，其行为已触犯《中华人民共和国刑法》第三百零三条第二款之规定，犯罪事实清楚，证据确实、充分，应当以开设赌场罪追究其刑事责任。被告人严某曾有行政处罚劣迹，具有酌定从重处罚情节。被告人严某归案后及法庭审理中均能如实供述自己的罪行，可以认定具有坦白情节，依法可以从轻处罚。建议判处被告人严某有期徒刑XX，缓刑XX，并处罚金XX。  \n\n根据《中华人民共和国刑事诉讼法》第一百七十六条的规定，提起公诉，请依法判处。  \n\n此致  \n湖南省长沙市天心区人民法院  \n\n检 察 官 李某丁  \n2017年10月16日",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，公诉人刚才宣读的起诉书你听清楚了吗？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "听清楚了。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，下面由你对起诉指控的犯罪事实及量刑事实向法庭进行陈述。如果你对起诉指控的事实和罪名没有异议，也可以不陈述。你有没有需要陈述的？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有要陈述的。",
+    "interrupt": 3,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "被告人，你开设的电游室具体位于什么位置？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "长沙市天心区黑石铺街道披塘安置小区一期8栋。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室具体经营时间是几点到几点？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "一般是下午2点到晚上12点。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室具体有几台赌博机？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "1组打鱼机和1组熊猫机，每组8台，共16台。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你聘请的李某甲和张某甲具体负责哪些工作？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "李某甲负责收银和兑换筹码，张某甲负责机器维护和看场子。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室每天平均有多少人来赌博？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "每天大概有10到15人。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室每天平均能获得多少非法收入？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "每天大概能赚400到500元。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否提供现金兑换筹码服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，提供现金兑换筹码服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否设置了监控设备？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，在门口和收银台安装了监控摄像头。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否制定了具体的赌博规则？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，制定了具体的上分和兑奖规则。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供餐饮服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，提供简单的饮料和零食。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供赊账服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供赊账服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供借款服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供借款服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的接送服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供接送服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的休息区域？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，在电游室角落设置了休息区。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的安保服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，聘请了张某甲负责安保工作。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的会员制度或优惠活动？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，设置了会员积分制度，老顾客可以享受折扣优惠。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的VIP服务或包间服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供VIP服务或包间服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的停车服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供专门的停车服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的借贷服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供专门的借贷服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的积分兑换现金服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，提供积分兑换现金服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "公诉人",
+    "content": "你开设的电游室是否向赌博人员提供专门的积分兑换实物奖品服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "是的，提供积分兑换实物奖品服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人不用再问了，相关犯罪事实已经基本查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人对被告人有无讯问？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "被告人，你开设的电游室是否办理了工商营业执照？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有办理工商营业执照。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你开设的电游室是否向未成年人开放？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有向未成年人开放。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你开设的电游室是否在经营期间发生过任何纠纷或投诉？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有发生过纠纷或投诉。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你开设的电游室是否在经营期间向当地有关部门缴纳过任何税费？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有缴纳过任何税费。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你开设的电游室是否在经营期间向当地有关部门申请过任何经营许可？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有申请过任何经营许可。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "辩护人",
+    "content": "你开设的电游室是否在经营期间向当地社区或物业缴纳过任何管理费用？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有缴纳过任何管理费用。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人不用再问了，相关事实已经查清。",
+    "interrupt": 1,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，你开设的电游室是否在经营期间向赌博人员提供过任何形式的借贷服务？",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过借贷服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否在经营期间向赌博人员提供过任何形式的抽成或提成服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过抽成或提成服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否在经营期间向赌博人员提供过任何形式的免费筹码或赠分服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过免费筹码或赠分服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "你开设的电游室是否在经营期间向赌博人员提供过任何形式的赌博技巧指导或培训服务？",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "被告人",
+    "content": "没有提供过赌博技巧指导或培训服务。",
+    "interrupt": 2,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "好的，法庭调查环节结束。",
+    "interrupt": 0,
+    "stage": "Court_investigation"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由公诉人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明。对于控辩双方有异议，或者法庭认为有必要调查核实的证据，可以当庭进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "审判长，公诉人要求出示以下证据：",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "1.被告人在侦查阶段的供述：（1）案件经过  \n2017年4月，我在长沙市天心区黑石铺街道披塘安置小区一期8栋开设了一家无名电游室，店内放置了1组打鱼机和1组熊猫机，每组8台。我聘请了李某甲和张某甲负责日常管理运营。2017年6月21日23时许，谢某、李某乙、李某丙、连某、王某、伍某在电游室内使用机器时被公安机关查获。公安机关扣押了赌博机主板和赌资2000元。截至被查获时，我通过电游室获利约12000元。2017年8月18日，我被公安机关抓获。  \n\n（2）犯案动机  \n我开设电游室的目的是为了营利。  \n\n（3）案发之后的处理  \n我在案发后没有自首，被公安机关抓获后如实供述了罪行。目前尚未进行赔偿，也未与相关人员达成和解或取得谅解。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "2.物证：赌博用的打鱼机、熊猫机的主板和赌资人民币2000元，由公安机关依法扣押并经专业机构鉴定，出具了鉴定报告",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "3.书证：赌博机器照片，拍摄时间为2021年X月X日，地点为涉案电游室，由办案民警依法拍摄",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "4.书证：归案情况说明，由XX公安局制作，制作人王某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "5.书证：羁押证明，由XX看守所出具，出具人李某戊具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "6.书证：证据保全清单，由XX公安局制作，制作人张某丙具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "7.书证：收缴物品清单，由XX公安局制作，制作人赵某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "8.书证：微信交易记录截图，由办案民警依法提取并记录提取过程",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "9.书证：行政处罚决定书，由XX公安局制作，制作人刘某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "10.书证：户籍资料",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "11.证人证言：证人李某甲说：“我是被严某聘请来管理电游室的，主要负责日常运营和收钱。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "12.证人证言：证人张某甲说：“我也是被严某聘请的，帮忙看店和接待客人。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "13.证人证言：证人谢某说：“我在电游室玩过打鱼机，输了钱。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "14.证人证言：证人李某乙说：“我去过那家电游室几次，主要是玩熊猫机。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "15.证人证言：证人李某丙说：“我看到很多人在这里赌博，我也参与过。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "16.证人证言：证人连某说：“我在电游室玩过，知道这里是赌博的地方。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "17.证人证言：证人王某说：“我被朋友带去电游室玩过打鱼机。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "18.证人证言：证人伍某说：“我在电游室赌博时被警察抓了。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "19.证人证言：证人童某说：“我看到电游室经常有人进出，感觉是在赌博。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "20.证人证言：证人张某乙说：“我听说那家电游室可以赌博，就去玩过几次。”该证言由办案民警依法询问并制作笔录",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "21.鉴定意见：经XX鉴定机构鉴定，打鱼机和熊猫机均为具有赌博功能电子游戏设施设备，每组8台，均能独立供一人进行赌博活动操作，鉴定人陈某具有合法资质",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "22.辨认笔录：XX公安机关对赌博机器和涉案人员进行了辨认和记录，制作人周某具有合法权限",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "辩护人，对公诉人出示的上述证据有无异议？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "没有异议。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "公诉人请出示下一条证据。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "公诉人",
+    "content": "证据出示完毕。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "下面由辩护人就案件事实向法庭综合举证，可以仅就证据的名称及所证明的事项作出说明，对控辩双方有异议，或者法庭认为有必要调查核实的证据，应当出示并进行质证。",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "辩护人",
+    "content": "辩护人没有证据需要出示。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人是否申请调取新的证据、通知新的证人到庭或申请法庭重新鉴定或勘验、检查？",
+    "interrupt": 0,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "被告人",
+    "content": "不申请。",
+    "interrupt": 3,
+    "stage": "Presentation_of_evidence"
+  },
+  {
+    "role": "审判长",
+    "content": "现在进行法庭辩论。控辩双方应当围绕案件事实，证据，定罪量刑，法律适用进行辩论。由公诉人先发言。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "根据《中华人民共和国刑法》第三百零三条第二款之规定，被告人严某以营利为目的，设置16台具有赌博功能的电子游戏设备，组织赌博活动，其行为已构成开设赌场罪。本案证据确实充分，被告人供述与证人证言、物证、鉴定意见相互印证，形成完整证据链。\n\n关于量刑情节，提请法庭注意：第一，被告人设置赌博机数量达16台，根据《最高人民法院、最高人民检察院、公安部关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第二条之规定，已超过\"设置10台以上赌博机\"的立案标准，社会危害性较大；第二，被告人有赌博行政处罚劣迹，反映其主观恶性较深；第三，被告人虽未自首，但到案后如实供述罪行，具有坦白情节，依法可以从轻处罚。\n\n综合考虑被告人的犯罪事实、性质、情节及社会危害程度，建议判处有期徒刑一年至一年六个月，并处罚金。请法庭依法裁判。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "审判长，辩护人发表如下辩护意见：\n\n首先，关于被告人认罪态度。根据《刑法》第六十七条第三款，被告人到案后如实供述全部犯罪事实，具有坦白情节，依法可以从轻处罚。本案中被告人对所有指控均予以认可，认罪态度良好。\n\n其次，关于犯罪情节。虽然设置了16台赌博机，但根据证据显示，经营时间较短（2017年4月至6月），日均获利仅400-500元，总获利12000元，犯罪情节相对较轻。且未向未成年人开放，未提供借贷等加重情节的服务。\n\n再次，关于社会危害性。根据证据显示，经营期间未发生任何纠纷或投诉，未造成严重社会影响。被告人也未采取暴力、威胁等手段维持经营秩序。\n\n最后，关于量刑建议。考虑到被告人系初犯（虽有行政处罚但非刑事前科），认罪态度良好，建议法庭在法定刑幅度内从轻处罚，并考虑适用缓刑。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从轻处罚情节，公诉人补充以下意见：\n\n第一，根据《最高人民法院、最高人民检察院、公安部关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第二条第二款，设置10台以上赌博机即构成\"情节严重\"，本案被告人设置16台赌博机，已明显超出立案标准，依法应当从严惩处。\n\n第二，被告人虽认罪态度较好，但根据《刑法》第六十七条第三款，坦白情节仅是可以从轻处罚，而非应当从轻处罚。且被告人有赌博行政处罚劣迹，反映其主观恶性较深，应当从严把握从轻幅度。\n\n第三，关于辩护人提出的经营时间短、获利较少等情节，根据司法解释，开设赌场罪的社会危害性主要体现在对正常社会管理秩序的破坏，而非单纯以获利数额衡量。被告人设置专业赌博场所，配备管理人员，建立会员制度，其组织化程度较高，社会危害性不容低估。\n\n综上，建议法庭在量刑时充分考虑被告人犯罪行为的组织性、规模性及社会危害程度，依法作出公正判决。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的意见，辩护人补充以下观点：\n\n第一，虽然被告人设置16台赌博机，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条，对于坦白情节应当综合考虑犯罪性质、认罪程度及价值，给予适当从宽。本案被告人认罪彻底，且未造成严重社会后果，应当给予较大幅度的从宽。\n\n第二，关于行政处罚劣迹问题，2015年的行政处罚与本案已间隔两年，且性质不同，不应作为从重处罚的主要依据。根据《刑法》第五条罪责刑相适应原则，量刑应当与犯罪行为的客观危害性和主观恶性相适应。\n\n第三，被告人虽未自首，但在侦查阶段即全面供述犯罪事实，积极配合调查，根据《刑事诉讼法》第十五条认罪认罚从宽制度精神，应当予以从宽处理。\n\n综上，建议法庭充分考虑被告人认罪态度良好、犯罪情节相对较轻等从宽情节，在法定刑幅度内从轻处罚。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "公诉人",
+    "content": "关于辩护人提出的从宽处罚意见，公诉人补充以下观点：\n\n第一，根据《最高人民法院、最高人民检察院、公安部关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第七条，设置10台以上赌博机即应认定为刑法第三百零三条第二款规定的\"情节严重\"，依法应处三年以上十年以下有期徒刑。本案被告人设置16台赌博机，已明显超出该标准。\n\n第二，被告人虽认罪态度较好，但根据《最高人民法院关于常见犯罪的量刑指导意见》第三条第十二款，对于有前科劣迹的被告人，应当从严把握从宽幅度。被告人2015年因赌博被行政处罚，反映其屡教不改的主观恶性。\n\n第三，关于犯罪组织性问题，被告人不仅设置专业赌博场所，还建立了完整的运营体系：包括雇佣专人管理、设置监控设备、制定赌博规则、建立会员制度等，其犯罪行为的组织化程度和社会危害性不容低估。\n\n综上，建议法庭在三年以下有期徒刑幅度内量刑，并充分考虑被告人犯罪行为的严重性。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "辩护人",
+    "content": "关于公诉人提出的\"情节严重\"认定问题，辩护人认为需要特别说明：根据《最高人民法院、最高人民检察院、公安部关于办理利用赌博机开设赌场案件适用法律若干问题的意见》第二条第二款，虽然设置10台以上赌博机即构成\"情节严重\"，但本案中被告人设置的16台赌博机仅略超标准，且实际经营时间仅2个月，非法获利仅12000元，社会危害性相对有限。建议法庭在认定\"情节严重\"时充分考虑这些酌定从轻情节。\n\n关于组织化程度问题，需要指出的是被告人仅雇佣2名工作人员，未形成严密组织体系，与大型赌博场所存在本质区别。根据《刑法》第六十一条量刑原则，应当根据犯罪的事实、性质、情节和对社会的危害程度判处刑罚。本案中被告人的犯罪行为尚未造成严重社会危害后果。\n\n最后，关于前科劣迹问题，2015年的行政处罚与本案已间隔两年，且性质为行政违法而非刑事犯罪，不应过度加重被告人的刑事责任。恳请法庭在量刑时充分考虑被告人认罪态度良好、犯罪情节相对较轻等从宽情节。",
+    "interrupt": 3,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "经过法庭辩论，控辩双方均已充分发表意见，本庭已经听清并记录在案，合议庭在评议时会充分考虑。法庭辩论结束。",
+    "interrupt": 0,
+    "stage": "Court_debate"
+  },
+  {
+    "role": "审判长",
+    "content": "被告人，根据《刑事诉讼法》的有关规定，在法庭上你有权利就案件的事实，证据，罪情轻重做出最后的陈述。现在你可以进行陈述。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "被告人",
+    "content": "我深刻认识到自己的错误，愿意接受法律的惩罚。我开设电游室的行为给社会带来了不良影响，我对此深感后悔。在羁押期间，我认真反省了自己的违法行为，今后一定遵纪守法。恳请法庭能考虑我认罪态度良好、如实供述的情节，给予从轻处罚。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审需要审理的全部事项已经完成。现对本案判决如下：",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "湖南省长沙市天心区人民法院\n刑事判决书\n（2017）湘0103刑初589号\n\n公诉机关湖南省长沙市天心区人民检察院。\n被告人严某，男，1985年X月X日出生，汉族，湖南省长沙市人，初中文化，无业，住长沙市天心区。因涉嫌犯开设赌场罪于2017年8月18日被刑事拘留，同年9月15日被逮捕。现羁押于长沙市天心区看守所。\n辩护人张某，湖南XX律师事务所律师。\n\n长沙市天心区人民检察院以长天检刑诉〔2017〕589号起诉书指控被告人严某犯开设赌场罪，于2017年10月16日向本院提起公诉。本院依法组成合议庭，公开开庭审理了本案。长沙市天心区人民检察院指派检察员李某丁出庭支持公诉，被告人严某及其辩护人张某到庭参加诉讼。本案现已审理终结。\n\n长沙市天心区人民检察院指控：2017年4月以来，被告人严某在本市天心区黑石铺街道披塘安置小区一期8栋开设无名电游室，内设16台具有赌博功能的电子游戏机，并雇佣他人管理运营。截至2017年6月21日被查获时，共非法获利约人民币12000元。公诉机关认为被告人严某的行为已构成开设赌场罪，建议判处有期徒刑一年至一年六个月，并处罚金。\n\n经审理查明，2017年4月至6月21日期间，被告人严某在本市天心区黑石铺街道披塘安置小区一期8栋开设无名电游室，设置16台具有赌博功能的电子游戏机（打鱼机8台、熊猫机8台），雇佣李某甲、张某甲负责日常管理运营。该电游室通过现金兑换筹码、积分兑换现金等方式组织赌博活动，日均非法获利400-500元。2017年6月21日23时许，公安机关查获该电游室，当场抓获参赌人员6名，扣押赌博机主板及赌资2000元。截至被查获时，被告人严某共非法获利12000元。\n\n上述事实，有经庭审质证、确认的下列证据证实：\n1.被告人严某的供述与辩解；\n2.物证：赌博机主板及赌资2000元；\n3.书证：赌博机器照片、归案情况说明等；\n4.证人李某甲、张某甲等10人的证言；\n5.鉴定意见：确认涉案机器具有赌博功能；\n6.辨认笔录等。\n\n本院认为，被告人严某以营利为目的，设置16台赌博机开设赌场，其行为已构成开设赌场罪，且属\"情节严重\"。公诉机关指控的罪名成立。被告人严某曾有赌博行政处罚劣迹，酌情从重处罚；归案后如实供述罪行，具有坦白情节，依法可以从轻处罚。辩护人关于被告人认罪态度好、获利较少等辩护意见予以采纳，但关于社会危害性有限的意见不予采纳。\n\n依照《中华人民共和国刑法》第三百零三条第二款、第六十七条第三款、第六十四条之规定，判决如下：\n\n一、被告人严某犯开设赌场罪，判处有期徒刑一年，并处罚金人民币一万元；\n二、没收违法所得人民币一万二千元，上缴国库；\n三、没收扣押在案的赌博机主板及赌资人民币二千元，予以销毁。\n\n如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向湖南省长沙市中级人民法院提出上诉。书面上诉的，应交上诉状正本一份，副本二份。\n\n审判长 王某\n2017年12月15日\n书记员 李某",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请坐下。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "审判长",
+    "content": "本次庭审结束，现在闭庭。请法警将被告人带出法庭。",
+    "interrupt": 0,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "全体起立！请审判长退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请公诉人、辩护人退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "role": "书记员",
+    "content": "请旁听人员退庭。",
+    "interrupt": 3,
+    "stage": "Defendant_statement"
+  },
+  {
+    "庭审之前": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "",
+        "规划": null,
+        "目标": "",
+        "询问": ""
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": "",
+        "目标": ""
+      }
+    }
+  },
+  {
+    "法庭调查之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "举证质证之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务\n\n举证质证阶段总结：\n1. 公诉人出示了22项证据，包括：\n   - 被告人在侦查阶段的供述，证实其开设电游室的时间、地点、设备数量及获利情况\n   - 物证：赌博机主板和赌资2000元\n   - 书证：赌博机器照片、归案情况说明、羁押证明等\n   - 10名证人证言，证实电游室的赌博性质及运营情况\n   - 鉴定意见：确认赌博机具有赌博功能\n   - 辨认笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人未申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "公诉人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务\n\n举证质证阶段总结：\n1. 公诉人出示了22项证据，包括：\n   - 被告人在侦查阶段的供述，证实其开设电游室的时间、地点、设备数量及获利情况\n   - 物证：赌博机主板和赌资2000元\n   - 书证：赌博机器照片、归案情况说明、羁押证明等\n   - 10名证人证言，证实电游室的赌博性质及运营情况\n   - 鉴定意见：确认赌博机具有赌博功能\n   - 辨认笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人未申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "辩护人": {
+        "策略": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务\n\n举证质证阶段总结：\n1. 公诉人出示了22项证据，包括：\n   - 被告人在侦查阶段的供述，证实其开设电游室的时间、地点、设备数量及获利情况\n   - 物证：赌博机主板和赌资2000元\n   - 书证：赌博机器照片、归案情况说明、羁押证明等\n   - 10名证人证言，证实电游室的赌博性质及运营情况\n   - 鉴定意见：确认赌博机具有赌博功能\n   - 辨认笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人未申请调取新证据或重新鉴定。",
+        "规划": null
+      },
+      "被告人": {
+        "策略": "",
+        "记忆": ""
+      }
+    }
+  },
+  {
+    "法庭辩论之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务\n\n举证质证阶段总结：\n1. 公诉人出示了22项证据，包括：\n   - 被告人在侦查阶段的供述，证实其开设电游室的时间、地点、设备数量及获利情况\n   - 物证：赌博机主板和赌资2000元\n   - 书证：赌博机器照片、归案情况说明、羁押证明等\n   - 10名证人证言，证实电游室的赌博性质及运营情况\n   - 鉴定意见：确认赌博机具有赌博功能\n   - 辨认笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人未申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成开设赌场罪，证据确实充分\n- 指出被告人设置16台赌博机，超过10台立案标准，社会危害性大\n- 强调被告人有赌博行政处罚劣迹，主观恶性较深\n- 认可被告人坦白情节，建议判处有期徒刑1年至1年6个月并处罚金\n\n2. 辩护人发表辩护意见：\n- 强调被告人认罪态度良好，具有坦白情节\n- 指出经营时间短（2个月）、获利较少（12000元），情节较轻\n- 说明未向未成年人开放、未提供借贷等加重情节服务\n- 建议从轻处罚并考虑适用缓刑\n\n3. 公诉人补充意见：\n- 重申16台赌博机已构成\"情节严重\"\n- 指出被告人建立完整运营体系（雇佣管理、监控设备、会员制度等）\n- 认为组织化程度高，社会危害性大\n\n4. 辩护人补充辩护：\n- 认为16台仅略超标准，社会危害性有限\n- 指出雇佣人员少，与大型赌场有本质区别\n- 强调前科仅为行政违法且时隔两年\n- 再次请求从宽处理",
+        "规划": null
+      }
+    }
+  },
+  {
+    "被告人陈述之后": {
+      "审判长": {
+        "辩论焦点与查明情况": "",
+        "记忆": "\n\n法庭调查阶段总结：\n1. 公诉人讯问被告人关于开设电游室的具体情况，包括：\n   - 电游室位于长沙市天心区黑石铺街道披塘安置小区一期8栋\n   - 经营时间为下午2点至晚上12点\n   - 设有16台赌博机（1组打鱼机和1组熊猫机，每组8台）\n   - 聘请李某甲负责收银和兑换筹码，张某甲负责机器维护和安保\n   - 每日约10-15人参与赌博，日均非法获利400-500元\n   - 提供现金兑换筹码、积分兑换现金及实物奖品服务\n   - 设有监控设备、休息区、会员积分制度\n\n2. 辩护人讯问被告人关于经营资质问题：\n   - 未办理工商营业执照\n   - 未向未成年人开放\n   - 未发生过纠纷或投诉\n   - 未缴纳任何税费或管理费用\n   - 未申请任何经营许可\n\n3. 审判长补充讯问：\n   - 确认未提供借贷、抽成、免费筹码或赌博技巧指导服务\n\n举证质证阶段总结：\n1. 公诉人出示了22项证据，包括：\n   - 被告人在侦查阶段的供述，证实其开设电游室的时间、地点、设备数量及获利情况\n   - 物证：赌博机主板和赌资2000元\n   - 书证：赌博机器照片、归案情况说明、羁押证明等\n   - 10名证人证言，证实电游室的赌博性质及运营情况\n   - 鉴定意见：确认赌博机具有赌博功能\n   - 辨认笔录\n\n2. 被告人对所有出示的证据均表示无异议。\n\n3. 辩护人未出示任何证据。\n\n4. 被告人未申请调取新证据或重新鉴定。\n\n法庭辩论阶段总结：\n\n1. 公诉人发表公诉意见：\n- 指控被告人构成开设赌场罪，证据确实充分\n- 指出被告人设置16台赌博机，超过10台立案标准，社会危害性大\n- 强调被告人有赌博行政处罚劣迹，主观恶性较深\n- 认可被告人坦白情节，建议判处有期徒刑1年至1年6个月并处罚金\n\n2. 辩护人发表辩护意见：\n- 强调被告人认罪态度良好，具有坦白情节\n- 指出经营时间短（2个月）、获利较少（12000元），情节较轻\n- 说明未向未成年人开放、未提供借贷等加重情节服务\n- 建议从轻处罚并考虑适用缓刑\n\n3. 公诉人补充意见：\n- 重申16台赌博机已构成\"情节严重\"\n- 指出被告人建立完整运营体系（雇佣管理、监控设备、会员制度等）\n- 认为组织化程度高，社会危害性大\n\n4. 辩护人补充辩护：\n- 认为16台仅略超标准，社会危害性有限\n- 指出雇佣人员少，与大型赌场有本质区别\n- 强调前科仅为行政违法且时隔两年\n- 再次请求从宽处理",
+        "规划": null
+      }
+    }
+  },
+  {
+    "term": 12.0,
+    "fine": 10000.0,
+    "reprieve": 0.0
+  }
+]
