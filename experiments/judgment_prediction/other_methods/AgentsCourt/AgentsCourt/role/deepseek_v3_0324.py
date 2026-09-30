@@ -10,9 +10,9 @@ MAX_TIME=10
 load_dotenv()
 
 os.environ['BASE_URL'] = "https://svip.xty.app/v1"
-os.environ['API_KEY'] = "sk-r0WeYOdkMjzYdnSxEcC8B931Aa904e4bBaCcAc2a57D803F1"
+os.environ['API_KEY'] = "xxx"
 # os.environ['BASE_URL'] = 'https://api.siliconflow.cn/v1'
-# os.environ['API_KEY'] = 'sk-gkdahtyanpeqrloadhiqbjarcmzfqlbrpjzhummgqxnedhjw'
+# os.environ['API_KEY'] = 'xxx'
 client = openai.OpenAI(
     base_url=os.getenv("BASE_URL"),
     api_key=os.getenv("API_KEY"),

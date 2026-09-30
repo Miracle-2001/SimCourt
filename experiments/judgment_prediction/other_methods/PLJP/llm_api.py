@@ -35,8 +35,8 @@ def save_json(js,filepath,filename):
 
 def get_apillm(name):
     return APILLM(
-            api_key="JWXGr1DMcAz4yGPzPtdqHs4G",
-            api_secret="4J4sAHLH4H6VmyTu3PbGNeqIN8uqqF9Y",
+            api_key="xxx",
+            api_secret="xxx",
             platform="proxy",
             model=name,
         )

@@ -40,8 +40,8 @@ class CourtSimulation:
             self.llm = OfflineLLM(self.config["model_path"])
         elif self.config["llm_type"] == "apillm":
             self.llm = APILLM(
-                api_key="JWXGr1DMcAz4yGPzPtdqHs4G",
-                api_secret="4J4sAHLH4H6VmyTu3PbGNeqIN8uqqF9Y",
+                api_key="xxx",
+                api_secret="xxx",
                 platform="proxy",
                 model="deepseek-v3-250324",
             )

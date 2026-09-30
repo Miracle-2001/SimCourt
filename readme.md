@@ -1,100 +1,158 @@
-## A. Directory&Files introduction
+# SimCourt
 
-Introductions:
-```bash
+<p align="center">
+  <strong>Chinese Court Simulation with LLM-Based Agent System</strong>
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a> ·
+  <a href="#usage">Usage</a> ·
+  <a href="#citation">Citation</a> ·
+  <a href="#license">License</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACL%202026-Findings-5b2a86" alt="ACL 2026 Findings">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB" alt="Python 3.9 or newer">
+</p>
+
+SimCourt is an LLM-based multi-agent system for simulating Chinese court proceedings. It coordinates role-playing agents—including the judge, clerk, prosecutor, defendant, and advocate—through multiple stages of a trial. The repository contains a Gradio demo, batch simulation scripts, model adapters, legal resources, and the data and experiment organization used in the accompanying research.
+
+> **Research release:** SimCourt was accepted to **Findings of the Association for Computational Linguistics: ACL 2026**.
+>
+> **Important:** This project is a research prototype and is not a substitute for professional legal advice or a real judicial process. Model outputs may be incomplete, inaccurate, or inconsistent.
+
+## Highlights
+
+- **Multi-agent courtroom simulation** with separate legal roles and stage-specific prompts.
+- **Interactive Gradio interface** for quickly trying a case simulation.
+- **Batch execution** for running multiple cases and saving detailed logs.
+- **Pluggable LLM backends** through the clients in [`LLM/`](LLM/), including API-based and offline interfaces.
+- **Two execution modes:** a lightweight version for demonstrations and a full version with additional memory, strategy, and reflection mechanisms.
+
+## Repository structure
+
+```text
 .
-├── agent_full.py # full version of agent design
-├── agent.py # simplified version of agent design (w/o memory and strategy)
-├── api_pool # the collection of llm api
-├── data # dataset (benchmark)
-│   ├── data_generation  # data collection and generation scripts  
-│   ├── data_judgment_prediction # data used in LJP task
-│   └── data_process_evaluation # data used in process evaluation
-├── experiments
-│   ├── judgment_prediction 
-│   │   ├── LJP_results # LJP results of all methods, including SimCourt and Ablation Study
-│   │   └── other_methods # Implementation of baselines and ablation methods
-│   └── process_evaluation
-│       ├── Human_eval # annotations by human annotators
-│       ├── LLM_eval # annotations by LLM annotator
-│       └── Trials # real trials and simulation trials
-├── frontEnd.py # frontEnd design and UI design (with gradio)
-├── gradio_demo # pictures in the demo
-├── LLM # LLM client 
-├── logs # running logs
-├── main_full.py # full version of SimCourt
-├── main.py # simplified version of SimCourt (w/o reflection)
-├── multirun.py # directly run the simulation
-├── resource # resources including legal articles
-├── settings # tasks of each role (used when building profile module)
-└── test_result # 
+├── agent.py                 # Simplified agent implementation for the demo
+├── agent_full.py            # Full agent implementation
+├── main.py                 # Simplified Gradio simulation entry point
+├── main_full.py             # Full simulation entry point
+├── multirun.py              # Batch simulation runner
+├── frontEnd.py              # Gradio interface and simulation orchestration
+├── prompts.py               # Prompt utilities
+├── LLM/                    # LLM client and backend implementations
+├── api_pool/               # API helpers and local-model utilities
+├── resource/               # Legal articles and other runtime resources
+├── settings/               # Prompt, role, model, and task configuration
+├── data/                   # Dataset and benchmark files
+├── experiments/            # Evaluation scripts and experiment outputs
+├── gradio_demo/            # Generated demo media and temporary outputs
+├── logs/                   # Example and runtime logs
+├── image*.png              # README/demo screenshots
+├── SimCourt.pdf            # Project paper artifact
+├── requirements.txt        # Python dependencies
+└── LICENSE                 # MIT License
 ```
 
-Note that, 'agent.py' and 'main.py' are both simplified version, with strategy module, memory module and reflection mechanism deleted. That's because making a full simulation need approximately 40 minutes and cost 0.5$, which is time consuming and money consuming, so we used the simplified version for presentation. If you want to apply full version, **just replace 'agent.py' with 'agent_full.py' and replace 'main.py' with 'main_full.py'** 
+### Simplified and full implementations
 
+`main.py` and `agent.py` provide the simplified path used for demonstrations. It is faster and less expensive to run. `main_full.py` and `agent_full.py` retain the full simulation design, including the additional strategy, memory, and reflection components, but can take substantially longer and use more API credits. Use the simplified path first when validating your environment.
 
-## B. Start the Simulation
-To start the simulation, you have two choices: Start the simulation with UI or directly launch SimCourt through command line.
+## Installation
 
-### I. Environment
-
-The environment requirements are listed in 'requirement.txt'
+We recommend Python 3.9 or newer. A Conda environment can be created as follows:
 
 ```bash
 conda create --name SimCourt python=3.9 -y
 conda activate SimCourt
 pip install -r requirements.txt
 ```
-### II. Method1: Simulation with UI
 
-In the terminal under the current directory, using command 
+## Configuration
+
+Before starting a simulation, configure an LLM provider and model that are available to you. The main configuration and role examples are under [`settings/`](settings/); provider adapters are under [`LLM/`](LLM/), and API helper code is under [`api_pool/`](api_pool/).
+
+Keep credentials local and rotate any credentials that may have been exposed. Do **not** paste API keys, API secrets, or private endpoints into this README, commit them to Git, or share them in screenshots. Prefer environment variables or an ignored local configuration file when adapting the examples for your own deployment.
+
+## Usage
+
+### Interactive UI
+
+Launch the simplified Gradio demo from the repository root:
 
 ```bash
 python main.py
 ```
 
-Then open the gradio link in the terminal, then choose the model-type and the fill the simulation input, and click "Start Simulation".
+Open the Gradio URL printed in the terminal, choose the model configuration, enter the case information, and click **Start Simulation**.
 
-![alt text](image-2.png)
+![SimCourt Gradio interface](image-2.png)
 
-### III. Method2: Direct Simulation
+### Batch simulation
 
-First, open the file '\multirun.py', then change the 'simu_list' in the 28 line (you can add multiple ids if you want). And you may change the 'data_source' if you want.
+For repeatable or multi-case runs, edit `multirun.py` and set `simu_list`, `data_source`, and the model name for your environment. The current script provides a small example configuration:
 
-![alt text](image.png)
+```python
+simu_list = [1]
+data_source = "video"  # or "LJP"
+```
 
-
-'data_source' can be chosen from 'video' or 'LJP'. When choosing 'video', it means simulating the data in 'data/data_video' while choosing 'LJP' means simulating the data in 'data/data_LJP'.
-
-If you choose 'video' as the source, then the ids in 'simu_list' should be in the range of [1,20]. If you choose 'LJP' as the source, then the ids in 'simu_list' should be one of {0,1,2,3,4,10,11,12,13,14,...,390,391,392,393,394}
-
-Then, in the terminal under the current directory, using command 
+Then run:
 
 ```bash
 python multirun.py
 ```
 
-to start the simulation. 
-
-You are also recommended using 
+To preserve the detailed output in a timestamped log:
 
 ```bash
 python multirun.py > "logs/multirun_$(date '+%m%d_%H%M%S').log" 2>&1
 ```
 
-to save the process and details of the simulation.
+The original simulation conventions are:
 
-<!-- Note: the simulation may takes over 30~50 minutes, which depends on the complexity of the case and api. -->
+- `video`: cases from the video-based data source; IDs are expected in the range `[1, 20]`.
+- `LJP`: cases from the legal judgment prediction data source; use an ID supported by the files available under `data/`.
 
+A simulation can take roughly **30–50 minutes**, depending on the case, model provider, and network conditions. API usage may incur provider charges; the historical estimate in this project was approximately **US$0.50 per trial**, but current costs depend on the selected model and prompt lengths.
 
+### Full simulation
 
+After confirming that the simplified demo works, use the full entry point when you need the complete agent design:
 
+```bash
+python main_full.py
+```
 
+The full version is intended for research experiments and may require additional configuration and significantly more time or API budget.
 
+## Demo
 
-## C.Note: 
-1.We provided an api for llm calling in 
-./api_pool/api_pool.py
-![alt text](image-1.png). The quota is approximately 2.5\$. If the API quota is used up, please fill in your own API and the operator's URL. The cost is about 0.5\$ per trial. 
+The repository includes example outputs and screenshots:
 
-2.We will provide the calling function of LegalOne once the paper is accepted. So currently we commented the 'yilvkezhi' function in agent.py and do not use that tool in the demo.
+![Simulation workflow](image.png)
+
+![Simulation output](image-1.png)
+
+For experiment artifacts, see [`data/`](data/), [`experiments/`](experiments/), and [`logs/`](logs/).
+
+## Limitations and notes
+
+- Results depend on the selected LLM, prompts, case representation, and API availability.
+- The system is for research and demonstration; it should not be used to make legal, judicial, or other high-impact decisions.
+- The LegalOne-related `yilvkezhi` integration remains commented out in the demo path and is not required to run the standard simulation.
+- Please check the terms, privacy requirements, and usage limits of every model or data provider used with this repository.
+
+## Citation
+
+If you use this repository or dataset, please cite:
+
+> Kaiyuan Zhang et al., *Chinese Court Simulation with LLM-Based Agent System*, Findings of the Association for Computational Linguistics: ACL 2026.
+
+## License
+
+The data in this repository is licensed under the MIT License. The software and accompanying materials are also distributed under the MIT License; see [`LICENSE`](LICENSE) for the complete text.
+
+If you use this dataset, please cite: Kaiyuan Zhang et al., *Chinese Court Simulation with LLM-Based Agent System*, Findings of the Association for Computational Linguistics: ACL 2026.

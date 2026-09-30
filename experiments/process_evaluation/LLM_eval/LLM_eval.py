@@ -101,7 +101,7 @@ def query_model(instruction: str, prompt: str, temperature: float = 0.7, max_tok
         模型返回的内容
     """
     client = openai.OpenAI(
-        api_key="sk-tF_JyVDc4Os3XxBOjtE9bg",
+        api_key="xxx",
         base_url="https://llmapi.paratera.com/v1/"
     )
 

@@ -24,7 +24,7 @@ MAX_TIME=10
 load_dotenv()
 
 os.environ['BASE_URL'] = "https://svip.xty.app/v1"
-os.environ['API_KEY'] = "sk-IDaJAtYpgbgprsWRGBeVpQtmL4ddqTtElxbSYcr3eNMdACzG"
+os.environ['API_KEY'] = "xxx"
 
 
 client = openai.OpenAI(
@@ -106,7 +106,7 @@ def query_model(messages, model_name, sys_msg=None, temperature=0.7, max_tokens=
         }
     elif model_name == "glm-4-air":
         # https://open.bigmodel.cn/dev/api/normal-model/glm-4#sdk
-        client = ZhipuAI(api_key="d53d76ddaf28b10adb14ff67deb7196f.LEtOwntH3vx08gP1") 
+        client = ZhipuAI(api_key="xxx")
         response = client.chat.completions.create(
             model=model_name,
             messages=messages,
